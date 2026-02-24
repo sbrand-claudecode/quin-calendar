@@ -255,7 +255,10 @@ async function fetchAllEvents(token) {
   // Fetch all events (up to 200 to be safe)
   const listUrl = `${BASE_URL}/api/events?group=events&order_by=start_date&page_size=200&page_number=1`;
   const listRes = await fetch(listUrl, { headers });
-  if (!listRes.ok) throw new Error(`Events list failed: ${listRes.status}`);
+  if (!listRes.ok) {
+    const body = await listRes.text();
+    throw new Error(`Events list failed: ${listRes.status} - ${body}`);
+  }
   const events = await listRes.json();
 
   console.log(`Fetched ${events.length} events from listing`);
