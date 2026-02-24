@@ -173,20 +173,26 @@ function buildIcs(events) {
 
 async function getToken(page) {
   // Navigate to login page
-  await page.goto(`${BASE_URL}/login`, { waitUntil: 'networkidle' });
+  await page.goto(`${BASE_URL}/login`, { waitUntil: 'domcontentloaded' });
+  await page.waitForSelector('input[type="text"]', { timeout: 15000 });
+  await page.waitForTimeout(1000);
 
-  // Step 1: Enter email
+  // Step 1: Enter email and submit
   await page.fill('input[type="text"]', EMAIL);
-  await page.click('button[type="submit"]');
-  await page.waitForSelector('input[type="password"]', { timeout: 10000 });
+  await page.waitForTimeout(500);
+  await page.evaluate(() => document.querySelector('button[type="submit"]').click());
+  await page.waitForSelector('input[type="password"]', { timeout: 15000 });
+  await page.waitForTimeout(500);
 
-  // Step 2: Enter password
+  // Step 2: Enter password and submit
   await page.fill('input[type="password"]', PASSWORD);
-  await page.click('button[type="submit"]');
+  await page.waitForTimeout(500);
+  await page.evaluate(() => document.querySelector('button[type="submit"]').click());
 
   // Wait for redirect away from login
-  await page.waitForURL(url => !url.includes('/login'), { timeout: 15000 });
-  await page.waitForLoadState('networkidle');
+  await page.waitForURL(url => !url.includes('/login'), { timeout: 30000 });
+  await page.waitForLoadState('domcontentloaded');
+  await page.waitForTimeout(2000);
 
   // Extract token from localStorage
   const raw = await page.evaluate(() => localStorage.getItem('pv.token'));
