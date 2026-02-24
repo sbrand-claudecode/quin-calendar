@@ -185,8 +185,8 @@ async function getToken(page) {
   console.log('  Filling email...');
   await page.fill('input[type="text"]', EMAIL);
   await page.waitForTimeout(800);
-  console.log('  Clicking submit (email step)...');
-  await page.evaluate(() => document.querySelector('button[type="submit"]').click());
+  console.log('  Pressing Enter to submit email...');
+  await page.keyboard.press('Enter');
 
   console.log('  Waiting for password field...');
   await page.waitForSelector('input[type="password"]', { timeout: 15000 });
@@ -197,8 +197,8 @@ async function getToken(page) {
   console.log('  Filling password...');
   await page.fill('input[type="password"]', PASSWORD);
   await page.waitForTimeout(800);
-  console.log('  Clicking submit (password step)...');
-  await page.evaluate(() => document.querySelector('button[type="submit"]').click());
+  console.log('  Pressing Enter to submit password...');
+  await page.keyboard.press('Enter');
 
   // Wait for redirect away from login
   console.log('  Waiting for post-login redirect...');
@@ -213,8 +213,17 @@ async function getToken(page) {
     console.error('  Page title:', await page.title());
     console.error('  Screenshot saved to:', screenshotPath);
     // Log visible text to help diagnose
-    const bodyText = await page.evaluate(() => document.body.innerText.substring(0, 1000));
+    const bodyText = await page.evaluate(() => document.body.innerText.substring(0, 2000));
     console.error('  Page body text:', bodyText);
+    // Log all input values and any error/alert elements
+    const debug = await page.evaluate(() => {
+      const inputs = [...document.querySelectorAll('input')].map(i => `${i.type}="${i.value}"`);
+      const alerts = [...document.querySelectorAll('[class*="error"],[class*="alert"],[class*="message"],[role="alert"]')]
+        .map(el => el.innerText);
+      return { inputs, alerts };
+    });
+    console.error('  Input values:', JSON.stringify(debug.inputs));
+    console.error('  Error/alert elements:', JSON.stringify(debug.alerts));
     throw err;
   }
   await page.waitForLoadState('domcontentloaded');
