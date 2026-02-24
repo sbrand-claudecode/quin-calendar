@@ -1,0 +1,16 @@
+{
+  "name": "quin-calendar",
+  "version": "1.0.0",
+  "description": "Scrapes The 'Quin House member portal and generates an ICS calendar feed",
+  "main": "scrape.js",
+  "scripts": {
+    "start": "node scrape.js"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "playwright": "^1.41.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
