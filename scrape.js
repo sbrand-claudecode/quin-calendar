@@ -190,7 +190,7 @@ async function getToken(page) {
   await page.evaluate(() => document.querySelector('button[type="submit"]').click());
 
   // Wait for redirect away from login
-  await page.waitForURL(url => !url.includes('/login'), { timeout: 30000 });
+  await page.waitForURL(url => !url.toString().includes('/login'), { timeout: 30000 });
   await page.waitForLoadState('domcontentloaded');
   await page.waitForTimeout(2000);
 
