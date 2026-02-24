@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head><title>Quin House Calendar</title></head>
+<body>
+<h2>The 'Quin House Events Calendar</h2>
+<p>Subscribe to this calendar in Google Calendar using the URL:</p>
+<code id="url"></code>
+<script>
+  const u = window.location.href.replace('index.html','') + 'calendar.ics';
+  document.getElementById('url').textContent = u;
+</script>
+</body>
+</html>
