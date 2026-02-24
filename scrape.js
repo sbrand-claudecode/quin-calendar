@@ -252,8 +252,8 @@ async function fetchAllEvents(token) {
     'Accept': 'application/json',
   };
 
-  // Fetch all events (up to 200 to be safe)
-  const listUrl = `${BASE_URL}/api/events?group=events&order_by=start_date&page_size=200&page_number=1`;
+  // Fetch all events (API max is 100 per page)
+  const listUrl = `${BASE_URL}/api/events?group=events&order_by=start_date&page_size=100&page_number=1`;
   const listRes = await fetch(listUrl, { headers });
   if (!listRes.ok) {
     const body = await listRes.text();
