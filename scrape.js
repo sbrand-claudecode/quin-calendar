@@ -173,26 +173,53 @@ function buildIcs(events) {
 
 async function getToken(page) {
   // Navigate to login page
+  console.log('  Navigating to login page...');
   await page.goto(`${BASE_URL}/login`, { waitUntil: 'domcontentloaded' });
+  console.log('  Current URL:', page.url());
+
+  console.log('  Waiting for email field...');
   await page.waitForSelector('input[type="text"]', { timeout: 15000 });
-  await page.waitForTimeout(1000);
+  await page.waitForTimeout(1500);
 
   // Step 1: Enter email and submit
+  console.log('  Filling email...');
   await page.fill('input[type="text"]', EMAIL);
-  await page.waitForTimeout(500);
+  await page.waitForTimeout(800);
+  console.log('  Clicking submit (email step)...');
   await page.evaluate(() => document.querySelector('button[type="submit"]').click());
+
+  console.log('  Waiting for password field...');
   await page.waitForSelector('input[type="password"]', { timeout: 15000 });
-  await page.waitForTimeout(500);
+  console.log('  Password field appeared, current URL:', page.url());
+  await page.waitForTimeout(800);
 
   // Step 2: Enter password and submit
+  console.log('  Filling password...');
   await page.fill('input[type="password"]', PASSWORD);
-  await page.waitForTimeout(500);
+  await page.waitForTimeout(800);
+  console.log('  Clicking submit (password step)...');
   await page.evaluate(() => document.querySelector('button[type="submit"]').click());
 
   // Wait for redirect away from login
-  await page.waitForURL(url => !url.toString().includes('/login'), { timeout: 30000 });
+  console.log('  Waiting for post-login redirect...');
+  try {
+    await page.waitForURL(url => !url.toString().includes('/login'), { timeout: 45000 });
+  } catch (err) {
+    // Take a screenshot to see what the page looks like
+    const screenshotPath = path.join(OUT_DIR, 'login-debug.png');
+    fs.mkdirSync(OUT_DIR, { recursive: true });
+    await page.screenshot({ path: screenshotPath, fullPage: true });
+    console.error('  Login redirect timed out. Current URL:', page.url());
+    console.error('  Page title:', await page.title());
+    console.error('  Screenshot saved to:', screenshotPath);
+    // Log visible text to help diagnose
+    const bodyText = await page.evaluate(() => document.body.innerText.substring(0, 1000));
+    console.error('  Page body text:', bodyText);
+    throw err;
+  }
   await page.waitForLoadState('domcontentloaded');
   await page.waitForTimeout(2000);
+  console.log('  Redirected to:', page.url());
 
   // Extract token from localStorage
   const raw = await page.evaluate(() => localStorage.getItem('pv.token'));
@@ -248,7 +275,11 @@ async function fetchAllEvents(token) {
 async function main() {
   console.log('Launching browser...');
   const browser = await chromium.launch({ headless: true });
-  const context = await browser.newContext();
+  const context = await browser.newContext({
+    userAgent: 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36',
+    viewport: { width: 1280, height: 800 },
+    locale: 'en-US',
+  });
   const page = await context.newPage();
 
   let token;
