@@ -132,3 +132,25 @@ Personal status now takes precedence over event-level status:
 - `event.registered === true` → `Status: You are Confirmed`
 - `event.waitlist.id` is set → `Status: You are on Waitlist`
 - Otherwise → falls back to the event-level status as before (Sold Out, Available, Unavailable, etc.)
+
+### 2026-02-25 — Personal calendar (quin.ics) + local filter script
+
+**New feature:** Two ways to get a personal calendar containing only events you are confirmed or waitlisted for.
+
+**Part 1 — `scrape.js` now writes `quin.ics` alongside `calendar.ics`**
+
+During the GitHub Actions run, after writing the full `calendar.ics`, the scraper filters events to those where `event.registered === true` or `event.waitlist.id` is set, and writes a second file `public/quin.ics` (calendar name "Quin") to GitHub Pages. No extra login or API calls required.
+
+**Part 2 — New `filter.js` local script (no credentials required)**
+
+Run `npm run filter` on your Mac to produce `quin.ics` locally. The script:
+1. Fetches the published `calendar.ics` from GitHub Pages (public URL, no login)
+2. Splits it into individual VEVENT blocks (unfolding ICS line continuations first)
+3. Keeps only events whose description contains `Status: You are Confirmed` or `Status: You are on Waitlist`
+4. Wraps them in a VCALENDAR envelope named "Quin" and writes `./quin.ics`
+
+**Local workflow:**
+1. `npm run filter`
+2. Double-click `quin.ics` in Finder → Apple Calendar import dialog
+3. Assign to a "Quin" calendar (create it on first import)
+4. Repeat whenever you want a refresh (events are editable after import, unlike a subscription)
