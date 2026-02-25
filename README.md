@@ -119,3 +119,16 @@ Events whose `availability` field contains `"unavailable"` (e.g. *"Event Unavail
 **Fix 2 — HTML entities in event descriptions**
 
 Event descriptions containing named HTML entities (`&ndash;`, `&eacute;`, `&rsquo;`, `&ldquo;`, etc.) were being passed through as raw text. Replaced the small set of hardcoded entity substitutions with the `he` library, which decodes all HTML5 named and numeric entities. Example: `"Condé Nast&rsquo;s"` now renders as `"Condé Nast's"`.
+
+### 2026-02-25 — Personal registration status
+
+**Problem:** The `Status:` line showed the generic event-level availability (e.g. "Waitlist Only") even for events where the user had a personal registration state — a confirmed ticket or a waitlist position.
+
+**Fix:** The API response includes two personal-status fields (discovered via a diagnostic log run):
+- `event.registered` — `true` when the user holds a confirmed ticket
+- `event.waitlist.id` — non-zero when the user is on the waitlist
+
+Personal status now takes precedence over event-level status:
+- `event.registered === true` → `Status: You are Confirmed`
+- `event.waitlist.id` is set → `Status: You are on Waitlist`
+- Otherwise → falls back to the event-level status as before (Sold Out, Available, Unavailable, etc.)
