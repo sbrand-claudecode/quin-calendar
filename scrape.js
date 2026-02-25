@@ -165,7 +165,7 @@ function buildDescription(event, timeNote) {
   return parts.join('\n');
 }
 
-function buildIcs(events) {
+function buildIcs(events, calendarName = "The 'Quin House Events") {
   const lines = [];
 
   lines.push('BEGIN:VCALENDAR');
@@ -173,7 +173,7 @@ function buildIcs(events) {
   lines.push('PRODID:-//Quin House Calendar//EN');
   lines.push('CALSCALE:GREGORIAN');
   lines.push('METHOD:PUBLISH');
-  lines.push('X-WR-CALNAME:The \'Quin House Events');
+  lines.push(`X-WR-CALNAME:${calendarName}`);
   lines.push('X-WR-TIMEZONE:America/New_York');
   lines.push('X-WR-CALDESC:Upcoming programming at The \'Quin House member club');
 
@@ -377,12 +377,19 @@ async function main() {
   const events = await fetchAllEvents(token);
   console.log(`Processing ${events.length} events`);
 
-  const icsContent = buildIcs(events);
-
   fs.mkdirSync(OUT_DIR, { recursive: true });
+
   const outPath = path.join(OUT_DIR, 'calendar.ics');
-  fs.writeFileSync(outPath, icsContent, 'utf8');
+  fs.writeFileSync(outPath, buildIcs(events), 'utf8');
   console.log(`Written: ${outPath} (${events.length} events)`);
+
+  // Personal calendar — only events the user is registered for or waitlisted on
+  const personalEvents = events.filter(e =>
+    e.registered === true || (e.waitlist && e.waitlist.id)
+  );
+  const personalPath = path.join(OUT_DIR, 'quin.ics');
+  fs.writeFileSync(personalPath, buildIcs(personalEvents, 'Quin'), 'utf8');
+  console.log(`Written: ${personalPath} (${personalEvents.length} personal events)`);
 
   // Also write a simple index.html for the GitHub Pages root
   const indexPath = path.join(OUT_DIR, 'index.html');

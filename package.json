@@ -4,7 +4,8 @@
   "description": "Scrapes The 'Quin House member portal and generates an ICS calendar feed",
   "main": "scrape.js",
   "scripts": {
-    "start": "node scrape.js"
+    "start": "node scrape.js",
+    "filter": "node filter.js"
   },
   "dependencies": {
     "he": "^1.2.0",
