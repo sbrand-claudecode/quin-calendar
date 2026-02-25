@@ -331,6 +331,10 @@ async function fetchAllEvents(token) {
       const detailRes = await fetch(`${BASE_URL}/api/events/${event.id}`, { headers });
       if (detailRes.ok) {
         const detail = await detailRes.json();
+        // TEMP DIAGNOSTIC — dump full JSON for specific events to expose personal-status fields
+        if (['167495'].includes(String(detail.id))) {
+          console.log(`DEBUG event ${detail.id}:`, JSON.stringify(detail, null, 2));
+        }
         detailed.push(detail);
       } else {
         console.warn(`  Could not fetch detail for event ${event.id}: ${detailRes.status}`);
