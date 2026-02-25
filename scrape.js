@@ -135,6 +135,11 @@ function buildDescription(event, timeNote) {
     parts.push('Status: Waitlist Only');
   } else if (avail === 'available') {
     parts.push('Status: Available');
+  } else if (avail && avail.toLowerCase().includes('unavailable')) {
+    parts.push('Status: Unavailable');
+  } else if (avail) {
+    // Catch-all: surface any future unrecognised status rather than silently drop it
+    parts.push(`Status: ${avail}`);
   }
 
   // Time note (inserted for all-day events that span 4+ hours)
