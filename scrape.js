@@ -340,6 +340,10 @@ async function fetchAllEvents(token) {
       const detailRes = await fetch(`${BASE_URL}/api/events/${event.id}`, { headers });
       if (detailRes.ok) {
         const detail = await detailRes.json();
+        // DIAGNOSTIC: log waitlist + registered fields for specific events
+        if ([173774, 167495].includes(event.id)) {
+          console.log(`DIAG event ${event.id}: registered=${JSON.stringify(detail.registered)} waitlist=${JSON.stringify(detail.waitlist)}`);
+        }
         detailed.push(detail);
       } else {
         console.warn(`  Could not fetch detail for event ${event.id}: ${detailRes.status}`);
