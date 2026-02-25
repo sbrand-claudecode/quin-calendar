@@ -46,6 +46,37 @@ function toIcsDate(localDateStr) {
   return localDateStr.replace(/[-:]/g, '').replace('T', 'T').split('.')[0];
 }
 
+function toIcsDateOnly(datePart) {
+  // datePart is 'YYYY-MM-DD' → 'YYYYMMDD' (for all-day VALUE=DATE events)
+  return datePart.replace(/-/g, '');
+}
+
+function nextDayIcs(datePart) {
+  // Returns 'YYYYMMDD' for the calendar day after datePart (ICS exclusive-end for all-day events)
+  const d = new Date(datePart + 'T12:00:00Z');
+  d.setUTCDate(d.getUTCDate() + 1);
+  const y = d.getUTCFullYear();
+  const m = String(d.getUTCMonth() + 1).padStart(2, '0');
+  const day = String(d.getUTCDate()).padStart(2, '0');
+  return `${y}${m}${day}`;
+}
+
+function formatTime(timeStr) {
+  // timeStr like "10:00:00" → "10:00 AM"  /  "18:30:00" → "6:30 PM"
+  const [h, min] = timeStr.split(':').map(Number);
+  const ampm = h >= 12 ? 'PM' : 'AM';
+  const hour12 = h % 12 || 12;
+  const minStr = min > 0 ? `:${String(min).padStart(2, '0')}` : '';
+  return `${hour12}${minStr} ${ampm}`;
+}
+
+function getDurationHours(startTimeStr, endTimeStr) {
+  // Both strings are 'HH:MM:SS'; returns decimal hours (end − start)
+  const [sh, sm] = startTimeStr.split(':').map(Number);
+  const [eh, em] = endTimeStr.split(':').map(Number);
+  return (eh + em / 60) - (sh + sm / 60);
+}
+
 function escapeIcs(str) {
   if (!str) return '';
   return str
@@ -70,7 +101,8 @@ function foldLine(line) {
   return chunks.join('\r\n ') + '\r\n';
 }
 
-function buildDescription(event) {
+function buildDescription(event, timeNote) {
+  // timeNote: optional string like "10:00 AM – 6:00 PM", shown for all-day (4 h+) events
   const parts = [];
 
   // Category
@@ -105,6 +137,11 @@ function buildDescription(event) {
     parts.push('Status: Available');
   }
 
+  // Time note (inserted for all-day events that span 4+ hours)
+  if (timeNote) {
+    parts.push(`Time: ${timeNote}`);
+  }
+
   // Event URL
   parts.push(`Event URL: ${BASE_URL}/events/${event.id}`);
 
@@ -116,6 +153,21 @@ function buildDescription(event) {
   if (desc) parts.push(desc);
 
   return parts.join('\n');
+}
+
+// Returns an array of date strings ('YYYY-MM-DD') for each day from startDate to endDate inclusive
+function eachDay(startDateStr, endDateStr) {
+  const days = [];
+  // Parse as local date (no timezone shift) by using noon UTC to avoid DST edge cases
+  const start = new Date(startDateStr + 'T12:00:00Z');
+  const end   = new Date(endDateStr   + 'T12:00:00Z');
+  for (let d = new Date(start); d <= end; d.setUTCDate(d.getUTCDate() + 1)) {
+    const y = d.getUTCFullYear();
+    const m = String(d.getUTCMonth() + 1).padStart(2, '0');
+    const day = String(d.getUTCDate()).padStart(2, '0');
+    days.push(`${y}-${m}-${day}`);
+  }
+  return days;
 }
 
 function buildIcs(events) {
@@ -136,32 +188,66 @@ function buildIcs(events) {
 
     if (!startLocal || !startLocal.date) continue;
 
-    const dtStart = toIcsDate(startLocal.date);
-    const dtEnd = endLocal && endLocal.date ? toIcsDate(endLocal.date) : dtStart;
-
-    const uid = `quin-event-${event.id}@thequinhouse.com`;
     const now = new Date().toISOString().replace(/[-:.]/g, '').slice(0, 15) + 'Z';
-
     const title = event.title || 'Quin House Event';
     const venue = event.venue ? event.venue.trim() : '';
-    const description = buildDescription(event);
 
-    lines.push('BEGIN:VEVENT');
-    lines.push(`UID:${uid}`);
-    lines.push(`DTSTAMP:${now}`);
-    lines.push(`DTSTART;TZID=America/New_York:${dtStart}`);
-    lines.push(`DTEND;TZID=America/New_York:${dtEnd}`);
-    lines.push(`SUMMARY:${escapeIcs(title)}`);
-    if (venue) lines.push(`LOCATION:${escapeIcs(venue)}`);
-    lines.push(`DESCRIPTION:${escapeIcs(description)}`);
-    lines.push(`URL:${BASE_URL}/events/${event.id}`);
+    // Split ISO-like strings into date and time parts
+    const startDatePart = startLocal.date.split('T')[0];               // 'YYYY-MM-DD'
+    const startTimePart = (startLocal.date.split('T')[1] || '00:00:00').split('.')[0]; // 'HH:MM:SS'
+    const endDatePart   = endLocal && endLocal.date ? endLocal.date.split('T')[0] : startDatePart;
+    const endTimePart   = endLocal && endLocal.date
+      ? (endLocal.date.split('T')[1] || startTimePart).split('.')[0]
+      : startTimePart;
 
-    // Categories as ICS CATEGORIES field
-    if (event.categories && event.categories.length > 0) {
-      lines.push(`CATEGORIES:${event.categories.map(c => escapeIcs(c.name)).join(',')}`);
+    const isMultiDay    = startDatePart !== endDatePart;
+
+    // Duration of a single occurrence (per-day for multi-day, or full span for single-day)
+    const durationHours = getDurationHours(startTimePart, endTimePart);
+    const isAllDay      = durationHours >= 4;
+
+    // Human-readable time note added to the description for all-day events
+    const timeNote = isAllDay
+      ? `${formatTime(startTimePart)} \u2013 ${formatTime(endTimePart)}`
+      : null;
+
+    // Helper: push one VEVENT for a given calendar day
+    function emitEvent(dayStr, uidSuffix) {
+      const uid         = `quin-event-${event.id}${uidSuffix}@thequinhouse.com`;
+      const description = buildDescription(event, timeNote);
+
+      lines.push('BEGIN:VEVENT');
+      lines.push(`UID:${uid}`);
+      lines.push(`DTSTAMP:${now}`);
+
+      if (isAllDay) {
+        // All-day format: VALUE=DATE, no time component, no TZID
+        lines.push(`DTSTART;VALUE=DATE:${toIcsDateOnly(dayStr)}`);
+        lines.push(`DTEND;VALUE=DATE:${nextDayIcs(dayStr)}`);
+      } else {
+        // Timed format: reconstruct full datetime from day + time
+        lines.push(`DTSTART;TZID=America/New_York:${toIcsDate(`${dayStr}T${startTimePart}`)}`);
+        lines.push(`DTEND;TZID=America/New_York:${toIcsDate(`${dayStr}T${endTimePart}`)}`);
+      }
+
+      lines.push(`SUMMARY:${escapeIcs(title)}`);
+      if (venue) lines.push(`LOCATION:${escapeIcs(venue)}`);
+      lines.push(`DESCRIPTION:${escapeIcs(description)}`);
+      lines.push(`URL:${BASE_URL}/events/${event.id}`);
+      if (event.categories && event.categories.length > 0) {
+        lines.push(`CATEGORIES:${event.categories.map(c => escapeIcs(c.name)).join(',')}`);
+      }
+      lines.push('END:VEVENT');
     }
 
-    lines.push('END:VEVENT');
+    if (isMultiDay) {
+      // One VEVENT per day (same start/end time each day)
+      eachDay(startDatePart, endDatePart).forEach((dayStr, i) => {
+        emitEvent(dayStr, `-day${i + 1}`);
+      });
+    } else {
+      emitEvent(startDatePart, '');
+    }
   }
 
   lines.push('END:VCALENDAR');
