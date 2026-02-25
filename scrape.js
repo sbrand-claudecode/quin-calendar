@@ -123,19 +123,28 @@ function buildDescription(event, timeNote) {
     parts.push('Price: Free / Included');
   }
 
-  // Overall availability status
-  const avail = event.availability;
-  if (avail === 'sold_out') {
-    parts.push('Status: Sold Out');
-  } else if (avail === 'waitlist') {
-    parts.push('Status: Waitlist Only');
-  } else if (avail === 'available') {
-    parts.push('Status: Available');
-  } else if (avail && avail.toLowerCase().includes('unavailable')) {
-    parts.push('Status: Unavailable');
-  } else if (avail) {
-    // Catch-all: surface any future unrecognised status rather than silently drop it
-    parts.push(`Status: ${avail}`);
+  // Personal registration status takes precedence over event-level status
+  const isConfirmed  = event.registered === true;
+  const isOnWaitlist = event.waitlist && event.waitlist.id;
+
+  if (isConfirmed) {
+    parts.push('Status: You are Confirmed');
+  } else if (isOnWaitlist) {
+    parts.push('Status: You are on Waitlist');
+  } else {
+    // Fall back to event-level availability status
+    const avail = event.availability;
+    if (avail === 'sold_out') {
+      parts.push('Status: Sold Out');
+    } else if (avail === 'waitlist') {
+      parts.push('Status: Waitlist Only');
+    } else if (avail === 'available') {
+      parts.push('Status: Available');
+    } else if (avail && avail.toLowerCase().includes('unavailable')) {
+      parts.push('Status: Unavailable');
+    } else if (avail) {
+      parts.push(`Status: ${avail}`);
+    }
   }
 
   // Time note (inserted for all-day events that span 4+ hours)
@@ -331,10 +340,6 @@ async function fetchAllEvents(token) {
       const detailRes = await fetch(`${BASE_URL}/api/events/${event.id}`, { headers });
       if (detailRes.ok) {
         const detail = await detailRes.json();
-        // TEMP DIAGNOSTIC — dump full JSON for specific events to expose personal-status fields
-        if (['167495'].includes(String(detail.id))) {
-          console.log(`DEBUG event ${detail.id}:`, JSON.stringify(detail, null, 2));
-        }
         detailed.push(detail);
       } else {
         console.warn(`  Could not fetch detail for event ${event.id}: ${detailRes.status}`);
