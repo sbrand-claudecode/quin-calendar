@@ -125,7 +125,7 @@ function buildDescription(event, timeNote) {
 
   // Personal registration status takes precedence over event-level status
   const isConfirmed  = event.registered === true;
-  const isOnWaitlist = event.waitlist && event.waitlist.id;
+  const isOnWaitlist = event._waitlistSubmitted === true;
 
   if (isConfirmed) {
     parts.push('Status: You are Confirmed');
@@ -333,43 +333,29 @@ async function fetchAllEvents(token) {
 
   console.log(`Fetched ${events.length} events from listing`);
 
-  // DIAGNOSTIC: log listing-level data for specific events
-  for (const e of events) {
-    if ([173774, 167495].includes(e.id)) {
-      console.log(`DIAG LIST event ${e.id} keys: ${Object.keys(e).join(', ')}`);
-      console.log(`DIAG LIST event ${e.id}: registered=${JSON.stringify(e.registered)} waitlist=${JSON.stringify(e.waitlist)} availability=${JSON.stringify(e.availability)}`);
-    }
-  }
-
-  // Fetch detail for each event (for full description + ticket pricing)
+  // Fetch detail for each event (for full description, ticket pricing, and personal waitlist status)
   const detailed = [];
   for (const event of events) {
     try {
       const detailRes = await fetch(`${BASE_URL}/api/events/${event.id}`, { headers });
       if (detailRes.ok) {
         const detail = await detailRes.json();
-        // DIAGNOSTIC: log all personal-status-related fields for specific events
-        if ([173774, 167495].includes(event.id)) {
-          const keys = Object.keys(detail);
-          console.log(`DIAG event ${event.id} keys: ${keys.join(', ')}`);
-          console.log(`DIAG event ${event.id}: registered=${JSON.stringify(detail.registered)}`);
-          console.log(`DIAG event ${event.id}: waitlist=${JSON.stringify(detail.waitlist)}`);
-          console.log(`DIAG event ${event.id}: settings=${JSON.stringify(detail.settings)}`);
-          // Fetch the waitlist survey endpoint to check personal enrollment
-          if (detail.waitlist && detail.waitlist.endpoint) {
-            try {
-              const surveyRes = await fetch(`${BASE_URL}/${detail.waitlist.endpoint}`, { headers });
-              console.log(`DIAG event ${event.id}: survey status=${surveyRes.status}`);
-              if (surveyRes.ok) {
-                const surveyData = await surveyRes.json();
-                console.log(`DIAG event ${event.id}: survey keys=${Object.keys(surveyData).join(', ')}`);
-                console.log(`DIAG event ${event.id}: survey has_submitted=${JSON.stringify(surveyData.has_submitted)} can_submit=${JSON.stringify(surveyData.can_submit)}`);
-              }
-            } catch (e) {
-              console.log(`DIAG event ${event.id}: survey error=${e.message}`);
+
+        // Fetch the waitlist survey endpoint to determine personal waitlist enrollment.
+        // The event.waitlist object is an event-level config (same template ID across all events);
+        // the survey's has_submitted field is the only reliable per-user indicator.
+        if (detail.waitlist && detail.waitlist.endpoint) {
+          try {
+            const surveyRes = await fetch(`${BASE_URL}/${detail.waitlist.endpoint}`, { headers });
+            if (surveyRes.ok) {
+              const surveyData = await surveyRes.json();
+              detail._waitlistSubmitted = surveyData.has_submitted === true;
             }
+          } catch (e) {
+            // Non-fatal: leave _waitlistSubmitted undefined
           }
         }
+
         detailed.push(detail);
       } else {
         console.warn(`  Could not fetch detail for event ${event.id}: ${detailRes.status}`);
@@ -415,7 +401,7 @@ async function main() {
 
   // Personal calendar — only events the user is registered for or waitlisted on
   const personalEvents = events.filter(e =>
-    e.registered === true || (e.waitlist && e.waitlist.id)
+    e.registered === true || e._waitlistSubmitted === true
   );
   const personalPath = path.join(OUT_DIR, 'quin.ics');
   fs.writeFileSync(personalPath, buildIcs(personalEvents, 'Quin'), 'utf8');
