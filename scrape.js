@@ -355,10 +355,19 @@ async function fetchAllEvents(token) {
           console.log(`DIAG event ${event.id}: registered=${JSON.stringify(detail.registered)}`);
           console.log(`DIAG event ${event.id}: waitlist=${JSON.stringify(detail.waitlist)}`);
           console.log(`DIAG event ${event.id}: settings=${JSON.stringify(detail.settings)}`);
-          // Log any field that might indicate personal enrollment
-          const personalFields = ['my_order','my_waitlist','consumer_event','user_registered','user_waitlist','order','order_id','waitlist_order','waitlist_id','member_waitlist','personal'];
-          for (const f of personalFields) {
-            if (detail[f] !== undefined) console.log(`DIAG event ${event.id}: ${f}=${JSON.stringify(detail[f])}`);
+          // Fetch the waitlist survey endpoint to check personal enrollment
+          if (detail.waitlist && detail.waitlist.endpoint) {
+            try {
+              const surveyRes = await fetch(`${BASE_URL}/${detail.waitlist.endpoint}`, { headers });
+              console.log(`DIAG event ${event.id}: survey status=${surveyRes.status}`);
+              if (surveyRes.ok) {
+                const surveyData = await surveyRes.json();
+                console.log(`DIAG event ${event.id}: survey keys=${Object.keys(surveyData).join(', ')}`);
+                console.log(`DIAG event ${event.id}: survey=${JSON.stringify(surveyData).substring(0, 500)}`);
+              }
+            } catch (e) {
+              console.log(`DIAG event ${event.id}: survey error=${e.message}`);
+            }
           }
         }
         detailed.push(detail);
