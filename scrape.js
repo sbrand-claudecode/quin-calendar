@@ -155,21 +155,6 @@ function buildDescription(event, timeNote) {
   return parts.join('\n');
 }
 
-// Returns an array of date strings ('YYYY-MM-DD') for each day from startDate to endDate inclusive
-function eachDay(startDateStr, endDateStr) {
-  const days = [];
-  // Parse as local date (no timezone shift) by using noon UTC to avoid DST edge cases
-  const start = new Date(startDateStr + 'T12:00:00Z');
-  const end   = new Date(endDateStr   + 'T12:00:00Z');
-  for (let d = new Date(start); d <= end; d.setUTCDate(d.getUTCDate() + 1)) {
-    const y = d.getUTCFullYear();
-    const m = String(d.getUTCMonth() + 1).padStart(2, '0');
-    const day = String(d.getUTCDate()).padStart(2, '0');
-    days.push(`${y}-${m}-${day}`);
-  }
-  return days;
-}
-
 function buildIcs(events) {
   const lines = [];
 
@@ -202,52 +187,41 @@ function buildIcs(events) {
 
     const isMultiDay    = startDatePart !== endDatePart;
 
-    // Duration of a single occurrence (per-day for multi-day, or full span for single-day)
+    // For single-day events: all-day if the event runs 4+ hours
     const durationHours = getDurationHours(startTimePart, endTimePart);
-    const isAllDay      = durationHours >= 4;
+    const isAllDay      = isMultiDay || durationHours >= 4;
 
-    // Human-readable time note added to the description for all-day events
+    // Time note added to the description whenever the event has no clock times shown
     const timeNote = isAllDay
       ? `${formatTime(startTimePart)} \u2013 ${formatTime(endTimePart)}`
       : null;
 
-    // Helper: push one VEVENT for a given calendar day
-    function emitEvent(dayStr, uidSuffix) {
-      const uid         = `quin-event-${event.id}${uidSuffix}@thequinhouse.com`;
-      const description = buildDescription(event, timeNote);
+    const uid         = `quin-event-${event.id}@thequinhouse.com`;
+    const description = buildDescription(event, timeNote);
 
-      lines.push('BEGIN:VEVENT');
-      lines.push(`UID:${uid}`);
-      lines.push(`DTSTAMP:${now}`);
+    lines.push('BEGIN:VEVENT');
+    lines.push(`UID:${uid}`);
+    lines.push(`DTSTAMP:${now}`);
 
-      if (isAllDay) {
-        // All-day format: VALUE=DATE, no time component, no TZID
-        lines.push(`DTSTART;VALUE=DATE:${toIcsDateOnly(dayStr)}`);
-        lines.push(`DTEND;VALUE=DATE:${nextDayIcs(dayStr)}`);
-      } else {
-        // Timed format: reconstruct full datetime from day + time
-        lines.push(`DTSTART;TZID=America/New_York:${toIcsDate(`${dayStr}T${startTimePart}`)}`);
-        lines.push(`DTEND;TZID=America/New_York:${toIcsDate(`${dayStr}T${endTimePart}`)}`);
-      }
-
-      lines.push(`SUMMARY:${escapeIcs(title)}`);
-      if (venue) lines.push(`LOCATION:${escapeIcs(venue)}`);
-      lines.push(`DESCRIPTION:${escapeIcs(description)}`);
-      lines.push(`URL:${BASE_URL}/events/${event.id}`);
-      if (event.categories && event.categories.length > 0) {
-        lines.push(`CATEGORIES:${event.categories.map(c => escapeIcs(c.name)).join(',')}`);
-      }
-      lines.push('END:VEVENT');
-    }
-
-    if (isMultiDay) {
-      // One VEVENT per day (same start/end time each day)
-      eachDay(startDatePart, endDatePart).forEach((dayStr, i) => {
-        emitEvent(dayStr, `-day${i + 1}`);
-      });
+    if (isAllDay) {
+      // All-day / multi-day: VALUE=DATE, no time component, no TZID.
+      // For multi-day events DTEND is the day after the last day (ICS exclusive-end convention).
+      lines.push(`DTSTART;VALUE=DATE:${toIcsDateOnly(startDatePart)}`);
+      lines.push(`DTEND;VALUE=DATE:${nextDayIcs(endDatePart)}`);
     } else {
-      emitEvent(startDatePart, '');
+      // Short single-day event: keep the precise start/end times
+      lines.push(`DTSTART;TZID=America/New_York:${toIcsDate(startLocal.date)}`);
+      lines.push(`DTEND;TZID=America/New_York:${endLocal && endLocal.date ? toIcsDate(endLocal.date) : toIcsDate(startLocal.date)}`);
     }
+
+    lines.push(`SUMMARY:${escapeIcs(title)}`);
+    if (venue) lines.push(`LOCATION:${escapeIcs(venue)}`);
+    lines.push(`DESCRIPTION:${escapeIcs(description)}`);
+    lines.push(`URL:${BASE_URL}/events/${event.id}`);
+    if (event.categories && event.categories.length > 0) {
+      lines.push(`CATEGORIES:${event.categories.map(c => escapeIcs(c.name)).join(',')}`);
+    }
+    lines.push('END:VEVENT');
   }
 
   lines.push('END:VCALENDAR');
