@@ -340,9 +340,17 @@ async function fetchAllEvents(token) {
       const detailRes = await fetch(`${BASE_URL}/api/events/${event.id}`, { headers });
       if (detailRes.ok) {
         const detail = await detailRes.json();
-        // DIAGNOSTIC: log waitlist + registered fields for specific events
+        // DIAGNOSTIC: log all personal-status-related fields for specific events
         if ([173774, 167495].includes(event.id)) {
-          console.log(`DIAG event ${event.id}: registered=${JSON.stringify(detail.registered)} waitlist=${JSON.stringify(detail.waitlist)}`);
+          const keys = Object.keys(detail);
+          console.log(`DIAG event ${event.id} keys: ${keys.join(', ')}`);
+          console.log(`DIAG event ${event.id}: registered=${JSON.stringify(detail.registered)}`);
+          console.log(`DIAG event ${event.id}: waitlist=${JSON.stringify(detail.waitlist)}`);
+          // Log any field that might indicate personal enrollment
+          const personalFields = ['my_order','my_waitlist','consumer_event','user_registered','user_waitlist','order','order_id','waitlist_order','waitlist_id','member_waitlist','personal'];
+          for (const f of personalFields) {
+            if (detail[f] !== undefined) console.log(`DIAG event ${event.id}: ${f}=${JSON.stringify(detail[f])}`);
+          }
         }
         detailed.push(detail);
       } else {
