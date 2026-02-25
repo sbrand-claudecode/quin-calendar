@@ -10,6 +10,7 @@
 const { chromium } = require('playwright');
 const fs = require('fs');
 const path = require('path');
+const he = require('he');
 
 const BASE_URL = 'https://members.thequinhouse.com';
 const EMAIL = process.env.QUIN_EMAIL;
@@ -25,19 +26,14 @@ if (!EMAIL || !PASSWORD) {
 
 function stripHtml(html) {
   if (!html) return '';
-  return html
-    .replace(/<br\s*\/?>/gi, '\n')
-    .replace(/<\/p>/gi, '\n')
-    .replace(/<\/div>/gi, '\n')
-    .replace(/<[^>]+>/g, '')
-    .replace(/&amp;/g, '&')
-    .replace(/&lt;/g, '<')
-    .replace(/&gt;/g, '>')
-    .replace(/&quot;/g, '"')
-    .replace(/&#39;/g, "'")
-    .replace(/&nbsp;/g, ' ')
-    .replace(/\n{3,}/g, '\n\n')
-    .trim();
+  return he.decode(
+    html
+      .replace(/<br\s*\/?>/gi, '\n')
+      .replace(/<\/p>/gi, '\n')
+      .replace(/<\/div>/gi, '\n')
+      .replace(/<[^>]+>/g, '')
+      .replace(/\n{3,}/g, '\n\n')
+  ).trim();
 }
 
 function toIcsDate(localDateStr) {
