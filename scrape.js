@@ -363,7 +363,7 @@ async function fetchAllEvents(token) {
               if (surveyRes.ok) {
                 const surveyData = await surveyRes.json();
                 console.log(`DIAG event ${event.id}: survey keys=${Object.keys(surveyData).join(', ')}`);
-                console.log(`DIAG event ${event.id}: survey=${JSON.stringify(surveyData).substring(0, 500)}`);
+                console.log(`DIAG event ${event.id}: survey has_submitted=${JSON.stringify(surveyData.has_submitted)} can_submit=${JSON.stringify(surveyData.can_submit)}`);
               }
             } catch (e) {
               console.log(`DIAG event ${event.id}: survey error=${e.message}`);
