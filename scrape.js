@@ -333,6 +333,14 @@ async function fetchAllEvents(token) {
 
   console.log(`Fetched ${events.length} events from listing`);
 
+  // DIAGNOSTIC: log listing-level data for specific events
+  for (const e of events) {
+    if ([173774, 167495].includes(e.id)) {
+      console.log(`DIAG LIST event ${e.id} keys: ${Object.keys(e).join(', ')}`);
+      console.log(`DIAG LIST event ${e.id}: registered=${JSON.stringify(e.registered)} waitlist=${JSON.stringify(e.waitlist)} availability=${JSON.stringify(e.availability)}`);
+    }
+  }
+
   // Fetch detail for each event (for full description + ticket pricing)
   const detailed = [];
   for (const event of events) {
@@ -346,6 +354,7 @@ async function fetchAllEvents(token) {
           console.log(`DIAG event ${event.id} keys: ${keys.join(', ')}`);
           console.log(`DIAG event ${event.id}: registered=${JSON.stringify(detail.registered)}`);
           console.log(`DIAG event ${event.id}: waitlist=${JSON.stringify(detail.waitlist)}`);
+          console.log(`DIAG event ${event.id}: settings=${JSON.stringify(detail.settings)}`);
           // Log any field that might indicate personal enrollment
           const personalFields = ['my_order','my_waitlist','consumer_event','user_registered','user_waitlist','order','order_id','waitlist_order','waitlist_id','member_waitlist','personal'];
           for (const f of personalFields) {
