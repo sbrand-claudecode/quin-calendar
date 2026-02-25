@@ -109,3 +109,13 @@ Go to **Actions → Update Quin House Calendar → Run workflow** to trigger an 
 - **Single-day events under 4 hours** are unchanged — they continue to show precise start and end times.
 
 The `Time:` note is inserted in the event description between the `Status:` and `Event URL:` lines.
+
+### 2026-02-25 — Bug fixes: unavailable status + HTML entity decoding
+
+**Fix 1 — Missing "Status: Unavailable" line**
+
+Events whose `availability` field contains `"unavailable"` (e.g. *"Event Unavailable — Tickets for this event are no longer available"*) were producing no Status line at all. Added an explicit branch for this case, plus a catch-all that surfaces any other unrecognised status values rather than silently dropping them.
+
+**Fix 2 — HTML entities in event descriptions**
+
+Event descriptions containing named HTML entities (`&ndash;`, `&eacute;`, `&rsquo;`, `&ldquo;`, etc.) were being passed through as raw text. Replaced the small set of hardcoded entity substitutions with the `he` library, which decodes all HTML5 named and numeric entities. Example: `"Condé Nast&rsquo;s"` now renders as `"Condé Nast's"`.
