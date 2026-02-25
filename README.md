@@ -91,3 +91,21 @@ Your credentials exist only as encrypted GitHub Secrets and are used only inside
 ## Manual refresh
 
 Go to **Actions → Update Quin House Calendar → Run workflow** to trigger an immediate update.
+
+---
+
+## Changelog
+
+### 2026-02-25 — Multi-day and long event handling
+
+**Problem:** Multi-day events (e.g. *Ken Fulk Purveyor Pop-Up*) were being interpreted as a single block running from `startDate + startTime` through `endDate + endTime`, rather than a recurring daily window. Additionally, long events had precise timed start/end fields that cluttered the calendar.
+
+**Changes made to `scrape.js`:**
+
+- **Multi-day events** now produce a single all-day VEVENT spanning the full date range (`DTSTART;VALUE=DATE` / `DTEND;VALUE=DATE`), rather than one timed block or one entry per day. The actual daily hours are preserved in the event notes as `Time: H AM – H PM`.
+
+- **Single-day events running 4 or more hours** are also emitted as all-day entries (no clock times shown on the calendar), again with the hours captured in the notes as `Time: H AM – H PM`.
+
+- **Single-day events under 4 hours** are unchanged — they continue to show precise start and end times.
+
+The `Time:` note is inserted in the event description between the `Status:` and `Event URL:` lines.
