@@ -3,53 +3,9 @@ VERSION:2.0
 PRODID:-//Quin House Calendar//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:The 'Quin House Events
+X-WR-CALNAME:Quin
 X-WR-TIMEZONE:America/New_York
 X-WR-CALDESC:Upcoming programming at The 'Quin House member club
-BEGIN:VEVENT
-UID:quin-event-163267@thequinhouse.com
-DTSTAMP:20260225T194705Z
-DTSTART;VALUE=DATE:20251128
-DTEND;VALUE=DATE:20260302
-SUMMARY:Ken Fulk Purveyor Pop-Up
-LOCATION:The Health Club
-DESCRIPTION:Category: Holiday\nPrice: Free / Included\nStatus: Available\nT
- ime: 7 AM – 8 PM\nEvent URL: https://members.thequinhouse.com/events/163
- 267\n\nWeekends 7:00AM - 8:00PM | Weekedays 6:00AM - 8:00PM\nFind the joy 
- in giving this season\, with treasures hand selected from the Purveyor of 
- the Extraordinary. Our own Creative Director\, Ken Fulk\, has curated a sp
- ecial Holiday Gift Collection available for members. The Pop-Up Shop locat
- ed in The Health Club features Ken's bespoke scented candles and oils\, an
-  home incense collection\, soaps\, and perfume oils. Luxurious\, handmade 
- mohair blankets\, cameo candles\, and his own book\; Ken Fulk: The Movie i
- n My Mind can all be shared and cherished by you and yours. Be sure to vis
- it the pop-up this holiday season.
-URL:https://members.thequinhouse.com/events/163267
-CATEGORIES:Holiday
-END:VEVENT
-BEGIN:VEVENT
-UID:quin-event-172236@thequinhouse.com
-DTSTAMP:20260225T194705Z
-DTSTART;VALUE=DATE:20260201
-DTEND;VALUE=DATE:20260301
-SUMMARY:A Taste of Alsace
-LOCATION:Café Q
-DESCRIPTION:Category: Food & Beverage\nPrice: Free / Included\nStatus: Avai
- lable\nTime: 5 PM – 9 PM\nEvent URL: https://members.thequinhouse.com/ev
- ents/172236\n\nLet your palate travel to France’s storied crossroads wit
- h our Taste of Alsace dinner specials\, celebrating the hearty\, time-hono
- red flavors of this beloved eastern region.\n\nAvailable exclusively durin
- g dinner service\, this limited-time menu highlights Alsace’s signature 
- balance of richness and restraint - from silky foie gras accented with war
- m spice and orchard fruit\, to slow-braised meats and potatoes layered wit
- h aromatics and depth. Bright notes of Riesling\, caramelized onions\, and
-  gentle spice weave throughout\, reflecting the region’s distinctive ble
- nd of French elegance and Germanic tradition. For a true taste of Alsace\,
-  pair with a vibrant Gewürztraminer and let the evening slip away.\n\nMak
- e a Reservation.
-URL:https://members.thequinhouse.com/events/172236
-CATEGORIES:Food & Beverage
-END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-172640@thequinhouse.com
 DTSTAMP:20260225T194705Z
@@ -237,66 +193,6 @@ URL:https://members.thequinhouse.com/events/172567
 CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:quin-event-167509@thequinhouse.com
-DTSTAMP:20260225T194705Z
-DTSTART;VALUE=DATE:20260227
-DTEND;VALUE=DATE:20260301
-SUMMARY:Lunar New Year Dinner with Chef Andrew Yeo
-LOCATION:Bondo
-DESCRIPTION:Category: Holiday\, Food & Beverage\nPrice: Free / Included\nSt
- atus: unlimited\nTime: 5:30 PM – 9 PM\nEvent URL: https://members.thequi
- nhouse.com/events/167509\n\nReservations from 5:30PM\nAs part of his four-
- day residency with The ’Quin House\, Michelin-star chef Andrew Yeo prese
- nts an intimate two-night Lunar New Year dinner experience celebrating the
-  depth and elegance of Cantonese cuisine. Rooted in traditional Chinese te
- chnique and elevated with contemporary refinement\, Chef Yeo’s approach 
- highlights exceptional ingredients while honoring the balance\, restraint\
- , and precision that define classic Cantonese flavors.\n\nThe evening open
- s with a refined start of house-cured salmon and Yu Sheng\, a celebratory 
- tossed salad of carrot and radish with citrus\, sesame\, and spiced cracke
- r. A thoughtfully composed dim sum course follows\, featuring Maine lobste
- r har gau with caviar\, scallop\, prawn\, and chicken siu mai\, alongside 
- baked specialties such as roasted duck\, foie gras\, and kumquat puff\, an
- d sesame prawn toast with chili mayo.\n\nThe menu continues with honey-gla
- zed cod and crispy vegetable rolls paired with laksa sauce\, before guests
-  select their main course: Iberico pork char siu with crackling\, taro mas
- h\, and Asian chimichurri\, or braised satay beef accompanied by oxtail cr
- oquette\, fragrant rice\, and pickled mango salad. The experience conclude
- s on a bright note with white chocolate and lemon mousse and lychee sorbet
- .\n\n*Our five-course prix-fixe Lunar New Year dinner is offered at $135 p
- er person. Beverages\, taxes & club fees are not included. Dining cancella
- tions less than 48 hours in advance of service\, or failure to attend\, wi
- ll result in a full charge. Regular guest policies are in effect on this h
- oliday.\n\nMake a Reservation.
-URL:https://members.thequinhouse.com/events/167509
-CATEGORIES:Holiday,Food & Beverage
-END:VEVENT
-BEGIN:VEVENT
-UID:quin-event-173834@thequinhouse.com
-DTSTAMP:20260225T194705Z
-DTSTART;TZID=America/New_York:20260228T100000
-DTEND;TZID=America/New_York:20260228T113000
-SUMMARY:The Drawing Lab with Deb Putnoi: Session II
-LOCATION:The Muse
-DESCRIPTION:Category: The Arts\nPrice: Free\nStatus: soldOut\nEvent URL: ht
- tps://members.thequinhouse.com/events/173834\n\nSaturdays: February 28\, M
- arch 28\, April 25\, May 30 & June 27 | 10:00AM The Terrace & The Muse\nJo
- in us for The Drawing Lab\, a six class immersive drawing course led by ar
- tist and educator Deb Putnoi\, exploring the method as a practice of mindf
- ulness\, observation\, and self-expression. Open to all experience levels\
- , this course invites members to discover their unique visual voice throug
- h guided exercises\, sensory awareness\, and creative connection.\n\nMeet 
- likeminded members on reoccurring Saturdays over coffee and light bites wh
- ile experimenting with a range of materials and methods\, drawing inspirat
- ion from one another and The ’Quin Collection. Registration includes com
- mitment to participate in all six sessions.\n\n*This six-month course is r
- eserved for members only. The $120 per person fee includes all materials n
- eeded for the duration of the program. Please note that registration for t
- his course is final and non-cancelable\, and may not be transferred.
-URL:https://members.thequinhouse.com/events/173834
-CATEGORIES:The Arts
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-167496@thequinhouse.com
 DTSTAMP:20260225T194705Z
 DTSTART;TZID=America/New_York:20260228T110000
@@ -322,59 +218,6 @@ URL:https://members.thequinhouse.com/events/167496
 CATEGORIES:Holiday
 END:VEVENT
 BEGIN:VEVENT
-UID:quin-event-167510@thequinhouse.com
-DTSTAMP:20260225T194705Z
-DTSTART;VALUE=DATE:20260301
-DTEND;VALUE=DATE:20260302
-SUMMARY:Lunar New Year Brunch with Chef Andrew Yeo
-LOCATION:Bondo
-DESCRIPTION:Category: Holiday\, Food & Beverage\nPrice: Free / Included\nSt
- atus: unlimited\nTime: 10:30 AM – 3 PM\nEvent URL: https://members.thequ
- inhouse.com/events/167510\n\nReservations from 10:30AM - 3:00PM.\nRing in 
- the Year of the Horse with an auspicious Lunar New Year brunch in Bondo\, 
- curated by Michelin-star chef Andrew Yeo as the final act of his four-day 
- residency with The ’Quin House. Known for his thoughtful approach to mod
- ern Asian cuisine and his celebrated work across Boston’s dining scene\,
-  Chef Yeo brings both tradition and precision to this festive gathering.\n
- \nFrom made-to-order sushi and sashimi to dim sum favorites and refined en
- trées\, the experience unfolds in good fashion. At the center of the expe
- rience\, guests are invited to gather around Chef Yeo’s live Peking duck
-  station serving duck with pillowy bao buns- an indulgent highlight of the
-  morning. The celebration concludes with thoughtfully presented dessert pl
- atters - a sweet nod to tradition and good fortune for the year ahead.\n\n
- Children ages 6+ are welcome to attend when accompanied by their parents.\
- n\n*Our Lunar New Year brunch is offered at $105 per person and $45 for ch
- ildren under the age of 12. Beverages\, taxes & the club fee are not inclu
- ded. Dining cancellations less than 48-hours in advance of service and no 
- shows are subject to a 100% charge. \n\nMake a Reservation.
-URL:https://members.thequinhouse.com/events/167510
-CATEGORIES:Holiday,Food & Beverage
-END:VEVENT
-BEGIN:VEVENT
-UID:quin-event-168607@thequinhouse.com
-DTSTAMP:20260225T194705Z
-DTSTART;TZID=America/New_York:20260301T180000
-DTEND;TZID=America/New_York:20260301T203000
-SUMMARY:'Quin Suite: Celtics vs 76ers 
-LOCATION:Offsite: TD Garden
-DESCRIPTION:Category: Sports & Games\nPrice: $404.67 per person\nAvailabili
- ty: 1 spot left\nStatus: Available\nEvent URL: https://members.thequinhous
- e.com/events/168607\n\nClaim your seat in The ’Quin Suite (#524) at TD G
- arden for the Celtics matchup against the Philadelphia 76ers. \n\nAll suit
- e ticket options include incredible views of the on-court action and game 
- day bites. Tip-off your appetite with chicken tenders\, sandwiches\, salad
- s\, and snacks! The suite also offers an assortment of refreshments includ
- ing wine\, beer\, seltzer and soft drinks. Are you game?\n\n*A pair of 'Qu
- in suite seats is available for $941 total ($470.50 per ticket). Individua
- l suite tickets are available for bar stool / standing access only\, offer
- ed at a reduced price of $434 per ticket. Suite tickets are non-refundable
-  and are non-transferable. Members may purchase tickets for up to 3 guests
-  and are required to accompany them at all times. The suite is limited to 
- those ages 16+ as a courtesy to fellow members.
-URL:https://members.thequinhouse.com/events/168607
-CATEGORIES:Sports & Games
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-173787@thequinhouse.com
 DTSTAMP:20260225T194705Z
 DTSTART;TZID=America/New_York:20260302T170000
@@ -397,31 +240,6 @@ DESCRIPTION:Category: Food & Beverage\nPrice: Free\nStatus: You are on Wait
  his event is complimentary and reserved for members only. Light bites will
   be served.
 URL:https://members.thequinhouse.com/events/173787
-CATEGORIES:Food & Beverage
-END:VEVENT
-BEGIN:VEVENT
-UID:quin-event-175068@thequinhouse.com
-DTSTAMP:20260225T194705Z
-DTSTART;VALUE=DATE:20260302
-DTEND;VALUE=DATE:20260401
-SUMMARY:A Taste of Rome
-LOCATION:Café Q
-DESCRIPTION:Category: Food & Beverage\nPrice: Free / Included\nStatus: Avai
- lable\nTime: 5 PM – 9 PM\nEvent URL: https://members.thequinhouse.com/ev
- ents/175068\n\nLet your palate wander to the Eternal City with our A Taste
-  of Rome dinner experience\, celebrating the soulful\, time-honored flavor
- s of Italy’s capital. Available exclusively during dinner service\, this
-  limited-time offering honors Rome’s culinary tradition—where simplici
- ty and exceptional ingredients take center stage.\n\nBegin with Bruschetta
-  alla Romana\, bright with cherry tomato\, caper\, garlic confit\, and bas
- il on toasted ciabatta. Savor golden Gnocchi alla Romana in pomodoro with 
- Parmigiano Reggiano\, and the beloved Spaghetti alla Carbonara\, where gua
- nciale\, pecorino romano\, and egg yolk come together in perfect harmony. 
- For the main course\, Saltimbocca with Vignarola pairs tender veal\, prosc
- iutto di San Daniele\, sage\, and a vibrant spring vegetable ragù.\n\nEac
- h dish reflects Rome’s effortless balance of rustic authenticity and qui
- et refinement.
-URL:https://members.thequinhouse.com/events/175068
 CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
@@ -492,78 +310,6 @@ DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 23 spots lef
  ges will be available for purchase.
 URL:https://members.thequinhouse.com/events/173778
 CATEGORIES:Member Mixer
-END:VEVENT
-BEGIN:VEVENT
-UID:quin-event-174457@thequinhouse.com
-DTSTAMP:20260225T194705Z
-DTSTART;TZID=America/New_York:20260304T090000
-DTEND;TZID=America/New_York:20260304T100000
-SUMMARY:Private Art Tour: "An Indigenous Present" 
-LOCATION:ICA Boston
-DESCRIPTION:Category: The Arts\nPrice: Free\nStatus: soldOut\nEvent URL: ht
- tps://members.thequinhouse.com/events/174457\n\nJoin us for a private tour
-  of the exhibition: An Indigenous Present\, before the Institute of Contem
- porary Art Boston opens its doors to the public\, led by Curatorial Assist
- ant Max Gruber. Co-organized by 'Quin Collection artist Jeffrey Gibson and
-  independent curator Jenelle Porter\, An Indigenous Present offers an ex
- pansive view of Indigenous art practices over the past 100 years\, highlig
- hting a continuum of elders and emerging makers\, as well as premiering ne
- w\, site-specific works by fifteen artists\, including Raven Chacon\, Caro
- line Monnet\, and Anna Tsouhlarakis. Together\, we'll explore these artist
- s' diverse approaches to concept\, form\, and medium within the larger con
- text of Native North American artistic tradition.\n\n*This event is compli
- mentary and reserved for members only.The tour will run for approximately 
- one hour\, followed by time for members to continue exploring the exhibiti
- on at their leisure. Food and beverage will not be offered during this tou
- r. Please be aware that the ICA Boston does not have designated parking. T
- here is a Public Parking Garage located at 100 Northern Avenue\, with the
-  entrance being on Harbor Shore Drive\, across the street from the museum
- .
-URL:https://members.thequinhouse.com/events/174457
-CATEGORIES:The Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:quin-event-173349@thequinhouse.com
-DTSTAMP:20260225T194705Z
-DTSTART;TZID=America/New_York:20260304T180000
-DTEND;TZID=America/New_York:20260304T200000
-SUMMARY:Live Music: Imagine Orchestra 
-LOCATION:The Reading Room
-DESCRIPTION:Category: The Arts\nPrice: Free / Included\nStatus: Available\n
- Event URL: https://members.thequinhouse.com/events/173349\n\nExperience th
- e vibrant sound of Jazz Urbane in a special preview of what’s to come th
- is June\, when their jazz club opens its doors. Their 8-piece Imagine Orch
- estra brings together bold brass\, driving rhythms\, and improvisational f
- lair for an evening that feels both immersive and unmistakably Jazz Urbane
- . Grab a cocktail from the neighboring Little Bar and let the night take y
- ou away.\n\n*This event is complimentary to members\, plus three guests. P
- lease note seating is first come\, first served.
-URL:https://members.thequinhouse.com/events/173349
-CATEGORIES:The Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:quin-event-172750@thequinhouse.com
-DTSTAMP:20260225T194705Z
-DTSTART;TZID=America/New_York:20260306T190000
-DTEND;TZID=America/New_York:20260306T213000
-SUMMARY:'Quin Suite: Celtics vs Mavericks
-LOCATION:Offsite: TD Garden
-DESCRIPTION:Category: Sports & Games\nPrice: $405.61 per person\nStatus: Av
- ailable\nEvent URL: https://members.thequinhouse.com/events/172750\n\nClai
- m your seat in The ’Quin Suite (#524) at TD Garden for the Celtics match
- up against the Dallas Mavericks.\n\nAll suite ticket options include incre
- dible views of the on-court action and game day bites. Tip-off your appeti
- te with chicken tenders\, sandwiches\, salads\, and snacks! The suite also
-  offers an assortment of refreshments including wine\, beer\, seltzer and 
- soft drinks. Are you game?\n\n*A pair of 'Quin suite seats is available fo
- r $941 total ($470.50 per ticket). Individual suite tickets are available 
- for bar stool / standing access only\, offered at a reduced price of $434 
- per ticket. Suite tickets are non-refundable and are non-transferable. Mem
- bers may purchase tickets for up to 3 guests and are required to accompany
-  them at all times. The suite is limited to those ages 16+ as a courtesy t
- o fellow members.
-URL:https://members.thequinhouse.com/events/172750
-CATEGORIES:Sports & Games
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-166020@thequinhouse.com
@@ -758,31 +504,6 @@ URL:https://members.thequinhouse.com/events/173023
 CATEGORIES:Member Mixer
 END:VEVENT
 BEGIN:VEVENT
-UID:quin-event-172753@thequinhouse.com
-DTSTAMP:20260225T194705Z
-DTSTART;TZID=America/New_York:20260316T200000
-DTEND;TZID=America/New_York:20260316T223000
-SUMMARY:'Quin Suite: Celtics vs Suns
-LOCATION:Offsite: TD Garden
-DESCRIPTION:Category: Sports & Games\nPrice: $398.13 per person\nAvailabili
- ty: 5 spots left\nStatus: Available\nEvent URL: https://members.thequinhou
- se.com/events/172753\n\nClaim your seat in The ’Quin Suite (#524) at TD 
- Garden for the Celtics matchup against the Phoenix Suns.\n\nAll suite tick
- et options include incredible views of the on-court action and light game 
- day bites. Satisfy your post-dinner cravings with a grazing spread of chee
- se & charcuterie\, mezze\, a selection of popcorn & candy classics before 
- dunking warm Nutella churros! The suite also offers an assortment of refre
- shments including wine\, beer\, seltzer and soft drinks. Are you game?\n\n
- *A pair of 'Quin suite seats is available for $926 total ($463 per ticket)
- . Individual suite tickets are available for bar stool / standing access o
- nly\, offered at a reduced price of $426 per ticket. Suite tickets are non
- -refundable and are non-transferable. Members may purchase tickets for up 
- to 3 guests and are required to accompany them at all times. The suite is 
- limited to those ages 16+ as a courtesy to fellow members.
-URL:https://members.thequinhouse.com/events/172753
-CATEGORIES:Sports & Games
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-173779@thequinhouse.com
 DTSTAMP:20260225T194705Z
 DTSTART;TZID=America/New_York:20260317T170000
@@ -802,88 +523,6 @@ DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 26 spots lef
  ges will be available for purchase.
 URL:https://members.thequinhouse.com/events/173779
 CATEGORIES:Member Mixer
-END:VEVENT
-BEGIN:VEVENT
-UID:quin-event-173832@thequinhouse.com
-DTSTAMP:20260225T194705Z
-DTSTART;VALUE=DATE:20260317
-DTEND;VALUE=DATE:20260321
-SUMMARY:Explorateur: Wild Honey Inn 
-LOCATION:Café Q
-DESCRIPTION:Category: Food & Beverage\nPrice: Free / Included\nStatus: Avai
- lable\nTime: 5:30 PM – 10 PM\nEvent URL: https://members.thequinhouse.co
- m/events/173832\n\nExplorateur returns to The ‘Quin House in celebration
-  of St. Patrick’s Day\, welcoming back acclaimed Chef Aidan McGrath of W
- ild Honey Inn\, Ireland’s first Michelin-starred pub and still the only 
- one to hold this distinction. \n\nFollowing an unforgettable debut reside
- ncy\, Chef Aidan makes his highly anticipated return for a four-day reside
- ncy in Café Q\, where he will present both a bespoke prix-fixe menu and a
- n à la carte dinner menu exclusively for ‘Quin members. His cooking rei
- magines the Irish dining pub experience\, elevating it with refined techni
- que while preserving the warmth and convivial spirit of a traditional coun
- try inn.\n\nMembers can look forward to Diver Scallops with pea velouté\;
-  Wild Nova Scotia Halibut with tapenade velouté\; Spring Australian Lamb 
- with black olive jus\; and Wagyu Corned Beef with choux farci and mustard 
- butter sauce — refined interpretations of Irish tradition.\n\nIn additio
- n to the full dining experience in Café Q\, members may also enjoy a sele
- ction of Chef Aidan’s specials offered in the Pub throughout the residen
- cy. \n\nRooted in the Burren region of County Clare\, an area of striking
-  natural beauty along Ireland’s rugged west coast\, Chef Aidan’s cuisi
- ne draws inspiration from the land\, sea\, and seasons. Throughout his res
- idency\, locally sourced ingredients are transformed with masterful creati
- vity and restraint. \n\nView the Menu.\n\nTo secure your reservation in e
- ither Café Q or The Pub\, please click here.\n\n*The prix-fixe dinner is
-  priced at $85++ per person\, exclusive of beverages\, tax\, and applicabl
- e club fees. An à la carte menu will also be available\, with items price
- d individually. Reservations may be made through the Member Portal. Member
- s may invite up to three guests per seated member.
-URL:https://members.thequinhouse.com/events/173832
-CATEGORIES:Food & Beverage
-END:VEVENT
-BEGIN:VEVENT
-UID:quin-event-174360@thequinhouse.com
-DTSTAMP:20260225T194705Z
-DTSTART;TZID=America/New_York:20260317T173000
-DTEND;TZID=America/New_York:20260317T200000
-SUMMARY:Game Night: Bridge Instructional Play Session II
-LOCATION:The Muse
-DESCRIPTION:Category: Sports & Games\nPrice: Free\nStatus: soldOut\nEvent U
- RL: https://members.thequinhouse.com/events/174360\n\nDiscover the art and
-  strategy of Bridge in a thoughtfully designed two-part instructional seri
- es for members. Our expert instructor\, Zach Grossack\, will guide member
- s through the fundamentals\, offering tips\, strategies\, and techniques d
- esigned for beginners and intermediate players alike.\n\nEach session is r
- elaxed and hands-on\, offering the opportunity to practice bidding\, refin
- e strategy\, and build confidence at the table with personalized guidance.
-  Look forward to a welcoming environment to learn\, improve\, and enjoy th
- e timeless art of Bridge alongside fellow members.\n\n*This event is compl
- imentary and reserved for members only. Please note that this is a two-par
- t series\; registration for the first session on March 10th will automatic
- ally enroll you in the second session on March 17th\, ensuring a cohesive 
- learning experience across both evenings. Guests are invited to arrive at 
- 5:30PM to settle in with a bite and beverage on the 'House before the clas
- s begins promptly at 6:00 PM.
-URL:https://members.thequinhouse.com/events/174360
-CATEGORIES:Sports & Games
-END:VEVENT
-BEGIN:VEVENT
-UID:quin-event-174818@thequinhouse.com
-DTSTAMP:20260225T194705Z
-DTSTART;TZID=America/New_York:20260318T180000
-DTEND;TZID=America/New_York:20260318T210000
-SUMMARY:Live Music: Yamane
-LOCATION:The Reading Room
-DESCRIPTION:Category: The Arts\nPrice: Free / Included\nStatus: Available\n
- Event URL: https://members.thequinhouse.com/events/174818\n\nExperience an
-  evening of soulful melodies with Yamane El-Hage\, a Lebanese singer\, com
- poser\, and multi-instrumentalist whose music blends Western influences wi
- th the depth of her heritage. A Voice Arabia semi-finalist\, Yamane is a s
- toryteller\, crafting songs of identity\, love\, and belonging. Sip a sign
- ature cocktail at Little Bar and let her soaring vocals and raw emotion tr
- ansport you.\n\n*This event is complimentary and available to members\, pl
- us three guests. Seating is first come\, first served.
-URL:https://members.thequinhouse.com/events/174818
-CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-167855@thequinhouse.com
@@ -945,56 +584,6 @@ URL:https://members.thequinhouse.com/events/173833
 CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:quin-event-172754@thequinhouse.com
-DTSTAMP:20260225T194705Z
-DTSTART;TZID=America/New_York:20260325T193000
-DTEND;TZID=America/New_York:20260325T220000
-SUMMARY:'Quin Suite: Celtics vs Thunder
-LOCATION:Offsite: TD Garden
-DESCRIPTION:Category: Sports & Games\nPrice: $404.67 per person\nAvailabili
- ty: 2 spots left\nStatus: Available\nEvent URL: https://members.thequinhou
- se.com/events/172754\n\nClaim your seat in The ’Quin Suite (#524) at TD 
- Garden for the Celtics matchup against the Oklahoma City Thunder.\n\nAll s
- uite ticket options include incredible views of the on-court action and li
- ght game day bites. Quench your evening cravings with a grazing spread of 
- cheese & charcuterie\, mezze\, jumbo shrimp cocktail and seasonal snacks! 
- The suite also offers an assortment of refreshments including wine\, beer\
- , seltzer and soft drinks. Are you game?\n\n*A pair of 'Quin suite seats i
- s available for $941 total ($470.50 per ticket). Individual suite tickets 
- are available for bar stool / standing access only\, offered at a reduced 
- price of $433 per ticket. Suite tickets are non-refundable and are non-tra
- nsferable. Members may purchase tickets for up to 3 guests and are require
- d to accompany them at all times. The suite is limited to those ages 16+ a
- s a courtesy to fellow members.
-URL:https://members.thequinhouse.com/events/172754
-CATEGORIES:Sports & Games
-END:VEVENT
-BEGIN:VEVENT
-UID:quin-event-172755@thequinhouse.com
-DTSTAMP:20260225T194705Z
-DTSTART;TZID=America/New_York:20260327T193000
-DTEND;TZID=America/New_York:20260327T220000
-SUMMARY:'Quin Suite: Celtics vs Hawks
-LOCATION:Offsite: TD Garden
-DESCRIPTION:Category: Sports & Games\nPrice: $404.67 per person\nAvailabili
- ty: 1 spot left\nStatus: Available\nEvent URL: https://members.thequinhous
- e.com/events/172755\n\nClaim your seat in The ’Quin Suite (#524) at TD G
- arden for the Celtics matchup against the Atlantic Hawks.\n\nAll suite tic
- ket options include incredible views of the on-court action and light game
-  day bites. Quench your evening cravings with a grazing spread of cheese &
-  charcuterie\, mezze\, jumbo shrimp cocktail and seasonal snacks! The suit
- e also offers an assortment of refreshments including wine\, beer\, seltze
- r and soft drinks. Are you game?\n\n*A pair of 'Quin suite seats is availa
- ble for $941 total ($470.50 per ticket). Individual suite tickets are avai
- lable for bar stool / standing access only\, offered at a reduced price of
-  $433 per ticket. Suite tickets are non-refundable and are non-transferabl
- e. Members may purchase tickets for up to 3 guests and are required to acc
- ompany them at all times. The suite is limited to those ages 16+ as a cour
- tesy to fellow members.
-URL:https://members.thequinhouse.com/events/172755
-CATEGORIES:Sports & Games
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-173024@thequinhouse.com
 DTSTAMP:20260225T194705Z
 DTSTART;TZID=America/New_York:20260328T130000
@@ -1018,31 +607,6 @@ DESCRIPTION:Category: Member Mixer\nPrice: $65.00 per person\nAvailability:
  e event.
 URL:https://members.thequinhouse.com/events/173024
 CATEGORIES:Member Mixer
-END:VEVENT
-BEGIN:VEVENT
-UID:quin-event-172756@thequinhouse.com
-DTSTAMP:20260225T194705Z
-DTSTART;TZID=America/New_York:20260407T193000
-DTEND;TZID=America/New_York:20260407T220000
-SUMMARY:'Quin Suite: Celtics vs Hornets
-LOCATION:Offsite: TD Garden
-DESCRIPTION:Category: Sports & Games\nPrice: $404.67 per person\nAvailabili
- ty: 5 spots left\nStatus: Available\nEvent URL: https://members.thequinhou
- se.com/events/172756\n\nClaim your seat in The ’Quin Suite (#524) at TD 
- Garden for the Celtics matchup against the Charlotte Hornets.\n\n All suit
- e ticket options include incredible views of the on-court action and light
-  game day bites. Quench your evening cravings with a grazing spread of che
- ese & charcuterie\, mezze\, jumbo shrimp cocktail and seasonal snacks! The
-  suite also offers an assortment of refreshments including wine\, beer\, s
- eltzer and soft drinks. Are you game?\n\n*A pair of 'Quin suite seats is a
- vailable for $941 total ($470.50 per ticket). Individual suite tickets are
-  available for bar stool / standing access only\, offered at a reduced pri
- ce of $433 per ticket. Suite tickets are non-refundable and are non-transf
- erable. Members may purchase tickets for up to 3 guests and are required t
- o accompany them at all times. The suite is limited to those ages 16+ as a
-  courtesy to fellow members.
-URL:https://members.thequinhouse.com/events/172756
-CATEGORIES:Sports & Games
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-166077@thequinhouse.com
@@ -1108,31 +672,6 @@ DESCRIPTION:Category: ‘Venture - Travel\nPrice: $8528.04 per person\nStat
  tlined in the final confirmation materials.
 URL:https://members.thequinhouse.com/events/166077
 CATEGORIES:‘Venture - Travel
-END:VEVENT
-BEGIN:VEVENT
-UID:quin-event-172757@thequinhouse.com
-DTSTAMP:20260225T194705Z
-DTSTART;TZID=America/New_York:20260410T193000
-DTEND;TZID=America/New_York:20260410T220000
-SUMMARY:'Quin Suite: Celtics vs Pelicans
-LOCATION:Offsite: TD Garden
-DESCRIPTION:Category: Sports & Games\nPrice: $404.67 per person\nAvailabili
- ty: 5 spots left\nStatus: Available\nEvent URL: https://members.thequinhou
- se.com/events/172757\n\nClaim your seat in The ’Quin Suite (#524) at TD 
- Garden for the Celtics matchup against the New Orleans Pelicans.\n\n All 
- suite ticket options include incredible views of the on-court action and l
- ight game day bites. Quench your evening cravings with a grazing spread of
-  cheese & charcuterie\, mezze\, jumbo shrimp cocktail and seasonal snacks!
-  The suite also offers an assortment of refreshments including wine\, beer
- \, seltzer and soft drinks. Are you game?\n\n*A pair of 'Quin suite seats 
- is available for $941 total ($470.50 per ticket). Individual suite tickets
-  are available for bar stool / standing access only\, offered at a reduced
-  price of $433 per ticket. Suite tickets are non-refundable and are non-tr
- ansferable. Members may purchase tickets for up to 3 guests and are requir
- ed to accompany them at all times. The suite is limited to those ages 16+ 
- as a courtesy to fellow members.
-URL:https://members.thequinhouse.com/events/172757
-CATEGORIES:Sports & Games
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-166318@thequinhouse.com
