@@ -126,12 +126,20 @@ Event descriptions containing named HTML entities (`&ndash;`, `&eacute;`, `&rsqu
 
 **Fix:** The API response includes two personal-status fields (discovered via a diagnostic log run):
 - `event.registered` — `true` when the user holds a confirmed ticket
-- `event.waitlist.id` — non-zero when the user is on the waitlist
+- `survey.has_submitted` — `true` when the user has personally joined the waitlist (fetched from `event.waitlist.endpoint`)
 
 Personal status now takes precedence over event-level status:
 - `event.registered === true` → `Status: You are Confirmed`
-- `event.waitlist.id` is set → `Status: You are on Waitlist`
+- `survey.has_submitted === true` → `Status: You are on Waitlist`
 - Otherwise → falls back to the event-level status as before (Sold Out, Available, Unavailable, etc.)
+
+### 2026-02-25 — Fix: waitlist detection was matching all events
+
+**Problem:** `event.waitlist.id` (used as the personal waitlist indicator) turned out to be a global template ID (15310) present on every event with a waitlist form — not a per-user enrollment field. This caused "Status: You are on Waitlist" to appear on ~26 of 44 events regardless of actual enrollment.
+
+**Root cause discovery:** Multi-step diagnostic logging revealed that the correct field is `has_submitted` from the waitlist survey endpoint (`event.waitlist.endpoint`). This survey returns `has_submitted: true` only when the authenticated user has personally submitted their name to the waitlist.
+
+**Fix:** Each event detail fetch now makes one additional call to `event.waitlist.endpoint` and stores the result as `_waitlistSubmitted`. Personal status checks now use `_waitlistSubmitted === true` instead of `waitlist.id`. Result: `quin.ics` now correctly contains only the 2–3 events the user is actually confirmed or waitlisted for.
 
 ### 2026-02-25 — Personal calendar (quin.ics) + local filter script
 
