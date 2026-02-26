@@ -7,33 +7,8 @@ X-WR-CALNAME:Quin
 X-WR-TIMEZONE:America/New_York
 X-WR-CALDESC:Upcoming programming at The 'Quin House member club
 BEGIN:VEVENT
-UID:quin-event-167495@thequinhouse.com
-DTSTAMP:20260226T144013Z
-DTSTART;TZID=America/New_York:20260226T110000
-DTEND;TZID=America/New_York:20260226T133000
-SUMMARY:Chef Andrew Yeo's Dumpling Masterclass | Session I
-LOCATION:Bondo
-DESCRIPTION:Category: Holiday\nPrice: Free / Included\nStatus: You are on W
- aitlist\nEvent URL: https://members.thequinhouse.com/events/167495\n\n11:0
- 0AM - 12:30PM Class\, 12:30PM - 1:30PM Luncheon\nAs part of his four-day r
- esidency with The ’Quin House in celebration of Lunar New Year\, Micheli
- n-star chef Andrew Yeo invites members into Bondo for an intimate\, hands-
- on Dim Sum Masterclass celebrating the artistry of dumpling making. Drawin
- g from classic Cantonese technique and his contemporary culinary perspecti
- ve\, Chef Yeo will guide guests through the fundamentals of crafting delic
- ate\, well-balanced dumplings\, from dough handling and folding techniques
-  to thoughtful flavor composition\, while guests sip white wine and tea th
- roughout the class. Following the session\, members will enjoy the dumplin
- gs they’ve made for lunch\, accompanied by a chef-prepared seasonal sala
- d.\n\n*This event is offered at $85 per person and is reserved for members
-  only. Taxes amd club fee are not included. Reservations are non-refundabl
- e and non-transferable.
-URL:https://members.thequinhouse.com/events/167495
-CATEGORIES:Holiday
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-172567@thequinhouse.com
-DTSTAMP:20260226T144013Z
+DTSTAMP:20260226T195806Z
 DTSTART;TZID=America/New_York:20260227T153000
 DTEND;TZID=America/New_York:20260227T170000
 SUMMARY:'Quin Chat: The Life & Legacy of George Hoyningen-Huene
@@ -64,7 +39,7 @@ CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-167496@thequinhouse.com
-DTSTAMP:20260226T144013Z
+DTSTAMP:20260226T195806Z
 DTSTART;TZID=America/New_York:20260228T110000
 DTEND;TZID=America/New_York:20260228T133000
 SUMMARY:Chef Andrew Yeo's Dumpling Masterclass | Session II 
