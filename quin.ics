@@ -7,63 +7,33 @@ X-WR-CALNAME:Quin
 X-WR-TIMEZONE:America/New_York
 X-WR-CALDESC:Upcoming programming at The 'Quin House member club
 BEGIN:VEVENT
-UID:quin-event-172640@thequinhouse.com
-DTSTAMP:20260225T203051Z
-DTSTART;TZID=America/New_York:20260225T170000
-DTEND;TZID=America/New_York:20260225T180000
-SUMMARY:Meet the Maker: Alessandro Bindocci of Il Poggione 
-LOCATION:The Living Room
-DESCRIPTION:Category: Food & Beverage\nPrice: Free\nStatus: You are on Wait
- list\nEvent URL: https://members.thequinhouse.com/events/172640\n\nDiscove
- r the heritage and artistry of Brunello di Montalcino at an exclusive tast
- ing featuring Tenuta Il Poggione\, guided by Alessandro Bindocci\, long-ti
- me winemaker of one of Tuscany’s most respected estates. Guests will be 
- welcomed with a curated aperitivo before exploring the story\, terroir\, a
- nd traditions behind Il Poggione’s celebrated wines.\n\nLocated in Sant�
- ��Angelo in Colle\, Tenuta Il Poggione spans 140 hectares of vineyards dev
- oted to exceptional Sangiovese. Blending generations of Tuscan tradition w
- ith thoughtful innovation\, the estate is renowned for wines of structure\
- , elegance\, and a distinct sense of place. Under Alessandro’s leadershi
- p\, Il Poggione continues to honor Brunello’s classical expression while
-  shaping its future with precision and care.\n\nThis guided tasting will f
- eature four wines from the estate: Toscana Rosso 2022\, Rosso di Montalcin
- o 2023\, Brunello di Montalcino 2020\, and Brunello di Montalcino Riserva 
- 2019 - inviting members to experience the depth\, craftsmanship\, and char
- acter of Brunello di Montalcino.\n\n*This event is complimentary and reser
- ved for members only. We kindly ask that members arrive 15 minutes early t
- o ensure a prompt start at 5:00PM to begin the tasting. Light bites will b
- e served.
-URL:https://members.thequinhouse.com/events/172640
-CATEGORIES:Food & Beverage
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-167495@thequinhouse.com
-DTSTAMP:20260225T203051Z
+DTSTAMP:20260226T051333Z
 DTSTART;TZID=America/New_York:20260226T110000
 DTEND;TZID=America/New_York:20260226T133000
 SUMMARY:Chef Andrew Yeo's Dumpling Masterclass | Session I
 LOCATION:Bondo
-DESCRIPTION:Category: Holiday\nPrice: $99.45 per person\nStatus: You are on
-  Waitlist\nEvent URL: https://members.thequinhouse.com/events/167495\n\n11
- :00AM - 12:30PM Class\, 12:30PM - 1:30PM Luncheon\nAs part of his four-day
-  residency with The ’Quin House in celebration of Lunar New Year\, Miche
- lin-star chef Andrew Yeo invites members into Bondo for an intimate\, hand
- s-on Dim Sum Masterclass celebrating the artistry of dumpling making. Draw
- ing from classic Cantonese technique and his contemporary culinary perspec
- tive\, Chef Yeo will guide guests through the fundamentals of crafting del
- icate\, well-balanced dumplings\, from dough handling and folding techniqu
- es to thoughtful flavor composition\, while guests sip white wine and tea 
- throughout the class. Following the session\, members will enjoy the dumpl
- ings they’ve made for lunch\, accompanied by a chef-prepared seasonal sa
- lad.\n\n*This event is offered at $85 per person and is reserved for membe
- rs only. Taxes amd club fee are not included. Reservations are non-refunda
- ble and non-transferable.
+DESCRIPTION:Category: Holiday\nPrice: Free / Included\nStatus: You are on W
+ aitlist\nEvent URL: https://members.thequinhouse.com/events/167495\n\n11:0
+ 0AM - 12:30PM Class\, 12:30PM - 1:30PM Luncheon\nAs part of his four-day r
+ esidency with The ’Quin House in celebration of Lunar New Year\, Micheli
+ n-star chef Andrew Yeo invites members into Bondo for an intimate\, hands-
+ on Dim Sum Masterclass celebrating the artistry of dumpling making. Drawin
+ g from classic Cantonese technique and his contemporary culinary perspecti
+ ve\, Chef Yeo will guide guests through the fundamentals of crafting delic
+ ate\, well-balanced dumplings\, from dough handling and folding techniques
+  to thoughtful flavor composition\, while guests sip white wine and tea th
+ roughout the class. Following the session\, members will enjoy the dumplin
+ gs they’ve made for lunch\, accompanied by a chef-prepared seasonal sala
+ d.\n\n*This event is offered at $85 per person and is reserved for members
+  only. Taxes amd club fee are not included. Reservations are non-refundabl
+ e and non-transferable.
 URL:https://members.thequinhouse.com/events/167495
 CATEGORIES:Holiday
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-167496@thequinhouse.com
-DTSTAMP:20260225T203051Z
+DTSTAMP:20260226T051333Z
 DTSTART;TZID=America/New_York:20260228T110000
 DTEND;TZID=America/New_York:20260228T133000
 SUMMARY:Chef Andrew Yeo's Dumpling Masterclass | Session II 
