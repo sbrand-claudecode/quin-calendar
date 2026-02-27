@@ -8,38 +8,38 @@ X-WR-TIMEZONE:America/New_York
 X-WR-CALDESC:Upcoming programming at The 'Quin House member club
 BEGIN:VEVENT
 UID:quin-event-172567@thequinhouse.com
-DTSTAMP:20260227T141058Z
+DTSTAMP:20260227T194647Z
 DTSTART;TZID=America/New_York:20260227T153000
 DTEND;TZID=America/New_York:20260227T170000
 SUMMARY:'Quin Chat: The Life & Legacy of George Hoyningen-Huene
 LOCATION:The Muse
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 5 spots left\nSt
- atus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/event
- s/172567\n\n3:30PM Reception\, 4:00PM Discussion\nPlease join 'Quin House 
- Art Curator\, Kate Chertavian in conversation with Tommy Rönngren\, Swedi
- sh art collector and co-owner of the George Hoyningen-Huene Estate Archive
- s\, for an intimate discussion exploring the life and legacy of the legend
- ary photographer. The conversation will provide rare insight into the arti
- st's creative process\, personal history\, and influential collaborations 
- with artists and designers. Together\, they will examine Hoyningen-Heune's
-  distinctive aesthetic and the stories behind his iconic images.\n\n'Quin 
- House Collection artist George Hoyningen-Huene (1900–1968) served as pri
- ncipal photographer for Condé Nast’s French Vogue and later Harper�
- ��s Bazaar\, where he helped define the visual language of modern fashion.
-  His work captured the artistry of leading haute couture houses including 
- Chanel\, Balenciaga\, and Cartier. Renowned for his classical sensibility 
- and refined eye for elegance and form\, Hoyningen-Huene created some of th
- e twentieth century’s most enduring photographic compositions. This spec
- ial exhibition at The 'Quin House\, on view from February 16th–April 5th
- \, invites members to celebrate the lasting artistry and visual storytelli
- ng of a true pioneer in fashion photography.\n\n*This event is complimenta
- ry and reserved for members only.
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 11 spots left\nS
+ tatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/even
+ ts/172567\n\n3:30PM Reception\, 4:00PM Discussion\nPlease join 'Quin House
+  Art Curator\, Kate Chertavian in conversation with Tommy Rönngren\, Swed
+ ish art collector and co-owner of the George Hoyningen-Huene Estate Archiv
+ es\, for an intimate discussion exploring the life and legacy of the legen
+ dary photographer. The conversation will provide rare insight into the art
+ ist's creative process\, personal history\, and influential collaborations
+  with artists and designers. Together\, they will examine Hoyningen-Heune'
+ s distinctive aesthetic and the stories behind his iconic images.\n\n'Quin
+  House Collection artist George Hoyningen-Huene (1900–1968) served as pr
+ incipal photographer for Condé Nast’s French Vogue and later Harper
+ ’s Bazaar\, where he helped define the visual language of modern fashion
+ . His work captured the artistry of leading haute couture houses including
+  Chanel\, Balenciaga\, and Cartier. Renowned for his classical sensibility
+  and refined eye for elegance and form\, Hoyningen-Huene created some of t
+ he twentieth century’s most enduring photographic compositions. This spe
+ cial exhibition at The 'Quin House\, on view from February 16th–April 5t
+ h\, invites members to celebrate the lasting artistry and visual storytell
+ ing of a true pioneer in fashion photography.\n\n*This event is compliment
+ ary and reserved for members only.
 URL:https://members.thequinhouse.com/events/172567
 CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-167496@thequinhouse.com
-DTSTAMP:20260227T141058Z
+DTSTAMP:20260227T194647Z
 DTSTART;TZID=America/New_York:20260228T110000
 DTEND;TZID=America/New_York:20260228T133000
 SUMMARY:Chef Andrew Yeo's Dumpling Masterclass | Session II 
