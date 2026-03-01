@@ -6,4 +6,25 @@ METHOD:PUBLISH
 X-WR-CALNAME:Quin
 X-WR-TIMEZONE:America/New_York
 X-WR-CALDESC:Upcoming programming at The 'Quin House member club
+BEGIN:VEVENT
+UID:quin-event-173778@thequinhouse.com
+DTSTAMP:20260301T021010Z
+DTSTART;TZID=America/New_York:20260303T170000
+DTEND;TZID=America/New_York:20260303T190000
+SUMMARY:Member Mingle
+LOCATION:The Living Room
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 12 spots lef
+ t\nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/
+ events/173778\n\nJoin us for our weekly Member Mingle\, an inclusive gathe
+ ring set in an ambiant reserved space. This is your opportunity to connect
+  with fellow members\, exchange ideas\, and cultivate meaningful relations
+ hips.\n\nWhether you're sparking new collaborations\, sharing insights\, o
+ r simply enjoying great conversation\, the Member Mingle is the perfect wa
+ y to engage with our dynamic community. Don’t miss the chance to connect
+ \, inspire\, and be inspired!\n\n*This event is complimentary and reserved
+  for members only. Complimentary light bites will be served\, and beverage
+ s will be available for purchase.
+URL:https://members.thequinhouse.com/events/173778
+CATEGORIES:Member Mixer
+END:VEVENT
 END:VCALENDAR
