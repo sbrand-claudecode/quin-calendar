@@ -8,12 +8,12 @@ X-WR-TIMEZONE:America/New_York
 X-WR-CALDESC:Upcoming programming at The 'Quin House member club
 BEGIN:VEVENT
 UID:quin-event-173778@thequinhouse.com
-DTSTAMP:20260302T143019Z
+DTSTAMP:20260302T152219Z
 DTSTART;TZID=America/New_York:20260303T170000
 DTEND;TZID=America/New_York:20260303T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 7 spots left
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 3 spots left
  \nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/e
  vents/173778\n\nJoin us for our weekly Member Mingle\, an inclusive gather
  ing set in an ambiant reserved space. This is your opportunity to connect 
@@ -26,5 +26,56 @@ DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 7 spots left
   will be available for purchase.
 URL:https://members.thequinhouse.com/events/173778
 CATEGORIES:Member Mixer
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-175763@thequinhouse.com
+DTSTAMP:20260302T152219Z
+DTSTART;TZID=America/New_York:20260317T130000
+DTEND;TZID=America/New_York:20260317T150000
+SUMMARY:'Quin Chat: Inside the Tank with Kevin O'Leary
+LOCATION:The Pub
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nStatus: You are on Waitlis
+ t\nEvent URL: https://members.thequinhouse.com/events/175763\n\n1:00PM Rec
+ eption\, 1:30PM Discussion\nJoin us for an inside look at the making of Sh
+ ark Tank with investor\, entrepreneur\, and television personality Kevin O
+ 'Leary.\n\nBest known to millions as “Mr. Wonderful\,” O’Leary pulls
+  back the curtain on what really happens behind the scenes of the hit seri
+ es. He’ll share candid stories from the tank\, insights into how investm
+ ent decisions are made under pressure\, and what it takes for entrepreneur
+ s to turn a televised pitch into a thriving business.\n\nExpect sharp wit\
+ , unfiltered perspective\, and a rare opportunity to explore the inner wor
+ kings of one of television’s most influential business platforms.\n\n*Th
+ is event is complimentary and reserved for members only. Light bites and r
+ efreshments will be served.
+URL:https://members.thequinhouse.com/events/175763
+CATEGORIES:‘Quin Chat
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-169177@thequinhouse.com
+DTSTAMP:20260302T152219Z
+DTSTART;TZID=America/New_York:20260324T130000
+DTEND;TZID=America/New_York:20260324T150000
+SUMMARY: 90 Minutes of Innovation 
+LOCATION:The Pub
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 45 spots lef
+ t\nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/
+ events/169177\n\n1:00PM Program\, 2:30PM Networking \nIn this dynamic con
+ versation\, moderated by John Werner\, flight becomes more than a metaphor
+ —it’s a real-world testing ground for how humans and intelligent syste
+ ms collaborate under pressure. U.S. Air Force test pilot Tucker “Cinco�
+ � Hamilton operates at the leading edge of autonomy\, where split-second d
+ ecisions shape outcomes. Kristen Costello Head of Government & Regulatory 
+ Affairs at BETA TECHNOLOGIES is helping pioneer a new era of electric avia
+ tion\, building the aircraft\, infrastructure\, and operational frameworks
+  that will define the industry’s future.\n\nTogether\, they explore trus
+ t\, training\, accountability\, and what remains distinctly human as machi
+ nes increasingly perceive\, predict\, and decide. Aviation has long foresh
+ adowed the future of work—today\, as AI transforms industries\, the cock
+ pit offers a powerful lens into how people and intelligent systems can coo
+ rdinate\, not compete\, in shaping what comes next.\n\n*This event is comp
+ limentary and reserved for members only. Light bites and refreshments will
+  be served.
+URL:https://members.thequinhouse.com/events/169177
+CATEGORIES:‘Quin Chat
 END:VEVENT
 END:VCALENDAR
