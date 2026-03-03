@@ -8,28 +8,28 @@ X-WR-TIMEZONE:America/New_York
 X-WR-CALDESC:Upcoming programming at The 'Quin House member club
 BEGIN:VEVENT
 UID:quin-event-173778@thequinhouse.com
-DTSTAMP:20260302T195316Z
+DTSTAMP:20260303T050609Z
 DTSTART;TZID=America/New_York:20260303T170000
 DTEND;TZID=America/New_York:20260303T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 3 spots left
- \nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/e
- vents/173778\n\nJoin us for our weekly Member Mingle\, an inclusive gather
- ing set in an ambiant reserved space. This is your opportunity to connect 
- with fellow members\, exchange ideas\, and cultivate meaningful relationsh
- ips.\n\nWhether you're sparking new collaborations\, sharing insights\, or
-  simply enjoying great conversation\, the Member Mingle is the perfect way
-  to engage with our dynamic community. Don’t miss the chance to connect\
- , inspire\, and be inspired!\n\n*This event is complimentary and reserved 
- for members only. Complimentary light bites will be served\, and beverages
-  will be available for purchase.
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 1 spot left\
+ nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/ev
+ ents/173778\n\nJoin us for our weekly Member Mingle\, an inclusive gatheri
+ ng set in an ambiant reserved space. This is your opportunity to connect w
+ ith fellow members\, exchange ideas\, and cultivate meaningful relationshi
+ ps.\n\nWhether you're sparking new collaborations\, sharing insights\, or 
+ simply enjoying great conversation\, the Member Mingle is the perfect way 
+ to engage with our dynamic community. Don’t miss the chance to connect\,
+  inspire\, and be inspired!\n\n*This event is complimentary and reserved f
+ or members only. Complimentary light bites will be served\, and beverages 
+ will be available for purchase.
 URL:https://members.thequinhouse.com/events/173778
 CATEGORIES:Member Mixer
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-175763@thequinhouse.com
-DTSTAMP:20260302T195316Z
+DTSTAMP:20260303T050609Z
 DTSTART;TZID=America/New_York:20260317T130000
 DTEND;TZID=America/New_York:20260317T150000
 SUMMARY:'Quin Chat: Inside the Tank with Kevin O'Leary
@@ -52,13 +52,13 @@ CATEGORIES:‘Quin Chat
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-169177@thequinhouse.com
-DTSTAMP:20260302T195316Z
+DTSTAMP:20260303T050609Z
 DTSTART;TZID=America/New_York:20260324T130000
 DTEND;TZID=America/New_York:20260324T150000
 SUMMARY: 90 Minutes of Innovation: Top Gun Meets a $2+ Billion Aviation Gam
  e-Changer 
 LOCATION:The Pub
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 35 spots lef
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 32 spots lef
  t\nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/
  events/169177\n\n1:00PM Program\, 2:30PM Networking \nTwo frontiers. One 
  stage. Not to be missed. In this high-voltage edition of 90 Minutes of Inn
