@@ -8,7 +8,7 @@ X-WR-TIMEZONE:America/New_York
 X-WR-CALDESC:Upcoming programming at The 'Quin House member club
 BEGIN:VEVENT
 UID:quin-event-175763@thequinhouse.com
-DTSTAMP:20260305T200425Z
+DTSTAMP:20260306T050144Z
 DTSTART;TZID=America/New_York:20260317T130000
 DTEND;TZID=America/New_York:20260317T150000
 SUMMARY:'Quin Chat: Inside the Tank with Kevin O'Leary
@@ -31,13 +31,13 @@ CATEGORIES:‘Quin Chat
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-169177@thequinhouse.com
-DTSTAMP:20260305T200425Z
+DTSTAMP:20260306T050144Z
 DTSTART;TZID=America/New_York:20260324T130000
 DTEND;TZID=America/New_York:20260324T150000
 SUMMARY: 90 Minutes of Innovation: Top Gun Meets a $2+ Billion Aviation Gam
  e-Changer 
 LOCATION:The Pub
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 140 spots le
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 137 spots le
  ft\nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com
  /events/169177\n\n1:00PM Program\, 2:30PM Networking \nTwo frontiers. One
   stage. Not to be missed. In this high-voltage edition of 90 Minutes of In
