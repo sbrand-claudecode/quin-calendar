@@ -8,7 +8,7 @@ X-WR-TIMEZONE:America/New_York
 X-WR-CALDESC:Upcoming programming at The 'Quin House member club
 BEGIN:VEVENT
 UID:quin-event-175068@thequinhouse.com
-DTSTAMP:20260309T143912Z
+DTSTAMP:20260309T195433Z
 DTSTART;VALUE=DATE:20260302
 DTEND;VALUE=DATE:20260401
 SUMMARY:A Taste of Rome
@@ -33,83 +33,83 @@ CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-166020@thequinhouse.com
-DTSTAMP:20260309T143912Z
+DTSTAMP:20260309T195433Z
 DTSTART;TZID=America/New_York:20260309T180000
 DTEND;TZID=America/New_York:20260309T210000
 SUMMARY:Community Dinner Table
 LOCATION:Café Q
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 2 spots left
- \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/16
- 6020\n\nStart your week in good company with the Café Q Community dinner 
- table for members-only. Set aside for those looking to expand their social
-  circle over a shared meal\, this gathering is all about good food\, livel
- y conversation\, and meaningful connections. Pull up a chair\, and savor t
- he experience—because nothing brings people together quite like a great 
- meal.\n\n*This event is reserved for members only. An advance charge of $2
- 4 per member contributes to communal appetizers available upon seating. Me
- mbers are responsible for à la carte entrées\, desserts\, and beverages\
- , plus taxes and fees. Cancellations made within 24 hours of the event\, o
- r failure to attend will be subject to the Café Q's surcharge policy.
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nStatus: Waitlist Only\nEve
+ nt URL: https://members.thequinhouse.com/events/166020\n\nStart your week 
+ in good company with the Café Q Community dinner table for members-only. 
+ Set aside for those looking to expand their social circle over a shared me
+ al\, this gathering is all about good food\, lively conversation\, and mea
+ ningful connections. Pull up a chair\, and savor the experience—because 
+ nothing brings people together quite like a great meal.\n\n*This event is 
+ reserved for members only. An advance charge of $24 per member contributes
+  to communal appetizers available upon seating. Members are responsible fo
+ r à la carte entrées\, desserts\, and beverages\, plus taxes and fees. C
+ ancellations made within 24 hours of the event\, or failure to attend will
+  be subject to the Café Q's surcharge policy.
 URL:https://members.thequinhouse.com/events/166020
 CATEGORIES:Member Mixer
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-172156@thequinhouse.com
-DTSTAMP:20260309T143912Z
+DTSTAMP:20260309T195433Z
 DTSTART;TZID=America/New_York:20260309T180000
 DTEND;TZID=America/New_York:20260309T190000
 SUMMARY:Improv Comedy | 6:00PM Show
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 6 spots left\nSt
- atus: Available\nEvent URL: https://members.thequinhouse.com/events/172156
- \n\nBoston’s best return to the 'House! Improv comedians are ready to ke
- ep you laughing with spontaneous sketches\, quick wit\, and audience-inspi
- red moments. Join us for a cocktail from the cash bar beginning at 5:30pm\
- , then snag your seat and enjoy a show packed with energy from beginning t
- o end. Seating is first come\, first serve\n\nMake it a night with a pre-s
- how burger and a beer from the Pub. Dining walk-ins are welcome! \n\n*This
-  event complimentary and available for registered members and up to one re
- gistered guest.
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 14 spots left\nS
+ tatus: Available\nEvent URL: https://members.thequinhouse.com/events/17215
+ 6\n\nBoston’s best return to the 'House! Improv comedians are ready to k
+ eep you laughing with spontaneous sketches\, quick wit\, and audience-insp
+ ired moments. Join us for a cocktail from the cash bar beginning at 5:30pm
+ \, then snag your seat and enjoy a show packed with energy from beginning 
+ to end. Seating is first come\, first serve\n\nMake it a night with a pre-
+ show burger and a beer from the Pub. Dining walk-ins are welcome! \n\n*Thi
+ s event complimentary and available for registered members and up to one r
+ egistered guest.
 URL:https://members.thequinhouse.com/events/172156
 CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-170316@thequinhouse.com
-DTSTAMP:20260309T143912Z
+DTSTAMP:20260309T195433Z
 DTSTART;TZID=America/New_York:20260309T193000
 DTEND;TZID=America/New_York:20260309T210000
 SUMMARY:Author's Circle Book Club: "Gorgeous Excitement" with Cynthia Weine
  r 
 LOCATION:The Muse
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 6 spots left\nSt
- atus: Available\nEvent URL: https://members.thequinhouse.com/events/170316
- \n\nBookmark the date for a compelling conversation exploring Gorgeous Exc
- itement\, the dazzling debut novel by Cynthia Weiner that captures the ele
- ctric allure\, and quiet disillusionment\, of coming of age in 1980s New Y
- ork City.\n\nSet against the backdrop of downtown Manhattan’s art scene\
- , the novel follows Nina Jacobs\, a young woman newly arrived in the city 
- and determined to remake herself amid a world of glamour\, excess\, and cr
- eative ambition. As Nina is drawn deeper into a seductive orbit of artists
- \, parties\, and possibility\, the excitement of reinvention gives way to 
- reckoning\, forcing her to confront the cost of desire\, identity\, and be
- longing.\n\nAt once vivid and introspective\, Gorgeous Excitement explores
-  the tension between aspiration and authenticity\, the intoxicating pull o
- f youth\, and the moment when fantasy collides with reality. Join us for a
-  thoughtful discussion of Weiner’s evocative portrait of self-discovery\
- , ambition\, and the price of wanting more.\n\n*This event is complimentar
- y and reserved for members only. Complimentary light bites and beverages w
- ill be served.
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 11 spots left\nS
+ tatus: Available\nEvent URL: https://members.thequinhouse.com/events/17031
+ 6\n\nBookmark the date for a compelling conversation exploring Gorgeous Ex
+ citement\, the dazzling debut novel by Cynthia Weiner that captures the el
+ ectric allure\, and quiet disillusionment\, of coming of age in 1980s New 
+ York City.\n\nSet against the backdrop of downtown Manhattan’s art scene
+ \, the novel follows Nina Jacobs\, a young woman newly arrived in the city
+  and determined to remake herself amid a world of glamour\, excess\, and c
+ reative ambition. As Nina is drawn deeper into a seductive orbit of artist
+ s\, parties\, and possibility\, the excitement of reinvention gives way to
+  reckoning\, forcing her to confront the cost of desire\, identity\, and b
+ elonging.\n\nAt once vivid and introspective\, Gorgeous Excitement explore
+ s the tension between aspiration and authenticity\, the intoxicating pull 
+ of youth\, and the moment when fantasy collides with reality. Join us for 
+ a thoughtful discussion of Weiner’s evocative portrait of self-discovery
+ \, ambition\, and the price of wanting more.\n\n*This event is complimenta
+ ry and reserved for members only. Complimentary light bites and beverages 
+ will be served.
 URL:https://members.thequinhouse.com/events/170316
 CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-172155@thequinhouse.com
-DTSTAMP:20260309T143912Z
+DTSTAMP:20260309T195433Z
 DTSTART;TZID=America/New_York:20260309T200000
 DTEND;TZID=America/New_York:20260309T210000
 SUMMARY:Improv Comedy | 8:00PM Show
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 12 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 22 spots left\nS
  tatus: Available\nEvent URL: https://members.thequinhouse.com/events/17215
  5\n\nBoston’s best return to the 'House! Improv comedians are ready to k
  eep you laughing with spontaneous sketches\, quick wit\, and audience-insp
@@ -124,27 +124,28 @@ CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-173780@thequinhouse.com
-DTSTAMP:20260309T143912Z
+DTSTAMP:20260309T195433Z
 DTSTART;TZID=America/New_York:20260310T170000
 DTEND;TZID=America/New_York:20260310T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nStatus: Waitlist Only\nEve
- nt URL: https://members.thequinhouse.com/events/173780\n\nJoin us for our 
- weekly Member Mingle\, an inclusive gathering set in an ambiant reserved s
- pace. This is your opportunity to connect with fellow members\, exchange i
- deas\, and cultivate meaningful relationships.\n\nWhether you're sparking 
- new collaborations\, sharing insights\, or simply enjoying great conversat
- ion\, the Member Mingle is the perfect way to engage with our dynamic comm
- unity. Don’t miss the chance to connect\, inspire\, and be inspired!\n\n
- *This event is complimentary and reserved for members only. Complimentary 
- light bites will be served\, and beverages will be available for purchase.
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 1 spot left\
+ nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/173
+ 780\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set i
+ n an ambiant reserved space. This is your opportunity to connect with fell
+ ow members\, exchange ideas\, and cultivate meaningful relationships.\n\nW
+ hether you're sparking new collaborations\, sharing insights\, or simply e
+ njoying great conversation\, the Member Mingle is the perfect way to engag
+ e with our dynamic community. Don’t miss the chance to connect\, inspire
+ \, and be inspired!\n\n*This event is complimentary and reserved for membe
+ rs only. Complimentary light bites will be served\, and beverages will be 
+ available for purchase.
 URL:https://members.thequinhouse.com/events/173780
 CATEGORIES:Member Mixer
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-174007@thequinhouse.com
-DTSTAMP:20260309T143912Z
+DTSTAMP:20260309T195433Z
 DTSTART;TZID=America/New_York:20260310T173000
 DTEND;TZID=America/New_York:20260310T200000
 SUMMARY:Game Night: Bridge Instructional Play Session I 
@@ -170,7 +171,7 @@ CATEGORIES:Sports & Games
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-174816@thequinhouse.com
-DTSTAMP:20260309T143912Z
+DTSTAMP:20260309T195433Z
 DTSTART;TZID=America/New_York:20260311T170000
 DTEND;TZID=America/New_York:20260311T183000
 SUMMARY:'Quin Chat: Eat\, Drink\, and Be Healthy with Dr. Walter Willett
@@ -198,7 +199,7 @@ CATEGORIES:Health & Wellness
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-175757@thequinhouse.com
-DTSTAMP:20260309T143912Z
+DTSTAMP:20260309T195433Z
 DTSTART;TZID=America/New_York:20260311T180000
 DTEND;TZID=America/New_York:20260311T210000
 SUMMARY:Live Music: Bob Richardson 
@@ -216,36 +217,35 @@ CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-175758@thequinhouse.com
-DTSTAMP:20260309T143912Z
+DTSTAMP:20260309T195433Z
 DTSTART;TZID=America/New_York:20260313T173000
 DTEND;TZID=America/New_York:20260313T190000
 SUMMARY:'Quin Chat: The Commonwealth at The Oscars
 LOCATION:Scottie's
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 2 spots left
- \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/17
- 5758\n\n5:30PM Reception\, 6:00PM Discussion \nJust in time for the Acade
- my Awards\, we invite you to an engaging reflection on Massachusetts-made 
- films and the Commonwealth’s enduring connection to Hollywood’s bigges
- t night. From Good Will Hunting and The Departed to Best Picture winners l
- ike Spotlight and CODA\, Boston-born stories and talent have long shaped t
- he Oscars stage.\n\nJoin Meg Montagnino-Jarrett\, Director of the Massachu
- setts Film Office\, in conversation with Co-Founders of Boston Casting\, �
- �Angela Peri and Lisa Lobel\; acclaimed local actress Rena Maliszewski\, w
- hose credits include Oscar-winning CODA and The Holdovers\; and Locations 
- Director Stephen Hartman. Together\, they will explore the scripts\, perfo
- rmances\, and behind-the-scenes craftsmanship that have positioned Boston 
- as a powerful force in contemporary cinema.\n\nAn evening for film enthusi
- asts and cultural insiders alike\, this conversation offers a rare look at
-  the creative ecosystem that continues to bring award-winning storytelling
-  to life—right here in the Commonwealth.\n\n*This event is complimentary
-  and reserved for members only. Light bites and refreshments will be serve
- d.
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nStatus: Waitlist Only\nEve
+ nt URL: https://members.thequinhouse.com/events/175758\n\n5:30PM Reception
+ \, 6:00PM Discussion \nJust in time for the Academy Awards\, we invite yo
+ u to an engaging reflection on Massachusetts-made films and the Commonweal
+ th’s enduring connection to Hollywood’s biggest night. From Good Will 
+ Hunting and The Departed to Best Picture winners like Spotlight and CODA\,
+  Boston-born stories and talent have long shaped the Oscars stage.\n\nJoin
+  Meg Montagnino-Jarrett\, Director of the Massachusetts Film Office\, in c
+ onversation with Co-Founders of Boston Casting\,  Angela Peri and Lisa Lo
+ bel\; acclaimed local actress Rena Maliszewski\, whose credits include Osc
+ ar-winning CODA and The Holdovers\; and Locations Director Stephen Hartman
+ . Together\, they will explore the scripts\, performances\, and behind-the
+ -scenes craftsmanship that have positioned Boston as a powerful force in c
+ ontemporary cinema.\n\nAn evening for film enthusiasts and cultural inside
+ rs alike\, this conversation offers a rare look at the creative ecosystem 
+ that continues to bring award-winning storytelling to life—right here in
+  the Commonwealth.\n\n*This event is complimentary and reserved for member
+ s only. Light bites and refreshments will be served.
 URL:https://members.thequinhouse.com/events/175758
 CATEGORIES:‘Quin Chat
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-173023@thequinhouse.com
-DTSTAMP:20260309T143912Z
+DTSTAMP:20260309T195433Z
 DTSTART;TZID=America/New_York:20260314T130000
 DTEND;TZID=America/New_York:20260314T150000
 SUMMARY:Serendipity Brunch
@@ -270,7 +270,7 @@ CATEGORIES:Member Mixer
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-177075@thequinhouse.com
-DTSTAMP:20260309T143912Z
+DTSTAMP:20260309T195433Z
 DTSTART;VALUE=DATE:20260315
 DTEND;VALUE=DATE:20260316
 SUMMARY:Oscars Viewing Party
@@ -289,11 +289,11 @@ CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-177038@thequinhouse.com
-DTSTAMP:20260309T143912Z
+DTSTAMP:20260309T195433Z
 DTSTART;VALUE=DATE:20260316
 DTEND;VALUE=DATE:20260318
 SUMMARY:March Madness Men's Bracket Challenge 
-DESCRIPTION:Category: Sports & Games\nPrice: Free\nAvailability: 755 spots 
+DESCRIPTION:Category: Sports & Games\nPrice: Free\nAvailability: 749 spots 
  left\nStatus: Available\nTime: 6 PM – 6 PM\nEvent URL: https://members.t
  hequinhouse.com/events/177038\n\nAre you game? The fifth annual 'Quin Hous
  e March Madness Men's Bracket Challenge commences for a spirited member-on
@@ -308,7 +308,7 @@ CATEGORIES:Sports & Games
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-172753@thequinhouse.com
-DTSTAMP:20260309T143912Z
+DTSTAMP:20260309T195433Z
 DTSTART;TZID=America/New_York:20260316T200000
 DTEND;TZID=America/New_York:20260316T223000
 SUMMARY:'Quin Suite: Celtics vs Suns
@@ -333,11 +333,11 @@ CATEGORIES:Sports & Games
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-177039@thequinhouse.com
-DTSTAMP:20260309T143912Z
+DTSTAMP:20260309T195433Z
 DTSTART;VALUE=DATE:20260316
 DTEND;VALUE=DATE:20260318
 SUMMARY:March Madness Women's Bracket Challenge 
-DESCRIPTION:Category: Sports & Games\nPrice: Free\nAvailability: 481 spots 
+DESCRIPTION:Category: Sports & Games\nPrice: Free\nAvailability: 479 spots 
  left\nStatus: Available\nTime: 8 PM – 5 PM\nEvent URL: https://members.t
  hequinhouse.com/events/177039\n\nAre you game? The fifth annual 'Quin Hous
  e March Madness Women's Bracket Challenge commences for a spirited member-
@@ -352,7 +352,7 @@ CATEGORIES:Sports & Games
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-175763@thequinhouse.com
-DTSTAMP:20260309T143912Z
+DTSTAMP:20260309T195433Z
 DTSTART;TZID=America/New_York:20260317T130000
 DTEND;TZID=America/New_York:20260317T150000
 SUMMARY:'Quin Chat: Inside the Tank with Kevin O'Leary
@@ -375,7 +375,7 @@ CATEGORIES:‘Quin Chat
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-173779@thequinhouse.com
-DTSTAMP:20260309T143912Z
+DTSTAMP:20260309T195433Z
 DTSTART;TZID=America/New_York:20260317T170000
 DTEND;TZID=America/New_York:20260317T190000
 SUMMARY:Member Mingle
@@ -396,7 +396,7 @@ CATEGORIES:Member Mixer
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-175759@thequinhouse.com
-DTSTAMP:20260309T143912Z
+DTSTAMP:20260309T195433Z
 DTSTART;TZID=America/New_York:20260317T170000
 DTEND;TZID=America/New_York:20260317T183000
 SUMMARY:Author Talk: "The Encore" with Juliet Izon
@@ -422,7 +422,7 @@ CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-173832@thequinhouse.com
-DTSTAMP:20260309T143912Z
+DTSTAMP:20260309T195433Z
 DTSTART;VALUE=DATE:20260317
 DTEND;VALUE=DATE:20260321
 SUMMARY:Explorateur: Wild Honey Inn 
@@ -459,7 +459,7 @@ CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-174360@thequinhouse.com
-DTSTAMP:20260309T143912Z
+DTSTAMP:20260309T195433Z
 DTSTART;TZID=America/New_York:20260317T173000
 DTEND;TZID=America/New_York:20260317T200000
 SUMMARY:Game Night: Bridge Instructional Play Session II
@@ -485,12 +485,12 @@ CATEGORIES:Sports & Games
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-175765@thequinhouse.com
-DTSTAMP:20260309T143912Z
+DTSTAMP:20260309T195433Z
 DTSTART;TZID=America/New_York:20260318T170000
 DTEND;TZID=America/New_York:20260318T183000
 SUMMARY:'Quin Chat: Reducing the Risk
 LOCATION:The Muse
-DESCRIPTION:Category: Health & Wellness\nPrice: Free\nAvailability: 43 spot
+DESCRIPTION:Category: Health & Wellness\nPrice: Free\nAvailability: 36 spot
  s left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/eve
  nts/175765\n\n5:00PM Reception\, 5:30PM Discussion \nMarch is Colon Cance
  r Awareness Month—a timely opportunity to learn more about prevention\, 
@@ -511,7 +511,7 @@ CATEGORIES:Health & Wellness
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-174818@thequinhouse.com
-DTSTAMP:20260309T143912Z
+DTSTAMP:20260309T195433Z
 DTSTART;TZID=America/New_York:20260318T180000
 DTEND;TZID=America/New_York:20260318T210000
 SUMMARY:Live Music: Yamane
@@ -530,7 +530,7 @@ CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-175002@thequinhouse.com
-DTSTAMP:20260309T143912Z
+DTSTAMP:20260309T195433Z
 DTSTART;TZID=America/New_York:20260320T070000
 DTEND;TZID=America/New_York:20260320T081500
 SUMMARY:Vernal Equinox Sunrise Mediation 
@@ -548,12 +548,12 @@ CATEGORIES:Health & Wellness
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-177083@thequinhouse.com
-DTSTAMP:20260309T143912Z
+DTSTAMP:20260309T195433Z
 DTSTART;TZID=America/New_York:20260320T173000
 DTEND;TZID=America/New_York:20260320T193000
 SUMMARY:Member Mixer: Speed Networking 
 LOCATION:Scottie's
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 27 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 23 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  77083\n\nExpand your network and spark meaningful connections at this mont
  h’s Member Mixer. Designed to be both dynamic and personal\, this fast-p
@@ -573,7 +573,7 @@ CATEGORIES:Member Mixer
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-175767@thequinhouse.com
-DTSTAMP:20260309T143912Z
+DTSTAMP:20260309T195433Z
 DTSTART;TZID=America/New_York:20260321T090000
 DTEND;TZID=America/New_York:20260321T120000
 SUMMARY:Hands on Impact: Greater Boston Food Bank 
@@ -596,7 +596,7 @@ CATEGORIES:‘Quin Impact Fund
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-167855@thequinhouse.com
-DTSTAMP:20260309T143912Z
+DTSTAMP:20260309T195433Z
 DTSTART;TZID=America/New_York:20260322T090000
 DTEND;TZID=America/New_York:20260322T120000
 SUMMARY:'Quin Impact Fund: Winter Walk
@@ -626,32 +626,32 @@ CATEGORIES:‘Quin Impact Fund
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-175770@thequinhouse.com
-DTSTAMP:20260309T143912Z
+DTSTAMP:20260309T195433Z
 DTSTART;TZID=America/New_York:20260323T160000
 DTEND;TZID=America/New_York:20260323T170000
 SUMMARY:Meet the Maker: Robert Foley Vineyards Session I
 LOCATION:The Living Room
-DESCRIPTION:Category: Food & Beverage\nPrice: Free\nAvailability: 10 spots 
- left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/event
- s/175770\n\nJoin us for an intimate afternoon with Robert Foley of Robert 
- Foley Wines\, one of Napa Valley’s most revered vintners. With decades o
- f winemaking expertise\, Robert’s approach is rooted in precision\, pati
- ence\, and a deep respect for the vineyard. Each varietal reflects the dis
- tinct expression of its terroir—structured\, layered\, and built to age�
- ��while remaining unmistakably expressive in the glass. Throughout the tas
- ting\, members will explore aroma\, structure\, and nuance in an interacti
- ve dialogue designed to sharpen the senses and deepen appreciation.\n\nRob
- ert will personally guide members through a curated tasting of five except
- ional wines—Charbono 2021\, Chardonnay 2023\, Claret 2018\, Griffin 2019
- \, and Napa Cabernet 2018—offering insight into the craft\, character\, 
- and philosophy behind each bottle.\n\n*This event is complimentary and res
- erved for members only. Light bites will be served.
+DESCRIPTION:Category: Food & Beverage\nPrice: Free\nAvailability: 1 spot le
+ ft\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/
+ 175770\n\nJoin us for an intimate afternoon with Robert Foley of Robert Fo
+ ley Wines\, one of Napa Valley’s most revered vintners. With decades of 
+ winemaking expertise\, Robert’s approach is rooted in precision\, patien
+ ce\, and a deep respect for the vineyard. Each varietal reflects the disti
+ nct expression of its terroir—structured\, layered\, and built to age—
+ while remaining unmistakably expressive in the glass. Throughout the tasti
+ ng\, members will explore aroma\, structure\, and nuance in an interactive
+  dialogue designed to sharpen the senses and deepen appreciation.\n\nRober
+ t will personally guide members through a curated tasting of five exceptio
+ nal wines—Charbono 2021\, Chardonnay 2023\, Claret 2018\, Griffin 2019\,
+  and Napa Cabernet 2018—offering insight into the craft\, character\, an
+ d philosophy behind each bottle.\n\n*This event is complimentary and reser
+ ved for members only. Light bites will be served.
 URL:https://members.thequinhouse.com/events/175770
 CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-166021@thequinhouse.com
-DTSTAMP:20260309T143912Z
+DTSTAMP:20260309T195433Z
 DTSTART;TZID=America/New_York:20260323T180000
 DTEND;TZID=America/New_York:20260323T210000
 SUMMARY:Community Dinner Table
@@ -673,7 +673,7 @@ CATEGORIES:Member Mixer
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-177076@thequinhouse.com
-DTSTAMP:20260309T143912Z
+DTSTAMP:20260309T195433Z
 DTSTART;TZID=America/New_York:20260323T180000
 DTEND;TZID=America/New_York:20260323T190000
 SUMMARY:Meet the Maker: Robert Foley Vineyards Session II
@@ -698,13 +698,13 @@ CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-175783@thequinhouse.com
-DTSTAMP:20260309T143912Z
+DTSTAMP:20260309T195433Z
 DTSTART;TZID=America/New_York:20260323T183000
 DTEND;TZID=America/New_York:20260323T210000
 SUMMARY:Serendipity Dinner: Her Seventies and Beyond with Maria Trozzi
 LOCATION:The Muse
 DESCRIPTION:Category: Health & Wellness\nPrice: $100.00 per person\nAvailab
- ility: 15 spots left\nStatus: Available\nEvent URL: https://members.thequi
+ ility: 14 spots left\nStatus: Available\nEvent URL: https://members.thequi
  nhouse.com/events/175783\n\nJoin us for a thoughtfully curated Serendipity
   Dinner designed for female members entering their third chapter. Guided b
  y esteemed psychotherapist and author Maria Trozzi\, this intimate evening
@@ -728,69 +728,69 @@ CATEGORIES:Health & Wellness
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-169177@thequinhouse.com
-DTSTAMP:20260309T143912Z
+DTSTAMP:20260309T195433Z
 DTSTART;TZID=America/New_York:20260324T130000
 DTEND;TZID=America/New_York:20260324T150000
 SUMMARY: 90 Minutes of Innovation: Top Gun Meets a $2+ Billion Aviation Gam
  e-Changer 
 LOCATION:The Pub
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 171 spots le
- ft\nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com
- /events/169177\n\n1:00PM Program\, 2:30PM Networking \nTwo frontiers. One
-  stage. Not to be missed. In this high-voltage edition of 90 Minutes of In
- novation\, flight becomes more than a metaphor — it becomes a stress tes
- t for the future of AI\, defense\, climate innovation\, and human judgment
-  itself.\n\nJohn Werner — venture capitalist\, Forbes AI columnist\, and
-  Innovation Curator at The ’Quin House — convenes an extraordinary pai
- ring you won’t see anywhere else. A real-world Top Gun who has flown 80 
- combat missions\, 290 test missions\, and logged more than 2\,000 hours ac
- ross 30 aircraft — including the F-35\, F-15\, and F-16 — operating al
- ongside AI in live\, high-stakes environments. And a leader helping build 
- one of the most highly capitalized electric aviation companies in the worl
- d.\n\nFirst: Kristen Costello\n\nBuilding the Next Aviation System\n\nKris
- ten Costello is a pilot and executive at Vermont-based Beta Technologies\,
-  a New England aerospace company valued at more than $2 billion and backed
-  by over $1 billion from Fidelity\, Qatar Investment Authority\, Amazon’
- s Climate Pledge Fund\, GE Aerospace\, and others.\n\nBeta isn’t pitchin
- g a concept. It’s building a new aviation system. Founded by former Harv
- ard hockey player Kyle Clark — once told not to return to Vermont becaus
- e “there was nothing there” — Beta has grown into one of the most am
- bitious aerospace companies on the planet. The company is developing all-e
- lectric aircraft for cargo\, medical logistics\, and passenger travel whil
- e simultaneously constructing a nationwide charging network. It has comple
- ted cross-country flights\, secured major commercial and defense partnersh
- ips\, and is advancing through the FAA’s rigorous certification process.
- \n\nThe breakthrough isn’t just the airplane. It’s the systems thinkin
- g — aircraft\, charging infrastructure\, certification\, pilot training\
- , and operations built in parallel. Not incremental change\, but a redesig
- n of regional air mobility from propulsion to power grid. If it succeeds\,
-  it won’t just change how we fly. It will change where flying makes sens
- e.\n\nThen: Tucker “Cinco” Hamilton\n\nWhere Humans and AI Share the C
- ockpit\n\nThe evening shifts to contested airspace.\n\nRetired U.S. Air Fo
- rce Colonel and experimental fighter test pilot Tucker “Cinco” Hamilto
- n — former Chief of AI Test and Operations for the U.S. Air Force and Sp
- ace Force — led the integration of AI-enabled autonomy into combat aircr
- aft. He has operated at the edge\, where algorithms and humans share the c
- ockpit in real-time\, high-consequence environments.\n\nHamilton brings au
- diences inside moments few will ever experience: ejecting from a failing a
- ircraft\, managing an engine fire at twice the speed of sound\, crash-land
- ing a jet while fighting to keep it upright\, and flying combat missions o
- ver Afghanistan. For Hamilton\, AI is not theoretical. It is airborne. He 
- has confronted the defining questions of our era:\n\nWhen should a machine
-  be trusted?\n\nHow do you test systems that learn?\n\nWhat happens when A
- I evolves faster than doctrine?\n\nWho is accountable when autonomy acts?\
- n\nThis program also marks the debut of his new book\, Unlocking the Last 
- 20%\, on elite performance in an age of automation.\n\nAviation has always
-  previewed the future. Now it is revealing the operating system of the nex
- t century. The future is not humans replaced by machines. It is humans red
- esigned alongside them.\n\n*This event is complimentary and reserved for m
- embers only. Light bites and refreshments will be served.
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nStatus: You are Confirmed\
+ nEvent URL: https://members.thequinhouse.com/events/169177\n\n1:00PM Progr
+ am\, 2:30PM Networking \nTwo frontiers. One stage. Not to be missed. In t
+ his high-voltage edition of 90 Minutes of Innovation\, flight becomes more
+  than a metaphor — it becomes a stress test for the future of AI\, defen
+ se\, climate innovation\, and human judgment itself.\n\nJohn Werner — ve
+ nture capitalist\, Forbes AI columnist\, and Innovation Curator at The ’
+ Quin House — convenes an extraordinary pairing you won’t see anywhere 
+ else. A real-world Top Gun who has flown 80 combat missions\, 290 test mis
+ sions\, and logged more than 2\,000 hours across 30 aircraft — including
+  the F-35\, F-15\, and F-16 — operating alongside AI in live\, high-stak
+ es environments. And a leader helping build one of the most highly capital
+ ized electric aviation companies in the world.\n\nFirst: Kristen Costello\
+ n\nBuilding the Next Aviation System\n\nKristen Costello is a pilot and ex
+ ecutive at Vermont-based Beta Technologies\, a New England aerospace compa
+ ny valued at more than $2 billion and backed by over $1 billion from Fidel
+ ity\, Qatar Investment Authority\, Amazon’s Climate Pledge Fund\, GE Aer
+ ospace\, and others.\n\nBeta isn’t pitching a concept. It’s building a
+  new aviation system. Founded by former Harvard hockey player Kyle Clark �
+ �� once told not to return to Vermont because “there was nothing there�
+ � — Beta has grown into one of the most ambitious aerospace companies on
+  the planet. The company is developing all-electric aircraft for cargo\, m
+ edical logistics\, and passenger travel while simultaneously constructing 
+ a nationwide charging network. It has completed cross-country flights\, se
+ cured major commercial and defense partnerships\, and is advancing through
+  the FAA’s rigorous certification process.\n\nThe breakthrough isn’t j
+ ust the airplane. It’s the systems thinking — aircraft\, charging infr
+ astructure\, certification\, pilot training\, and operations built in para
+ llel. Not incremental change\, but a redesign of regional air mobility fro
+ m propulsion to power grid. If it succeeds\, it won’t just change how we
+  fly. It will change where flying makes sense.\n\nThen: Tucker “Cinco”
+  Hamilton\n\nWhere Humans and AI Share the Cockpit\n\nThe evening shifts t
+ o contested airspace.\n\nRetired U.S. Air Force Colonel and experimental f
+ ighter test pilot Tucker “Cinco” Hamilton — former Chief of AI Test 
+ and Operations for the U.S. Air Force and Space Force — led the integrat
+ ion of AI-enabled autonomy into combat aircraft. He has operated at the ed
+ ge\, where algorithms and humans share the cockpit in real-time\, high-con
+ sequence environments.\n\nHamilton brings audiences inside moments few wil
+ l ever experience: ejecting from a failing aircraft\, managing an engine f
+ ire at twice the speed of sound\, crash-landing a jet while fighting to ke
+ ep it upright\, and flying combat missions over Afghanistan. For Hamilton\
+ , AI is not theoretical. It is airborne. He has confronted the defining qu
+ estions of our era:\n\nWhen should a machine be trusted?\n\nHow do you tes
+ t systems that learn?\n\nWhat happens when AI evolves faster than doctrine
+ ?\n\nWho is accountable when autonomy acts?\n\nThis program also marks the
+  debut of his new book\, Unlocking the Last 20%\, on elite performance in 
+ an age of automation.\n\nAviation has always previewed the future. Now it 
+ is revealing the operating system of the next century. The future is not h
+ umans replaced by machines. It is humans redesigned alongside them.\n\n*Th
+ is event is complimentary and reserved for members only. Light bites and r
+ efreshments will be served.
 URL:https://members.thequinhouse.com/events/169177
 CATEGORIES:‘Quin Chat
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-173781@thequinhouse.com
-DTSTAMP:20260309T143912Z
+DTSTAMP:20260309T195433Z
 DTSTART;TZID=America/New_York:20260324T170000
 DTEND;TZID=America/New_York:20260324T190000
 SUMMARY:Member Mingle
@@ -811,7 +811,7 @@ CATEGORIES:‘Quin Chat,Member Mixer
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-173833@thequinhouse.com
-DTSTAMP:20260309T143912Z
+DTSTAMP:20260309T195433Z
 DTSTART;TZID=America/New_York:20260324T193000
 DTEND;TZID=America/New_York:20260324T210000
 SUMMARY:Author's Circle Book Club: "Canticle" with Janet Rich Edwards 
@@ -840,7 +840,7 @@ CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-172754@thequinhouse.com
-DTSTAMP:20260309T143912Z
+DTSTAMP:20260309T195433Z
 DTSTART;TZID=America/New_York:20260325T193000
 DTEND;TZID=America/New_York:20260325T220000
 SUMMARY:'Quin Suite: Celtics vs Thunder
@@ -865,7 +865,7 @@ CATEGORIES:Sports & Games
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-173809@thequinhouse.com
-DTSTAMP:20260309T143912Z
+DTSTAMP:20260309T195433Z
 DTSTART;TZID=America/New_York:20260327T110000
 DTEND;TZID=America/New_York:20260327T120000
 SUMMARY:Art Tour: Celebrating Female Artists
@@ -884,7 +884,7 @@ CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-172755@thequinhouse.com
-DTSTAMP:20260309T143912Z
+DTSTAMP:20260309T195433Z
 DTSTART;TZID=America/New_York:20260327T193000
 DTEND;TZID=America/New_York:20260327T220000
 SUMMARY:'Quin Suite: Celtics vs Hawks
@@ -908,7 +908,7 @@ CATEGORIES:Sports & Games
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-173024@thequinhouse.com
-DTSTAMP:20260309T143912Z
+DTSTAMP:20260309T195433Z
 DTSTART;TZID=America/New_York:20260328T130000
 DTEND;TZID=America/New_York:20260328T150000
 SUMMARY:Serendipity Brunch
@@ -932,12 +932,12 @@ CATEGORIES:Member Mixer
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-177090@thequinhouse.com
-DTSTAMP:20260309T143912Z
+DTSTAMP:20260309T195433Z
 DTSTART;TZID=America/New_York:20260330T180000
 DTEND;TZID=America/New_York:20260330T200000
 SUMMARY:Member Meet Up: F1 Arcade
 LOCATION:Offsite: F1 Arcade
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 22 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 17 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  77090\n\nStep into the driver’s seat for a high-octane Member Meet-Up at
   F1 Arcade Boston in the Seaport. This world-first social racing concept b
@@ -955,13 +955,13 @@ CATEGORIES:Member Mixer
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-173782@thequinhouse.com
-DTSTAMP:20260309T143912Z
+DTSTAMP:20260309T195433Z
 DTSTART;TZID=America/New_York:20260331T170000
 DTEND;TZID=America/New_York:20260331T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: ‘Quin Chat\, Member Mixer\nPrice: Free\nAvailabilit
- y: 36 spots left\nStatus: Available\nEvent URL: https://members.thequinhou
+ y: 35 spots left\nStatus: Available\nEvent URL: https://members.thequinhou
  se.com/events/173782\n\nJoin us for our weekly Member Mingle\, an inclusiv
  e gathering set in an ambiant reserved space. This is your opportunity to 
  connect with fellow members\, exchange ideas\, and cultivate meaningful re
@@ -976,12 +976,12 @@ CATEGORIES:‘Quin Chat,Member Mixer
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-173828@thequinhouse.com
-DTSTAMP:20260309T143912Z
+DTSTAMP:20260309T195433Z
 DTSTART;TZID=America/New_York:20260331T180000
 DTEND;TZID=America/New_York:20260331T190000
 SUMMARY:Stand Up Comedy: Kelly MacFarland | 6:00PM Show
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 63 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 61 spots left\nS
  tatus: Available\nEvent URL: https://members.thequinhouse.com/events/17382
  8\n\nBoston’s best return to the ’House! Join us for a night of comedy
   featuring headliner Kelly MacFarland\, the Boston-born stand-up known for
@@ -999,12 +999,12 @@ CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-173827@thequinhouse.com
-DTSTAMP:20260309T143912Z
+DTSTAMP:20260309T195433Z
 DTSTART;TZID=America/New_York:20260331T200000
 DTEND;TZID=America/New_York:20260331T210000
 SUMMARY:Stand Up Comedy: Kelly MacFarland | 8:00PM Show
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 39 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 33 spots left\nS
  tatus: Available\nEvent URL: https://members.thequinhouse.com/events/17382
  7\n\nBoston’s best return to the ’House! Join us for a night of comedy
   featuring headliner Kelly MacFarland\, the Boston-born stand-up known for
@@ -1022,13 +1022,13 @@ CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-175996@thequinhouse.com
-DTSTAMP:20260309T143912Z
+DTSTAMP:20260309T195433Z
 DTSTART;TZID=America/New_York:20260406T183000
 DTEND;TZID=America/New_York:20260406T210000
 SUMMARY:Serendipity Dinner 
 LOCATION:The Muse
 DESCRIPTION:Category: Member Mixer\nPrice: $100.00 per person\nAvailability
- : 13 spots left\nStatus: Available\nEvent URL: https://members.thequinhous
+ : 10 spots left\nStatus: Available\nEvent URL: https://members.thequinhous
  e.com/events/175996\n\nJoin The ‘Quin House Managing Director\, Matthias
   Kiehm\, for an evening of meaningful connections over a thoughtfully cura
  ted three-course dinner. Enjoy expertly paired wines as you engage with fe
@@ -1045,7 +1045,7 @@ CATEGORIES:Member Mixer
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-172756@thequinhouse.com
-DTSTAMP:20260309T143912Z
+DTSTAMP:20260309T195433Z
 DTSTART;TZID=America/New_York:20260407T193000
 DTEND;TZID=America/New_York:20260407T220000
 SUMMARY:'Quin Suite: Celtics vs Hornets
@@ -1070,7 +1070,7 @@ CATEGORIES:Sports & Games
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-176369@thequinhouse.com
-DTSTAMP:20260309T143912Z
+DTSTAMP:20260309T195433Z
 DTSTART;TZID=America/New_York:20260408T180000
 DTEND;TZID=America/New_York:20260408T210000
 SUMMARY:Live Music: Bob Richardson 
@@ -1088,7 +1088,7 @@ CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-166077@thequinhouse.com
-DTSTAMP:20260309T143912Z
+DTSTAMP:20260309T195433Z
 DTSTART;VALUE=DATE:20260409
 DTEND;VALUE=DATE:20260417
 SUMMARY:'Venture: The Wonders of Egypt
@@ -1153,7 +1153,7 @@ CATEGORIES:‘Venture - Travel
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-172757@thequinhouse.com
-DTSTAMP:20260309T143912Z
+DTSTAMP:20260309T195433Z
 DTSTART;TZID=America/New_York:20260410T193000
 DTEND;TZID=America/New_York:20260410T220000
 SUMMARY:'Quin Suite: Celtics vs Pelicans
@@ -1178,7 +1178,7 @@ CATEGORIES:Sports & Games
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-166318@thequinhouse.com
-DTSTAMP:20260309T143912Z
+DTSTAMP:20260309T195433Z
 DTSTART;VALUE=DATE:20260623
 DTEND;VALUE=DATE:20260627
 SUMMARY:'Quin Suite: World Cup England v. Ghana 
@@ -1202,7 +1202,7 @@ CATEGORIES:Sports & Games
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-175300@thequinhouse.com
-DTSTAMP:20260309T143912Z
+DTSTAMP:20260309T195433Z
 DTSTART;TZID=America/New_York:20260626T150000
 DTEND;TZID=America/New_York:20260626T180000
 SUMMARY:'Quin Suite: World Cup France v. Norway
