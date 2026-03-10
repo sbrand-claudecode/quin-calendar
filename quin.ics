@@ -8,30 +8,30 @@ X-WR-TIMEZONE:America/New_York
 X-WR-CALDESC:Upcoming programming at The 'Quin House member club
 BEGIN:VEVENT
 UID:quin-event-175763@thequinhouse.com
-DTSTAMP:20260310T075806Z
+DTSTAMP:20260310T143534Z
 DTSTART;TZID=America/New_York:20260317T130000
 DTEND;TZID=America/New_York:20260317T150000
 SUMMARY:'Quin Chat: Inside the Tank with Kevin O'Leary
 LOCATION:The Pub
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 1 spot left\
- nStatus: You are on Waitlist\nEvent URL: https://members.thequinhouse.com/
- events/175763\n\n1:00PM Reception\, 1:30PM Discussion\nJoin us for an insi
- de look at the making of Shark Tank with investor\, entrepreneur\, and tel
- evision personality Kevin O'Leary.\n\nBest known to millions as “Mr. Won
- derful\,” O’Leary pulls back the curtain on what really happens behind
-  the scenes of the hit series. He’ll share candid stories from the tank\
- , insights into how investment decisions are made under pressure\, and wha
- t it takes for entrepreneurs to turn a televised pitch into a thriving bus
- iness.\n\nExpect sharp wit\, unfiltered perspective\, and a rare opportuni
- ty to explore the inner workings of one of television’s most influential
-  business platforms.\n\n*This event is complimentary and reserved for memb
- ers only. Light bites and refreshments will be served.
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nStatus: You are on Waitlis
+ t\nEvent URL: https://members.thequinhouse.com/events/175763\n\n1:00PM Rec
+ eption\, 1:30PM Discussion\nJoin us for an inside look at the making of Sh
+ ark Tank with investor\, entrepreneur\, and television personality Kevin O
+ 'Leary.\n\nBest known to millions as “Mr. Wonderful\,” O’Leary pulls
+  back the curtain on what really happens behind the scenes of the hit seri
+ es. He’ll share candid stories from the tank\, insights into how investm
+ ent decisions are made under pressure\, and what it takes for entrepreneur
+ s to turn a televised pitch into a thriving business.\n\nExpect sharp wit\
+ , unfiltered perspective\, and a rare opportunity to explore the inner wor
+ kings of one of television’s most influential business platforms.\n\n*Th
+ is event is complimentary and reserved for members only. Light bites and r
+ efreshments will be served.
 URL:https://members.thequinhouse.com/events/175763
 CATEGORIES:‘Quin Chat
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-169177@thequinhouse.com
-DTSTAMP:20260310T075806Z
+DTSTAMP:20260310T143534Z
 DTSTART;TZID=America/New_York:20260324T130000
 DTEND;TZID=America/New_York:20260324T150000
 SUMMARY: 90 Minutes of Innovation: Top Gun Meets a $2+ Billion Aviation Gam
