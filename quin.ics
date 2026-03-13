@@ -7,8 +7,31 @@ X-WR-CALNAME:Quin
 X-WR-TIMEZONE:America/New_York
 X-WR-CALDESC:Upcoming programming at The 'Quin House member club
 BEGIN:VEVENT
+UID:quin-event-175763@thequinhouse.com
+DTSTAMP:20260313T050532Z
+DTSTART;TZID=America/New_York:20260317T130000
+DTEND;TZID=America/New_York:20260317T150000
+SUMMARY:'Quin Chat: Inside the Tank with Kevin O'Leary
+LOCATION:Offsite: Mandarin Oriental
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nStatus: You are Confirmed\
+ nEvent URL: https://members.thequinhouse.com/events/175763\n\n1:00PM Recep
+ tion\, 1:30PM Discussion\nJoin us for an inside look at the making of Shar
+ k Tank with investor\, entrepreneur\, and television personality Kevin O'L
+ eary.\n\nBest known to millions as “Mr. Wonderful\,” O’Leary pulls b
+ ack the curtain on what really happens behind the scenes of the hit series
+ . He’ll share candid stories from the tank\, insights into how investmen
+ t decisions are made under pressure\, and what it takes for entrepreneurs 
+ to turn a televised pitch into a thriving business.\n\nExpect sharp wit\, 
+ unfiltered perspective\, and a rare opportunity to explore the inner worki
+ ngs of one of television’s most influential business platforms.\n\n*This
+  event is complimentary and reserved for members only. Light bites and ref
+ reshments will be served.
+URL:https://members.thequinhouse.com/events/175763
+CATEGORIES:‘Quin Chat
+END:VEVENT
+BEGIN:VEVENT
 UID:quin-event-169177@thequinhouse.com
-DTSTAMP:20260312T200211Z
+DTSTAMP:20260313T050532Z
 DTSTART;TZID=America/New_York:20260324T130000
 DTEND;TZID=America/New_York:20260324T150000
 SUMMARY: 90 Minutes of Innovation: Top Gun Meets a $2+ Billion Aviation Gam
