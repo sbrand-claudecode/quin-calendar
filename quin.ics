@@ -7,87 +7,64 @@ X-WR-CALNAME:Quin
 X-WR-TIMEZONE:America/New_York
 X-WR-CALDESC:Upcoming programming at The 'Quin House member club
 BEGIN:VEVENT
-UID:quin-event-175763@thequinhouse.com
-DTSTAMP:20260317T154353Z
-DTSTART;TZID=America/New_York:20260317T130000
-DTEND;TZID=America/New_York:20260317T150000
-SUMMARY:'Quin Chat: Inside the Tank with Kevin O'Leary
-LOCATION:Offsite: Mandarin Oriental
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nStatus: You are Confirmed\
- nEvent URL: https://members.thequinhouse.com/events/175763\n\n1:00PM Recep
- tion\, 1:30PM Discussion\nJoin us for an inside look at the making of Shar
- k Tank with investor\, entrepreneur\, and television personality Kevin O'L
- eary.\n\nBest known to millions as “Mr. Wonderful\,” O’Leary pulls b
- ack the curtain on what really happens behind the scenes of the hit series
- . He’ll share candid stories from the tank\, insights into how investmen
- t decisions are made under pressure\, and what it takes for entrepreneurs 
- to turn a televised pitch into a thriving business.\n\nExpect sharp wit\, 
- unfiltered perspective\, and a rare opportunity to explore the inner worki
- ngs of one of television’s most influential business platforms.\n\n*This
-  event is complimentary and reserved for members only. Light bites and ref
- reshments will be served.
-URL:https://members.thequinhouse.com/events/175763
-CATEGORIES:‘Quin Chat
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-169177@thequinhouse.com
-DTSTAMP:20260317T154353Z
+DTSTAMP:20260317T200150Z
 DTSTART;TZID=America/New_York:20260324T130000
 DTEND;TZID=America/New_York:20260324T150000
 SUMMARY: 90 Minutes of Innovation: Top Gun Meets a $2+ Billion Aviation Gam
  e-Changer 
 LOCATION:The Pub
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 2 spots left
- \nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/e
- vents/169177\n\n1:00PM Program\, 2:30PM Networking \nTwo frontiers. One s
- tage. Not to be missed. In this high-voltage edition of 90 Minutes of Inno
- vation\, flight becomes more than a metaphor — it becomes a stress test 
- for the future of AI\, defense\, climate innovation\, and human judgment i
- tself.\n\nJohn Werner — venture capitalist\, Forbes AI columnist\, and I
- nnovation Curator at The ’Quin House — convenes an extraordinary pairi
- ng you won’t see anywhere else. A real-world Top Gun who has flown 80 co
- mbat missions\, 290 test missions\, and logged more than 2\,000 hours acro
- ss 30 aircraft — including the F-35\, F-15\, and F-16 — operating alon
- gside AI in live\, high-stakes environments. And a leader helping build on
- e of the most highly capitalized electric aviation companies in the world.
- \n\nFirst: Kristen Costello\n\nBuilding the Next Aviation System\n\nKriste
- n Costello is a pilot and executive at Vermont-based Beta Technologies\, a
-  New England aerospace company valued at more than $2 billion and backed b
- y over $1 billion from Fidelity\, Qatar Investment Authority\, Amazon’s 
- Climate Pledge Fund\, GE Aerospace\, and others.\n\nBeta isn’t pitching 
- a concept. It’s building a new aviation system. Founded by former Harvar
- d hockey player Kyle Clark — once told not to return to Vermont because 
- “there was nothing there” — Beta has grown into one of the most ambi
- tious aerospace companies on the planet. The company is developing all-ele
- ctric aircraft for cargo\, medical logistics\, and passenger travel while 
- simultaneously constructing a nationwide charging network. It has complete
- d cross-country flights\, secured major commercial and defense partnership
- s\, and is advancing through the FAA’s rigorous certification process.\n
- \nThe breakthrough isn’t just the airplane. It’s the systems thinking 
- — aircraft\, charging infrastructure\, certification\, pilot training\, 
- and operations built in parallel. Not incremental change\, but a redesign 
- of regional air mobility from propulsion to power grid. If it succeeds\, i
- t won’t just change how we fly. It will change where flying makes sense.
- \n\nThen: Tucker “Cinco” Hamilton\n\nWhere Humans and AI Share the Coc
- kpit\n\nThe evening shifts to contested airspace.\n\nRetired U.S. Air Forc
- e Colonel and experimental fighter test pilot Tucker “Cinco” Hamilton 
- — former Chief of AI Test and Operations for the U.S. Air Force and Spac
- e Force — led the integration of AI-enabled autonomy into combat aircraf
- t. He has operated at the edge\, where algorithms and humans share the coc
- kpit in real-time\, high-consequence environments.\n\nHamilton brings audi
- ences inside moments few will ever experience: ejecting from a failing air
- craft\, managing an engine fire at twice the speed of sound\, crash-landin
- g a jet while fighting to keep it upright\, and flying combat missions ove
- r Afghanistan. For Hamilton\, AI is not theoretical. It is airborne. He ha
- s confronted the defining questions of our era:\n\nWhen should a machine b
- e trusted?\n\nHow do you test systems that learn?\n\nWhat happens when AI 
- evolves faster than doctrine?\n\nWho is accountable when autonomy acts?\n\
- nThis program also marks the debut of his new book\, Unlocking the Last 20
- %\, on elite performance in an age of automation.\n\nAviation has always p
- reviewed the future. Now it is revealing the operating system of the next 
- century. The future is not humans replaced by machines. It is humans redes
- igned alongside them.\n\n*This event is complimentary and reserved for mem
- bers only. Light bites and refreshments will be served.
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 1 spot left\
+ nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/ev
+ ents/169177\n\n1:00PM Program\, 2:30PM Networking \nTwo frontiers. One st
+ age. Not to be missed. In this high-voltage edition of 90 Minutes of Innov
+ ation\, flight becomes more than a metaphor — it becomes a stress test f
+ or the future of AI\, defense\, climate innovation\, and human judgment it
+ self.\n\nJohn Werner — venture capitalist\, Forbes AI columnist\, and In
+ novation Curator at The ’Quin House — convenes an extraordinary pairin
+ g you won’t see anywhere else. A real-world Top Gun who has flown 80 com
+ bat missions\, 290 test missions\, and logged more than 2\,000 hours acros
+ s 30 aircraft — including the F-35\, F-15\, and F-16 — operating along
+ side AI in live\, high-stakes environments. And a leader helping build one
+  of the most highly capitalized electric aviation companies in the world.\
+ n\nFirst: Kristen Costello\n\nBuilding the Next Aviation System\n\nKristen
+  Costello is a pilot and executive at Vermont-based Beta Technologies\, a 
+ New England aerospace company valued at more than $2 billion and backed by
+  over $1 billion from Fidelity\, Qatar Investment Authority\, Amazon’s C
+ limate Pledge Fund\, GE Aerospace\, and others.\n\nBeta isn’t pitching a
+  concept. It’s building a new aviation system. Founded by former Harvard
+  hockey player Kyle Clark — once told not to return to Vermont because �
+ ��there was nothing there” — Beta has grown into one of the most ambit
+ ious aerospace companies on the planet. The company is developing all-elec
+ tric aircraft for cargo\, medical logistics\, and passenger travel while s
+ imultaneously constructing a nationwide charging network. It has completed
+  cross-country flights\, secured major commercial and defense partnerships
+ \, and is advancing through the FAA’s rigorous certification process.\n\
+ nThe breakthrough isn’t just the airplane. It’s the systems thinking �
+ �� aircraft\, charging infrastructure\, certification\, pilot training\, a
+ nd operations built in parallel. Not incremental change\, but a redesign o
+ f regional air mobility from propulsion to power grid. If it succeeds\, it
+  won’t just change how we fly. It will change where flying makes sense.\
+ n\nThen: Tucker “Cinco” Hamilton\n\nWhere Humans and AI Share the Cock
+ pit\n\nThe evening shifts to contested airspace.\n\nRetired U.S. Air Force
+  Colonel and experimental fighter test pilot Tucker “Cinco” Hamilton �
+ �� former Chief of AI Test and Operations for the U.S. Air Force and Space
+  Force — led the integration of AI-enabled autonomy into combat aircraft
+ . He has operated at the edge\, where algorithms and humans share the cock
+ pit in real-time\, high-consequence environments.\n\nHamilton brings audie
+ nces inside moments few will ever experience: ejecting from a failing airc
+ raft\, managing an engine fire at twice the speed of sound\, crash-landing
+  a jet while fighting to keep it upright\, and flying combat missions over
+  Afghanistan. For Hamilton\, AI is not theoretical. It is airborne. He has
+  confronted the defining questions of our era:\n\nWhen should a machine be
+  trusted?\n\nHow do you test systems that learn?\n\nWhat happens when AI e
+ volves faster than doctrine?\n\nWho is accountable when autonomy acts?\n\n
+ This program also marks the debut of his new book\, Unlocking the Last 20%
+ \, on elite performance in an age of automation.\n\nAviation has always pr
+ eviewed the future. Now it is revealing the operating system of the next c
+ entury. The future is not humans replaced by machines. It is humans redesi
+ gned alongside them.\n\n*This event is complimentary and reserved for memb
+ ers only. Light bites and refreshments will be served.
 URL:https://members.thequinhouse.com/events/169177
 CATEGORIES:‘Quin Chat
 END:VEVENT
