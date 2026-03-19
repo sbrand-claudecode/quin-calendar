@@ -7,14 +7,41 @@ X-WR-CALNAME:Quin
 X-WR-TIMEZONE:America/New_York
 X-WR-CALDESC:Upcoming programming at The 'Quin House member club
 BEGIN:VEVENT
+UID:quin-event-175769@thequinhouse.com
+DTSTAMP:20260319T195626Z
+DTSTART;TZID=America/New_York:20260323T140000
+DTEND;TZID=America/New_York:20260323T160000
+SUMMARY:'Quin Chat: A Conversation with Malala Yousafzai
+LOCATION:The Reading Room
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nStatus: You are on Waitlis
+ t\nEvent URL: https://members.thequinhouse.com/events/175769\n\n2:00PM Rec
+ eption\, 2:30PM Discussion\nA powerful voice for education\, equity\, and 
+ global change takes the stage for this special ’Quin Chat.\n\nActivist\,
+  author\, and Nobel Peace Prize laureate Malala Yousafzai\, in conversatio
+ n with ‘Quin Co-Founder Sandy Edgerley\, reflects on the experiences tha
+ t have shaped her remarkable journey - from her early advocacy for girls�
+ � education in Pakistan to becoming the youngest-ever recipient of the Nob
+ el Peace Prize to recently founding the Women's Sports investment firm\, R
+ ecess Capital. Drawing from her latest book\, Finding My Way\, Malala wi
+ ll explore the evolving balance between global activism and everyday life\
+ , sharing candid insights on purpose\, perseverance\, and what it means to
+  lead with conviction.\n\nRooted in themes of community\, education\, spor
+ t\, and growth\, this conversation offers a thoughtful look at the next ch
+ apter of Malala’s work and the enduring pursuit of a more equitable worl
+ d.\n\n*This event is complimentary and reserved for members only. Complime
+ ntary light bites and refreshments will be served.
+URL:https://members.thequinhouse.com/events/175769
+CATEGORIES:‘Quin Chat
+END:VEVENT
+BEGIN:VEVENT
 UID:quin-event-169177@thequinhouse.com
-DTSTAMP:20260319T143839Z
+DTSTAMP:20260319T195626Z
 DTSTART;TZID=America/New_York:20260324T130000
 DTEND;TZID=America/New_York:20260324T150000
 SUMMARY: 90 Minutes of Innovation: Top Gun Meets a $2+ Billion Aviation Gam
  e-Changer 
 LOCATION:The Pub
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 2 spots left
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 3 spots left
  \nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/e
  vents/169177\n\n1:00PM Program\, 2:30PM Networking \nTwo frontiers. One s
  tage. Not to be missed. In this high-voltage edition of 90 Minutes of Inno
