@@ -8,7 +8,7 @@ X-WR-TIMEZONE:America/New_York
 X-WR-CALDESC:Upcoming programming at The 'Quin House member club
 BEGIN:VEVENT
 UID:quin-event-175769@thequinhouse.com
-DTSTAMP:20260320T181327Z
+DTSTAMP:20260320T195044Z
 DTSTART;TZID=America/New_York:20260323T140000
 DTEND;TZID=America/New_York:20260323T153000
 SUMMARY:'Quin Chat: A Conversation with Malala Yousafzai
@@ -35,13 +35,13 @@ CATEGORIES:‘Quin Chat
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-169177@thequinhouse.com
-DTSTAMP:20260320T181327Z
+DTSTAMP:20260320T195044Z
 DTSTART;TZID=America/New_York:20260324T130000
 DTEND;TZID=America/New_York:20260324T150000
 SUMMARY: 90 Minutes of Innovation: Top Gun Meets a $2+ Billion Aviation Gam
  e-Changer 
 LOCATION:The Pub
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 2 spots left
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 5 spots left
  \nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/e
  vents/169177\n\n1:00PM Program\, 2:30PM Networking \nTwo frontiers. One s
  tage. Not to be missed. In this high-voltage edition of 90 Minutes of Inno
