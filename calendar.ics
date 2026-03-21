@@ -8,7 +8,7 @@ X-WR-TIMEZONE:America/New_York
 X-WR-CALDESC:Upcoming programming at The 'Quin House member club
 BEGIN:VEVENT
 UID:quin-event-175068@thequinhouse.com
-DTSTAMP:20260320T195044Z
+DTSTAMP:20260321T045357Z
 DTSTART;VALUE=DATE:20260302
 DTEND;VALUE=DATE:20260401
 SUMMARY:A Taste of Rome
@@ -32,98 +32,36 @@ URL:https://members.thequinhouse.com/events/175068
 CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
-UID:quin-event-173832@thequinhouse.com
-DTSTAMP:20260320T195044Z
-DTSTART;VALUE=DATE:20260317
-DTEND;VALUE=DATE:20260321
-SUMMARY:Explorateur: Wild Honey Inn 
-LOCATION:Café Q
-DESCRIPTION:Category: Food & Beverage\nPrice: Free / Included\nStatus: Avai
- lable\nTime: 5:30 PM – 10 PM\nEvent URL: https://members.thequinhouse.co
- m/events/173832\n\nExplorateur returns to The ‘Quin House in celebration
-  of St. Patrick’s Day\, welcoming back acclaimed Chef Aidan McGrath of W
- ild Honey Inn\, Ireland’s first Michelin-starred pub and still the only 
- one to hold this distinction. \n\nFollowing an unforgettable debut reside
- ncy\, Chef Aidan makes his highly anticipated return for a four-day reside
- ncy in Café Q\, where he will present both a bespoke prix-fixe menu and a
- n à la carte dinner menu exclusively for ‘Quin members. His cooking rei
- magines the Irish dining pub experience\, elevating it with refined techni
- que while preserving the warmth and convivial spirit of a traditional coun
- try inn.\n\nMembers can look forward to Diver Scallops with pea velouté\;
-  Wild Nova Scotia Halibut with tapenade velouté\; Spring Australian Lamb 
- with black olive jus\; and Wagyu Corned Beef with choux farci and mustard 
- butter sauce — refined interpretations of Irish tradition.\n\nIn additio
- n to the full dining experience in Café Q\, members may also enjoy a sele
- ction of Chef Aidan’s specials offered in the Pub throughout the residen
- cy. \n\nRooted in the Burren region of County Clare\, an area of striking
-  natural beauty along Ireland’s rugged west coast\, Chef Aidan’s cuisi
- ne draws inspiration from the land\, sea\, and seasons. Throughout his res
- idency\, locally sourced ingredients are transformed with masterful creati
- vity and restraint. \n\nView the Menu.\n\nTo secure your reservation in e
- ither Café Q or The Pub\, please click here.\n\n*The prix-fixe dinner is
-  priced at $85++ per person\, exclusive of beverages\, tax\, and applicabl
- e club fees. An à la carte menu will also be available\, with items price
- d individually. Reservations may be made through the Member Portal. Member
- s may invite up to three guests per seated member.
-URL:https://members.thequinhouse.com/events/173832
-CATEGORIES:Food & Beverage
-END:VEVENT
-BEGIN:VEVENT
-UID:quin-event-177083@thequinhouse.com
-DTSTAMP:20260320T195044Z
-DTSTART;TZID=America/New_York:20260320T173000
-DTEND;TZID=America/New_York:20260320T193000
-SUMMARY:Member Mixer: Speed Networking 
-LOCATION:Scottie's
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 4 spots left
- \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/17
- 7083\n\nExpand your network and spark meaningful connections at this month
- ’s Member Mixer. Designed to be both dynamic and personal\, this fast-pa
- ced evening brings members together to share insights\, exchange advice\, 
- and uncover new opportunities—all within a thoughtfully curated setting 
- that encourages authentic conversation.\n\nMembers will rotate in small gr
- oups for a series of six-minute speed networking rounds\, ensuring you con
- nect with a wide range of fellow members. The first and final half hour of
-  the evening will be reserved for open mingling\, offering time to reconne
- ct\, continue conversations\, and deepen the relationships that resonate m
- ost.\n\nCome ready to engage\, exchange\, and leave with connections that 
- truly matter.\n\n*This event is complimentary and reserved for members onl
- y. Complimentary light bites will be served\, with beverages available for
-  purchase.
-URL:https://members.thequinhouse.com/events/177083
-CATEGORIES:Member Mixer
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-175767@thequinhouse.com
-DTSTAMP:20260320T195044Z
+DTSTAMP:20260321T045357Z
 DTSTART;TZID=America/New_York:20260321T090000
 DTEND;TZID=America/New_York:20260321T120000
 SUMMARY:Hands on Impact: Greater Boston Food Bank 
-DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nAvailability: 2 spo
- ts left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/ev
- ents/175767\n\nJoin The ’Quin Impact Fund for a hands-on volunteer exper
- ience at the Greater Boston Food Bank\, where members can make a tangible 
- difference in the fight against hunger across our community. Participants 
- will help sort\, package\, and organize food donations that support thousa
- nds of neighbors in need throughout Greater Boston.\n\nThe Greater Boston 
- Food Bank (GBFB)\, New England’s largest hunger-relief organization and 
- a member of Feeding America\, distributed 107 million pounds of nutritious
-  food last year alone. Through the dedication of its staff\, volunteers\, 
- and partners\, GBFB works to provide three meals a day to every person in 
- need in Eastern Massachusetts\, supporting healthy lives and thriving comm
- unities.\n\n*This event is complimentary and reserved for members only. Pl
- ease wear comfortable clothing suitable for service and close-toed shoes.
+DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nAvailability: 1 spo
+ t left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/eve
+ nts/175767\n\nJoin The ’Quin Impact Fund for a hands-on volunteer experi
+ ence at the Greater Boston Food Bank\, where members can make a tangible d
+ ifference in the fight against hunger across our community. Participants w
+ ill help sort\, package\, and organize food donations that support thousan
+ ds of neighbors in need throughout Greater Boston.\n\nThe Greater Boston F
+ ood Bank (GBFB)\, New England’s largest hunger-relief organization and a
+  member of Feeding America\, distributed 107 million pounds of nutritious 
+ food last year alone. Through the dedication of its staff\, volunteers\, a
+ nd partners\, GBFB works to provide three meals a day to every person in n
+ eed in Eastern Massachusetts\, supporting healthy lives and thriving commu
+ nities.\n\n*This event is complimentary and reserved for members only. Ple
+ ase wear comfortable clothing suitable for service and close-toed shoes.
 URL:https://members.thequinhouse.com/events/175767
 CATEGORIES:‘Quin Impact Fund
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-167855@thequinhouse.com
-DTSTAMP:20260320T195044Z
+DTSTAMP:20260321T045357Z
 DTSTART;TZID=America/New_York:20260322T090000
 DTEND;TZID=America/New_York:20260322T120000
 SUMMARY:'Quin Impact Fund: Winter Walk
 LOCATION:Meet in Scottie's
-DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nAvailability: 23 sp
+DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nAvailability: 24 sp
  ots left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/e
  vents/167855\n\nThe ’Quin Impact Fund invites members to take part in Wi
  nter Walk\, a powerful call to action to help end homelessness in our city
@@ -148,7 +86,7 @@ CATEGORIES:‘Quin Impact Fund
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-175769@thequinhouse.com
-DTSTAMP:20260320T195044Z
+DTSTAMP:20260321T045357Z
 DTSTART;TZID=America/New_York:20260323T140000
 DTEND;TZID=America/New_York:20260323T153000
 SUMMARY:'Quin Chat: A Conversation with Malala Yousafzai
@@ -175,7 +113,7 @@ CATEGORIES:‘Quin Chat
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-175770@thequinhouse.com
-DTSTAMP:20260320T195044Z
+DTSTAMP:20260321T045357Z
 DTSTART;TZID=America/New_York:20260323T160000
 DTEND;TZID=America/New_York:20260323T170000
 SUMMARY:Meet the Maker: Robert Foley Vineyards Session I
@@ -200,29 +138,29 @@ CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-166021@thequinhouse.com
-DTSTAMP:20260320T195044Z
+DTSTAMP:20260321T045357Z
 DTSTART;TZID=America/New_York:20260323T180000
 DTEND;TZID=America/New_York:20260323T210000
 SUMMARY:Community Dinner Table
 LOCATION:Café Q
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nStatus: Waitlist Only\nEve
- nt URL: https://members.thequinhouse.com/events/166021\n\nStart your week 
- in good company with the Café Q Community dinner table for members-only. 
- Set aside for those looking to expand their social circle over a shared me
- al\, this gathering is all about good food\, lively conversation\, and mea
- ningful connections. Pull up a chair\, and savor the experience—because 
- nothing brings people together quite like a great meal.\n\n*This event is 
- reserved for members only. An advance charge of $24 per member contributes
-  to communal appetizers available upon seating. Members are responsible fo
- r à la carte entrées\, desserts\, and beverages\, plus taxes and fees. C
- ancellations made within 24 hours of the event\, or failure to attend will
-  be subject to the Café Q's surcharge policy.
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 1 spot left\
+ nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/166
+ 021\n\nStart your week in good company with the Café Q Community dinner t
+ able for members-only. Set aside for those looking to expand their social 
+ circle over a shared meal\, this gathering is all about good food\, lively
+  conversation\, and meaningful connections. Pull up a chair\, and savor th
+ e experience—because nothing brings people together quite like a great m
+ eal.\n\n*This event is reserved for members only. An advance charge of $24
+  per member contributes to communal appetizers available upon seating. Mem
+ bers are responsible for à la carte entrées\, desserts\, and beverages\,
+  plus taxes and fees. Cancellations made within 24 hours of the event\, or
+  failure to attend will be subject to the Café Q's surcharge policy.
 URL:https://members.thequinhouse.com/events/166021
 CATEGORIES:Member Mixer
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-177076@thequinhouse.com
-DTSTAMP:20260320T195044Z
+DTSTAMP:20260321T045357Z
 DTSTART;TZID=America/New_York:20260323T180000
 DTEND;TZID=America/New_York:20260323T190000
 SUMMARY:Meet the Maker: Robert Foley Vineyards Session II
@@ -247,74 +185,74 @@ CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-169177@thequinhouse.com
-DTSTAMP:20260320T195044Z
+DTSTAMP:20260321T045357Z
 DTSTART;TZID=America/New_York:20260324T130000
 DTEND;TZID=America/New_York:20260324T150000
 SUMMARY: 90 Minutes of Innovation: Top Gun Meets a $2+ Billion Aviation Gam
  e-Changer 
 LOCATION:The Pub
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 5 spots left
- \nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/e
- vents/169177\n\n1:00PM Program\, 2:30PM Networking \nTwo frontiers. One s
- tage. Not to be missed. In this high-voltage edition of 90 Minutes of Inno
- vation\, flight becomes more than a metaphor — it becomes a stress test 
- for the future of AI\, defense\, climate innovation\, and human judgment i
- tself.\n\nJohn Werner — venture capitalist\, Forbes AI columnist\, and I
- nnovation Curator at The ’Quin House — convenes an extraordinary pairi
- ng you won’t see anywhere else. A real-world Top Gun who has flown 80 co
- mbat missions\, 290 test missions\, and logged more than 2\,000 hours acro
- ss 30 aircraft — including the F-35\, F-15\, and F-16 — operating alon
- gside AI in live\, high-stakes environments. And a leader helping build on
- e of the most highly capitalized electric aviation companies in the world.
- \n\nFirst: Kristen Costello\n\nBuilding the Next Aviation System\n\nKriste
- n Costello is a pilot and executive at Vermont-based Beta Technologies\, a
-  New England aerospace company valued at more than $2 billion and backed b
- y over $1 billion from Fidelity\, Qatar Investment Authority\, Amazon’s 
- Climate Pledge Fund\, GE Aerospace\, and others.\n\nBeta isn’t pitching 
- a concept. It’s building a new aviation system. Founded by former Harvar
- d hockey player Kyle Clark — once told not to return to Vermont because 
- “there was nothing there” — Beta has grown into one of the most ambi
- tious aerospace companies on the planet. The company is developing all-ele
- ctric aircraft for cargo\, medical logistics\, and passenger travel while 
- simultaneously constructing a nationwide charging network. It has complete
- d cross-country flights\, secured major commercial and defense partnership
- s\, and is advancing through the FAA’s rigorous certification process.\n
- \nThe breakthrough isn’t just the airplane. It’s the systems thinking 
- — aircraft\, charging infrastructure\, certification\, pilot training\, 
- and operations built in parallel. Not incremental change\, but a redesign 
- of regional air mobility from propulsion to power grid. If it succeeds\, i
- t won’t just change how we fly. It will change where flying makes sense.
- \n\nThen: Tucker “Cinco” Hamilton\n\nWhere Humans and AI Share the Coc
- kpit\n\nThe evening shifts to contested airspace.\n\nRetired U.S. Air Forc
- e Colonel and experimental fighter test pilot Tucker “Cinco” Hamilton 
- — former Chief of AI Test and Operations for the U.S. Air Force and Spac
- e Force — led the integration of AI-enabled autonomy into combat aircraf
- t. He has operated at the edge\, where algorithms and humans share the coc
- kpit in real-time\, high-consequence environments.\n\nHamilton brings audi
- ences inside moments few will ever experience: ejecting from a failing air
- craft\, managing an engine fire at twice the speed of sound\, crash-landin
- g a jet while fighting to keep it upright\, and flying combat missions ove
- r Afghanistan. For Hamilton\, AI is not theoretical. It is airborne. He ha
- s confronted the defining questions of our era:\n\nWhen should a machine b
- e trusted?\n\nHow do you test systems that learn?\n\nWhat happens when AI 
- evolves faster than doctrine?\n\nWho is accountable when autonomy acts?\n\
- nThis program also marks the debut of his new book\, Unlocking the Last 20
- %\, on elite performance in an age of automation.\n\nAviation has always p
- reviewed the future. Now it is revealing the operating system of the next 
- century. The future is not humans replaced by machines. It is humans redes
- igned alongside them.\n\n*This event is complimentary and reserved for mem
- bers only. Light bites and refreshments will be served.
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 1 spot left\
+ nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/ev
+ ents/169177\n\n1:00PM Program\, 2:30PM Networking \nTwo frontiers. One st
+ age. Not to be missed. In this high-voltage edition of 90 Minutes of Innov
+ ation\, flight becomes more than a metaphor — it becomes a stress test f
+ or the future of AI\, defense\, climate innovation\, and human judgment it
+ self.\n\nJohn Werner — venture capitalist\, Forbes AI columnist\, and In
+ novation Curator at The ’Quin House — convenes an extraordinary pairin
+ g you won’t see anywhere else. A real-world Top Gun who has flown 80 com
+ bat missions\, 290 test missions\, and logged more than 2\,000 hours acros
+ s 30 aircraft — including the F-35\, F-15\, and F-16 — operating along
+ side AI in live\, high-stakes environments. And a leader helping build one
+  of the most highly capitalized electric aviation companies in the world.\
+ n\nFirst: Kristen Costello\n\nBuilding the Next Aviation System\n\nKristen
+  Costello is a pilot and executive at Vermont-based Beta Technologies\, a 
+ New England aerospace company valued at more than $2 billion and backed by
+  over $1 billion from Fidelity\, Qatar Investment Authority\, Amazon’s C
+ limate Pledge Fund\, GE Aerospace\, and others.\n\nBeta isn’t pitching a
+  concept. It’s building a new aviation system. Founded by former Harvard
+  hockey player Kyle Clark — once told not to return to Vermont because �
+ ��there was nothing there” — Beta has grown into one of the most ambit
+ ious aerospace companies on the planet. The company is developing all-elec
+ tric aircraft for cargo\, medical logistics\, and passenger travel while s
+ imultaneously constructing a nationwide charging network. It has completed
+  cross-country flights\, secured major commercial and defense partnerships
+ \, and is advancing through the FAA’s rigorous certification process.\n\
+ nThe breakthrough isn’t just the airplane. It’s the systems thinking �
+ �� aircraft\, charging infrastructure\, certification\, pilot training\, a
+ nd operations built in parallel. Not incremental change\, but a redesign o
+ f regional air mobility from propulsion to power grid. If it succeeds\, it
+  won’t just change how we fly. It will change where flying makes sense.\
+ n\nThen: Tucker “Cinco” Hamilton\n\nWhere Humans and AI Share the Cock
+ pit\n\nThe evening shifts to contested airspace.\n\nRetired U.S. Air Force
+  Colonel and experimental fighter test pilot Tucker “Cinco” Hamilton �
+ �� former Chief of AI Test and Operations for the U.S. Air Force and Space
+  Force — led the integration of AI-enabled autonomy into combat aircraft
+ . He has operated at the edge\, where algorithms and humans share the cock
+ pit in real-time\, high-consequence environments.\n\nHamilton brings audie
+ nces inside moments few will ever experience: ejecting from a failing airc
+ raft\, managing an engine fire at twice the speed of sound\, crash-landing
+  a jet while fighting to keep it upright\, and flying combat missions over
+  Afghanistan. For Hamilton\, AI is not theoretical. It is airborne. He has
+  confronted the defining questions of our era:\n\nWhen should a machine be
+  trusted?\n\nHow do you test systems that learn?\n\nWhat happens when AI e
+ volves faster than doctrine?\n\nWho is accountable when autonomy acts?\n\n
+ This program also marks the debut of his new book\, Unlocking the Last 20%
+ \, on elite performance in an age of automation.\n\nAviation has always pr
+ eviewed the future. Now it is revealing the operating system of the next c
+ entury. The future is not humans replaced by machines. It is humans redesi
+ gned alongside them.\n\n*This event is complimentary and reserved for memb
+ ers only. Light bites and refreshments will be served.
 URL:https://members.thequinhouse.com/events/169177
 CATEGORIES:‘Quin Chat
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-173781@thequinhouse.com
-DTSTAMP:20260320T195044Z
+DTSTAMP:20260321T045357Z
 DTSTART;TZID=America/New_York:20260324T170000
 DTEND;TZID=America/New_York:20260324T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 13 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 11 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  73781\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in an ambiant reserved space. This is your opportunity to connect with fe
@@ -330,7 +268,7 @@ CATEGORIES:Member Mixer
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-175771@thequinhouse.com
-DTSTAMP:20260320T195044Z
+DTSTAMP:20260321T045357Z
 DTSTART;TZID=America/New_York:20260324T170000
 DTEND;TZID=America/New_York:20260324T183000
 SUMMARY:'Quin Chat: Rethinking Women's Health
@@ -362,7 +300,7 @@ CATEGORIES:Health & Wellness
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-173833@thequinhouse.com
-DTSTAMP:20260320T195044Z
+DTSTAMP:20260321T045357Z
 DTSTART;TZID=America/New_York:20260324T193000
 DTEND;TZID=America/New_York:20260324T210000
 SUMMARY:Author's Circle Book Club: "Canticle" with Janet Rich Edwards 
@@ -391,7 +329,7 @@ CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-172754@thequinhouse.com
-DTSTAMP:20260320T195044Z
+DTSTAMP:20260321T045357Z
 DTSTART;TZID=America/New_York:20260325T193000
 DTEND;TZID=America/New_York:20260325T220000
 SUMMARY:'Quin Suite: Celtics vs Thunder
@@ -416,31 +354,31 @@ CATEGORIES:Sports & Games
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-176383@thequinhouse.com
-DTSTAMP:20260320T195044Z
+DTSTAMP:20260321T045357Z
 DTSTART;TZID=America/New_York:20260327T100000
 DTEND;TZID=America/New_York:20260327T120000
 SUMMARY:Hands-On Impact: Volunteer with Wonderfund
 LOCATION:Offsite: Roadrunner
-DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nAvailability: 12 sp
- ots left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/e
- vents/176383\n\nJoin The ’Quin Impact Fund for the fourth annual Period 
- Party\, hosted by The Wonderfund\, a hands-on volunteer experience bringin
- g together women from across Greater Boston to create immediate\, tangible
-  impact for teens engaged with the Massachusetts Department of Children an
- d Families.\n\nDuring this high-energy volunteer event\, more than 500 par
- ticipants will come together to assemble 10\,000 menstrual hygiene kits\, 
- ensuring young people across the Commonwealth have reliable access to esse
- ntial menstrual products. These kits will be distributed to all 29 DCF are
- a offices\, where social workers can provide them directly to the teens th
- ey support. Last year’s effort packed and distributed more than 13\,000 
- kits - be a part of helping to do it again. \n\n*This event is complimenta
- ry and reserved for members only.
+DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nAvailability: 6 spo
+ ts left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/ev
+ ents/176383\n\nJoin The ’Quin Impact Fund for the fourth annual Period P
+ arty\, hosted by The Wonderfund\, a hands-on volunteer experience bringing
+  together women from across Greater Boston to create immediate\, tangible 
+ impact for teens engaged with the Massachusetts Department of Children and
+  Families.\n\nDuring this high-energy volunteer event\, more than 500 part
+ icipants will come together to assemble 10\,000 menstrual hygiene kits\, e
+ nsuring young people across the Commonwealth have reliable access to essen
+ tial menstrual products. These kits will be distributed to all 29 DCF area
+  offices\, where social workers can provide them directly to the teens the
+ y support. Last year’s effort packed and distributed more than 13\,000 k
+ its - be a part of helping to do it again. \n\n*This event is complimentar
+ y and reserved for members only.
 URL:https://members.thequinhouse.com/events/176383
 CATEGORIES:‘Quin Impact Fund
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-173809@thequinhouse.com
-DTSTAMP:20260320T195044Z
+DTSTAMP:20260321T045357Z
 DTSTART;TZID=America/New_York:20260327T110000
 DTEND;TZID=America/New_York:20260327T120000
 SUMMARY:Art Tour: Celebrating Female Artists
@@ -459,35 +397,34 @@ CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-175778@thequinhouse.com
-DTSTAMP:20260320T195044Z
+DTSTAMP:20260321T045357Z
 DTSTART;TZID=America/New_York:20260327T170000
 DTEND;TZID=America/New_York:20260327T183000
 SUMMARY:'Quin Chat: The Edge of Possible with Monet Izabeth 
 LOCATION:Scottie's
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 2 spots left
- \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/17
- 5778\n\n5:00PM Reception\, 5:30PM Discussion \nAn evening of extraordinar
- y endurance and perspective awaits with solo adventurer and storyteller Mo
- net Izabeth. In January 2026\, she became the first American woman to ski 
- solo and unsupported to the South Pole\, traveling 700 miles across Antarc
- tica over 57 days. Alone in whiteouts and subzero temperatures\, hauling e
- very supply herself\, her expedition was a profound test of resilience\, p
- reparation\, and the decision to begin before feeling fully ready.\n\nBase
- d between Massachusetts and Nepal\, Monet has built her career designing i
- mmersive\, locally led journeys that connect travelers more deeply to plac
- e and people - while inspiring a global community to step beyond what feel
- s comfortable and into what feels possible.\n\nThe conversation will be mo
- derated by journalist Billy Baker\, who chronicled Monet’s journey\, off
- ering insight into both the public story\, the personal reality behind it 
- and what we can all learn from choosing the extraordinary. \n\n*This even
- t is complimentary and reserved for members only. Light bites and refreshm
- ents will be served.
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nStatus: Waitlist Only\nEve
+ nt URL: https://members.thequinhouse.com/events/175778\n\n5:00PM Reception
+ \, 5:30PM Discussion \nAn evening of extraordinary endurance and perspect
+ ive awaits with solo adventurer and storyteller Monet Izabeth. In January 
+ 2026\, she became the first American woman to ski solo and unsupported to 
+ the South Pole\, traveling 700 miles across Antarctica over 57 days. Alone
+  in whiteouts and subzero temperatures\, hauling every supply herself\, he
+ r expedition was a profound test of resilience\, preparation\, and the dec
+ ision to begin before feeling fully ready.\n\nBased between Massachusetts 
+ and Nepal\, Monet has built her career designing immersive\, locally led j
+ ourneys that connect travelers more deeply to place and people - while ins
+ piring a global community to step beyond what feels comfortable and into w
+ hat feels possible.\n\nThe conversation will be moderated by journalist Bi
+ lly Baker\, who chronicled Monet’s journey\, offering insight into both 
+ the public story\, the personal reality behind it and what we can all lear
+ n from choosing the extraordinary. \n\n*This event is complimentary and r
+ eserved for members only. Light bites and refreshments will be served.
 URL:https://members.thequinhouse.com/events/175778
 CATEGORIES:‘Quin Chat
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-172755@thequinhouse.com
-DTSTAMP:20260320T195044Z
+DTSTAMP:20260321T045357Z
 DTSTART;TZID=America/New_York:20260327T193000
 DTEND;TZID=America/New_York:20260327T220000
 SUMMARY:'Quin Suite: Celtics vs Hawks
@@ -511,7 +448,7 @@ CATEGORIES:Sports & Games
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-173024@thequinhouse.com
-DTSTAMP:20260320T195044Z
+DTSTAMP:20260321T045357Z
 DTSTART;TZID=America/New_York:20260328T130000
 DTEND;TZID=America/New_York:20260328T150000
 SUMMARY:Serendipity Brunch
@@ -535,7 +472,7 @@ CATEGORIES:Member Mixer
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-177090@thequinhouse.com
-DTSTAMP:20260320T195044Z
+DTSTAMP:20260321T045357Z
 DTSTART;TZID=America/New_York:20260330T180000
 DTEND;TZID=America/New_York:20260330T200000
 SUMMARY:Member Meet Up: F1 Arcade
@@ -558,12 +495,12 @@ CATEGORIES:Member Mixer
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-173782@thequinhouse.com
-DTSTAMP:20260320T195044Z
+DTSTAMP:20260321T045357Z
 DTSTART;TZID=America/New_York:20260331T170000
 DTEND;TZID=America/New_York:20260331T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 20 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 18 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  73782\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in an ambiant reserved space. This is your opportunity to connect with fe
@@ -579,7 +516,7 @@ CATEGORIES:Member Mixer
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-173828@thequinhouse.com
-DTSTAMP:20260320T195044Z
+DTSTAMP:20260321T045357Z
 DTSTART;TZID=America/New_York:20260331T180000
 DTEND;TZID=America/New_York:20260331T190000
 SUMMARY:Stand Up Comedy: Kelly MacFarland | 6:00PM Show
@@ -601,7 +538,7 @@ CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-173827@thequinhouse.com
-DTSTAMP:20260320T195044Z
+DTSTAMP:20260321T045357Z
 DTSTART;TZID=America/New_York:20260331T200000
 DTEND;TZID=America/New_York:20260331T210000
 SUMMARY:Stand Up Comedy: Kelly MacFarland | 8:00PM Show
@@ -623,7 +560,7 @@ CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-177696@thequinhouse.com
-DTSTAMP:20260320T195044Z
+DTSTAMP:20260321T045357Z
 DTSTART;TZID=America/New_York:20260401T180000
 DTEND;TZID=America/New_York:20260401T210000
 SUMMARY:Live Music: Zahili Zamora
@@ -645,7 +582,7 @@ CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-178464@thequinhouse.com
-DTSTAMP:20260320T195044Z
+DTSTAMP:20260321T045357Z
 DTSTART;TZID=America/New_York:20260402T113000
 DTEND;TZID=America/New_York:20260402T130000
 SUMMARY:Women\, Worth & Wisdom: Allyship
@@ -672,7 +609,7 @@ CATEGORIES:‘Quin Chat
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-177698@thequinhouse.com
-DTSTAMP:20260320T195044Z
+DTSTAMP:20260321T045357Z
 DTSTART;TZID=America/New_York:20260402T173000
 DTEND;TZID=America/New_York:20260402T190000
 SUMMARY:Meet the Maker: Derek Baljeu of Knights Bridge Winery | Session I
@@ -701,7 +638,7 @@ CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-177700@thequinhouse.com
-DTSTAMP:20260320T195044Z
+DTSTAMP:20260321T045357Z
 DTSTART;VALUE=DATE:20260402
 DTEND;VALUE=DATE:20260405
 SUMMARY:Dessert Trolley 
@@ -723,7 +660,7 @@ CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-178419@thequinhouse.com
-DTSTAMP:20260320T195044Z
+DTSTAMP:20260321T045357Z
 DTSTART;TZID=America/New_York:20260403T113000
 DTEND;TZID=America/New_York:20260403T130000
 SUMMARY:'Quin Chat: A Focus on Men's Health
@@ -753,7 +690,7 @@ CATEGORIES:Health & Wellness
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-177699@thequinhouse.com
-DTSTAMP:20260320T195044Z
+DTSTAMP:20260321T045357Z
 DTSTART;TZID=America/New_York:20260403T173000
 DTEND;TZID=America/New_York:20260403T190000
 SUMMARY:Meet the Maker: Derek Baljeu of Knights Bridge Winery | Session II
@@ -782,7 +719,7 @@ CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-177602@thequinhouse.com
-DTSTAMP:20260320T195044Z
+DTSTAMP:20260321T045357Z
 DTSTART;TZID=America/New_York:20260405T093000
 DTEND;TZID=America/New_York:20260405T100000
 SUMMARY:Easter Egg Hunt | Session I 
@@ -803,7 +740,7 @@ CATEGORIES:Holiday
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-177604@thequinhouse.com
-DTSTAMP:20260320T195044Z
+DTSTAMP:20260321T045357Z
 DTSTART;TZID=America/New_York:20260405T103000
 DTEND;TZID=America/New_York:20260405T111500
 SUMMARY:Easter Kids Crafts | Session I 
@@ -828,7 +765,7 @@ CATEGORIES:Holiday
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-177702@thequinhouse.com
-DTSTAMP:20260320T195044Z
+DTSTAMP:20260321T045357Z
 DTSTART;VALUE=DATE:20260405
 DTEND;VALUE=DATE:20260406
 SUMMARY:Easter Dining 
@@ -856,7 +793,7 @@ CATEGORIES:Holiday
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-177609@thequinhouse.com
-DTSTAMP:20260320T195044Z
+DTSTAMP:20260321T045357Z
 DTSTART;TZID=America/New_York:20260405T113000
 DTEND;TZID=America/New_York:20260405T121500
 SUMMARY:Easter Kids Crafts | Session II
@@ -881,7 +818,7 @@ CATEGORIES:Holiday
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-177607@thequinhouse.com
-DTSTAMP:20260320T195044Z
+DTSTAMP:20260321T045357Z
 DTSTART;TZID=America/New_York:20260405T123000
 DTEND;TZID=America/New_York:20260405T130000
 SUMMARY:Easter Egg Hunt | Session II
@@ -902,7 +839,7 @@ CATEGORIES:Holiday
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-177610@thequinhouse.com
-DTSTAMP:20260320T195044Z
+DTSTAMP:20260321T045357Z
 DTSTART;TZID=America/New_York:20260405T131500
 DTEND;TZID=America/New_York:20260405T140000
 SUMMARY:Easter Kids Crafts | Session III
@@ -927,7 +864,7 @@ CATEGORIES:Holiday
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-177608@thequinhouse.com
-DTSTAMP:20260320T195044Z
+DTSTAMP:20260321T045357Z
 DTSTART;TZID=America/New_York:20260405T143000
 DTEND;TZID=America/New_York:20260405T150000
 SUMMARY:Easter Egg Hunt | Session III
@@ -948,7 +885,7 @@ CATEGORIES:Holiday
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-175996@thequinhouse.com
-DTSTAMP:20260320T195044Z
+DTSTAMP:20260321T045357Z
 DTSTART;TZID=America/New_York:20260406T183000
 DTEND;TZID=America/New_York:20260406T210000
 SUMMARY:Serendipity Dinner 
@@ -970,7 +907,7 @@ CATEGORIES:Member Mixer
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-177703@thequinhouse.com
-DTSTAMP:20260320T195044Z
+DTSTAMP:20260321T045357Z
 DTSTART;VALUE=DATE:20260407
 DTEND;VALUE=DATE:20260410
 SUMMARY:Passover Dining in Café Q 
@@ -992,7 +929,7 @@ CATEGORIES:Holiday
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-177706@thequinhouse.com
-DTSTAMP:20260320T195044Z
+DTSTAMP:20260321T045357Z
 DTSTART;TZID=America/New_York:20260407T170000
 DTEND;TZID=America/New_York:20260407T190000
 SUMMARY:Member Mingle
@@ -1013,7 +950,7 @@ CATEGORIES:Member Mixer
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-172756@thequinhouse.com
-DTSTAMP:20260320T195044Z
+DTSTAMP:20260321T045357Z
 DTSTART;TZID=America/New_York:20260407T193000
 DTEND;TZID=America/New_York:20260407T220000
 SUMMARY:'Quin Suite: Celtics vs Hornets
@@ -1038,7 +975,7 @@ CATEGORIES:Sports & Games
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-177614@thequinhouse.com
-DTSTAMP:20260320T195044Z
+DTSTAMP:20260321T045357Z
 DTSTART;TZID=America/New_York:20260408T170000
 DTEND;TZID=America/New_York:20260408T183000
 SUMMARY:'Quin Chat: Collecting Luxury
@@ -1067,28 +1004,28 @@ CATEGORIES:‘Quin Chat
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-176378@thequinhouse.com
-DTSTAMP:20260320T195044Z
+DTSTAMP:20260321T045357Z
 DTSTART;TZID=America/New_York:20260409T110000
 DTEND;TZID=America/New_York:20260409T120000
 SUMMARY:Art Tour: Portraits of Power
 LOCATION:Meet in The Lobby
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 3 spots left\nSt
- atus: Available\nEvent URL: https://members.thequinhouse.com/events/176378
- \n\nJoin ‘Quin Art Collection Curator\, Kate Chertavian for a historical
- ly focused tour exploring the “Old Boys” of the ’Quin. Featured high
- lights include Edmund Charles Tarbell’s Portrait of President Calvin Coo
- lidge (1927) and Édouard Detaille’s Soldier on Horseback (1889)\, both 
- on view in the historic Reading Room.\n\nThe conversation continues along 
- the Grand Staircase\, where Kate will share insights into the curatorial p
- rocess and the thoughtful dialogue between historical and contemporary wor
- ks woven throughout the collection.\n\n*This event is complimentary and re
- served for members\, plus one registered guest.
+DESCRIPTION:Category: The Arts\nPrice: Free\nStatus: Waitlist Only\nEvent U
+ RL: https://members.thequinhouse.com/events/176378\n\nJoin ‘Quin Art Col
+ lection Curator\, Kate Chertavian for a historically focused tour explorin
+ g the “Old Boys” of the ’Quin. Featured highlights include Edmund Ch
+ arles Tarbell’s Portrait of President Calvin Coolidge (1927) and Édouar
+ d Detaille’s Soldier on Horseback (1889)\, both on view in the historic 
+ Reading Room.\n\nThe conversation continues along the Grand Staircase\, wh
+ ere Kate will share insights into the curatorial process and the thoughtfu
+ l dialogue between historical and contemporary works woven throughout the 
+ collection.\n\n*This event is complimentary and reserved for members\, plu
+ s one registered guest.
 URL:https://members.thequinhouse.com/events/176378
 CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-166077@thequinhouse.com
-DTSTAMP:20260320T195044Z
+DTSTAMP:20260321T045357Z
 DTSTART;VALUE=DATE:20260409
 DTEND;VALUE=DATE:20260417
 SUMMARY:'Venture: The Wonders of Egypt
@@ -1153,7 +1090,7 @@ CATEGORIES:‘Venture - Travel
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-177616@thequinhouse.com
-DTSTAMP:20260320T195044Z
+DTSTAMP:20260321T045357Z
 DTSTART;TZID=America/New_York:20260410T103000
 DTEND;TZID=America/New_York:20260410T113000
 SUMMARY:de Gournay Watercolor Class: Friday Session I
@@ -1179,7 +1116,7 @@ CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-178465@thequinhouse.com
-DTSTAMP:20260320T195044Z
+DTSTAMP:20260321T045357Z
 DTSTART;TZID=America/New_York:20260410T130000
 DTEND;TZID=America/New_York:20260410T140000
 SUMMARY:de Gournay Watercolor Class: Friday Session II
@@ -1205,7 +1142,7 @@ CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-178466@thequinhouse.com
-DTSTAMP:20260320T195044Z
+DTSTAMP:20260321T045357Z
 DTSTART;TZID=America/New_York:20260410T150000
 DTEND;TZID=America/New_York:20260410T160000
 SUMMARY:de Gournay Watercolor Class: Friday Session III
@@ -1231,7 +1168,7 @@ CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-178471@thequinhouse.com
-DTSTAMP:20260320T195044Z
+DTSTAMP:20260321T045357Z
 DTSTART;TZID=America/New_York:20260410T170000
 DTEND;TZID=America/New_York:20260410T183000
 SUMMARY:Author Talk: "The Best Dog in the World" with Alice Hoffman
@@ -1262,7 +1199,7 @@ CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-178467@thequinhouse.com
-DTSTAMP:20260320T195044Z
+DTSTAMP:20260321T045357Z
 DTSTART;TZID=America/New_York:20260410T173000
 DTEND;TZID=America/New_York:20260410T183000
 SUMMARY:de Gournay Watercolor Class: Friday Session IV
@@ -1288,7 +1225,7 @@ CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-172757@thequinhouse.com
-DTSTAMP:20260320T195044Z
+DTSTAMP:20260321T045357Z
 DTSTART;TZID=America/New_York:20260410T193000
 DTEND;TZID=America/New_York:20260410T220000
 SUMMARY:'Quin Suite: Celtics vs Pelicans
@@ -1313,7 +1250,7 @@ CATEGORIES:Sports & Games
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-178468@thequinhouse.com
-DTSTAMP:20260320T195044Z
+DTSTAMP:20260321T045357Z
 DTSTART;TZID=America/New_York:20260411T103000
 DTEND;TZID=America/New_York:20260411T113000
 SUMMARY:de Gournay Watercolor Class: Saturday Session I
@@ -1339,7 +1276,7 @@ CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-177709@thequinhouse.com
-DTSTAMP:20260320T195044Z
+DTSTAMP:20260321T045357Z
 DTSTART;TZID=America/New_York:20260411T110000
 DTEND;TZID=America/New_York:20260411T130000
 SUMMARY:Serendipity Brunch
@@ -1364,7 +1301,7 @@ CATEGORIES:Member Mixer
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-178469@thequinhouse.com
-DTSTAMP:20260320T195044Z
+DTSTAMP:20260321T045357Z
 DTSTART;TZID=America/New_York:20260411T130000
 DTEND;TZID=America/New_York:20260411T140000
 SUMMARY:de Gournay Watercolor Class: Saturday Session II
@@ -1390,7 +1327,7 @@ CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-177617@thequinhouse.com
-DTSTAMP:20260320T195044Z
+DTSTAMP:20260321T045357Z
 DTSTART;TZID=America/New_York:20260411T150000
 DTEND;TZID=America/New_York:20260411T160000
 SUMMARY:de Gournay Watercolor Class: Saturday Session III
@@ -1416,7 +1353,7 @@ CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-178470@thequinhouse.com
-DTSTAMP:20260320T195044Z
+DTSTAMP:20260321T045357Z
 DTSTART;TZID=America/New_York:20260411T173000
 DTEND;TZID=America/New_York:20260411T183000
 SUMMARY:de Gournay Watercolor Class: Saturday Session IV
@@ -1442,7 +1379,7 @@ CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-177695@thequinhouse.com
-DTSTAMP:20260320T195044Z
+DTSTAMP:20260321T045357Z
 DTSTART;VALUE=DATE:20260413
 DTEND;VALUE=DATE:20260501
 SUMMARY:Taste of Provence 
@@ -1461,7 +1398,7 @@ CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-176006@thequinhouse.com
-DTSTAMP:20260320T195044Z
+DTSTAMP:20260321T045357Z
 DTSTART;TZID=America/New_York:20260413T180000
 DTEND;TZID=America/New_York:20260413T210000
 SUMMARY:Community Dinner Table
@@ -1483,12 +1420,12 @@ CATEGORIES:Member Mixer
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-176362@thequinhouse.com
-DTSTAMP:20260320T195044Z
+DTSTAMP:20260321T045357Z
 DTSTART;TZID=America/New_York:20260414T180000
 DTEND;TZID=America/New_York:20260414T190000
 SUMMARY:Improv Comedy | 6:00PM Show
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 80 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 77 spots left\nS
  tatus: Available\nEvent URL: https://members.thequinhouse.com/events/17636
  2\n\nBoston’s best return to the 'House! Improv comedians are ready to k
  eep you laughing with spontaneous sketches\, quick wit\, and audience-insp
@@ -1503,7 +1440,7 @@ CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-176363@thequinhouse.com
-DTSTAMP:20260320T195044Z
+DTSTAMP:20260321T045357Z
 DTSTART;TZID=America/New_York:20260414T200000
 DTEND;TZID=America/New_York:20260414T210000
 SUMMARY:Improv Comedy | 8:00PM Show
@@ -1523,7 +1460,7 @@ CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-178472@thequinhouse.com
-DTSTAMP:20260320T195044Z
+DTSTAMP:20260321T045357Z
 DTSTART;TZID=America/New_York:20260415T170000
 DTEND;TZID=America/New_York:20260415T190000
 SUMMARY:Game Night: Mahjong Instructional Play
@@ -1541,7 +1478,7 @@ CATEGORIES:Sports & Games
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-178474@thequinhouse.com
-DTSTAMP:20260320T195044Z
+DTSTAMP:20260321T045357Z
 DTSTART;TZID=America/New_York:20260429T170000
 DTEND;TZID=America/New_York:20260429T190000
 SUMMARY:Game Night: Mahjong Open Play
@@ -1558,7 +1495,7 @@ CATEGORIES:Sports & Games
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-166318@thequinhouse.com
-DTSTAMP:20260320T195044Z
+DTSTAMP:20260321T045357Z
 DTSTART;VALUE=DATE:20260623
 DTEND;VALUE=DATE:20260627
 SUMMARY:'Quin Suite: World Cup England v. Ghana 
@@ -1582,7 +1519,7 @@ CATEGORIES:Sports & Games
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-175300@thequinhouse.com
-DTSTAMP:20260320T195044Z
+DTSTAMP:20260321T045357Z
 DTSTART;TZID=America/New_York:20260626T150000
 DTEND;TZID=America/New_York:20260626T180000
 SUMMARY:'Quin Suite: World Cup France v. Norway
@@ -1606,7 +1543,7 @@ CATEGORIES:Sports & Games
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-175753@thequinhouse.com
-DTSTAMP:20260320T195044Z
+DTSTAMP:20260321T045357Z
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20260803
 SUMMARY:Ride With The 'Quin: Pan Mass Challenge Registration
