@@ -8,7 +8,7 @@ X-WR-TIMEZONE:America/New_York
 X-WR-CALDESC:Upcoming programming at The 'Quin House member club
 BEGIN:VEVENT
 UID:quin-event-175068@thequinhouse.com
-DTSTAMP:20260323T153944Z
+DTSTAMP:20260323T200054Z
 DTSTART;VALUE=DATE:20260302
 DTEND;VALUE=DATE:20260401
 SUMMARY:A Taste of Rome
@@ -32,60 +32,33 @@ URL:https://members.thequinhouse.com/events/175068
 CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
-UID:quin-event-175769@thequinhouse.com
-DTSTAMP:20260323T153944Z
-DTSTART;TZID=America/New_York:20260323T140000
-DTEND;TZID=America/New_York:20260323T153000
-SUMMARY:'Quin Chat: A Conversation with Malala Yousafzai
-LOCATION:The Reading Room
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nStatus: You are on Waitlis
- t\nEvent URL: https://members.thequinhouse.com/events/175769\n\n2:00PM Rec
- eption\, 2:30PM Discussion\nA powerful voice for education\, equity\, and 
- global change takes the stage for this special ’Quin Chat.\n\nActivist\,
-  author\, and Nobel Peace Prize laureate Malala Yousafzai\, in conversatio
- n with ‘Quin Co-Founder Sandy Edgerley\, reflects on the experiences tha
- t have shaped her remarkable journey - from her early advocacy for girls�
- � education in Pakistan to becoming the youngest-ever recipient of the Nob
- el Peace Prize to recently founding the Women's Sports investment firm\, R
- ecess Capital. Drawing from her latest book\, Finding My Way\, Malala wi
- ll explore the evolving balance between global activism and everyday life\
- , sharing candid insights on purpose\, perseverance\, and what it means to
-  lead with conviction.\n\nRooted in themes of community\, education\, spor
- t\, and growth\, this conversation offers a thoughtful look at the next ch
- apter of Malala’s work and the enduring pursuit of a more equitable worl
- d.\n\n*This event is complimentary and reserved for members only. Complime
- ntary light bites and refreshments will be served.
-URL:https://members.thequinhouse.com/events/175769
-CATEGORIES:‘Quin Chat
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-175770@thequinhouse.com
-DTSTAMP:20260323T153944Z
+DTSTAMP:20260323T200054Z
 DTSTART;TZID=America/New_York:20260323T160000
 DTEND;TZID=America/New_York:20260323T170000
 SUMMARY:Meet the Maker: Robert Foley Vineyards Session I
 LOCATION:The Living Room
-DESCRIPTION:Category: Food & Beverage\nPrice: Free\nAvailability: 3 spots l
- eft\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events
- /175770\n\nJoin us for an intimate afternoon with Robert Foley of Robert F
- oley Wines\, one of Napa Valley’s most revered vintners. With decades of
-  winemaking expertise\, Robert’s approach is rooted in precision\, patie
- nce\, and a deep respect for the vineyard. Each varietal reflects the dist
- inct expression of its terroir—structured\, layered\, and built to age�
- �while remaining unmistakably expressive in the glass. Throughout the tast
- ing\, members will explore aroma\, structure\, and nuance in an interactiv
- e dialogue designed to sharpen the senses and deepen appreciation.\n\nRobe
- rt will personally guide members through a curated tasting of five excepti
- onal wines—Charbono 2021\, Chardonnay 2023\, Claret 2018\, Griffin 2019\
- , and Napa Cabernet 2018—offering insight into the craft\, character\, a
- nd philosophy behind each bottle.\n\n*This event is complimentary and rese
- rved for members only. Light bites will be served.
+DESCRIPTION:Category: Food & Beverage\nPrice: Free\nStatus: Waitlist Only\n
+ Event URL: https://members.thequinhouse.com/events/175770\n\nJoin us for a
+ n intimate afternoon with Robert Foley of Robert Foley Wines\, one of Napa
+  Valley’s most revered vintners. With decades of winemaking expertise\, 
+ Robert’s approach is rooted in precision\, patience\, and a deep respect
+  for the vineyard. Each varietal reflects the distinct expression of its t
+ erroir—structured\, layered\, and built to age—while remaining unmista
+ kably expressive in the glass. Throughout the tasting\, members will explo
+ re aroma\, structure\, and nuance in an interactive dialogue designed to s
+ harpen the senses and deepen appreciation.\n\nRobert will personally guide
+  members through a curated tasting of five exceptional wines—Charbono 20
+ 21\, Chardonnay 2023\, Claret 2018\, Griffin 2019\, and Napa Cabernet 2018
+ —offering insight into the craft\, character\, and philosophy behind eac
+ h bottle.\n\n*This event is complimentary and reserved for members only. L
+ ight bites will be served.
 URL:https://members.thequinhouse.com/events/175770
 CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-166021@thequinhouse.com
-DTSTAMP:20260323T153944Z
+DTSTAMP:20260323T200054Z
 DTSTART;TZID=America/New_York:20260323T180000
 DTEND;TZID=America/New_York:20260323T210000
 SUMMARY:Community Dinner Table
@@ -107,99 +80,99 @@ CATEGORIES:Member Mixer
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-177076@thequinhouse.com
-DTSTAMP:20260323T153944Z
+DTSTAMP:20260323T200054Z
 DTSTART;TZID=America/New_York:20260323T180000
 DTEND;TZID=America/New_York:20260323T190000
 SUMMARY:Meet the Maker: Robert Foley Vineyards Session II
 LOCATION:The Living Room
-DESCRIPTION:Category: Food & Beverage\nPrice: Free\nAvailability: 1 spot le
- ft\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/
- 177076\n\nJoin us for an intimate afternoon with Robert Foley of Robert Fo
- ley Wines\, one of Napa Valley’s most revered vintners. With decades of 
- winemaking expertise\, Robert’s approach is rooted in precision\, patien
- ce\, and a deep respect for the vineyard. Each varietal reflects the disti
- nct expression of its terroir—structured\, layered\, and built to age—
- while remaining unmistakably expressive in the glass. Throughout the tasti
- ng\, members will explore aroma\, structure\, and nuance in an interactive
-  dialogue designed to sharpen the senses and deepen appreciation.\n\nRober
- t will personally guide members through a curated tasting of five exceptio
- nal wines—Charbono 2021\, Chardonnay 2023\, Claret 2018\, Griffin 2019\,
-  and Napa Cabernet 2018—offering insight into the craft\, character\, an
- d philosophy behind each bottle.\n\n*This event is complimentary and reser
- ved for members only. Light bites will be served.
+DESCRIPTION:Category: Food & Beverage\nPrice: Free\nAvailability: 4 spots l
+ eft\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events
+ /177076\n\nJoin us for an intimate afternoon with Robert Foley of Robert F
+ oley Wines\, one of Napa Valley’s most revered vintners. With decades of
+  winemaking expertise\, Robert’s approach is rooted in precision\, patie
+ nce\, and a deep respect for the vineyard. Each varietal reflects the dist
+ inct expression of its terroir—structured\, layered\, and built to age�
+ �while remaining unmistakably expressive in the glass. Throughout the tast
+ ing\, members will explore aroma\, structure\, and nuance in an interactiv
+ e dialogue designed to sharpen the senses and deepen appreciation.\n\nRobe
+ rt will personally guide members through a curated tasting of five excepti
+ onal wines—Charbono 2021\, Chardonnay 2023\, Claret 2018\, Griffin 2019\
+ , and Napa Cabernet 2018—offering insight into the craft\, character\, a
+ nd philosophy behind each bottle.\n\n*This event is complimentary and rese
+ rved for members only. Light bites will be served.
 URL:https://members.thequinhouse.com/events/177076
 CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-169177@thequinhouse.com
-DTSTAMP:20260323T153944Z
+DTSTAMP:20260323T200054Z
 DTSTART;TZID=America/New_York:20260324T130000
 DTEND;TZID=America/New_York:20260324T150000
 SUMMARY: 90 Minutes of Innovation: Top Gun Meets a $2+ Billion Aviation Gam
  e-Changer 
 LOCATION:The Pub
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 5 spots left
- \nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/e
- vents/169177\n\n1:00PM Program\, 2:30PM Networking \nTwo frontiers. One s
- tage. Not to be missed. In this high-voltage edition of 90 Minutes of Inno
- vation\, flight becomes more than a metaphor — it becomes a stress test 
- for the future of AI\, defense\, climate innovation\, and human judgment i
- tself.\n\nJohn Werner — venture capitalist\, Forbes AI columnist\, and I
- nnovation Curator at The ’Quin House — convenes an extraordinary pairi
- ng you won’t see anywhere else. A real-world Top Gun who has flown 80 co
- mbat missions\, 290 test missions\, and logged more than 2\,000 hours acro
- ss 30 aircraft — including the F-35\, F-15\, and F-16 — operating alon
- gside AI in live\, high-stakes environments. And a leader helping build on
- e of the most highly capitalized electric aviation companies in the world.
- \n\nFirst: Kristen Costello\n\nBuilding the Next Aviation System\n\nKriste
- n Costello is a pilot and executive at Vermont-based Beta Technologies\, a
-  New England aerospace company valued at more than $2 billion and backed b
- y over $1 billion from Fidelity\, Qatar Investment Authority\, Amazon’s 
- Climate Pledge Fund\, GE Aerospace\, and others.\n\nBeta isn’t pitching 
- a concept. It’s building a new aviation system. Founded by former Harvar
- d hockey player Kyle Clark — once told not to return to Vermont because 
- “there was nothing there” — Beta has grown into one of the most ambi
- tious aerospace companies on the planet. The company is developing all-ele
- ctric aircraft for cargo\, medical logistics\, and passenger travel while 
- simultaneously constructing a nationwide charging network. It has complete
- d cross-country flights\, secured major commercial and defense partnership
- s\, and is advancing through the FAA’s rigorous certification process.\n
- \nThe breakthrough isn’t just the airplane. It’s the systems thinking 
- — aircraft\, charging infrastructure\, certification\, pilot training\, 
- and operations built in parallel. Not incremental change\, but a redesign 
- of regional air mobility from propulsion to power grid. If it succeeds\, i
- t won’t just change how we fly. It will change where flying makes sense.
- \n\nThen: Tucker “Cinco” Hamilton\n\nWhere Humans and AI Share the Coc
- kpit\n\nThe evening shifts to contested airspace.\n\nRetired U.S. Air Forc
- e Colonel and experimental fighter test pilot Tucker “Cinco” Hamilton 
- — former Chief of AI Test and Operations for the U.S. Air Force and Spac
- e Force — led the integration of AI-enabled autonomy into combat aircraf
- t. He has operated at the edge\, where algorithms and humans share the coc
- kpit in real-time\, high-consequence environments.\n\nHamilton brings audi
- ences inside moments few will ever experience: ejecting from a failing air
- craft\, managing an engine fire at twice the speed of sound\, crash-landin
- g a jet while fighting to keep it upright\, and flying combat missions ove
- r Afghanistan. For Hamilton\, AI is not theoretical. It is airborne. He ha
- s confronted the defining questions of our era:\n\nWhen should a machine b
- e trusted?\n\nHow do you test systems that learn?\n\nWhat happens when AI 
- evolves faster than doctrine?\n\nWho is accountable when autonomy acts?\n\
- nThis program also marks the debut of his new book\, Unlocking the Last 20
- %\, on elite performance in an age of automation.\n\nAviation has always p
- reviewed the future. Now it is revealing the operating system of the next 
- century. The future is not humans replaced by machines. It is humans redes
- igned alongside them.\n\n*This event is complimentary and reserved for mem
- bers only. Light bites and refreshments will be served.
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 10 spots lef
+ t\nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/
+ events/169177\n\n1:00PM Program\, 2:30PM Networking \nTwo frontiers. One 
+ stage. Not to be missed. In this high-voltage edition of 90 Minutes of Inn
+ ovation\, flight becomes more than a metaphor — it becomes a stress test
+  for the future of AI\, defense\, climate innovation\, and human judgment 
+ itself.\n\nJohn Werner — venture capitalist\, Forbes AI columnist\, and 
+ Innovation Curator at The ’Quin House — convenes an extraordinary pair
+ ing you won’t see anywhere else. A real-world Top Gun who has flown 80 c
+ ombat missions\, 290 test missions\, and logged more than 2\,000 hours acr
+ oss 30 aircraft — including the F-35\, F-15\, and F-16 — operating alo
+ ngside AI in live\, high-stakes environments. And a leader helping build o
+ ne of the most highly capitalized electric aviation companies in the world
+ .\n\nFirst: Kristen Costello\n\nBuilding the Next Aviation System\n\nKrist
+ en Costello is a pilot and executive at Vermont-based Beta Technologies\, 
+ a New England aerospace company valued at more than $2 billion and backed 
+ by over $1 billion from Fidelity\, Qatar Investment Authority\, Amazon’s
+  Climate Pledge Fund\, GE Aerospace\, and others.\n\nBeta isn’t pitching
+  a concept. It’s building a new aviation system. Founded by former Harva
+ rd hockey player Kyle Clark — once told not to return to Vermont because
+  “there was nothing there” — Beta has grown into one of the most amb
+ itious aerospace companies on the planet. The company is developing all-el
+ ectric aircraft for cargo\, medical logistics\, and passenger travel while
+  simultaneously constructing a nationwide charging network. It has complet
+ ed cross-country flights\, secured major commercial and defense partnershi
+ ps\, and is advancing through the FAA’s rigorous certification process.\
+ n\nThe breakthrough isn’t just the airplane. It’s the systems thinking
+  — aircraft\, charging infrastructure\, certification\, pilot training\,
+  and operations built in parallel. Not incremental change\, but a redesign
+  of regional air mobility from propulsion to power grid. If it succeeds\, 
+ it won’t just change how we fly. It will change where flying makes sense
+ .\n\nThen: Tucker “Cinco” Hamilton\n\nWhere Humans and AI Share the Co
+ ckpit\n\nThe evening shifts to contested airspace.\n\nRetired U.S. Air For
+ ce Colonel and experimental fighter test pilot Tucker “Cinco” Hamilton
+  — former Chief of AI Test and Operations for the U.S. Air Force and Spa
+ ce Force — led the integration of AI-enabled autonomy into combat aircra
+ ft. He has operated at the edge\, where algorithms and humans share the co
+ ckpit in real-time\, high-consequence environments.\n\nHamilton brings aud
+ iences inside moments few will ever experience: ejecting from a failing ai
+ rcraft\, managing an engine fire at twice the speed of sound\, crash-landi
+ ng a jet while fighting to keep it upright\, and flying combat missions ov
+ er Afghanistan. For Hamilton\, AI is not theoretical. It is airborne. He h
+ as confronted the defining questions of our era:\n\nWhen should a machine 
+ be trusted?\n\nHow do you test systems that learn?\n\nWhat happens when AI
+  evolves faster than doctrine?\n\nWho is accountable when autonomy acts?\n
+ \nThis program also marks the debut of his new book\, Unlocking the Last 2
+ 0%\, on elite performance in an age of automation.\n\nAviation has always 
+ previewed the future. Now it is revealing the operating system of the next
+  century. The future is not humans replaced by machines. It is humans rede
+ signed alongside them.\n\n*This event is complimentary and reserved for me
+ mbers only. Light bites and refreshments will be served.
 URL:https://members.thequinhouse.com/events/169177
 CATEGORIES:‘Quin Chat
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-173781@thequinhouse.com
-DTSTAMP:20260323T153944Z
+DTSTAMP:20260323T200054Z
 DTSTART;TZID=America/New_York:20260324T170000
 DTEND;TZID=America/New_York:20260324T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 13 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 12 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  73781\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in an ambiant reserved space. This is your opportunity to connect with fe
@@ -215,7 +188,7 @@ CATEGORIES:Member Mixer
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-175771@thequinhouse.com
-DTSTAMP:20260323T153944Z
+DTSTAMP:20260323T200054Z
 DTSTART;TZID=America/New_York:20260324T170000
 DTEND;TZID=America/New_York:20260324T183000
 SUMMARY:'Quin Chat: Rethinking Women's Health
@@ -247,36 +220,36 @@ CATEGORIES:Health & Wellness
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-173833@thequinhouse.com
-DTSTAMP:20260323T153944Z
+DTSTAMP:20260323T200054Z
 DTSTART;TZID=America/New_York:20260324T193000
 DTEND;TZID=America/New_York:20260324T210000
 SUMMARY:Author's Circle Book Club: "Canticle" with Janet Rich Edwards 
 LOCATION:The Muse
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 9 spots left\nSt
- atus: Available\nEvent URL: https://members.thequinhouse.com/events/173833
- \n\nBookmark the date for a compelling conversation exploring Canticle\, t
- he luminous debut novel by Janet Rich Edwards set in thirteenth-century Br
- uges - a story of faith\, independence\, and love.\n\nAt sixteen\, Aleys i
- s serious\, stubborn\, and prone to religious visions. When her closest co
- mpanion abandons her for the monastery and her family promises her in marr
- iage to the calculating head of the weavers’ guild\, she refuses to acce
- pt the life chosen for her. Fleeing home\, she finds refuge among the Begu
- ines - an independent community of religious women who live and worship ou
- tside the authority of the Church.\n\nWithin this vibrant sisterhood\, Ale
- ys discovers scholarship\, friendship\, and a new sense of purpose. But as
-  illicit translations of scripture circulate and reports of miracles sprea
- d\, the women’s autonomy draws dangerous scrutiny from Church authoritie
- s - forcing Aleys to confront the true cost of devotion\, love\, and sacri
- fice.\n\nJoin us for a thoughtful discussion of this richly imagined histo
- rical novel and its stirring portrait of spiritual awakening and female ag
- ency.\n\n*This event is complimentary and reserved for members only. Light
-  bites and refreshments will be served.
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 11 spots left\nS
+ tatus: Available\nEvent URL: https://members.thequinhouse.com/events/17383
+ 3\n\nBookmark the date for a compelling conversation exploring Canticle\, 
+ the luminous debut novel by Janet Rich Edwards set in thirteenth-century B
+ ruges - a story of faith\, independence\, and love.\n\nAt sixteen\, Aleys 
+ is serious\, stubborn\, and prone to religious visions. When her closest c
+ ompanion abandons her for the monastery and her family promises her in mar
+ riage to the calculating head of the weavers’ guild\, she refuses to acc
+ ept the life chosen for her. Fleeing home\, she finds refuge among the Beg
+ uines - an independent community of religious women who live and worship o
+ utside the authority of the Church.\n\nWithin this vibrant sisterhood\, Al
+ eys discovers scholarship\, friendship\, and a new sense of purpose. But a
+ s illicit translations of scripture circulate and reports of miracles spre
+ ad\, the women’s autonomy draws dangerous scrutiny from Church authoriti
+ es - forcing Aleys to confront the true cost of devotion\, love\, and sacr
+ ifice.\n\nJoin us for a thoughtful discussion of this richly imagined hist
+ orical novel and its stirring portrait of spiritual awakening and female a
+ gency.\n\n*This event is complimentary and reserved for members only. Ligh
+ t bites and refreshments will be served.
 URL:https://members.thequinhouse.com/events/173833
 CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-172754@thequinhouse.com
-DTSTAMP:20260323T153944Z
+DTSTAMP:20260323T200054Z
 DTSTART;TZID=America/New_York:20260325T193000
 DTEND;TZID=America/New_York:20260325T220000
 SUMMARY:'Quin Suite: Celtics vs Thunder
@@ -301,31 +274,31 @@ CATEGORIES:Sports & Games
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-176383@thequinhouse.com
-DTSTAMP:20260323T153944Z
+DTSTAMP:20260323T200054Z
 DTSTART;TZID=America/New_York:20260327T100000
 DTEND;TZID=America/New_York:20260327T120000
 SUMMARY:Hands-On Impact: Volunteer with Wonderfund
 LOCATION:Offsite: Roadrunner
-DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nStatus: soldOut\nEv
- ent URL: https://members.thequinhouse.com/events/176383\n\nJoin The ’Qui
- n Impact Fund for the fourth annual Period Party\, hosted by The Wonderfun
- d\, a hands-on volunteer experience bringing together women from across Gr
- eater Boston to create immediate\, tangible impact for teens engaged with 
- the Massachusetts Department of Children and Families.\n\nDuring this high
- -energy volunteer event\, more than 500 participants will come together to
-  assemble 10\,000 menstrual hygiene kits\, ensuring young people across th
- e Commonwealth have reliable access to essential menstrual products. These
-  kits will be distributed to all 29 DCF area offices\, where social worker
- s can provide them directly to the teens they support. Last year’s effor
- t packed and distributed more than 13\,000 kits - be a part of helping to 
- do it again. \n\n*This event is complimentary and reserved for members onl
- y.
+DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nAvailability: 2 spo
+ ts left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/ev
+ ents/176383\n\nJoin The ’Quin Impact Fund for the fourth annual Period P
+ arty\, hosted by The Wonderfund\, a hands-on volunteer experience bringing
+  together women from across Greater Boston to create immediate\, tangible 
+ impact for teens engaged with the Massachusetts Department of Children and
+  Families.\n\nDuring this high-energy volunteer event\, more than 500 part
+ icipants will come together to assemble 10\,000 menstrual hygiene kits\, e
+ nsuring young people across the Commonwealth have reliable access to essen
+ tial menstrual products. These kits will be distributed to all 29 DCF area
+  offices\, where social workers can provide them directly to the teens the
+ y support. Last year’s effort packed and distributed more than 13\,000 k
+ its - be a part of helping to do it again. \n\n*This event is complimentar
+ y and reserved for members only.
 URL:https://members.thequinhouse.com/events/176383
 CATEGORIES:‘Quin Impact Fund
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-173809@thequinhouse.com
-DTSTAMP:20260323T153944Z
+DTSTAMP:20260323T200054Z
 DTSTART;TZID=America/New_York:20260327T110000
 DTEND;TZID=America/New_York:20260327T120000
 SUMMARY:Art Tour: Celebrating Female Artists
@@ -344,34 +317,35 @@ CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-175778@thequinhouse.com
-DTSTAMP:20260323T153944Z
+DTSTAMP:20260323T200054Z
 DTSTART;TZID=America/New_York:20260327T170000
 DTEND;TZID=America/New_York:20260327T183000
 SUMMARY:'Quin Chat: The Edge of Possible with Monet Izabeth 
 LOCATION:Scottie's
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nStatus: Waitlist Only\nEve
- nt URL: https://members.thequinhouse.com/events/175778\n\n5:00PM Reception
- \, 5:30PM Discussion \nAn evening of extraordinary endurance and perspect
- ive awaits with solo adventurer and storyteller Monet Izabeth. In January 
- 2026\, she became the first American woman to ski solo and unsupported to 
- the South Pole\, traveling 700 miles across Antarctica over 57 days. Alone
-  in whiteouts and subzero temperatures\, hauling every supply herself\, he
- r expedition was a profound test of resilience\, preparation\, and the dec
- ision to begin before feeling fully ready.\n\nBased between Massachusetts 
- and Nepal\, Monet has built her career designing immersive\, locally led j
- ourneys that connect travelers more deeply to place and people - while ins
- piring a global community to step beyond what feels comfortable and into w
- hat feels possible.\n\nThe conversation will be moderated by journalist Bi
- lly Baker\, who chronicled Monet’s journey\, offering insight into both 
- the public story\, the personal reality behind it and what we can all lear
- n from choosing the extraordinary. \n\n*This event is complimentary and r
- eserved for members only. Light bites and refreshments will be served.
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 1 spot left\
+ nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/175
+ 778\n\n5:00PM Reception\, 5:30PM Discussion \nAn evening of extraordinary
+  endurance and perspective awaits with solo adventurer and storyteller Mon
+ et Izabeth. In January 2026\, she became the first American woman to ski s
+ olo and unsupported to the South Pole\, traveling 700 miles across Antarct
+ ica over 57 days. Alone in whiteouts and subzero temperatures\, hauling ev
+ ery supply herself\, her expedition was a profound test of resilience\, pr
+ eparation\, and the decision to begin before feeling fully ready.\n\nBased
+  between Massachusetts and Nepal\, Monet has built her career designing im
+ mersive\, locally led journeys that connect travelers more deeply to place
+  and people - while inspiring a global community to step beyond what feels
+  comfortable and into what feels possible.\n\nThe conversation will be mod
+ erated by journalist Billy Baker\, who chronicled Monet’s journey\, offe
+ ring insight into both the public story\, the personal reality behind it a
+ nd what we can all learn from choosing the extraordinary. \n\n*This event
+  is complimentary and reserved for members only. Light bites and refreshme
+ nts will be served.
 URL:https://members.thequinhouse.com/events/175778
 CATEGORIES:‘Quin Chat
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-172755@thequinhouse.com
-DTSTAMP:20260323T153944Z
+DTSTAMP:20260323T200054Z
 DTSTART;TZID=America/New_York:20260327T193000
 DTEND;TZID=America/New_York:20260327T220000
 SUMMARY:'Quin Suite: Celtics vs Hawks
@@ -395,7 +369,7 @@ CATEGORIES:Sports & Games
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-179008@thequinhouse.com
-DTSTAMP:20260323T153944Z
+DTSTAMP:20260323T200054Z
 DTSTART;TZID=America/New_York:20260328T113000
 DTEND;TZID=America/New_York:20260328T143000
 SUMMARY:Jazz Brunch
@@ -412,7 +386,7 @@ CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-173024@thequinhouse.com
-DTSTAMP:20260323T153944Z
+DTSTAMP:20260323T200054Z
 DTSTART;TZID=America/New_York:20260328T130000
 DTEND;TZID=America/New_York:20260328T150000
 SUMMARY:Serendipity Brunch
@@ -436,7 +410,7 @@ CATEGORIES:Member Mixer
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-177090@thequinhouse.com
-DTSTAMP:20260323T153944Z
+DTSTAMP:20260323T200054Z
 DTSTART;TZID=America/New_York:20260330T180000
 DTEND;TZID=America/New_York:20260330T200000
 SUMMARY:Member Meet Up: F1 Arcade
@@ -459,28 +433,28 @@ CATEGORIES:Member Mixer
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-173782@thequinhouse.com
-DTSTAMP:20260323T153944Z
+DTSTAMP:20260323T200054Z
 DTSTART;TZID=America/New_York:20260331T170000
 DTEND;TZID=America/New_York:20260331T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 11 spots lef
- t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
- 73782\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
-  in an ambiant reserved space. This is your opportunity to connect with fe
- llow members\, exchange ideas\, and cultivate meaningful relationships.\n\
- nWhether you're sparking new collaborations\, sharing insights\, or simply
-  enjoying great conversation\, the Member Mingle is the perfect way to eng
- age with our dynamic community. Don’t miss the chance to connect\, inspi
- re\, and be inspired!\n\n*This event is complimentary and reserved for mem
- bers only. Complimentary light bites will be served\, and beverages will b
- e available for purchase.
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 9 spots left
+ \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/17
+ 3782\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set 
+ in an ambiant reserved space. This is your opportunity to connect with fel
+ low members\, exchange ideas\, and cultivate meaningful relationships.\n\n
+ Whether you're sparking new collaborations\, sharing insights\, or simply 
+ enjoying great conversation\, the Member Mingle is the perfect way to enga
+ ge with our dynamic community. Don’t miss the chance to connect\, inspir
+ e\, and be inspired!\n\n*This event is complimentary and reserved for memb
+ ers only. Complimentary light bites will be served\, and beverages will be
+  available for purchase.
 URL:https://members.thequinhouse.com/events/173782
 CATEGORIES:Member Mixer
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-173828@thequinhouse.com
-DTSTAMP:20260323T153944Z
+DTSTAMP:20260323T200054Z
 DTSTART;TZID=America/New_York:20260331T180000
 DTEND;TZID=America/New_York:20260331T190000
 SUMMARY:Stand Up Comedy: Kelly MacFarland | 6:00PM Show
@@ -502,7 +476,7 @@ CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-173827@thequinhouse.com
-DTSTAMP:20260323T153944Z
+DTSTAMP:20260323T200054Z
 DTSTART;TZID=America/New_York:20260331T200000
 DTEND;TZID=America/New_York:20260331T210000
 SUMMARY:Stand Up Comedy: Kelly MacFarland | 8:00PM Show
@@ -524,7 +498,7 @@ CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-177696@thequinhouse.com
-DTSTAMP:20260323T153944Z
+DTSTAMP:20260323T200054Z
 DTSTART;TZID=America/New_York:20260401T180000
 DTEND;TZID=America/New_York:20260401T210000
 SUMMARY:Live Music: Zahili Zamora
@@ -546,7 +520,7 @@ CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-178464@thequinhouse.com
-DTSTAMP:20260323T153944Z
+DTSTAMP:20260323T200054Z
 DTSTART;TZID=America/New_York:20260402T113000
 DTEND;TZID=America/New_York:20260402T130000
 SUMMARY:Women\, Worth & Wisdom: Allyship
@@ -573,7 +547,7 @@ CATEGORIES:‘Quin Chat
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-177698@thequinhouse.com
-DTSTAMP:20260323T153944Z
+DTSTAMP:20260323T200054Z
 DTSTART;TZID=America/New_York:20260402T173000
 DTEND;TZID=America/New_York:20260402T190000
 SUMMARY:Meet the Maker: Derek Baljeu of Knights Bridge Winery | Session I
@@ -602,7 +576,7 @@ CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-177700@thequinhouse.com
-DTSTAMP:20260323T153944Z
+DTSTAMP:20260323T200054Z
 DTSTART;VALUE=DATE:20260402
 DTEND;VALUE=DATE:20260405
 SUMMARY:Dessert Trolley 
@@ -624,13 +598,13 @@ CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-178419@thequinhouse.com
-DTSTAMP:20260323T153944Z
+DTSTAMP:20260323T200054Z
 DTSTART;TZID=America/New_York:20260403T113000
 DTEND;TZID=America/New_York:20260403T130000
 SUMMARY:'Quin Chat: A Focus on Men's Health
 LOCATION:The Pub
 DESCRIPTION:Category: Health & Wellness\nPrice: $35.00 per person\nAvailabi
- lity: 51 spots left\nStatus: You are Confirmed\nEvent URL: https://members
+ lity: 46 spots left\nStatus: You are Confirmed\nEvent URL: https://members
  .thequinhouse.com/events/178419\n\n11:30AM Lunch\, 12:00PM Discussion\nBio
  hacking\, sleep optimization\, performance psychology—today’s approach
   to men’s health goes far beyond the annual checkup. This forward-thinki
@@ -654,7 +628,7 @@ CATEGORIES:Health & Wellness
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-177699@thequinhouse.com
-DTSTAMP:20260323T153944Z
+DTSTAMP:20260323T200054Z
 DTSTART;TZID=America/New_York:20260403T173000
 DTEND;TZID=America/New_York:20260403T190000
 SUMMARY:Meet the Maker: Derek Baljeu of Knights Bridge Winery | Session II
@@ -683,7 +657,7 @@ CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-177602@thequinhouse.com
-DTSTAMP:20260323T153944Z
+DTSTAMP:20260323T200054Z
 DTSTART;TZID=America/New_York:20260405T093000
 DTEND;TZID=America/New_York:20260405T100000
 SUMMARY:Easter Egg Hunt | Session I 
@@ -704,7 +678,7 @@ CATEGORIES:Holiday
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-177604@thequinhouse.com
-DTSTAMP:20260323T153944Z
+DTSTAMP:20260323T200054Z
 DTSTART;TZID=America/New_York:20260405T103000
 DTEND;TZID=America/New_York:20260405T111500
 SUMMARY:Easter Kids Crafts | Session I 
@@ -729,7 +703,7 @@ CATEGORIES:Holiday
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-177702@thequinhouse.com
-DTSTAMP:20260323T153944Z
+DTSTAMP:20260323T200054Z
 DTSTART;VALUE=DATE:20260405
 DTEND;VALUE=DATE:20260406
 SUMMARY:Easter Dining 
@@ -757,7 +731,7 @@ CATEGORIES:Holiday
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-177609@thequinhouse.com
-DTSTAMP:20260323T153944Z
+DTSTAMP:20260323T200054Z
 DTSTART;TZID=America/New_York:20260405T113000
 DTEND;TZID=America/New_York:20260405T121500
 SUMMARY:Easter Kids Crafts | Session II
@@ -782,7 +756,7 @@ CATEGORIES:Holiday
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-177607@thequinhouse.com
-DTSTAMP:20260323T153944Z
+DTSTAMP:20260323T200054Z
 DTSTART;TZID=America/New_York:20260405T123000
 DTEND;TZID=America/New_York:20260405T130000
 SUMMARY:Easter Egg Hunt | Session II
@@ -803,7 +777,7 @@ CATEGORIES:Holiday
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-177610@thequinhouse.com
-DTSTAMP:20260323T153944Z
+DTSTAMP:20260323T200054Z
 DTSTART;TZID=America/New_York:20260405T131500
 DTEND;TZID=America/New_York:20260405T140000
 SUMMARY:Easter Kids Crafts | Session III
@@ -828,7 +802,7 @@ CATEGORIES:Holiday
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-177608@thequinhouse.com
-DTSTAMP:20260323T153944Z
+DTSTAMP:20260323T200054Z
 DTSTART;TZID=America/New_York:20260405T143000
 DTEND;TZID=America/New_York:20260405T150000
 SUMMARY:Easter Egg Hunt | Session III
@@ -849,7 +823,7 @@ CATEGORIES:Holiday
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-175996@thequinhouse.com
-DTSTAMP:20260323T153944Z
+DTSTAMP:20260323T200054Z
 DTSTART;TZID=America/New_York:20260406T183000
 DTEND;TZID=America/New_York:20260406T210000
 SUMMARY:Serendipity Dinner 
@@ -871,7 +845,7 @@ CATEGORIES:Member Mixer
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-177703@thequinhouse.com
-DTSTAMP:20260323T153944Z
+DTSTAMP:20260323T200054Z
 DTSTART;VALUE=DATE:20260407
 DTEND;VALUE=DATE:20260410
 SUMMARY:Passover Dining in Café Q 
@@ -893,12 +867,12 @@ CATEGORIES:Holiday
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-177706@thequinhouse.com
-DTSTAMP:20260323T153944Z
+DTSTAMP:20260323T200054Z
 DTSTART;TZID=America/New_York:20260407T170000
 DTEND;TZID=America/New_York:20260407T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 22 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 20 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  77706\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in an ambiant reserved space. This is your opportunity to connect with fe
@@ -914,7 +888,7 @@ CATEGORIES:Member Mixer
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-172756@thequinhouse.com
-DTSTAMP:20260323T153944Z
+DTSTAMP:20260323T200054Z
 DTSTART;TZID=America/New_York:20260407T193000
 DTEND;TZID=America/New_York:20260407T220000
 SUMMARY:'Quin Suite: Celtics vs Hornets
@@ -939,7 +913,7 @@ CATEGORIES:Sports & Games
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-177614@thequinhouse.com
-DTSTAMP:20260323T153944Z
+DTSTAMP:20260323T200054Z
 DTSTART;TZID=America/New_York:20260408T170000
 DTEND;TZID=America/New_York:20260408T183000
 SUMMARY:'Quin Chat: Collecting Luxury
@@ -968,7 +942,7 @@ CATEGORIES:‘Quin Chat
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-176378@thequinhouse.com
-DTSTAMP:20260323T153944Z
+DTSTAMP:20260323T200054Z
 DTSTART;TZID=America/New_York:20260409T110000
 DTEND;TZID=America/New_York:20260409T120000
 SUMMARY:Art Tour: Portraits of Power
@@ -989,7 +963,7 @@ CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-166077@thequinhouse.com
-DTSTAMP:20260323T153944Z
+DTSTAMP:20260323T200054Z
 DTSTART;VALUE=DATE:20260409
 DTEND;VALUE=DATE:20260417
 SUMMARY:'Venture: The Wonders of Egypt
@@ -1054,7 +1028,7 @@ CATEGORIES:‘Venture - Travel
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-177616@thequinhouse.com
-DTSTAMP:20260323T153944Z
+DTSTAMP:20260323T200054Z
 DTSTART;TZID=America/New_York:20260410T103000
 DTEND;TZID=America/New_York:20260410T113000
 SUMMARY:de Gournay Watercolor Class: Friday Session I
@@ -1080,64 +1054,64 @@ CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-178465@thequinhouse.com
-DTSTAMP:20260323T153944Z
+DTSTAMP:20260323T200054Z
 DTSTART;TZID=America/New_York:20260410T130000
 DTEND;TZID=America/New_York:20260410T140000
 SUMMARY:de Gournay Watercolor Class: Friday Session II
 LOCATION:The Muse
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 2 spots left\nSt
- atus: Available\nEvent URL: https://members.thequinhouse.com/events/178465
- \n\nDiscover the art of watercolor in an intimate workshop with de Gournay
- \, the esteemed London-based atelier celebrated for its hand-painted wallp
- apers and dedication to centuries-old decorative techniques. Founded on a 
- reverence for tradition and craftsmanship\, de Gournay has become synonymo
- us with exquisitely detailed\, bespoke interiors around the world.\n\nSet 
- against the backdrop of Seasons of Love\, the custom mural that defines 
- The Muse\, this experience invites members to engage more deeply with the 
- artistry behind the walls. Guided by Head Artist Evie Coley\, participants
-  will draw inspiration from the Spring panel\, exploring its delicate moti
- fs\, nuanced palettes\, and layered storytelling.\n\nAn immersive and tact
- ile experience\, the workshop offers a rare opportunity to translate de Go
- urnay’s timeless craftsmanship into your own watercolor compositions.\n\
- n*This event is complimentary and reserved for members only. All material
- s will be provided\, and light bites and refreshments will be served.
+DESCRIPTION:Category: The Arts\nPrice: Free\nStatus: Waitlist Only\nEvent U
+ RL: https://members.thequinhouse.com/events/178465\n\nDiscover the art of 
+ watercolor in an intimate workshop with de Gournay\, the esteemed London-b
+ ased atelier celebrated for its hand-painted wallpapers and dedication to 
+ centuries-old decorative techniques. Founded on a reverence for tradition 
+ and craftsmanship\, de Gournay has become synonymous with exquisitely deta
+ iled\, bespoke interiors around the world.\n\nSet against the backdrop of�
+ �Seasons of Love\, the custom mural that defines The Muse\, this experien
+ ce invites members to engage more deeply with the artistry behind the wall
+ s. Guided by Head Artist Evie Coley\, participants will draw inspiration f
+ rom the Spring panel\, exploring its delicate motifs\, nuanced palettes\, 
+ and layered storytelling.\n\nAn immersive and tactile experience\, the wor
+ kshop offers a rare opportunity to translate de Gournay’s timeless craft
+ smanship into your own watercolor compositions.\n\n*This event is complime
+ ntary and reserved for members only. All materials will be provided\, and
+  light bites and refreshments will be served.
 URL:https://members.thequinhouse.com/events/178465
 CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-178466@thequinhouse.com
-DTSTAMP:20260323T153944Z
+DTSTAMP:20260323T200054Z
 DTSTART;TZID=America/New_York:20260410T150000
 DTEND;TZID=America/New_York:20260410T160000
 SUMMARY:de Gournay Watercolor Class: Friday Session III
 LOCATION:The Muse
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 12 spots left\nS
- tatus: Available\nEvent URL: https://members.thequinhouse.com/events/17846
- 6\n\nDiscover the art of watercolor in an intimate workshop with de Gourna
- y\, the esteemed London-based atelier celebrated for its hand-painted wall
- papers and dedication to centuries-old decorative techniques. Founded on a
-  reverence for tradition and craftsmanship\, de Gournay has become synonym
- ous with exquisitely detailed\, bespoke interiors around the world.\n\nSet
-  against the backdrop of Seasons of Love\, the custom mural that defines
-  The Muse\, this experience invites members to engage more deeply with the
-  artistry behind the walls. Guided by Head Artist Evie Coley\, participant
- s will draw inspiration from the Spring panel\, exploring its delicate mot
- ifs\, nuanced palettes\, and layered storytelling.\n\nAn immersive and tac
- tile experience\, the workshop offers a rare opportunity to translate de G
- ournay’s timeless craftsmanship into your own watercolor compositions.\n
- \n*This event is complimentary and reserved for members only. All materia
- ls will be provided\, and light bites and refreshments will be served.
+DESCRIPTION:Category: The Arts\nPrice: Free\nStatus: Waitlist Only\nEvent U
+ RL: https://members.thequinhouse.com/events/178466\n\nDiscover the art of 
+ watercolor in an intimate workshop with de Gournay\, the esteemed London-b
+ ased atelier celebrated for its hand-painted wallpapers and dedication to 
+ centuries-old decorative techniques. Founded on a reverence for tradition 
+ and craftsmanship\, de Gournay has become synonymous with exquisitely deta
+ iled\, bespoke interiors around the world.\n\nSet against the backdrop of�
+ �Seasons of Love\, the custom mural that defines The Muse\, this experien
+ ce invites members to engage more deeply with the artistry behind the wall
+ s. Guided by Head Artist Evie Coley\, participants will draw inspiration f
+ rom the Spring panel\, exploring its delicate motifs\, nuanced palettes\, 
+ and layered storytelling.\n\nAn immersive and tactile experience\, the wor
+ kshop offers a rare opportunity to translate de Gournay’s timeless craft
+ smanship into your own watercolor compositions.\n\n*This event is complime
+ ntary and reserved for members only. All materials will be provided\, and
+  light bites and refreshments will be served.
 URL:https://members.thequinhouse.com/events/178466
 CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-178471@thequinhouse.com
-DTSTAMP:20260323T153944Z
+DTSTAMP:20260323T200054Z
 DTSTART;TZID=America/New_York:20260410T170000
 DTEND;TZID=America/New_York:20260410T183000
 SUMMARY:Author Talk: "The Best Dog in the World" with Alice Hoffman
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 42 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 34 spots left\nS
  tatus: Available\nEvent URL: https://members.thequinhouse.com/events/17847
  1\n\n5:00PM Reception\, 5:30PM Discussion\nFor anyone who has ever loved a
   dog\, the bond needs little explanation. Join us for an intimate evening 
@@ -1163,7 +1137,7 @@ CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-178467@thequinhouse.com
-DTSTAMP:20260323T153944Z
+DTSTAMP:20260323T200054Z
 DTSTART;TZID=America/New_York:20260410T173000
 DTEND;TZID=America/New_York:20260410T183000
 SUMMARY:de Gournay Watercolor Class: Friday Session IV
@@ -1189,7 +1163,7 @@ CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-172757@thequinhouse.com
-DTSTAMP:20260323T153944Z
+DTSTAMP:20260323T200054Z
 DTSTART;TZID=America/New_York:20260410T193000
 DTEND;TZID=America/New_York:20260410T220000
 SUMMARY:'Quin Suite: Celtics vs Pelicans
@@ -1214,39 +1188,39 @@ CATEGORIES:Sports & Games
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-178468@thequinhouse.com
-DTSTAMP:20260323T153944Z
+DTSTAMP:20260323T200054Z
 DTSTART;TZID=America/New_York:20260411T103000
 DTEND;TZID=America/New_York:20260411T113000
 SUMMARY:de Gournay Watercolor Class: Saturday Session I
 LOCATION:The Muse
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 11 spots left\nS
- tatus: Available\nEvent URL: https://members.thequinhouse.com/events/17846
- 8\n\nDiscover the art of watercolor in an intimate workshop with de Gourna
- y\, the esteemed London-based atelier celebrated for its hand-painted wall
- papers and dedication to centuries-old decorative techniques. Founded on a
-  reverence for tradition and craftsmanship\, de Gournay has become synonym
- ous with exquisitely detailed\, bespoke interiors around the world.\n\nSet
-  against the backdrop of Seasons of Love\, the custom mural that defines
-  The Muse\, this experience invites members to engage more deeply with the
-  artistry behind the walls. Guided by Head Artist Evie Coley\, participant
- s will draw inspiration from the Spring panel\, exploring its delicate mot
- ifs\, nuanced palettes\, and layered storytelling.\n\nAn immersive and tac
- tile experience\, the workshop offers a rare opportunity to translate de G
- ournay’s timeless craftsmanship into your own watercolor compositions.\n
- \n*This event is complimentary and reserved for members only. All materia
- ls will be provided\, and light bites and refreshments will be served.
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 9 spots left\nSt
+ atus: Available\nEvent URL: https://members.thequinhouse.com/events/178468
+ \n\nDiscover the art of watercolor in an intimate workshop with de Gournay
+ \, the esteemed London-based atelier celebrated for its hand-painted wallp
+ apers and dedication to centuries-old decorative techniques. Founded on a 
+ reverence for tradition and craftsmanship\, de Gournay has become synonymo
+ us with exquisitely detailed\, bespoke interiors around the world.\n\nSet 
+ against the backdrop of Seasons of Love\, the custom mural that defines 
+ The Muse\, this experience invites members to engage more deeply with the 
+ artistry behind the walls. Guided by Head Artist Evie Coley\, participants
+  will draw inspiration from the Spring panel\, exploring its delicate moti
+ fs\, nuanced palettes\, and layered storytelling.\n\nAn immersive and tact
+ ile experience\, the workshop offers a rare opportunity to translate de Go
+ urnay’s timeless craftsmanship into your own watercolor compositions.\n\
+ n*This event is complimentary and reserved for members only. All material
+ s will be provided\, and light bites and refreshments will be served.
 URL:https://members.thequinhouse.com/events/178468
 CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-177709@thequinhouse.com
-DTSTAMP:20260323T153944Z
+DTSTAMP:20260323T200054Z
 DTSTART;TZID=America/New_York:20260411T110000
 DTEND;TZID=America/New_York:20260411T130000
 SUMMARY:Serendipity Brunch
 LOCATION:Lunasol
 DESCRIPTION:Category: Member Mixer\nPrice: $65.00 per person\nAvailability:
-  12 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
+  11 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
  .com/events/177709\n\nJoin us for a Serendipity Saturday Brunch that invit
  es members to enjoy great conversation\, in good company. Set in Lunasol\,
   the afternoon unfolds with an easy rhythm—a thoughtful menu\, enthusia
@@ -1265,38 +1239,38 @@ CATEGORIES:Member Mixer
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-178469@thequinhouse.com
-DTSTAMP:20260323T153944Z
+DTSTAMP:20260323T200054Z
 DTSTART;TZID=America/New_York:20260411T130000
 DTEND;TZID=America/New_York:20260411T140000
 SUMMARY:de Gournay Watercolor Class: Saturday Session II
 LOCATION:The Muse
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 10 spots left\nS
- tatus: Available\nEvent URL: https://members.thequinhouse.com/events/17846
- 9\n\nDiscover the art of watercolor in an intimate workshop with de Gourna
- y\, the esteemed London-based atelier celebrated for its hand-painted wall
- papers and dedication to centuries-old decorative techniques. Founded on a
-  reverence for tradition and craftsmanship\, de Gournay has become synonym
- ous with exquisitely detailed\, bespoke interiors around the world.\n\nSet
-  against the backdrop of Seasons of Love\, the custom mural that defines
-  The Muse\, this experience invites members to engage more deeply with the
-  artistry behind the walls. Guided by Head Artist Evie Coley\, participant
- s will draw inspiration from the Spring panel\, exploring its delicate mot
- ifs\, nuanced palettes\, and layered storytelling.\n\nAn immersive and tac
- tile experience\, the workshop offers a rare opportunity to translate de G
- ournay’s timeless craftsmanship into your own watercolor compositions.\n
- \n*This event is complimentary and reserved for members only. All materia
- ls will be provided\, and light bites and refreshments will be served.
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 6 spots left\nSt
+ atus: Available\nEvent URL: https://members.thequinhouse.com/events/178469
+ \n\nDiscover the art of watercolor in an intimate workshop with de Gournay
+ \, the esteemed London-based atelier celebrated for its hand-painted wallp
+ apers and dedication to centuries-old decorative techniques. Founded on a 
+ reverence for tradition and craftsmanship\, de Gournay has become synonymo
+ us with exquisitely detailed\, bespoke interiors around the world.\n\nSet 
+ against the backdrop of Seasons of Love\, the custom mural that defines 
+ The Muse\, this experience invites members to engage more deeply with the 
+ artistry behind the walls. Guided by Head Artist Evie Coley\, participants
+  will draw inspiration from the Spring panel\, exploring its delicate moti
+ fs\, nuanced palettes\, and layered storytelling.\n\nAn immersive and tact
+ ile experience\, the workshop offers a rare opportunity to translate de Go
+ urnay’s timeless craftsmanship into your own watercolor compositions.\n\
+ n*This event is complimentary and reserved for members only. All material
+ s will be provided\, and light bites and refreshments will be served.
 URL:https://members.thequinhouse.com/events/178469
 CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-177617@thequinhouse.com
-DTSTAMP:20260323T153944Z
+DTSTAMP:20260323T200054Z
 DTSTART;TZID=America/New_York:20260411T150000
 DTEND;TZID=America/New_York:20260411T160000
 SUMMARY:de Gournay Watercolor Class: Saturday Session III
 LOCATION:The Muse
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 15 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 13 spots left\nS
  tatus: Available\nEvent URL: https://members.thequinhouse.com/events/17761
  7\n\nDiscover the art of watercolor in an intimate workshop with de Gourna
  y\, the esteemed London-based atelier celebrated for its hand-painted wall
@@ -1317,7 +1291,7 @@ CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-178470@thequinhouse.com
-DTSTAMP:20260323T153944Z
+DTSTAMP:20260323T200054Z
 DTSTART;TZID=America/New_York:20260411T173000
 DTEND;TZID=America/New_York:20260411T183000
 SUMMARY:de Gournay Watercolor Class: Saturday Session IV
@@ -1343,7 +1317,7 @@ CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-177695@thequinhouse.com
-DTSTAMP:20260323T153944Z
+DTSTAMP:20260323T200054Z
 DTSTART;VALUE=DATE:20260413
 DTEND;VALUE=DATE:20260501
 SUMMARY:Taste of Provence 
@@ -1362,7 +1336,7 @@ CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-176006@thequinhouse.com
-DTSTAMP:20260323T153944Z
+DTSTAMP:20260323T200054Z
 DTSTART;TZID=America/New_York:20260413T180000
 DTEND;TZID=America/New_York:20260413T210000
 SUMMARY:Community Dinner Table
@@ -1384,12 +1358,12 @@ CATEGORIES:Member Mixer
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-176362@thequinhouse.com
-DTSTAMP:20260323T153944Z
+DTSTAMP:20260323T200054Z
 DTSTART;TZID=America/New_York:20260414T180000
 DTEND;TZID=America/New_York:20260414T190000
 SUMMARY:Improv Comedy | 6:00PM Show
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 67 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 63 spots left\nS
  tatus: Available\nEvent URL: https://members.thequinhouse.com/events/17636
  2\n\nBoston’s best return to the 'House! Improv comedians are ready to k
  eep you laughing with spontaneous sketches\, quick wit\, and audience-insp
@@ -1404,12 +1378,12 @@ CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-176363@thequinhouse.com
-DTSTAMP:20260323T153944Z
+DTSTAMP:20260323T200054Z
 DTSTART;TZID=America/New_York:20260414T200000
 DTEND;TZID=America/New_York:20260414T210000
 SUMMARY:Improv Comedy | 8:00PM Show
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 59 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 55 spots left\nS
  tatus: Available\nEvent URL: https://members.thequinhouse.com/events/17636
  3\n\nBoston’s best return to the 'House! Improv comedians are ready to k
  eep you laughing with spontaneous sketches\, quick wit\, and audience-insp
@@ -1424,7 +1398,7 @@ CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-178472@thequinhouse.com
-DTSTAMP:20260323T153944Z
+DTSTAMP:20260323T200054Z
 DTSTART;TZID=America/New_York:20260415T170000
 DTEND;TZID=America/New_York:20260415T190000
 SUMMARY:Game Night: Mahjong Instructional Play
@@ -1441,7 +1415,7 @@ CATEGORIES:Sports & Games
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-176384@thequinhouse.com
-DTSTAMP:20260323T153944Z
+DTSTAMP:20260323T200054Z
 DTSTART;VALUE=DATE:20260426
 DTEND;VALUE=DATE:20260429
 SUMMARY:Explorateur: Chef Arnaud Faye from Le Bristol Paris
@@ -1486,7 +1460,7 @@ CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-178474@thequinhouse.com
-DTSTAMP:20260323T153944Z
+DTSTAMP:20260323T200054Z
 DTSTART;TZID=America/New_York:20260429T170000
 DTEND;TZID=America/New_York:20260429T190000
 SUMMARY:Game Night: Mahjong Open Play
@@ -1503,7 +1477,7 @@ CATEGORIES:Sports & Games
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-166318@thequinhouse.com
-DTSTAMP:20260323T153944Z
+DTSTAMP:20260323T200054Z
 DTSTART;VALUE=DATE:20260623
 DTEND;VALUE=DATE:20260627
 SUMMARY:'Quin Suite: World Cup England v. Ghana 
@@ -1527,7 +1501,7 @@ CATEGORIES:Sports & Games
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-175300@thequinhouse.com
-DTSTAMP:20260323T153944Z
+DTSTAMP:20260323T200054Z
 DTSTART;TZID=America/New_York:20260626T150000
 DTEND;TZID=America/New_York:20260626T180000
 SUMMARY:'Quin Suite: World Cup France v. Norway
@@ -1551,7 +1525,7 @@ CATEGORIES:Sports & Games
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-175753@thequinhouse.com
-DTSTAMP:20260323T153944Z
+DTSTAMP:20260323T200054Z
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20260803
 SUMMARY:Ride With The 'Quin: Pan Mass Challenge Registration
