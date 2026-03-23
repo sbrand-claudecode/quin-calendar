@@ -8,7 +8,7 @@ X-WR-TIMEZONE:America/New_York
 X-WR-CALDESC:Upcoming programming at The 'Quin House member club
 BEGIN:VEVENT
 UID:quin-event-175769@thequinhouse.com
-DTSTAMP:20260322T190609Z
+DTSTAMP:20260323T054742Z
 DTSTART;TZID=America/New_York:20260323T140000
 DTEND;TZID=America/New_York:20260323T153000
 SUMMARY:'Quin Chat: A Conversation with Malala Yousafzai
@@ -35,63 +35,63 @@ CATEGORIES:‘Quin Chat
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-169177@thequinhouse.com
-DTSTAMP:20260322T190609Z
+DTSTAMP:20260323T054742Z
 DTSTART;TZID=America/New_York:20260324T130000
 DTEND;TZID=America/New_York:20260324T150000
 SUMMARY: 90 Minutes of Innovation: Top Gun Meets a $2+ Billion Aviation Gam
  e-Changer 
 LOCATION:The Pub
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nStatus: You are Confirmed\
- nEvent URL: https://members.thequinhouse.com/events/169177\n\n1:00PM Progr
- am\, 2:30PM Networking \nTwo frontiers. One stage. Not to be missed. In t
- his high-voltage edition of 90 Minutes of Innovation\, flight becomes more
-  than a metaphor — it becomes a stress test for the future of AI\, defen
- se\, climate innovation\, and human judgment itself.\n\nJohn Werner — ve
- nture capitalist\, Forbes AI columnist\, and Innovation Curator at The ’
- Quin House — convenes an extraordinary pairing you won’t see anywhere 
- else. A real-world Top Gun who has flown 80 combat missions\, 290 test mis
- sions\, and logged more than 2\,000 hours across 30 aircraft — including
-  the F-35\, F-15\, and F-16 — operating alongside AI in live\, high-stak
- es environments. And a leader helping build one of the most highly capital
- ized electric aviation companies in the world.\n\nFirst: Kristen Costello\
- n\nBuilding the Next Aviation System\n\nKristen Costello is a pilot and ex
- ecutive at Vermont-based Beta Technologies\, a New England aerospace compa
- ny valued at more than $2 billion and backed by over $1 billion from Fidel
- ity\, Qatar Investment Authority\, Amazon’s Climate Pledge Fund\, GE Aer
- ospace\, and others.\n\nBeta isn’t pitching a concept. It’s building a
-  new aviation system. Founded by former Harvard hockey player Kyle Clark �
- �� once told not to return to Vermont because “there was nothing there�
- � — Beta has grown into one of the most ambitious aerospace companies on
-  the planet. The company is developing all-electric aircraft for cargo\, m
- edical logistics\, and passenger travel while simultaneously constructing 
- a nationwide charging network. It has completed cross-country flights\, se
- cured major commercial and defense partnerships\, and is advancing through
-  the FAA’s rigorous certification process.\n\nThe breakthrough isn’t j
- ust the airplane. It’s the systems thinking — aircraft\, charging infr
- astructure\, certification\, pilot training\, and operations built in para
- llel. Not incremental change\, but a redesign of regional air mobility fro
- m propulsion to power grid. If it succeeds\, it won’t just change how we
-  fly. It will change where flying makes sense.\n\nThen: Tucker “Cinco”
-  Hamilton\n\nWhere Humans and AI Share the Cockpit\n\nThe evening shifts t
- o contested airspace.\n\nRetired U.S. Air Force Colonel and experimental f
- ighter test pilot Tucker “Cinco” Hamilton — former Chief of AI Test 
- and Operations for the U.S. Air Force and Space Force — led the integrat
- ion of AI-enabled autonomy into combat aircraft. He has operated at the ed
- ge\, where algorithms and humans share the cockpit in real-time\, high-con
- sequence environments.\n\nHamilton brings audiences inside moments few wil
- l ever experience: ejecting from a failing aircraft\, managing an engine f
- ire at twice the speed of sound\, crash-landing a jet while fighting to ke
- ep it upright\, and flying combat missions over Afghanistan. For Hamilton\
- , AI is not theoretical. It is airborne. He has confronted the defining qu
- estions of our era:\n\nWhen should a machine be trusted?\n\nHow do you tes
- t systems that learn?\n\nWhat happens when AI evolves faster than doctrine
- ?\n\nWho is accountable when autonomy acts?\n\nThis program also marks the
-  debut of his new book\, Unlocking the Last 20%\, on elite performance in 
- an age of automation.\n\nAviation has always previewed the future. Now it 
- is revealing the operating system of the next century. The future is not h
- umans replaced by machines. It is humans redesigned alongside them.\n\n*Th
- is event is complimentary and reserved for members only. Light bites and r
- efreshments will be served.
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 4 spots left
+ \nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/e
+ vents/169177\n\n1:00PM Program\, 2:30PM Networking \nTwo frontiers. One s
+ tage. Not to be missed. In this high-voltage edition of 90 Minutes of Inno
+ vation\, flight becomes more than a metaphor — it becomes a stress test 
+ for the future of AI\, defense\, climate innovation\, and human judgment i
+ tself.\n\nJohn Werner — venture capitalist\, Forbes AI columnist\, and I
+ nnovation Curator at The ’Quin House — convenes an extraordinary pairi
+ ng you won’t see anywhere else. A real-world Top Gun who has flown 80 co
+ mbat missions\, 290 test missions\, and logged more than 2\,000 hours acro
+ ss 30 aircraft — including the F-35\, F-15\, and F-16 — operating alon
+ gside AI in live\, high-stakes environments. And a leader helping build on
+ e of the most highly capitalized electric aviation companies in the world.
+ \n\nFirst: Kristen Costello\n\nBuilding the Next Aviation System\n\nKriste
+ n Costello is a pilot and executive at Vermont-based Beta Technologies\, a
+  New England aerospace company valued at more than $2 billion and backed b
+ y over $1 billion from Fidelity\, Qatar Investment Authority\, Amazon’s 
+ Climate Pledge Fund\, GE Aerospace\, and others.\n\nBeta isn’t pitching 
+ a concept. It’s building a new aviation system. Founded by former Harvar
+ d hockey player Kyle Clark — once told not to return to Vermont because 
+ “there was nothing there” — Beta has grown into one of the most ambi
+ tious aerospace companies on the planet. The company is developing all-ele
+ ctric aircraft for cargo\, medical logistics\, and passenger travel while 
+ simultaneously constructing a nationwide charging network. It has complete
+ d cross-country flights\, secured major commercial and defense partnership
+ s\, and is advancing through the FAA’s rigorous certification process.\n
+ \nThe breakthrough isn’t just the airplane. It’s the systems thinking 
+ — aircraft\, charging infrastructure\, certification\, pilot training\, 
+ and operations built in parallel. Not incremental change\, but a redesign 
+ of regional air mobility from propulsion to power grid. If it succeeds\, i
+ t won’t just change how we fly. It will change where flying makes sense.
+ \n\nThen: Tucker “Cinco” Hamilton\n\nWhere Humans and AI Share the Coc
+ kpit\n\nThe evening shifts to contested airspace.\n\nRetired U.S. Air Forc
+ e Colonel and experimental fighter test pilot Tucker “Cinco” Hamilton 
+ — former Chief of AI Test and Operations for the U.S. Air Force and Spac
+ e Force — led the integration of AI-enabled autonomy into combat aircraf
+ t. He has operated at the edge\, where algorithms and humans share the coc
+ kpit in real-time\, high-consequence environments.\n\nHamilton brings audi
+ ences inside moments few will ever experience: ejecting from a failing air
+ craft\, managing an engine fire at twice the speed of sound\, crash-landin
+ g a jet while fighting to keep it upright\, and flying combat missions ove
+ r Afghanistan. For Hamilton\, AI is not theoretical. It is airborne. He ha
+ s confronted the defining questions of our era:\n\nWhen should a machine b
+ e trusted?\n\nHow do you test systems that learn?\n\nWhat happens when AI 
+ evolves faster than doctrine?\n\nWho is accountable when autonomy acts?\n\
+ nThis program also marks the debut of his new book\, Unlocking the Last 20
+ %\, on elite performance in an age of automation.\n\nAviation has always p
+ reviewed the future. Now it is revealing the operating system of the next 
+ century. The future is not humans replaced by machines. It is humans redes
+ igned alongside them.\n\n*This event is complimentary and reserved for mem
+ bers only. Light bites and refreshments will be served.
 URL:https://members.thequinhouse.com/events/169177
 CATEGORIES:‘Quin Chat
 END:VEVENT
