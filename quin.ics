@@ -8,7 +8,7 @@ X-WR-TIMEZONE:America/New_York
 X-WR-CALDESC:Upcoming programming at The 'Quin House member club
 BEGIN:VEVENT
 UID:quin-event-175769@thequinhouse.com
-DTSTAMP:20260323T083817Z
+DTSTAMP:20260323T153944Z
 DTSTART;TZID=America/New_York:20260323T140000
 DTEND;TZID=America/New_York:20260323T153000
 SUMMARY:'Quin Chat: A Conversation with Malala Yousafzai
@@ -35,13 +35,13 @@ CATEGORIES:‘Quin Chat
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-169177@thequinhouse.com
-DTSTAMP:20260323T083817Z
+DTSTAMP:20260323T153944Z
 DTSTART;TZID=America/New_York:20260324T130000
 DTEND;TZID=America/New_York:20260324T150000
 SUMMARY: 90 Minutes of Innovation: Top Gun Meets a $2+ Billion Aviation Gam
  e-Changer 
 LOCATION:The Pub
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 4 spots left
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 5 spots left
  \nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/e
  vents/169177\n\n1:00PM Program\, 2:30PM Networking \nTwo frontiers. One s
  tage. Not to be missed. In this high-voltage edition of 90 Minutes of Inno
@@ -94,5 +94,35 @@ DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 4 spots left
  bers only. Light bites and refreshments will be served.
 URL:https://members.thequinhouse.com/events/169177
 CATEGORIES:‘Quin Chat
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-178419@thequinhouse.com
+DTSTAMP:20260323T153944Z
+DTSTART;TZID=America/New_York:20260403T113000
+DTEND;TZID=America/New_York:20260403T130000
+SUMMARY:'Quin Chat: A Focus on Men's Health
+LOCATION:The Pub
+DESCRIPTION:Category: Health & Wellness\nPrice: $35.00 per person\nAvailabi
+ lity: 51 spots left\nStatus: You are Confirmed\nEvent URL: https://members
+ .thequinhouse.com/events/178419\n\n11:30AM Lunch\, 12:00PM Discussion\nBio
+ hacking\, sleep optimization\, performance psychology—today’s approach
+  to men’s health goes far beyond the annual checkup. This forward-thinki
+ ng conversation brings together Dr. Michael Goldstein\, lecturer at Harvar
+ d Medical School and Director of Innovation at Cambridge Psychology Group\
+ , alongside clinicians Dr. Jay Luthar\, Founder and Medical Director of Lu
+ tanen Health & Faculty at Harvard Medical School\, and Dr. Thomas Hagan\, 
+ Certified Chiropractic Sports physician with experience working with profe
+ ssional athletes and the Boston Red Sox.\n\nTogether\, they will unpack th
+ e science behind better sleep\, breathwork\, wearable health technology\, 
+ and the behavioral shifts that help high performers sustain energy\, clari
+ ty\, and longevity. Drawing from work with elite athletes and high-achievi
+ ng professionals\, the panel will explore how data\, mindfulness\, and dai
+ ly habits intersect to shape modern wellness.\n\n*This event is offered at
+  $35 per person\, plus tax\, to account for the buffet lunch offered throu
+ ghout the program. This event is reserved for members only. Cancellations 
+ made within 48 hours of the event or failure to attend will result in a fu
+ ll charge.
+URL:https://members.thequinhouse.com/events/178419
+CATEGORIES:Health & Wellness
 END:VEVENT
 END:VCALENDAR
