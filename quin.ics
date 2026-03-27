@@ -7,14 +7,50 @@ X-WR-CALNAME:Quin
 X-WR-TIMEZONE:America/New_York
 X-WR-CALDESC:Upcoming programming at The 'Quin House member club
 BEGIN:VEVENT
+UID:quin-event-179241@thequinhouse.com
+DTSTAMP:20260327T233000Z
+DTSTART;TZID=America/New_York:20260331T130000
+DTEND;TZID=America/New_York:20260331T150000
+SUMMARY: 90 Minutes of Innovation: The Hypergrowth Playbook with Jon McNeil
+ l 
+LOCATION:The Pub
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nStatus: You are on Waitlis
+ t\nEvent URL: https://members.thequinhouse.com/events/179241\n\n1:00PM Pro
+ gram\, 2:30PM Networking\n\nWhat does it take to scale companies that don�
+ ��t just grow - but redefine industries?\n\nIn this special edition of 90 
+ Minutes of Innovation\, John Werner - venture capitalist\, MIT lecturer\, 
+ and Forbes AI columnist - sits down with Jon McNeill\, former President of
+  Tesla and former Chief Operating Officer of Lyft\, for the Boston premier
+  of his new book\, The Algorithm: The Hypergrowth Formula That Transforme
+ d Tesla\, Lululemon\, General Motors\, and SpaceX.\n\nHaving helped lead T
+ esla through one of the most critical scaling phases in modern business\, 
+ McNeill brings a rare operator’s lens to hypergrowth. In The Algorithm\,
+  he distills the repeatable system behind companies that achieve extraordi
+ nary scale\, drawing from firsthand experience and case studies across som
+ e of the most iconic organizations of our time.\n\nTogether\, Werner & McN
+ eill will explore the core framework behind The Algorithm\, and how hyperg
+ rowth actually works\, alongside lessons from Tesla\, Lululemon\, General 
+ Motors\, and SpaceX. The conversation will also examine what leaders must 
+ do differently at each stage of scale\, how to align product\, people\, an
+ d process for exponential growth\, and why most companies stall while a se
+ lect few break through.\n\nExpect a fast-moving\, insight-dense conversati
+ on that bridges storytelling with execution\, offering a rare window into 
+ the operating system behind some of the world’s most transformative comp
+ anies. From the front lines of hypergrowth to the blueprint behind it - on
+ e stage\, one conversation\, not to be missed.\n\n*This event is complimen
+ tary and reserved for members\, plus one registered guest.
+URL:https://members.thequinhouse.com/events/179241
+CATEGORIES:‘Quin Chat
+END:VEVENT
+BEGIN:VEVENT
 UID:quin-event-178419@thequinhouse.com
-DTSTAMP:20260327T183930Z
+DTSTAMP:20260327T233000Z
 DTSTART;TZID=America/New_York:20260403T113000
 DTEND;TZID=America/New_York:20260403T130000
 SUMMARY:'Quin Chat: A Focus on Men's Health
 LOCATION:The Pub
 DESCRIPTION:Category: Health & Wellness\nPrice: $35.00 per person\nAvailabi
- lity: 38 spots left\nStatus: You are Confirmed\nEvent URL: https://members
+ lity: 37 spots left\nStatus: You are Confirmed\nEvent URL: https://members
  .thequinhouse.com/events/178419\n\n11:30AM Lunch\, 12:00PM Discussion\nBio
  hacking\, sleep optimization\, performance psychology—today’s approach
   to men’s health goes far beyond the annual checkup. This forward-thinki
