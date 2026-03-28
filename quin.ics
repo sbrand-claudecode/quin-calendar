@@ -8,7 +8,7 @@ X-WR-TIMEZONE:America/New_York
 X-WR-CALDESC:Upcoming programming at The 'Quin House member club
 BEGIN:VEVENT
 UID:quin-event-179241@thequinhouse.com
-DTSTAMP:20260328T010033Z
+DTSTAMP:20260328T064229Z
 DTSTART;TZID=America/New_York:20260331T130000
 DTEND;TZID=America/New_York:20260331T150000
 SUMMARY: 90 Minutes of Innovation: The Hypergrowth Playbook with Jon McNeil
@@ -44,7 +44,7 @@ CATEGORIES:‘Quin Chat
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-178419@thequinhouse.com
-DTSTAMP:20260328T010033Z
+DTSTAMP:20260328T064229Z
 DTSTART;TZID=America/New_York:20260403T113000
 DTEND;TZID=America/New_York:20260403T130000
 SUMMARY:'Quin Chat: A Focus on Men's Health
