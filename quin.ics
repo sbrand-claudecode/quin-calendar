@@ -8,7 +8,7 @@ X-WR-TIMEZONE:America/New_York
 X-WR-CALDESC:Upcoming programming at The 'Quin House member club
 BEGIN:VEVENT
 UID:quin-event-179241@thequinhouse.com
-DTSTAMP:20260330T124538Z
+DTSTAMP:20260330T184233Z
 DTSTART;TZID=America/New_York:20260331T130000
 DTEND;TZID=America/New_York:20260331T150000
 SUMMARY: 90 Minutes of Innovation: The Hypergrowth Playbook with Jon McNeil
@@ -44,7 +44,7 @@ CATEGORIES:‘Quin Chat
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-178419@thequinhouse.com
-DTSTAMP:20260330T124538Z
+DTSTAMP:20260330T184233Z
 DTSTART;TZID=America/New_York:20260403T113000
 DTEND;TZID=America/New_York:20260403T130000
 SUMMARY:'Quin Chat: A Focus on Men's Health
@@ -71,5 +71,29 @@ DESCRIPTION:Category: Health & Wellness\nPrice: $35.00 per person\nAvailabi
  ll charge.
 URL:https://members.thequinhouse.com/events/178419
 CATEGORIES:Health & Wellness
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-179439@thequinhouse.com
+DTSTAMP:20260330T184233Z
+DTSTART;TZID=America/New_York:20260413T170000
+DTEND;TZID=America/New_York:20260413T183000
+SUMMARY:Author Talk: "Our World in Ten Buildings" with Michael P. Murphy
+LOCATION:The Muse
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 4 spots left\nSt
+ atus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/event
+ s/179439\n\n5:00PM Reception\, 5:30PM Discussion\nDiscover the profound im
+ pact of architecture on our daily lives with Our World in Ten Buildings. 
+ In this illuminating work\, architectural designer and author Michael P. M
+ urphy examines ten landmark projects\, from hospitals to memorials\, to re
+ veal how thoughtfully designed spaces shape the way we think\, feel\, and 
+ connect.\n\nBlending personal experience with deep research\, Murphy shows
+  how architecture influences our health\, behavior\, and sense of communit
+ y\, challenging the notion that purposeful design is only for the privileg
+ ed. Accessible yet deeply insightful\, this book offers a fresh perspectiv
+ e on the built environment and its power to transform our homes\, workplac
+ es\, and shared spaces.\n\n*This event is complimentary and reserved for m
+ embers only. Light bites and refreshments will be served.
+URL:https://members.thequinhouse.com/events/179439
+CATEGORIES:The Arts
 END:VEVENT
 END:VCALENDAR
