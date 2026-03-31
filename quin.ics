@@ -8,43 +8,44 @@ X-WR-TIMEZONE:America/New_York
 X-WR-CALDESC:Upcoming programming at The 'Quin House member club
 BEGIN:VEVENT
 UID:quin-event-179241@thequinhouse.com
-DTSTAMP:20260330T184233Z
+DTSTAMP:20260331T010807Z
 DTSTART;TZID=America/New_York:20260331T130000
 DTEND;TZID=America/New_York:20260331T150000
 SUMMARY: 90 Minutes of Innovation: The Hypergrowth Playbook with Jon McNeil
  l 
 LOCATION:The Pub
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nStatus: You are on Waitlis
- t\nEvent URL: https://members.thequinhouse.com/events/179241\n\n1:00PM Pro
- gram\, 2:30PM Networking\n\nWhat does it take to scale companies that don�
- ��t just grow - but redefine industries?\n\nIn this special edition of 90 
- Minutes of Innovation\, John Werner - venture capitalist\, MIT lecturer\, 
- and Forbes AI columnist - sits down with Jon McNeill\, former President of
-  Tesla and former Chief Operating Officer of Lyft\, for the Boston premier
-  of his new book\, The Algorithm: The Hypergrowth Formula That Transforme
- d Tesla\, Lululemon\, General Motors\, and SpaceX.\n\nHaving helped lead T
- esla through one of the most critical scaling phases in modern business\, 
- McNeill brings a rare operator’s lens to hypergrowth. In The Algorithm\,
-  he distills the repeatable system behind companies that achieve extraordi
- nary scale\, drawing from firsthand experience and case studies across som
- e of the most iconic organizations of our time.\n\nTogether\, Werner & McN
- eill will explore the core framework behind The Algorithm\, and how hyperg
- rowth actually works\, alongside lessons from Tesla\, Lululemon\, General 
- Motors\, and SpaceX. The conversation will also examine what leaders must 
- do differently at each stage of scale\, how to align product\, people\, an
- d process for exponential growth\, and why most companies stall while a se
- lect few break through.\n\nExpect a fast-moving\, insight-dense conversati
- on that bridges storytelling with execution\, offering a rare window into 
- the operating system behind some of the world’s most transformative comp
- anies. From the front lines of hypergrowth to the blueprint behind it - on
- e stage\, one conversation\, not to be missed.\n\n*This event is complimen
- tary and reserved for members\, plus one registered guest.
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 3 spots left
+ \nStatus: You are on Waitlist\nEvent URL: https://members.thequinhouse.com
+ /events/179241\n\n1:00PM Program\, 2:30PM Networking\n\nWhat does it take 
+ to scale companies that don’t just grow - but redefine industries?\n\nIn
+  this special edition of 90 Minutes of Innovation\, John Werner - venture 
+ capitalist\, MIT lecturer\, and Forbes AI columnist - sits down with Jon M
+ cNeill\, former President of Tesla and former Chief Operating Officer of L
+ yft\, for the Boston premier of his new book\, The Algorithm: The Hypergr
+ owth Formula That Transformed Tesla\, Lululemon\, General Motors\, and Spa
+ ceX.\n\nHaving helped lead Tesla through one of the most critical scaling 
+ phases in modern business\, McNeill brings a rare operator’s lens to hyp
+ ergrowth. In The Algorithm\, he distills the repeatable system behind comp
+ anies that achieve extraordinary scale\, drawing from firsthand experience
+  and case studies across some of the most iconic organizations of our time
+ .\n\nTogether\, Werner & McNeill will explore the core framework behind Th
+ e Algorithm\, and how hypergrowth actually works\, alongside lessons from 
+ Tesla\, Lululemon\, General Motors\, and SpaceX. The conversation will als
+ o examine what leaders must do differently at each stage of scale\, how to
+  align product\, people\, and process for exponential growth\, and why mos
+ t companies stall while a select few break through.\n\nExpect a fast-movin
+ g\, insight-dense conversation that bridges storytelling with execution\, 
+ offering a rare window into the operating system behind some of the world�
+ ��s most transformative companies. From the front lines of hypergrowth to 
+ the blueprint behind it - one stage\, one conversation\, not to be missed.
+ \n\n*This event is complimentary and reserved for members\, plus one regis
+ tered guest.
 URL:https://members.thequinhouse.com/events/179241
 CATEGORIES:‘Quin Chat
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-178419@thequinhouse.com
-DTSTAMP:20260330T184233Z
+DTSTAMP:20260331T010807Z
 DTSTART;TZID=America/New_York:20260403T113000
 DTEND;TZID=America/New_York:20260403T130000
 SUMMARY:'Quin Chat: A Focus on Men's Health
@@ -74,25 +75,25 @@ CATEGORIES:Health & Wellness
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-179439@thequinhouse.com
-DTSTAMP:20260330T184233Z
+DTSTAMP:20260331T010807Z
 DTSTART;TZID=America/New_York:20260413T170000
 DTEND;TZID=America/New_York:20260413T183000
 SUMMARY:Author Talk: "Our World in Ten Buildings" with Michael P. Murphy
 LOCATION:The Muse
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 4 spots left\nSt
- atus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/event
- s/179439\n\n5:00PM Reception\, 5:30PM Discussion\nDiscover the profound im
- pact of architecture on our daily lives with Our World in Ten Buildings. 
- In this illuminating work\, architectural designer and author Michael P. M
- urphy examines ten landmark projects\, from hospitals to memorials\, to re
- veal how thoughtfully designed spaces shape the way we think\, feel\, and 
- connect.\n\nBlending personal experience with deep research\, Murphy shows
-  how architecture influences our health\, behavior\, and sense of communit
- y\, challenging the notion that purposeful design is only for the privileg
- ed. Accessible yet deeply insightful\, this book offers a fresh perspectiv
- e on the built environment and its power to transform our homes\, workplac
- es\, and shared spaces.\n\n*This event is complimentary and reserved for m
- embers only. Light bites and refreshments will be served.
+DESCRIPTION:Category: The Arts\nPrice: Free\nStatus: You are Confirmed\nEve
+ nt URL: https://members.thequinhouse.com/events/179439\n\n5:00PM Reception
+ \, 5:30PM Discussion\nDiscover the profound impact of architecture on our 
+ daily lives with Our World in Ten Buildings. In this illuminating work\, 
+ architectural designer and author Michael P. Murphy examines ten landmark 
+ projects\, from hospitals to memorials\, to reveal how thoughtfully design
+ ed spaces shape the way we think\, feel\, and connect.\n\nBlending persona
+ l experience with deep research\, Murphy shows how architecture influences
+  our health\, behavior\, and sense of community\, challenging the notion t
+ hat purposeful design is only for the privileged. Accessible yet deeply in
+ sightful\, this book offers a fresh perspective on the built environment a
+ nd its power to transform our homes\, workplaces\, and shared spaces.\n\n*
+ This event is complimentary and reserved for members only. Light bites and
+  refreshments will be served.
 URL:https://members.thequinhouse.com/events/179439
 CATEGORIES:The Arts
 END:VEVENT
