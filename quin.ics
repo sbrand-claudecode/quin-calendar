@@ -7,51 +7,14 @@ X-WR-CALNAME:Quin
 X-WR-TIMEZONE:America/New_York
 X-WR-CALDESC:Upcoming programming at The 'Quin House member club
 BEGIN:VEVENT
-UID:quin-event-179241@thequinhouse.com
-DTSTAMP:20260331T184234Z
-DTSTART;TZID=America/New_York:20260331T130000
-DTEND;TZID=America/New_York:20260331T150000
-SUMMARY: 90 Minutes of Innovation: The Hypergrowth Playbook with Jon McNeil
- l 
-LOCATION:The Pub
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 1 spot left\
- nStatus: You are on Waitlist\nEvent URL: https://members.thequinhouse.com/
- events/179241\n\n1:00PM Program\, 2:30PM Networking\n\nWhat does it take t
- o scale companies that don’t just grow - but redefine industries?\n\nIn 
- this special edition of 90 Minutes of Innovation\, John Werner - venture c
- apitalist\, MIT lecturer\, and Forbes AI columnist - sits down with Jon Mc
- Neill\, former President of Tesla and former Chief Operating Officer of Ly
- ft\, for the Boston premier of his new book\, The Algorithm: The Hypergro
- wth Formula That Transformed Tesla\, Lululemon\, General Motors\, and Spac
- eX.\n\nHaving helped lead Tesla through one of the most critical scaling p
- hases in modern business\, McNeill brings a rare operator’s lens to hype
- rgrowth. In The Algorithm\, he distills the repeatable system behind compa
- nies that achieve extraordinary scale\, drawing from firsthand experience 
- and case studies across some of the most iconic organizations of our time.
- \n\nTogether\, Werner & McNeill will explore the core framework behind The
-  Algorithm\, and how hypergrowth actually works\, alongside lessons from T
- esla\, Lululemon\, General Motors\, and SpaceX. The conversation will also
-  examine what leaders must do differently at each stage of scale\, how to 
- align product\, people\, and process for exponential growth\, and why most
-  companies stall while a select few break through.\n\nExpect a fast-moving
- \, insight-dense conversation that bridges storytelling with execution\, o
- ffering a rare window into the operating system behind some of the world�
- �s most transformative companies. From the front lines of hypergrowth to t
- he blueprint behind it - one stage\, one conversation\, not to be missed.\
- n\n*This event is complimentary and reserved for members\, plus one regist
- ered guest.
-URL:https://members.thequinhouse.com/events/179241
-CATEGORIES:‘Quin Chat
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-178419@thequinhouse.com
-DTSTAMP:20260331T184234Z
+DTSTAMP:20260401T011429Z
 DTSTART;TZID=America/New_York:20260403T113000
 DTEND;TZID=America/New_York:20260403T130000
 SUMMARY:'Quin Chat: A Focus on Men's Health
 LOCATION:The Pub
 DESCRIPTION:Category: Health & Wellness\nPrice: $35.00 per person\nAvailabi
- lity: 35 spots left\nStatus: You are Confirmed\nEvent URL: https://members
+ lity: 33 spots left\nStatus: You are Confirmed\nEvent URL: https://members
  .thequinhouse.com/events/178419\n\n11:30AM Lunch\, 12:00PM Discussion\nBio
  hacking\, sleep optimization\, performance psychology—today’s approach
   to men’s health goes far beyond the annual checkup. This forward-thinki
@@ -75,7 +38,7 @@ CATEGORIES:Health & Wellness
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-179439@thequinhouse.com
-DTSTAMP:20260331T184234Z
+DTSTAMP:20260401T011429Z
 DTSTART;TZID=America/New_York:20260413T170000
 DTEND;TZID=America/New_York:20260413T183000
 SUMMARY:Author Talk: "Our World in Ten Buildings" with Michael P. Murphy
