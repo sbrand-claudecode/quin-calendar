@@ -177,6 +177,25 @@ function buildIcs(events, calendarName = "The 'Quin House Events") {
   lines.push('X-WR-TIMEZONE:America/New_York');
   lines.push('X-WR-CALDESC:Upcoming programming at The \'Quin House member club');
 
+  // VTIMEZONE required by RFC 5545 whenever TZID=America/New_York is used
+  lines.push('BEGIN:VTIMEZONE');
+  lines.push('TZID:America/New_York');
+  lines.push('BEGIN:DAYLIGHT');
+  lines.push('TZOFFSETFROM:-0500');
+  lines.push('TZOFFSETTO:-0400');
+  lines.push('TZNAME:EDT');
+  lines.push('DTSTART:19700308T020000');
+  lines.push('RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3');
+  lines.push('END:DAYLIGHT');
+  lines.push('BEGIN:STANDARD');
+  lines.push('TZOFFSETFROM:-0400');
+  lines.push('TZOFFSETTO:-0500');
+  lines.push('TZNAME:EST');
+  lines.push('DTSTART:19701101T020000');
+  lines.push('RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11');
+  lines.push('END:STANDARD');
+  lines.push('END:VTIMEZONE');
+
   for (const event of events) {
     const startLocal = event.start_date_local;
     const endLocal = event.end_date_local;
