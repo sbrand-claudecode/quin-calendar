@@ -225,7 +225,9 @@ function buildIcs(events, calendarName = "The 'Quin House Events") {
       ? `${formatTime(startTimePart)} \u2013 ${formatTime(endTimePart)}`
       : null;
 
-    const uid             = `quin-event-${event.id}@thequinhouse.com`;
+    const uid             = isTuesdaySeries
+      ? `quin-event-${event.id}-weekly@thequinhouse.com`
+      : `quin-event-${event.id}@thequinhouse.com`;
     const isTuesdaySeries = String(event.id) === '181346' && new Date() <= new Date('2026-07-14');
     const rawDescription  = buildDescription(event, timeNote);
     const description     = isTuesdaySeries
