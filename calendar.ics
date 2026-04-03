@@ -7,37 +7,8 @@ X-WR-CALNAME:The 'Quin House Events
 X-WR-TIMEZONE:America/New_York
 X-WR-CALDESC:Upcoming programming at The 'Quin House member club
 BEGIN:VEVENT
-UID:quin-event-177698@thequinhouse.com
-DTSTAMP:20260402T183843Z
-DTSTART;TZID=America/New_York:20260402T173000
-DTEND;TZID=America/New_York:20260402T190000
-SUMMARY:Meet the Maker: Derek Baljeu of Knights Bridge Winery | Session I
-LOCATION:The Muse
-DESCRIPTION:Category: Food & Beverage\nPrice: Free\nStatus: Waitlist Only\n
- Event URL: https://members.thequinhouse.com/events/177698\n\nSpend an enga
- ging evening with Derek Baljeu\, Winemaker at Knights Bridge Winery\, whos
- e thoughtful approach to winemaking blends scientific rigor with a deep re
- spect for the vineyard. A graduate of University of California\, Davis wit
- h both bachelor’s and master’s degrees in Viticulture and Enology\, De
- rek brings a dynamic perspective shaped by hands-on vineyard experience\, 
- academic research\, and a passion for exploring the evolving story each vi
- ntage tells.\n\nThis reception-style tasting offers an opportunity to min
- gle with fellow members and connect with Derek as he shares insights into 
- the philosophy and craft behind his wines—where terroir\, seasonality\, 
- and careful stewardship converge to create expressions that are both preci
- se and authentic.\n\nGuests will enjoy a curated tasting of Knights Bridge
-  Pont de Chevalier Sauvignon Blanc and Knights Bridge Haggerty Road Red Bl
- end\, marking the Boston launch of Haggerty Road. Throughout the evening\,
-  members are invited to explore the character of Knights Valley fruit and 
- the creative process that transforms grape to glass in a relaxed\, convers
- ational setting.\n\n*This event is complimentary and reserved for members 
- only. Light bites will be served.
-URL:https://members.thequinhouse.com/events/177698
-CATEGORIES:Food & Beverage
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-177700@thequinhouse.com
-DTSTAMP:20260402T183843Z
+DTSTAMP:20260403T010712Z
 DTSTART;VALUE=DATE:20260402
 DTEND;VALUE=DATE:20260405
 SUMMARY:Dessert Trolley 
@@ -59,7 +30,7 @@ CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-178419@thequinhouse.com
-DTSTAMP:20260402T183843Z
+DTSTAMP:20260403T010712Z
 DTSTART;TZID=America/New_York:20260403T113000
 DTEND;TZID=America/New_York:20260403T130000
 SUMMARY:'Quin Chat: A Focus on Men's Health
@@ -89,30 +60,31 @@ CATEGORIES:Health & Wellness
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-179244@thequinhouse.com
-DTSTAMP:20260402T183843Z
+DTSTAMP:20260403T010712Z
 DTSTART;TZID=America/New_York:20260403T140000
 DTEND;TZID=America/New_York:20260403T153000
 SUMMARY:'Quin Chat: The Works of Yinka Shonibare
 LOCATION:The Reading Room
-DESCRIPTION:Category: The Arts\nPrice: Free\nStatus: Waitlist Only\nEvent U
- RL: https://members.thequinhouse.com/events/179244\n\n2:00PM Reception\, 2
- :30PM Discussion\nJoin The ’Quin House Art Curator Kate Chertavian in co
- nversation with Trevor Smith\, Director of the Present Tense Initiative at
-  the Peabody Essex Museum\, for an engaging discussion on the work of Brit
- ish-Nigerian artist Yinka Shonibare whose works currently on view in The �
- ��Quin’s Special Exhibition\, presented in The Lobby and The Reading Roo
- m through April 6th.\n\nDrawing from a curatorial perspective\, the conver
- sation will explore Shonibare’s distinctive practice\, known for its use
-  of Dutch wax fabric and reimaginings of art-historical imagery\, and its 
- continued resonance in contemporary dialogues around cultural identity.\n\
- n*This event is complimentary and reserved for members\, plus one register
- ed guest. Light bites and refreshments will be served.
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 2 spots left\nSt
+ atus: Available\nEvent URL: https://members.thequinhouse.com/events/179244
+ \n\n2:00PM Reception\, 2:30PM Discussion\nJoin The ’Quin House Art Curat
+ or Kate Chertavian in conversation with Trevor Smith\, Director of the Pre
+ sent Tense Initiative at the Peabody Essex Museum\, for an engaging discus
+ sion on the work of British-Nigerian artist Yinka Shonibare whose works cu
+ rrently on view in The ’Quin’s Special Exhibition\, presented in The L
+ obby and The Reading Room through April 6th.\n\nDrawing from a curatorial 
+ perspective\, the conversation will explore Shonibare’s distinctive prac
+ tice\, known for its use of Dutch wax fabric and reimaginings of art-histo
+ rical imagery\, and its continued resonance in contemporary dialogues arou
+ nd cultural identity.\n\n*This event is complimentary and reserved for mem
+ bers\, plus one registered guest. Light bites and refreshments will be ser
+ ved.
 URL:https://members.thequinhouse.com/events/179244
 CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-177699@thequinhouse.com
-DTSTAMP:20260402T183843Z
+DTSTAMP:20260403T010712Z
 DTSTART;TZID=America/New_York:20260403T173000
 DTEND;TZID=America/New_York:20260403T190000
 SUMMARY:Meet the Maker: Derek Baljeu of Knights Bridge Winery | Session II
@@ -141,7 +113,7 @@ CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-177602@thequinhouse.com
-DTSTAMP:20260402T183843Z
+DTSTAMP:20260403T010712Z
 DTSTART;TZID=America/New_York:20260405T093000
 DTEND;TZID=America/New_York:20260405T100000
 SUMMARY:Easter Egg Hunt | Session I 
@@ -162,32 +134,32 @@ CATEGORIES:Holiday
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-177604@thequinhouse.com
-DTSTAMP:20260402T183843Z
+DTSTAMP:20260403T010712Z
 DTSTART;TZID=America/New_York:20260405T103000
 DTEND;TZID=America/New_York:20260405T111500
 SUMMARY:Easter Kids Crafts | Session I 
 LOCATION:Scottie's
-DESCRIPTION:Category: Holiday\nPrice: Free\nAvailability: 1 spot left\nStat
- us: Available\nEvent URL: https://members.thequinhouse.com/events/177604\n
- \nKeep little bunnies delightfully busy with a hands-on Easter crafting ad
- venture at Scottie’s! In partnership with Wendy Rouillard of Beacon Hill
- ’s Barnaby Art & Toys\, this family-friendly workshop invites children t
- o create their own soft\, colorful Easter egg squishies—perfect for spri
- ngtime fun. As a finishing touch\, kids can decorate a charming egg carton
-  to carry their squishies home\, making each creation uniquely their own. 
- A joyful\, creative way to celebrate the season and spark little imaginati
- ons!\n\n*This event is for children of members ages 6+ only\, who must be 
- accompanied by a parent. Members only need to register children\, adults d
- o not need to register. Please ensure you select the correct number of chi
- ldren’s tickets when reserving to guarantee your child’s spot. If your
-  plans change\, kindly cancel at least 24 hours in advance so that another
-  child from the waitlist may attend.
+DESCRIPTION:Category: Holiday\nPrice: Free\nStatus: Waitlist Only\nEvent UR
+ L: https://members.thequinhouse.com/events/177604\n\nKeep little bunnies d
+ elightfully busy with a hands-on Easter crafting adventure at Scottie’s!
+  In partnership with Wendy Rouillard of Beacon Hill’s Barnaby Art & Toys
+ \, this family-friendly workshop invites children to create their own soft
+ \, colorful Easter egg squishies—perfect for springtime fun. As a finish
+ ing touch\, kids can decorate a charming egg carton to carry their squishi
+ es home\, making each creation uniquely their own. A joyful\, creative way
+  to celebrate the season and spark little imaginations!\n\n*This event is 
+ for children of members ages 6+ only\, who must be accompanied by a parent
+ . Members only need to register children\, adults do not need to register.
+  Please ensure you select the correct number of children’s tickets when 
+ reserving to guarantee your child’s spot. If your plans change\, kindly 
+ cancel at least 24 hours in advance so that another child from the waitlis
+ t may attend.
 URL:https://members.thequinhouse.com/events/177604
 CATEGORIES:Holiday
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-177702@thequinhouse.com
-DTSTAMP:20260402T183843Z
+DTSTAMP:20260403T010712Z
 DTSTART;VALUE=DATE:20260405
 DTEND;VALUE=DATE:20260406
 SUMMARY:Easter Dining 
@@ -215,32 +187,32 @@ CATEGORIES:Holiday
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-177609@thequinhouse.com
-DTSTAMP:20260402T183843Z
+DTSTAMP:20260403T010712Z
 DTSTART;TZID=America/New_York:20260405T113000
 DTEND;TZID=America/New_York:20260405T121500
 SUMMARY:Easter Kids Crafts | Session II
 LOCATION:Scottie's
-DESCRIPTION:Category: Holiday\nPrice: Free\nAvailability: 1 spot left\nStat
- us: Available\nEvent URL: https://members.thequinhouse.com/events/177609\n
- \nKeep little bunnies delightfully busy with a hands-on Easter crafting ad
- venture at Scottie’s! In partnership with Wendy Rouillard of Beacon Hill
- ’s Barnaby Art & Toys\, this family-friendly workshop invites children t
- o create their own soft\, colorful Easter egg squishies—perfect for spri
- ngtime fun. As a finishing touch\, kids can decorate a charming egg carton
-  to carry their squishies home\, making each creation uniquely their own. 
- A joyful\, creative way to celebrate the season and spark little imaginati
- ons!\n\n*This event is for children of members ages 6+ only\, who must be 
- accompanied by a parent. Members only need to register children\, adults d
- o not need to register. Please ensure you select the correct number of chi
- ldren’s tickets when reserving to guarantee your child’s spot. If your
-  plans change\, kindly cancel at least 24 hours in advance so that another
-  child from the waitlist may attend.
+DESCRIPTION:Category: Holiday\nPrice: Free\nStatus: Waitlist Only\nEvent UR
+ L: https://members.thequinhouse.com/events/177609\n\nKeep little bunnies d
+ elightfully busy with a hands-on Easter crafting adventure at Scottie’s!
+  In partnership with Wendy Rouillard of Beacon Hill’s Barnaby Art & Toys
+ \, this family-friendly workshop invites children to create their own soft
+ \, colorful Easter egg squishies—perfect for springtime fun. As a finish
+ ing touch\, kids can decorate a charming egg carton to carry their squishi
+ es home\, making each creation uniquely their own. A joyful\, creative way
+  to celebrate the season and spark little imaginations!\n\n*This event is 
+ for children of members ages 6+ only\, who must be accompanied by a parent
+ . Members only need to register children\, adults do not need to register.
+  Please ensure you select the correct number of children’s tickets when 
+ reserving to guarantee your child’s spot. If your plans change\, kindly 
+ cancel at least 24 hours in advance so that another child from the waitlis
+ t may attend.
 URL:https://members.thequinhouse.com/events/177609
 CATEGORIES:Holiday
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-177607@thequinhouse.com
-DTSTAMP:20260402T183843Z
+DTSTAMP:20260403T010712Z
 DTSTART;TZID=America/New_York:20260405T123000
 DTEND;TZID=America/New_York:20260405T130000
 SUMMARY:Easter Egg Hunt | Session II
@@ -261,7 +233,7 @@ CATEGORIES:Holiday
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-177610@thequinhouse.com
-DTSTAMP:20260402T183843Z
+DTSTAMP:20260403T010712Z
 DTSTART;TZID=America/New_York:20260405T131500
 DTEND;TZID=America/New_York:20260405T140000
 SUMMARY:Easter Kids Crafts | Session III
@@ -286,7 +258,7 @@ CATEGORIES:Holiday
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-177608@thequinhouse.com
-DTSTAMP:20260402T183843Z
+DTSTAMP:20260403T010712Z
 DTSTART;TZID=America/New_York:20260405T143000
 DTEND;TZID=America/New_York:20260405T150000
 SUMMARY:Easter Egg Hunt | Session III
@@ -307,30 +279,30 @@ CATEGORIES:Holiday
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-175996@thequinhouse.com
-DTSTAMP:20260402T183843Z
+DTSTAMP:20260403T010712Z
 DTSTART;TZID=America/New_York:20260406T183000
 DTEND;TZID=America/New_York:20260406T210000
 SUMMARY:Serendipity Dinner 
 LOCATION:The Muse
 DESCRIPTION:Category: Member Mixer\nPrice: $100.00 per person\nAvailability
- : 1 spot left\nStatus: Available\nEvent URL: https://members.thequinhouse.
- com/events/175996\n\nJoin The ‘Quin House Managing Director\, Matthias K
- iehm\, for an evening of meaningful connections over a thoughtfully curate
- d three-course dinner. Enjoy expertly paired wines as you engage with fell
- ow members\, guided by conversation prompts designed to inspire deeper\, m
- ore memorable exchanges. This unique experience offers the perfect blend o
- f great company\, engaging dialogue\, and a menu crafted to delight the se
- nses.\n\n*Tickets are $100 per person\, plus tax\, and are reserved for me
- mbers only. Cancellations within 72 hours of the event\, or failure to att
- end\, will be charged in full. Please inform us of any dietary needs or re
- strictions by emailing happening@thequin.com at least 72 hours before dinn
- er service.
+ : 2 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
+ .com/events/175996\n\nJoin The ‘Quin House Managing Director\, Matthias 
+ Kiehm\, for an evening of meaningful connections over a thoughtfully curat
+ ed three-course dinner. Enjoy expertly paired wines as you engage with fel
+ low members\, guided by conversation prompts designed to inspire deeper\, 
+ more memorable exchanges. This unique experience offers the perfect blend 
+ of great company\, engaging dialogue\, and a menu crafted to delight the s
+ enses.\n\n*Tickets are $100 per person\, plus tax\, and are reserved for m
+ embers only. Cancellations within 72 hours of the event\, or failure to at
+ tend\, will be charged in full. Please inform us of any dietary needs or r
+ estrictions by emailing happening@thequin.com at least 72 hours before din
+ ner service.
 URL:https://members.thequinhouse.com/events/175996
 CATEGORIES:Member Mixer
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-181346@thequinhouse.com
-DTSTAMP:20260402T183843Z
+DTSTAMP:20260403T010712Z
 DTSTART;VALUE=DATE:20260407
 DTEND;VALUE=DATE:20260715
 SUMMARY:BBQ Specials 
@@ -349,7 +321,7 @@ CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-177703@thequinhouse.com
-DTSTAMP:20260402T183843Z
+DTSTAMP:20260403T010712Z
 DTSTART;VALUE=DATE:20260407
 DTEND;VALUE=DATE:20260410
 SUMMARY:Passover Dining in Café Q 
@@ -371,7 +343,7 @@ CATEGORIES:Holiday
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-177706@thequinhouse.com
-DTSTAMP:20260402T183843Z
+DTSTAMP:20260403T010712Z
 DTSTART;TZID=America/New_York:20260407T170000
 DTEND;TZID=America/New_York:20260407T190000
 SUMMARY:Member Mingle
@@ -391,7 +363,7 @@ CATEGORIES:Member Mixer
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-172756@thequinhouse.com
-DTSTAMP:20260402T183843Z
+DTSTAMP:20260403T010712Z
 DTSTART;TZID=America/New_York:20260407T193000
 DTEND;TZID=America/New_York:20260407T220000
 SUMMARY:'Quin Suite: Celtics vs Hornets
@@ -416,7 +388,7 @@ CATEGORIES:Sports & Games
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-177614@thequinhouse.com
-DTSTAMP:20260402T183843Z
+DTSTAMP:20260403T010712Z
 DTSTART;TZID=America/New_York:20260408T173000
 DTEND;TZID=America/New_York:20260408T190000
 SUMMARY:'Quin Chat: Collecting Luxury
@@ -445,7 +417,7 @@ CATEGORIES:‘Quin Chat
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-176378@thequinhouse.com
-DTSTAMP:20260402T183843Z
+DTSTAMP:20260403T010712Z
 DTSTART;TZID=America/New_York:20260409T110000
 DTEND;TZID=America/New_York:20260409T120000
 SUMMARY:Art Tour: Portraits of Power
@@ -466,7 +438,7 @@ CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-166077@thequinhouse.com
-DTSTAMP:20260402T183843Z
+DTSTAMP:20260403T010712Z
 DTSTART;VALUE=DATE:20260409
 DTEND;VALUE=DATE:20260417
 SUMMARY:'Venture: The Wonders of Egypt
@@ -531,7 +503,7 @@ CATEGORIES:‘Venture - Travel
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-176369@thequinhouse.com
-DTSTAMP:20260402T183843Z
+DTSTAMP:20260403T010712Z
 DTSTART;TZID=America/New_York:20260409T180000
 DTEND;TZID=America/New_York:20260409T210000
 SUMMARY:Live Music: Bob Richardson 
@@ -549,7 +521,7 @@ CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-177616@thequinhouse.com
-DTSTAMP:20260402T183843Z
+DTSTAMP:20260403T010712Z
 DTSTART;TZID=America/New_York:20260410T103000
 DTEND;TZID=America/New_York:20260410T113000
 SUMMARY:de Gournay Watercolor Class: Friday Session I
@@ -575,7 +547,7 @@ CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-178465@thequinhouse.com
-DTSTAMP:20260402T183843Z
+DTSTAMP:20260403T010712Z
 DTSTART;TZID=America/New_York:20260410T130000
 DTEND;TZID=America/New_York:20260410T140000
 SUMMARY:de Gournay Watercolor Class: Friday Session II
@@ -601,7 +573,7 @@ CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-178466@thequinhouse.com
-DTSTAMP:20260402T183843Z
+DTSTAMP:20260403T010712Z
 DTSTART;TZID=America/New_York:20260410T150000
 DTEND;TZID=America/New_York:20260410T160000
 SUMMARY:de Gournay Watercolor Class: Friday Session III
@@ -627,7 +599,7 @@ CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-178471@thequinhouse.com
-DTSTAMP:20260402T183843Z
+DTSTAMP:20260403T010712Z
 DTSTART;TZID=America/New_York:20260410T170000
 DTEND;TZID=America/New_York:20260410T183000
 SUMMARY:Author Talk: "The Best Dog in the World" with Alice Hoffman
@@ -658,7 +630,7 @@ CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-178467@thequinhouse.com
-DTSTAMP:20260402T183843Z
+DTSTAMP:20260403T010712Z
 DTSTART;TZID=America/New_York:20260410T173000
 DTEND;TZID=America/New_York:20260410T183000
 SUMMARY:de Gournay Watercolor Class: Friday Session IV
@@ -684,7 +656,7 @@ CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-172757@thequinhouse.com
-DTSTAMP:20260402T183843Z
+DTSTAMP:20260403T010712Z
 DTSTART;TZID=America/New_York:20260410T193000
 DTEND;TZID=America/New_York:20260410T220000
 SUMMARY:'Quin Suite: Celtics vs Pelicans
@@ -709,7 +681,7 @@ CATEGORIES:Sports & Games
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-178468@thequinhouse.com
-DTSTAMP:20260402T183843Z
+DTSTAMP:20260403T010712Z
 DTSTART;TZID=America/New_York:20260411T103000
 DTEND;TZID=America/New_York:20260411T113000
 SUMMARY:de Gournay Watercolor Class: Saturday Session I
@@ -735,7 +707,7 @@ CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-177709@thequinhouse.com
-DTSTAMP:20260402T183843Z
+DTSTAMP:20260403T010712Z
 DTSTART;TZID=America/New_York:20260411T110000
 DTEND;TZID=America/New_York:20260411T130000
 SUMMARY:Serendipity Brunch
@@ -759,7 +731,7 @@ CATEGORIES:Member Mixer
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-178469@thequinhouse.com
-DTSTAMP:20260402T183843Z
+DTSTAMP:20260403T010712Z
 DTSTART;TZID=America/New_York:20260411T130000
 DTEND;TZID=America/New_York:20260411T140000
 SUMMARY:de Gournay Watercolor Class: Saturday Session II
@@ -785,7 +757,7 @@ CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-177617@thequinhouse.com
-DTSTAMP:20260402T183843Z
+DTSTAMP:20260403T010712Z
 DTSTART;TZID=America/New_York:20260411T150000
 DTEND;TZID=America/New_York:20260411T160000
 SUMMARY:de Gournay Watercolor Class: Saturday Session III
@@ -811,7 +783,7 @@ CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-178470@thequinhouse.com
-DTSTAMP:20260402T183843Z
+DTSTAMP:20260403T010712Z
 DTSTART;TZID=America/New_York:20260411T173000
 DTEND;TZID=America/New_York:20260411T183000
 SUMMARY:de Gournay Watercolor Class: Saturday Session IV
@@ -837,7 +809,7 @@ CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-179437@thequinhouse.com
-DTSTAMP:20260402T183843Z
+DTSTAMP:20260403T010712Z
 DTSTART;TZID=America/New_York:20260412T164500
 DTEND;TZID=America/New_York:20260412T193000
 SUMMARY:Sunday Screening & Panel Discussion: FUEGO
@@ -876,7 +848,7 @@ CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-177695@thequinhouse.com
-DTSTAMP:20260402T183843Z
+DTSTAMP:20260403T010712Z
 DTSTART;VALUE=DATE:20260413
 DTEND;VALUE=DATE:20260501
 SUMMARY:Taste of Provence 
@@ -895,7 +867,7 @@ CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-179439@thequinhouse.com
-DTSTAMP:20260402T183843Z
+DTSTAMP:20260403T010712Z
 DTSTART;TZID=America/New_York:20260413T170000
 DTEND;TZID=America/New_York:20260413T183000
 SUMMARY:Author Talk: "Our World in Ten Buildings" with Michael P. Murphy
@@ -919,7 +891,7 @@ CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-176006@thequinhouse.com
-DTSTAMP:20260402T183843Z
+DTSTAMP:20260403T010712Z
 DTSTART;TZID=America/New_York:20260413T180000
 DTEND;TZID=America/New_York:20260413T210000
 SUMMARY:Community Dinner Table
@@ -941,12 +913,12 @@ CATEGORIES:Member Mixer
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-180903@thequinhouse.com
-DTSTAMP:20260402T183843Z
+DTSTAMP:20260403T010712Z
 DTSTART;TZID=America/New_York:20260414T170000
 DTEND;TZID=America/New_York:20260414T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 31 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 29 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  80903\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in an ambiant reserved space. This is your opportunity to connect with fe
@@ -962,12 +934,12 @@ CATEGORIES:Member Mixer
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-176362@thequinhouse.com
-DTSTAMP:20260402T183843Z
+DTSTAMP:20260403T010712Z
 DTSTART;TZID=America/New_York:20260414T180000
 DTEND;TZID=America/New_York:20260414T190000
 SUMMARY:Improv Comedy | 6:00PM Show
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 31 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 27 spots left\nS
  tatus: Available\nEvent URL: https://members.thequinhouse.com/events/17636
  2\n\nBoston’s best return to the 'House! Improv comedians are ready to k
  eep you laughing with spontaneous sketches\, quick wit\, and audience-insp
@@ -982,12 +954,12 @@ CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-176363@thequinhouse.com
-DTSTAMP:20260402T183843Z
+DTSTAMP:20260403T010712Z
 DTSTART;TZID=America/New_York:20260414T200000
 DTEND;TZID=America/New_York:20260414T210000
 SUMMARY:Improv Comedy | 8:00PM Show
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 14 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 12 spots left\nS
  tatus: Available\nEvent URL: https://members.thequinhouse.com/events/17636
  3\n\nBoston’s best return to the 'House! Improv comedians are ready to k
  eep you laughing with spontaneous sketches\, quick wit\, and audience-insp
@@ -1002,7 +974,7 @@ CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-178472@thequinhouse.com
-DTSTAMP:20260402T183843Z
+DTSTAMP:20260403T010712Z
 DTSTART;TZID=America/New_York:20260415T170000
 DTEND;TZID=America/New_York:20260415T190000
 SUMMARY:Game Night: Mahjong Instructional Play
@@ -1019,7 +991,7 @@ CATEGORIES:Sports & Games
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-179447@thequinhouse.com
-DTSTAMP:20260402T183843Z
+DTSTAMP:20260403T010712Z
 DTSTART;TZID=America/New_York:20260420T100000
 DTEND;TZID=America/New_York:20260420T130000
 SUMMARY:130th Boston Marathon Finish Line Party: Morning Session
@@ -1046,7 +1018,7 @@ CATEGORIES:Sports & Games
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-179448@thequinhouse.com
-DTSTAMP:20260402T183843Z
+DTSTAMP:20260403T010712Z
 DTSTART;TZID=America/New_York:20260420T130000
 DTEND;TZID=America/New_York:20260420T160000
 SUMMARY:130th Boston Marathon Finish Line Party: Afternoon Session 
@@ -1073,7 +1045,7 @@ CATEGORIES:Sports & Games
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-180904@thequinhouse.com
-DTSTAMP:20260402T183843Z
+DTSTAMP:20260403T010712Z
 DTSTART;TZID=America/New_York:20260421T170000
 DTEND;TZID=America/New_York:20260421T190000
 SUMMARY:Member Mingle
@@ -1094,12 +1066,12 @@ CATEGORIES:Member Mixer
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-179449@thequinhouse.com
-DTSTAMP:20260402T183843Z
+DTSTAMP:20260403T010712Z
 DTSTART;TZID=America/New_York:20260421T173000
 DTEND;TZID=America/New_York:20260421T183000
 SUMMARY:Author's Circle Book Club: "Impersonation" with Heidi Pitlor
 LOCATION:The Terrace
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 7 spots left\nSt
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 6 spots left\nSt
  atus: Available\nEvent URL: https://members.thequinhouse.com/events/179449
  \n\nBookmark the date for a compelling conversation exploring Impersonatio
  n with Heidi Pitlor - a sharp\, satirical novel about ambition\, motherhoo
@@ -1122,38 +1094,38 @@ CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-176382@thequinhouse.com
-DTSTAMP:20260402T183843Z
+DTSTAMP:20260403T010712Z
 DTSTART;TZID=America/New_York:20260422T173000
 DTEND;TZID=America/New_York:20260422T190000
 SUMMARY: Gather to Give: Arts & Culture Grant Reception 
 LOCATION:The Muse
-DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nAvailability: 7 spo
- ts left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/ev
- ents/176382\n\n5:30PM Reception\, 6:00PM Program\nCelebrate the extraordin
- ary local recipients of this year’s Arts & Culture grants\, made possibl
- e through The ‘Quin Impact Fund and member generosity. This evening hono
- rs the organizations enriching our community through creativity\, expressi
- on\, and cultural engagement - nurturing access\, inspiration\, and opport
- unity for all. Connect with these visionary leaders during the reception a
- nd learn more about the impact of their philanthropic initiatives.\n\nOur 
- esteemed recipients include: ARCK\, Boston Gay Men’s Chorus\, Boston Lyr
- ic Opera\, Calling All Crows\, Commonwealth Shakespeare Company\, Communit
- y Art Center\, Conservatory Lab Charter School\, Cultural Equity Incubator
- \, Esplanade Association\, Holocaust Legacy Foundation\, Mass Poetry\, Mas
- sachusetts College of Art and Design Foundation\, Rodman for Kids\, and Sp
- eakEasy Stage Company.\n\n*This event is complimentary and reserved for me
- mbers only. Light bites and refreshments will be served.
+DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nStatus: Waitlist On
+ ly\nEvent URL: https://members.thequinhouse.com/events/176382\n\n5:30PM Re
+ ception\, 6:00PM Program\nCelebrate the extraordinary local recipients of 
+ this year’s Arts & Culture grants\, made possible through The ‘Quin Im
+ pact Fund and member generosity. This evening honors the organizations enr
+ iching our community through creativity\, expression\, and cultural engage
+ ment - nurturing access\, inspiration\, and opportunity for all. Connect w
+ ith these visionary leaders during the reception and learn more about the 
+ impact of their philanthropic initiatives.\n\nOur esteemed recipients incl
+ ude: ARCK\, Boston Gay Men’s Chorus\, Boston Lyric Opera\, Calling All C
+ rows\, Commonwealth Shakespeare Company\, Community Art Center\, Conservat
+ ory Lab Charter School\, Cultural Equity Incubator\, Esplanade Association
+ \, Holocaust Legacy Foundation\, Mass Poetry\, Massachusetts College of Ar
+ t and Design Foundation\, Rodman for Kids\, and SpeakEasy Stage Company.\n
+ \n*This event is complimentary and reserved for members only. Light bites 
+ and refreshments will be served.
 URL:https://members.thequinhouse.com/events/176382
 CATEGORIES:‘Quin Impact Fund
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-179731@thequinhouse.com
-DTSTAMP:20260402T183843Z
+DTSTAMP:20260403T010712Z
 DTSTART;TZID=America/New_York:20260422T173000
 DTEND;TZID=America/New_York:20260422T193000
 SUMMARY:Member Mixer: Passport to Conversation
 LOCATION:Scottie's
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 22 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 20 spots lef
  t\nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/
  events/179731\n\nBoard Quintansa Flight 217 and take off for an evening of
   travel-inspired conversation and connection. This Member Mixer brings gue
@@ -1166,13 +1138,13 @@ CATEGORIES:Member Mixer
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-179738@thequinhouse.com
-DTSTAMP:20260402T183843Z
+DTSTAMP:20260403T010712Z
 DTSTART;TZID=America/New_York:20260423T173000
 DTEND;TZID=America/New_York:20260423T190000
 SUMMARY: 'Quin Impact Fund x MassChallenge: Discovery & Innovation Pitch Co
  mpetition
 LOCATION:The Living Room
-DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nAvailability: 43 sp
+DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nAvailability: 26 sp
  ots left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/e
  vents/179738\n\nJoin us for the ‘Quin Impact Fund x MassChallenge Discov
  ery & Innovation Pitch Competition\, where groundbreaking startups will pi
@@ -1188,13 +1160,13 @@ CATEGORIES:‘Quin Impact Fund
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-180906@thequinhouse.com
-DTSTAMP:20260402T183843Z
+DTSTAMP:20260403T010712Z
 DTSTART;TZID=America/New_York:20260423T183000
 DTEND;TZID=America/New_York:20260423T210000
 SUMMARY:Serendipity Dinner: An Evening for Members 50 and Up
 LOCATION:The Muse
 DESCRIPTION:Category: Member Mixer\nPrice: $100.00 per person\nAvailability
- : 17 spots left\nStatus: Available\nEvent URL: https://members.thequinhous
+ : 15 spots left\nStatus: Available\nEvent URL: https://members.thequinhous
  e.com/events/180906\n\nSavor an evening designed for meaningful connection
   at this special Serendipity Dinner\, thoughtfully curated for members age
  s 50 and above. Gather around an intimate table for a three-course dining 
@@ -1213,13 +1185,13 @@ CATEGORIES:Member Mixer
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-180907@thequinhouse.com
-DTSTAMP:20260402T183843Z
+DTSTAMP:20260403T010712Z
 DTSTART;TZID=America/New_York:20260425T110000
 DTEND;TZID=America/New_York:20260425T130000
 SUMMARY:Serendipity Brunch: A Morning for Members 40 and Under 
 LOCATION:Lunasol
 DESCRIPTION:Category: Member Mixer\nPrice: $65.00 per person\nAvailability:
-  18 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
+  17 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
  .com/events/180907\n\nStep into a lively Saturday brunch designed for memb
  ers 40 and under—where new connections come easily and conversation flow
  s as freely as the mimosas. This Serendipity Brunch invites you to gather 
@@ -1240,7 +1212,7 @@ CATEGORIES:Member Mixer
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-176384@thequinhouse.com
-DTSTAMP:20260402T183843Z
+DTSTAMP:20260403T010712Z
 DTSTART;VALUE=DATE:20260426
 DTEND;VALUE=DATE:20260429
 SUMMARY:Explorateur: Chef Arnaud Faye from Le Bristol Paris
@@ -1285,12 +1257,12 @@ CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-180905@thequinhouse.com
-DTSTAMP:20260402T183843Z
+DTSTAMP:20260403T010712Z
 DTSTART;TZID=America/New_York:20260428T170000
 DTEND;TZID=America/New_York:20260428T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 37 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 36 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  80905\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in an ambiant reserved space. This is your opportunity to connect with fe
@@ -1306,7 +1278,7 @@ CATEGORIES:Member Mixer
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-178474@thequinhouse.com
-DTSTAMP:20260402T183843Z
+DTSTAMP:20260403T010712Z
 DTSTART;TZID=America/New_York:20260429T170000
 DTEND;TZID=America/New_York:20260429T190000
 SUMMARY:Game Night: Mahjong Open Play
@@ -1323,7 +1295,7 @@ CATEGORIES:Sports & Games
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-166318@thequinhouse.com
-DTSTAMP:20260402T183843Z
+DTSTAMP:20260403T010712Z
 DTSTART;VALUE=DATE:20260623
 DTEND;VALUE=DATE:20260627
 SUMMARY:'Quin Suite: World Cup England v. Ghana 
@@ -1347,7 +1319,7 @@ CATEGORIES:Sports & Games
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-175300@thequinhouse.com
-DTSTAMP:20260402T183843Z
+DTSTAMP:20260403T010712Z
 DTSTART;TZID=America/New_York:20260626T150000
 DTEND;TZID=America/New_York:20260626T180000
 SUMMARY:'Quin Suite: World Cup France v. Norway
@@ -1371,7 +1343,7 @@ CATEGORIES:Sports & Games
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-175753@thequinhouse.com
-DTSTAMP:20260402T183843Z
+DTSTAMP:20260403T010712Z
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20260803
 SUMMARY:Ride With The 'Quin: Pan Mass Challenge Registration
