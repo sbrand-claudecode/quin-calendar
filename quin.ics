@@ -1,0 +1,51 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Quin House Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Quin
+X-WR-TIMEZONE:America/New_York
+X-WR-CALDESC:Upcoming programming at The 'Quin House member club
+BEGIN:VEVENT
+UID:quin-event-179439@thequinhouse.com
+DTSTAMP:20260403T182927Z
+DTSTART;TZID=America/New_York:20260413T170000
+DTEND;TZID=America/New_York:20260413T183000
+SUMMARY:Author Talk: "Our World in Ten Buildings" with Michael P. Murphy
+LOCATION:The Muse
+DESCRIPTION:Category: The Arts\nPrice: Free\nStatus: You are Confirmed\nEve
+ nt URL: https://members.thequinhouse.com/events/179439\n\n5:00PM Reception
+ \, 5:30PM Discussion\nDiscover the profound impact of architecture on our 
+ daily lives with Our World in Ten Buildings. In this illuminating work\, 
+ architectural designer and author Michael P. Murphy examines ten landmark 
+ projects\, from hospitals to memorials\, to reveal how thoughtfully design
+ ed spaces shape the way we think\, feel\, and connect.\n\nBlending persona
+ l experience with deep research\, Murphy shows how architecture influences
+  our health\, behavior\, and sense of community\, challenging the notion t
+ hat purposeful design is only for the privileged. Accessible yet deeply in
+ sightful\, this book offers a fresh perspective on the built environment a
+ nd its power to transform our homes\, workplaces\, and shared spaces.\n\n*
+ This event is complimentary and reserved for members only. Light bites and
+  refreshments will be served.
+URL:https://members.thequinhouse.com/events/179439
+CATEGORIES:The Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-179731@thequinhouse.com
+DTSTAMP:20260403T182927Z
+DTSTART;TZID=America/New_York:20260422T173000
+DTEND;TZID=America/New_York:20260422T193000
+SUMMARY:Member Mixer: Passport to Conversation
+LOCATION:Scottie's
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 16 spots lef
+ t\nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/
+ events/179731\n\nBoard Quintansa Flight 217 and take off for an evening of
+  travel-inspired conversation and connection. This Member Mixer brings gue
+ sts together through curated one-on-one exchanges\, inviting you to share 
+ favorite destinations\, unforgettable journeys\, and dream adventures with
+  fellow members.\n\n*Please note that this event is complimentary and rese
+ rved for members only.
+URL:https://members.thequinhouse.com/events/179731
+CATEGORIES:Member Mixer
+END:VEVENT
+END:VCALENDAR
