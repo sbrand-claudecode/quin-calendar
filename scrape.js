@@ -206,14 +206,25 @@ function buildIcs(events, calendarName = "The 'Quin House Events") {
       ? `${formatTime(startTimePart)} \u2013 ${formatTime(endTimePart)}`
       : null;
 
-    const uid         = `quin-event-${event.id}@thequinhouse.com`;
-    const description = buildDescription(event, timeNote);
+    const uid             = `quin-event-${event.id}@thequinhouse.com`;
+    const isTuesdaySeries = String(event.id) === '181346' && new Date() <= new Date('2026-07-14');
+    const rawDescription  = buildDescription(event, timeNote);
+    const description     = isTuesdaySeries
+      ? rawDescription.replace(/(\nEvent URL:)/, '\nLocation: Pub$1')
+      : rawDescription;
 
     lines.push('BEGIN:VEVENT');
     lines.push(`UID:${uid}`);
     lines.push(`DTSTAMP:${now}`);
 
-    if (isAllDay) {
+    if (isTuesdaySeries) {
+      // BBQ Specials (181346): recurring weekly Tuesdays, 4–9 PM ET, Apr 7 – Jul 14 2026
+      const startIcs = toIcsDate(`${startDatePart}T${startTimePart}`);
+      const endIcs   = toIcsDate(`${startDatePart}T${endTimePart}`);
+      lines.push(`DTSTART;TZID=America/New_York:${startIcs}`);
+      lines.push(`DTEND;TZID=America/New_York:${endIcs}`);
+      lines.push('RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20260714T235959Z');
+    } else if (isAllDay) {
       // All-day / multi-day: VALUE=DATE, no time component, no TZID.
       // For multi-day events DTEND is the day after the last day (ICS exclusive-end convention).
       lines.push(`DTSTART;VALUE=DATE:${toIcsDateOnly(startDatePart)}`);
