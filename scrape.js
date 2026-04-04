@@ -201,6 +201,7 @@ function buildIcs(events, calendarName = "The 'Quin House Events") {
     const endLocal = event.end_date_local;
 
     if (!startLocal || !startLocal.date) continue;
+    if (['180900'].includes(String(event.id))) continue; // excluded events
 
     const now = new Date().toISOString().replace(/[-:.]/g, '').slice(0, 15) + 'Z';
     const title = event.title || 'Quin House Event';
