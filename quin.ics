@@ -25,7 +25,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:quin-event-179439@thequinhouse.com
-DTSTAMP:20260405T065127Z
+DTSTAMP:20260405T122747Z
 DTSTART;TZID=America/New_York:20260413T170000
 DTEND;TZID=America/New_York:20260413T183000
 SUMMARY:Author Talk: "Our World in Ten Buildings" with Michael P. Murphy
@@ -49,12 +49,12 @@ CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-179731@thequinhouse.com
-DTSTAMP:20260405T065127Z
+DTSTAMP:20260405T122747Z
 DTSTART;TZID=America/New_York:20260422T173000
 DTEND;TZID=America/New_York:20260422T193000
 SUMMARY:Member Mixer: Passport to Conversation
 LOCATION:Scottie's
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 12 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 11 spots lef
  t\nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/
  events/179731\n\nBoard Quintansa Flight 217 and take off for an evening of
   travel-inspired conversation and connection. This Member Mixer brings gue
