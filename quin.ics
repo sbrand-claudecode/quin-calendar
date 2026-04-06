@@ -25,7 +25,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:quin-event-179439@thequinhouse.com
-DTSTAMP:20260406T124041Z
+DTSTAMP:20260406T183853Z
 DTSTART;TZID=America/New_York:20260413T170000
 DTEND;TZID=America/New_York:20260413T183000
 SUMMARY:Author Talk: "Our World in Ten Buildings" with Michael P. Murphy
@@ -49,20 +49,45 @@ CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-179731@thequinhouse.com
-DTSTAMP:20260406T124041Z
+DTSTAMP:20260406T183853Z
 DTSTART;TZID=America/New_York:20260422T173000
 DTEND;TZID=America/New_York:20260422T193000
 SUMMARY:Member Mixer: Passport to Conversation
 LOCATION:Scottie's
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 6 spots left
- \nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/e
- vents/179731\n\nBoard Quintansa Flight 217 and take off for an evening of 
- travel-inspired conversation and connection. This Member Mixer brings gues
- ts together through curated one-on-one exchanges\, inviting you to share f
- avorite destinations\, unforgettable journeys\, and dream adventures with 
- fellow members.\n\n*Please note that this event is complimentary and reser
- ved for members only.
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nStatus: You are Confirmed\
+ nEvent URL: https://members.thequinhouse.com/events/179731\n\nBoard Quinta
+ nsa Flight 217 and take off for an evening of travel-inspired conversation
+  and connection. This Member Mixer brings guests together through curated 
+ one-on-one exchanges\, inviting you to share favorite destinations\, unfor
+ gettable journeys\, and dream adventures with fellow members.\n\n*Please n
+ ote that this event is complimentary and reserved for members only.
 URL:https://members.thequinhouse.com/events/179731
 CATEGORIES:Member Mixer
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-180909@thequinhouse.com
+DTSTAMP:20260406T183853Z
+DTSTART;TZID=America/New_York:20260428T170000
+DTEND;TZID=America/New_York:20260428T183000
+SUMMARY:'Quin Chat: The Atlantic's Nick Thompson 
+LOCATION:Scottie's
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nStatus: You are Confirmed\
+ nEvent URL: https://members.thequinhouse.com/events/180909\n\n5:00PM Recep
+ tion\, 5:30PM Discussion \nStep into a wide-ranging conversation with Nic
+ holas Thompson\, CEO of The Atlantic. During his tenure\, the publication
+  has won the National Magazine Award for General Excellence three times\, 
+ become one of the fastest-growing news organizations in the country\, and 
+ reached record profitability and subscriber growth in its 157-year history
+ . He is also the author of the national bestseller The Running Ground an
+ d host of the podcast The Most Interesting Thing in AI\, where he explore
+ s the rapidly evolving world of artificial intelligence.\n\nThompson will 
+ be joined in conversation by Claire Hughes Johnson\, a technology leader a
+ nd former Chief Operating Officer of Stripe. Together\, they will explore
+  the forces shaping today’s media and technology landscapes - from the f
+ uture of AI and innovation to the evolving role of storytelling and leader
+ ship in a rapidly changing world.\n\n*This event is complimentary and rese
+ rved for members only. Light bites and refreshments will be served.
+URL:https://members.thequinhouse.com/events/180909
+CATEGORIES:‘Quin Chat
 END:VEVENT
 END:VCALENDAR
