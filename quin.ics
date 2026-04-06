@@ -25,7 +25,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:quin-event-179439@thequinhouse.com
-DTSTAMP:20260405T182506Z
+DTSTAMP:20260406T011023Z
 DTSTART;TZID=America/New_York:20260413T170000
 DTEND;TZID=America/New_York:20260413T183000
 SUMMARY:Author Talk: "Our World in Ten Buildings" with Michael P. Murphy
@@ -49,19 +49,19 @@ CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-179731@thequinhouse.com
-DTSTAMP:20260405T182506Z
+DTSTAMP:20260406T011023Z
 DTSTART;TZID=America/New_York:20260422T173000
 DTEND;TZID=America/New_York:20260422T193000
 SUMMARY:Member Mixer: Passport to Conversation
 LOCATION:Scottie's
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 10 spots lef
- t\nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/
- events/179731\n\nBoard Quintansa Flight 217 and take off for an evening of
-  travel-inspired conversation and connection. This Member Mixer brings gue
- sts together through curated one-on-one exchanges\, inviting you to share 
- favorite destinations\, unforgettable journeys\, and dream adventures with
-  fellow members.\n\n*Please note that this event is complimentary and rese
- rved for members only.
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 8 spots left
+ \nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/e
+ vents/179731\n\nBoard Quintansa Flight 217 and take off for an evening of 
+ travel-inspired conversation and connection. This Member Mixer brings gues
+ ts together through curated one-on-one exchanges\, inviting you to share f
+ avorite destinations\, unforgettable journeys\, and dream adventures with 
+ fellow members.\n\n*Please note that this event is complimentary and reser
+ ved for members only.
 URL:https://members.thequinhouse.com/events/179731
 CATEGORIES:Member Mixer
 END:VEVENT
