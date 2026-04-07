@@ -25,7 +25,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:quin-event-179439@thequinhouse.com
-DTSTAMP:20260407T070119Z
+DTSTAMP:20260407T125911Z
 DTSTART;TZID=America/New_York:20260413T170000
 DTEND;TZID=America/New_York:20260413T183000
 SUMMARY:Author Talk: "Our World in Ten Buildings" with Michael P. Murphy
@@ -49,25 +49,24 @@ CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-179731@thequinhouse.com
-DTSTAMP:20260407T070119Z
+DTSTAMP:20260407T125911Z
 DTSTART;TZID=America/New_York:20260422T173000
 DTEND;TZID=America/New_York:20260422T193000
 SUMMARY:Member Mixer: Passport to Conversation
 LOCATION:Scottie's
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 1 spot left\
- nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/ev
- ents/179731\n\nBoard Quintansa Flight 217 and take off for an evening of t
- ravel-inspired conversation and connection. This Member Mixer brings guest
- s together through curated one-on-one exchanges\, inviting you to share fa
- vorite destinations\, unforgettable journeys\, and dream adventures with f
- ellow members.\n\n*Please note that this event is complimentary and reserv
- ed for members only.
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nStatus: You are Confirmed\
+ nEvent URL: https://members.thequinhouse.com/events/179731\n\nBoard Quinta
+ nsa Flight 217 and take off for an evening of travel-inspired conversation
+  and connection. This Member Mixer brings guests together through curated 
+ one-on-one exchanges\, inviting you to share favorite destinations\, unfor
+ gettable journeys\, and dream adventures with fellow members.\n\n*Please n
+ ote that this event is complimentary and reserved for members only.
 URL:https://members.thequinhouse.com/events/179731
 CATEGORIES:Member Mixer
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-180909@thequinhouse.com
-DTSTAMP:20260407T070119Z
+DTSTAMP:20260407T125911Z
 DTSTART;TZID=America/New_York:20260428T170000
 DTEND;TZID=America/New_York:20260428T183000
 SUMMARY:'Quin Chat: The Atlantic's Nick Thompson 
