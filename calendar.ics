@@ -25,7 +25,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:quin-event-181346-weekly@thequinhouse.com
-DTSTAMP:20260414T125402Z
+DTSTAMP:20260414T185437Z
 DTSTART;TZID=America/New_York:20260414T160000
 DTEND;TZID=America/New_York:20260414T210000
 RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20260714T235959Z
@@ -46,7 +46,7 @@ CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-177695@thequinhouse.com
-DTSTAMP:20260414T125402Z
+DTSTAMP:20260414T185437Z
 DTSTART;VALUE=DATE:20260414
 DTEND;VALUE=DATE:20260501
 SUMMARY:Taste of Provence 
@@ -65,12 +65,12 @@ CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-180903@thequinhouse.com
-DTSTAMP:20260414T125402Z
+DTSTAMP:20260414T185437Z
 DTSTART;TZID=America/New_York:20260414T170000
 DTEND;TZID=America/New_York:20260414T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 6 spots left
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 8 spots left
  \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/18
  0903\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set 
  in an ambiant reserved space. This is your opportunity to connect with fel
@@ -86,12 +86,12 @@ CATEGORIES:Member Mixer
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-176362@thequinhouse.com
-DTSTAMP:20260414T125402Z
+DTSTAMP:20260414T185437Z
 DTSTART;TZID=America/New_York:20260414T180000
 DTEND;TZID=America/New_York:20260414T190000
 SUMMARY:Improv Comedy | 6:00PM Show
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 29 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 33 spots left\nS
  tatus: Available\nEvent URL: https://members.thequinhouse.com/events/17636
  2\n\nBoston’s best return to the 'House! Improv comedians are ready to k
  eep you laughing with spontaneous sketches\, quick wit\, and audience-insp
@@ -106,12 +106,12 @@ CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-176363@thequinhouse.com
-DTSTAMP:20260414T125402Z
+DTSTAMP:20260414T185437Z
 DTSTART;TZID=America/New_York:20260414T200000
 DTEND;TZID=America/New_York:20260414T210000
 SUMMARY:Improv Comedy | 8:00PM Show
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 13 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 17 spots left\nS
  tatus: Available\nEvent URL: https://members.thequinhouse.com/events/17636
  3\n\nBoston’s best return to the 'House! Improv comedians are ready to k
  eep you laughing with spontaneous sketches\, quick wit\, and audience-insp
@@ -126,7 +126,7 @@ CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-178472@thequinhouse.com
-DTSTAMP:20260414T125402Z
+DTSTAMP:20260414T185437Z
 DTSTART;TZID=America/New_York:20260415T170000
 DTEND;TZID=America/New_York:20260415T190000
 SUMMARY:Game Night: Mahjong Instructional Play
@@ -143,7 +143,7 @@ CATEGORIES:Sports & Games
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-176370@thequinhouse.com
-DTSTAMP:20260414T125402Z
+DTSTAMP:20260414T185437Z
 DTSTART;TZID=America/New_York:20260415T180000
 DTEND;TZID=America/New_York:20260415T210000
 SUMMARY:Live Music: Bob Richardson 
@@ -161,7 +161,7 @@ CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-180901@thequinhouse.com
-DTSTAMP:20260414T125402Z
+DTSTAMP:20260414T185437Z
 DTSTART;TZID=America/New_York:20260416T170000
 DTEND;TZID=America/New_York:20260416T183000
 SUMMARY:'Quin Chat: Rethinking Women's Health - Look Good\, Feel Good
@@ -193,13 +193,13 @@ CATEGORIES:Health & Wellness
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-179447@thequinhouse.com
-DTSTAMP:20260414T125402Z
+DTSTAMP:20260414T185437Z
 DTSTART;TZID=America/New_York:20260420T100000
 DTEND;TZID=America/New_York:20260420T130000
 SUMMARY:130th Boston Marathon Finish Line Party: Morning Session
 LOCATION:Offsite: Rochambeau
 DESCRIPTION:Category: Sports & Games\nPrice: $46.73 per person\nAvailabilit
- y: 75 spots left\nStatus: Available\nEvent URL: https://members.thequinhou
+ y: 73 spots left\nStatus: Available\nEvent URL: https://members.thequinhou
  se.com/events/179447\n\nReserve a seat on the home stretch to cheer on the
   runners at The 'Quin's Annual Boston Marathon Finish Line Party. This yea
  r The 'Quin will host members at the Rochambeau Café with views of Boylst
@@ -221,40 +221,39 @@ CATEGORIES:Sports & Games
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-179448@thequinhouse.com
-DTSTAMP:20260414T125402Z
+DTSTAMP:20260414T185437Z
 DTSTART;TZID=America/New_York:20260420T130000
 DTEND;TZID=America/New_York:20260420T160000
 SUMMARY:130th Boston Marathon Finish Line Party: Afternoon Session 
 LOCATION:Offsite: Rochambeau
-DESCRIPTION:Category: Sports & Games\nPrice: $46.73 per person\nAvailabilit
- y: 1 spot left\nStatus: Available\nEvent URL: https://members.thequinhouse
- .com/events/179448\n\nReserve a seat on the home stretch to cheer on the r
- unners at The 'Quin's Annual Boston Marathon Finish Line Party. This year 
- The 'Quin will host members at the Rochambeau Café with views of Boylston
- \, light bites and a cash bar. The indoor space is reserved for members an
- d their registered guests. Members are also welcome to enjoy the outdoor p
- atio to cheer on the 30\,000+ athletes in Boston's iconic race.\n\nAre you
-  running this year? On behalf of The 'Quin House and together with the mem
- ber community we wish to cheer you on throughout the race. We invite you t
- o add your name to The Registry of Runners so we may celebrate your incr
- edible achievement.\n\n*This ticketed event is reserved for members ($50/e
- ach) and up to three registered guests age 16+ ($75/guest). Due to capacit
- y measures in place for safety\, we are not able to accept additional memb
- er/guests at the door on Marathon Monday. Please be considerate of fellow 
- members and do not make a reservation that you intend to cancel. Cancellat
- ions after Thursday\, April 16 at noon will be charged in full. Thank you 
- for understanding.
+DESCRIPTION:Category: Sports & Games\nPrice: $46.73 per person\nStatus: Wai
+ tlist Only\nEvent URL: https://members.thequinhouse.com/events/179448\n\nR
+ eserve a seat on the home stretch to cheer on the runners at The 'Quin's A
+ nnual Boston Marathon Finish Line Party. This year The 'Quin will host mem
+ bers at the Rochambeau Café with views of Boylston\, light bites and a ca
+ sh bar. The indoor space is reserved for members and their registered gues
+ ts. Members are also welcome to enjoy the outdoor patio to cheer on the 30
+ \,000+ athletes in Boston's iconic race.\n\nAre you running this year? On 
+ behalf of The 'Quin House and together with the member community we wish t
+ o cheer you on throughout the race. We invite you to add your name to The
+  Registry of Runners so we may celebrate your incredible achievement.\n\n
+ *This ticketed event is reserved for members ($50/each) and up to three re
+ gistered guests age 16+ ($75/guest). Due to capacity measures in place for
+  safety\, we are not able to accept additional member/guests at the door o
+ n Marathon Monday. Please be considerate of fellow members and do not make
+  a reservation that you intend to cancel. Cancellations after Thursday\, A
+ pril 16 at noon will be charged in full. Thank you for understanding.
 URL:https://members.thequinhouse.com/events/179448
 CATEGORIES:Sports & Games
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-180904@thequinhouse.com
-DTSTAMP:20260414T125402Z
+DTSTAMP:20260414T185437Z
 DTSTART;TZID=America/New_York:20260421T170000
 DTEND;TZID=America/New_York:20260421T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 14 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 13 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  80904\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in an ambiant reserved space. This is your opportunity to connect with fe
@@ -270,7 +269,7 @@ CATEGORIES:Member Mixer
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-179449@thequinhouse.com
-DTSTAMP:20260414T125402Z
+DTSTAMP:20260414T185437Z
 DTSTART;TZID=America/New_York:20260421T173000
 DTEND;TZID=America/New_York:20260421T183000
 SUMMARY:Author's Circle Book Club: "Impersonation" with Heidi Pitlor
@@ -298,7 +297,7 @@ CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-176382@thequinhouse.com
-DTSTAMP:20260414T125402Z
+DTSTAMP:20260414T185437Z
 DTSTART;TZID=America/New_York:20260422T173000
 DTEND;TZID=America/New_York:20260422T190000
 SUMMARY: Gather to Give: Arts & Culture Grant Reception 
@@ -324,7 +323,7 @@ CATEGORIES:‘Quin Impact Fund
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-179731@thequinhouse.com
-DTSTAMP:20260414T125402Z
+DTSTAMP:20260414T185437Z
 DTSTART;TZID=America/New_York:20260422T173000
 DTEND;TZID=America/New_York:20260422T193000
 SUMMARY:Member Mixer: Passport to Conversation
@@ -341,7 +340,7 @@ CATEGORIES:Member Mixer
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-179738@thequinhouse.com
-DTSTAMP:20260414T125402Z
+DTSTAMP:20260414T185437Z
 DTSTART;TZID=America/New_York:20260423T173000
 DTEND;TZID=America/New_York:20260423T190000
 SUMMARY: 'Quin Impact Fund x MassChallenge: Discovery & Innovation Pitch Co
@@ -364,7 +363,7 @@ CATEGORIES:‘Quin Impact Fund
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-180906@thequinhouse.com
-DTSTAMP:20260414T125402Z
+DTSTAMP:20260414T185437Z
 DTSTART;TZID=America/New_York:20260423T183000
 DTEND;TZID=America/New_York:20260423T210000
 SUMMARY:Serendipity Dinner: An Evening for Members 50 and Up
@@ -388,7 +387,7 @@ CATEGORIES:Member Mixer
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-180907@thequinhouse.com
-DTSTAMP:20260414T125402Z
+DTSTAMP:20260414T185437Z
 DTSTART;TZID=America/New_York:20260425T110000
 DTEND;TZID=America/New_York:20260425T130000
 SUMMARY:Serendipity Brunch: A Morning for Members 40 and Under 
@@ -415,7 +414,7 @@ CATEGORIES:Member Mixer
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-181401@thequinhouse.com
-DTSTAMP:20260414T125402Z
+DTSTAMP:20260414T185437Z
 DTSTART;TZID=America/New_York:20260425T113000
 DTEND;TZID=America/New_York:20260425T143000
 SUMMARY:Jazz Brunch
@@ -432,7 +431,7 @@ CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-180908@thequinhouse.com
-DTSTAMP:20260414T125402Z
+DTSTAMP:20260414T185437Z
 DTSTART;TZID=America/New_York:20260425T130000
 DTEND;TZID=America/New_York:20260425T150000
 SUMMARY:Hands-On Impact: Cradles to Crayons 
@@ -459,7 +458,7 @@ CATEGORIES:‘Quin Impact Fund
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-176384@thequinhouse.com
-DTSTAMP:20260414T125402Z
+DTSTAMP:20260414T185437Z
 DTSTART;VALUE=DATE:20260426
 DTEND;VALUE=DATE:20260429
 SUMMARY:Explorateur: Chef Arnaud Faye from Le Bristol Paris
@@ -504,7 +503,7 @@ CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-180905@thequinhouse.com
-DTSTAMP:20260414T125402Z
+DTSTAMP:20260414T185437Z
 DTSTART;TZID=America/New_York:20260428T170000
 DTEND;TZID=America/New_York:20260428T190000
 SUMMARY:Member Mingle
@@ -525,7 +524,7 @@ CATEGORIES:Member Mixer
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-180909@thequinhouse.com
-DTSTAMP:20260414T125402Z
+DTSTAMP:20260414T185437Z
 DTSTART;TZID=America/New_York:20260428T170000
 DTEND;TZID=America/New_York:20260428T183000
 SUMMARY:'Quin Chat: The Atlantic's Nick Thompson 
@@ -551,13 +550,13 @@ CATEGORIES:‘Quin Chat
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-180910@thequinhouse.com
-DTSTAMP:20260414T125402Z
+DTSTAMP:20260414T185437Z
 DTSTART;TZID=America/New_York:20260429T130000
 DTEND;TZID=America/New_York:20260429T150000
 SUMMARY:90 Minutes of Innovation: Networks\, Intelligence & the Future of D
  ecision-Making 
 LOCATION:The Pub
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 6 spots left
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 5 spots left
  \nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/e
  vents/180910\n\n1:00PM Program\, 2:30PM Networking\nWhat can we learn from
   the individuals shaping AI\, enterprise transformation\, and modern engin
@@ -590,7 +589,7 @@ CATEGORIES:‘Quin Chat
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-178474@thequinhouse.com
-DTSTAMP:20260414T125402Z
+DTSTAMP:20260414T185437Z
 DTSTART;TZID=America/New_York:20260429T170000
 DTEND;TZID=America/New_York:20260429T190000
 SUMMARY:Game Night: Mahjong Open Play
@@ -607,7 +606,7 @@ CATEGORIES:Sports & Games
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-180914@thequinhouse.com
-DTSTAMP:20260414T125402Z
+DTSTAMP:20260414T185437Z
 DTSTART;TZID=America/New_York:20260502T160000
 DTEND;TZID=America/New_York:20260502T190000
 SUMMARY:Watch Party: Kentucky Derby
@@ -630,7 +629,7 @@ CATEGORIES:Sports & Games
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-175997@thequinhouse.com
-DTSTAMP:20260414T125402Z
+DTSTAMP:20260414T185437Z
 DTSTART;TZID=America/New_York:20260504T183000
 DTEND;TZID=America/New_York:20260504T210000
 SUMMARY:Serendipity Dinner 
@@ -652,7 +651,7 @@ CATEGORIES:Member Mixer
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-182097@thequinhouse.com
-DTSTAMP:20260414T125402Z
+DTSTAMP:20260414T185437Z
 DTSTART;TZID=America/New_York:20260505T170000
 DTEND;TZID=America/New_York:20260505T190000
 SUMMARY:Member Mingle
@@ -673,7 +672,7 @@ CATEGORIES:Member Mixer
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-181396@thequinhouse.com
-DTSTAMP:20260414T125402Z
+DTSTAMP:20260414T185437Z
 DTSTART;TZID=America/New_York:20260506T180000
 DTEND;TZID=America/New_York:20260506T210000
 SUMMARY:Live Music: Samuel Batista Trio
@@ -692,7 +691,7 @@ CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-182285@thequinhouse.com
-DTSTAMP:20260414T125402Z
+DTSTAMP:20260414T185437Z
 DTSTART;VALUE=DATE:20260507
 DTEND;VALUE=DATE:20260510
 SUMMARY:Dessert Trolley 
@@ -711,12 +710,12 @@ CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-182100@thequinhouse.com
-DTSTAMP:20260414T125402Z
+DTSTAMP:20260414T185437Z
 DTSTART;TZID=America/New_York:20260508T170000
 DTEND;TZID=America/New_York:20260508T183000
 SUMMARY:'Quin Chat: Finding Justice with New England Innocence Project
 LOCATION:Scottie's
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 6 spots left
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 2 spots left
  \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/18
  2100\n\n5:00PM Reception\, 5:30PM Discussion\nAn evening that will challen
  ge what you think you know about justice - and redefine what it means to r
@@ -741,12 +740,12 @@ CATEGORIES:‘Quin Chat
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-176007@thequinhouse.com
-DTSTAMP:20260414T125402Z
+DTSTAMP:20260414T185437Z
 DTSTART;TZID=America/New_York:20260511T180000
 DTEND;TZID=America/New_York:20260511T210000
 SUMMARY:Community Dinner Table
 LOCATION:Café Q
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 6 spots left
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 4 spots left
  \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/17
  6007\n\nStart your week in good company with the Café Q Community dinner 
  table for members-only. Set aside for those looking to expand their social
@@ -763,12 +762,12 @@ CATEGORIES:Member Mixer
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-182103@thequinhouse.com
-DTSTAMP:20260414T125402Z
+DTSTAMP:20260414T185437Z
 DTSTART;TZID=America/New_York:20260512T130000
 DTEND;TZID=America/New_York:20260512T150000
 SUMMARY:Hands-On Impact: Household Goods
 LOCATION:The Muse
-DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nAvailability: 8 spo
+DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nAvailability: 7 spo
  ts left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/ev
  ents/182103\n\nA simple set of kitchen tools can be the difference between
   a space and a home.\n\nJoin The ‘Quin Impact Fund for a hands-on volunt
@@ -792,7 +791,7 @@ CATEGORIES:‘Quin Impact Fund
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-182248@thequinhouse.com
-DTSTAMP:20260414T125402Z
+DTSTAMP:20260414T185437Z
 DTSTART;TZID=America/New_York:20260512T170000
 DTEND;TZID=America/New_York:20260512T190000
 SUMMARY:Member Mingle
@@ -813,7 +812,7 @@ CATEGORIES:Member Mixer
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-180148@thequinhouse.com
-DTSTAMP:20260414T125402Z
+DTSTAMP:20260414T185437Z
 DTSTART;TZID=America/New_York:20260622T180000
 DTEND;TZID=America/New_York:20260622T210000
 SUMMARY:Summer Concert Series: Mumford & Sons 
@@ -836,7 +835,7 @@ CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-166318@thequinhouse.com
-DTSTAMP:20260414T125402Z
+DTSTAMP:20260414T185437Z
 DTSTART;VALUE=DATE:20260623
 DTEND;VALUE=DATE:20260627
 SUMMARY:'Quin Suite: World Cup England v. Ghana 
@@ -860,7 +859,7 @@ CATEGORIES:Sports & Games
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-175300@thequinhouse.com
-DTSTAMP:20260414T125402Z
+DTSTAMP:20260414T185437Z
 DTSTART;TZID=America/New_York:20260626T150000
 DTEND;TZID=America/New_York:20260626T180000
 SUMMARY:'Quin Suite: World Cup France v. Norway
@@ -884,7 +883,7 @@ CATEGORIES:Sports & Games
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-180149@thequinhouse.com
-DTSTAMP:20260414T125402Z
+DTSTAMP:20260414T185437Z
 DTSTART;TZID=America/New_York:20260710T183000
 DTEND;TZID=America/New_York:20260710T210000
 SUMMARY:Summer Concert Series: Noah Kahan 
@@ -906,7 +905,7 @@ CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-180151@thequinhouse.com
-DTSTAMP:20260414T125402Z
+DTSTAMP:20260414T185437Z
 DTSTART;TZID=America/New_York:20260711T183000
 DTEND;TZID=America/New_York:20260711T210000
 SUMMARY:Summer Concert Series: Noah Kahan 
@@ -928,7 +927,7 @@ CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-175753@thequinhouse.com
-DTSTAMP:20260414T125402Z
+DTSTAMP:20260414T185437Z
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20260803
 SUMMARY:Ride With The 'Quin: Pan Mass Challenge Registration
@@ -952,7 +951,7 @@ CATEGORIES:‘Quin Impact Fund
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-180152@thequinhouse.com
-DTSTAMP:20260414T125402Z
+DTSTAMP:20260414T185437Z
 DTSTART;TZID=America/New_York:20260802T190000
 DTEND;TZID=America/New_York:20260802T213000
 SUMMARY:Summer Concert Series: Zac Brown Band 
@@ -974,7 +973,7 @@ CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-180153@thequinhouse.com
-DTSTAMP:20260414T125402Z
+DTSTAMP:20260414T185437Z
 DTSTART;TZID=America/New_York:20260814T173000
 DTEND;TZID=America/New_York:20260814T200000
 SUMMARY:Summer Concert Series: Chris Stapleton 
