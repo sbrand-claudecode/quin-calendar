@@ -25,7 +25,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:quin-event-179731@thequinhouse.com
-DTSTAMP:20260414T071629Z
+DTSTAMP:20260414T125402Z
 DTSTART;TZID=America/New_York:20260422T173000
 DTEND;TZID=America/New_York:20260422T193000
 SUMMARY:Member Mixer: Passport to Conversation
@@ -42,7 +42,7 @@ CATEGORIES:Member Mixer
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-180909@thequinhouse.com
-DTSTAMP:20260414T071629Z
+DTSTAMP:20260414T125402Z
 DTSTART;TZID=America/New_York:20260428T170000
 DTEND;TZID=America/New_York:20260428T183000
 SUMMARY:'Quin Chat: The Atlantic's Nick Thompson 
@@ -68,13 +68,13 @@ CATEGORIES:‘Quin Chat
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-180910@thequinhouse.com
-DTSTAMP:20260414T071629Z
+DTSTAMP:20260414T125402Z
 DTSTART;TZID=America/New_York:20260429T130000
 DTEND;TZID=America/New_York:20260429T150000
 SUMMARY:90 Minutes of Innovation: Networks\, Intelligence & the Future of D
  ecision-Making 
 LOCATION:The Pub
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 8 spots left
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 6 spots left
  \nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/e
  vents/180910\n\n1:00PM Program\, 2:30PM Networking\nWhat can we learn from
   the individuals shaping AI\, enterprise transformation\, and modern engin
