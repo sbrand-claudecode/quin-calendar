@@ -24,32 +24,8 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:quin-event-179439@thequinhouse.com
-DTSTAMP:20260413T185627Z
-DTSTART;TZID=America/New_York:20260413T170000
-DTEND;TZID=America/New_York:20260413T183000
-SUMMARY:Author Talk: "Our World in Ten Buildings" with Michael P. Murphy
-LOCATION:The Muse
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 3 spots left\nSt
- atus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/event
- s/179439\n\n5:00PM Reception\, 5:30PM Discussion\nDiscover the profound im
- pact of architecture on our daily lives with Our World in Ten Buildings. 
- In this illuminating work\, architectural designer and author Michael P. M
- urphy examines ten landmark projects\, from hospitals to memorials\, to re
- veal how thoughtfully designed spaces shape the way we think\, feel\, and 
- connect.\n\nBlending personal experience with deep research\, Murphy shows
-  how architecture influences our health\, behavior\, and sense of communit
- y\, challenging the notion that purposeful design is only for the privileg
- ed. Accessible yet deeply insightful\, this book offers a fresh perspectiv
- e on the built environment and its power to transform our homes\, workplac
- es\, and shared spaces.\n\n*This event is complimentary and reserved for m
- embers only. Light bites and refreshments will be served.
-URL:https://members.thequinhouse.com/events/179439
-CATEGORIES:The Arts
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-179731@thequinhouse.com
-DTSTAMP:20260413T185627Z
+DTSTAMP:20260414T011400Z
 DTSTART;TZID=America/New_York:20260422T173000
 DTEND;TZID=America/New_York:20260422T193000
 SUMMARY:Member Mixer: Passport to Conversation
@@ -66,7 +42,7 @@ CATEGORIES:Member Mixer
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-180909@thequinhouse.com
-DTSTAMP:20260413T185627Z
+DTSTAMP:20260414T011400Z
 DTSTART;TZID=America/New_York:20260428T170000
 DTEND;TZID=America/New_York:20260428T183000
 SUMMARY:'Quin Chat: The Atlantic's Nick Thompson 
@@ -92,13 +68,13 @@ CATEGORIES:‘Quin Chat
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-180910@thequinhouse.com
-DTSTAMP:20260413T185627Z
+DTSTAMP:20260414T011400Z
 DTSTART;TZID=America/New_York:20260429T130000
 DTEND;TZID=America/New_York:20260429T150000
 SUMMARY:90 Minutes of Innovation: Networks\, Intelligence & the Future of D
  ecision-Making 
 LOCATION:The Pub
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 20 spots lef
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 11 spots lef
  t\nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/
  events/180910\n\n1:00PM Program\, 2:30PM Networking\nWhat can we learn fro
  m the individuals shaping AI\, enterprise transformation\, and modern engi
