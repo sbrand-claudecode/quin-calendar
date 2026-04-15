@@ -24,29 +24,8 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:quin-event-181346-weekly@thequinhouse.com
-DTSTAMP:20260414T185437Z
-DTSTART;TZID=America/New_York:20260414T160000
-DTEND;TZID=America/New_York:20260414T210000
-RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20260714T235959Z
-SUMMARY:BBQ Specials 
-LOCATION:The Pub
-DESCRIPTION:Category: Food & Beverage\nPrice: Free / Included\nStatus: Avai
- lable\nTime: 4 PM – 9 PM\nLocation: Pub\nEvent URL: https://members.theq
- uinhouse.com/events/181346\n\nExclusively Available Tuesday Evenings\nSett
- le in and get your hands a little messy - in the best way.\n\nBegin with a
-  warm corn bread skillet and hot honey butter\, alongside the classics: po
- tato salad\, pickles\, and coleslaw. From there\, choose two barbecue favo
- rites for your main indulgence—espresso-rubbed beef brisket\, St. Louis 
- ribs cooked low and slow\, or pulled pork sliders worth every bite. A litt
- le smoky\, a little saucy\, and just the right amount of refined.\n\nMake 
- a Reservation.
-URL:https://members.thequinhouse.com/events/181346
-CATEGORIES:Food & Beverage
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-177695@thequinhouse.com
-DTSTAMP:20260414T185437Z
+DTSTAMP:20260415T011230Z
 DTSTART;VALUE=DATE:20260414
 DTEND;VALUE=DATE:20260501
 SUMMARY:Taste of Provence 
@@ -64,69 +43,8 @@ URL:https://members.thequinhouse.com/events/177695
 CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
-UID:quin-event-180903@thequinhouse.com
-DTSTAMP:20260414T185437Z
-DTSTART;TZID=America/New_York:20260414T170000
-DTEND;TZID=America/New_York:20260414T190000
-SUMMARY:Member Mingle
-LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 8 spots left
- \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/18
- 0903\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set 
- in an ambiant reserved space. This is your opportunity to connect with fel
- low members\, exchange ideas\, and cultivate meaningful relationships.\n\n
- Whether you're sparking new collaborations\, sharing insights\, or simply 
- enjoying great conversation\, the Member Mingle is the perfect way to enga
- ge with our dynamic community. Don’t miss the chance to connect\, inspir
- e\, and be inspired!\n\n*This event is complimentary and reserved for memb
- ers only. Complimentary light bites will be served\, and beverages will be
-  available for purchase.
-URL:https://members.thequinhouse.com/events/180903
-CATEGORIES:Member Mixer
-END:VEVENT
-BEGIN:VEVENT
-UID:quin-event-176362@thequinhouse.com
-DTSTAMP:20260414T185437Z
-DTSTART;TZID=America/New_York:20260414T180000
-DTEND;TZID=America/New_York:20260414T190000
-SUMMARY:Improv Comedy | 6:00PM Show
-LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 33 spots left\nS
- tatus: Available\nEvent URL: https://members.thequinhouse.com/events/17636
- 2\n\nBoston’s best return to the 'House! Improv comedians are ready to k
- eep you laughing with spontaneous sketches\, quick wit\, and audience-insp
- ired moments. Join us for a cocktail from the cash bar beginning at 5:30pm
- \, then snag your seat and enjoy a show packed with energy from beginning 
- to end. Seating is first come\, first serve\n\nMake it a night with a pre-
- show burger and a beer from the Pub. Dining walk-ins are welcome! \n\n*Thi
- s event complimentary and available for registered members and up to one r
- egistered guest.
-URL:https://members.thequinhouse.com/events/176362
-CATEGORIES:The Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:quin-event-176363@thequinhouse.com
-DTSTAMP:20260414T185437Z
-DTSTART;TZID=America/New_York:20260414T200000
-DTEND;TZID=America/New_York:20260414T210000
-SUMMARY:Improv Comedy | 8:00PM Show
-LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 17 spots left\nS
- tatus: Available\nEvent URL: https://members.thequinhouse.com/events/17636
- 3\n\nBoston’s best return to the 'House! Improv comedians are ready to k
- eep you laughing with spontaneous sketches\, quick wit\, and audience-insp
- ired moments. Join us for a cocktail from the cash bar beginning at 7:30pm
- \, then snag your seat and enjoy a show packed with energy from beginning 
- to end. Seating is first come\, first serve\n\nMake it a night with a pre-
- show burger and a beer from the Pub. Dining walk-ins are welcome! \n\n*Thi
- s event complimentary and available for registered members and up to one r
- egistered guest.
-URL:https://members.thequinhouse.com/events/176363
-CATEGORIES:The Arts
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-178472@thequinhouse.com
-DTSTAMP:20260414T185437Z
+DTSTAMP:20260415T011230Z
 DTSTART;TZID=America/New_York:20260415T170000
 DTEND;TZID=America/New_York:20260415T190000
 SUMMARY:Game Night: Mahjong Instructional Play
@@ -143,7 +61,7 @@ CATEGORIES:Sports & Games
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-176370@thequinhouse.com
-DTSTAMP:20260414T185437Z
+DTSTAMP:20260415T011230Z
 DTSTART;TZID=America/New_York:20260415T180000
 DTEND;TZID=America/New_York:20260415T210000
 SUMMARY:Live Music: Bob Richardson 
@@ -161,7 +79,7 @@ CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-180901@thequinhouse.com
-DTSTAMP:20260414T185437Z
+DTSTAMP:20260415T011230Z
 DTSTART;TZID=America/New_York:20260416T170000
 DTEND;TZID=America/New_York:20260416T183000
 SUMMARY:'Quin Chat: Rethinking Women's Health - Look Good\, Feel Good
@@ -193,7 +111,7 @@ CATEGORIES:Health & Wellness
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-179447@thequinhouse.com
-DTSTAMP:20260414T185437Z
+DTSTAMP:20260415T011230Z
 DTSTART;TZID=America/New_York:20260420T100000
 DTEND;TZID=America/New_York:20260420T130000
 SUMMARY:130th Boston Marathon Finish Line Party: Morning Session
@@ -221,7 +139,7 @@ CATEGORIES:Sports & Games
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-179448@thequinhouse.com
-DTSTAMP:20260414T185437Z
+DTSTAMP:20260415T011230Z
 DTSTART;TZID=America/New_York:20260420T130000
 DTEND;TZID=America/New_York:20260420T160000
 SUMMARY:130th Boston Marathon Finish Line Party: Afternoon Session 
@@ -248,12 +166,12 @@ CATEGORIES:Sports & Games
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-180904@thequinhouse.com
-DTSTAMP:20260414T185437Z
+DTSTAMP:20260415T011230Z
 DTSTART;TZID=America/New_York:20260421T170000
 DTEND;TZID=America/New_York:20260421T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 13 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 12 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  80904\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in an ambiant reserved space. This is your opportunity to connect with fe
@@ -269,7 +187,7 @@ CATEGORIES:Member Mixer
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-179449@thequinhouse.com
-DTSTAMP:20260414T185437Z
+DTSTAMP:20260415T011230Z
 DTSTART;TZID=America/New_York:20260421T173000
 DTEND;TZID=America/New_York:20260421T183000
 SUMMARY:Author's Circle Book Club: "Impersonation" with Heidi Pitlor
@@ -297,7 +215,7 @@ CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-176382@thequinhouse.com
-DTSTAMP:20260414T185437Z
+DTSTAMP:20260415T011230Z
 DTSTART;TZID=America/New_York:20260422T173000
 DTEND;TZID=America/New_York:20260422T190000
 SUMMARY: Gather to Give: Arts & Culture Grant Reception 
@@ -323,7 +241,7 @@ CATEGORIES:‘Quin Impact Fund
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-179731@thequinhouse.com
-DTSTAMP:20260414T185437Z
+DTSTAMP:20260415T011230Z
 DTSTART;TZID=America/New_York:20260422T173000
 DTEND;TZID=America/New_York:20260422T193000
 SUMMARY:Member Mixer: Passport to Conversation
@@ -340,7 +258,7 @@ CATEGORIES:Member Mixer
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-179738@thequinhouse.com
-DTSTAMP:20260414T185437Z
+DTSTAMP:20260415T011230Z
 DTSTART;TZID=America/New_York:20260423T173000
 DTEND;TZID=America/New_York:20260423T190000
 SUMMARY: 'Quin Impact Fund x MassChallenge: Discovery & Innovation Pitch Co
@@ -363,7 +281,7 @@ CATEGORIES:‘Quin Impact Fund
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-180906@thequinhouse.com
-DTSTAMP:20260414T185437Z
+DTSTAMP:20260415T011230Z
 DTSTART;TZID=America/New_York:20260423T183000
 DTEND;TZID=America/New_York:20260423T210000
 SUMMARY:Serendipity Dinner: An Evening for Members 50 and Up
@@ -387,7 +305,7 @@ CATEGORIES:Member Mixer
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-180907@thequinhouse.com
-DTSTAMP:20260414T185437Z
+DTSTAMP:20260415T011230Z
 DTSTART;TZID=America/New_York:20260425T110000
 DTEND;TZID=America/New_York:20260425T130000
 SUMMARY:Serendipity Brunch: A Morning for Members 40 and Under 
@@ -414,7 +332,7 @@ CATEGORIES:Member Mixer
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-181401@thequinhouse.com
-DTSTAMP:20260414T185437Z
+DTSTAMP:20260415T011230Z
 DTSTART;TZID=America/New_York:20260425T113000
 DTEND;TZID=America/New_York:20260425T143000
 SUMMARY:Jazz Brunch
@@ -431,7 +349,7 @@ CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-180908@thequinhouse.com
-DTSTAMP:20260414T185437Z
+DTSTAMP:20260415T011230Z
 DTSTART;TZID=America/New_York:20260425T130000
 DTEND;TZID=America/New_York:20260425T150000
 SUMMARY:Hands-On Impact: Cradles to Crayons 
@@ -458,7 +376,7 @@ CATEGORIES:‘Quin Impact Fund
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-176384@thequinhouse.com
-DTSTAMP:20260414T185437Z
+DTSTAMP:20260415T011230Z
 DTSTART;VALUE=DATE:20260426
 DTEND;VALUE=DATE:20260429
 SUMMARY:Explorateur: Chef Arnaud Faye from Le Bristol Paris
@@ -503,7 +421,7 @@ CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-180905@thequinhouse.com
-DTSTAMP:20260414T185437Z
+DTSTAMP:20260415T011230Z
 DTSTART;TZID=America/New_York:20260428T170000
 DTEND;TZID=America/New_York:20260428T190000
 SUMMARY:Member Mingle
@@ -524,7 +442,7 @@ CATEGORIES:Member Mixer
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-180909@thequinhouse.com
-DTSTAMP:20260414T185437Z
+DTSTAMP:20260415T011230Z
 DTSTART;TZID=America/New_York:20260428T170000
 DTEND;TZID=America/New_York:20260428T183000
 SUMMARY:'Quin Chat: The Atlantic's Nick Thompson 
@@ -550,46 +468,46 @@ CATEGORIES:‘Quin Chat
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-180910@thequinhouse.com
-DTSTAMP:20260414T185437Z
+DTSTAMP:20260415T011230Z
 DTSTART;TZID=America/New_York:20260429T130000
 DTEND;TZID=America/New_York:20260429T150000
 SUMMARY:90 Minutes of Innovation: Networks\, Intelligence & the Future of D
  ecision-Making 
 LOCATION:The Pub
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 5 spots left
- \nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/e
- vents/180910\n\n1:00PM Program\, 2:30PM Networking\nWhat can we learn from
-  the individuals shaping AI\, enterprise transformation\, and modern engin
- eering at the highest levels?\n\nIn the latest edition of 90 Minutes of In
- novation\, John Werner - venture capitalist\, MIT lecturer\, and Forbes AI
-  columnist - will lead a series of one-on-one conversations with three rem
- arkable leaders\, each offering a distinct perspective on innovation\, lea
- dership\, and the moment we’re in.\n\nJon Hirschtick\, founder of SolidW
- orks and Onshape\, is a pioneering force in computer-aided design who has 
- transformed how engineers and designers build the world. An MIT alumnus\, 
- he used winnings from the Institute’s legendary blackjack team to launch
-  his first company - an experience that later inspired the film 21.\n\nSan
- dy Pentland\, MIT professor with appointments at MIT and Stanford\, and on
- e of the most cited data scientists globally\, whose work on human behavio
- r\, social networks\, and “reality mining” has fundamentally reshaped 
- how we understand trust\, cities\, and collective intelligence. He will sp
- eak on his recent book\, Shared Wisdom: Cultural Evolution in the Age of 
- AI.\n\nDavid Kenny\, Executive Chairman of Nielsen and former CEO of IBM W
- atson\, with prior leadership roles at Akamai and The Weather Channel\, ha
- s operated at the forefront of AI\, data\, and global enterprise transform
- ation.\n\nThrough individual interviews\, the afternoon will explore their
-  personal journeys\, the ideas that have defined their work\, and how each
-  sees the rapidly evolving landscape of AI\, technology\, and innovation t
- oday. Expect an engaging\, insight-rich experience that connects lived exp
- erience with forward-looking perspective - offering a rare window into how
-  these leaders think\, build\, and lead.\n\n*This event is complimentary a
- nd reserved for members only. Light bites and refreshments will be served.
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nStatus: You are Confirmed\
+ nEvent URL: https://members.thequinhouse.com/events/180910\n\n1:00PM Progr
+ am\, 2:30PM Networking\nWhat can we learn from the individuals shaping AI\
+ , enterprise transformation\, and modern engineering at the highest levels
+ ?\n\nIn the latest edition of 90 Minutes of Innovation\, John Werner - ven
+ ture capitalist\, MIT lecturer\, and Forbes AI columnist - will lead a ser
+ ies of one-on-one conversations with three remarkable leaders\, each offer
+ ing a distinct perspective on innovation\, leadership\, and the moment we�
+ ��re in.\n\nJon Hirschtick\, founder of SolidWorks and Onshape\, is a pion
+ eering force in computer-aided design who has transformed how engineers an
+ d designers build the world. An MIT alumnus\, he used winnings from the In
+ stitute’s legendary blackjack team to launch his first company - an expe
+ rience that later inspired the film 21.\n\nSandy Pentland\, MIT professor 
+ with appointments at MIT and Stanford\, and one of the most cited data sci
+ entists globally\, whose work on human behavior\, social networks\, and �
+ �reality mining” has fundamentally reshaped how we understand trust\, ci
+ ties\, and collective intelligence. He will speak on his recent book\, Sh
+ ared Wisdom: Cultural Evolution in the Age of AI.\n\nDavid Kenny\, Executi
+ ve Chairman of Nielsen and former CEO of IBM Watson\, with prior leadershi
+ p roles at Akamai and The Weather Channel\, has operated at the forefront 
+ of AI\, data\, and global enterprise transformation.\n\nThrough individual
+  interviews\, the afternoon will explore their personal journeys\, the ide
+ as that have defined their work\, and how each sees the rapidly evolving l
+ andscape of AI\, technology\, and innovation today. Expect an engaging\, i
+ nsight-rich experience that connects lived experience with forward-looking
+  perspective - offering a rare window into how these leaders think\, build
+ \, and lead.\n\n*This event is complimentary and reserved for members only
+ . Light bites and refreshments will be served.
 URL:https://members.thequinhouse.com/events/180910
 CATEGORIES:‘Quin Chat
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-178474@thequinhouse.com
-DTSTAMP:20260414T185437Z
+DTSTAMP:20260415T011230Z
 DTSTART;TZID=America/New_York:20260429T170000
 DTEND;TZID=America/New_York:20260429T190000
 SUMMARY:Game Night: Mahjong Open Play
@@ -606,7 +524,7 @@ CATEGORIES:Sports & Games
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-180914@thequinhouse.com
-DTSTAMP:20260414T185437Z
+DTSTAMP:20260415T011230Z
 DTSTART;TZID=America/New_York:20260502T160000
 DTEND;TZID=America/New_York:20260502T190000
 SUMMARY:Watch Party: Kentucky Derby
@@ -629,13 +547,13 @@ CATEGORIES:Sports & Games
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-175997@thequinhouse.com
-DTSTAMP:20260414T185437Z
+DTSTAMP:20260415T011230Z
 DTSTART;TZID=America/New_York:20260504T183000
 DTEND;TZID=America/New_York:20260504T210000
 SUMMARY:Serendipity Dinner 
 LOCATION:The Muse
 DESCRIPTION:Category: Member Mixer\nPrice: $100.00 per person\nAvailability
- : 15 spots left\nStatus: Available\nEvent URL: https://members.thequinhous
+ : 13 spots left\nStatus: Available\nEvent URL: https://members.thequinhous
  e.com/events/175997\n\nJoin The ‘Quin House Managing Director\, Matthias
   Kiehm\, for an evening of meaningful connections over a thoughtfully cura
  ted three-course dinner. Enjoy expertly paired wines as you engage with fe
@@ -651,7 +569,7 @@ CATEGORIES:Member Mixer
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-182097@thequinhouse.com
-DTSTAMP:20260414T185437Z
+DTSTAMP:20260415T011230Z
 DTSTART;TZID=America/New_York:20260505T170000
 DTEND;TZID=America/New_York:20260505T190000
 SUMMARY:Member Mingle
@@ -672,7 +590,7 @@ CATEGORIES:Member Mixer
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-181396@thequinhouse.com
-DTSTAMP:20260414T185437Z
+DTSTAMP:20260415T011230Z
 DTSTART;TZID=America/New_York:20260506T180000
 DTEND;TZID=America/New_York:20260506T210000
 SUMMARY:Live Music: Samuel Batista Trio
@@ -691,7 +609,7 @@ CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-182285@thequinhouse.com
-DTSTAMP:20260414T185437Z
+DTSTAMP:20260415T011230Z
 DTSTART;VALUE=DATE:20260507
 DTEND;VALUE=DATE:20260510
 SUMMARY:Dessert Trolley 
@@ -710,37 +628,37 @@ CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-182100@thequinhouse.com
-DTSTAMP:20260414T185437Z
+DTSTAMP:20260415T011230Z
 DTSTART;TZID=America/New_York:20260508T170000
 DTEND;TZID=America/New_York:20260508T183000
 SUMMARY:'Quin Chat: Finding Justice with New England Innocence Project
 LOCATION:Scottie's
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 2 spots left
- \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/18
- 2100\n\n5:00PM Reception\, 5:30PM Discussion\nAn evening that will challen
- ge what you think you know about justice - and redefine what it means to r
- ebuild a life.\n\nHear firsthand from Sean Ellis and Edward Wright—two m
- en who were wrongfully convicted\, spent decades incarcerated\, and ultima
- tely fought to reclaim their freedom. Their stories are deeply personal\, 
- but also powerful reflections on systemic failure\, resilience\, and the l
- ong road to exoneration.\n\nSean Ellis\, whose case gained international a
- ttention through the Netflix docuseries Trial 4\, now leads advocacy effo
- rts through the Exoneree Network\, supporting others navigating life after
-  incarceration. Edward Wright\, exonerated after 41 years\, taught himself
-  the law while imprisoned - successfully fighting for his own freedom whil
- e helping others do the same.\n\nThe conversation will be guided by Radha 
- Natarajan\, Executive Director of the New England Innocence Project\, whos
- e work continues to confront bias and drive meaningful reform within the j
- ustice system.\n\nA rare opportunity to engage with voices at the forefron
- t of justice reform - and to witness the strength\, clarity\, and humanity
-  behind these extraordinary journeys.\n\n*This event is complimentary and 
- reserved for members only. Light bites and refreshments will be served.
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 1 spot left\
+ nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/182
+ 100\n\n5:00PM Reception\, 5:30PM Discussion\nAn evening that will challeng
+ e what you think you know about justice - and redefine what it means to re
+ build a life.\n\nHear firsthand from Sean Ellis and Edward Wright—two me
+ n who were wrongfully convicted\, spent decades incarcerated\, and ultimat
+ ely fought to reclaim their freedom. Their stories are deeply personal\, b
+ ut also powerful reflections on systemic failure\, resilience\, and the lo
+ ng road to exoneration.\n\nSean Ellis\, whose case gained international at
+ tention through the Netflix docuseries Trial 4\, now leads advocacy effor
+ ts through the Exoneree Network\, supporting others navigating life after 
+ incarceration. Edward Wright\, exonerated after 41 years\, taught himself 
+ the law while imprisoned - successfully fighting for his own freedom while
+  helping others do the same.\n\nThe conversation will be guided by Radha N
+ atarajan\, Executive Director of the New England Innocence Project\, whose
+  work continues to confront bias and drive meaningful reform within the ju
+ stice system.\n\nA rare opportunity to engage with voices at the forefront
+  of justice reform - and to witness the strength\, clarity\, and humanity 
+ behind these extraordinary journeys.\n\n*This event is complimentary and r
+ eserved for members only. Light bites and refreshments will be served.
 URL:https://members.thequinhouse.com/events/182100
 CATEGORIES:‘Quin Chat
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-176007@thequinhouse.com
-DTSTAMP:20260414T185437Z
+DTSTAMP:20260415T011230Z
 DTSTART;TZID=America/New_York:20260511T180000
 DTEND;TZID=America/New_York:20260511T210000
 SUMMARY:Community Dinner Table
@@ -762,12 +680,12 @@ CATEGORIES:Member Mixer
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-182103@thequinhouse.com
-DTSTAMP:20260414T185437Z
+DTSTAMP:20260415T011230Z
 DTSTART;TZID=America/New_York:20260512T130000
 DTEND;TZID=America/New_York:20260512T150000
 SUMMARY:Hands-On Impact: Household Goods
 LOCATION:The Muse
-DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nAvailability: 7 spo
+DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nAvailability: 5 spo
  ts left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/ev
  ents/182103\n\nA simple set of kitchen tools can be the difference between
   a space and a home.\n\nJoin The ‘Quin Impact Fund for a hands-on volunt
@@ -791,7 +709,7 @@ CATEGORIES:‘Quin Impact Fund
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-182248@thequinhouse.com
-DTSTAMP:20260414T185437Z
+DTSTAMP:20260415T011230Z
 DTSTART;TZID=America/New_York:20260512T170000
 DTEND;TZID=America/New_York:20260512T190000
 SUMMARY:Member Mingle
@@ -812,30 +730,30 @@ CATEGORIES:Member Mixer
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-180148@thequinhouse.com
-DTSTAMP:20260414T185437Z
+DTSTAMP:20260415T011230Z
 DTSTART;TZID=America/New_York:20260622T180000
 DTEND;TZID=America/New_York:20260622T210000
 SUMMARY:Summer Concert Series: Mumford & Sons 
 LOCATION:Fenway Park
-DESCRIPTION:Category: The Arts\nPrice: $607.48 per person\nAvailability: 2 
- spots left\nStatus: Available\nEvent URL: https://members.thequinhouse.com
- /events/180148\n\nThe ‘Quin’s Summer Concert Series kicks off as Mumfo
- rd & Sons take the stage at America’s Most Beloved Ballpark\, joined by 
- special guests Lord Huron and Dylan Gossett. \n\nIn partnership with the F
- oundation To Be Named Later\, members will experience a private party from
-  Fenway’s Pavilion Decks A & B\, complete with complimentary food\, beer
- \, wine\, and hard seltzers\, all set against panoramic views of the show.
- \n\n*Tickets are $650 each and reflect a charitable donation to The Founda
- tion To Be Named Later. Tickets are non-refundable and non-transferable. M
- embers may purchase up to two tickets and are required to accompany their 
- guests ages 16+. Pavilion Decks A & B are open space with no assigned seat
- ing. All shows are rain or shine.
+DESCRIPTION:Category: The Arts\nPrice: $607.48 per person\nStatus: soldOut\
+ nEvent URL: https://members.thequinhouse.com/events/180148\n\nThe ‘Quin�
+ ��s Summer Concert Series kicks off as Mumford & Sons take the stage at Am
+ erica’s Most Beloved Ballpark\, joined by special guests Lord Huron and 
+ Dylan Gossett. \n\nIn partnership with the Foundation To Be Named Later\, 
+ members will experience a private party from Fenway’s Pavilion Decks A &
+  B\, complete with complimentary food\, beer\, wine\, and hard seltzers\, 
+ all set against panoramic views of the show.\n\n*Tickets are $650 each and
+  reflect a charitable donation to The Foundation To Be Named Later. Ticket
+ s are non-refundable and non-transferable. Members may purchase up to two 
+ tickets and are required to accompany their guests ages 16+. Pavilion Deck
+ s A & B are open space with no assigned seating. All shows are rain or shi
+ ne.
 URL:https://members.thequinhouse.com/events/180148
 CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-166318@thequinhouse.com
-DTSTAMP:20260414T185437Z
+DTSTAMP:20260415T011230Z
 DTSTART;VALUE=DATE:20260623
 DTEND;VALUE=DATE:20260627
 SUMMARY:'Quin Suite: World Cup England v. Ghana 
@@ -859,7 +777,7 @@ CATEGORIES:Sports & Games
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-175300@thequinhouse.com
-DTSTAMP:20260414T185437Z
+DTSTAMP:20260415T011230Z
 DTSTART;TZID=America/New_York:20260626T150000
 DTEND;TZID=America/New_York:20260626T180000
 SUMMARY:'Quin Suite: World Cup France v. Norway
@@ -883,7 +801,7 @@ CATEGORIES:Sports & Games
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-180149@thequinhouse.com
-DTSTAMP:20260414T185437Z
+DTSTAMP:20260415T011230Z
 DTSTART;TZID=America/New_York:20260710T183000
 DTEND;TZID=America/New_York:20260710T210000
 SUMMARY:Summer Concert Series: Noah Kahan 
@@ -905,7 +823,7 @@ CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-180151@thequinhouse.com
-DTSTAMP:20260414T185437Z
+DTSTAMP:20260415T011230Z
 DTSTART;TZID=America/New_York:20260711T183000
 DTEND;TZID=America/New_York:20260711T210000
 SUMMARY:Summer Concert Series: Noah Kahan 
@@ -927,7 +845,7 @@ CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-175753@thequinhouse.com
-DTSTAMP:20260414T185437Z
+DTSTAMP:20260415T011230Z
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20260803
 SUMMARY:Ride With The 'Quin: Pan Mass Challenge Registration
@@ -951,7 +869,7 @@ CATEGORIES:‘Quin Impact Fund
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-180152@thequinhouse.com
-DTSTAMP:20260414T185437Z
+DTSTAMP:20260415T011230Z
 DTSTART;TZID=America/New_York:20260802T190000
 DTEND;TZID=America/New_York:20260802T213000
 SUMMARY:Summer Concert Series: Zac Brown Band 
@@ -973,7 +891,7 @@ CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-180153@thequinhouse.com
-DTSTAMP:20260414T185437Z
+DTSTAMP:20260415T011230Z
 DTSTART;TZID=America/New_York:20260814T173000
 DTEND;TZID=America/New_York:20260814T200000
 SUMMARY:Summer Concert Series: Chris Stapleton 
