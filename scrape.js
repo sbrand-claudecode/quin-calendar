@@ -203,7 +203,10 @@ function buildIcs(events, calendarName = "The 'Quin House Events") {
     if (!startLocal || !startLocal.date) continue;
     if (['180900'].includes(String(event.id))) continue; // excluded events
 
-    const now = new Date().toISOString().replace(/[-:.]/g, '').slice(0, 15) + 'Z';
+    // DTSTAMP should be stable (not today's date) so Google Calendar doesn't
+    // treat every event as "modified" on every daily run. We derive it from
+    // the event's own start date so it never changes unless the event does.
+    const dtstamp = startLocal.date.replace(/[-:]/g, '').replace('T', 'T').slice(0, 15) + 'Z';
     const title = event.title || 'Quin House Event';
     const venue = event.venue ? event.venue.trim() : '';
 
@@ -237,7 +240,7 @@ function buildIcs(events, calendarName = "The 'Quin House Events") {
 
     lines.push('BEGIN:VEVENT');
     lines.push(`UID:${uid}`);
-    lines.push(`DTSTAMP:${now}`);
+    lines.push(`DTSTAMP:${dtstamp}`);
 
     if (isTuesdaySeries) {
       // BBQ Specials (181346): recurring weekly Tuesdays, 4–9 PM ET, Apr 7 – Jul 14 2026
