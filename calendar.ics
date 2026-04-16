@@ -43,70 +43,35 @@ URL:https://members.thequinhouse.com/events/177695
 CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
-UID:quin-event-178472@thequinhouse.com
-DTSTAMP:20260415T170000Z
-DTSTART;TZID=America/New_York:20260415T170000
-DTEND;TZID=America/New_York:20260415T190000
-SUMMARY:Game Night: Mahjong Instructional Play
-LOCATION:The Muse
-DESCRIPTION:Category: Sports & Games\nPrice: Free\nStatus: Waitlist Only\nE
- vent URL: https://members.thequinhouse.com/events/178472\n\nDiscover the g
- ame\, the strategy\, and the social ritual of Mahjong at this instructiona
- l play night designed for curious beginners. Learn the fundamentals - from
-  tiles and rules to basic strategy - guided by an experienced instructor\,
-  then put your knowledge into practice with friendly\, hands-on play.\n\n*
- This event is complimentary and reserved for members only.
-URL:https://members.thequinhouse.com/events/178472
-CATEGORIES:Sports & Games
-END:VEVENT
-BEGIN:VEVENT
-UID:quin-event-176370@thequinhouse.com
-DTSTAMP:20260415T180000Z
-DTSTART;TZID=America/New_York:20260415T180000
-DTEND;TZID=America/New_York:20260415T210000
-SUMMARY:Live Music: Bob Richardson 
-LOCATION:The Reading Room
-DESCRIPTION:Category: The Arts\nPrice: Free / Included\nStatus: Available\n
- Event URL: https://members.thequinhouse.com/events/176370\n\nAdored for hi
- s signature style and smile\, Bob Richardson returns to the 'House for ano
- ther spectacular piano and vocal performance live from the Reading Room. R
- ichardson\, a composer\, arranger\, vocalist and former educator will char
- m the audience with requests all night long.\n\n*Please note that this eve
- nt is complimentary and reserved for members\, plus three guests. Seating 
- is first come\, first served.
-URL:https://members.thequinhouse.com/events/176370
-CATEGORIES:The Arts
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-180901@thequinhouse.com
 DTSTAMP:20260416T170000Z
 DTSTART;TZID=America/New_York:20260416T170000
 DTEND;TZID=America/New_York:20260416T183000
 SUMMARY:'Quin Chat: Rethinking Women's Health - Look Good\, Feel Good
 LOCATION:Scottie's
-DESCRIPTION:Category: Health & Wellness\nPrice: Free\nAvailability: 1 spot 
- left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/event
- s/180901\n\n5:00PM Reception\, 5:30PM Discussion \nAn exploration of vita
- lity\, strength\, and wellbeing\, this thoughtfully curated conversation -
-  moderated by Jay Luthar MD\, Founder and Medical Director of Lutanen Heal
- th & Faculty at Harvard Medical School - brings together leading voices in
-  women’s health for a discussion designed to inform\, inspire\, and empo
- wer.\n\nTogether\, Melissa Hines\, Founder of Wellest Integrative Health\,
-  Kathy Kates\, Family Nurse Practitioner\, and Izzy Antonelli\, Exercise P
- hysiologist & Strength and Conditioning Specialist\, will guide a dynamic 
- discussion spanning sexual health\, hormonal care\, movement\, metabolism\
- , bone health\, and longevity. With perspectives grounded in pelvic health
- \, clinical expertise\, and exercise physiology\, the conversation offers 
- a holistic view of how we support and sustain the body through every stage
-  of life.\n\nThe dialogue invites a deeper understanding of how these inte
- rconnected elements shape not only how we feel day to day\, but how we mov
- e\, age\, and thrive over time—bringing clarity\, nuance\, and actionabl
- e insight to essential aspects of women’s health.\n\nThoughtful\, engagi
- ng\, and rooted in expertise\, this program offers members an opportunity 
- to reconnect with their bodies and approach wellbeing with intention and c
- onfidence.\n\n*This event is complimentary and reserved for members only. 
- Complimentary light bites will be served\, and beverages will be available
-  for purchase.
+DESCRIPTION:Category: Health & Wellness\nPrice: Free\nAvailability: 2 spots
+  left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/even
+ ts/180901\n\n5:00PM Reception\, 5:30PM Discussion \nAn exploration of vit
+ ality\, strength\, and wellbeing\, this thoughtfully curated conversation 
+ - moderated by Jay Luthar MD\, Founder and Medical Director of Lutanen Hea
+ lth & Faculty at Harvard Medical School - brings together leading voices i
+ n women’s health for a discussion designed to inform\, inspire\, and emp
+ ower.\n\nTogether\, Melissa Hines\, Founder of Wellest Integrative Health\
+ , Kathy Kates\, Family Nurse Practitioner\, and Izzy Antonelli\, Exercise 
+ Physiologist & Strength and Conditioning Specialist\, will guide a dynamic
+  discussion spanning sexual health\, hormonal care\, movement\, metabolism
+ \, bone health\, and longevity. With perspectives grounded in pelvic healt
+ h\, clinical expertise\, and exercise physiology\, the conversation offers
+  a holistic view of how we support and sustain the body through every stag
+ e of life.\n\nThe dialogue invites a deeper understanding of how these int
+ erconnected elements shape not only how we feel day to day\, but how we mo
+ ve\, age\, and thrive over time—bringing clarity\, nuance\, and actionab
+ le insight to essential aspects of women’s health.\n\nThoughtful\, engag
+ ing\, and rooted in expertise\, this program offers members an opportunity
+  to reconnect with their bodies and approach wellbeing with intention and 
+ confidence.\n\n*This event is complimentary and reserved for members only.
+  Complimentary light bites will be served\, and beverages will be availabl
+ e for purchase.
 URL:https://members.thequinhouse.com/events/180901
 CATEGORIES:Health & Wellness
 END:VEVENT
@@ -118,7 +83,7 @@ DTEND;TZID=America/New_York:20260420T130000
 SUMMARY:130th Boston Marathon Finish Line Party: Morning Session
 LOCATION:Offsite: Rochambeau
 DESCRIPTION:Category: Sports & Games\nPrice: $46.73 per person\nAvailabilit
- y: 76 spots left\nStatus: Available\nEvent URL: https://members.thequinhou
+ y: 73 spots left\nStatus: Available\nEvent URL: https://members.thequinhou
  se.com/events/179447\n\nReserve a seat on the home stretch to cheer on the
   runners at The 'Quin's Annual Boston Marathon Finish Line Party. This yea
  r The 'Quin will host members at the Rochambeau Café with views of Boylst
@@ -172,7 +137,7 @@ DTSTART;TZID=America/New_York:20260421T170000
 DTEND;TZID=America/New_York:20260421T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 12 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 10 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  80904\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in an ambiant reserved space. This is your opportunity to connect with fe
@@ -222,7 +187,7 @@ DTEND;TZID=America/New_York:20260421T213000
 SUMMARY:'Quin Suite: Game 2 of the Conference Quarterfinals
 LOCATION:Offsite: TD Garden
 DESCRIPTION:Category: Sports & Games\nPrice: $366.36 per person\nAvailabili
- ty: 5 spots left\nStatus: Available\nEvent URL: https://members.thequinhou
+ ty: 2 spots left\nStatus: Available\nEvent URL: https://members.thequinhou
  se.com/events/182421\n\nScore your spot at Tuesday's Conference Quarterfin
  al home game from The 'Quin Suite (#524) at TD Garden.\n\nAll suite ticket
   options include incredible views of the on-court action and light gameday
@@ -451,7 +416,7 @@ DTSTART;TZID=America/New_York:20260428T170000
 DTEND;TZID=America/New_York:20260428T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 15 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 14 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  80905\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in an ambiant reserved space. This is your opportunity to connect with fe
@@ -688,7 +653,7 @@ DTSTART;TZID=America/New_York:20260511T180000
 DTEND;TZID=America/New_York:20260511T210000
 SUMMARY:Community Dinner Table
 LOCATION:Café Q
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 4 spots left
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 3 spots left
  \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/17
  6007\n\nStart your week in good company with the Café Q Community dinner 
  table for members-only. Set aside for those looking to expand their social
