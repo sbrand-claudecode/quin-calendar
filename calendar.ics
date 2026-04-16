@@ -49,31 +49,47 @@ DTSTART;TZID=America/New_York:20260416T170000
 DTEND;TZID=America/New_York:20260416T183000
 SUMMARY:'Quin Chat: Rethinking Women's Health - Look Good\, Feel Good
 LOCATION:Scottie's
-DESCRIPTION:Category: Health & Wellness\nPrice: Free\nAvailability: 1 spot 
- left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/event
- s/180901\n\n5:00PM Reception\, 5:30PM Discussion \nAn exploration of vita
- lity\, strength\, and wellbeing\, this thoughtfully curated conversation -
-  moderated by Jay Luthar MD\, Founder and Medical Director of Lutanen Heal
- th & Faculty at Harvard Medical School - brings together leading voices in
-  women’s health for a discussion designed to inform\, inspire\, and empo
- wer.\n\nTogether\, Melissa Hines\, Founder of Wellest Integrative Health\,
-  Kathy Kates\, Family Nurse Practitioner\, and Izzy Antonelli\, Exercise P
- hysiologist & Strength and Conditioning Specialist\, will guide a dynamic 
- discussion spanning sexual health\, hormonal care\, movement\, metabolism\
- , bone health\, and longevity. With perspectives grounded in pelvic health
- \, clinical expertise\, and exercise physiology\, the conversation offers 
- a holistic view of how we support and sustain the body through every stage
-  of life.\n\nThe dialogue invites a deeper understanding of how these inte
- rconnected elements shape not only how we feel day to day\, but how we mov
- e\, age\, and thrive over time—bringing clarity\, nuance\, and actionabl
- e insight to essential aspects of women’s health.\n\nThoughtful\, engagi
- ng\, and rooted in expertise\, this program offers members an opportunity 
- to reconnect with their bodies and approach wellbeing with intention and c
- onfidence.\n\n*This event is complimentary and reserved for members only. 
- Complimentary light bites will be served\, and beverages will be available
-  for purchase.
+DESCRIPTION:Category: Health & Wellness\nPrice: Free\nAvailability: 2 spots
+  left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/even
+ ts/180901\n\n5:00PM Reception\, 5:30PM Discussion \nAn exploration of vit
+ ality\, strength\, and wellbeing\, this thoughtfully curated conversation 
+ - moderated by Jay Luthar MD\, Founder and Medical Director of Lutanen Hea
+ lth & Faculty at Harvard Medical School - brings together leading voices i
+ n women’s health for a discussion designed to inform\, inspire\, and emp
+ ower.\n\nTogether\, Melissa Hines\, Founder of Wellest Integrative Health\
+ , Kathy Kates\, Family Nurse Practitioner\, and Izzy Antonelli\, Exercise 
+ Physiologist & Strength and Conditioning Specialist\, will guide a dynamic
+  discussion spanning sexual health\, hormonal care\, movement\, metabolism
+ \, bone health\, and longevity. With perspectives grounded in pelvic healt
+ h\, clinical expertise\, and exercise physiology\, the conversation offers
+  a holistic view of how we support and sustain the body through every stag
+ e of life.\n\nThe dialogue invites a deeper understanding of how these int
+ erconnected elements shape not only how we feel day to day\, but how we mo
+ ve\, age\, and thrive over time—bringing clarity\, nuance\, and actionab
+ le insight to essential aspects of women’s health.\n\nThoughtful\, engag
+ ing\, and rooted in expertise\, this program offers members an opportunity
+  to reconnect with their bodies and approach wellbeing with intention and 
+ confidence.\n\n*This event is complimentary and reserved for members only.
+  Complimentary light bites will be served\, and beverages will be availabl
+ e for purchase.
 URL:https://members.thequinhouse.com/events/180901
 CATEGORIES:Health & Wellness
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-182826@thequinhouse.com
+DTSTAMP:20260419T130000Z
+DTSTART;TZID=America/New_York:20260419T130000
+DTEND;TZID=America/New_York:20260419T153000
+SUMMARY:Watch Party: Round 1\, Game 1
+LOCATION:The Pub
+DESCRIPTION:Category: Sports & Games\nPrice: Free / Included\nStatus: Avail
+ able\nEvent URL: https://members.thequinhouse.com/events/182826\n\nAll scr
+ eens will be illuminated with live sports coverage of Game 1 of the NBA PL
+ ayoffs for members who have secured the best seats in town. Enjoy the Pub'
+ s regular menu of fan favorites with beer on tap all night long.\n\n*Reser
+ vations are not required.
+URL:https://members.thequinhouse.com/events/182826
+CATEGORIES:Sports & Games
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-179447@thequinhouse.com
@@ -83,7 +99,7 @@ DTEND;TZID=America/New_York:20260420T130000
 SUMMARY:130th Boston Marathon Finish Line Party: Morning Session
 LOCATION:Offsite: Rochambeau
 DESCRIPTION:Category: Sports & Games\nPrice: $46.73 per person\nAvailabilit
- y: 67 spots left\nStatus: Available\nEvent URL: https://members.thequinhou
+ y: 69 spots left\nStatus: Available\nEvent URL: https://members.thequinhou
  se.com/events/179447\n\nReserve a seat on the home stretch to cheer on the
   runners at The 'Quin's Annual Boston Marathon Finish Line Party. This yea
  r The 'Quin will host members at the Rochambeau Café with views of Boylst
@@ -129,6 +145,25 @@ DESCRIPTION:Category: Sports & Games\nPrice: $46.73 per person\nStatus: Wai
  pril 16 at noon will be charged in full. Thank you for understanding.
 URL:https://members.thequinhouse.com/events/179448
 CATEGORIES:Sports & Games
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-182348@thequinhouse.com
+DTSTAMP:20260421T160000Z
+DTSTART;VALUE=DATE:20260421
+DTEND;VALUE=DATE:20260422
+SUMMARY:BBQ Specials 
+LOCATION:The Pub
+DESCRIPTION:Category: Food & Beverage\nPrice: Free / Included\nStatus: Avai
+ lable\nTime: 4 PM – 9 PM\nEvent URL: https://members.thequinhouse.com/ev
+ ents/182348\n\nExclusively Available Tuesday Evenings\nSettle in and get y
+ our hands a little messy - in the best way.\n\nBegin with a warm corn brea
+ d skillet and hot honey butter\, alongside the classics: potato salad\, pi
+ ckles\, and coleslaw. From there\, choose two barbecue favorites for your 
+ main indulgence—espresso-rubbed beef brisket\, St. Louis ribs cooked low
+  and slow\, or pulled pork sliders worth every bite. A little smoky\, a li
+ ttle saucy\, and just the right amount of refined.\n\nMake a Reservation.
+URL:https://members.thequinhouse.com/events/182348
+CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-180904@thequinhouse.com
@@ -543,7 +578,7 @@ DTEND;TZID=America/New_York:20260504T210000
 SUMMARY:Serendipity Dinner 
 LOCATION:The Muse
 DESCRIPTION:Category: Member Mixer\nPrice: $100.00 per person\nAvailability
- : 12 spots left\nStatus: Available\nEvent URL: https://members.thequinhous
+ : 10 spots left\nStatus: Available\nEvent URL: https://members.thequinhous
  e.com/events/175997\n\nJoin The ‘Quin House Managing Director\, Matthias
   Kiehm\, for an evening of meaningful connections over a thoughtfully cura
  ted three-course dinner. Enjoy expertly paired wines as you engage with fe
@@ -653,7 +688,7 @@ DTSTART;TZID=America/New_York:20260511T180000
 DTEND;TZID=America/New_York:20260511T210000
 SUMMARY:Community Dinner Table
 LOCATION:Café Q
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 3 spots left
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 2 spots left
  \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/17
  6007\n\nStart your week in good company with the Café Q Community dinner 
  table for members-only. Set aside for those looking to expand their social
