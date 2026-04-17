@@ -43,19 +43,35 @@ URL:https://members.thequinhouse.com/events/177695
 CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
-UID:quin-event-182826@thequinhouse.com
+UID:quin-event-183061@thequinhouse.com
 DTSTAMP:20260419T130000Z
 DTSTART;TZID=America/New_York:20260419T130000
 DTEND;TZID=America/New_York:20260419T153000
-SUMMARY:Watch Party: Round 1\, Game 1
+SUMMARY:Celtics Watch Party: Round 1\, Game 1
 LOCATION:The Pub
 DESCRIPTION:Category: Sports & Games\nPrice: Free / Included\nStatus: Avail
- able\nEvent URL: https://members.thequinhouse.com/events/182826\n\nAll scr
- eens will be illuminated with live sports coverage of Game 1 of the NBA PL
+ able\nEvent URL: https://members.thequinhouse.com/events/183061\n\nAll scr
+ eens will be illuminated with live sports coverage of Game 1 of the NBA Pl
  ayoffs for members who have secured the best seats in town. Enjoy the Pub'
  s regular menu of fan favorites with beer on tap all night long.\n\n*Reser
  vations are not required.
-URL:https://members.thequinhouse.com/events/182826
+URL:https://members.thequinhouse.com/events/183061
+CATEGORIES:Sports & Games
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-183062@thequinhouse.com
+DTSTAMP:20260419T193000Z
+DTSTART;TZID=America/New_York:20260419T193000
+DTEND;TZID=America/New_York:20260419T220000
+SUMMARY:Bruins Watch Party: Round 1\, Game 1
+LOCATION:The Pub
+DESCRIPTION:Category: Sports & Games\nPrice: Free / Included\nStatus: Avail
+ able\nEvent URL: https://members.thequinhouse.com/events/183062\n\nAll scr
+ eens will be illuminated with live sports coverage of the Bruins playoffs
+  for members who have secured the best seats in town. Enjoy the Pub's regu
+ lar menu of fan favorites with beer on tap all night long.\n\n*Reservation
+ s are not required.
+URL:https://members.thequinhouse.com/events/183062
 CATEGORIES:Sports & Games
 END:VEVENT
 BEGIN:VEVENT
@@ -66,7 +82,7 @@ DTEND;TZID=America/New_York:20260420T130000
 SUMMARY:130th Boston Marathon Finish Line Party: Morning Session
 LOCATION:Offsite: Rochambeau
 DESCRIPTION:Category: Sports & Games\nPrice: $46.73 per person\nAvailabilit
- y: 68 spots left\nStatus: Available\nEvent URL: https://members.thequinhou
+ y: 64 spots left\nStatus: Available\nEvent URL: https://members.thequinhou
  se.com/events/179447\n\nReserve a seat on the home stretch to cheer on the
   runners at The 'Quin's Annual Boston Marathon Finish Line Party. This yea
  r The 'Quin will host members at the Rochambeau Café with views of Boylst
@@ -139,7 +155,7 @@ DTSTART;TZID=America/New_York:20260421T170000
 DTEND;TZID=America/New_York:20260421T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 7 spots left
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 8 spots left
  \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/18
  0904\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set 
  in an ambiant reserved space. This is your opportunity to connect with fel
@@ -186,7 +202,7 @@ UID:quin-event-182421@thequinhouse.com
 DTSTAMP:20260421T190000Z
 DTSTART;TZID=America/New_York:20260421T190000
 DTEND;TZID=America/New_York:20260421T213000
-SUMMARY:'Quin Suite: Game 2 of the Conference Quarterfinals
+SUMMARY:'Quin Suite: Celtics Game 2 of the Conference Quarterfinals
 LOCATION:Offsite: TD Garden
 DESCRIPTION:Category: Sports & Games\nPrice: $366.36 per person\nAvailabili
  ty: 4 spots left\nStatus: Available\nEvent URL: https://members.thequinhou
@@ -538,6 +554,38 @@ URL:https://members.thequinhouse.com/events/180914
 CATEGORIES:Sports & Games
 END:VEVENT
 BEGIN:VEVENT
+UID:quin-event-183255@thequinhouse.com
+DTSTAMP:20260503T164500Z
+DTSTART;TZID=America/New_York:20260503T164500
+DTEND;TZID=America/New_York:20260503T190000
+SUMMARY:Sunday Screening & Discussion: Any Day Now
+LOCATION:The Living Room
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 50 spots left\nS
+ tatus: futureSale\nEvent URL: https://members.thequinhouse.com/events/1832
+ 55\n\n4:45PM Doors Open\, 5:00PM Screening\, 6:30PM Discussion\nFrom write
+ r and director Eric Aronson\, join us for an exclusive screening and conve
+ rsation featuring Any Day Now\, the Boston Film Festival’s Audience Fa
+ vorite Feature\, offered to ‘Quin members ahead of its wide release on M
+ ay 5th.\n\nSet against a story close to home\, the film draws inspiration 
+ from the infamous Isabella Stewart Gardner Museum heist\, weaving a compel
+ ling narrative of ambition\, loyalty\, and the consequences of the choices
+  we make. Any Day Now follows Steve\, a night watchman in his early 20s 
+ whose life is already beginning to unravel—his band is falling apart\, d
+ ebt is mounting\, and he’s entangled in a complicated love. When the eni
+ gmatic Marty Lyons pulls him into a world of misfits and moral gray areas\
+ , Steve is forced to confront whether he’s found a way forward—or set 
+ himself on a path to ruin.\n\nFilmed and produced entirely in Massachusett
+ s\, this independent film offers a distinctly local lens on a story that b
+ lends grit\, intrigue\, and emotional depth.\n\nFollowing the screening\, 
+ members are invited to stay for an intimate talkback with Eric Aronson\, o
+ ffering insight into the creative process\, the film’s local ties\, and 
+ his innovative\, Webby-nominated marketing campaign that brought Any Day 
+ Now to the screen.\n\n*This event is complimentary and reserved for membe
+ rs only. Theatre fare and refreshments will be served.
+URL:https://members.thequinhouse.com/events/183255
+CATEGORIES:The Arts
+END:VEVENT
+BEGIN:VEVENT
 UID:quin-event-175997@thequinhouse.com
 DTSTAMP:20260504T183000Z
 DTSTART;TZID=America/New_York:20260504T183000
@@ -598,6 +646,33 @@ DESCRIPTION:Category: The Arts\nPrice: Free / Included\nStatus: Available\n
  ome\, first served.
 URL:https://members.thequinhouse.com/events/181396
 CATEGORIES:The Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-182099@thequinhouse.com
+DTSTAMP:20260507T113000Z
+DTSTART;TZID=America/New_York:20260507T113000
+DTEND;TZID=America/New_York:20260507T130000
+SUMMARY:Women\, Worth & Wisdom: The Younger Generation
+LOCATION:Bondo
+DESCRIPTION:Category: ‘Quin Chat\nPrice: $35.00 per person\nAvailability:
+  60 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
+ .com/events/182099\n\n11:30AM Lunch\, 12:00PM Discussion \n\nJoin us for 
+ the final installment of our four-part series\, Women\, Worth & Wisdom\, l
+ ed by Colette Phillips\, founder of Get Konnected. This ongoing series bri
+ ngs together influential women from across industries to share perspective
+ \, lived experience\, and the enduring impact of women supporting one anot
+ her.\n\nThis session will explore the importance of elevating the next gen
+ eration—creating space\, offering guidance\, and fostering opportunities
+  for emerging female leaders and innovators. Through thoughtful conversati
+ on and shared insight\, the discussion will consider how we can continue t
+ o bring more women to the table and support their growth in meaningful way
+ s.\n\nEngaging and open in spirit\, the afternoon invites connection\, ref
+ lection\, and dialogue among peers.\n\n*This event is offered at $35 per p
+ erson\, plus tax\, to account for the buffet lunch\, enjoyed during the pr
+ ogram. Reservations are open to members\, plus one guest. Cancellations ma
+ de within 48 hours of the event are subject to a full charge.
+URL:https://members.thequinhouse.com/events/182099
+CATEGORIES:‘Quin Chat
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-182285@thequinhouse.com
@@ -698,6 +773,76 @@ DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nAvailability: 2 spo
   impact@thequin.com.\n\nShop the Amazon Wishlist here.
 URL:https://members.thequinhouse.com/events/182103
 CATEGORIES:‘Quin Impact Fund
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-182250@thequinhouse.com
+DTSTAMP:20260512T173000Z
+DTSTART;TZID=America/New_York:20260512T173000
+DTEND;TZID=America/New_York:20260512T190000
+SUMMARY:'Quin Chat: AI Powered Women
+LOCATION:Scottie's
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 80 spots lef
+ t\nStatus: futureSale\nEvent URL: https://members.thequinhouse.com/events/
+ 182250\n\n5:30PM Reception\, 6:00PM Discussion\nAI is reshaping the world 
+ - but who is shaping AI?\n\nThis discussion brings together leading women 
+ at the forefront of artificial intelligence to explore the human decisions
+ \, ethical frameworks\, and leadership required to guide this moment of ra
+ pid transformation.\n\nDr. Felicia Newhouse\, founder of AI-Powered Women�
+ ��a global learning platform and 1\,200-person MIT summit focused on build
+ ing the workforce infrastructure behind responsible AI adoption—will sha
+ re insights on how organizations translate AI investment into real-world i
+ mplementation\, where leadership\, culture\, and human capability determin
+ e success. She is joined by Dr. Karrie Karahalios of the MIT Media Lab\, a
+  pioneer in algorithmic accountability\, and Dr. Cansu Canca\, Director of
+  Responsible AI Practice at Northeastern University and founder of AI Ethi
+ cs Lab and creator of Puzzle-solving in Ethics (PiE) Model.\n\nTogether\,
+  they will examine how AI systems reflect the values and assumptions of th
+ ose who build and deploy them and why diverse leadership is not just impor
+ tant\, but essential. From bias and governance to trust\, identity\, and d
+ ecision-making\, the conversation moves beyond technology to the deeper qu
+ estion of responsibility.\n\nAn intimate\, interdisciplinary conversation 
+ on women shaping the future of AI and the systems that will shape us all.\
+ n\n*This event is complimentary and reserved for members only. Light bites
+  and refreshments will be served.
+URL:https://members.thequinhouse.com/events/182250
+CATEGORIES:‘Quin Chat
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-176385@thequinhouse.com
+DTSTAMP:20260514T173000Z
+DTSTART;VALUE=DATE:20260514
+DTEND;VALUE=DATE:20260517
+SUMMARY:Twin Farms Takeover
+LOCATION:Café Q
+DESCRIPTION:Category: Food & Beverage\nPrice: Free / Included\nStatus: Avai
+ lable\nTime: 5:30 PM – 10 PM\nEvent URL: https://members.thequinhouse.co
+ m/events/176385\n\nExperience the refined elegance of Twin Farms this May 
+ as Café Q welcomes the celebrated culinary team from the two Michelin key
+  Vermont resort for an exclusive three-day takeover.\n\nLed by Executive C
+ hef Nathan Rich—recognized for his innovative approach to luxury dining 
+ and commitment to seasonal\, locally sourced ingredients—alongside Chef 
+ Sylvain Courbet\, whose Alpine roots and global culinary journey inform hi
+ s thoughtful\, ingredient-driven cuisine\, this special residency brings t
+ he spirit of Twin Farms to The ‘Quin House.\n\nThroughout the collaborat
+ ion\, members are invited to experience Twin Farms across multiple moments
+  of the day. Breakfast and lunch will feature a selection of thoughtfully 
+ composed specials\, offering a preview of the chefs’ seasonal approach\,
+  while dinner will transform Café Q into a full Twin Farms takeover—sho
+ wcasing a complete menu designed to highlight the very best of spring.\n\n
+ Begin your evening with vibrant starters such as Lobster Tacos with Ossetr
+ a caviar\, Green Gazpacho with avocado and spring peas\, or Cavatelli with
+  morel mushrooms and ramp butter. Entrées highlight refined\, ingredient-
+ forward dishes including Vermont Wagyu Striploin\, Truffled Chicken\, Icel
+ andic Cod with lobster cream\, and Curried Cauliflower with saffron broth.
+  Conclude with elegant desserts like Vermont Ricotta Beignets with maple c
+ ream or a decadent Three Chocolate Pavé.\n\nRooted in the rich agricultur
+ al traditions of Vermont and inspired by global technique\, each dish refl
+ ects Twin Farms’ dedication to craftsmanship\, storytelling\, and an imm
+ ersive dining experience.\n\nDuring dinner service\, Café Q’s regular m
+ enu will be set aside\, allowing this one-of-a-kind culinary experience to
+  take center stage.\n\nMake a Reservation.
+URL:https://members.thequinhouse.com/events/176385
+CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-180148@thequinhouse.com
@@ -845,7 +990,7 @@ DTSTART;TZID=America/New_York:20260802T190000
 DTEND;TZID=America/New_York:20260802T213000
 SUMMARY:Summer Concert Series: Zac Brown Band 
 LOCATION:Fenway Park
-DESCRIPTION:Category: The Arts\nPrice: $607.48 per person\nAvailability: 14
+DESCRIPTION:Category: The Arts\nPrice: $607.48 per person\nAvailability: 12
   spots left\nStatus: Available\nEvent URL: https://members.thequinhouse.co
  m/events/180152\n\nThe ‘Quin’s Summer Concert Series continues with Za
  c Brown Band’s Love & Fear Tour\, joined by special guests Old Crow Medi
