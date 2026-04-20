@@ -30,14 +30,13 @@ DTSTART;TZID=America/New_York:20260422T173000
 DTEND;TZID=America/New_York:20260422T193000
 SUMMARY:Member Mixer: Passport to Conversation
 LOCATION:Scottie's
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 1 spot left\
- nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/ev
- ents/179731\n\nBoard Quintansa Flight 217 and take off for an evening of t
- ravel-inspired conversation and connection. This Member Mixer brings guest
- s together through curated one-on-one exchanges\, inviting you to share fa
- vorite destinations\, unforgettable journeys\, and dream adventures with f
- ellow members.\n\n*Please note that this event is complimentary and reserv
- ed for members only.
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nStatus: You are Confirmed\
+ nEvent URL: https://members.thequinhouse.com/events/179731\n\nBoard Quinta
+ nsa Flight 217 and take off for an evening of travel-inspired conversation
+  and connection. This Member Mixer brings guests together through curated 
+ one-on-one exchanges\, inviting you to share favorite destinations\, unfor
+ gettable journeys\, and dream adventures with fellow members.\n\n*Please n
+ ote that this event is complimentary and reserved for members only.
 URL:https://members.thequinhouse.com/events/179731
 CATEGORIES:Member Mixer
 END:VEVENT
