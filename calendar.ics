@@ -43,33 +43,6 @@ URL:https://members.thequinhouse.com/events/177695
 CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
-UID:quin-event-179448@thequinhouse.com
-DTSTAMP:20260420T130000Z
-DTSTART;TZID=America/New_York:20260420T130000
-DTEND;TZID=America/New_York:20260420T160000
-SUMMARY:130th Boston Marathon Finish Line Party: Afternoon Session 
-LOCATION:Offsite: Rochambeau
-DESCRIPTION:Category: Sports & Games\nPrice: $46.73 per person\nStatus: Wai
- tlist Only\nEvent URL: https://members.thequinhouse.com/events/179448\n\nR
- eserve a seat on the home stretch to cheer on the runners at The 'Quin's A
- nnual Boston Marathon Finish Line Party. This year The 'Quin will host mem
- bers at the Rochambeau Café with views of Boylston\, light bites and a ca
- sh bar. The indoor space is reserved for members and their registered gues
- ts. Members are also welcome to enjoy the outdoor patio to cheer on the 30
- \,000+ athletes in Boston's iconic race.\n\nAre you running this year? On 
- behalf of The 'Quin House and together with the member community we wish t
- o cheer you on throughout the race. We invite you to add your name to The
-  Registry of Runners so we may celebrate your incredible achievement.\n\n
- *This ticketed event is reserved for members ($50/each) and up to three re
- gistered guests age 16+ ($75/guest). Due to capacity measures in place for
-  safety\, we are not able to accept additional member/guests at the door o
- n Marathon Monday. Please be considerate of fellow members and do not make
-  a reservation that you intend to cancel. Cancellations after Thursday\, A
- pril 16 at noon will be charged in full. Thank you for understanding.
-URL:https://members.thequinhouse.com/events/179448
-CATEGORIES:Sports & Games
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-182348@thequinhouse.com
 DTSTAMP:20260421T160000Z
 DTSTART;VALUE=DATE:20260421
@@ -116,7 +89,7 @@ DTSTART;TZID=America/New_York:20260421T173000
 DTEND;TZID=America/New_York:20260421T183000
 SUMMARY:Author's Circle Book Club: "Impersonation" with Heidi Pitlor
 LOCATION:The Terrace
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 2 spots left\nSt
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 5 spots left\nSt
  atus: Available\nEvent URL: https://members.thequinhouse.com/events/179449
  \n\nBookmark the date for a compelling conversation exploring Impersonatio
  n with Heidi Pitlor - a sharp\, satirical novel about ambition\, motherhoo
@@ -374,7 +347,7 @@ DTSTART;TZID=America/New_York:20260427T180000
 DTEND;TZID=America/New_York:20260427T200000
 SUMMARY:Member Meet Up: King's Bowling
 LOCATION:Offsite: King's Bowling\, Back Bay
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 32 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 31 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  83272\n\nSpare yourself the ordinary evening and join us at King’s Bowli
  ng for a Member Meet-Up that’s equal parts pins\, pours\, and playful ri
@@ -614,7 +587,7 @@ DTEND;TZID=America/New_York:20260507T130000
 SUMMARY:Women\, Worth & Wisdom: The Younger Generation
 LOCATION:Bondo
 DESCRIPTION:Category: ‘Quin Chat\nPrice: $35.00 per person\nAvailability:
-  54 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
+  53 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
  .com/events/182099\n\n11:30AM Lunch\, 12:00PM Discussion \n\nJoin us for 
  the final installment of our four-part series\, Women\, Worth & Wisdom\, l
  ed by Colette Phillips\, founder of Get Konnected. This ongoing series bri
@@ -740,29 +713,29 @@ DTSTART;TZID=America/New_York:20260512T173000
 DTEND;TZID=America/New_York:20260512T190000
 SUMMARY:'Quin Chat: AI Powered Women
 LOCATION:Scottie's
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 12 spots lef
- t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
- 82250\n\n5:30PM Reception\, 6:00PM Discussion\nAI is reshaping the world -
-  but who is shaping AI?\n\nThis discussion brings together leading women a
- t the forefront of artificial intelligence to explore the human decisions\
- , ethical frameworks\, and leadership required to guide this moment of rap
- id transformation.\n\nDr. Felicia Newhouse\, founder of AI-Powered Women�
- �a global learning platform and 1\,200-person MIT summit focused on buildi
- ng the workforce infrastructure behind responsible AI adoption—will shar
- e insights on how organizations translate AI investment into real-world im
- plementation\, where leadership\, culture\, and human capability determine
-  success. She is joined by Dr. Karrie Karahalios of the MIT Media Lab\, a 
- pioneer in algorithmic accountability\, and Dr. Cansu Canca\, Director of 
- Responsible AI Practice at Northeastern University and founder of AI Ethic
- s Lab and creator of Puzzle-solving in Ethics (PiE) Model.\n\nTogether\, 
- they will examine how AI systems reflect the values and assumptions of tho
- se who build and deploy them and why diverse leadership is not just import
- ant\, but essential. From bias and governance to trust\, identity\, and de
- cision-making\, the conversation moves beyond technology to the deeper que
- stion of responsibility.\n\nAn intimate\, interdisciplinary conversation o
- n women shaping the future of AI and the systems that will shape us all.\n
- \n*This event is complimentary and reserved for members only. Light bites 
- and refreshments will be served.
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 8 spots left
+ \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/18
+ 2250\n\n5:30PM Reception\, 6:00PM Discussion\nAI is reshaping the world - 
+ but who is shaping AI?\n\nThis discussion brings together leading women at
+  the forefront of artificial intelligence to explore the human decisions\,
+  ethical frameworks\, and leadership required to guide this moment of rapi
+ d transformation.\n\nDr. Felicia Newhouse\, founder of AI-Powered Women—
+ a global learning platform and 1\,200-person MIT summit focused on buildin
+ g the workforce infrastructure behind responsible AI adoption—will share
+  insights on how organizations translate AI investment into real-world imp
+ lementation\, where leadership\, culture\, and human capability determine 
+ success. She is joined by Dr. Karrie Karahalios of the MIT Media Lab\, a p
+ ioneer in algorithmic accountability\, and Dr. Cansu Canca\, Director of R
+ esponsible AI Practice at Northeastern University and founder of AI Ethics
+  Lab and creator of Puzzle-solving in Ethics (PiE) Model.\n\nTogether\, t
+ hey will examine how AI systems reflect the values and assumptions of thos
+ e who build and deploy them and why diverse leadership is not just importa
+ nt\, but essential. From bias and governance to trust\, identity\, and dec
+ ision-making\, the conversation moves beyond technology to the deeper ques
+ tion of responsibility.\n\nAn intimate\, interdisciplinary conversation on
+  women shaping the future of AI and the systems that will shape us all.\n\
+ n*This event is complimentary and reserved for members only. Light bites a
+ nd refreshments will be served.
 URL:https://members.thequinhouse.com/events/182250
 CATEGORIES:‘Quin Chat
 END:VEVENT
