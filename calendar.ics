@@ -43,22 +43,6 @@ URL:https://members.thequinhouse.com/events/177695
 CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
-UID:quin-event-183062@thequinhouse.com
-DTSTAMP:20260419T193000Z
-DTSTART;TZID=America/New_York:20260419T193000
-DTEND;TZID=America/New_York:20260419T220000
-SUMMARY:Bruins Watch Party: Round 1\, Game 1
-LOCATION:The Pub
-DESCRIPTION:Category: Sports & Games\nPrice: Free / Included\nStatus: Avail
- able\nEvent URL: https://members.thequinhouse.com/events/183062\n\nAll scr
- eens will be illuminated with live sports coverage of the Bruins playoffs
-  for members who have secured the best seats in town. Enjoy the Pub's regu
- lar menu of fan favorites with beer on tap all night long.\n\n*Reservation
- s are not required.
-URL:https://members.thequinhouse.com/events/183062
-CATEGORIES:Sports & Games
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-179447@thequinhouse.com
 DTSTAMP:20260420T100000Z
 DTSTART;TZID=America/New_York:20260420T100000
@@ -211,22 +195,22 @@ DTSTART;TZID=America/New_York:20260422T173000
 DTEND;TZID=America/New_York:20260422T190000
 SUMMARY: Gather to Give: Arts & Culture Grant Reception 
 LOCATION:The Muse
-DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nAvailability: 1 spo
- t left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/eve
- nts/176382\n\n5:30PM Reception\, 6:00PM Program\nCelebrate the extraordina
- ry local recipients of this year’s Arts & Culture grants\, made possible
-  through The ‘Quin Impact Fund and member generosity. This evening honor
- s the organizations enriching our community through creativity\, expressio
- n\, and cultural engagement - nurturing access\, inspiration\, and opportu
- nity for all. Connect with these visionary leaders during the reception an
- d learn more about the impact of their philanthropic initiatives.\n\nOur e
- steemed recipients include: ARCK\, Boston Gay Men’s Chorus\, Boston Lyri
- c Opera\, Calling All Crows\, Commonwealth Shakespeare Company\, Community
-  Art Center\, Conservatory Lab Charter School\, Cultural Equity Incubator\
- , Esplanade Association\, Holocaust Legacy Foundation\, Mass Poetry\, Mass
- achusetts College of Art and Design Foundation\, Rodman for Kids\, and Spe
- akEasy Stage Company.\n\n*This event is complimentary and reserved for mem
- bers only. Light bites and refreshments will be served.
+DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nStatus: Waitlist On
+ ly\nEvent URL: https://members.thequinhouse.com/events/176382\n\n5:30PM Re
+ ception\, 6:00PM Program\nCelebrate the extraordinary local recipients of 
+ this year’s Arts & Culture grants\, made possible through The ‘Quin Im
+ pact Fund and member generosity. This evening honors the organizations enr
+ iching our community through creativity\, expression\, and cultural engage
+ ment - nurturing access\, inspiration\, and opportunity for all. Connect w
+ ith these visionary leaders during the reception and learn more about the 
+ impact of their philanthropic initiatives.\n\nOur esteemed recipients incl
+ ude: ARCK\, Boston Gay Men’s Chorus\, Boston Lyric Opera\, Calling All C
+ rows\, Commonwealth Shakespeare Company\, Community Art Center\, Conservat
+ ory Lab Charter School\, Cultural Equity Incubator\, Esplanade Association
+ \, Holocaust Legacy Foundation\, Mass Poetry\, Massachusetts College of Ar
+ t and Design Foundation\, Rodman for Kids\, and SpeakEasy Stage Company.\n
+ \n*This event is complimentary and reserved for members only. Light bites 
+ and refreshments will be served.
 URL:https://members.thequinhouse.com/events/176382
 CATEGORIES:‘Quin Impact Fund
 END:VEVENT
@@ -417,7 +401,7 @@ DTSTART;TZID=America/New_York:20260427T180000
 DTEND;TZID=America/New_York:20260427T200000
 SUMMARY:Member Meet Up: King's Bowling
 LOCATION:Offsite: King's Bowling\, Back Bay
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 42 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 41 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  83272\n\nSpare yourself the ordinary evening and join us at King’s Bowli
  ng for a Member Meet-Up that’s equal parts pins\, pours\, and playful ri
@@ -616,7 +600,7 @@ DTSTART;TZID=America/New_York:20260505T170000
 DTEND;TZID=America/New_York:20260505T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 24 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 23 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  82097\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in an ambiant reserved space. This is your opportunity to connect with fe
