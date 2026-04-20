@@ -1,0 +1,36 @@
+name: Test Email Notification
+
+# Manual-only. Sends a canned email via the same Gmail SMTP path the monitor
+# uses, so you can verify the GMAIL_APP_PASSWORD secret and delivery work
+# without having to wait for a real event to change availability.
+on:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send test email
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          secure: true
+          username: ${{ secrets.QUIN_EMAIL }}
+          password: ${{ secrets.GMAIL_APP_PASSWORD }}
+          subject: "[Quin] Test email — monitor path verification"
+          to: ${{ secrets.QUIN_EMAIL }}
+          from: Quin Calendar Monitor <${{ secrets.QUIN_EMAIL }}>
+          body: |
+            This is a test email from the quin-calendar monitor.
+
+            If you're reading this, the Gmail SMTP path is working:
+              • GMAIL_APP_PASSWORD secret is valid
+              • Delivery from brand.steve@gmail.com → brand.steve@gmail.com works
+              • The dawidd6/action-send-mail action is wired up correctly
+
+            When a real event transitions from Sold Out or Waitlist Only to
+            having spots available, you'll get an email in this same format
+            (with event name, date, spot count, and portal URL).
+
+            — quin-calendar monitor
