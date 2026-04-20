@@ -24,49 +24,49 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:quin-event-179439@thequinhouse.com
-DTSTAMP:20260413T125430Z
-DTSTART;TZID=America/New_York:20260413T170000
-DTEND;TZID=America/New_York:20260413T183000
-SUMMARY:Author Talk: "Our World in Ten Buildings" with Michael P. Murphy
-LOCATION:The Muse
-DESCRIPTION:Category: The Arts\nPrice: Free\nStatus: You are Confirmed\nEve
- nt URL: https://members.thequinhouse.com/events/179439\n\n5:00PM Reception
- \, 5:30PM Discussion\nDiscover the profound impact of architecture on our 
- daily lives with Our World in Ten Buildings. In this illuminating work\, 
- architectural designer and author Michael P. Murphy examines ten landmark 
- projects\, from hospitals to memorials\, to reveal how thoughtfully design
- ed spaces shape the way we think\, feel\, and connect.\n\nBlending persona
- l experience with deep research\, Murphy shows how architecture influences
-  our health\, behavior\, and sense of community\, challenging the notion t
- hat purposeful design is only for the privileged. Accessible yet deeply in
- sightful\, this book offers a fresh perspective on the built environment a
- nd its power to transform our homes\, workplaces\, and shared spaces.\n\n*
- This event is complimentary and reserved for members only. Light bites and
-  refreshments will be served.
-URL:https://members.thequinhouse.com/events/179439
-CATEGORIES:The Arts
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-179731@thequinhouse.com
-DTSTAMP:20260413T125430Z
+DTSTAMP:20260422T173000Z
 DTSTART;TZID=America/New_York:20260422T173000
 DTEND;TZID=America/New_York:20260422T193000
 SUMMARY:Member Mixer: Passport to Conversation
 LOCATION:Scottie's
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nStatus: You are Confirmed\
- nEvent URL: https://members.thequinhouse.com/events/179731\n\nBoard Quinta
- nsa Flight 217 and take off for an evening of travel-inspired conversation
-  and connection. This Member Mixer brings guests together through curated 
- one-on-one exchanges\, inviting you to share favorite destinations\, unfor
- gettable journeys\, and dream adventures with fellow members.\n\n*Please n
- ote that this event is complimentary and reserved for members only.
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 1 spot left\
+ nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/ev
+ ents/179731\n\nBoard Quintansa Flight 217 and take off for an evening of t
+ ravel-inspired conversation and connection. This Member Mixer brings guest
+ s together through curated one-on-one exchanges\, inviting you to share fa
+ vorite destinations\, unforgettable journeys\, and dream adventures with f
+ ellow members.\n\n*Please note that this event is complimentary and reserv
+ ed for members only.
 URL:https://members.thequinhouse.com/events/179731
 CATEGORIES:Member Mixer
 END:VEVENT
 BEGIN:VEVENT
+UID:quin-event-179738@thequinhouse.com
+DTSTAMP:20260423T173000Z
+DTSTART;TZID=America/New_York:20260423T173000
+DTEND;TZID=America/New_York:20260423T190000
+SUMMARY: 'Quin Impact Fund x MassChallenge: Discovery & Innovation Pitch Co
+ mpetition
+LOCATION:The Living Room
+DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nStatus: You are on 
+ Waitlist\nEvent URL: https://members.thequinhouse.com/events/179738\n\n5:3
+ 0PM Reception\, 6:00PM Discussion\nJoin us for the ‘Quin Impact Fund x M
+ assChallenge Discovery & Innovation Pitch Competition\, where five groundb
+ reaking startups - Bystro AI\, H2C Energy\, harmony desalting\, Materializ
+ e Bio\, and TriCan Health - will pitch their visionary projects for a chan
+ ce to receive funding from the ‘Quin Impact Fund. As a member in attenda
+ nce\, you’ll play a vital role in shaping the future of innovation by ca
+ sting your vote to help determine the allocation of funds. Don’t miss th
+ is exciting opportunity to witness the next wave of impact-driven solution
+ s in action!\n\n*This event is complimentary and reserved for members only
+ . Light bites and refreshments will be served.
+URL:https://members.thequinhouse.com/events/179738
+CATEGORIES:‘Quin Impact Fund
+END:VEVENT
+BEGIN:VEVENT
 UID:quin-event-180909@thequinhouse.com
-DTSTAMP:20260413T125430Z
+DTSTAMP:20260428T170000Z
 DTSTART;TZID=America/New_York:20260428T170000
 DTEND;TZID=America/New_York:20260428T183000
 SUMMARY:'Quin Chat: The Atlantic's Nick Thompson 
@@ -88,6 +88,45 @@ DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nStatus: You are Confirmed\
  ship in a rapidly changing world.\n\n*This event is complimentary and rese
  rved for members only. Light bites and refreshments will be served.
 URL:https://members.thequinhouse.com/events/180909
+CATEGORIES:‘Quin Chat
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-180910@thequinhouse.com
+DTSTAMP:20260429T130000Z
+DTSTART;TZID=America/New_York:20260429T130000
+DTEND;TZID=America/New_York:20260429T150000
+SUMMARY:90 Minutes of Innovation: Networks\, Intelligence & the Future of D
+ ecision-Making 
+LOCATION:The Pub
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nStatus: You are Confirmed\
+ nEvent URL: https://members.thequinhouse.com/events/180910\n\n1:00PM Progr
+ am\, 2:30PM Networking\nWhat can we learn from the individuals shaping AI\
+ , enterprise transformation\, and modern engineering at the highest levels
+ ?\n\nIn the latest edition of 90 Minutes of Innovation\, John Werner - ven
+ ture capitalist\, MIT lecturer\, and Forbes AI columnist - will lead a ser
+ ies of one-on-one conversations with three remarkable leaders\, each offer
+ ing a distinct perspective on innovation\, leadership\, and the moment we�
+ ��re in.\n\nJon Hirschtick\, founder of SolidWorks and Onshape\, is a pion
+ eering force in computer-aided design who has transformed how engineers an
+ d designers build the world. An MIT alumnus\, he used winnings from the In
+ stitute’s legendary blackjack team to launch his first company - an expe
+ rience that later inspired the film 21.\n\nSandy Pentland\, MIT professor 
+ with appointments at MIT and Stanford\, and one of the most cited data sci
+ entists globally\, whose work on human behavior\, social networks\, and �
+ �reality mining” has fundamentally reshaped how we understand trust\, ci
+ ties\, and collective intelligence. He will speak on his recent book\, Sh
+ ared Wisdom: Cultural Evolution in the Age of AI.\n\nDavid Kenny\, Executi
+ ve Chairman of Nielsen and former CEO of IBM Watson\, with prior leadershi
+ p roles at Akamai and The Weather Channel\, has operated at the forefront 
+ of AI\, data\, and global enterprise transformation.\n\nThrough individual
+  interviews\, the afternoon will explore their personal journeys\, the ide
+ as that have defined their work\, and how each sees the rapidly evolving l
+ andscape of AI\, technology\, and innovation today. Expect an engaging\, i
+ nsight-rich experience that connects lived experience with forward-looking
+  perspective - offering a rare window into how these leaders think\, build
+ \, and lead.\n\n*This event is complimentary and reserved for members only
+ . Light bites and refreshments will be served.
+URL:https://members.thequinhouse.com/events/180910
 CATEGORIES:‘Quin Chat
 END:VEVENT
 END:VCALENDAR

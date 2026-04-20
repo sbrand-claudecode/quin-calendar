@@ -34,6 +34,40 @@ jobs:
           OUT_DIR: ./public
         run: node scrape.js
 
+      - name: Check for availability transitions
+        id: monitor
+        run: |
+          node monitor.js
+          if [ -f email_body.txt ] && [ -f email_subject.txt ]; then
+            echo "has_transitions=true" >> "$GITHUB_OUTPUT"
+            {
+              echo 'subject<<MONITOR_EOF'
+              cat email_subject.txt
+              echo 'MONITOR_EOF'
+            } >> "$GITHUB_OUTPUT"
+            {
+              echo 'body<<MONITOR_EOF'
+              cat email_body.txt
+              echo 'MONITOR_EOF'
+            } >> "$GITHUB_OUTPUT"
+          else
+            echo "has_transitions=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Send notification email
+        if: steps.monitor.outputs.has_transitions == 'true'
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          secure: true
+          username: ${{ secrets.QUIN_EMAIL }}
+          password: ${{ secrets.GMAIL_APP_PASSWORD }}
+          subject: ${{ steps.monitor.outputs.subject }}
+          to: ${{ secrets.QUIN_EMAIL }}
+          from: Quin Calendar Monitor <${{ secrets.QUIN_EMAIL }}>
+          body: ${{ steps.monitor.outputs.body }}
+
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:
