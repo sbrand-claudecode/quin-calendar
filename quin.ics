@@ -41,6 +41,29 @@ URL:https://members.thequinhouse.com/events/179731
 CATEGORIES:Member Mixer
 END:VEVENT
 BEGIN:VEVENT
+UID:quin-event-179738@thequinhouse.com
+DTSTAMP:20260423T173000Z
+DTSTART;TZID=America/New_York:20260423T173000
+DTEND;TZID=America/New_York:20260423T190000
+SUMMARY: 'Quin Impact Fund x MassChallenge: Discovery & Innovation Pitch Co
+ mpetition
+LOCATION:The Living Room
+DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nStatus: You are on 
+ Waitlist\nEvent URL: https://members.thequinhouse.com/events/179738\n\n5:3
+ 0PM Reception\, 6:00PM Discussion\nJoin us for the ‘Quin Impact Fund x M
+ assChallenge Discovery & Innovation Pitch Competition\, where five groundb
+ reaking startups - Bystro AI\, H2C Energy\, harmony desalting\, Materializ
+ e Bio\, and TriCan Health - will pitch their visionary projects for a chan
+ ce to receive funding from the ‘Quin Impact Fund. As a member in attenda
+ nce\, you’ll play a vital role in shaping the future of innovation by ca
+ sting your vote to help determine the allocation of funds. Don’t miss th
+ is exciting opportunity to witness the next wave of impact-driven solution
+ s in action!\n\n*This event is complimentary and reserved for members only
+ . Light bites and refreshments will be served.
+URL:https://members.thequinhouse.com/events/179738
+CATEGORIES:‘Quin Impact Fund
+END:VEVENT
+BEGIN:VEVENT
 UID:quin-event-180909@thequinhouse.com
 DTSTAMP:20260428T170000Z
 DTSTART;TZID=America/New_York:20260428T170000
