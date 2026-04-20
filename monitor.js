@@ -167,8 +167,8 @@ async function main() {
   bodyLines.push('Automated notification from quin-calendar monitor.');
 
   const subject = transitions.length === 1
-    ? `[Quin] Spots opened: ${transitions[0].summary}`
-    : `[Quin] Spots opened for ${transitions.length} events`;
+    ? `[quin-monitor] Spots opened: ${transitions[0].summary}`
+    : `[quin-monitor] Spots opened for ${transitions.length} events`;
 
   fs.writeFileSync('email_subject.txt', subject, 'utf8');
   fs.writeFileSync('email_body.txt', bodyLines.join('\n'), 'utf8');
