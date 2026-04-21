@@ -11,6 +11,23 @@ jobs:
   send:
     runs-on: ubuntu-latest
     steps:
+      - name: Inspect secret shape (no value leaked)
+        env:
+          PW: ${{ secrets.GMAIL_APP_PASSWORD }}
+          EMAIL: ${{ secrets.QUIN_EMAIL }}
+        run: |
+          # Print only byte counts and whitespace markers, never the value.
+          # Expected password length: 16 (no spaces) or 19 (with 3 spaces).
+          # Anything else (17, 20, 21...) = stray whitespace/newline in the secret.
+          printf '%s' "$PW" | wc -c | awk '{print "GMAIL_APP_PASSWORD byte length:", $1}'
+          printf '%s' "$EMAIL" | wc -c | awk '{print "QUIN_EMAIL byte length:", $1}'
+          # Check for trailing newline / CR specifically
+          if printf '%s' "$PW" | tail -c 1 | od -An -c | grep -qE '\\n|\\r| '; then
+            echo "WARNING: GMAIL_APP_PASSWORD ends with whitespace/newline"
+          else
+            echo "GMAIL_APP_PASSWORD: no trailing whitespace"
+          fi
+
       - name: Send test email
         uses: dawidd6/action-send-mail@v3
         with:
