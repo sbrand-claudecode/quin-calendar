@@ -450,41 +450,93 @@ async function fetchAllEvents(token) {
   return detailed;
 }
 
-// Parse the raw value of localStorage['pv.token'] into the decoded bearer string.
-// The stored value is a JSON object with a single null-character key whose
-// value is the base64-encoded bearer token.
+// Decode a token value stored by Peoplevine's frontend. localStorage entries
+// like pv.token / pv.refresh are wrapped as {"\u0000": "<inner>", "ttl": ...}.
+// The inner value is EITHER base64-encoded (pv.token stores the JWT that way)
+// OR a raw string (pv.refresh appears to store "cu__..." tokens directly).
+// This function accepts:
+//   - the full JSON envelope ({"\u0000":"...","ttl":...})
+//   - just the inner string
+// and returns the token in the exact form the /api/token endpoint expects.
 function decodeStoredToken(raw) {
-  const parsed = JSON.parse(raw);
-  const tokenB64 = parsed['\u0000'];
-  if (!tokenB64) {
-    throw new Error("Stored token JSON is missing the expected '\\u0000' key");
+  const trimmed = raw.trim();
+  let inner;
+  if (trimmed.startsWith('{')) {
+    const parsed = JSON.parse(trimmed);
+    inner = parsed['\u0000'];
+    if (!inner) {
+      throw new Error("Stored token JSON is missing the expected '\\u0000' key");
+    }
+  } else {
+    inner = trimmed;
   }
-  return Buffer.from(tokenB64, 'base64').toString('utf8');
+  // Peoplevine refresh tokens are prefixed "cu__" and used raw by the server.
+  // JWT access tokens are base64-wrapped in the envelope. Detect by prefix.
+  if (inner.startsWith('cu__')) {
+    return inner;
+  }
+  // Otherwise treat as base64-wrapped (matches pv.token behavior)
+  return Buffer.from(inner, 'base64').toString('utf8');
+}
+
+// Exchange a long-lived refresh token for a fresh 30-minute access token
+// via Peoplevine's OAuth 2.0 refresh endpoint.
+async function refreshAccessToken(refreshToken) {
+  const { default: fetch } = await import('node-fetch');
+  const res = await fetch(`${BASE_URL}/api/token`, {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+      'Accept': 'application/json',
+    },
+    body: JSON.stringify({
+      grant_type: 'refresh_token',
+      refresh_token: refreshToken,
+    }),
+  });
+  if (!res.ok) {
+    const body = await res.text();
+    throw new Error(`Token refresh failed: HTTP ${res.status} — ${body.substring(0, 500)}`);
+  }
+  const data = await res.json();
+  if (!data.access_token) {
+    throw new Error('Refresh response missing access_token field');
+  }
+  return {
+    accessToken: data.access_token,
+    newRefreshToken: data.refresh_token,
+    expiresIn: data.expires_in,
+  };
 }
 
 async function main() {
-  // Fast path: if the QUIN_SESSION_TOKEN secret is set, use it directly and
-  // skip the browser login entirely. Quin House aggressively detects headless
-  // browsers and serves a broken login UI to them, so scripted login is no
-  // longer viable. The workaround: the user captures their pv.token from a
-  // real browser session and stores it as a secret. It expires eventually —
-  // when the scraper starts 401-ing, refresh the secret.
-  const cachedRaw = process.env.QUIN_SESSION_TOKEN;
-  const cachedLen = cachedRaw ? cachedRaw.trim().length : 0;
-  console.log(`QUIN_SESSION_TOKEN env var: ${cachedLen > 0 ? `present (${cachedLen} chars)` : 'MISSING or empty'}`);
-  if (cachedRaw && cachedRaw.trim()) {
-    console.log('Using cached session token from QUIN_SESSION_TOKEN secret (browser login skipped)...');
-    let token;
+  // Fast path: use a stored long-lived refresh token (from localStorage.pv.refresh
+  // of a real browser session) to mint a fresh 30-minute access token each run.
+  // This avoids the headless-browser detection that broke the scripted login flow.
+  const refreshRaw = process.env.QUIN_REFRESH_TOKEN;
+  const refreshLen = refreshRaw ? refreshRaw.trim().length : 0;
+  console.log(`QUIN_REFRESH_TOKEN env var: ${refreshLen > 0 ? `present (${refreshLen} chars)` : 'MISSING or empty'}`);
+  if (refreshRaw && refreshRaw.trim()) {
+    let refreshToken;
     try {
-      token = decodeStoredToken(cachedRaw.trim());
+      refreshToken = decodeStoredToken(refreshRaw.trim());
     } catch (e) {
       throw new Error(
-        `QUIN_SESSION_TOKEN is not a valid pv.token blob. ` +
-        `Expected the raw JSON value of localStorage.getItem('pv.token'). ` +
-        `Parse error: ${e.message}`
+        `QUIN_REFRESH_TOKEN is not parseable. ` +
+        `Expected the raw value of localStorage.getItem('pv.refresh'), ` +
+        `or the plain refresh-token string. Parse error: ${e.message}`
       );
     }
-    return writeOutputs(token);
+    console.log('Refreshing access token via /api/token (browser login skipped)...');
+    const { accessToken, newRefreshToken, expiresIn } = await refreshAccessToken(refreshToken);
+    console.log(`  Access token acquired, expires in ${expiresIn}s`);
+    if (newRefreshToken && newRefreshToken !== refreshToken) {
+      console.log('  NOTE: Peoplevine rotated the refresh token. If the next run fails with 401,');
+      console.log('        the old token was invalidated and we need to auto-persist the new one.');
+      console.log('        For now, the stored secret remains the original — re-extract pv.refresh');
+      console.log('        from your browser if scheduled runs start failing.');
+    }
+    return writeOutputs(accessToken);
   }
 
   console.log('Launching browser...');
