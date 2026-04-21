@@ -170,8 +170,12 @@ async function main() {
     ? `[quin-monitor] Spots opened: ${transitions[0].summary}`
     : `[quin-monitor] Spots opened for ${transitions.length} events`;
 
-  fs.writeFileSync('email_subject.txt', subject, 'utf8');
-  fs.writeFileSync('email_body.txt', bodyLines.join('\n'), 'utf8');
+  // Append a trailing newline to both files so the workflow's heredoc-style
+  // $GITHUB_OUTPUT blocks have the closing delimiter on its own line.
+  // Without it, cat + echo concatenates delimiter onto the last content line
+  // and GitHub Actions rejects the output with "Matching delimiter not found".
+  fs.writeFileSync('email_subject.txt', subject + '\n', 'utf8');
+  fs.writeFileSync('email_body.txt', bodyLines.join('\n') + '\n', 'utf8');
 }
 
 main().catch((e) => {
