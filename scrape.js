@@ -278,9 +278,11 @@ function buildIcs(events, calendarName = "The 'Quin House Events") {
 // ── Main ─────────────────────────────────────────────────────────────────────
 
 async function getToken(page) {
-  // Navigate to login page
-  console.log('  Navigating to login page...');
-  await page.goto(`${BASE_URL}/login`, { waitUntil: 'domcontentloaded' });
+  // Navigate to site root — Quin House redirects unauthenticated users to the
+  // login form automatically. Hitting /login directly seems to trigger a
+  // different (broken) UI variant.
+  console.log('  Navigating to site root...');
+  await page.goto(BASE_URL, { waitUntil: 'domcontentloaded' });
   console.log('  Current URL:', page.url());
 
   console.log('  Waiting for email field...');
