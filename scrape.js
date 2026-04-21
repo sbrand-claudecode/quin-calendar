@@ -288,12 +288,14 @@ async function getToken(page) {
   await page.waitForSelector('#login_username, input[type="text"]', { timeout: 15000 });
   await page.waitForTimeout(1500);
 
-  // Step 1: Enter email and click CONTINUE
+  // Step 1: Enter email and submit (belt-and-suspenders — handles both the
+  // old UI where Enter submits, and the new UI that requires clicking CONTINUE)
   console.log('  Filling email...');
   await page.fill('#login_username, input[type="text"]', EMAIL);
   await page.waitForTimeout(800);
-  console.log('  Clicking CONTINUE to submit email...');
-  await page.click('button[type="submit"]');
+  console.log('  Submitting email (Enter + click)...');
+  await page.press('#login_username, input[type="text"]', 'Enter').catch(() => {});
+  await page.click('button[type="submit"]', { timeout: 2000 }).catch(() => {});
 
   console.log('  Waiting for password field...');
   try {
@@ -442,11 +444,34 @@ async function fetchAllEvents(token) {
 
 async function main() {
   console.log('Launching browser...');
-  const browser = await chromium.launch({ headless: true });
+  // Stealth flags: Quin House serves a different (broken) login UI to
+  // detectable headless browsers. Masking webdriver/automation markers
+  // and using a current-Chrome user-agent gets us the normal UI.
+  const browser = await chromium.launch({
+    headless: true,
+    args: [
+      '--disable-blink-features=AutomationControlled',
+      '--no-sandbox',
+    ],
+  });
   const context = await browser.newContext({
-    userAgent: 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36',
-    viewport: { width: 1280, height: 800 },
+    userAgent: 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36',
+    viewport: { width: 1440, height: 900 },
     locale: 'en-US',
+    extraHTTPHeaders: {
+      'Accept-Language': 'en-US,en;q=0.9',
+      'Sec-CH-UA': '"Chromium";v="134", "Not=A?Brand";v="24", "Google Chrome";v="134"',
+      'Sec-CH-UA-Mobile': '?0',
+      'Sec-CH-UA-Platform': '"macOS"',
+    },
+  });
+  // Hide automation fingerprints before any page JS runs
+  await context.addInitScript(() => {
+    Object.defineProperty(navigator, 'webdriver', { get: () => undefined });
+    Object.defineProperty(navigator, 'plugins', { get: () => [1, 2, 3, 4, 5] });
+    Object.defineProperty(navigator, 'languages', { get: () => ['en-US', 'en'] });
+    // eslint-disable-next-line no-undef
+    window.chrome = window.chrome || { runtime: {} };
   });
   const page = await context.newPage();
 
