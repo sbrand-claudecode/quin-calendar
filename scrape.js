@@ -450,7 +450,41 @@ async function fetchAllEvents(token) {
   return detailed;
 }
 
+// Parse the raw value of localStorage['pv.token'] into the decoded bearer string.
+// The stored value is a JSON object with a single null-character key whose
+// value is the base64-encoded bearer token.
+function decodeStoredToken(raw) {
+  const parsed = JSON.parse(raw);
+  const tokenB64 = parsed['\u0000'];
+  if (!tokenB64) {
+    throw new Error("Stored token JSON is missing the expected '\\u0000' key");
+  }
+  return Buffer.from(tokenB64, 'base64').toString('utf8');
+}
+
 async function main() {
+  // Fast path: if the QUIN_SESSION_TOKEN secret is set, use it directly and
+  // skip the browser login entirely. Quin House aggressively detects headless
+  // browsers and serves a broken login UI to them, so scripted login is no
+  // longer viable. The workaround: the user captures their pv.token from a
+  // real browser session and stores it as a secret. It expires eventually —
+  // when the scraper starts 401-ing, refresh the secret.
+  const cachedRaw = process.env.QUIN_SESSION_TOKEN;
+  if (cachedRaw && cachedRaw.trim()) {
+    console.log('Using cached session token from QUIN_SESSION_TOKEN secret (browser login skipped)...');
+    let token;
+    try {
+      token = decodeStoredToken(cachedRaw.trim());
+    } catch (e) {
+      throw new Error(
+        `QUIN_SESSION_TOKEN is not a valid pv.token blob. ` +
+        `Expected the raw JSON value of localStorage.getItem('pv.token'). ` +
+        `Parse error: ${e.message}`
+      );
+    }
+    return writeOutputs(token);
+  }
+
   console.log('Launching browser...');
   // Stealth flags: Quin House serves a different (broken) login UI to
   // detectable headless browsers. Masking webdriver/automation markers
@@ -492,6 +526,10 @@ async function main() {
     await browser.close();
   }
 
+  await writeOutputs(token);
+}
+
+async function writeOutputs(token) {
   console.log('Fetching events from API...');
   const events = await fetchAllEvents(token);
   console.log(`Processing ${events.length} events`);

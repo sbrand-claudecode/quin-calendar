@@ -31,6 +31,7 @@ jobs:
         env:
           QUIN_EMAIL: ${{ secrets.QUIN_EMAIL }}
           QUIN_PASSWORD: ${{ secrets.QUIN_PASSWORD }}
+          QUIN_SESSION_TOKEN: ${{ secrets.QUIN_SESSION_TOKEN }}
           OUT_DIR: ./public
         run: node scrape.js
 
