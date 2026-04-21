@@ -10,7 +10,9 @@
   "dependencies": {
     "he": "^1.2.0",
     "node-fetch": "^3.3.2",
-    "playwright": "^1.41.0"
+    "playwright": "^1.41.0",
+    "playwright-extra": "^4.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
   },
   "engines": {
     "node": ">=18"

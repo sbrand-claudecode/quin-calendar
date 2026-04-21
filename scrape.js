@@ -7,7 +7,13 @@
  * the JSON API, and writes a calendar.ics file for Google Calendar.
  */
 
-const { chromium } = require('playwright');
+// Use playwright-extra so we can layer on the stealth plugin. Quin House
+// serves a different (broken) login UI to browsers it detects as automated;
+// the stealth plugin masks ~hundreds of fingerprint signals that vanilla
+// Playwright exposes.
+const { chromium } = require('playwright-extra');
+const stealth = require('puppeteer-extra-plugin-stealth')();
+chromium.use(stealth);
 const fs = require('fs');
 const path = require('path');
 const he = require('he');
