@@ -284,15 +284,16 @@ async function getToken(page) {
   console.log('  Current URL:', page.url());
 
   console.log('  Waiting for email field...');
-  await page.waitForSelector('input[type="text"]', { timeout: 15000 });
+  // Prefer the stable ID when present, fall back to generic text input
+  await page.waitForSelector('#login_username, input[type="text"]', { timeout: 15000 });
   await page.waitForTimeout(1500);
 
-  // Step 1: Enter email and submit
+  // Step 1: Enter email and click CONTINUE
   console.log('  Filling email...');
-  await page.fill('input[type="text"]', EMAIL);
+  await page.fill('#login_username, input[type="text"]', EMAIL);
   await page.waitForTimeout(800);
-  console.log('  Pressing Enter to submit email...');
-  await page.keyboard.press('Enter');
+  console.log('  Clicking CONTINUE to submit email...');
+  await page.click('button[type="submit"]');
 
   console.log('  Waiting for password field...');
   try {
@@ -330,8 +331,14 @@ async function getToken(page) {
   console.log('  Filling password...');
   await page.fill('input[type="password"]', PASSWORD);
   await page.waitForTimeout(800);
-  console.log('  Pressing Enter to submit password...');
-  await page.keyboard.press('Enter');
+  console.log('  Clicking submit to send password...');
+  // Click the submit button if present, fall back to Enter for safety
+  try {
+    await page.click('button[type="submit"]', { timeout: 3000 });
+  } catch (e) {
+    console.log('  No submit button found, pressing Enter instead...');
+    await page.keyboard.press('Enter');
+  }
 
   // Wait for redirect away from login
   console.log('  Waiting for post-login redirect...');
