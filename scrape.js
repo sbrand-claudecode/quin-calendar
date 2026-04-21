@@ -295,7 +295,34 @@ async function getToken(page) {
   await page.keyboard.press('Enter');
 
   console.log('  Waiting for password field...');
-  await page.waitForSelector('input[type="password"]', { timeout: 15000 });
+  try {
+    await page.waitForSelector('input[type="password"]', { timeout: 15000 });
+  } catch (err) {
+    // Diagnostic dump — Quin House may have changed the login flow
+    const screenshotPath = path.join(OUT_DIR, 'login-email-step-debug.png');
+    fs.mkdirSync(OUT_DIR, { recursive: true });
+    await page.screenshot({ path: screenshotPath, fullPage: true });
+    console.error('  Password field never appeared. Current URL:', page.url());
+    console.error('  Page title:', await page.title());
+    console.error('  Screenshot saved to:', screenshotPath);
+    const bodyText = await page.evaluate(() => document.body.innerText.substring(0, 2000));
+    console.error('  Page body text:', bodyText);
+    const debug = await page.evaluate(() => {
+      const inputs = [...document.querySelectorAll('input')].map(i =>
+        `<input type="${i.type}" name="${i.name}" id="${i.id}" placeholder="${i.placeholder}" value="${i.value ? '(filled)' : '(empty)'}">`
+      );
+      const buttons = [...document.querySelectorAll('button, input[type="submit"], input[type="button"], [role="button"]')].map(b =>
+        `<${b.tagName.toLowerCase()} type="${b.type || ''}" text="${(b.innerText || b.value || '').trim()}">`
+      );
+      const alerts = [...document.querySelectorAll('[class*="error"],[class*="alert"],[class*="message"],[role="alert"]')]
+        .map(el => el.innerText.trim()).filter(Boolean);
+      return { inputs, buttons, alerts };
+    });
+    console.error('  Inputs on page:', JSON.stringify(debug.inputs, null, 2));
+    console.error('  Buttons on page:', JSON.stringify(debug.buttons, null, 2));
+    console.error('  Alerts on page:', JSON.stringify(debug.alerts, null, 2));
+    throw err;
+  }
   console.log('  Password field appeared, current URL:', page.url());
   await page.waitForTimeout(800);
 
