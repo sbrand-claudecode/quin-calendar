@@ -470,6 +470,8 @@ async function main() {
   // real browser session and stores it as a secret. It expires eventually —
   // when the scraper starts 401-ing, refresh the secret.
   const cachedRaw = process.env.QUIN_SESSION_TOKEN;
+  const cachedLen = cachedRaw ? cachedRaw.trim().length : 0;
+  console.log(`QUIN_SESSION_TOKEN env var: ${cachedLen > 0 ? `present (${cachedLen} chars)` : 'MISSING or empty'}`);
   if (cachedRaw && cachedRaw.trim()) {
     console.log('Using cached session token from QUIN_SESSION_TOKEN secret (browser login skipped)...');
     let token;
