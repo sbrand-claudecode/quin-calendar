@@ -28,17 +28,26 @@ jobs:
             echo "GMAIL_APP_PASSWORD: no trailing whitespace"
           fi
 
-      - name: Send test email
-        uses: dawidd6/action-send-mail@v3
-        with:
-          server_address: smtp.gmail.com
-          server_port: 465
-          secure: true
-          username: ${{ secrets.QUIN_EMAIL }}
-          password: ${{ secrets.GMAIL_APP_PASSWORD }}
-          subject: "[Quin] Test email — monitor path verification"
-          to: ${{ secrets.QUIN_EMAIL }}
-          from: Quin Calendar Monitor <${{ secrets.QUIN_EMAIL }}>
-          body: |
-            This is a test email from the quin-calendar diagnostic workflow.
-            If you received this, Gmail SMTP auth with GMAIL_APP_PASSWORD is working.
+      - name: Send test email (via nodemailer, trims secret)
+        env:
+          GMAIL_USER: ${{ secrets.QUIN_EMAIL }}
+          GMAIL_PASS: ${{ secrets.GMAIL_APP_PASSWORD }}
+        run: |
+          npm install nodemailer --no-save
+          node -e '
+            const nodemailer = require("nodemailer");
+            const user = (process.env.GMAIL_USER || "").trim();
+            const pass = (process.env.GMAIL_PASS || "").replace(/\s+/g, "");
+            console.log("cleaned password length:", pass.length);
+            const t = nodemailer.createTransport({
+              host: "smtp.gmail.com", port: 465, secure: true,
+              auth: { user, pass },
+            });
+            t.sendMail({
+              from: `Quin Calendar Monitor <${user}>`,
+              to: user,
+              subject: "[Quin] Test email — monitor path verification",
+              text: "This is a test email from the quin-calendar diagnostic workflow.\nIf you received this, Gmail SMTP auth with GMAIL_APP_PASSWORD is working.",
+            }).then(info => console.log("sent:", info.messageId))
+              .catch(err => { console.error(err); process.exit(1); });
+          '

@@ -68,17 +68,29 @@ jobs:
 
       - name: Send notification email
         if: steps.monitor.outputs.has_transitions == 'true'
-        uses: dawidd6/action-send-mail@v3
-        with:
-          server_address: smtp.gmail.com
-          server_port: 465
-          secure: true
-          username: ${{ secrets.QUIN_EMAIL }}
-          password: ${{ secrets.GMAIL_APP_PASSWORD }}
-          subject: ${{ steps.monitor.outputs.subject }}
-          to: ${{ secrets.QUIN_EMAIL }}
-          from: Quin Calendar Monitor <${{ secrets.QUIN_EMAIL }}>
-          body: ${{ steps.monitor.outputs.body }}
+        env:
+          GMAIL_USER: ${{ secrets.QUIN_EMAIL }}
+          GMAIL_PASS: ${{ secrets.GMAIL_APP_PASSWORD }}
+          MAIL_SUBJECT: ${{ steps.monitor.outputs.subject }}
+          MAIL_BODY: ${{ steps.monitor.outputs.body }}
+        run: |
+          npm install nodemailer --no-save
+          node -e '
+            const nodemailer = require("nodemailer");
+            const user = (process.env.GMAIL_USER || "").trim();
+            const pass = (process.env.GMAIL_PASS || "").replace(/\s+/g, "");
+            const t = nodemailer.createTransport({
+              host: "smtp.gmail.com", port: 465, secure: true,
+              auth: { user, pass },
+            });
+            t.sendMail({
+              from: `Quin Calendar Monitor <${user}>`,
+              to: user,
+              subject: (process.env.MAIL_SUBJECT || "").trim(),
+              text: process.env.MAIL_BODY || "",
+            }).then(info => console.log("sent:", info.messageId))
+              .catch(err => { console.error(err); process.exit(1); });
+          '
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
