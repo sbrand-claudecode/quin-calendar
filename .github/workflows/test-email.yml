@@ -1,0 +1,27 @@
+name: Test Email (diagnostic)
+
+# Diagnostic-only workflow for isolating Gmail SMTP auth from the main
+# update-calendar workflow's dynamic content. Delete once the 535 5.7.8
+# regression is diagnosed and fixed.
+
+on:
+  workflow_dispatch:
+
+jobs:
+  send:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send test email
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          secure: true
+          username: ${{ secrets.QUIN_EMAIL }}
+          password: ${{ secrets.GMAIL_APP_PASSWORD }}
+          subject: "[Quin] Test email — monitor path verification"
+          to: ${{ secrets.QUIN_EMAIL }}
+          from: Quin Calendar Monitor <${{ secrets.QUIN_EMAIL }}>
+          body: |
+            This is a test email from the quin-calendar diagnostic workflow.
+            If you received this, Gmail SMTP auth with GMAIL_APP_PASSWORD is working.
