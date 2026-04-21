@@ -30,14 +30,14 @@ DTSTART;TZID=America/New_York:20260422T173000
 DTEND;TZID=America/New_York:20260422T193000
 SUMMARY:Member Mixer: Passport to Conversation
 LOCATION:Scottie's
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 1 spot left\
- nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/ev
- ents/179731\n\nBoard Quintansa Flight 217 and take off for an evening of t
- ravel-inspired conversation and connection. This Member Mixer brings guest
- s together through curated one-on-one exchanges\, inviting you to share fa
- vorite destinations\, unforgettable journeys\, and dream adventures with f
- ellow members.\n\n*Please note that this event is complimentary and reserv
- ed for members only.
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 4 spots left
+ \nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/e
+ vents/179731\n\nBoard Quintansa Flight 217 and take off for an evening of 
+ travel-inspired conversation and connection. This Member Mixer brings gues
+ ts together through curated one-on-one exchanges\, inviting you to share f
+ avorite destinations\, unforgettable journeys\, and dream adventures with 
+ fellow members.\n\n*Please note that this event is complimentary and reser
+ ved for members only.
 URL:https://members.thequinhouse.com/events/179731
 CATEGORIES:Member Mixer
 END:VEVENT
@@ -63,6 +63,25 @@ DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nStatus: You are on
  . Light bites and refreshments will be served.
 URL:https://members.thequinhouse.com/events/179738
 CATEGORIES:‘Quin Impact Fund
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-183272@thequinhouse.com
+DTSTAMP:20260427T180000Z
+DTSTART;TZID=America/New_York:20260427T180000
+DTEND;TZID=America/New_York:20260427T200000
+SUMMARY:Member Meet Up: King's Bowling
+LOCATION:Offsite: King's Bowling\, Back Bay
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 21 spots lef
+ t\nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/
+ events/183272\n\nSpare yourself the ordinary evening and join us at King�
+ �s Bowling for a Member Meet-Up that’s equal parts pins\, pours\, and pl
+ ayful rivalry. Whether you are aiming for strikes or purely here for a goo
+ d time\, a night of connection and fun awaits. \n\n*Bowling and shoe renta
+ ls for this event are complimentary and reserved for members only. Complim
+ entary light bites and one drink per member will be offered. Cash bar avai
+ lable for the remainder of the evening.
+URL:https://members.thequinhouse.com/events/183272
+CATEGORIES:Member Mixer
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-180909@thequinhouse.com
