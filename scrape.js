@@ -479,6 +479,68 @@ function decodeStoredToken(raw) {
   return Buffer.from(inner, 'base64').toString('utf8');
 }
 
+// Write the rotated refresh token back into the QUIN_REFRESH_TOKEN repo secret
+// so the next scheduled run starts with a valid token. Peoplevine rotates the
+// refresh token on every /api/token call (single-use), so without this the
+// second run after any successful refresh would fail with invalid_refresh_token.
+async function persistRefreshToken(newRefreshToken) {
+  const pat = process.env.REPO_SECRETS_PAT;
+  const repo = process.env.GITHUB_REPOSITORY;
+  if (!pat) {
+    console.log('  REPO_SECRETS_PAT not set — new refresh token NOT persisted.');
+    console.log('  The next scheduled run will fail. Manually update QUIN_REFRESH_TOKEN,');
+    console.log('  or add a PAT secret so this runs persist automatically.');
+    return;
+  }
+  if (!repo) {
+    console.log('  GITHUB_REPOSITORY not set — cannot persist refresh token.');
+    return;
+  }
+  const { default: fetch } = await import('node-fetch');
+  const sodium = require('libsodium-wrappers');
+  await sodium.ready;
+
+  const keyRes = await fetch(
+    `https://api.github.com/repos/${repo}/actions/secrets/public-key`,
+    {
+      headers: {
+        'Authorization': `Bearer ${pat}`,
+        'Accept': 'application/vnd.github+json',
+        'X-GitHub-Api-Version': '2022-11-28',
+      },
+    }
+  );
+  if (!keyRes.ok) {
+    const body = await keyRes.text();
+    throw new Error(`Fetch public key failed: HTTP ${keyRes.status} — ${body.substring(0, 300)}`);
+  }
+  const { key, key_id } = await keyRes.json();
+
+  const binKey = sodium.from_base64(key, sodium.base64_variants.ORIGINAL);
+  const binSecret = sodium.from_string(newRefreshToken);
+  const encBytes = sodium.crypto_box_seal(binSecret, binKey);
+  const encrypted_value = sodium.to_base64(encBytes, sodium.base64_variants.ORIGINAL);
+
+  const putRes = await fetch(
+    `https://api.github.com/repos/${repo}/actions/secrets/QUIN_REFRESH_TOKEN`,
+    {
+      method: 'PUT',
+      headers: {
+        'Authorization': `Bearer ${pat}`,
+        'Accept': 'application/vnd.github+json',
+        'X-GitHub-Api-Version': '2022-11-28',
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify({ encrypted_value, key_id }),
+    }
+  );
+  if (!putRes.ok) {
+    const body = await putRes.text();
+    throw new Error(`Update secret failed: HTTP ${putRes.status} — ${body.substring(0, 300)}`);
+  }
+  console.log('  QUIN_REFRESH_TOKEN secret updated for next run.');
+}
+
 // Exchange a long-lived refresh token for a fresh 30-minute access token
 // via Peoplevine's OAuth 2.0 refresh endpoint.
 async function refreshAccessToken(refreshToken) {
@@ -531,10 +593,14 @@ async function main() {
     const { accessToken, newRefreshToken, expiresIn } = await refreshAccessToken(refreshToken);
     console.log(`  Access token acquired, expires in ${expiresIn}s`);
     if (newRefreshToken && newRefreshToken !== refreshToken) {
-      console.log('  NOTE: Peoplevine rotated the refresh token. If the next run fails with 401,');
-      console.log('        the old token was invalidated and we need to auto-persist the new one.');
-      console.log('        For now, the stored secret remains the original — re-extract pv.refresh');
-      console.log('        from your browser if scheduled runs start failing.');
+      console.log('  Peoplevine rotated the refresh token — persisting the new one...');
+      try {
+        await persistRefreshToken(newRefreshToken);
+      } catch (e) {
+        console.warn(`  WARNING: failed to persist rotated refresh token: ${e.message}`);
+        console.warn('  This run will succeed, but the NEXT run will fail unless you');
+        console.warn('  manually update QUIN_REFRESH_TOKEN from your browser.');
+      }
     }
     return writeOutputs(accessToken);
   }

@@ -32,6 +32,7 @@ jobs:
           QUIN_EMAIL: ${{ secrets.QUIN_EMAIL }}
           QUIN_PASSWORD: ${{ secrets.QUIN_PASSWORD }}
           QUIN_REFRESH_TOKEN: ${{ secrets.QUIN_REFRESH_TOKEN }}
+          REPO_SECRETS_PAT: ${{ secrets.REPO_SECRETS_PAT }}
           OUT_DIR: ./public
         run: node scrape.js
 
