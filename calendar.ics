@@ -43,74 +43,6 @@ URL:https://members.thequinhouse.com/events/177695
 CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
-UID:quin-event-182348@thequinhouse.com
-DTSTAMP:20260421T160000Z
-DTSTART;VALUE=DATE:20260421
-DTEND;VALUE=DATE:20260422
-SUMMARY:BBQ Specials 
-LOCATION:The Pub
-DESCRIPTION:Category: Food & Beverage\nPrice: Free / Included\nStatus: Avai
- lable\nTime: 4 PM – 9 PM\nEvent URL: https://members.thequinhouse.com/ev
- ents/182348\n\nExclusively Available Tuesday Evenings\nSettle in and get y
- our hands a little messy - in the best way.\n\nBegin with a warm corn brea
- d skillet and hot honey butter\, alongside the classics: potato salad\, pi
- ckles\, and coleslaw. From there\, choose two barbecue favorites for your 
- main indulgence—espresso-rubbed beef brisket\, St. Louis ribs cooked low
-  and slow\, or pulled pork sliders worth every bite. A little smoky\, a li
- ttle saucy\, and just the right amount of refined.\n\nMake a Reservation.
-URL:https://members.thequinhouse.com/events/182348
-CATEGORIES:Food & Beverage
-END:VEVENT
-BEGIN:VEVENT
-UID:quin-event-180904@thequinhouse.com
-DTSTAMP:20260421T170000Z
-DTSTART;TZID=America/New_York:20260421T170000
-DTEND;TZID=America/New_York:20260421T190000
-SUMMARY:Member Mingle
-LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 12 spots lef
- t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
- 80904\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
-  in an ambiant reserved space. This is your opportunity to connect with fe
- llow members\, exchange ideas\, and cultivate meaningful relationships.\n\
- nWhether you're sparking new collaborations\, sharing insights\, or simply
-  enjoying great conversation\, the Member Mingle is the perfect way to eng
- age with our dynamic community. Don’t miss the chance to connect\, inspi
- re\, and be inspired!\n\n*This event is complimentary and reserved for mem
- bers only. Complimentary light bites will be served\, and beverages will b
- e available for purchase.
-URL:https://members.thequinhouse.com/events/180904
-CATEGORIES:Member Mixer
-END:VEVENT
-BEGIN:VEVENT
-UID:quin-event-179449@thequinhouse.com
-DTSTAMP:20260421T173000Z
-DTSTART;TZID=America/New_York:20260421T173000
-DTEND;TZID=America/New_York:20260421T183000
-SUMMARY:Author's Circle Book Club: "Impersonation" with Heidi Pitlor
-LOCATION:The Terrace
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 15 spots left\nS
- tatus: Available\nEvent URL: https://members.thequinhouse.com/events/17944
- 9\n\nBookmark the date for a compelling conversation exploring Impersonati
- on with Heidi Pitlor - a sharp\, satirical novel about ambition\, motherho
- od\, and the blurred boundaries between identity and performance.\n\nAllie
-  Lang is a professional ghostwriter and a perpetually broke single mother.
-  After years of navigating the cultural expectations placed on mothers\, a
- nd the financial precarity of her work\, she has grown wary of the stories
-  she is asked to tell\, and the lives she is asked to inhabit.\n\nLana Bre
- ban is a formidable lawyer\, economist\, and rising political figure prepa
- ring for a run for office. When her team commissions a memoir to soften he
- r public image\, Allie is hired to ghostwrite the story of Lana’s life a
- s a mother.\n\nAs personal pressures mount and Lana proves more exacting t
- han forthcoming\, the boundaries between subject and writer\, truth and pe
- rformance\, begin to blur. Allie is forced to reckon with how long she can
-  remain in the background of other people’s stories\, and what it will c
- ost her to finally step into her own.\n\n*This event is complimentary and 
- reserved for members only. Light bites and refreshments will be served.
-URL:https://members.thequinhouse.com/events/179449
-CATEGORIES:The Arts
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-182421@thequinhouse.com
 DTSTAMP:20260421T190000Z
 DTSTART;TZID=America/New_York:20260421T190000
@@ -166,7 +98,7 @@ DTSTART;TZID=America/New_York:20260422T173000
 DTEND;TZID=America/New_York:20260422T193000
 SUMMARY:Member Mixer: Passport to Conversation
 LOCATION:Scottie's
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 4 spots left
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 2 spots left
  \nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/e
  vents/179731\n\nBoard Quintansa Flight 217 and take off for an evening of 
  travel-inspired conversation and connection. This Member Mixer brings gues
@@ -349,7 +281,7 @@ DTSTART;TZID=America/New_York:20260427T180000
 DTEND;TZID=America/New_York:20260427T200000
 SUMMARY:Member Meet Up: King's Bowling
 LOCATION:Offsite: King's Bowling\, Back Bay
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 21 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 19 spots lef
  t\nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/
  events/183272\n\nSpare yourself the ordinary evening and join us at King�
  �s Bowling for a Member Meet-Up that’s equal parts pins\, pours\, and pl
