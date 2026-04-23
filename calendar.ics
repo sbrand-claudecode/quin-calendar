@@ -43,50 +43,6 @@ URL:https://members.thequinhouse.com/events/177695
 CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
-UID:quin-event-176382@thequinhouse.com
-DTSTAMP:20260422T173000Z
-DTSTART;TZID=America/New_York:20260422T173000
-DTEND;TZID=America/New_York:20260422T190000
-SUMMARY: Gather to Give: Arts & Culture Grant Reception 
-LOCATION:The Muse
-DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nAvailability: 2 spo
- ts left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/ev
- ents/176382\n\n5:30PM Reception\, 6:00PM Program\nCelebrate the extraordin
- ary local recipients of this year’s Arts & Culture grants\, made possibl
- e through The ‘Quin Impact Fund and member generosity. This evening hono
- rs the organizations enriching our community through creativity\, expressi
- on\, and cultural engagement - nurturing access\, inspiration\, and opport
- unity for all. Connect with these visionary leaders during the reception a
- nd learn more about the impact of their philanthropic initiatives.\n\nOur 
- esteemed recipients include: ARCK\, Boston Gay Men’s Chorus\, Boston Lyr
- ic Opera\, Calling All Crows\, Commonwealth Shakespeare Company\, Communit
- y Art Center\, Conservatory Lab Charter School\, Cultural Equity Incubator
- \, Esplanade Association\, Holocaust Legacy Foundation\, Mass Poetry\, Mas
- sachusetts College of Art and Design Foundation\, Rodman for Kids\, and Sp
- eakEasy Stage Company.\n\n*This event is complimentary and reserved for me
- mbers only. Light bites and refreshments will be served.
-URL:https://members.thequinhouse.com/events/176382
-CATEGORIES:‘Quin Impact Fund
-END:VEVENT
-BEGIN:VEVENT
-UID:quin-event-179731@thequinhouse.com
-DTSTAMP:20260422T173000Z
-DTSTART;TZID=America/New_York:20260422T173000
-DTEND;TZID=America/New_York:20260422T193000
-SUMMARY:Member Mixer: Passport to Conversation
-LOCATION:Scottie's
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 9 spots left
- \nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/e
- vents/179731\n\nBoard Quintansa Flight 217 and take off for an evening of 
- travel-inspired conversation and connection. This Member Mixer brings gues
- ts together through curated one-on-one exchanges\, inviting you to share f
- avorite destinations\, unforgettable journeys\, and dream adventures with 
- fellow members.\n\n*Please note that this event is complimentary and reser
- ved for members only.
-URL:https://members.thequinhouse.com/events/179731
-CATEGORIES:Member Mixer
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-179738@thequinhouse.com
 DTSTAMP:20260423T173000Z
 DTSTART;TZID=America/New_York:20260423T173000
@@ -94,18 +50,18 @@ DTEND;TZID=America/New_York:20260423T190000
 SUMMARY: 'Quin Impact Fund x MassChallenge: Discovery & Innovation Pitch Co
  mpetition
 LOCATION:The Living Room
-DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nAvailability: 1 spo
- t left\nStatus: You are on Waitlist\nEvent URL: https://members.thequinhou
- se.com/events/179738\n\n5:30PM Reception\, 6:00PM Discussion\nJoin us for 
- the ‘Quin Impact Fund x MassChallenge Discovery & Innovation Pitch Compe
- tition\, where five groundbreaking startups - Bystro AI\, H2C Energy\, har
- mony desalting\, Materialize Bio\, and TriCan Health - will pitch their vi
- sionary projects for a chance to receive funding from the ‘Quin Impact F
- und. As a member in attendance\, you’ll play a vital role in shaping the
-  future of innovation by casting your vote to help determine the allocatio
- n of funds. Don’t miss this exciting opportunity to witness the next wav
- e of impact-driven solutions in action!\n\n*This event is complimentary an
- d reserved for members only. Light bites and refreshments will be served.
+DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nAvailability: 3 spo
+ ts left\nStatus: You are on Waitlist\nEvent URL: https://members.thequinho
+ use.com/events/179738\n\n5:30PM Reception\, 6:00PM Discussion\nJoin us for
+  the ‘Quin Impact Fund x MassChallenge Discovery & Innovation Pitch Comp
+ etition\, where five groundbreaking startups - Bystro AI\, H2C Energy\, ha
+ rmony desalting\, Materialize Bio\, and TriCan Health - will pitch their v
+ isionary projects for a chance to receive funding from the ‘Quin Impact 
+ Fund. As a member in attendance\, you’ll play a vital role in shaping th
+ e future of innovation by casting your vote to help determine the allocati
+ on of funds. Don’t miss this exciting opportunity to witness the next wa
+ ve of impact-driven solutions in action!\n\n*This event is complimentary a
+ nd reserved for members only. Light bites and refreshments will be served.
 URL:https://members.thequinhouse.com/events/179738
 CATEGORIES:‘Quin Impact Fund
 END:VEVENT
@@ -116,23 +72,47 @@ DTSTART;TZID=America/New_York:20260423T183000
 DTEND;TZID=America/New_York:20260423T210000
 SUMMARY:Serendipity Dinner: An Evening for Members 50 and Up
 LOCATION:The Muse
-DESCRIPTION:Category: Member Mixer\nPrice: $100.00 per person\nAvailability
- : 1 spot left\nStatus: Available\nEvent URL: https://members.thequinhouse.
- com/events/180906\n\nSavor an evening designed for meaningful connection a
- t this special Serendipity Dinner\, thoughtfully curated for members ages 
- 50 and above. Gather around an intimate table for a three-course dining ex
- perience\, complemented by expertly paired wines and engaging conversation
- .\n\nWith gentle prompts to guide discussion\, the evening unfolds at an e
- asy\, convivial pace—inviting genuine dialogue\, shared stories\, and th
- e pleasure of getting to know fellow members more deeply. It’s a refined
-  yet relaxed setting where great company and thoughtful cuisine come toget
- her seamlessly.\n\n*Tickets are $100 per person\, plus tax\, and are reser
- ved for members only. Cancellations within 72 hours of the event\, or fail
- ure to attend\, will be charged in full. Please inform us of any dietary n
- eeds or restrictions by emailing happening@thequin.com at least 72 hours b
- efore dinner service.
+DESCRIPTION:Category: Member Mixer\nPrice: $100.00 per person\nStatus: Wait
+ list Only\nEvent URL: https://members.thequinhouse.com/events/180906\n\nSa
+ vor an evening designed for meaningful connection at this special Serendip
+ ity Dinner\, thoughtfully curated for members ages 50 and above. Gather ar
+ ound an intimate table for a three-course dining experience\, complemented
+  by expertly paired wines and engaging conversation.\n\nWith gentle prompt
+ s to guide discussion\, the evening unfolds at an easy\, convivial pace—
+ inviting genuine dialogue\, shared stories\, and the pleasure of getting t
+ o know fellow members more deeply. It’s a refined yet relaxed setting wh
+ ere great company and thoughtful cuisine come together seamlessly.\n\n*Tic
+ kets are $100 per person\, plus tax\, and are reserved for members only. C
+ ancellations within 72 hours of the event\, or failure to attend\, will be
+  charged in full. Please inform us of any dietary needs or restrictions by
+  emailing happening@thequin.com at least 72 hours before dinner service.
 URL:https://members.thequinhouse.com/events/180906
 CATEGORIES:Member Mixer
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-184133@thequinhouse.com
+DTSTAMP:20260425T100000Z
+DTSTART;TZID=America/New_York:20260425T100000
+DTEND;TZID=America/New_York:20260425T113000
+SUMMARY:The Drawing Lab with Deb Putnoi: Session IV
+LOCATION:The Muse
+DESCRIPTION:Category: The Arts\nPrice: Free\nStatus: soldOut\nEvent URL: ht
+ tps://members.thequinhouse.com/events/184133\n\nSaturdays: February 28\, M
+ arch 28\, April 25\, May 30 & June 27 | 10:00AM The Terrace & The Muse\nJo
+ in us for The Drawing Lab\, a six class immersive drawing course led by ar
+ tist and educator Deb Putnoi\, exploring the method as a practice of mindf
+ ulness\, observation\, and self-expression. Open to all experience levels\
+ , this course invites members to discover their unique visual voice throug
+ h guided exercises\, sensory awareness\, and creative connection.\n\nMeet 
+ likeminded members on reoccurring Saturdays over coffee and light bites wh
+ ile experimenting with a range of materials and methods\, drawing inspirat
+ ion from one another and The ’Quin Collection. Registration includes com
+ mitment to participate in all six sessions.\n\n*This six-month course is r
+ eserved for members only. The $120 per person fee includes all materials n
+ eeded for the duration of the program. Please note that registration for t
+ his course is final and non-cancelable\, and may not be transferred.
+URL:https://members.thequinhouse.com/events/184133
+CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-180907@thequinhouse.com
@@ -141,23 +121,23 @@ DTSTART;TZID=America/New_York:20260425T110000
 DTEND;TZID=America/New_York:20260425T130000
 SUMMARY:Serendipity Brunch: A Morning for Members 40 and Under 
 LOCATION:Lunasol
-DESCRIPTION:Category: Member Mixer\nPrice: $65.00 per person\nAvailability:
-  1 spot left\nStatus: Available\nEvent URL: https://members.thequinhouse.c
- om/events/180907\n\nStep into a lively Saturday brunch designed for member
- s 40 and under—where new connections come easily and conversation flows 
- as freely as the mimosas. This Serendipity Brunch invites you to gather in
-  Lunasol for a spirited\, social start to the day alongside fellow members
- .\n\nThe experience unfolds with a relaxed\, upbeat rhythm: a thoughtfully
-  curated\, family-style menu paired with a playful deck of conversation pr
- ompts to spark connection and keep the dialogue engaging. Expect a table f
- illed with pastries\, fruit\, and parfaits to begin\, followed by your cho
- ice of entrée and generous sides\, with Bloody Marys and mimosas availabl
- e throughout.\n\nIt’s a fresh\, convivial take on brunch at The ’House
- —effortless\, engaging\, and just the right amount of serendipitous.\n\n
- *Tickets are $65 per person\, plus tax\, and are reserved for members only
- . Cancellations within 48 hours of the event\, or failure to attend\, will
-  be charged in full. Please inform us of any dietary needs or restrictions
-  by emailing happening@thequin.com at least 72 hours prior to the event.
+DESCRIPTION:Category: Member Mixer\nPrice: $65.00 per person\nStatus: Waitl
+ ist Only\nEvent URL: https://members.thequinhouse.com/events/180907\n\nSte
+ p into a lively Saturday brunch designed for members 40 and under—where 
+ new connections come easily and conversation flows as freely as the mimosa
+ s. This Serendipity Brunch invites you to gather in Lunasol for a spirited
+ \, social start to the day alongside fellow members.\n\nThe experience unf
+ olds with a relaxed\, upbeat rhythm: a thoughtfully curated\, family-style
+  menu paired with a playful deck of conversation prompts to spark connecti
+ on and keep the dialogue engaging. Expect a table filled with pastries\, f
+ ruit\, and parfaits to begin\, followed by your choice of entrée and gene
+ rous sides\, with Bloody Marys and mimosas available throughout.\n\nIt’s
+  a fresh\, convivial take on brunch at The ’House—effortless\, engagin
+ g\, and just the right amount of serendipitous.\n\n*Tickets are $65 per pe
+ rson\, plus tax\, and are reserved for members only. Cancellations within 
+ 48 hours of the event\, or failure to attend\, will be charged in full. Pl
+ ease inform us of any dietary needs or restrictions by emailing happening@
+ thequin.com at least 72 hours prior to the event.
 URL:https://members.thequinhouse.com/events/180907
 CATEGORIES:Member Mixer
 END:VEVENT
@@ -185,7 +165,7 @@ DTSTART;TZID=America/New_York:20260425T130000
 DTEND;TZID=America/New_York:20260425T150000
 SUMMARY:Hands-On Impact: Cradles to Crayons 
 LOCATION:Offsite: The Giving Factory
-DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nAvailability: 19 sp
+DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nAvailability: 21 sp
  ots left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/e
  vents/180908\n\nMake an impact with Cradles to Crayons through a hands-on 
  volunteer opportunity offered through The 'Quin Impact Fund. Cradles to Cr
@@ -258,17 +238,36 @@ DTSTART;TZID=America/New_York:20260427T180000
 DTEND;TZID=America/New_York:20260427T200000
 SUMMARY:Member Meet Up: King's Bowling
 LOCATION:Offsite: King's Bowling\, Back Bay
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 12 spots lef
- t\nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/
- events/183272\n\nSpare yourself the ordinary evening and join us at King�
- �s Bowling for a Member Meet-Up that’s equal parts pins\, pours\, and pl
- ayful rivalry. Whether you are aiming for strikes or purely here for a goo
- d time\, a night of connection and fun awaits. \n\n*Bowling and shoe renta
- ls for this event are complimentary and reserved for members only. Complim
- entary light bites and one drink per member will be offered. Cash bar avai
- lable for the remainder of the evening.
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 9 spots left
+ \nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/e
+ vents/183272\n\nSpare yourself the ordinary evening and join us at King’
+ s Bowling for a Member Meet-Up that’s equal parts pins\, pours\, and pla
+ yful rivalry. Whether you are aiming for strikes or purely here for a good
+  time\, a night of connection and fun awaits. \n\n*Bowling and shoe rental
+ s for this event are complimentary and reserved for members only. Complime
+ ntary light bites and one drink per member will be offered. Cash bar avail
+ able for the remainder of the evening.
 URL:https://members.thequinhouse.com/events/183272
 CATEGORIES:Member Mixer
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-182349@thequinhouse.com
+DTSTAMP:20260428T160000Z
+DTSTART;VALUE=DATE:20260428
+DTEND;VALUE=DATE:20260429
+SUMMARY:BBQ Specials 
+LOCATION:The Pub
+DESCRIPTION:Category: Food & Beverage\nPrice: Free / Included\nStatus: Avai
+ lable\nTime: 4 PM – 9 PM\nEvent URL: https://members.thequinhouse.com/ev
+ ents/182349\n\nExclusively Available Tuesday Evenings\nSettle in and get y
+ our hands a little messy - in the best way.\n\nBegin with a warm corn brea
+ d skillet and hot honey butter\, alongside the classics: potato salad\, pi
+ ckles\, and coleslaw. From there\, choose two barbecue favorites for your 
+ main indulgence—espresso-rubbed beef brisket\, St. Louis ribs cooked low
+  and slow\, or pulled pork sliders worth every bite. A little smoky\, a li
+ ttle saucy\, and just the right amount of refined.\n\nMake a Reservation.
+URL:https://members.thequinhouse.com/events/182349
+CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-180905@thequinhouse.com
@@ -277,7 +276,7 @@ DTSTART;TZID=America/New_York:20260428T170000
 DTEND;TZID=America/New_York:20260428T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 12 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 10 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  80905\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in an ambiant reserved space. This is your opportunity to connect with fe
@@ -436,7 +435,7 @@ DTEND;TZID=America/New_York:20260504T210000
 SUMMARY:Serendipity Dinner 
 LOCATION:The Muse
 DESCRIPTION:Category: Member Mixer\nPrice: $100.00 per person\nAvailability
- : 7 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
+ : 8 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
  .com/events/175997\n\nJoin The ‘Quin House Managing Director\, Matthias 
  Kiehm\, for an evening of meaningful connections over a thoughtfully curat
  ed three-course dinner. Enjoy expertly paired wines as you engage with fel
@@ -457,7 +456,7 @@ DTSTART;TZID=America/New_York:20260505T170000
 DTEND;TZID=America/New_York:20260505T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 20 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 19 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  82097\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in an ambiant reserved space. This is your opportunity to connect with fe
@@ -498,7 +497,7 @@ DTEND;TZID=America/New_York:20260507T130000
 SUMMARY:Women\, Worth & Wisdom: The Next Generation of Female Leaders
 LOCATION:Bondo
 DESCRIPTION:Category: ‘Quin Chat\nPrice: $35.00 per person\nAvailability:
-  52 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
+  51 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
  .com/events/182099\n\n11:30AM Lunch\, 12:00PM Discussion \n\nJoin us for 
  the final installment of our four-part series\, Women\, Worth & Wisdom\, l
  ed by Colette Phillips\, founder of Get Konnected. This culminating conver
@@ -547,28 +546,56 @@ DTSTART;TZID=America/New_York:20260508T170000
 DTEND;TZID=America/New_York:20260508T183000
 SUMMARY:'Quin Chat: Finding Justice with New England Innocence Project
 LOCATION:Scottie's
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nStatus: Waitlist Only\nEve
- nt URL: https://members.thequinhouse.com/events/182100\n\n5:00PM Reception
- \, 5:30PM Discussion\nAn evening that will challenge what you think you kn
- ow about justice - and redefine what it means to rebuild a life.\n\nHear f
- irsthand from Sean Ellis and Edward Wright—two men who were wrongfully c
- onvicted\, spent decades incarcerated\, and ultimately fought to reclaim t
- heir freedom. Their stories are deeply personal\, but also powerful reflec
- tions on systemic failure\, resilience\, and the long road to exoneration.
- \n\nSean Ellis\, whose case gained international attention through the Net
- flix docuseries Trial 4\, now leads advocacy efforts through the Exoneree
-  Network\, supporting others navigating life after incarceration. Edward W
- right\, exonerated after 41 years\, taught himself the law while imprisone
- d - successfully fighting for his own freedom while helping others do the 
- same.\n\nThe conversation will be guided by Radha Natarajan\, Executive Di
- rector of the New England Innocence Project\, whose work continues to conf
- ront bias and drive meaningful reform within the justice system.\n\nA rare
-  opportunity to engage with voices at the forefront of justice reform - an
- d to witness the strength\, clarity\, and humanity behind these extraordin
- ary journeys.\n\n*This event is complimentary and reserved for members onl
- y. Light bites and refreshments will be served.
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 1 spot left\
+ nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/182
+ 100\n\n5:00PM Reception\, 5:30PM Discussion\nAn evening that will challeng
+ e what you think you know about justice - and redefine what it means to re
+ build a life.\n\nHear firsthand from Sean Ellis and Edward Wright—two me
+ n who were wrongfully convicted\, spent decades incarcerated\, and ultimat
+ ely fought to reclaim their freedom. Their stories are deeply personal\, b
+ ut also powerful reflections on systemic failure\, resilience\, and the lo
+ ng road to exoneration.\n\nSean Ellis\, whose case gained international at
+ tention through the Netflix docuseries Trial 4\, now leads advocacy effor
+ ts through the Exoneree Network\, supporting others navigating life after 
+ incarceration. Edward Wright\, exonerated after 41 years\, taught himself 
+ the law while imprisoned - successfully fighting for his own freedom while
+  helping others do the same.\n\nThe conversation will be guided by Radha N
+ atarajan\, Executive Director of the New England Innocence Project\, whose
+  work continues to confront bias and drive meaningful reform within the ju
+ stice system.\n\nA rare opportunity to engage with voices at the forefront
+  of justice reform - and to witness the strength\, clarity\, and humanity 
+ behind these extraordinary journeys.\n\n*This event is complimentary and r
+ eserved for members only. Light bites and refreshments will be served.
 URL:https://members.thequinhouse.com/events/182100
 CATEGORIES:‘Quin Chat
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-182101@thequinhouse.com
+DTSTAMP:20260509T120000Z
+DTSTART;TZID=America/New_York:20260509T120000
+DTEND;TZID=America/New_York:20260509T140000
+SUMMARY:Serendipity Brunch: The 40's Social
+LOCATION:Lunasol
+DESCRIPTION:Category: Member Mixer\nPrice: $65.00 per person\nAvailability:
+  18 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
+ .com/events/182101\n\nStep into a lively Saturday brunch designed for memb
+ ers in their 40s - where meaningful connections come naturally and convers
+ ation flows as effortlessly as the mimosas. This Serendipity Brunch invite
+ s you to gather in Lunasol for a relaxed yet engaging start to the day alo
+ ngside fellow members.\n\nThe experience unfolds at an easy\, social pace:
+  a thoughtfully curated\, family-style menu paired with subtle conversatio
+ n prompts to spark connection and keep dialogue flowing. Enjoy a table of 
+ pastries\, fresh fruit\, and parfaits to begin\, followed by your choice o
+ f entrée and generous sides\, with Bloody Marys and mimosas available thr
+ oughout.\n\nIt’s a refined\, convivial take on brunch at The ’House—
+ welcoming\, engaging\, and designed to bring together those who appreciate
+  great conversation and even better company.\n\n*Tickets are $65 per perso
+ n\, plus tax\, and are reserved for members only. Cancellations within 48 
+ hours of the event\, or failure to attend\, will be charged in full. Pleas
+ e inform us of any dietary needs or restrictions by emailing happening@the
+ quin.com at least 72 hours prior to the event.
+URL:https://members.thequinhouse.com/events/182101
+CATEGORIES:Member Mixer
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-176007@thequinhouse.com
@@ -622,6 +649,27 @@ URL:https://members.thequinhouse.com/events/182103
 CATEGORIES:‘Quin Impact Fund
 END:VEVENT
 BEGIN:VEVENT
+UID:quin-event-182248@thequinhouse.com
+DTSTAMP:20260512T170000Z
+DTSTART;TZID=America/New_York:20260512T170000
+DTEND;TZID=America/New_York:20260512T190000
+SUMMARY:Member Mingle
+LOCATION:The Living Room
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 40 spots lef
+ t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
+ 82248\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
+  in an ambiant reserved space. This is your opportunity to connect with fe
+ llow members\, exchange ideas\, and cultivate meaningful relationships.\n\
+ nWhether you're sparking new collaborations\, sharing insights\, or simply
+  enjoying great conversation\, the Member Mingle is the perfect way to eng
+ age with our dynamic community. Don’t miss the chance to connect\, inspi
+ re\, and be inspired!\n\n*This event is complimentary and reserved for mem
+ bers only. Complimentary light bites will be served\, and beverages will b
+ e available for purchase.
+URL:https://members.thequinhouse.com/events/182248
+CATEGORIES:Member Mixer
+END:VEVENT
+BEGIN:VEVENT
 UID:quin-event-182250@thequinhouse.com
 DTSTAMP:20260512T173000Z
 DTSTART;TZID=America/New_York:20260512T173000
@@ -653,6 +701,24 @@ DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nStatus: Waitlist Only\nEve
  served.
 URL:https://members.thequinhouse.com/events/182250
 CATEGORIES:‘Quin Chat
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-176371@thequinhouse.com
+DTSTAMP:20260513T180000Z
+DTSTART;TZID=America/New_York:20260513T180000
+DTEND;TZID=America/New_York:20260513T210000
+SUMMARY:Live Music: Bob Richardson 
+LOCATION:The Reading Room
+DESCRIPTION:Category: The Arts\nPrice: Free / Included\nStatus: Available\n
+ Event URL: https://members.thequinhouse.com/events/176371\n\nAdored for hi
+ s signature style and smile\, Bob Richardson returns to the 'House for ano
+ ther spectacular piano and vocal performance live from the Reading Room. R
+ ichardson\, a composer\, arranger\, vocalist and former educator will char
+ m the audience with requests all night long.\n\n*Please note that this eve
+ nt is complimentary and reserved for members\, plus three guests. Seating 
+ is first come\, first served.
+URL:https://members.thequinhouse.com/events/176371
+CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-176385@thequinhouse.com
@@ -690,6 +756,70 @@ DESCRIPTION:Category: Food & Beverage\nPrice: Free / Included\nStatus: Avai
   take center stage.\n\nMake a Reservation.
 URL:https://members.thequinhouse.com/events/176385
 CATEGORIES:Food & Beverage
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-184145@thequinhouse.com
+DTSTAMP:20260519T170000Z
+DTSTART;TZID=America/New_York:20260519T170000
+DTEND;TZID=America/New_York:20260519T190000
+SUMMARY:Member Mingle
+LOCATION:The Living Room
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 40 spots lef
+ t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
+ 84145\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
+  in an ambiant reserved space. This is your opportunity to connect with fe
+ llow members\, exchange ideas\, and cultivate meaningful relationships.\n\
+ nWhether you're sparking new collaborations\, sharing insights\, or simply
+  enjoying great conversation\, the Member Mingle is the perfect way to eng
+ age with our dynamic community. Don’t miss the chance to connect\, inspi
+ re\, and be inspired!\n\n*This event is complimentary and reserved for mem
+ bers only. Complimentary light bites will be served\, and beverages will b
+ e available for purchase.
+URL:https://members.thequinhouse.com/events/184145
+CATEGORIES:Member Mixer
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-184146@thequinhouse.com
+DTSTAMP:20260526T170000Z
+DTSTART;TZID=America/New_York:20260526T170000
+DTEND;TZID=America/New_York:20260526T190000
+SUMMARY:Member Mingle
+LOCATION:The Living Room
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 40 spots lef
+ t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
+ 84146\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
+  in an ambiant reserved space. This is your opportunity to connect with fe
+ llow members\, exchange ideas\, and cultivate meaningful relationships.\n\
+ nWhether you're sparking new collaborations\, sharing insights\, or simply
+  enjoying great conversation\, the Member Mingle is the perfect way to eng
+ age with our dynamic community. Don’t miss the chance to connect\, inspi
+ re\, and be inspired!\n\n*This event is complimentary and reserved for mem
+ bers only. Complimentary light bites will be served\, and beverages will b
+ e available for purchase.
+URL:https://members.thequinhouse.com/events/184146
+CATEGORIES:Member Mixer
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-176379@thequinhouse.com
+DTSTAMP:20260528T110000Z
+DTSTART;TZID=America/New_York:20260528T110000
+DTEND;TZID=America/New_York:20260528T120000
+SUMMARY:Art Tour: Masterworks in Print 
+LOCATION:Meet in The Lobby
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 32 spots left\nS
+ tatus: Available\nEvent URL: https://members.thequinhouse.com/events/17637
+ 9\n\nJoin ‘Quin Collection Curator Kate Chertavian for a print-focused a
+ rt tour. The discussion will begin in the Lobby with a closer look at Juli
+ e Mehretu’s spectacular copper-plate etching\, Six Bardos: Luminous Appe
+ arance\, and Cy Twombly’s silkscreen from the landmark On the Bowery ser
+ ies.\n\nThe conversation will explore a wide range of printmaking techniqu
+ es—including screenprint\, woodcut\, and lithography—featuring works b
+ y artists such as Robert Mangold\, Jasper Johns\, and Louise Bourgeois.\n\
+ nThe tour will also offer insights into a remarkable new addition to the �
+ ��Quin’s collection: Claude Monet’s Champ d’Iris à Giverny.\n\n*Thi
+ s event is complimentary and reserved for members only.
+URL:https://members.thequinhouse.com/events/176379
+CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-180148@thequinhouse.com
@@ -770,7 +900,7 @@ DTEND;VALUE=DATE:20260707
 SUMMARY:'Venture: Wimbledon
 LOCATION:Offsite
 DESCRIPTION:Category: ‘Venture - Travel\nPrice: $12850.47 per person\nAva
- ilability: 3 spots left\nStatus: Available\nTime: 3 PM – 12 PM\nEvent UR
+ ilability: 2 spots left\nStatus: Available\nTime: 3 PM – 12 PM\nEvent UR
  L: https://members.thequinhouse.com/events/183090\n\nAn Exclusive Seat at 
  Tennis' Most Iconic Stage. Experience the Prestige of Wimbledon.\nMore tha
  n a visit to London\, this is an invitation to one of sport’s most raref
