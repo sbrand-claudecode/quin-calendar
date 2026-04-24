@@ -43,53 +43,6 @@ URL:https://members.thequinhouse.com/events/177695
 CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
-UID:quin-event-179738@thequinhouse.com
-DTSTAMP:20260423T173000Z
-DTSTART;TZID=America/New_York:20260423T173000
-DTEND;TZID=America/New_York:20260423T190000
-SUMMARY: 'Quin Impact Fund x MassChallenge: Discovery & Innovation Pitch Co
- mpetition
-LOCATION:The Living Room
-DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nAvailability: 1 spo
- t left\nStatus: You are on Waitlist\nEvent URL: https://members.thequinhou
- se.com/events/179738\n\n5:30PM Reception\, 6:00PM Discussion\nJoin us for 
- the ‘Quin Impact Fund x MassChallenge Discovery & Innovation Pitch Compe
- tition\, where five groundbreaking startups - Bystro AI\, H2C Energy\, har
- mony desalting\, Materialize Bio\, and TriCan Health - will pitch their vi
- sionary projects for a chance to receive funding from the ‘Quin Impact F
- und. As a member in attendance\, you’ll play a vital role in shaping the
-  future of innovation by casting your vote to help determine the allocatio
- n of funds. Don’t miss this exciting opportunity to witness the next wav
- e of impact-driven solutions in action!\n\n*This event is complimentary an
- d reserved for members only. Light bites and refreshments will be served.
-URL:https://members.thequinhouse.com/events/179738
-CATEGORIES:‘Quin Impact Fund
-END:VEVENT
-BEGIN:VEVENT
-UID:quin-event-180906@thequinhouse.com
-DTSTAMP:20260423T183000Z
-DTSTART;TZID=America/New_York:20260423T183000
-DTEND;TZID=America/New_York:20260423T210000
-SUMMARY:Serendipity Dinner: An Evening for Members 50 and Up
-LOCATION:The Muse
-DESCRIPTION:Category: Member Mixer\nPrice: $100.00 per person\nStatus: Wait
- list Only\nEvent URL: https://members.thequinhouse.com/events/180906\n\nSa
- vor an evening designed for meaningful connection at this special Serendip
- ity Dinner\, thoughtfully curated for members ages 50 and above. Gather ar
- ound an intimate table for a three-course dining experience\, complemented
-  by expertly paired wines and engaging conversation.\n\nWith gentle prompt
- s to guide discussion\, the evening unfolds at an easy\, convivial pace—
- inviting genuine dialogue\, shared stories\, and the pleasure of getting t
- o know fellow members more deeply. It’s a refined yet relaxed setting wh
- ere great company and thoughtful cuisine come together seamlessly.\n\n*Tic
- kets are $100 per person\, plus tax\, and are reserved for members only. C
- ancellations within 72 hours of the event\, or failure to attend\, will be
-  charged in full. Please inform us of any dietary needs or restrictions by
-  emailing happening@thequin.com at least 72 hours before dinner service.
-URL:https://members.thequinhouse.com/events/180906
-CATEGORIES:Member Mixer
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-184147@thequinhouse.com
 DTSTAMP:20260424T190000Z
 DTSTART;TZID=America/New_York:20260424T190000
@@ -308,7 +261,7 @@ DTSTART;TZID=America/New_York:20260428T170000
 DTEND;TZID=America/New_York:20260428T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 9 spots left
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 7 spots left
  \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/18
  0905\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set 
  in an ambiant reserved space. This is your opportunity to connect with fel
@@ -329,23 +282,22 @@ DTSTART;TZID=America/New_York:20260428T170000
 DTEND;TZID=America/New_York:20260428T183000
 SUMMARY:'Quin Chat: The Atlantic's Nick Thompson 
 LOCATION:Scottie's
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 1 spot left\
- nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/ev
- ents/180909\n\n5:00PM Reception\, 5:30PM Discussion \nStep into a wide-ra
- nging conversation with Nicholas Thompson\, CEO of The Atlantic. During h
- is tenure\, the publication has won the National Magazine Award for Genera
- l Excellence three times\, become one of the fastest-growing news organiza
- tions in the country\, and reached record profitability and subscriber gro
- wth in its 157-year history. He is also the author of the national bestsel
- ler The Running Ground and host of the podcast The Most Interesting Thi
- ng in AI\, where he explores the rapidly evolving world of artificial inte
- lligence.\n\nThompson will be joined in conversation by Claire Hughes John
- son\, a technology leader and former Chief Operating Officer of Stripe. T
- ogether\, they will explore the forces shaping today’s media and technol
- ogy landscapes - from the future of AI and innovation to the evolving role
-  of storytelling and leadership in a rapidly changing world.\n\n*This even
- t is complimentary and reserved for members only. Light bites and refreshm
- ents will be served.
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nStatus: You are Confirmed\
+ nEvent URL: https://members.thequinhouse.com/events/180909\n\n5:00PM Recep
+ tion\, 5:30PM Discussion \nStep into a wide-ranging conversation with Nic
+ holas Thompson\, CEO of The Atlantic. During his tenure\, the publication
+  has won the National Magazine Award for General Excellence three times\, 
+ become one of the fastest-growing news organizations in the country\, and 
+ reached record profitability and subscriber growth in its 157-year history
+ . He is also the author of the national bestseller The Running Ground an
+ d host of the podcast The Most Interesting Thing in AI\, where he explore
+ s the rapidly evolving world of artificial intelligence.\n\nThompson will 
+ be joined in conversation by Claire Hughes Johnson\, a technology leader a
+ nd former Chief Operating Officer of Stripe. Together\, they will explore
+  the forces shaping today’s media and technology landscapes - from the f
+ uture of AI and innovation to the evolving role of storytelling and leader
+ ship in a rapidly changing world.\n\n*This event is complimentary and rese
+ rved for members only. Light bites and refreshments will be served.
 URL:https://members.thequinhouse.com/events/180909
 CATEGORIES:‘Quin Chat
 END:VEVENT
@@ -610,7 +562,7 @@ DTEND;TZID=America/New_York:20260509T140000
 SUMMARY:Serendipity Brunch: The 40's Social
 LOCATION:Lunasol
 DESCRIPTION:Category: Member Mixer\nPrice: $65.00 per person\nAvailability:
-  18 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
+  17 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
  .com/events/182101\n\nStep into a lively Saturday brunch designed for memb
  ers in their 40s - where meaningful connections come naturally and convers
  ation flows as effortlessly as the mimosas. This Serendipity Brunch invite
@@ -760,37 +712,38 @@ DTSTART;VALUE=DATE:20260514
 DTEND;VALUE=DATE:20260515
 SUMMARY:New York City Art Excursion
 LOCATION:Offsite: New York City
-DESCRIPTION:Category: The Arts\nPrice: $420.56 per person\nAvailability: 10
-  spots left\nStatus: Available\nTime: 9 AM – 5 PM\nEvent URL: https://me
- mbers.thequinhouse.com/events/184226\n\nWe are excited to offer a curated\
- , behind-the-scenes look at the contemporary art world lead by The ’Quin
-  House art curator\, Kate Chertavian.\n\nSpend a private morning at Christ
- ie’s\, featuring expert insights from leading specialists in Impressioni
- st\, Modern\, and 20th Century art. Through guided discussion and close lo
- oking\, members will gain a deeper understanding of the auction process an
- d highlights of the May sales.\n\nFrom there\, members will travel to Chel
- sea for a series of guided gallery visits at David Zwirner\, Hales\, and H
- auser & Wirth\, where you will experience current exhibitions at some of t
- he most influential galleries in the world.\n\nMidday\, members will gathe
- r for a lunch discussion with Kate\, focused on strategies for navigating 
- an art fair and building a thoughtful approach to collecting.\n\nThe after
- noon will conclude at Frieze New York at The Shed\, where members will hav
- e the opportunity to explore the fair independently\, applying insights fr
- om the day in real time. Throughout the experience\, members will gain beh
- ind-the-scenes perspective on the art market\, along with Kate’s “5 Th
- ings to Know about Collecting.”\n\n9:00AM - 9:15AM | Arrival & Welcome a
- t Christie’s\n9:15AM - 11:00AM | Private Viewing at Christie’s\n11:00A
- M - 11:30AM | Transit to Chelsea\n11:30AM - 1:20PM | Gallery Visits: David
-  Zwirner\, Hales\, Hauser & Wirth\n1:30PM - 2:30PM | Lunch & Discussion wi
- th Kate Chertavian\n3:00PM - 5:00PM | Independent Browsing at Frieze New Y
- ork\n\nThis intimate\, thoughtfully designed program offers a unique oppor
- tunity to engage directly with experts\, deepen your understanding of the 
- art market\, and experience New York’s art scene alongside fellow member
- s.\n\n*This excursion is offered to members-only at $450 per person\, incl
- uding the cost of lunch\, group transportation between Christie's and the 
- galleries\, as well as your ticket to the Frieze Art Fair. A limited numbe
- r of spaces are available on a first come\, first to reserve basis. Ticket
- s are non-refundable and non-transferable.
+DESCRIPTION:Category: The Arts\nPrice: $420.56 per person\nAvailability: 7 
+ spots left\nStatus: Available\nTime: 9 AM – 5 PM\nEvent URL: https://mem
+ bers.thequinhouse.com/events/184226\n\nWe are excited to offer a curated\,
+  behind-the-scenes look at the contemporary art world lead by The ’Quin 
+ House art curator\, Kate Chertavian.\n\nSpend a private morning at Christi
+ e’s\, featuring expert insights from leading specialists in Impressionis
+ t\, Modern\, and 20th Century art. Through guided discussion and close loo
+ king\, members will gain a deeper understanding of the auction process and
+  highlights of the May sales.\n\nFrom there\, members will travel to Chels
+ ea for a series of guided gallery visits at David Zwirner\, Hales\, and Ha
+ user & Wirth\, where you will experience current exhibitions at some of th
+ e most influential galleries in the world.\n\nMidday\, members will gather
+  for a lunch discussion with Kate\, focused on strategies for navigating a
+ n art fair and building a thoughtful approach to collecting.\n\nThe aftern
+ oon will conclude at Frieze New York at The Shed\, where members will have
+  the opportunity to explore the fair independently\, applying insights fro
+ m the day in real time. Throughout the experience\, members will gain behi
+ nd-the-scenes perspective on the art market\, along with Kate’s “5 Thi
+ ngs to Know about Collecting.”\n\n9:00AM - 9:15AM | Arrival & Welcome at
+  Christie’s\n9:15AM - 11:00AM | Private Viewing at Christie’s\n11:00AM
+  - 11:30AM | Transit to Chelsea\n11:30AM - 1:20PM | Gallery Visits: David 
+ Zwirner\, Hales\, Hauser & Wirth\n1:30PM - 2:30PM | Lunch & Discussion wit
+ h Kate Chertavian\n3:00PM - 5:00PM | Independent Browsing at Frieze New Yo
+ rk\n\nThis intimate\, thoughtfully designed program offers a unique opport
+ unity to engage directly with experts\, deepen your understanding of the a
+ rt market\, and experience New York’s art scene alongside fellow members
+ .\n\n*This excursion is offered to members-only at $450 per person\, inclu
+ ding the cost of lunch\, group transportation between Christie's and the g
+ alleries\, as well as your ticket to the Frieze Art Fair. A limited number
+  of spaces are available on a first come\, first to reserve basis. Members
+  are responsible for their own transportation to and from New York. Ticke
+ ts are non-refundable and non-transferable.
 URL:https://members.thequinhouse.com/events/184226
 CATEGORIES:The Arts
 END:VEVENT
@@ -832,6 +785,31 @@ URL:https://members.thequinhouse.com/events/176385
 CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
+UID:quin-event-184142@thequinhouse.com
+DTSTAMP:20260518T183000Z
+DTSTART;TZID=America/New_York:20260518T183000
+DTEND;TZID=America/New_York:20260518T210000
+SUMMARY:Serendipity Dinner: The Ladies' Table
+LOCATION:The Muse
+DESCRIPTION:Category: Member Mixer\nPrice: $100.00 per person\nAvailability
+ : 18 spots left\nStatus: Available\nEvent URL: https://members.thequinhous
+ e.com/events/184142\n\nSavor an evening designed for meaningful connection
+  at this special Serendipity Dinner\, thoughtfully curated for women of Th
+ e ’Quin. Gather around an intimate table for a three-course dining exper
+ ience\, complemented by expertly paired wines and engaging conversation.\n
+ \nWith gentle prompts to guide discussion\, the evening unfolds at an easy
+ \, convivial pace—inviting genuine dialogue\, shared stories\, and the o
+ pportunity to connect with fellow members in a warm\, welcoming setting. I
+ t’s a refined yet relaxed experience where great company and thoughtful 
+ cuisine come together seamlessly.\n\n*Tickets are $100 per person\, plus t
+ ax\, and are reserved for members only. Cancellations within 72 hours of t
+ he event\, or failure to attend\, will be charged in full. Please inform u
+ s of any dietary needs or restrictions by emailing happening@thequin.com a
+ t least 72 hours before dinner service.
+URL:https://members.thequinhouse.com/events/184142
+CATEGORIES:Member Mixer
+END:VEVENT
+BEGIN:VEVENT
 UID:quin-event-184145@thequinhouse.com
 DTSTAMP:20260519T170000Z
 DTSTART;TZID=America/New_York:20260519T170000
@@ -851,6 +829,24 @@ DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 37 spots lef
  e available for purchase.
 URL:https://members.thequinhouse.com/events/184145
 CATEGORIES:Member Mixer
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-184144@thequinhouse.com
+DTSTAMP:20260520T180000Z
+DTSTART;TZID=America/New_York:20260520T180000
+DTEND;TZID=America/New_York:20260520T210000
+SUMMARY:Live Music: Alex Minasian 
+LOCATION:The Reading Room
+DESCRIPTION:Category: The Arts\nPrice: Free / Included\nStatus: Available\n
+ Event URL: https://members.thequinhouse.com/events/184144\n\nLet the sultr
+ y sounds of jazz take over as pianist Alex Minasian brings his rich\, time
+ -honored artistry to the stage. Known for his masterful touch and deep rev
+ erence for the jazz tradition\, Minasian delivers a performance that is bo
+ th dynamic and deeply expressive.\n\nSip a cocktail from Little Bar\, sink
+  into the moment\, and let the music carry you away.\n\n*Reservations are 
+ not required. Please be advised that seating is first come\, first served.
+URL:https://members.thequinhouse.com/events/184144
+CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-184146@thequinhouse.com
@@ -880,7 +876,7 @@ DTSTART;TZID=America/New_York:20260528T110000
 DTEND;TZID=America/New_York:20260528T120000
 SUMMARY:Art Tour: Masterworks in Print 
 LOCATION:Meet in The Lobby
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 29 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 25 spots left\nS
  tatus: Available\nEvent URL: https://members.thequinhouse.com/events/17637
  9\n\nJoin ‘Quin Collection Curator Kate Chertavian for a print-focused a
  rt tour. The discussion will begin in the Lobby with a closer look at Juli
