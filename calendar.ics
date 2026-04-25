@@ -43,75 +43,6 @@ URL:https://members.thequinhouse.com/events/177695
 CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
-UID:quin-event-184133@thequinhouse.com
-DTSTAMP:20260425T100000Z
-DTSTART;TZID=America/New_York:20260425T100000
-DTEND;TZID=America/New_York:20260425T113000
-SUMMARY:The Drawing Lab with Deb Putnoi: Session IV
-LOCATION:The Muse
-DESCRIPTION:Category: The Arts\nPrice: Free\nStatus: soldOut\nEvent URL: ht
- tps://members.thequinhouse.com/events/184133\n\nSaturdays: February 28\, M
- arch 28\, April 25\, May 30 & June 27 | 10:00AM The Terrace & The Muse\nJo
- in us for The Drawing Lab\, a six class immersive drawing course led by ar
- tist and educator Deb Putnoi\, exploring the method as a practice of mindf
- ulness\, observation\, and self-expression. Open to all experience levels\
- , this course invites members to discover their unique visual voice throug
- h guided exercises\, sensory awareness\, and creative connection.\n\nMeet 
- likeminded members on reoccurring Saturdays over coffee and light bites wh
- ile experimenting with a range of materials and methods\, drawing inspirat
- ion from one another and The ’Quin Collection. Registration includes com
- mitment to participate in all six sessions.\n\n*This six-month course is r
- eserved for members only. The $120 per person fee includes all materials n
- eeded for the duration of the program. Please note that registration for t
- his course is final and non-cancelable\, and may not be transferred.
-URL:https://members.thequinhouse.com/events/184133
-CATEGORIES:The Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:quin-event-180907@thequinhouse.com
-DTSTAMP:20260425T110000Z
-DTSTART;TZID=America/New_York:20260425T110000
-DTEND;TZID=America/New_York:20260425T130000
-SUMMARY:Serendipity Brunch: A Morning for Members 40 and Under 
-LOCATION:Lunasol
-DESCRIPTION:Category: Member Mixer\nPrice: $65.00 per person\nStatus: Waitl
- ist Only\nEvent URL: https://members.thequinhouse.com/events/180907\n\nSte
- p into a lively Saturday brunch designed for members 40 and under—where 
- new connections come easily and conversation flows as freely as the mimosa
- s. This Serendipity Brunch invites you to gather in Lunasol for a spirited
- \, social start to the day alongside fellow members.\n\nThe experience unf
- olds with a relaxed\, upbeat rhythm: a thoughtfully curated\, family-style
-  menu paired with a playful deck of conversation prompts to spark connecti
- on and keep the dialogue engaging. Expect a table filled with pastries\, f
- ruit\, and parfaits to begin\, followed by your choice of entrée and gene
- rous sides\, with Bloody Marys and mimosas available throughout.\n\nIt’s
-  a fresh\, convivial take on brunch at The ’House—effortless\, engagin
- g\, and just the right amount of serendipitous.\n\n*Tickets are $65 per pe
- rson\, plus tax\, and are reserved for members only. Cancellations within 
- 48 hours of the event\, or failure to attend\, will be charged in full. Pl
- ease inform us of any dietary needs or restrictions by emailing happening@
- thequin.com at least 72 hours prior to the event.
-URL:https://members.thequinhouse.com/events/180907
-CATEGORIES:Member Mixer
-END:VEVENT
-BEGIN:VEVENT
-UID:quin-event-181401@thequinhouse.com
-DTSTAMP:20260425T113000Z
-DTSTART;TZID=America/New_York:20260425T113000
-DTEND;TZID=America/New_York:20260425T143000
-SUMMARY:Jazz Brunch
-LOCATION:Café Q
-DESCRIPTION:Category: Food & Beverage\nPrice: Free / Included\nStatus: Avai
- lable\nEvent URL: https://members.thequinhouse.com/events/181401\n\nReserv
- ations from 10:30AM - 3:00PM | Live Music from 11:30AM - 2:30PM\nRise\, sh
- ine and come hungry for Café Q's á la carte weekend brunch menu featurin
- g tableside entertainment by a Jazz duo. Following the club's usual policy
- \, children ages 6+ are welcome to attend when accompanied by a parent.\n\
- nMake a Reservation.
-URL:https://members.thequinhouse.com/events/181401
-CATEGORIES:Food & Beverage
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-180908@thequinhouse.com
 DTSTAMP:20260425T130000Z
 DTSTART;TZID=America/New_York:20260425T130000
@@ -207,7 +138,7 @@ DTSTART;TZID=America/New_York:20260427T180000
 DTEND;TZID=America/New_York:20260427T200000
 SUMMARY:Member Meet Up: King's Bowling
 LOCATION:Offsite: King's Bowling\, Back Bay
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 9 spots left
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 8 spots left
  \nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/e
  vents/183272\n\nSpare yourself the ordinary evening and join us at King’
  s Bowling for a Member Meet-Up that’s equal parts pins\, pours\, and pla
@@ -430,7 +361,7 @@ DTEND;TZID=America/New_York:20260504T210000
 SUMMARY:Serendipity Dinner 
 LOCATION:The Muse
 DESCRIPTION:Category: Member Mixer\nPrice: $100.00 per person\nAvailability
- : 5 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
+ : 3 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
  .com/events/175997\n\nJoin The ‘Quin House Managing Director\, Matthias 
  Kiehm\, for an evening of meaningful connections over a thoughtfully curat
  ed three-course dinner. Enjoy expertly paired wines as you engage with fel
@@ -451,7 +382,7 @@ DTSTART;TZID=America/New_York:20260505T170000
 DTEND;TZID=America/New_York:20260505T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 13 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 12 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  82097\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in an ambiant reserved space. This is your opportunity to connect with fe
@@ -492,26 +423,26 @@ DTEND;TZID=America/New_York:20260507T130000
 SUMMARY:Women\, Worth & Wisdom: The Next Generation of Female Leaders
 LOCATION:Bondo
 DESCRIPTION:Category: ‘Quin Chat\nPrice: $35.00 per person\nAvailability:
-  11 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
- .com/events/182099\n\n11:30AM Lunch\, 12:00PM Discussion \n\nJoin us for 
- the final installment of our four-part series\, Women\, Worth & Wisdom\, l
- ed by Colette Phillips\, founder of Get Konnected. This culminating conver
- sation brings the next generation of female leaders to the forefront—spo
- tlighting voices across sectors who are shaping the future with intention 
- and impact.\n\nFeaturing Rachel Flor\, Executive Director of the JFK Libra
- ry Foundation\, Julia Johannsen\, Founder & CEO of The Impact Collective\,
-  Zykera Steward\, Chief of Staff at Get Konnected! and The GK Fund\, and C
- herina D. Wright\, Esq.\, Assistant Vice President of Student Affairs at S
- uffolk University\, the panel will explore how today’s emerging leaders 
- are defining success\, prioritizing purpose\, and driving meaningful chang
- e in their work.\n\nTogether\, they will reflect on the mentors and moment
- s that shaped their paths\, while sharing how they aim to pay it forward�
- �creating space and opportunity for those just beginning their careers. En
- gaging and open in spirit\, the afternoon invites connection\, reflection\
- , and dialogue among peers.\n\n*This event is offered at $35 per person\, 
- plus tax\, to account for the buffet lunch\, enjoyed during the program. R
- eservations are open to members\, plus one guest. Cancellations made withi
- n 48 hours of the event are subject to a full charge.
+  8 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse.
+ com/events/182099\n\n11:30AM Lunch\, 12:00PM Discussion \n\nJoin us for t
+ he final installment of our four-part series\, Women\, Worth & Wisdom\, le
+ d by Colette Phillips\, founder of Get Konnected. This culminating convers
+ ation brings the next generation of female leaders to the forefront—spot
+ lighting voices across sectors who are shaping the future with intention a
+ nd impact.\n\nFeaturing Rachel Flor\, Executive Director of the JFK Librar
+ y Foundation\, Julia Johannsen\, Founder & CEO of The Impact Collective\, 
+ Zykera Steward\, Chief of Staff at Get Konnected! and The GK Fund\, and Ch
+ erina D. Wright\, Esq.\, Assistant Vice President of Student Affairs at Su
+ ffolk University\, the panel will explore how today’s emerging leaders a
+ re defining success\, prioritizing purpose\, and driving meaningful change
+  in their work.\n\nTogether\, they will reflect on the mentors and moments
+  that shaped their paths\, while sharing how they aim to pay it forward—
+ creating space and opportunity for those just beginning their careers. Eng
+ aging and open in spirit\, the afternoon invites connection\, reflection\,
+  and dialogue among peers.\n\n*This event is offered at $35 per person\, p
+ lus tax\, to account for the buffet lunch\, enjoyed during the program. Re
+ servations are open to members\, plus one guest. Cancellations made within
+  48 hours of the event are subject to a full charge.
 URL:https://members.thequinhouse.com/events/182099
 CATEGORIES:‘Quin Chat
 END:VEVENT
@@ -980,7 +911,7 @@ DTSTART;TZID=America/New_York:20260528T110000
 DTEND;TZID=America/New_York:20260528T120000
 SUMMARY:Art Tour: Masterworks in Print 
 LOCATION:Meet in The Lobby
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 19 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 18 spots left\nS
  tatus: Available\nEvent URL: https://members.thequinhouse.com/events/17637
  9\n\nJoin ‘Quin Collection Curator Kate Chertavian for a print-focused a
  rt tour. The discussion will begin in the Lobby with a closer look at Juli
