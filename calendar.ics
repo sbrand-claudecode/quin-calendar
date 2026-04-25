@@ -223,7 +223,7 @@ DTSTART;TZID=America/New_York:20260427T180000
 DTEND;TZID=America/New_York:20260427T200000
 SUMMARY:Member Meet Up: King's Bowling
 LOCATION:Offsite: King's Bowling\, Back Bay
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 7 spots left
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 8 spots left
  \nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/e
  vents/183272\n\nSpare yourself the ordinary evening and join us at King’
  s Bowling for a Member Meet-Up that’s equal parts pins\, pours\, and pla
@@ -261,7 +261,7 @@ DTSTART;TZID=America/New_York:20260428T170000
 DTEND;TZID=America/New_York:20260428T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 5 spots left
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 4 spots left
  \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/18
  0905\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set 
  in an ambiant reserved space. This is your opportunity to connect with fel
@@ -282,23 +282,22 @@ DTSTART;TZID=America/New_York:20260428T170000
 DTEND;TZID=America/New_York:20260428T183000
 SUMMARY:'Quin Chat: The Atlantic's Nick Thompson 
 LOCATION:Scottie's
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 1 spot left\
- nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/ev
- ents/180909\n\n5:00PM Reception\, 5:30PM Discussion \nStep into a wide-ra
- nging conversation with Nicholas Thompson\, CEO of The Atlantic. During h
- is tenure\, the publication has won the National Magazine Award for Genera
- l Excellence three times\, become one of the fastest-growing news organiza
- tions in the country\, and reached record profitability and subscriber gro
- wth in its 157-year history. He is also the author of the national bestsel
- ler The Running Ground and host of the podcast The Most Interesting Thi
- ng in AI\, where he explores the rapidly evolving world of artificial inte
- lligence.\n\nThompson will be joined in conversation by Claire Hughes John
- son\, a technology leader and former Chief Operating Officer of Stripe. T
- ogether\, they will explore the forces shaping today’s media and technol
- ogy landscapes - from the future of AI and innovation to the evolving role
-  of storytelling and leadership in a rapidly changing world.\n\n*This even
- t is complimentary and reserved for members only. Light bites and refreshm
- ents will be served.
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nStatus: You are Confirmed\
+ nEvent URL: https://members.thequinhouse.com/events/180909\n\n5:00PM Recep
+ tion\, 5:30PM Discussion \nStep into a wide-ranging conversation with Nic
+ holas Thompson\, CEO of The Atlantic. During his tenure\, the publication
+  has won the National Magazine Award for General Excellence three times\, 
+ become one of the fastest-growing news organizations in the country\, and 
+ reached record profitability and subscriber growth in its 157-year history
+ . He is also the author of the national bestseller The Running Ground an
+ d host of the podcast The Most Interesting Thing in AI\, where he explore
+ s the rapidly evolving world of artificial intelligence.\n\nThompson will 
+ be joined in conversation by Claire Hughes Johnson\, a technology leader a
+ nd former Chief Operating Officer of Stripe. Together\, they will explore
+  the forces shaping today’s media and technology landscapes - from the f
+ uture of AI and innovation to the evolving role of storytelling and leader
+ ship in a rapidly changing world.\n\n*This event is complimentary and rese
+ rved for members only. Light bites and refreshments will be served.
 URL:https://members.thequinhouse.com/events/180909
 CATEGORIES:‘Quin Chat
 END:VEVENT
@@ -310,34 +309,34 @@ DTEND;TZID=America/New_York:20260429T150000
 SUMMARY:90 Minutes of Innovation: Networks\, Intelligence & the Future of D
  ecision-Making 
 LOCATION:The Pub
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nStatus: You are Confirmed\
- nEvent URL: https://members.thequinhouse.com/events/180910\n\n1:00PM Progr
- am\, 2:30PM Networking\nWhat can we learn from the individuals shaping AI\
- , enterprise transformation\, and modern engineering at the highest levels
- ?\n\nIn the latest edition of 90 Minutes of Innovation\, John Werner - ven
- ture capitalist\, MIT lecturer\, and Forbes AI columnist - will lead a ser
- ies of one-on-one conversations with three remarkable leaders\, each offer
- ing a distinct perspective on innovation\, leadership\, and the moment we�
- ��re in.\n\nJon Hirschtick\, founder of SolidWorks and Onshape\, is a pion
- eering force in computer-aided design who has transformed how engineers an
- d designers build the world. An MIT alumnus\, he used winnings from the In
- stitute’s legendary blackjack team to launch his first company - an expe
- rience that later inspired the film 21.\n\nSandy Pentland\, MIT professor 
- with appointments at MIT and Stanford\, and one of the most cited data sci
- entists globally\, whose work on human behavior\, social networks\, and �
- �reality mining” has fundamentally reshaped how we understand trust\, ci
- ties\, and collective intelligence. He will speak on his recent book\, Sh
- ared Wisdom: Cultural Evolution in the Age of AI.\n\nDavid Kenny\, Executi
- ve Chairman of Nielsen and former CEO of IBM Watson\, with prior leadershi
- p roles at Akamai and The Weather Channel\, has operated at the forefront 
- of AI\, data\, and global enterprise transformation.\n\nThrough individual
-  interviews\, the afternoon will explore their personal journeys\, the ide
- as that have defined their work\, and how each sees the rapidly evolving l
- andscape of AI\, technology\, and innovation today. Expect an engaging\, i
- nsight-rich experience that connects lived experience with forward-looking
-  perspective - offering a rare window into how these leaders think\, build
- \, and lead.\n\n*This event is complimentary and reserved for members only
- . Light bites and refreshments will be served.
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 1 spot left\
+ nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/ev
+ ents/180910\n\n1:00PM Program\, 2:30PM Networking\nWhat can we learn from 
+ the individuals shaping AI\, enterprise transformation\, and modern engine
+ ering at the highest levels?\n\nIn the latest edition of 90 Minutes of Inn
+ ovation\, John Werner - venture capitalist\, MIT lecturer\, and Forbes AI 
+ columnist - will lead a series of one-on-one conversations with three rema
+ rkable leaders\, each offering a distinct perspective on innovation\, lead
+ ership\, and the moment we’re in.\n\nJon Hirschtick\, founder of SolidWo
+ rks and Onshape\, is a pioneering force in computer-aided design who has t
+ ransformed how engineers and designers build the world. An MIT alumnus\, h
+ e used winnings from the Institute’s legendary blackjack team to launch 
+ his first company - an experience that later inspired the film 21.\n\nSand
+ y Pentland\, MIT professor with appointments at MIT and Stanford\, and one
+  of the most cited data scientists globally\, whose work on human behavior
+ \, social networks\, and “reality mining” has fundamentally reshaped h
+ ow we understand trust\, cities\, and collective intelligence. He will spe
+ ak on his recent book\, Shared Wisdom: Cultural Evolution in the Age of A
+ I.\n\nDavid Kenny\, Executive Chairman of Nielsen and former CEO of IBM Wa
+ tson\, with prior leadership roles at Akamai and The Weather Channel\, has
+  operated at the forefront of AI\, data\, and global enterprise transforma
+ tion.\n\nThrough individual interviews\, the afternoon will explore their 
+ personal journeys\, the ideas that have defined their work\, and how each 
+ sees the rapidly evolving landscape of AI\, technology\, and innovation to
+ day. Expect an engaging\, insight-rich experience that connects lived expe
+ rience with forward-looking perspective - offering a rare window into how 
+ these leaders think\, build\, and lead.\n\n*This event is complimentary an
+ d reserved for members only. Light bites and refreshments will be served.
 URL:https://members.thequinhouse.com/events/180910
 CATEGORIES:‘Quin Chat
 END:VEVENT
@@ -447,7 +446,7 @@ DTEND;TZID=America/New_York:20260504T210000
 SUMMARY:Serendipity Dinner 
 LOCATION:The Muse
 DESCRIPTION:Category: Member Mixer\nPrice: $100.00 per person\nAvailability
- : 7 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
+ : 6 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
  .com/events/175997\n\nJoin The ‘Quin House Managing Director\, Matthias 
  Kiehm\, for an evening of meaningful connections over a thoughtfully curat
  ed three-course dinner. Enjoy expertly paired wines as you engage with fel
@@ -509,7 +508,7 @@ DTEND;TZID=America/New_York:20260507T130000
 SUMMARY:Women\, Worth & Wisdom: The Next Generation of Female Leaders
 LOCATION:Bondo
 DESCRIPTION:Category: ‘Quin Chat\nPrice: $35.00 per person\nAvailability:
-  46 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
+  12 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
  .com/events/182099\n\n11:30AM Lunch\, 12:00PM Discussion \n\nJoin us for 
  the final installment of our four-part series\, Women\, Worth & Wisdom\, l
  ed by Colette Phillips\, founder of Get Konnected. This culminating conver
@@ -667,7 +666,7 @@ DTSTART;TZID=America/New_York:20260512T170000
 DTEND;TZID=America/New_York:20260512T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 37 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 34 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  82248\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in an ambiant reserved space. This is your opportunity to connect with fe
@@ -739,7 +738,7 @@ DTSTART;VALUE=DATE:20260514
 DTEND;VALUE=DATE:20260515
 SUMMARY:New York City Art Excursion
 LOCATION:Offsite: New York City
-DESCRIPTION:Category: The Arts\nPrice: $420.56 per person\nAvailability: 4 
+DESCRIPTION:Category: The Arts\nPrice: $420.56 per person\nAvailability: 3 
  spots left\nStatus: Available\nTime: 9 AM – 5 PM\nEvent URL: https://mem
  bers.thequinhouse.com/events/184226\n\nWe are excited to offer a curated\,
   behind-the-scenes look at the contemporary art world lead by The ’Quin 
@@ -876,7 +875,7 @@ DTEND;TZID=America/New_York:20260518T210000
 SUMMARY:Serendipity Dinner: The Ladies' Table
 LOCATION:The Muse
 DESCRIPTION:Category: Member Mixer\nPrice: $100.00 per person\nAvailability
- : 17 spots left\nStatus: Available\nEvent URL: https://members.thequinhous
+ : 15 spots left\nStatus: Available\nEvent URL: https://members.thequinhous
  e.com/events/184142\n\nSavor an evening designed for meaningful connection
   at this special Serendipity Dinner\, thoughtfully curated for women of Th
  e ’Quin. Gather around an intimate table for a three-course dining exper
@@ -937,7 +936,7 @@ DTSTART;TZID=America/New_York:20260519T170000
 DTEND;TZID=America/New_York:20260519T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 35 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 33 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  84145\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in an ambiant reserved space. This is your opportunity to connect with fe
@@ -976,7 +975,7 @@ DTSTART;TZID=America/New_York:20260526T170000
 DTEND;TZID=America/New_York:20260526T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 37 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 36 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  84146\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in an ambiant reserved space. This is your opportunity to connect with fe
@@ -997,7 +996,7 @@ DTSTART;TZID=America/New_York:20260528T110000
 DTEND;TZID=America/New_York:20260528T120000
 SUMMARY:Art Tour: Masterworks in Print 
 LOCATION:Meet in The Lobby
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 24 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 21 spots left\nS
  tatus: Available\nEvent URL: https://members.thequinhouse.com/events/17637
  9\n\nJoin ‘Quin Collection Curator Kate Chertavian for a print-focused a
  rt tour. The discussion will begin in the Lobby with a closer look at Juli
