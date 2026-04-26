@@ -43,34 +43,6 @@ URL:https://members.thequinhouse.com/events/177695
 CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
-UID:quin-event-180908@thequinhouse.com
-DTSTAMP:20260425T130000Z
-DTSTART;TZID=America/New_York:20260425T130000
-DTEND;TZID=America/New_York:20260425T150000
-SUMMARY:Hands-On Impact: Cradles to Crayons 
-LOCATION:Offsite: The Giving Factory
-DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nAvailability: 15 sp
- ots left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/e
- vents/180908\n\nMake an impact with Cradles to Crayons through a hands-on 
- volunteer opportunity offered through The 'Quin Impact Fund. Cradles to Cr
- ayons is a nonprofit committed to ending children’s clothing insecurity 
- in the U.S. Since 2002\, they have provided more than 6 million packages o
- f essentials—including clothing\, shoes\, diapers\, and school supplies�
- ��to children in Massachusetts\, Chicago\, Philadelphia\, New York City\, 
- and San Francisco.\n\nAt the Cradles to Crayons “Giving Factory\,” mem
- bers will take part in sorting\, quality-checking\, and packaging donation
- s that go directly to children and families in need—helping ensure every
-  child can arrive at school feeling confident\, prepared\, and valued.\n\n
- *This event is complimentary and reserved for members\, plus one registere
- d guest age 5+. By registering\, you acknowledge that your name and contac
- t information will be shared with the participating organization. Please w
- ear comfortable clothing you don’t mind getting dirty\, along with close
- -toe shoes. The warehouse is not climate-controlled\, so dress with the we
- ather in mind.
-URL:https://members.thequinhouse.com/events/180908
-CATEGORIES:‘Quin Impact Fund
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-176384@thequinhouse.com
 DTSTAMP:20260426T173000Z
 DTSTART;VALUE=DATE:20260426
@@ -138,7 +110,7 @@ DTSTART;TZID=America/New_York:20260427T180000
 DTEND;TZID=America/New_York:20260427T200000
 SUMMARY:Member Meet Up: King's Bowling
 LOCATION:Offsite: King's Bowling\, Back Bay
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 8 spots left
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 7 spots left
  \nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/e
  vents/183272\n\nSpare yourself the ordinary evening and join us at King’
  s Bowling for a Member Meet-Up that’s equal parts pins\, pours\, and pla
@@ -423,7 +395,7 @@ DTEND;TZID=America/New_York:20260507T130000
 SUMMARY:Women\, Worth & Wisdom: The Next Generation of Female Leaders
 LOCATION:Bondo
 DESCRIPTION:Category: ‘Quin Chat\nPrice: $35.00 per person\nAvailability:
-  8 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse.
+  4 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse.
  com/events/182099\n\n11:30AM Lunch\, 12:00PM Discussion \n\nJoin us for t
  he final installment of our four-part series\, Women\, Worth & Wisdom\, le
  d by Colette Phillips\, founder of Get Konnected. This culminating convers
@@ -653,38 +625,38 @@ DTSTART;VALUE=DATE:20260514
 DTEND;VALUE=DATE:20260515
 SUMMARY:New York City Art Excursion
 LOCATION:Offsite: New York City
-DESCRIPTION:Category: The Arts\nPrice: $420.56 per person\nAvailability: 3 
- spots left\nStatus: Available\nTime: 9 AM – 5 PM\nEvent URL: https://mem
- bers.thequinhouse.com/events/184226\n\nWe are excited to offer a curated\,
-  behind-the-scenes look at the contemporary art world lead by The ’Quin 
- House art curator\, Kate Chertavian.\n\nSpend a private morning at Christi
- e’s\, featuring expert insights from leading specialists in Impressionis
- t\, Modern\, and 20th Century art. Through guided discussion and close loo
- king\, members will gain a deeper understanding of the auction process and
-  highlights of the May sales.\n\nFrom there\, members will travel to Chels
- ea for a series of guided gallery visits at David Zwirner\, Hales\, and Ha
- user & Wirth\, where you will experience current exhibitions at some of th
- e most influential galleries in the world.\n\nMidday\, members will gather
-  for a lunch discussion with Kate\, focused on strategies for navigating a
- n art fair and building a thoughtful approach to collecting.\n\nThe aftern
- oon will conclude at Frieze New York at The Shed\, where members will have
-  the opportunity to explore the fair independently\, applying insights fro
- m the day in real time. Throughout the experience\, members will gain behi
- nd-the-scenes perspective on the art market\, along with Kate’s “5 Thi
- ngs to Know about Collecting.”\n\n9:00AM - 9:15AM | Arrival & Welcome at
-  Christie’s\n9:15AM - 11:00AM | Private Viewing at Christie’s\n11:00AM
-  - 11:30AM | Transit to Chelsea\n11:30AM - 1:20PM | Gallery Visits: David 
- Zwirner\, Hales\, Hauser & Wirth\n1:30PM - 2:30PM | Lunch & Discussion wit
- h Kate Chertavian\n3:00PM - 5:00PM | Independent Browsing at Frieze New Yo
- rk\n\nThis intimate\, thoughtfully designed program offers a unique opport
- unity to engage directly with experts\, deepen your understanding of the a
- rt market\, and experience New York’s art scene alongside fellow members
- .\n\n*This excursion is offered to members-only at $450 per person\, inclu
- ding the cost of lunch\, group transportation between Christie's and the g
- alleries\, as well as your ticket to the Frieze Art Fair. A limited number
-  of spaces are available on a first come\, first to reserve basis. Members
-  are responsible for their own transportation to and from New York. Ticke
- ts are non-refundable and non-transferable.
+DESCRIPTION:Category: The Arts\nPrice: $420.56 per person\nAvailability: 1 
+ spot left\nStatus: Available\nTime: 9 AM – 5 PM\nEvent URL: https://memb
+ ers.thequinhouse.com/events/184226\n\nWe are excited to offer a curated\, 
+ behind-the-scenes look at the contemporary art world lead by The ’Quin H
+ ouse art curator\, Kate Chertavian.\n\nSpend a private morning at Christie
+ ’s\, featuring expert insights from leading specialists in Impressionist
+ \, Modern\, and 20th Century art. Through guided discussion and close look
+ ing\, members will gain a deeper understanding of the auction process and 
+ highlights of the May sales.\n\nFrom there\, members will travel to Chelse
+ a for a series of guided gallery visits at David Zwirner\, Hales\, and Hau
+ ser & Wirth\, where you will experience current exhibitions at some of the
+  most influential galleries in the world.\n\nMidday\, members will gather 
+ for a lunch discussion with Kate\, focused on strategies for navigating an
+  art fair and building a thoughtful approach to collecting.\n\nThe afterno
+ on will conclude at Frieze New York at The Shed\, where members will have 
+ the opportunity to explore the fair independently\, applying insights from
+  the day in real time. Throughout the experience\, members will gain behin
+ d-the-scenes perspective on the art market\, along with Kate’s “5 Thin
+ gs to Know about Collecting.”\n\n9:00AM - 9:15AM | Arrival & Welcome at 
+ Christie’s\n9:15AM - 11:00AM | Private Viewing at Christie’s\n11:00AM 
+ - 11:30AM | Transit to Chelsea\n11:30AM - 1:20PM | Gallery Visits: David Z
+ wirner\, Hales\, Hauser & Wirth\n1:30PM - 2:30PM | Lunch & Discussion with
+  Kate Chertavian\n3:00PM - 5:00PM | Independent Browsing at Frieze New Yor
+ k\n\nThis intimate\, thoughtfully designed program offers a unique opportu
+ nity to engage directly with experts\, deepen your understanding of the ar
+ t market\, and experience New York’s art scene alongside fellow members.
+ \n\n*This excursion is offered to members-only at $450 per person\, includ
+ ing the cost of lunch\, group transportation between Christie's and the ga
+ lleries\, as well as your ticket to the Frieze Art Fair. A limited number 
+ of spaces are available on a first come\, first to reserve basis. Members 
+ are responsible for their own transportation to and from New York. Ticket
+ s are non-refundable and non-transferable.
 URL:https://members.thequinhouse.com/events/184226
 CATEGORIES:The Arts
 END:VEVENT
@@ -911,7 +883,7 @@ DTSTART;TZID=America/New_York:20260528T110000
 DTEND;TZID=America/New_York:20260528T120000
 SUMMARY:Art Tour: Masterworks in Print 
 LOCATION:Meet in The Lobby
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 18 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 16 spots left\nS
  tatus: Available\nEvent URL: https://members.thequinhouse.com/events/17637
  9\n\nJoin ‘Quin Collection Curator Kate Chertavian for a print-focused a
  rt tour. The discussion will begin in the Lobby with a closer look at Juli
