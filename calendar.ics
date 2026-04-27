@@ -94,7 +94,7 @@ DTSTART;TZID=America/New_York:20260427T180000
 DTEND;TZID=America/New_York:20260427T200000
 SUMMARY:Member Meet Up: King's Bowling
 LOCATION:Offsite: King's Bowling\, Back Bay
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 13 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 15 spots lef
  t\nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/
  events/183272\n\nSpare yourself the ordinary evening and join us at King�
  �s Bowling for a Member Meet-Up that’s equal parts pins\, pours\, and pl
@@ -132,7 +132,7 @@ DTSTART;TZID=America/New_York:20260428T170000
 DTEND;TZID=America/New_York:20260428T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 2 spots left
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 3 spots left
  \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/18
  0905\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set 
  in an ambiant reserved space. This is your opportunity to connect with fel
@@ -153,23 +153,22 @@ DTSTART;TZID=America/New_York:20260428T170000
 DTEND;TZID=America/New_York:20260428T183000
 SUMMARY:'Quin Chat: The Atlantic's Nick Thompson 
 LOCATION:Scottie's
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 2 spots left
- \nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/e
- vents/180909\n\n5:00PM Reception\, 5:30PM Discussion \nStep into a wide-r
- anging conversation with Nicholas Thompson\, CEO of The Atlantic. During 
- his tenure\, the publication has won the National Magazine Award for Gener
- al Excellence three times\, become one of the fastest-growing news organiz
- ations in the country\, and reached record profitability and subscriber gr
- owth in its 157-year history. He is also the author of the national bestse
- ller The Running Ground and host of the podcast The Most Interesting Th
- ing in AI\, where he explores the rapidly evolving world of artificial int
- elligence.\n\nThompson will be joined in conversation by Claire Hughes Joh
- nson\, a technology leader and former Chief Operating Officer of Stripe. 
- Together\, they will explore the forces shaping today’s media and techno
- logy landscapes - from the future of AI and innovation to the evolving rol
- e of storytelling and leadership in a rapidly changing world.\n\n*This eve
- nt is complimentary and reserved for members only. Light bites and refresh
- ments will be served.
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nStatus: You are Confirmed\
+ nEvent URL: https://members.thequinhouse.com/events/180909\n\n5:00PM Recep
+ tion\, 5:30PM Discussion \nStep into a wide-ranging conversation with Nic
+ holas Thompson\, CEO of The Atlantic. During his tenure\, the publication
+  has won the National Magazine Award for General Excellence three times\, 
+ become one of the fastest-growing news organizations in the country\, and 
+ reached record profitability and subscriber growth in its 157-year history
+ . He is also the author of the national bestseller The Running Ground an
+ d host of the podcast The Most Interesting Thing in AI\, where he explore
+ s the rapidly evolving world of artificial intelligence.\n\nThompson will 
+ be joined in conversation by Claire Hughes Johnson\, a technology leader a
+ nd former Chief Operating Officer of Stripe. Together\, they will explore
+  the forces shaping today’s media and technology landscapes - from the f
+ uture of AI and innovation to the evolving role of storytelling and leader
+ ship in a rapidly changing world.\n\n*This event is complimentary and rese
+ rved for members only. Light bites and refreshments will be served.
 URL:https://members.thequinhouse.com/events/180909
 CATEGORIES:‘Quin Chat
 END:VEVENT
@@ -236,22 +235,22 @@ DTSTART;TZID=America/New_York:20260501T180000
 DTEND;TZID=America/New_York:20260501T210000
 SUMMARY:Private Screening: The Devil Wears Prada 2
 LOCATION:Offsite: Alamo Drafthouse Seaport
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 50 spots left\nS
- tatus: futureSale\nEvent URL: https://members.thequinhouse.com/events/1824
- 48\n\n6:00PM Doors Open\, 6:30PM Screening\nStep back into the high-stakes
-  world of fashion with The Devil Wears Prada 2\, where ambition\, reinvent
- ion\, and razor-sharp wit take center stage. As Andy Sachs navigates the n
- ext chapter of her career\, she’s once again drawn into the orbit of the
-  formidable Miranda Priestly—where the stakes are higher\, the expectati
- ons sharper\, and the line between success and sacrifice more blurred than
-  ever. With returning favorites and new power players\, this stylish seque
- l delivers drama\, humor\, and an inside look at the ever-evolving world o
- f fashion.\n\nEnjoy convenient seat-side food and beverage service\, avail
- able for member purchase from the Alamo concession offerings. Place your o
- rder and have it delivered directly to your seat between 6:00pm and 6:30pm
- .\n\n*This event is complimentary and reserved for members\, plus one regi
- stered guest age 16+. Tableside food and beverage service is available in 
- the theater from 6:00pm - 6:30pm.
+DESCRIPTION:Category: The Arts\nPrice: Free\nStatus: You are on Waitlist\nE
+ vent URL: https://members.thequinhouse.com/events/182448\n\n6:00PM Doors O
+ pen\, 6:30PM Screening\nStep back into the high-stakes world of fashion wi
+ th The Devil Wears Prada 2\, where ambition\, reinvention\, and razor-shar
+ p wit take center stage. As Andy Sachs navigates the next chapter of her c
+ areer\, she’s once again drawn into the orbit of the formidable Miranda 
+ Priestly—where the stakes are higher\, the expectations sharper\, and th
+ e line between success and sacrifice more blurred than ever. With returnin
+ g favorites and new power players\, this stylish sequel delivers drama\, h
+ umor\, and an inside look at the ever-evolving world of fashion.\n\nEnjoy 
+ convenient seat-side food and beverage service\, available for member purc
+ hase from the Alamo concession offerings. Place your order and have it del
+ ivered directly to your seat between 6:00pm and 6:30pm.\n\n*This event is 
+ complimentary and reserved for members\, plus one registered guest age 16+
+ . Tableside food and beverage service is available in the theater from 6:0
+ 0pm - 6:30pm.
 URL:https://members.thequinhouse.com/events/182448
 CATEGORIES:The Arts
 END:VEVENT
@@ -318,7 +317,7 @@ DTEND;TZID=America/New_York:20260504T210000
 SUMMARY:Serendipity Dinner 
 LOCATION:The Muse
 DESCRIPTION:Category: Member Mixer\nPrice: $100.00 per person\nAvailability
- : 3 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
+ : 2 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
  .com/events/175997\n\nJoin The ‘Quin House Managing Director\, Matthias 
  Kiehm\, for an evening of meaningful connections over a thoughtfully curat
  ed three-course dinner. Enjoy expertly paired wines as you engage with fel
@@ -339,7 +338,7 @@ DTSTART;TZID=America/New_York:20260505T170000
 DTEND;TZID=America/New_York:20260505T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 8 spots left
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 5 spots left
  \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/18
  2097\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set 
  in an ambiant reserved space. This is your opportunity to connect with fel
@@ -460,7 +459,7 @@ DTEND;TZID=America/New_York:20260509T140000
 SUMMARY:Serendipity Brunch: The 40's Social
 LOCATION:Lunasol
 DESCRIPTION:Category: Member Mixer\nPrice: $65.00 per person\nAvailability:
-  15 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
+  13 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
  .com/events/182101\n\nStep into a lively Saturday brunch designed for memb
  ers in their 40s - where meaningful connections come naturally and convers
  ation flows as effortlessly as the mimosas. This Serendipity Brunch invite
@@ -538,7 +537,7 @@ DTSTART;TZID=America/New_York:20260512T170000
 DTEND;TZID=America/New_York:20260512T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 33 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 32 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  82248\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in an ambiant reserved space. This is your opportunity to connect with fe
@@ -689,22 +688,22 @@ DTSTART;TZID=America/New_York:20260514T173000
 DTEND;TZID=America/New_York:20260514T200000
 SUMMARY:Game Night: Bridge Instructional Play 
 LOCATION:The Muse
-DESCRIPTION:Category: Sports & Games\nPrice: Free\nAvailability: 32 spots l
- eft\nStatus: futureSale\nEvent URL: https://members.thequinhouse.com/event
- s/182450\n\nDiscover the art and strategy of Bridge in a thoughtfully desi
- gned two-part instructional series for members. Our expert instructor\, Z
- ach Grossack\, will guide members through the fundamentals\, offering tips
- \, strategies\, and techniques designed for beginners and intermediate pla
- yers alike.\n\nEach session is relaxed and hands-on\, offering the opportu
- nity to practice bidding\, refine strategy\, and build confidence at the t
- able with personalized guidance. Look forward to a welcoming environment t
- o learn\, improve\, and enjoy the timeless art of Bridge alongside fellow 
- members.\n\n*This event is complimentary and reserved for members only. Pl
- ease note that this is a two-part series\; registration for the first sess
- ion on May 14th will automatically enroll you in the second session on Ma
- y 21st\, ensuring a cohesive learning experience across both evenings. Gue
- sts are invited to arrive at 5:30PM to settle in with a bite and beverage 
- on the 'House before the class begins promptly at 6:00 PM.
+DESCRIPTION:Category: Sports & Games\nPrice: Free\nStatus: Waitlist Only\nE
+ vent URL: https://members.thequinhouse.com/events/182450\n\nDiscover the a
+ rt and strategy of Bridge in a thoughtfully designed two-part instructiona
+ l series for members. Our expert instructor\, Zach Grossack\, will guide 
+ members through the fundamentals\, offering tips\, strategies\, and techni
+ ques designed for beginners and intermediate players alike.\n\nEach sessio
+ n is relaxed and hands-on\, offering the opportunity to practice bidding\,
+  refine strategy\, and build confidence at the table with personalized gui
+ dance. Look forward to a welcoming environment to learn\, improve\, and en
+ joy the timeless art of Bridge alongside fellow members.\n\n*This event is
+  complimentary and reserved for members only. Please note that this is a t
+ wo-part series\; registration for the first session on May 14th will auto
+ matically enroll you in the second session on May 21st\, ensuring a cohesi
+ ve learning experience across both evenings. Guests are invited to arrive 
+ at 5:30PM to settle in with a bite and beverage on the 'House before the c
+ lass begins promptly at 6:00 PM.
 URL:https://members.thequinhouse.com/events/182450
 CATEGORIES:Sports & Games
 END:VEVENT
@@ -716,26 +715,25 @@ DTEND;TZID=America/New_York:20260518T190000
 SUMMARY:Author's Circle Book Club: "Love & Other Monsters" with Emily Frank
  lin
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 49 spots left\nS
- tatus: futureSale\nEvent URL: https://members.thequinhouse.com/events/1842
- 08\n\nBookmark the date for a captivating conversation exploring Love & O
- ther Monsters by Emily Franklin—a richly imagined novel set against the 
- haunting backdrop of the “Year Without Summer.”\n\nIn 1816\, amid unre
- lenting storms on the shores of Lake Geneva\, a group of young literary ic
- ons—including Mary and Percy Shelley and the infamous Lord Byron—gathe
- r to create\, provoke\, and unravel. At the center of it all is Claire Cla
- irmont: clever\, passionate\, and often overshadowed\, yet determined to c
- arve out her own identity in a world dominated by brilliance and ego. As r
- omance\, rivalry\, and ambition collide\, Claire must navigate loyalty\, l
- onging\, and the cost of living—and loving—on the edge of history.\n\n
- Blending historical intrigue with emotional depth\, Love & Other Monsters
-  explores the origins of legendary works like Frankenstein while giving vo
- ice to the woman too often left out of the story.\n\nJoin us for an engagi
- ng discussion moderated by Wendy Dodson\, owner of Hummingbird Books\, as 
- we delve into this atmospheric novel and its themes of creativity\, fame\,
-  and the monsters we make—both real and imagined.\n\n*This event is comp
- limentary and reserved for members only. Light refreshments will be served
- .
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 22 spots left\nS
+ tatus: Available\nEvent URL: https://members.thequinhouse.com/events/18420
+ 8\n\nBookmark the date for a captivating conversation exploring Love & Ot
+ her Monsters by Emily Franklin—a richly imagined novel set against the h
+ aunting backdrop of the “Year Without Summer.”\n\nIn 1816\, amid unrel
+ enting storms on the shores of Lake Geneva\, a group of young literary ico
+ ns—including Mary and Percy Shelley and the infamous Lord Byron—gather
+  to create\, provoke\, and unravel. At the center of it all is Claire Clai
+ rmont: clever\, passionate\, and often overshadowed\, yet determined to ca
+ rve out her own identity in a world dominated by brilliance and ego. As ro
+ mance\, rivalry\, and ambition collide\, Claire must navigate loyalty\, lo
+ nging\, and the cost of living—and loving—on the edge of history.\n\nB
+ lending historical intrigue with emotional depth\, Love & Other Monsters 
+ explores the origins of legendary works like Frankenstein while giving voi
+ ce to the woman too often left out of the story.\n\nJoin us for an engagin
+ g discussion moderated by Wendy Dodson\, owner of Hummingbird Books\, as w
+ e delve into this atmospheric novel and its themes of creativity\, fame\, 
+ and the monsters we make—both real and imagined.\n\n*This event is compl
+ imentary and reserved for members only. Light refreshments will be served.
 URL:https://members.thequinhouse.com/events/184208
 CATEGORIES:The Arts
 END:VEVENT
@@ -747,7 +745,7 @@ DTEND;TZID=America/New_York:20260518T210000
 SUMMARY:Serendipity Dinner: The Ladies' Table
 LOCATION:The Muse
 DESCRIPTION:Category: Member Mixer\nPrice: $100.00 per person\nAvailability
- : 15 spots left\nStatus: Available\nEvent URL: https://members.thequinhous
+ : 14 spots left\nStatus: Available\nEvent URL: https://members.thequinhous
  e.com/events/184142\n\nSavor an evening designed for meaningful connection
   at this special Serendipity Dinner\, thoughtfully curated for women of Th
  e ’Quin. Gather around an intimate table for a three-course dining exper
@@ -772,32 +770,32 @@ DTEND;TZID=America/New_York:20260519T150000
 SUMMARY: 90 Minutes of Innovation: Leadership\, Governance and the Long Vie
  w 
 LOCATION:The Pub
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 100 spots le
- ft\nStatus: futureSale\nEvent URL: https://members.thequinhouse.com/events
- /169178\n\n1:00PM Program\, 2:30PM Networking\nWhat does it take to guide 
- institutions\, advise CEOs\, and shape strategy at the highest levels acro
- ss decades of transformation?\n\nIn the latest edition of 90 Minutes of In
- novation*\, John Werner—venture capitalist\, MIT lecturer\, and *Forbes*
-  AI columnist—sits down with David Mussafer\, Chairman of Advent Interna
- tional and one of the most influential leaders in global private equity.\
- n\nWith a career spanning decades\, Mussafer has helped build Advent into�
- �one of the world’s top ten private equity firms\, headquartered here in
-  Boston\, while also advising companies and serving on boards across indus
- tries. Drawing from the arc of his life’s work\, the conversation will 
- weave together personal insights and professional milestones\, offering a
-  perspective that sits at the intersection of capital\, governance\, and l
- ong-term value creation—where the biggest decisions are often the least 
- visible.\n\nTogether\, they will explore what great companies and leadersh
- ip teams have in common\, how boards actually function—and how they must
-  evolve—the role of private equity in building\, not just acquiring\, co
- mpanies\, and how leaders navigate uncertainty\, cycles\, and long-term st
- rategy. The conversation will also draw on lessons from decades of investi
- ng across sectors and geographies.\n\nExpect a thoughtful\, behind-the-sce
- nes conversation about how decisions get made at the highest levels—wher
- e governance meets growth\, and strategy meets execution.\n\nFrom boardroo
- ms to global markets—one stage\, one conversation\, not to be missed.\n\
- n*This event is complimentary and reserved for members only. Light bites a
- nd refreshments will be served.
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 32 spots lef
+ t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
+ 69178\n\n1:00PM Program\, 2:30PM Networking\nWhat does it take to guide in
+ stitutions\, advise CEOs\, and shape strategy at the highest levels across
+  decades of transformation?\n\nIn the latest edition of 90 Minutes of Inno
+ vation*\, John Werner—venture capitalist\, MIT lecturer\, and *Forbes* A
+ I columnist—sits down with David Mussafer\, Chairman of Advent Internati
+ onal and one of the most influential leaders in global private equity.\n\
+ nWith a career spanning decades\, Mussafer has helped build Advent into o
+ ne of the world’s top ten private equity firms\, headquartered here in B
+ oston\, while also advising companies and serving on boards across industr
+ ies. Drawing from the arc of his life’s work\, the conversation will we
+ ave together personal insights and professional milestones\, offering a p
+ erspective that sits at the intersection of capital\, governance\, and lon
+ g-term value creation—where the biggest decisions are often the least vi
+ sible.\n\nTogether\, they will explore what great companies and leadership
+  teams have in common\, how boards actually function—and how they must e
+ volve—the role of private equity in building\, not just acquiring\, comp
+ anies\, and how leaders navigate uncertainty\, cycles\, and long-term stra
+ tegy. The conversation will also draw on lessons from decades of investing
+  across sectors and geographies.\n\nExpect a thoughtful\, behind-the-scene
+ s conversation about how decisions get made at the highest levels—where 
+ governance meets growth\, and strategy meets execution.\n\nFrom boardrooms
+  to global markets—one stage\, one conversation\, not to be missed.\n\n*
+ This event is complimentary and reserved for members only. Light bites and
+  refreshments will be served.
 URL:https://members.thequinhouse.com/events/169178
 CATEGORIES:‘Quin Chat
 END:VEVENT
@@ -808,7 +806,7 @@ DTSTART;TZID=America/New_York:20260519T170000
 DTEND;TZID=America/New_York:20260519T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 32 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 30 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  84145\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in an ambiant reserved space. This is your opportunity to connect with fe
@@ -868,18 +866,18 @@ DTSTART;TZID=America/New_York:20260528T110000
 DTEND;TZID=America/New_York:20260528T120000
 SUMMARY:Art Tour: Masterworks in Print 
 LOCATION:Meet in The Lobby
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 8 spots left\nSt
- atus: Available\nEvent URL: https://members.thequinhouse.com/events/176379
- \n\nJoin ‘Quin Collection Curator Kate Chertavian for a print-focused ar
- t tour. The discussion will begin in the Lobby with a closer look at Julie
-  Mehretu’s spectacular copper-plate etching\, Six Bardos: Luminous Appea
- rance\, and Cy Twombly’s silkscreen from the landmark On the Bowery seri
- es.\n\nThe conversation will explore a wide range of printmaking technique
- s—including screenprint\, woodcut\, and lithography—featuring works by
-  artists such as Robert Mangold\, Jasper Johns\, and Louise Bourgeois.\n\n
- The tour will also offer insights into a remarkable new addition to the �
- �Quin’s collection: Claude Monet’s Champ d’Iris à Giverny.\n\n*This
-  event is complimentary and reserved for members only.
+DESCRIPTION:Category: The Arts\nPrice: Free\nStatus: Waitlist Only\nEvent U
+ RL: https://members.thequinhouse.com/events/176379\n\nJoin ‘Quin Collect
+ ion Curator Kate Chertavian for a print-focused art tour. The discussion w
+ ill begin in the Lobby with a closer look at Julie Mehretu’s spectacular
+  copper-plate etching\, Six Bardos: Luminous Appearance\, and Cy Twombly�
+ �s silkscreen from the landmark On the Bowery series.\n\nThe conversation 
+ will explore a wide range of printmaking techniques—including screenprin
+ t\, woodcut\, and lithography—featuring works by artists such as Robert 
+ Mangold\, Jasper Johns\, and Louise Bourgeois.\n\nThe tour will also offer
+  insights into a remarkable new addition to the ‘Quin’s collection: Cl
+ aude Monet’s Champ d’Iris à Giverny.\n\n*This event is complimentary 
+ and reserved for members only.
 URL:https://members.thequinhouse.com/events/176379
 CATEGORIES:The Arts
 END:VEVENT
