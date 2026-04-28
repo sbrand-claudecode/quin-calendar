@@ -113,7 +113,7 @@ DTSTART;TZID=America/New_York:20260428T170000
 DTEND;TZID=America/New_York:20260428T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 4 spots left
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 5 spots left
  \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/18
  0905\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set 
  in an ambiant reserved space. This is your opportunity to connect with fel
@@ -134,23 +134,23 @@ DTSTART;TZID=America/New_York:20260428T170000
 DTEND;TZID=America/New_York:20260428T183000
 SUMMARY:'Quin Chat: The Atlantic's Nick Thompson 
 LOCATION:Scottie's
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 1 spot left\
- nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/ev
- ents/180909\n\n5:00PM Reception\, 5:30PM Discussion \nStep into a wide-ra
- nging conversation with Nicholas Thompson\, CEO of The Atlantic. During h
- is tenure\, the publication has won the National Magazine Award for Genera
- l Excellence three times\, become one of the fastest-growing news organiza
- tions in the country\, and reached record profitability and subscriber gro
- wth in its 157-year history. He is also the author of the national bestsel
- ler The Running Ground and host of the podcast The Most Interesting Thi
- ng in AI\, where he explores the rapidly evolving world of artificial inte
- lligence.\n\nThompson will be joined in conversation by Claire Hughes John
- son\, a technology leader and former Chief Operating Officer of Stripe. T
- ogether\, they will explore the forces shaping today’s media and technol
- ogy landscapes - from the future of AI and innovation to the evolving role
-  of storytelling and leadership in a rapidly changing world.\n\n*This even
- t is complimentary and reserved for members only. Light bites and refreshm
- ents will be served.
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 2 spots left
+ \nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/e
+ vents/180909\n\n5:00PM Reception\, 5:30PM Discussion \nStep into a wide-r
+ anging conversation with Nicholas Thompson\, CEO of The Atlantic. During 
+ his tenure\, the publication has won the National Magazine Award for Gener
+ al Excellence three times\, become one of the fastest-growing news organiz
+ ations in the country\, and reached record profitability and subscriber gr
+ owth in its 157-year history. He is also the author of the national bestse
+ ller The Running Ground and host of the podcast The Most Interesting Th
+ ing in AI\, where he explores the rapidly evolving world of artificial int
+ elligence.\n\nThompson will be joined in conversation by Claire Hughes Joh
+ nson\, a technology leader and former Chief Operating Officer of Stripe. 
+ Together\, they will explore the forces shaping today’s media and techno
+ logy landscapes - from the future of AI and innovation to the evolving rol
+ e of storytelling and leadership in a rapidly changing world.\n\n*This eve
+ nt is complimentary and reserved for members only. Light bites and refresh
+ ments will be served.
 URL:https://members.thequinhouse.com/events/180909
 CATEGORIES:‘Quin Chat
 END:VEVENT
@@ -162,34 +162,34 @@ DTEND;TZID=America/New_York:20260429T150000
 SUMMARY:90 Minutes of Innovation: Networks\, Intelligence & the Future of D
  ecision-Making 
 LOCATION:The Pub
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 1 spot left\
- nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/ev
- ents/180910\n\n1:00PM Program\, 2:30PM Networking\nWhat can we learn from 
- the individuals shaping AI\, enterprise transformation\, and modern engine
- ering at the highest levels?\n\nIn the latest edition of 90 Minutes of Inn
- ovation\, John Werner - venture capitalist\, MIT lecturer\, and Forbes AI 
- columnist - will lead a series of one-on-one conversations with three rema
- rkable leaders\, each offering a distinct perspective on innovation\, lead
- ership\, and the moment we’re in.\n\nJon Hirschtick\, founder of SolidWo
- rks and Onshape\, is a pioneering force in computer-aided design who has t
- ransformed how engineers and designers build the world. An MIT alumnus\, h
- e used winnings from the Institute’s legendary blackjack team to launch 
- his first company - an experience that later inspired the film 21.\n\nSand
- y Pentland\, MIT professor with appointments at MIT and Stanford\, and one
-  of the most cited data scientists globally\, whose work on human behavior
- \, social networks\, and “reality mining” has fundamentally reshaped h
- ow we understand trust\, cities\, and collective intelligence. He will spe
- ak on his recent book\, Shared Wisdom: Cultural Evolution in the Age of A
- I.\n\nDavid Kenny\, Executive Chairman of Nielsen and former CEO of IBM Wa
- tson\, with prior leadership roles at Akamai and The Weather Channel\, has
-  operated at the forefront of AI\, data\, and global enterprise transforma
- tion.\n\nThrough individual interviews\, the afternoon will explore their 
- personal journeys\, the ideas that have defined their work\, and how each 
- sees the rapidly evolving landscape of AI\, technology\, and innovation to
- day. Expect an engaging\, insight-rich experience that connects lived expe
- rience with forward-looking perspective - offering a rare window into how 
- these leaders think\, build\, and lead.\n\n*This event is complimentary an
- d reserved for members only. Light bites and refreshments will be served.
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 2 spots left
+ \nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/e
+ vents/180910\n\n1:00PM Program\, 2:30PM Networking\nWhat can we learn from
+  the individuals shaping AI\, enterprise transformation\, and modern engin
+ eering at the highest levels?\n\nIn the latest edition of 90 Minutes of In
+ novation\, John Werner - venture capitalist\, MIT lecturer\, and Forbes AI
+  columnist - will lead a series of one-on-one conversations with three rem
+ arkable leaders\, each offering a distinct perspective on innovation\, lea
+ dership\, and the moment we’re in.\n\nJon Hirschtick\, founder of SolidW
+ orks and Onshape\, is a pioneering force in computer-aided design who has 
+ transformed how engineers and designers build the world. An MIT alumnus\, 
+ he used winnings from the Institute’s legendary blackjack team to launch
+  his first company - an experience that later inspired the film 21.\n\nSan
+ dy Pentland\, MIT professor with appointments at MIT and Stanford\, and on
+ e of the most cited data scientists globally\, whose work on human behavio
+ r\, social networks\, and “reality mining” has fundamentally reshaped 
+ how we understand trust\, cities\, and collective intelligence. He will sp
+ eak on his recent book\, Shared Wisdom: Cultural Evolution in the Age of 
+ AI.\n\nDavid Kenny\, Executive Chairman of Nielsen and former CEO of IBM W
+ atson\, with prior leadership roles at Akamai and The Weather Channel\, ha
+ s operated at the forefront of AI\, data\, and global enterprise transform
+ ation.\n\nThrough individual interviews\, the afternoon will explore their
+  personal journeys\, the ideas that have defined their work\, and how each
+  sees the rapidly evolving landscape of AI\, technology\, and innovation t
+ oday. Expect an engaging\, insight-rich experience that connects lived exp
+ erience with forward-looking perspective - offering a rare window into how
+  these leaders think\, build\, and lead.\n\n*This event is complimentary a
+ nd reserved for members only. Light bites and refreshments will be served.
 URL:https://members.thequinhouse.com/events/180910
 CATEGORIES:‘Quin Chat
 END:VEVENT
@@ -320,7 +320,7 @@ DTSTART;TZID=America/New_York:20260505T170000
 DTEND;TZID=America/New_York:20260505T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 6 spots left
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 4 spots left
  \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/18
  2097\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set 
  in an ambiant reserved space. This is your opportunity to connect with fel
@@ -410,26 +410,26 @@ DTSTART;TZID=America/New_York:20260508T170000
 DTEND;TZID=America/New_York:20260508T183000
 SUMMARY:'Quin Chat: Finding Justice with New England Innocence Project
 LOCATION:Scottie's
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 1 spot left\
- nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/182
- 100\n\n5:00PM Reception\, 5:30PM Discussion\nAn evening that will challeng
- e what you think you know about justice - and redefine what it means to re
- build a life.\n\nHear firsthand from Sean Ellis and Edward Wright—two me
- n who were wrongfully convicted\, spent decades incarcerated\, and ultimat
- ely fought to reclaim their freedom. Their stories are deeply personal\, b
- ut also powerful reflections on systemic failure\, resilience\, and the lo
- ng road to exoneration.\n\nSean Ellis\, whose case gained international at
- tention through the Netflix docuseries Trial 4\, now leads advocacy effor
- ts through the Exoneree Network\, supporting others navigating life after 
- incarceration. Edward Wright\, exonerated after 41 years\, taught himself 
- the law while imprisoned - successfully fighting for his own freedom while
-  helping others do the same.\n\nThe conversation will be guided by Radha N
- atarajan\, Executive Director of the New England Innocence Project\, whose
-  work continues to confront bias and drive meaningful reform within the ju
- stice system.\n\nA rare opportunity to engage with voices at the forefront
-  of justice reform - and to witness the strength\, clarity\, and humanity 
- behind these extraordinary journeys.\n\n*This event is complimentary and r
- eserved for members only. Light bites and refreshments will be served.
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nStatus: Waitlist Only\nEve
+ nt URL: https://members.thequinhouse.com/events/182100\n\n5:00PM Reception
+ \, 5:30PM Discussion\nAn evening that will challenge what you think you kn
+ ow about justice - and redefine what it means to rebuild a life.\n\nHear f
+ irsthand from Sean Ellis and Edward Wright—two men who were wrongfully c
+ onvicted\, spent decades incarcerated\, and ultimately fought to reclaim t
+ heir freedom. Their stories are deeply personal\, but also powerful reflec
+ tions on systemic failure\, resilience\, and the long road to exoneration.
+ \n\nSean Ellis\, whose case gained international attention through the Net
+ flix docuseries Trial 4\, now leads advocacy efforts through the Exoneree
+  Network\, supporting others navigating life after incarceration. Edward W
+ right\, exonerated after 41 years\, taught himself the law while imprisone
+ d - successfully fighting for his own freedom while helping others do the 
+ same.\n\nThe conversation will be guided by Radha Natarajan\, Executive Di
+ rector of the New England Innocence Project\, whose work continues to conf
+ ront bias and drive meaningful reform within the justice system.\n\nA rare
+  opportunity to engage with voices at the forefront of justice reform - an
+ d to witness the strength\, clarity\, and humanity behind these extraordin
+ ary journeys.\n\n*This event is complimentary and reserved for members onl
+ y. Light bites and refreshments will be served.
 URL:https://members.thequinhouse.com/events/182100
 CATEGORIES:‘Quin Chat
 END:VEVENT
@@ -490,25 +490,25 @@ DTSTART;TZID=America/New_York:20260512T130000
 DTEND;TZID=America/New_York:20260512T150000
 SUMMARY:Hands-On Impact: Household Goods
 LOCATION:The Muse
-DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nStatus: Waitlist On
- ly\nEvent URL: https://members.thequinhouse.com/events/182103\n\nA simple 
- set of kitchen tools can be the difference between a space and a home.\n\n
- Join The ‘Quin Impact Fund for a hands-on volunteer experience in partne
- rship with Household Goods\, where you will assemble Kitchen Starter Sets 
- for individuals and families transitioning into stable housing. Together\,
-  you will unpack\, sort\, and thoughtfully build essential kits - each one
-  filled with everyday items that make it possible to cook\, gather\, and b
- egin again.\n\nHousehold Goods furnishes more than 2\,500 homes each year\
- , yet the demand for basic kitchen essentials remains constant. These star
- ter sets - simple\, practical\, and deeply impactful - help ensure that ev
- ery home begins with the tools needed for daily life.\n\nMembers are invit
- ed to contribute by donating new or gently used kitchen items or supportin
- g purchases through a curated Amazon wish list ahead of the event. A meani
- ngful opportunity to give back\, connect\, and play a small part in helpin
- g someone build a home from the ground up.\n\n*This event is complimentary
-  and reserved for members only. For any questions regarding donation item
- s\, please contact The ‘Quin Impact Fund team at impact@thequin.com.\n\
- nShop the Amazon Wishlist here.
+DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nAvailability: 1 spo
+ t left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/eve
+ nts/182103\n\nA simple set of kitchen tools can be the difference between 
+ a space and a home.\n\nJoin The ‘Quin Impact Fund for a hands-on volunte
+ er experience in partnership with Household Goods\, where you will assembl
+ e Kitchen Starter Sets for individuals and families transitioning into sta
+ ble housing. Together\, you will unpack\, sort\, and thoughtfully build es
+ sential kits - each one filled with everyday items that make it possible t
+ o cook\, gather\, and begin again.\n\nHousehold Goods furnishes more than 
+ 2\,500 homes each year\, yet the demand for basic kitchen essentials remai
+ ns constant. These starter sets - simple\, practical\, and deeply impactfu
+ l - help ensure that every home begins with the tools needed for daily lif
+ e.\n\nMembers are invited to contribute by donating new or gently used kit
+ chen items or supporting purchases through a curated Amazon wish list ahea
+ d of the event. A meaningful opportunity to give back\, connect\, and play
+  a small part in helping someone build a home from the ground up.\n\n*This
+  event is complimentary and reserved for members only. For any questions 
+ regarding donation items\, please contact The ‘Quin Impact Fund team at�
+ �impact@thequin.com.\n\nShop the Amazon Wishlist here.
 URL:https://members.thequinhouse.com/events/182103
 CATEGORIES:‘Quin Impact Fund
 END:VEVENT
@@ -697,7 +697,7 @@ DTEND;TZID=America/New_York:20260518T190000
 SUMMARY:Author's Circle Book Club: "Love & Other Monsters" with Emily Frank
  lin
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 8 spots left\nSt
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 7 spots left\nSt
  atus: Available\nEvent URL: https://members.thequinhouse.com/events/184208
  \n\nBookmark the date for a captivating conversation exploring Love & Oth
  er Monsters by Emily Franklin—a richly imagined novel set against the ha
@@ -752,7 +752,7 @@ DTEND;TZID=America/New_York:20260519T150000
 SUMMARY: 90 Minutes of Innovation: Leadership\, Governance and the Long Vie
  w 
 LOCATION:The Pub
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 14 spots lef
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 10 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  69178\n\n1:00PM Program\, 2:30PM Networking\nWhat does it take to guide in
  stitutions\, advise CEOs\, and shape strategy at the highest levels across
@@ -788,7 +788,7 @@ DTSTART;TZID=America/New_York:20260519T170000
 DTEND;TZID=America/New_York:20260519T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 28 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 27 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  84145\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in an ambiant reserved space. This is your opportunity to connect with fe
@@ -942,83 +942,83 @@ DTEND;VALUE=DATE:20260707
 SUMMARY:'Venture: Wimbledon
 LOCATION:Offsite
 DESCRIPTION:Category: ‘Venture - Travel\nPrice: $12850.47 per person\nAva
- ilability: 1 spot left\nStatus: Available\nTime: 3 PM – 12 PM\nEvent URL
- : https://members.thequinhouse.com/events/183090\n\nAn Exclusive Seat at T
- ennis' Most Iconic Stage. Experience the Prestige of Wimbledon.\nMore than
-  a visit to London\, this is an invitation to one of sport’s most rarefi
- ed worlds - Wimbledon... where tradition\, precision\, and quiet luxury co
- nverge on perfectly kept grass courts.\n\nYour weekend centers on Sunday a
- t the All England Lawn Tennis Club\, where members will take their place o
- n Centre Court with coveted Debenture tickets\, among the most exclusive s
- eats in global sport. As the Championships enter the fourth round\, the at
- mosphere sharpens: the field narrows\, the stakes heighten\, and the game 
- reveals its most compelling drama. From this vantage point\, members will 
- witness the world’s finest players in matches that will define the traje
- ctory to the finals.\n\nBetween play\, move at your own pace through the g
- rounds - where champagne is poured with ease\, strawberries and cream rema
- in a ritual\, and every detail reflects Wimbledon’s singular blend of he
- ritage and refinement. This is not simply spectating\; it is participation
-  in a cultural institution\, experienced as it was intended.\n\nCurated wi
- th intention\, this is an insider experience of Wimbledon at its most elec
- tric\, shared in the company of those who appreciate it most.\n\nDay One |
-  Saturday\, July 4th\n\nYour journey begins with your arrival in London\, 
- where you will be welcomed to The Kensington Hotel\, a refined townhouse k
- nown for its polished discretion and residential charm.\n\nOnce checked in
- \, take a moment to unwind from your travels - whether relaxing in the hot
- el’s inviting drawing rooms or stepping out to explore the surrounding n
- eighborhood at your leisure. The afternoon is yours to ease into the rhyth
- m of the city or connect with fellow ‘Quin members as the experience uno
- fficially begins.\n\nIn the evening\, gather for a 'Quin Member welcome di
- nner hosted by former-Londoner - our very own Managing Director\, Matthias
-  Kiehm at The Audley Public House. The Audley is a proper neighborhood Pub
-  where history and contemporary art collide. Here\, amid thoughtfully rest
- ored interiors and a convivial atmosphere\, members will be reintroduced t
- o fellow fans of the sport over a beautifully prepared dinner while antici
- pating the next days matches.\n\nDay Two | Sunday\, July 5th\n\nYour secon
- d day begins with a seamless departure from The Kensington Hotel as you ma
- ke your way to Wimbledon\, with travel arrangements thoughtfully coordinat
- ed for ease and comfort.\n\nUpon arrival at the All England Lawn Tennis Cl
- ub on "Middle Sunday\," you will have the full day to experience the Gentl
- emen's and Ladies' Singles Fourth Round at your own pace. With Debenture t
- icket(s) in hand\, enjoy prime seating on Centre Court - where the field n
- arrows and the tournament’s momentum becomes palpable. Your tickets also
-  provide access to No. 1 Court and the outer courts\, allowing you to move
-  fluidly between matches and take in the breadth of play across the ground
- s.\n\nThroughout the day\, you will have access to the Debenture Holders�
- � Lounge and its collection of private bars and dining venues. Whether pau
- sing for a leisurely lunch\, a glass of champagne\, or a moment of respite
-  overlooking the courts\, the experience is yours to shape as you wish.\n\
- nFollowing the conclusion of play\, return to London in the early evening.
-  Keeping dynamic match times in mind\, the day concludes with a relaxed la
- te-evening group dinner\, in a stylish yet comfortable setting to unwind a
- nd reflect before returning to The Kensington Hotel for a well-deserved ni
- ghts rest.\n\nDay Three | Monday\, July 6th\n\nYour final morning begins a
- t a relaxed pace with breakfast at The Kensington Hotel. Enjoy a quiet sta
- rt to the day - whether over a leisurely meal or a final moment of calm in
-  the hotel’s inviting surroundings.\n\nFollowing breakfast\, departures 
- will take place on your own schedule - whether returning home\, or staying
-  on for an independent extension to the trip. As you make your way home\, 
- carry with you the memories of a weekend defined by exceptional access\, t
- houghtful curation\, and the shared experience of Wimbledon at its most co
- mpelling.\n\nClassic Room | Single Occupancy\n\nClassic Room at The Kensin
- gton Hotel | Two Twin Beds with Breakfast Included\n\nOne Wimbledon Debe
- nture Ticket to the Gentlemen's and Ladies' Singles Fourth Round\, includi
- ng Centre Court seating and the Debenture's Holders' Lounge with its colle
- ction of private bars and dining venues.\n\nTwo curated group dinners\, in
- cluding a welcome dinner at The Audley Public House.\n\n$7\,950\n\nClassic
-  Room | Double Occupancy\n\nClassic Room at The Kensington Hotel | Queen B
- ed with Breakfast Included\n\nTwo Wimbledon Debenture Tickets to the Gentl
- emen's and Ladies' Singles Fourth Round\, including Centre Court seating a
- nd the Debenture's Holders' Lounge with its collection of private bars and
-  dining venues.\n\nTwo curated group dinners\, including a welcome dinner 
- at The Audley Public House.\n\n$13\,750\n\nPlease note the price of airfar
- e is not included in the ticket price. Members and their guests are respon
- sible for booking their own flights. For the smoothest arrival experience\
- , we recommend flying into London Heathrow Airport (LHR) located less than
-  an hour by car from The Kensington Hotel.\n\n* Reservations are non-refun
- dable and non-transferable. Please note that all bookings are subject to t
- he terms and conditions outlined in the final confirmation materials inclu
- ding your sign-off on a standard liability waiver.
+ ilability: 2 spots left\nStatus: Available\nTime: 3 PM – 12 PM\nEvent UR
+ L: https://members.thequinhouse.com/events/183090\n\nAn Exclusive Seat at 
+ Tennis' Most Iconic Stage. Experience the Prestige of Wimbledon.\nMore tha
+ n a visit to London\, this is an invitation to one of sport’s most raref
+ ied worlds - Wimbledon... where tradition\, precision\, and quiet luxury c
+ onverge on perfectly kept grass courts.\n\nYour weekend centers on Sunday 
+ at the All England Lawn Tennis Club\, where members will take their place 
+ on Centre Court with coveted Debenture tickets\, among the most exclusive 
+ seats in global sport. As the Championships enter the fourth round\, the a
+ tmosphere sharpens: the field narrows\, the stakes heighten\, and the game
+  reveals its most compelling drama. From this vantage point\, members will
+  witness the world’s finest players in matches that will define the traj
+ ectory to the finals.\n\nBetween play\, move at your own pace through the 
+ grounds - where champagne is poured with ease\, strawberries and cream rem
+ ain a ritual\, and every detail reflects Wimbledon’s singular blend of h
+ eritage and refinement. This is not simply spectating\; it is participatio
+ n in a cultural institution\, experienced as it was intended.\n\nCurated w
+ ith intention\, this is an insider experience of Wimbledon at its most ele
+ ctric\, shared in the company of those who appreciate it most.\n\nDay One 
+ | Saturday\, July 4th\n\nYour journey begins with your arrival in London\,
+  where you will be welcomed to The Kensington Hotel\, a refined townhouse 
+ known for its polished discretion and residential charm.\n\nOnce checked i
+ n\, take a moment to unwind from your travels - whether relaxing in the ho
+ tel’s inviting drawing rooms or stepping out to explore the surrounding 
+ neighborhood at your leisure. The afternoon is yours to ease into the rhyt
+ hm of the city or connect with fellow ‘Quin members as the experience un
+ officially begins.\n\nIn the evening\, gather for a 'Quin Member welcome d
+ inner hosted by former-Londoner - our very own Managing Director\, Matthia
+ s Kiehm at The Audley Public House. The Audley is a proper neighborhood Pu
+ b where history and contemporary art collide. Here\, amid thoughtfully res
+ tored interiors and a convivial atmosphere\, members will be reintroduced 
+ to fellow fans of the sport over a beautifully prepared dinner while antic
+ ipating the next days matches.\n\nDay Two | Sunday\, July 5th\n\nYour seco
+ nd day begins with a seamless departure from The Kensington Hotel as you m
+ ake your way to Wimbledon\, with travel arrangements thoughtfully coordina
+ ted for ease and comfort.\n\nUpon arrival at the All England Lawn Tennis C
+ lub on "Middle Sunday\," you will have the full day to experience the Gent
+ lemen's and Ladies' Singles Fourth Round at your own pace. With Debenture 
+ ticket(s) in hand\, enjoy prime seating on Centre Court - where the field 
+ narrows and the tournament’s momentum becomes palpable. Your tickets als
+ o provide access to No. 1 Court and the outer courts\, allowing you to mov
+ e fluidly between matches and take in the breadth of play across the groun
+ ds.\n\nThroughout the day\, you will have access to the Debenture Holders�
+ �� Lounge and its collection of private bars and dining venues. Whether pa
+ using for a leisurely lunch\, a glass of champagne\, or a moment of respit
+ e overlooking the courts\, the experience is yours to shape as you wish.\n
+ \nFollowing the conclusion of play\, return to London in the early evening
+ . Keeping dynamic match times in mind\, the day concludes with a relaxed l
+ ate-evening group dinner\, in a stylish yet comfortable setting to unwind 
+ and reflect before returning to The Kensington Hotel for a well-deserved n
+ ights rest.\n\nDay Three | Monday\, July 6th\n\nYour final morning begins 
+ at a relaxed pace with breakfast at The Kensington Hotel. Enjoy a quiet st
+ art to the day - whether over a leisurely meal or a final moment of calm i
+ n the hotel’s inviting surroundings.\n\nFollowing breakfast\, departures
+  will take place on your own schedule - whether returning home\, or stayin
+ g on for an independent extension to the trip. As you make your way home\,
+  carry with you the memories of a weekend defined by exceptional access\, 
+ thoughtful curation\, and the shared experience of Wimbledon at its most c
+ ompelling.\n\nClassic Room | Single Occupancy\n\nClassic Room at The Kensi
+ ngton Hotel | Two Twin Beds with Breakfast Included\n\nOne Wimbledon Deb
+ enture Ticket to the Gentlemen's and Ladies' Singles Fourth Round\, includ
+ ing Centre Court seating and the Debenture's Holders' Lounge with its coll
+ ection of private bars and dining venues.\n\nTwo curated group dinners\, i
+ ncluding a welcome dinner at The Audley Public House.\n\n$7\,950\n\nClassi
+ c Room | Double Occupancy\n\nClassic Room at The Kensington Hotel | Queen 
+ Bed with Breakfast Included\n\nTwo Wimbledon Debenture Tickets to the Gent
+ lemen's and Ladies' Singles Fourth Round\, including Centre Court seating 
+ and the Debenture's Holders' Lounge with its collection of private bars an
+ d dining venues.\n\nTwo curated group dinners\, including a welcome dinner
+  at The Audley Public House.\n\n$13\,750\n\nPlease note the price of airfa
+ re is not included in the ticket price. Members and their guests are respo
+ nsible for booking their own flights. For the smoothest arrival experience
+ \, we recommend flying into London Heathrow Airport (LHR) located less tha
+ n an hour by car from The Kensington Hotel.\n\n* Reservations are non-refu
+ ndable and non-transferable. Please note that all bookings are subject to 
+ the terms and conditions outlined in the final confirmation materials incl
+ uding your sign-off on a standard liability waiver.
 URL:https://members.thequinhouse.com/events/183090
 CATEGORIES:‘Venture - Travel
 END:VEVENT
