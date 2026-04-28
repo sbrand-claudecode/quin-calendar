@@ -113,16 +113,17 @@ DTSTART;TZID=America/New_York:20260428T170000
 DTEND;TZID=America/New_York:20260428T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nStatus: Waitlist Only\nEve
- nt URL: https://members.thequinhouse.com/events/180905\n\nJoin us for our 
- weekly Member Mingle\, an inclusive gathering set in an ambiant reserved s
- pace. This is your opportunity to connect with fellow members\, exchange i
- deas\, and cultivate meaningful relationships.\n\nWhether you're sparking 
- new collaborations\, sharing insights\, or simply enjoying great conversat
- ion\, the Member Mingle is the perfect way to engage with our dynamic comm
- unity. Don’t miss the chance to connect\, inspire\, and be inspired!\n\n
- *This event is complimentary and reserved for members only. Complimentary 
- light bites will be served\, and beverages will be available for purchase.
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 4 spots left
+ \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/18
+ 0905\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set 
+ in an ambiant reserved space. This is your opportunity to connect with fel
+ low members\, exchange ideas\, and cultivate meaningful relationships.\n\n
+ Whether you're sparking new collaborations\, sharing insights\, or simply 
+ enjoying great conversation\, the Member Mingle is the perfect way to enga
+ ge with our dynamic community. Don’t miss the chance to connect\, inspir
+ e\, and be inspired!\n\n*This event is complimentary and reserved for memb
+ ers only. Complimentary light bites will be served\, and beverages will be
+  available for purchase.
 URL:https://members.thequinhouse.com/events/180905
 CATEGORIES:Member Mixer
 END:VEVENT
@@ -133,22 +134,23 @@ DTSTART;TZID=America/New_York:20260428T170000
 DTEND;TZID=America/New_York:20260428T183000
 SUMMARY:'Quin Chat: The Atlantic's Nick Thompson 
 LOCATION:Scottie's
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nStatus: You are Confirmed\
- nEvent URL: https://members.thequinhouse.com/events/180909\n\n5:00PM Recep
- tion\, 5:30PM Discussion \nStep into a wide-ranging conversation with Nic
- holas Thompson\, CEO of The Atlantic. During his tenure\, the publication
-  has won the National Magazine Award for General Excellence three times\, 
- become one of the fastest-growing news organizations in the country\, and 
- reached record profitability and subscriber growth in its 157-year history
- . He is also the author of the national bestseller The Running Ground an
- d host of the podcast The Most Interesting Thing in AI\, where he explore
- s the rapidly evolving world of artificial intelligence.\n\nThompson will 
- be joined in conversation by Claire Hughes Johnson\, a technology leader a
- nd former Chief Operating Officer of Stripe. Together\, they will explore
-  the forces shaping today’s media and technology landscapes - from the f
- uture of AI and innovation to the evolving role of storytelling and leader
- ship in a rapidly changing world.\n\n*This event is complimentary and rese
- rved for members only. Light bites and refreshments will be served.
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 1 spot left\
+ nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/ev
+ ents/180909\n\n5:00PM Reception\, 5:30PM Discussion \nStep into a wide-ra
+ nging conversation with Nicholas Thompson\, CEO of The Atlantic. During h
+ is tenure\, the publication has won the National Magazine Award for Genera
+ l Excellence three times\, become one of the fastest-growing news organiza
+ tions in the country\, and reached record profitability and subscriber gro
+ wth in its 157-year history. He is also the author of the national bestsel
+ ler The Running Ground and host of the podcast The Most Interesting Thi
+ ng in AI\, where he explores the rapidly evolving world of artificial inte
+ lligence.\n\nThompson will be joined in conversation by Claire Hughes John
+ son\, a technology leader and former Chief Operating Officer of Stripe. T
+ ogether\, they will explore the forces shaping today’s media and technol
+ ogy landscapes - from the future of AI and innovation to the evolving role
+  of storytelling and leadership in a rapidly changing world.\n\n*This even
+ t is complimentary and reserved for members only. Light bites and refreshm
+ ents will be served.
 URL:https://members.thequinhouse.com/events/180909
 CATEGORIES:‘Quin Chat
 END:VEVENT
@@ -160,34 +162,34 @@ DTEND;TZID=America/New_York:20260429T150000
 SUMMARY:90 Minutes of Innovation: Networks\, Intelligence & the Future of D
  ecision-Making 
 LOCATION:The Pub
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nStatus: You are Confirmed\
- nEvent URL: https://members.thequinhouse.com/events/180910\n\n1:00PM Progr
- am\, 2:30PM Networking\nWhat can we learn from the individuals shaping AI\
- , enterprise transformation\, and modern engineering at the highest levels
- ?\n\nIn the latest edition of 90 Minutes of Innovation\, John Werner - ven
- ture capitalist\, MIT lecturer\, and Forbes AI columnist - will lead a ser
- ies of one-on-one conversations with three remarkable leaders\, each offer
- ing a distinct perspective on innovation\, leadership\, and the moment we�
- ��re in.\n\nJon Hirschtick\, founder of SolidWorks and Onshape\, is a pion
- eering force in computer-aided design who has transformed how engineers an
- d designers build the world. An MIT alumnus\, he used winnings from the In
- stitute’s legendary blackjack team to launch his first company - an expe
- rience that later inspired the film 21.\n\nSandy Pentland\, MIT professor 
- with appointments at MIT and Stanford\, and one of the most cited data sci
- entists globally\, whose work on human behavior\, social networks\, and �
- �reality mining” has fundamentally reshaped how we understand trust\, ci
- ties\, and collective intelligence. He will speak on his recent book\, Sh
- ared Wisdom: Cultural Evolution in the Age of AI.\n\nDavid Kenny\, Executi
- ve Chairman of Nielsen and former CEO of IBM Watson\, with prior leadershi
- p roles at Akamai and The Weather Channel\, has operated at the forefront 
- of AI\, data\, and global enterprise transformation.\n\nThrough individual
-  interviews\, the afternoon will explore their personal journeys\, the ide
- as that have defined their work\, and how each sees the rapidly evolving l
- andscape of AI\, technology\, and innovation today. Expect an engaging\, i
- nsight-rich experience that connects lived experience with forward-looking
-  perspective - offering a rare window into how these leaders think\, build
- \, and lead.\n\n*This event is complimentary and reserved for members only
- . Light bites and refreshments will be served.
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 1 spot left\
+ nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/ev
+ ents/180910\n\n1:00PM Program\, 2:30PM Networking\nWhat can we learn from 
+ the individuals shaping AI\, enterprise transformation\, and modern engine
+ ering at the highest levels?\n\nIn the latest edition of 90 Minutes of Inn
+ ovation\, John Werner - venture capitalist\, MIT lecturer\, and Forbes AI 
+ columnist - will lead a series of one-on-one conversations with three rema
+ rkable leaders\, each offering a distinct perspective on innovation\, lead
+ ership\, and the moment we’re in.\n\nJon Hirschtick\, founder of SolidWo
+ rks and Onshape\, is a pioneering force in computer-aided design who has t
+ ransformed how engineers and designers build the world. An MIT alumnus\, h
+ e used winnings from the Institute’s legendary blackjack team to launch 
+ his first company - an experience that later inspired the film 21.\n\nSand
+ y Pentland\, MIT professor with appointments at MIT and Stanford\, and one
+  of the most cited data scientists globally\, whose work on human behavior
+ \, social networks\, and “reality mining” has fundamentally reshaped h
+ ow we understand trust\, cities\, and collective intelligence. He will spe
+ ak on his recent book\, Shared Wisdom: Cultural Evolution in the Age of A
+ I.\n\nDavid Kenny\, Executive Chairman of Nielsen and former CEO of IBM Wa
+ tson\, with prior leadership roles at Akamai and The Weather Channel\, has
+  operated at the forefront of AI\, data\, and global enterprise transforma
+ tion.\n\nThrough individual interviews\, the afternoon will explore their 
+ personal journeys\, the ideas that have defined their work\, and how each 
+ sees the rapidly evolving landscape of AI\, technology\, and innovation to
+ day. Expect an engaging\, insight-rich experience that connects lived expe
+ rience with forward-looking perspective - offering a rare window into how 
+ these leaders think\, build\, and lead.\n\n*This event is complimentary an
+ d reserved for members only. Light bites and refreshments will be served.
 URL:https://members.thequinhouse.com/events/180910
 CATEGORIES:‘Quin Chat
 END:VEVENT
@@ -318,7 +320,7 @@ DTSTART;TZID=America/New_York:20260505T170000
 DTEND;TZID=America/New_York:20260505T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 7 spots left
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 6 spots left
  \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/18
  2097\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set 
  in an ambiant reserved space. This is your opportunity to connect with fel
@@ -408,26 +410,26 @@ DTSTART;TZID=America/New_York:20260508T170000
 DTEND;TZID=America/New_York:20260508T183000
 SUMMARY:'Quin Chat: Finding Justice with New England Innocence Project
 LOCATION:Scottie's
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nStatus: Waitlist Only\nEve
- nt URL: https://members.thequinhouse.com/events/182100\n\n5:00PM Reception
- \, 5:30PM Discussion\nAn evening that will challenge what you think you kn
- ow about justice - and redefine what it means to rebuild a life.\n\nHear f
- irsthand from Sean Ellis and Edward Wright—two men who were wrongfully c
- onvicted\, spent decades incarcerated\, and ultimately fought to reclaim t
- heir freedom. Their stories are deeply personal\, but also powerful reflec
- tions on systemic failure\, resilience\, and the long road to exoneration.
- \n\nSean Ellis\, whose case gained international attention through the Net
- flix docuseries Trial 4\, now leads advocacy efforts through the Exoneree
-  Network\, supporting others navigating life after incarceration. Edward W
- right\, exonerated after 41 years\, taught himself the law while imprisone
- d - successfully fighting for his own freedom while helping others do the 
- same.\n\nThe conversation will be guided by Radha Natarajan\, Executive Di
- rector of the New England Innocence Project\, whose work continues to conf
- ront bias and drive meaningful reform within the justice system.\n\nA rare
-  opportunity to engage with voices at the forefront of justice reform - an
- d to witness the strength\, clarity\, and humanity behind these extraordin
- ary journeys.\n\n*This event is complimentary and reserved for members onl
- y. Light bites and refreshments will be served.
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 1 spot left\
+ nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/182
+ 100\n\n5:00PM Reception\, 5:30PM Discussion\nAn evening that will challeng
+ e what you think you know about justice - and redefine what it means to re
+ build a life.\n\nHear firsthand from Sean Ellis and Edward Wright—two me
+ n who were wrongfully convicted\, spent decades incarcerated\, and ultimat
+ ely fought to reclaim their freedom. Their stories are deeply personal\, b
+ ut also powerful reflections on systemic failure\, resilience\, and the lo
+ ng road to exoneration.\n\nSean Ellis\, whose case gained international at
+ tention through the Netflix docuseries Trial 4\, now leads advocacy effor
+ ts through the Exoneree Network\, supporting others navigating life after 
+ incarceration. Edward Wright\, exonerated after 41 years\, taught himself 
+ the law while imprisoned - successfully fighting for his own freedom while
+  helping others do the same.\n\nThe conversation will be guided by Radha N
+ atarajan\, Executive Director of the New England Innocence Project\, whose
+  work continues to confront bias and drive meaningful reform within the ju
+ stice system.\n\nA rare opportunity to engage with voices at the forefront
+  of justice reform - and to witness the strength\, clarity\, and humanity 
+ behind these extraordinary journeys.\n\n*This event is complimentary and r
+ eserved for members only. Light bites and refreshments will be served.
 URL:https://members.thequinhouse.com/events/182100
 CATEGORIES:‘Quin Chat
 END:VEVENT
@@ -439,7 +441,7 @@ DTEND;TZID=America/New_York:20260509T140000
 SUMMARY:Serendipity Brunch: The 40's Social
 LOCATION:Lunasol
 DESCRIPTION:Category: Member Mixer\nPrice: $65.00 per person\nAvailability:
-  13 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
+  12 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
  .com/events/182101\n\nStep into a lively Saturday brunch designed for memb
  ers in their 40s - where meaningful connections come naturally and convers
  ation flows as effortlessly as the mimosas. This Serendipity Brunch invite
@@ -695,7 +697,7 @@ DTEND;TZID=America/New_York:20260518T190000
 SUMMARY:Author's Circle Book Club: "Love & Other Monsters" with Emily Frank
  lin
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 9 spots left\nSt
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 8 spots left\nSt
  atus: Available\nEvent URL: https://members.thequinhouse.com/events/184208
  \n\nBookmark the date for a captivating conversation exploring Love & Oth
  er Monsters by Emily Franklin—a richly imagined novel set against the ha
@@ -750,7 +752,7 @@ DTEND;TZID=America/New_York:20260519T150000
 SUMMARY: 90 Minutes of Innovation: Leadership\, Governance and the Long Vie
  w 
 LOCATION:The Pub
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 16 spots lef
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 14 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  69178\n\n1:00PM Program\, 2:30PM Networking\nWhat does it take to guide in
  stitutions\, advise CEOs\, and shape strategy at the highest levels across
@@ -786,7 +788,7 @@ DTSTART;TZID=America/New_York:20260519T170000
 DTEND;TZID=America/New_York:20260519T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 29 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 28 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  84145\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in an ambiant reserved space. This is your opportunity to connect with fe
@@ -825,7 +827,7 @@ DTSTART;TZID=America/New_York:20260526T170000
 DTEND;TZID=America/New_York:20260526T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 34 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 33 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  84146\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in an ambiant reserved space. This is your opportunity to connect with fe
