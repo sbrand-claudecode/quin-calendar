@@ -43,51 +43,6 @@ URL:https://members.thequinhouse.com/events/177695
 CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
-UID:quin-event-176384@thequinhouse.com
-DTSTAMP:20260426T173000Z
-DTSTART;VALUE=DATE:20260426
-DTEND;VALUE=DATE:20260429
-SUMMARY:Explorateur: Chef Arnaud Faye from Le Bristol Paris
-LOCATION:Bondo
-DESCRIPTION:Category: Food & Beverage\nPrice: Free / Included\nStatus: Avai
- lable\nTime: 5:30 PM – 10 PM\nEvent URL: https://members.thequinhouse.co
- m/events/176384\n\nThe globally inspired Explorateur culinary series welco
- mes Chef Arnaud Faye\, Executive Chef of the esteemed Le Bristol Paris and
-  a recipient of the prestigious Meilleur Ouvrier de France distinction. At
-  the helm of the Palace’s celebrated dining venues\, including the three
-  Michelin star restaurant Epicure\, Chef Faye is widely recognized for a c
- uisine that marries classical French technique with contemporary refinemen
- t.\n\nFor his residency at The ‘Quin\, hosted in Bondo\, Chef Faye prese
- nts a bespoke menu inspired by the culinary philosophy that defines Epicur
- e. Guided by the rhythm of the seasons and the exceptional quality of ingr
- edients\, his cuisine reveals a remarkable balance of precision\, purity\,
-  and restraint\, where each dish reflects a deep respect for French terroi
- r and the traditions that shape it.\n\nConceived as a rare invitation into
-  one of Paris’s most storied kitchens\, this experience offers members a
- n intimate glimpse into Chef Faye’s world of modern French gastronomy. T
- hrough elegant compositions and refined flavors\, the spirit of Le Bristol
-  Paris arrives in Boston for a limited time.\n\nMembers can look forward t
- o a menu shaped by seasonality\, precision\, and a deep respect for except
- ional ingredients and culinary tradition. Highlights may include oysters a
- ccented with citrus and kombucha\, lobster paired with butternut squash an
- d yuzu\, and A5 wagyu complemented by seasonal morels. Each course reflect
- s Chef Faye’s pursuit of balance and clarity of flavor\, offering a refi
- ned glimpse into the elegant\, ingredient driven cuisine that defines one 
- of Paris’s most celebrated kitchens.\n\nTo secure your place for this ra
- re culinary residency with Chef Arnaud Faye\, we invite you to reserve you
- r table using the link below.\n\n*The six-course dinner is priced at $350+
- + to be charged at the time of booking.  Please note that beverage is not
-  included in the ticket price. The evening will feature a thoughtfully cur
- ated progression of courses\, including a special moment created exclusive
- ly for this residency. Due to advance preparations\, unavoidable cancellat
- ions that are made less than 72 hours prior to your reservation will not b
- e eligible for a refund. Reservations may be made through the Member Porta
- l. Members may invite up to three guests per seated member.\n\nMake a Rese
- rvation.
-URL:https://members.thequinhouse.com/events/176384
-CATEGORIES:Food & Beverage
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-180910@thequinhouse.com
 DTSTAMP:20260429T130000Z
 DTSTART;TZID=America/New_York:20260429T130000
@@ -95,7 +50,7 @@ DTEND;TZID=America/New_York:20260429T150000
 SUMMARY:90 Minutes of Innovation: Networks\, Intelligence & the Future of D
  ecision-Making 
 LOCATION:The Pub
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 6 spots left
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 7 spots left
  \nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/e
  vents/180910\n\n1:00PM Program\, 2:30PM Networking\nWhat can we learn from
   the individuals shaping AI\, enterprise transformation\, and modern engin
@@ -133,13 +88,13 @@ DTSTART;TZID=America/New_York:20260429T170000
 DTEND;TZID=America/New_York:20260429T190000
 SUMMARY:Game Night: Mahjong Open Play
 LOCATION:Muse
-DESCRIPTION:Category: Sports & Games\nPrice: Free\nStatus: Waitlist Only\nE
- vent URL: https://members.thequinhouse.com/events/178474\n\nFor those who 
- know their way around the tiles\, our Mahjong open play night is an invita
- tion to jump right in. This relaxed\, social session offers the chance to 
- put your skills into practice\, enjoy spirited rounds of play\, and connec
- t with fellow members over this timeless game. \n\n*This event is reserved
-  for members only.
+DESCRIPTION:Category: Sports & Games\nPrice: Free\nAvailability: 1 spot lef
+ t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
+ 78474\n\nFor those who know their way around the tiles\, our Mahjong open 
+ play night is an invitation to jump right in. This relaxed\, social sessio
+ n offers the chance to put your skills into practice\, enjoy spirited roun
+ ds of play\, and connect with fellow members over this timeless game. \n\n
+ *This event is reserved for members only.
 URL:https://members.thequinhouse.com/events/178474
 CATEGORIES:Sports & Games
 END:VEVENT
@@ -253,7 +208,7 @@ DTSTART;TZID=America/New_York:20260505T170000
 DTEND;TZID=America/New_York:20260505T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 5 spots left
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 4 spots left
  \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/18
  2097\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set 
  in an ambiant reserved space. This is your opportunity to connect with fel
@@ -685,7 +640,7 @@ DTEND;TZID=America/New_York:20260519T150000
 SUMMARY: 90 Minutes of Innovation: Leadership\, Governance and the Long Vie
  w 
 LOCATION:The Pub
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 4 spots left
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 3 spots left
  \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/16
  9178\n\n1:00PM Program\, 2:30PM Networking\nWhat does it take to guide ins
  titutions\, advise CEOs\, and shape strategy at the highest levels across 
