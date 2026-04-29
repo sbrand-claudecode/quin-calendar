@@ -88,73 +88,6 @@ URL:https://members.thequinhouse.com/events/176384
 CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
-UID:quin-event-182349@thequinhouse.com
-DTSTAMP:20260428T160000Z
-DTSTART;VALUE=DATE:20260428
-DTEND;VALUE=DATE:20260429
-SUMMARY:BBQ Specials 
-LOCATION:The Pub
-DESCRIPTION:Category: Food & Beverage\nPrice: Free / Included\nStatus: Avai
- lable\nTime: 4 PM – 9 PM\nEvent URL: https://members.thequinhouse.com/ev
- ents/182349\n\nExclusively Available Tuesday Evenings\nSettle in and get y
- our hands a little messy - in the best way.\n\nBegin with a warm corn brea
- d skillet and hot honey butter\, alongside the classics: potato salad\, pi
- ckles\, and coleslaw. From there\, choose two barbecue favorites for your 
- main indulgence—espresso-rubbed beef brisket\, St. Louis ribs cooked low
-  and slow\, or pulled pork sliders worth every bite. A little smoky\, a li
- ttle saucy\, and just the right amount of refined.\n\nMake a Reservation.
-URL:https://members.thequinhouse.com/events/182349
-CATEGORIES:Food & Beverage
-END:VEVENT
-BEGIN:VEVENT
-UID:quin-event-180905@thequinhouse.com
-DTSTAMP:20260428T170000Z
-DTSTART;TZID=America/New_York:20260428T170000
-DTEND;TZID=America/New_York:20260428T190000
-SUMMARY:Member Mingle
-LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 5 spots left
- \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/18
- 0905\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set 
- in an ambiant reserved space. This is your opportunity to connect with fel
- low members\, exchange ideas\, and cultivate meaningful relationships.\n\n
- Whether you're sparking new collaborations\, sharing insights\, or simply 
- enjoying great conversation\, the Member Mingle is the perfect way to enga
- ge with our dynamic community. Don’t miss the chance to connect\, inspir
- e\, and be inspired!\n\n*This event is complimentary and reserved for memb
- ers only. Complimentary light bites will be served\, and beverages will be
-  available for purchase.
-URL:https://members.thequinhouse.com/events/180905
-CATEGORIES:Member Mixer
-END:VEVENT
-BEGIN:VEVENT
-UID:quin-event-180909@thequinhouse.com
-DTSTAMP:20260428T170000Z
-DTSTART;TZID=America/New_York:20260428T170000
-DTEND;TZID=America/New_York:20260428T183000
-SUMMARY:'Quin Chat: The Atlantic's Nick Thompson 
-LOCATION:Scottie's
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 2 spots left
- \nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/e
- vents/180909\n\n5:00PM Reception\, 5:30PM Discussion \nStep into a wide-r
- anging conversation with Nicholas Thompson\, CEO of The Atlantic. During 
- his tenure\, the publication has won the National Magazine Award for Gener
- al Excellence three times\, become one of the fastest-growing news organiz
- ations in the country\, and reached record profitability and subscriber gr
- owth in its 157-year history. He is also the author of the national bestse
- ller The Running Ground and host of the podcast The Most Interesting Th
- ing in AI\, where he explores the rapidly evolving world of artificial int
- elligence.\n\nThompson will be joined in conversation by Claire Hughes Joh
- nson\, a technology leader and former Chief Operating Officer of Stripe. 
- Together\, they will explore the forces shaping today’s media and techno
- logy landscapes - from the future of AI and innovation to the evolving rol
- e of storytelling and leadership in a rapidly changing world.\n\n*This eve
- nt is complimentary and reserved for members only. Light bites and refresh
- ments will be served.
-URL:https://members.thequinhouse.com/events/180909
-CATEGORIES:‘Quin Chat
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-180910@thequinhouse.com
 DTSTAMP:20260429T130000Z
 DTSTART;TZID=America/New_York:20260429T130000
@@ -162,7 +95,7 @@ DTEND;TZID=America/New_York:20260429T150000
 SUMMARY:90 Minutes of Innovation: Networks\, Intelligence & the Future of D
  ecision-Making 
 LOCATION:The Pub
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 2 spots left
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 6 spots left
  \nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/e
  vents/180910\n\n1:00PM Program\, 2:30PM Networking\nWhat can we learn from
   the individuals shaping AI\, enterprise transformation\, and modern engin
@@ -320,7 +253,7 @@ DTSTART;TZID=America/New_York:20260505T170000
 DTEND;TZID=America/New_York:20260505T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 4 spots left
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 5 spots left
  \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/18
  2097\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set 
  in an ambiant reserved space. This is your opportunity to connect with fel
@@ -490,25 +423,25 @@ DTSTART;TZID=America/New_York:20260512T130000
 DTEND;TZID=America/New_York:20260512T150000
 SUMMARY:Hands-On Impact: Household Goods
 LOCATION:The Muse
-DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nAvailability: 1 spo
- t left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/eve
- nts/182103\n\nA simple set of kitchen tools can be the difference between 
- a space and a home.\n\nJoin The ‘Quin Impact Fund for a hands-on volunte
- er experience in partnership with Household Goods\, where you will assembl
- e Kitchen Starter Sets for individuals and families transitioning into sta
- ble housing. Together\, you will unpack\, sort\, and thoughtfully build es
- sential kits - each one filled with everyday items that make it possible t
- o cook\, gather\, and begin again.\n\nHousehold Goods furnishes more than 
- 2\,500 homes each year\, yet the demand for basic kitchen essentials remai
- ns constant. These starter sets - simple\, practical\, and deeply impactfu
- l - help ensure that every home begins with the tools needed for daily lif
- e.\n\nMembers are invited to contribute by donating new or gently used kit
- chen items or supporting purchases through a curated Amazon wish list ahea
- d of the event. A meaningful opportunity to give back\, connect\, and play
-  a small part in helping someone build a home from the ground up.\n\n*This
-  event is complimentary and reserved for members only. For any questions 
- regarding donation items\, please contact The ‘Quin Impact Fund team at�
- �impact@thequin.com.\n\nShop the Amazon Wishlist here.
+DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nStatus: Waitlist On
+ ly\nEvent URL: https://members.thequinhouse.com/events/182103\n\nA simple 
+ set of kitchen tools can be the difference between a space and a home.\n\n
+ Join The ‘Quin Impact Fund for a hands-on volunteer experience in partne
+ rship with Household Goods\, where you will assemble Kitchen Starter Sets 
+ for individuals and families transitioning into stable housing. Together\,
+  you will unpack\, sort\, and thoughtfully build essential kits - each one
+  filled with everyday items that make it possible to cook\, gather\, and b
+ egin again.\n\nHousehold Goods furnishes more than 2\,500 homes each year\
+ , yet the demand for basic kitchen essentials remains constant. These star
+ ter sets - simple\, practical\, and deeply impactful - help ensure that ev
+ ery home begins with the tools needed for daily life.\n\nMembers are invit
+ ed to contribute by donating new or gently used kitchen items or supportin
+ g purchases through a curated Amazon wish list ahead of the event. A meani
+ ngful opportunity to give back\, connect\, and play a small part in helpin
+ g someone build a home from the ground up.\n\n*This event is complimentary
+  and reserved for members only. For any questions regarding donation item
+ s\, please contact The ‘Quin Impact Fund team at impact@thequin.com.\n\
+ nShop the Amazon Wishlist here.
 URL:https://members.thequinhouse.com/events/182103
 CATEGORIES:‘Quin Impact Fund
 END:VEVENT
@@ -519,7 +452,7 @@ DTSTART;TZID=America/New_York:20260512T170000
 DTEND;TZID=America/New_York:20260512T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 31 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 30 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  82248\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in an ambiant reserved space. This is your opportunity to connect with fe
@@ -697,7 +630,7 @@ DTEND;TZID=America/New_York:20260518T190000
 SUMMARY:Author's Circle Book Club: "Love & Other Monsters" with Emily Frank
  lin
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 7 spots left\nSt
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 5 spots left\nSt
  atus: Available\nEvent URL: https://members.thequinhouse.com/events/184208
  \n\nBookmark the date for a captivating conversation exploring Love & Oth
  er Monsters by Emily Franklin—a richly imagined novel set against the ha
@@ -752,32 +685,32 @@ DTEND;TZID=America/New_York:20260519T150000
 SUMMARY: 90 Minutes of Innovation: Leadership\, Governance and the Long Vie
  w 
 LOCATION:The Pub
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 10 spots lef
- t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
- 69178\n\n1:00PM Program\, 2:30PM Networking\nWhat does it take to guide in
- stitutions\, advise CEOs\, and shape strategy at the highest levels across
-  decades of transformation?\n\nIn the latest edition of 90 Minutes of Inno
- vation*\, John Werner—venture capitalist\, MIT lecturer\, and *Forbes* A
- I columnist—sits down with David Mussafer\, Chairman of Advent Internati
- onal and one of the most influential leaders in global private equity.\n\
- nWith a career spanning decades\, Mussafer has helped build Advent into o
- ne of the world’s top ten private equity firms\, headquartered here in B
- oston\, while also advising companies and serving on boards across industr
- ies. Drawing from the arc of his life’s work\, the conversation will we
- ave together personal insights and professional milestones\, offering a p
- erspective that sits at the intersection of capital\, governance\, and lon
- g-term value creation—where the biggest decisions are often the least vi
- sible.\n\nTogether\, they will explore what great companies and leadership
-  teams have in common\, how boards actually function—and how they must e
- volve—the role of private equity in building\, not just acquiring\, comp
- anies\, and how leaders navigate uncertainty\, cycles\, and long-term stra
- tegy. The conversation will also draw on lessons from decades of investing
-  across sectors and geographies.\n\nExpect a thoughtful\, behind-the-scene
- s conversation about how decisions get made at the highest levels—where 
- governance meets growth\, and strategy meets execution.\n\nFrom boardrooms
-  to global markets—one stage\, one conversation\, not to be missed.\n\n*
- This event is complimentary and reserved for members only. Light bites and
-  refreshments will be served.
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 4 spots left
+ \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/16
+ 9178\n\n1:00PM Program\, 2:30PM Networking\nWhat does it take to guide ins
+ titutions\, advise CEOs\, and shape strategy at the highest levels across 
+ decades of transformation?\n\nIn the latest edition of 90 Minutes of Innov
+ ation*\, John Werner—venture capitalist\, MIT lecturer\, and *Forbes* AI
+  columnist—sits down with David Mussafer\, Chairman of Advent Internatio
+ nal and one of the most influential leaders in global private equity.\n\n
+ With a career spanning decades\, Mussafer has helped build Advent into on
+ e of the world’s top ten private equity firms\, headquartered here in Bo
+ ston\, while also advising companies and serving on boards across industri
+ es. Drawing from the arc of his life’s work\, the conversation will wea
+ ve together personal insights and professional milestones\, offering a pe
+ rspective that sits at the intersection of capital\, governance\, and long
+ -term value creation—where the biggest decisions are often the least vis
+ ible.\n\nTogether\, they will explore what great companies and leadership 
+ teams have in common\, how boards actually function—and how they must ev
+ olve—the role of private equity in building\, not just acquiring\, compa
+ nies\, and how leaders navigate uncertainty\, cycles\, and long-term strat
+ egy. The conversation will also draw on lessons from decades of investing 
+ across sectors and geographies.\n\nExpect a thoughtful\, behind-the-scenes
+  conversation about how decisions get made at the highest levels—where g
+ overnance meets growth\, and strategy meets execution.\n\nFrom boardrooms 
+ to global markets—one stage\, one conversation\, not to be missed.\n\n*T
+ his event is complimentary and reserved for members only. Light bites and 
+ refreshments will be served.
 URL:https://members.thequinhouse.com/events/169178
 CATEGORIES:‘Quin Chat
 END:VEVENT

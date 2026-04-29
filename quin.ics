@@ -24,33 +24,6 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:quin-event-180909@thequinhouse.com
-DTSTAMP:20260428T170000Z
-DTSTART;TZID=America/New_York:20260428T170000
-DTEND;TZID=America/New_York:20260428T183000
-SUMMARY:'Quin Chat: The Atlantic's Nick Thompson 
-LOCATION:Scottie's
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 2 spots left
- \nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/e
- vents/180909\n\n5:00PM Reception\, 5:30PM Discussion \nStep into a wide-r
- anging conversation with Nicholas Thompson\, CEO of The Atlantic. During 
- his tenure\, the publication has won the National Magazine Award for Gener
- al Excellence three times\, become one of the fastest-growing news organiz
- ations in the country\, and reached record profitability and subscriber gr
- owth in its 157-year history. He is also the author of the national bestse
- ller The Running Ground and host of the podcast The Most Interesting Th
- ing in AI\, where he explores the rapidly evolving world of artificial int
- elligence.\n\nThompson will be joined in conversation by Claire Hughes Joh
- nson\, a technology leader and former Chief Operating Officer of Stripe. 
- Together\, they will explore the forces shaping today’s media and techno
- logy landscapes - from the future of AI and innovation to the evolving rol
- e of storytelling and leadership in a rapidly changing world.\n\n*This eve
- nt is complimentary and reserved for members only. Light bites and refresh
- ments will be served.
-URL:https://members.thequinhouse.com/events/180909
-CATEGORIES:‘Quin Chat
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-180910@thequinhouse.com
 DTSTAMP:20260429T130000Z
 DTSTART;TZID=America/New_York:20260429T130000
@@ -58,7 +31,7 @@ DTEND;TZID=America/New_York:20260429T150000
 SUMMARY:90 Minutes of Innovation: Networks\, Intelligence & the Future of D
  ecision-Making 
 LOCATION:The Pub
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 2 spots left
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 6 spots left
  \nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/e
  vents/180910\n\n1:00PM Program\, 2:30PM Networking\nWhat can we learn from
   the individuals shaping AI\, enterprise transformation\, and modern engin
