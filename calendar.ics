@@ -50,32 +50,6 @@ URL:https://members.thequinhouse.com/events/182448
 CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
-UID:quin-event-184919@thequinhouse.com
-DTSTAMP:20260502T130000Z
-DTSTART;TZID=America/New_York:20260502T130000
-DTEND;TZID=America/New_York:20260502T153000
-SUMMARY:'Quin Suite: Celtics Potential Game 7 | Time To Be Announced
-LOCATION:Offsite: TD Garden
-DESCRIPTION:Category: Sports & Games\nPrice: $366.36 per person\nAvailabili
- ty: 1 spot left\nStatus: Available\nEvent URL: https://members.thequinhous
- e.com/events/184919\n\nIn anticipation of Game 7\, secure your place in Th
- e ‘Quin Suite (#524) at TD Garden as the Celtics face the Philadelphia 7
- 6ers in a decisive matchup with a trip to the Conference Semifinals on the
-  line.\n\nAll suite ticket options include incredible views of the on-cour
- t action and light gameday bites - including chicken tenders\, sandwiches\
- , salads\, fruit and charcuterie and of course bottomless popcorn! The sui
- te also offers an assortment of refreshments including wine\, beer\, seltz
- er and soda. Are you game for the playoffs?\n\n*A pair of 'Quin Suite seat
- s is offered at $826 total ($413 per ticket). Individual tickets are also 
- available for bar stool or standing-room access at a preferred rate of $39
- 2 per person. Tickets are limited and available to members\, plus three gu
- ests age 16+. Members must accompany their guests at all times. In the eve
- nt that Game 7 occurs\, tickets are non-refundable and non-transferable. S
- hould Game 7 not be played\, members will receive a full refund.
-URL:https://members.thequinhouse.com/events/184919
-CATEGORIES:Sports & Games
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-180914@thequinhouse.com
 DTSTAMP:20260502T160000Z
 DTSTART;TZID=America/New_York:20260502T160000
@@ -96,6 +70,32 @@ DESCRIPTION:Category: Sports & Games\nPrice: Free / Included\nStatus: Avail
  our usual policy\, members are allowed to bring up to three guests to this
   occasion. \n\nMake a Reservation.
 URL:https://members.thequinhouse.com/events/180914
+CATEGORIES:Sports & Games
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-184919@thequinhouse.com
+DTSTAMP:20260502T193000Z
+DTSTART;TZID=America/New_York:20260502T193000
+DTEND;TZID=America/New_York:20260502T220000
+SUMMARY:'Quin Suite: Celtics Round 1 Game 7 
+LOCATION:Offsite: TD Garden
+DESCRIPTION:Category: Sports & Games\nPrice: $366.36 per person\nStatus: so
+ ldOut\nEvent URL: https://members.thequinhouse.com/events/184919\n\nIn ant
+ icipation of Game 7\, secure your place in The ‘Quin Suite (#524) at TD 
+ Garden as the Celtics face the Philadelphia 76ers in a decisive matchup wi
+ th a trip to the Conference Semifinals on the line.\n\nAll suite ticket op
+ tions include incredible views of the on-court action and light gameday bi
+ tes - including chicken tenders\, sandwiches\, salads\, fruit and charcute
+ rie and of course bottomless popcorn! The suite also offers an assortment 
+ of refreshments including wine\, beer\, seltzer and soda. Are you game for
+  the playoffs?\n\n*A pair of 'Quin Suite seats is offered at $826 total ($
+ 413 per ticket). Individual tickets are also available for bar stool or st
+ anding-room access at a preferred rate of $392 per person. Tickets are lim
+ ited and available to members\, plus three guests age 16+. Members must ac
+ company their guests at all times. In the event that Game 7 occurs\, ticke
+ ts are non-refundable and non-transferable. Should Game 7 not be played\, 
+ members will receive a full refund.
+URL:https://members.thequinhouse.com/events/184919
 CATEGORIES:Sports & Games
 END:VEVENT
 BEGIN:VEVENT
@@ -158,17 +158,17 @@ DTSTART;TZID=America/New_York:20260505T170000
 DTEND;TZID=America/New_York:20260505T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 2 spots left
- \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/18
- 2097\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set 
- in an ambiant reserved space. This is your opportunity to connect with fel
- low members\, exchange ideas\, and cultivate meaningful relationships.\n\n
- Whether you're sparking new collaborations\, sharing insights\, or simply 
- enjoying great conversation\, the Member Mingle is the perfect way to enga
- ge with our dynamic community. Don’t miss the chance to connect\, inspir
- e\, and be inspired!\n\n*This event is complimentary and reserved for memb
- ers only. Complimentary light bites will be served\, and beverages will be
-  available for purchase.
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 1 spot left\
+ nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/182
+ 097\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set i
+ n an ambiant reserved space. This is your opportunity to connect with fell
+ ow members\, exchange ideas\, and cultivate meaningful relationships.\n\nW
+ hether you're sparking new collaborations\, sharing insights\, or simply e
+ njoying great conversation\, the Member Mingle is the perfect way to engag
+ e with our dynamic community. Don’t miss the chance to connect\, inspire
+ \, and be inspired!\n\n*This event is complimentary and reserved for membe
+ rs only. Complimentary light bites will be served\, and beverages will be 
+ available for purchase.
 URL:https://members.thequinhouse.com/events/182097
 CATEGORIES:Member Mixer
 END:VEVENT
