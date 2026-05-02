@@ -24,32 +24,6 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:quin-event-182448@thequinhouse.com
-DTSTAMP:20260501T180000Z
-DTSTART;TZID=America/New_York:20260501T180000
-DTEND;TZID=America/New_York:20260501T210000
-SUMMARY:Private Screening: The Devil Wears Prada 2
-LOCATION:Offsite: Alamo Drafthouse Seaport
-DESCRIPTION:Category: The Arts\nPrice: Free\nStatus: You are on Waitlist\nE
- vent URL: https://members.thequinhouse.com/events/182448\n\n6:00PM Doors O
- pen\, 6:30PM Screening\nStep back into the high-stakes world of fashion wi
- th The Devil Wears Prada 2\, where ambition\, reinvention\, and razor-shar
- p wit take center stage. As Andy Sachs navigates the next chapter of her c
- areer\, she’s once again drawn into the orbit of the formidable Miranda 
- Priestly—where the stakes are higher\, the expectations sharper\, and th
- e line between success and sacrifice more blurred than ever. With returnin
- g favorites and new power players\, this stylish sequel delivers drama\, h
- umor\, and an inside look at the ever-evolving world of fashion.\n\nEnjoy 
- convenient seat-side food and beverage service\, available for member purc
- hase from the Alamo concession offerings. Place your order and have it del
- ivered directly to your seat between 6:00pm and 6:30pm.\n\n*This event is 
- complimentary and reserved for members\, plus one registered guest age 16+
- . Tableside food and beverage service is available in the theater from 6:0
- 0pm - 6:30pm.
-URL:https://members.thequinhouse.com/events/182448
-CATEGORIES:The Arts
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-180914@thequinhouse.com
 DTSTAMP:20260502T160000Z
 DTSTART;TZID=America/New_York:20260502T160000
@@ -104,27 +78,27 @@ DTSTART;TZID=America/New_York:20260503T164500
 DTEND;TZID=America/New_York:20260503T190000
 SUMMARY:Sunday Screening & Discussion: Any Day Now
 LOCATION:The Living Room
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 1 spot left\nSta
- tus: Available\nEvent URL: https://members.thequinhouse.com/events/183255\
- n\n4:45PM Doors Open\, 5:00PM Screening\, 6:30PM Discussion\nFrom writer a
- nd director Eric Aronson\, join us for an exclusive screening and conversa
- tion featuring Any Day Now\, the Boston Film Festival’s Audience Favor
- ite Feature\, offered to ‘Quin members ahead of its wide release on May 
- 5th.\n\nSet against a story close to home\, the film draws inspiration fro
- m the infamous Isabella Stewart Gardner Museum heist\, weaving a compellin
- g narrative of ambition\, loyalty\, and the consequences of the choices we
-  make. Any Day Now follows Steve\, a night watchman in his early 20s who
- se life is already beginning to unravel—his band is falling apart\, debt
-  is mounting\, and he’s entangled in a complicated love. When the enigma
- tic Marty Lyons pulls him into a world of misfits and moral gray areas\, S
- teve is forced to confront whether he’s found a way forward—or set him
- self on a path to ruin.\n\nFilmed and produced entirely in Massachusetts\,
-  this independent film offers a distinctly local lens on a story that blen
- ds grit\, intrigue\, and emotional depth.\n\nFollowing the screening\, mem
- bers are invited to stay for an intimate talkback with director Eric Arons
- on\, film lead and renowned character actor Paul Guilfoyle\, moderated by 
- producer Jan Egelson.\n\n*This event is complimentary and reserved for mem
- bers only. Theatre fare and refreshments will be served.
+DESCRIPTION:Category: The Arts\nPrice: Free\nStatus: Waitlist Only\nEvent U
+ RL: https://members.thequinhouse.com/events/183255\n\n4:45PM Doors Open\, 
+ 5:00PM Screening\, 6:30PM Discussion\nFrom writer and director Eric Aronso
+ n\, join us for an exclusive screening and conversation featuring Any Day
+  Now\, the Boston Film Festival’s Audience Favorite Feature\, offered t
+ o ‘Quin members ahead of its wide release on May 5th.\n\nSet against a s
+ tory close to home\, the film draws inspiration from the infamous Isabella
+  Stewart Gardner Museum heist\, weaving a compelling narrative of ambition
+ \, loyalty\, and the consequences of the choices we make. Any Day Now fo
+ llows Steve\, a night watchman in his early 20s whose life is already begi
+ nning to unravel—his band is falling apart\, debt is mounting\, and he�
+ �s entangled in a complicated love. When the enigmatic Marty Lyons pulls h
+ im into a world of misfits and moral gray areas\, Steve is forced to confr
+ ont whether he’s found a way forward—or set himself on a path to ruin.
+ \n\nFilmed and produced entirely in Massachusetts\, this independent film 
+ offers a distinctly local lens on a story that blends grit\, intrigue\, an
+ d emotional depth.\n\nFollowing the screening\, members are invited to sta
+ y for an intimate talkback with director Eric Aronson\, film lead and reno
+ wned character actor Paul Guilfoyle\, moderated by producer Jan Egelson.\n
+ \n*This event is complimentary and reserved for members only. Theatre fare
+  and refreshments will be served.
 URL:https://members.thequinhouse.com/events/183255
 CATEGORIES:The Arts
 END:VEVENT
@@ -157,17 +131,16 @@ DTSTART;TZID=America/New_York:20260505T170000
 DTEND;TZID=America/New_York:20260505T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 1 spot left\
- nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/182
- 097\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set i
- n an ambiant reserved space. This is your opportunity to connect with fell
- ow members\, exchange ideas\, and cultivate meaningful relationships.\n\nW
- hether you're sparking new collaborations\, sharing insights\, or simply e
- njoying great conversation\, the Member Mingle is the perfect way to engag
- e with our dynamic community. Don’t miss the chance to connect\, inspire
- \, and be inspired!\n\n*This event is complimentary and reserved for membe
- rs only. Complimentary light bites will be served\, and beverages will be 
- available for purchase.
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nStatus: Waitlist Only\nEve
+ nt URL: https://members.thequinhouse.com/events/182097\n\nJoin us for our 
+ weekly Member Mingle\, an inclusive gathering set in an ambiant reserved s
+ pace. This is your opportunity to connect with fellow members\, exchange i
+ deas\, and cultivate meaningful relationships.\n\nWhether you're sparking 
+ new collaborations\, sharing insights\, or simply enjoying great conversat
+ ion\, the Member Mingle is the perfect way to engage with our dynamic comm
+ unity. Don’t miss the chance to connect\, inspire\, and be inspired!\n\n
+ *This event is complimentary and reserved for members only. Complimentary 
+ light bites will be served\, and beverages will be available for purchase.
 URL:https://members.thequinhouse.com/events/182097
 CATEGORIES:Member Mixer
 END:VEVENT
@@ -278,23 +251,23 @@ DTEND;TZID=America/New_York:20260509T140000
 SUMMARY:Serendipity Brunch: The 40's Social
 LOCATION:Lunasol
 DESCRIPTION:Category: Member Mixer\nPrice: $65.00 per person\nAvailability:
-  10 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
- .com/events/182101\n\nStep into a lively Saturday brunch designed for memb
- ers in their 40s - where meaningful connections come naturally and convers
- ation flows as effortlessly as the mimosas. This Serendipity Brunch invite
- s you to gather in Lunasol for a relaxed yet engaging start to the day alo
- ngside fellow members.\n\nThe experience unfolds at an easy\, social pace:
-  a thoughtfully curated\, family-style menu paired with subtle conversatio
- n prompts to spark connection and keep dialogue flowing. Enjoy a table of 
- pastries\, fresh fruit\, and parfaits to begin\, followed by your choice o
- f entrée and generous sides\, with Bloody Marys and mimosas available thr
- oughout.\n\nIt’s a refined\, convivial take on brunch at The ’House—
- welcoming\, engaging\, and designed to bring together those who appreciate
-  great conversation and even better company.\n\n*Tickets are $65 per perso
- n\, plus tax\, and are reserved for members only. Cancellations within 48 
- hours of the event\, or failure to attend\, will be charged in full. Pleas
- e inform us of any dietary needs or restrictions by emailing happening@the
- quin.com at least 72 hours prior to the event.
+  6 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse.
+ com/events/182101\n\nStep into a lively Saturday brunch designed for membe
+ rs in their 40s - where meaningful connections come naturally and conversa
+ tion flows as effortlessly as the mimosas. This Serendipity Brunch invites
+  you to gather in Lunasol for a relaxed yet engaging start to the day alon
+ gside fellow members.\n\nThe experience unfolds at an easy\, social pace: 
+ a thoughtfully curated\, family-style menu paired with subtle conversation
+  prompts to spark connection and keep dialogue flowing. Enjoy a table of p
+ astries\, fresh fruit\, and parfaits to begin\, followed by your choice of
+  entrée and generous sides\, with Bloody Marys and mimosas available thro
+ ughout.\n\nIt’s a refined\, convivial take on brunch at The ’House—w
+ elcoming\, engaging\, and designed to bring together those who appreciate 
+ great conversation and even better company.\n\n*Tickets are $65 per person
+ \, plus tax\, and are reserved for members only. Cancellations within 48 h
+ ours of the event\, or failure to attend\, will be charged in full. Please
+  inform us of any dietary needs or restrictions by emailing happening@theq
+ uin.com at least 72 hours prior to the event.
 URL:https://members.thequinhouse.com/events/182101
 CATEGORIES:Member Mixer
 END:VEVENT
@@ -356,7 +329,7 @@ DTSTART;TZID=America/New_York:20260512T170000
 DTEND;TZID=America/New_York:20260512T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 27 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 26 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  82248\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in an ambiant reserved space. This is your opportunity to connect with fe
@@ -410,20 +383,19 @@ DTSTART;TZID=America/New_York:20260513T170000
 DTEND;TZID=America/New_York:20260513T180000
 SUMMARY:Rooftop Rendesvouz: Château Sainte Marguerite
 LOCATION:Sky Deck
-DESCRIPTION:Category: Food & Beverage\nPrice: Free\nAvailability: 59 spots 
- left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/event
- s/184139\n\nAs the season turns\, the Sky Deck reemerges as one of The 'Qu
- in's most coveted settings - an open-air retreat above the city\, where wa
- rm afternoons stretch into golden hour and evenings unfold with ease. \n\
- nThis year\, we are pleased to partner with Château Sainte Marguerite as 
- our exclusive 'House rosé\, poured throughout the season alongside a sign
- ature rosé cocktail - bringing a fresh\, coastal sensibility to the rooft
- op experience.\n\nTo mark the opening\, join us for a celebratory rooftop 
- rendezvous\, featuring a complimentary tasting of Château Sainte Margueri
- te. Thoughtfully designed to capture the spirit of the season\, the evenin
- g offers a first taste of summer at The ’Quin - effortless\, elevated\, 
- and best enjoyed above it all.\n\n*This event is complimentary and reserve
- d for members only.
+DESCRIPTION:Category: Food & Beverage\nPrice: Free\nStatus: Waitlist Only\n
+ Event URL: https://members.thequinhouse.com/events/184139\n\nAs the season
+  turns\, the Sky Deck reemerges as one of The 'Quin's most coveted setting
+ s - an open-air retreat above the city\, where warm afternoons stretch int
+ o golden hour and evenings unfold with ease. \n\nThis year\, we are pleas
+ ed to partner with Château Sainte Marguerite as our exclusive 'House ros�
+ �\, poured throughout the season alongside a signature rosé cocktail - br
+ inging a fresh\, coastal sensibility to the rooftop experience.\n\nTo mark
+  the opening\, join us for a celebratory rooftop rendezvous\, featuring a 
+ complimentary tasting of Château Sainte Marguerite. Thoughtfully designed
+  to capture the spirit of the season\, the evening offers a first taste of
+  summer at The ’Quin - effortless\, elevated\, and best enjoyed above it
+  all.\n\n*This event is complimentary and reserved for members only.
 URL:https://members.thequinhouse.com/events/184139
 CATEGORIES:Food & Beverage
 END:VEVENT
@@ -587,21 +559,21 @@ DTSTART;TZID=America/New_York:20260518T183000
 DTEND;TZID=America/New_York:20260518T210000
 SUMMARY:Serendipity Dinner: The Ladies' Table
 LOCATION:The Muse
-DESCRIPTION:Category: Member Mixer\nPrice: $100.00 per person\nAvailability
- : 12 spots left\nStatus: Available\nEvent URL: https://members.thequinhous
- e.com/events/184142\n\nSavor an evening designed for meaningful connection
-  at this special Serendipity Dinner\, thoughtfully curated for women of Th
- e ’Quin. Gather around an intimate table for a three-course dining exper
- ience\, complemented by expertly paired wines and engaging conversation.\n
- \nWith gentle prompts to guide discussion\, the evening unfolds at an easy
- \, convivial pace—inviting genuine dialogue\, shared stories\, and the o
- pportunity to connect with fellow members in a warm\, welcoming setting. I
- t’s a refined yet relaxed experience where great company and thoughtful 
- cuisine come together seamlessly.\n\n*Tickets are $100 per person\, plus t
- ax\, and are reserved for members only. Cancellations within 72 hours of t
- he event\, or failure to attend\, will be charged in full. Please inform u
- s of any dietary needs or restrictions by emailing happening@thequin.com a
- t least 72 hours before dinner service.
+DESCRIPTION:Category: Member Mixer\nPrice: $100.00 per person\nStatus: Wait
+ list Only\nEvent URL: https://members.thequinhouse.com/events/184142\n\nSa
+ vor an evening designed for meaningful connection at this special Serendip
+ ity Dinner\, thoughtfully curated for women of The ’Quin. Gather around 
+ an intimate table for a three-course dining experience\, complemented by e
+ xpertly paired wines and engaging conversation.\n\nWith gentle prompts to 
+ guide discussion\, the evening unfolds at an easy\, convivial pace—invit
+ ing genuine dialogue\, shared stories\, and the opportunity to connect wit
+ h fellow members in a warm\, welcoming setting. It’s a refined yet relax
+ ed experience where great company and thoughtful cuisine come together sea
+ mlessly.\n\n*Tickets are $100 per person\, plus tax\, and are reserved for
+  members only. Cancellations within 72 hours of the event\, or failure to 
+ attend\, will be charged in full. Please inform us of any dietary needs or
+  restrictions by emailing happening@thequin.com at least 72 hours before d
+ inner service.
 URL:https://members.thequinhouse.com/events/184142
 CATEGORIES:Member Mixer
 END:VEVENT
@@ -649,7 +621,7 @@ DTSTART;TZID=America/New_York:20260519T170000
 DTEND;TZID=America/New_York:20260519T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 24 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 20 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  84145\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in an ambiant reserved space. This is your opportunity to connect with fe
@@ -670,16 +642,16 @@ DTSTART;TZID=America/New_York:20260519T180000
 DTEND;TZID=America/New_York:20260519T190000
 SUMMARY:Stand Up Comedy: Steve Sweeney | 6:00PM Show
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 76 spots left\nS
- tatus: Available\nEvent URL: https://members.thequinhouse.com/events/17636
- 6\n\nBoston’s best return to the ’House! Join us for a night of comedy
-  featuring headliner Steve Sweeney\, a renowned comedian with decades of e
- xperience in the comedy scene. His unique style blends storytelling with s
- harp wit\, making every performance unforgettable.\n\nGrab a drink from th
- e bar beginning at 5:30PM\, then settle in for an evening of laughs—seat
- ing is first come\, first served.\n\nMake a night of it with a pre-show bu
- rger and a beer from The Pub. Dining walk-ins are welcome.\n\n*This event 
- is complimentary and available to members\, plus one registered guest.
+DESCRIPTION:Category: The Arts\nPrice: Free\nStatus: Waitlist Only\nEvent U
+ RL: https://members.thequinhouse.com/events/176366\n\nBoston’s best retu
+ rn to the ’House! Join us for a night of comedy featuring headliner Stev
+ e Sweeney\, a renowned comedian with decades of experience in the comedy s
+ cene. His unique style blends storytelling with sharp wit\, making every p
+ erformance unforgettable.\n\nGrab a drink from the bar beginning at 5:30PM
+ \, then settle in for an evening of laughs—seating is first come\, first
+  served.\n\nMake a night of it with a pre-show burger and a beer from The 
+ Pub. Dining walk-ins are welcome.\n\n*This event is complimentary and avai
+ lable to members\, plus one registered guest.
 URL:https://members.thequinhouse.com/events/176366
 CATEGORIES:The Arts
 END:VEVENT
@@ -690,16 +662,16 @@ DTSTART;TZID=America/New_York:20260519T200000
 DTEND;TZID=America/New_York:20260519T210000
 SUMMARY:Stand Up Comedy: Steve Sweeney | 8:00PM Show
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 70 spots left\nS
- tatus: Available\nEvent URL: https://members.thequinhouse.com/events/17636
- 7\n\nBoston’s best return to the ’House! Join us for a night of comedy
-  featuring headliner Steve Sweeney\, a renowned comedian with decades of e
- xperience in the comedy scene. His unique style blends storytelling with s
- harp wit\, making every performance unforgettable.\n\nGrab a drink from th
- e bar beginning at 5:30PM\, then settle in for an evening of laughs—seat
- ing is first come\, first served.\n\nMake a night of it with a pre-show bu
- rger and a beer from The Pub. Dining walk-ins are welcome.\n\n*This event 
- is complimentary and available to members\, plus one registered guest.
+DESCRIPTION:Category: The Arts\nPrice: Free\nStatus: Waitlist Only\nEvent U
+ RL: https://members.thequinhouse.com/events/176367\n\nBoston’s best retu
+ rn to the ’House! Join us for a night of comedy featuring headliner Stev
+ e Sweeney\, a renowned comedian with decades of experience in the comedy s
+ cene. His unique style blends storytelling with sharp wit\, making every p
+ erformance unforgettable.\n\nGrab a drink from the bar beginning at 5:30PM
+ \, then settle in for an evening of laughs—seating is first come\, first
+  served.\n\nMake a night of it with a pre-show burger and a beer from The 
+ Pub. Dining walk-ins are welcome.\n\n*This event is complimentary and avai
+ lable to members\, plus one registered guest.
 URL:https://members.thequinhouse.com/events/176367
 CATEGORIES:The Arts
 END:VEVENT
@@ -759,7 +731,7 @@ DTSTART;TZID=America/New_York:20260526T170000
 DTEND;TZID=America/New_York:20260526T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 31 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 28 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  84146\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in an ambiant reserved space. This is your opportunity to connect with fe
@@ -891,7 +863,7 @@ DTEND;TZID=America/New_York:20260626T180000
 SUMMARY:'Quin Suite: World Cup France v. Norway
 LOCATION:Offsite: Gillette Stadium
 DESCRIPTION:Category: Sports & Games\nPrice: $3327.10 per person\nAvailabil
- ity: 13 spots left\nStatus: Available\nEvent URL: https://members.thequinh
+ ity: 11 spots left\nStatus: Available\nEvent URL: https://members.thequinh
  ouse.com/events/175300\n\nClaim your place in a private ’Quin Suite (#R9
  ) at Gillette Stadium for the highly anticipated France vs Norway World 
  Cup matchup. Enter through a dedicated suite entrance and settle into rese
@@ -915,83 +887,83 @@ DTEND;VALUE=DATE:20260707
 SUMMARY:'Venture: Wimbledon
 LOCATION:Offsite
 DESCRIPTION:Category: ‘Venture - Travel\nPrice: $12850.47 per person\nAva
- ilability: 2 spots left\nStatus: Available\nTime: 3 PM – 12 PM\nEvent UR
- L: https://members.thequinhouse.com/events/183090\n\nAn Exclusive Seat at 
- Tennis' Most Iconic Stage. Experience the Prestige of Wimbledon.\nMore tha
- n a visit to London\, this is an invitation to one of sport’s most raref
- ied worlds - Wimbledon... where tradition\, precision\, and quiet luxury c
- onverge on perfectly kept grass courts.\n\nYour weekend centers on Sunday 
- at the All England Lawn Tennis Club\, where members will take their place 
- on Centre Court with coveted Debenture tickets\, among the most exclusive 
- seats in global sport. As the Championships enter the fourth round\, the a
- tmosphere sharpens: the field narrows\, the stakes heighten\, and the game
-  reveals its most compelling drama. From this vantage point\, members will
-  witness the world’s finest players in matches that will define the traj
- ectory to the finals.\n\nBetween play\, move at your own pace through the 
- grounds - where champagne is poured with ease\, strawberries and cream rem
- ain a ritual\, and every detail reflects Wimbledon’s singular blend of h
- eritage and refinement. This is not simply spectating\; it is participatio
- n in a cultural institution\, experienced as it was intended.\n\nCurated w
- ith intention\, this is an insider experience of Wimbledon at its most ele
- ctric\, shared in the company of those who appreciate it most.\n\nDay One 
- | Saturday\, July 4th\n\nYour journey begins with your arrival in London\,
-  where you will be welcomed to The Kensington Hotel\, a refined townhouse 
- known for its polished discretion and residential charm.\n\nOnce checked i
- n\, take a moment to unwind from your travels - whether relaxing in the ho
- tel’s inviting drawing rooms or stepping out to explore the surrounding 
- neighborhood at your leisure. The afternoon is yours to ease into the rhyt
- hm of the city or connect with fellow ‘Quin members as the experience un
- officially begins.\n\nIn the evening\, gather for a 'Quin Member welcome d
- inner hosted by former-Londoner - our very own Managing Director\, Matthia
- s Kiehm at The Audley Public House. The Audley is a proper neighborhood Pu
- b where history and contemporary art collide. Here\, amid thoughtfully res
- tored interiors and a convivial atmosphere\, members will be reintroduced 
- to fellow fans of the sport over a beautifully prepared dinner while antic
- ipating the next days matches.\n\nDay Two | Sunday\, July 5th\n\nYour seco
- nd day begins with a seamless departure from The Kensington Hotel as you m
- ake your way to Wimbledon\, with travel arrangements thoughtfully coordina
- ted for ease and comfort.\n\nUpon arrival at the All England Lawn Tennis C
- lub on "Middle Sunday\," you will have the full day to experience the Gent
- lemen's and Ladies' Singles Fourth Round at your own pace. With Debenture 
- ticket(s) in hand\, enjoy prime seating on Centre Court - where the field 
- narrows and the tournament’s momentum becomes palpable. Your tickets als
- o provide access to No. 1 Court and the outer courts\, allowing you to mov
- e fluidly between matches and take in the breadth of play across the groun
- ds.\n\nThroughout the day\, you will have access to the Debenture Holders�
- �� Lounge and its collection of private bars and dining venues. Whether pa
- using for a leisurely lunch\, a glass of champagne\, or a moment of respit
- e overlooking the courts\, the experience is yours to shape as you wish.\n
- \nFollowing the conclusion of play\, return to London in the early evening
- . Keeping dynamic match times in mind\, the day concludes with a relaxed l
- ate-evening group dinner\, in a stylish yet comfortable setting to unwind 
- and reflect before returning to The Kensington Hotel for a well-deserved n
- ights rest.\n\nDay Three | Monday\, July 6th\n\nYour final morning begins 
- at a relaxed pace with breakfast at The Kensington Hotel. Enjoy a quiet st
- art to the day - whether over a leisurely meal or a final moment of calm i
- n the hotel’s inviting surroundings.\n\nFollowing breakfast\, departures
-  will take place on your own schedule - whether returning home\, or stayin
- g on for an independent extension to the trip. As you make your way home\,
-  carry with you the memories of a weekend defined by exceptional access\, 
- thoughtful curation\, and the shared experience of Wimbledon at its most c
- ompelling.\n\nClassic Room | Single Occupancy\n\nClassic Room at The Kensi
- ngton Hotel | Two Twin Beds with Breakfast Included\n\nOne Wimbledon Deb
- enture Ticket to the Gentlemen's and Ladies' Singles Fourth Round\, includ
- ing Centre Court seating and the Debenture's Holders' Lounge with its coll
- ection of private bars and dining venues.\n\nTwo curated group dinners\, i
- ncluding a welcome dinner at The Audley Public House.\n\n$7\,950\n\nClassi
- c Room | Double Occupancy\n\nClassic Room at The Kensington Hotel | Queen 
- Bed with Breakfast Included\n\nTwo Wimbledon Debenture Tickets to the Gent
- lemen's and Ladies' Singles Fourth Round\, including Centre Court seating 
- and the Debenture's Holders' Lounge with its collection of private bars an
- d dining venues.\n\nTwo curated group dinners\, including a welcome dinner
-  at The Audley Public House.\n\n$13\,750\n\nPlease note the price of airfa
- re is not included in the ticket price. Members and their guests are respo
- nsible for booking their own flights. For the smoothest arrival experience
- \, we recommend flying into London Heathrow Airport (LHR) located less tha
- n an hour by car from The Kensington Hotel.\n\n* Reservations are non-refu
- ndable and non-transferable. Please note that all bookings are subject to 
- the terms and conditions outlined in the final confirmation materials incl
- uding your sign-off on a standard liability waiver.
+ ilability: 1 spot left\nStatus: Available\nTime: 3 PM – 12 PM\nEvent URL
+ : https://members.thequinhouse.com/events/183090\n\nAn Exclusive Seat at T
+ ennis' Most Iconic Stage. Experience the Prestige of Wimbledon.\nMore than
+  a visit to London\, this is an invitation to one of sport’s most rarefi
+ ed worlds - Wimbledon... where tradition\, precision\, and quiet luxury co
+ nverge on perfectly kept grass courts.\n\nYour weekend centers on Sunday a
+ t the All England Lawn Tennis Club\, where members will take their place o
+ n Centre Court with coveted Debenture tickets\, among the most exclusive s
+ eats in global sport. As the Championships enter the fourth round\, the at
+ mosphere sharpens: the field narrows\, the stakes heighten\, and the game 
+ reveals its most compelling drama. From this vantage point\, members will 
+ witness the world’s finest players in matches that will define the traje
+ ctory to the finals.\n\nBetween play\, move at your own pace through the g
+ rounds - where champagne is poured with ease\, strawberries and cream rema
+ in a ritual\, and every detail reflects Wimbledon’s singular blend of he
+ ritage and refinement. This is not simply spectating\; it is participation
+  in a cultural institution\, experienced as it was intended.\n\nCurated wi
+ th intention\, this is an insider experience of Wimbledon at its most elec
+ tric\, shared in the company of those who appreciate it most.\n\nDay One |
+  Saturday\, July 4th\n\nYour journey begins with your arrival in London\, 
+ where you will be welcomed to The Kensington Hotel\, a refined townhouse k
+ nown for its polished discretion and residential charm.\n\nOnce checked in
+ \, take a moment to unwind from your travels - whether relaxing in the hot
+ el’s inviting drawing rooms or stepping out to explore the surrounding n
+ eighborhood at your leisure. The afternoon is yours to ease into the rhyth
+ m of the city or connect with fellow ‘Quin members as the experience uno
+ fficially begins.\n\nIn the evening\, gather for a 'Quin Member welcome di
+ nner hosted by former-Londoner - our very own Managing Director\, Matthias
+  Kiehm at The Audley Public House. The Audley is a proper neighborhood Pub
+  where history and contemporary art collide. Here\, amid thoughtfully rest
+ ored interiors and a convivial atmosphere\, members will be reintroduced t
+ o fellow fans of the sport over a beautifully prepared dinner while antici
+ pating the next days matches.\n\nDay Two | Sunday\, July 5th\n\nYour secon
+ d day begins with a seamless departure from The Kensington Hotel as you ma
+ ke your way to Wimbledon\, with travel arrangements thoughtfully coordinat
+ ed for ease and comfort.\n\nUpon arrival at the All England Lawn Tennis Cl
+ ub on "Middle Sunday\," you will have the full day to experience the Gentl
+ emen's and Ladies' Singles Fourth Round at your own pace. With Debenture t
+ icket(s) in hand\, enjoy prime seating on Centre Court - where the field n
+ arrows and the tournament’s momentum becomes palpable. Your tickets also
+  provide access to No. 1 Court and the outer courts\, allowing you to move
+  fluidly between matches and take in the breadth of play across the ground
+ s.\n\nThroughout the day\, you will have access to the Debenture Holders�
+ � Lounge and its collection of private bars and dining venues. Whether pau
+ sing for a leisurely lunch\, a glass of champagne\, or a moment of respite
+  overlooking the courts\, the experience is yours to shape as you wish.\n\
+ nFollowing the conclusion of play\, return to London in the early evening.
+  Keeping dynamic match times in mind\, the day concludes with a relaxed la
+ te-evening group dinner\, in a stylish yet comfortable setting to unwind a
+ nd reflect before returning to The Kensington Hotel for a well-deserved ni
+ ghts rest.\n\nDay Three | Monday\, July 6th\n\nYour final morning begins a
+ t a relaxed pace with breakfast at The Kensington Hotel. Enjoy a quiet sta
+ rt to the day - whether over a leisurely meal or a final moment of calm in
+  the hotel’s inviting surroundings.\n\nFollowing breakfast\, departures 
+ will take place on your own schedule - whether returning home\, or staying
+  on for an independent extension to the trip. As you make your way home\, 
+ carry with you the memories of a weekend defined by exceptional access\, t
+ houghtful curation\, and the shared experience of Wimbledon at its most co
+ mpelling.\n\nClassic Room | Single Occupancy\n\nClassic Room at The Kensin
+ gton Hotel | Two Twin Beds with Breakfast Included\n\nOne Wimbledon Debe
+ nture Ticket to the Gentlemen's and Ladies' Singles Fourth Round\, includi
+ ng Centre Court seating and the Debenture's Holders' Lounge with its colle
+ ction of private bars and dining venues.\n\nTwo curated group dinners\, in
+ cluding a welcome dinner at The Audley Public House.\n\n$7\,950\n\nClassic
+  Room | Double Occupancy\n\nClassic Room at The Kensington Hotel | Queen B
+ ed with Breakfast Included\n\nTwo Wimbledon Debenture Tickets to the Gentl
+ emen's and Ladies' Singles Fourth Round\, including Centre Court seating a
+ nd the Debenture's Holders' Lounge with its collection of private bars and
+  dining venues.\n\nTwo curated group dinners\, including a welcome dinner 
+ at The Audley Public House.\n\n$13\,750\n\nPlease note the price of airfar
+ e is not included in the ticket price. Members and their guests are respon
+ sible for booking their own flights. For the smoothest arrival experience\
+ , we recommend flying into London Heathrow Airport (LHR) located less than
+  an hour by car from The Kensington Hotel.\n\n* Reservations are non-refun
+ dable and non-transferable. Please note that all bookings are subject to t
+ he terms and conditions outlined in the final confirmation materials inclu
+ ding your sign-off on a standard liability waiver.
 URL:https://members.thequinhouse.com/events/183090
 CATEGORIES:‘Venture - Travel
 END:VEVENT

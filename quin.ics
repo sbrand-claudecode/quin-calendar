@@ -23,30 +23,4 @@ DTSTART:19701101T020000
 RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
-BEGIN:VEVENT
-UID:quin-event-182448@thequinhouse.com
-DTSTAMP:20260501T180000Z
-DTSTART;TZID=America/New_York:20260501T180000
-DTEND;TZID=America/New_York:20260501T210000
-SUMMARY:Private Screening: The Devil Wears Prada 2
-LOCATION:Offsite: Alamo Drafthouse Seaport
-DESCRIPTION:Category: The Arts\nPrice: Free\nStatus: You are on Waitlist\nE
- vent URL: https://members.thequinhouse.com/events/182448\n\n6:00PM Doors O
- pen\, 6:30PM Screening\nStep back into the high-stakes world of fashion wi
- th The Devil Wears Prada 2\, where ambition\, reinvention\, and razor-shar
- p wit take center stage. As Andy Sachs navigates the next chapter of her c
- areer\, she’s once again drawn into the orbit of the formidable Miranda 
- Priestly—where the stakes are higher\, the expectations sharper\, and th
- e line between success and sacrifice more blurred than ever. With returnin
- g favorites and new power players\, this stylish sequel delivers drama\, h
- umor\, and an inside look at the ever-evolving world of fashion.\n\nEnjoy 
- convenient seat-side food and beverage service\, available for member purc
- hase from the Alamo concession offerings. Place your order and have it del
- ivered directly to your seat between 6:00pm and 6:30pm.\n\n*This event is 
- complimentary and reserved for members\, plus one registered guest age 16+
- . Tableside food and beverage service is available in the theater from 6:0
- 0pm - 6:30pm.
-URL:https://members.thequinhouse.com/events/182448
-CATEGORIES:The Arts
-END:VEVENT
 END:VCALENDAR
