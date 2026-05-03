@@ -83,16 +83,17 @@ DTSTART;TZID=America/New_York:20260505T170000
 DTEND;TZID=America/New_York:20260505T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nStatus: Waitlist Only\nEve
- nt URL: https://members.thequinhouse.com/events/182097\n\nJoin us for our 
- weekly Member Mingle\, an inclusive gathering set in an ambiant reserved s
- pace. This is your opportunity to connect with fellow members\, exchange i
- deas\, and cultivate meaningful relationships.\n\nWhether you're sparking 
- new collaborations\, sharing insights\, or simply enjoying great conversat
- ion\, the Member Mingle is the perfect way to engage with our dynamic comm
- unity. Don’t miss the chance to connect\, inspire\, and be inspired!\n\n
- *This event is complimentary and reserved for members only. Complimentary 
- light bites will be served\, and beverages will be available for purchase.
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 1 spot left\
+ nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/182
+ 097\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set i
+ n an ambiant reserved space. This is your opportunity to connect with fell
+ ow members\, exchange ideas\, and cultivate meaningful relationships.\n\nW
+ hether you're sparking new collaborations\, sharing insights\, or simply e
+ njoying great conversation\, the Member Mingle is the perfect way to engag
+ e with our dynamic community. Don’t miss the chance to connect\, inspire
+ \, and be inspired!\n\n*This event is complimentary and reserved for membe
+ rs only. Complimentary light bites will be served\, and beverages will be 
+ available for purchase.
 URL:https://members.thequinhouse.com/events/182097
 CATEGORIES:Member Mixer
 END:VEVENT
@@ -302,29 +303,29 @@ DTSTART;TZID=America/New_York:20260512T173000
 DTEND;TZID=America/New_York:20260512T190000
 SUMMARY:'Quin Chat: AI Powered Women
 LOCATION:Scottie's
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 1 spot left\
- nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/182
- 250\n\n5:30PM Reception\, 6:00PM Discussion\nAI is reshaping the world - b
- ut who is shaping AI?\n\nThis discussion brings together leading women at 
- the forefront of artificial intelligence to explore the human decisions\, 
- ethical frameworks\, and leadership required to guide this moment of rapid
-  transformation.\n\nDr. Felicia Newhouse\, founder of AI-Powered Women—a
-  global learning platform and 1\,200-person MIT summit focused on building
-  the workforce infrastructure behind responsible AI adoption—will share 
- insights on how organizations translate AI investment into real-world impl
- ementation\, where leadership\, culture\, and human capability determine s
- uccess. She is joined by Dr. Karrie Karahalios of the MIT Media Lab\, a pi
- oneer in algorithmic accountability\, and Dr. Cansu Canca\, Director of Re
- sponsible AI Practice at Northeastern University and founder of AI Ethics 
- Lab and creator of Puzzle-solving in Ethics (PiE) Model.\n\nTogether\, th
- ey will examine how AI systems reflect the values and assumptions of those
-  who build and deploy them and why diverse leadership is not just importan
- t\, but essential. From bias and governance to trust\, identity\, and deci
- sion-making\, the conversation moves beyond technology to the deeper quest
- ion of responsibility.\n\nAn intimate\, interdisciplinary conversation on 
- women shaping the future of AI and the systems that will shape us all.\n\n
- *This event is complimentary and reserved for members only. Light bites an
- d refreshments will be served.
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nStatus: Waitlist Only\nEve
+ nt URL: https://members.thequinhouse.com/events/182250\n\n5:30PM Reception
+ \, 6:00PM Discussion\nAI is reshaping the world - but who is shaping AI?\n
+ \nThis discussion brings together leading women at the forefront of artifi
+ cial intelligence to explore the human decisions\, ethical frameworks\, an
+ d leadership required to guide this moment of rapid transformation.\n\nDr.
+  Felicia Newhouse\, founder of AI-Powered Women—a global learning platfo
+ rm and 1\,200-person MIT summit focused on building the workforce infrastr
+ ucture behind responsible AI adoption—will share insights on how organiz
+ ations translate AI investment into real-world implementation\, where lead
+ ership\, culture\, and human capability determine success. She is joined b
+ y Dr. Karrie Karahalios of the MIT Media Lab\, a pioneer in algorithmic ac
+ countability\, and Dr. Cansu Canca\, Director of Responsible AI Practice a
+ t Northeastern University and founder of AI Ethics Lab and creator of Puz
+ zle-solving in Ethics (PiE) Model.\n\nTogether\, they will examine how AI 
+ systems reflect the values and assumptions of those who build and deploy t
+ hem and why diverse leadership is not just important\, but essential. From
+  bias and governance to trust\, identity\, and decision-making\, the conve
+ rsation moves beyond technology to the deeper question of responsibility.\
+ n\nAn intimate\, interdisciplinary conversation on women shaping the futur
+ e of AI and the systems that will shape us all.\n\n*This event is complime
+ ntary and reserved for members only. Light bites and refreshments will be 
+ served.
 URL:https://members.thequinhouse.com/events/182250
 CATEGORIES:‘Quin Chat
 END:VEVENT
