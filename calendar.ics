@@ -24,29 +24,6 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:quin-event-180914@thequinhouse.com
-DTSTAMP:20260502T160000Z
-DTSTART;TZID=America/New_York:20260502T160000
-DTEND;TZID=America/New_York:20260502T190000
-SUMMARY:Watch Party: Kentucky Derby
-LOCATION:The Pub
-DESCRIPTION:Category: Sports & Games\nPrice: Free / Included\nStatus: Avail
- able\nEvent URL: https://members.thequinhouse.com/events/180914\n\nWhat’
- s better than cheering on your horse with a Mint Julep in hand? Doing it f
- rom the comfort of The Pub—soaking up all the Derby Day buzz and countin
- g down to the 6:57PM post time without missing a moment of the action.\n\n
- We’re bringing Churchill Downs to the ‘House with a Derby celebration 
- featuring classic Mint Juleps\, and inspired cocktails - the Royal Julep\,
-  and Derby Flower. In addition enjoy an à la carte Derby-inspired menu of
-  bites by the chef. Members are encouraged to wear daytime cocktail attire
- . Hats are optional—however highly encouraged. \n\n*Menu specials begin 
- at 4:00PM. Reservations are not required\, however recommended. Following 
- our usual policy\, members are allowed to bring up to three guests to this
-  occasion. \n\nMake a Reservation.
-URL:https://members.thequinhouse.com/events/180914
-CATEGORIES:Sports & Games
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-184919@thequinhouse.com
 DTSTAMP:20260502T193000Z
 DTSTART;TZID=America/New_York:20260502T193000
@@ -278,18 +255,18 @@ DTSTART;TZID=America/New_York:20260511T180000
 DTEND;TZID=America/New_York:20260511T210000
 SUMMARY:Community Dinner Table
 LOCATION:Café Q
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 1 spot left\
- nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/176
- 007\n\nStart your week in good company with the Café Q Community dinner t
- able for members-only. Set aside for those looking to expand their social 
- circle over a shared meal\, this gathering is all about good food\, lively
-  conversation\, and meaningful connections. Pull up a chair\, and savor th
- e experience—because nothing brings people together quite like a great m
- eal.\n\n*This event is reserved for members only. An advance charge of $24
-  per member contributes to communal appetizers available upon seating. Mem
- bers are responsible for à la carte entrées\, desserts\, and beverages\,
-  plus taxes and fees. Cancellations made within 24 hours of the event\, or
-  failure to attend will be subject to the Café Q's surcharge policy.
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nStatus: Waitlist Only\nEve
+ nt URL: https://members.thequinhouse.com/events/176007\n\nStart your week 
+ in good company with the Café Q Community dinner table for members-only. 
+ Set aside for those looking to expand their social circle over a shared me
+ al\, this gathering is all about good food\, lively conversation\, and mea
+ ningful connections. Pull up a chair\, and savor the experience—because 
+ nothing brings people together quite like a great meal.\n\n*This event is 
+ reserved for members only. An advance charge of $24 per member contributes
+  to communal appetizers available upon seating. Members are responsible fo
+ r à la carte entrées\, desserts\, and beverages\, plus taxes and fees. C
+ ancellations made within 24 hours of the event\, or failure to attend will
+  be subject to the Café Q's surcharge policy.
 URL:https://members.thequinhouse.com/events/176007
 CATEGORIES:Member Mixer
 END:VEVENT
@@ -621,7 +598,7 @@ DTSTART;TZID=America/New_York:20260519T170000
 DTEND;TZID=America/New_York:20260519T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 17 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 16 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  84145\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in an ambiant reserved space. This is your opportunity to connect with fe
@@ -731,7 +708,7 @@ DTSTART;TZID=America/New_York:20260526T170000
 DTEND;TZID=America/New_York:20260526T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 27 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 24 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  84146\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in an ambiant reserved space. This is your opportunity to connect with fe
