@@ -24,31 +24,6 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:quin-event-184919@thequinhouse.com
-DTSTAMP:20260502T193000Z
-DTSTART;TZID=America/New_York:20260502T193000
-DTEND;TZID=America/New_York:20260502T220000
-SUMMARY:'Quin Suite: Celtics Round 1 Game 7 
-LOCATION:Offsite: TD Garden
-DESCRIPTION:Category: Sports & Games\nPrice: $366.36 per person\nStatus: so
- ldOut\nEvent URL: https://members.thequinhouse.com/events/184919\n\nGame 7
-  is here - secure your place in The ‘Quin Suite (#524) at TD Garden as t
- he Celtics face the Philadelphia 76ers in a decisive matchup with a trip t
- o the Conference Semifinals on the line.\n\nAll suite ticket options inclu
- de incredible views of the on-court action and light gameday bites—inclu
- ding chicken tenders\, sandwiches\, salads\, fruit and charcuterie\, and o
- f course bottomless popcorn! The suite also offers an assortment of refres
- hments including wine\, beer\, seltzer and soda. Are you game for the play
- offs?\n\nA pair of 'Quin Suite seats is offered at $826 total ($413 per ti
- cket). Individual tickets are also available for bar stool or standing-roo
- m access at a preferred rate of $392 per person. Tickets are limited and a
- vailable to members\, plus three guests age 16+. Members must accompany th
- eir guests at all times. All Game 7 tickets are non-refundable and non-tra
- nsferable.
-URL:https://members.thequinhouse.com/events/184919
-CATEGORIES:Sports & Games
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-183255@thequinhouse.com
 DTSTAMP:20260503T164500Z
 DTSTART;TZID=America/New_York:20260503T164500
@@ -327,29 +302,29 @@ DTSTART;TZID=America/New_York:20260512T173000
 DTEND;TZID=America/New_York:20260512T190000
 SUMMARY:'Quin Chat: AI Powered Women
 LOCATION:Scottie's
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nStatus: Waitlist Only\nEve
- nt URL: https://members.thequinhouse.com/events/182250\n\n5:30PM Reception
- \, 6:00PM Discussion\nAI is reshaping the world - but who is shaping AI?\n
- \nThis discussion brings together leading women at the forefront of artifi
- cial intelligence to explore the human decisions\, ethical frameworks\, an
- d leadership required to guide this moment of rapid transformation.\n\nDr.
-  Felicia Newhouse\, founder of AI-Powered Women—a global learning platfo
- rm and 1\,200-person MIT summit focused on building the workforce infrastr
- ucture behind responsible AI adoption—will share insights on how organiz
- ations translate AI investment into real-world implementation\, where lead
- ership\, culture\, and human capability determine success. She is joined b
- y Dr. Karrie Karahalios of the MIT Media Lab\, a pioneer in algorithmic ac
- countability\, and Dr. Cansu Canca\, Director of Responsible AI Practice a
- t Northeastern University and founder of AI Ethics Lab and creator of Puz
- zle-solving in Ethics (PiE) Model.\n\nTogether\, they will examine how AI 
- systems reflect the values and assumptions of those who build and deploy t
- hem and why diverse leadership is not just important\, but essential. From
-  bias and governance to trust\, identity\, and decision-making\, the conve
- rsation moves beyond technology to the deeper question of responsibility.\
- n\nAn intimate\, interdisciplinary conversation on women shaping the futur
- e of AI and the systems that will shape us all.\n\n*This event is complime
- ntary and reserved for members only. Light bites and refreshments will be 
- served.
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 1 spot left\
+ nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/182
+ 250\n\n5:30PM Reception\, 6:00PM Discussion\nAI is reshaping the world - b
+ ut who is shaping AI?\n\nThis discussion brings together leading women at 
+ the forefront of artificial intelligence to explore the human decisions\, 
+ ethical frameworks\, and leadership required to guide this moment of rapid
+  transformation.\n\nDr. Felicia Newhouse\, founder of AI-Powered Women—a
+  global learning platform and 1\,200-person MIT summit focused on building
+  the workforce infrastructure behind responsible AI adoption—will share 
+ insights on how organizations translate AI investment into real-world impl
+ ementation\, where leadership\, culture\, and human capability determine s
+ uccess. She is joined by Dr. Karrie Karahalios of the MIT Media Lab\, a pi
+ oneer in algorithmic accountability\, and Dr. Cansu Canca\, Director of Re
+ sponsible AI Practice at Northeastern University and founder of AI Ethics 
+ Lab and creator of Puzzle-solving in Ethics (PiE) Model.\n\nTogether\, th
+ ey will examine how AI systems reflect the values and assumptions of those
+  who build and deploy them and why diverse leadership is not just importan
+ t\, but essential. From bias and governance to trust\, identity\, and deci
+ sion-making\, the conversation moves beyond technology to the deeper quest
+ ion of responsibility.\n\nAn intimate\, interdisciplinary conversation on 
+ women shaping the future of AI and the systems that will shape us all.\n\n
+ *This event is complimentary and reserved for members only. Light bites an
+ d refreshments will be served.
 URL:https://members.thequinhouse.com/events/182250
 CATEGORIES:‘Quin Chat
 END:VEVENT
