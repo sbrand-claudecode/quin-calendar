@@ -46,22 +46,42 @@ URL:https://members.thequinhouse.com/events/175997
 CATEGORIES:Member Mixer
 END:VEVENT
 BEGIN:VEVENT
+UID:quin-event-182350@thequinhouse.com
+DTSTAMP:20260505T160000Z
+DTSTART;VALUE=DATE:20260505
+DTEND;VALUE=DATE:20260506
+SUMMARY:BBQ Specials 
+LOCATION:The Pub
+DESCRIPTION:Category: Food & Beverage\nPrice: Free / Included\nStatus: Avai
+ lable\nTime: 4 PM – 9 PM\nEvent URL: https://members.thequinhouse.com/ev
+ ents/182350\n\nExclusively Available Tuesday Evenings\nSettle in and get y
+ our hands a little messy - in the best way.\n\nBegin with a warm corn brea
+ d skillet and hot honey butter\, alongside the classics: potato salad\, pi
+ ckles\, and coleslaw. From there\, choose two barbecue favorites for your 
+ main indulgence—espresso-rubbed beef brisket\, St. Louis ribs cooked low
+  and slow\, or pulled pork sliders worth every bite. A little smoky\, a li
+ ttle saucy\, and just the right amount of refined.\n\nMake a Reservation.
+URL:https://members.thequinhouse.com/events/182350
+CATEGORIES:Food & Beverage
+END:VEVENT
+BEGIN:VEVENT
 UID:quin-event-182097@thequinhouse.com
 DTSTAMP:20260505T170000Z
 DTSTART;TZID=America/New_York:20260505T170000
 DTEND;TZID=America/New_York:20260505T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nStatus: Waitlist Only\nEve
- nt URL: https://members.thequinhouse.com/events/182097\n\nJoin us for our 
- weekly Member Mingle\, an inclusive gathering set in an ambiant reserved s
- pace. This is your opportunity to connect with fellow members\, exchange i
- deas\, and cultivate meaningful relationships.\n\nWhether you're sparking 
- new collaborations\, sharing insights\, or simply enjoying great conversat
- ion\, the Member Mingle is the perfect way to engage with our dynamic comm
- unity. Don’t miss the chance to connect\, inspire\, and be inspired!\n\n
- *This event is complimentary and reserved for members only. Complimentary 
- light bites will be served\, and beverages will be available for purchase.
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 1 spot left\
+ nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/182
+ 097\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set i
+ n an ambiant reserved space. This is your opportunity to connect with fell
+ ow members\, exchange ideas\, and cultivate meaningful relationships.\n\nW
+ hether you're sparking new collaborations\, sharing insights\, or simply e
+ njoying great conversation\, the Member Mingle is the perfect way to engag
+ e with our dynamic community. Don’t miss the chance to connect\, inspire
+ \, and be inspired!\n\n*This event is complimentary and reserved for membe
+ rs only. Complimentary light bites will be served\, and beverages will be 
+ available for purchase.
 URL:https://members.thequinhouse.com/events/182097
 CATEGORIES:Member Mixer
 END:VEVENT
@@ -542,7 +562,7 @@ DTSTART;TZID=America/New_York:20260519T170000
 DTEND;TZID=America/New_York:20260519T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 16 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 15 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  84145\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in an ambiant reserved space. This is your opportunity to connect with fe
@@ -583,16 +603,16 @@ DTSTART;TZID=America/New_York:20260519T200000
 DTEND;TZID=America/New_York:20260519T210000
 SUMMARY:Stand Up Comedy: Steve Sweeney | 8:00PM Show
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nStatus: Waitlist Only\nEvent U
- RL: https://members.thequinhouse.com/events/176367\n\nBoston’s best retu
- rn to the ’House! Join us for a night of comedy featuring headliner Stev
- e Sweeney\, a renowned comedian with decades of experience in the comedy s
- cene. His unique style blends storytelling with sharp wit\, making every p
- erformance unforgettable.\n\nGrab a drink from the bar beginning at 5:30PM
- \, then settle in for an evening of laughs—seating is first come\, first
-  served.\n\nMake a night of it with a pre-show burger and a beer from The 
- Pub. Dining walk-ins are welcome.\n\n*This event is complimentary and avai
- lable to members\, plus one registered guest.
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 2 spots left\nSt
+ atus: Available\nEvent URL: https://members.thequinhouse.com/events/176367
+ \n\nBoston’s best return to the ’House! Join us for a night of comedy 
+ featuring headliner Steve Sweeney\, a renowned comedian with decades of ex
+ perience in the comedy scene. His unique style blends storytelling with sh
+ arp wit\, making every performance unforgettable.\n\nGrab a drink from the
+  bar beginning at 5:30PM\, then settle in for an evening of laughs—seati
+ ng is first come\, first served.\n\nMake a night of it with a pre-show bur
+ ger and a beer from The Pub. Dining walk-ins are welcome.\n\n*This event i
+ s complimentary and available to members\, plus one registered guest.
 URL:https://members.thequinhouse.com/events/176367
 CATEGORIES:The Arts
 END:VEVENT
@@ -652,7 +672,7 @@ DTSTART;TZID=America/New_York:20260526T170000
 DTEND;TZID=America/New_York:20260526T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 23 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 22 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  84146\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in an ambiant reserved space. This is your opportunity to connect with fe
