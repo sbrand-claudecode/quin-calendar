@@ -24,28 +24,6 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:quin-event-175997@thequinhouse.com
-DTSTAMP:20260504T183000Z
-DTSTART;TZID=America/New_York:20260504T183000
-DTEND;TZID=America/New_York:20260504T210000
-SUMMARY:Serendipity Dinner 
-LOCATION:The Muse
-DESCRIPTION:Category: Member Mixer\nPrice: $100.00 per person\nStatus: Wait
- list Only\nEvent URL: https://members.thequinhouse.com/events/175997\n\nJo
- in The ‘Quin House Managing Director\, Matthias Kiehm\, for an evening o
- f meaningful connections over a thoughtfully curated three-course dinner. 
- Enjoy expertly paired wines as you engage with fellow members\, guided by 
- conversation prompts designed to inspire deeper\, more memorable exchanges
- . This unique experience offers the perfect blend of great company\, engag
- ing dialogue\, and a menu crafted to delight the senses.\n\n*Tickets are $
- 100 per person and are reserved for members only. Cancellations within 72 
- hours of the event\, or failure to attend\, will be charged in full. Pleas
- e inform us of any dietary needs or restrictions by emailing happening@the
- quin.com at least 72 hours before dinner service.
-URL:https://members.thequinhouse.com/events/175997
-CATEGORIES:Member Mixer
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-182350@thequinhouse.com
 DTSTAMP:20260505T160000Z
 DTSTART;VALUE=DATE:20260505
@@ -190,24 +168,24 @@ DTSTART;TZID=America/New_York:20260509T120000
 DTEND;TZID=America/New_York:20260509T140000
 SUMMARY:Serendipity Brunch: The 40's Social
 LOCATION:Lunasol
-DESCRIPTION:Category: Member Mixer\nPrice: $65.00 per person\nAvailability:
-  1 spot left\nStatus: Available\nEvent URL: https://members.thequinhouse.c
- om/events/182101\n\nStep into a lively Saturday brunch designed for member
- s in their 40s - where meaningful connections come naturally and conversat
- ion flows as effortlessly as the mimosas. This Serendipity Brunch invites 
- you to gather in Lunasol for a relaxed yet engaging start to the day along
- side fellow members.\n\nThe experience unfolds at an easy\, social pace: a
-  thoughtfully curated\, family-style menu paired with subtle conversation 
- prompts to spark connection and keep dialogue flowing. Enjoy a table of pa
- stries\, fresh fruit\, and parfaits to begin\, followed by your choice of 
- entrée and generous sides\, with Bloody Marys and mimosas available throu
- ghout.\n\nIt’s a refined\, convivial take on brunch at The ’House—we
- lcoming\, engaging\, and designed to bring together those who appreciate g
- reat conversation and even better company.\n\n*Tickets are $65 per person\
- , plus tax\, and are reserved for members only. Cancellations within 48 ho
- urs of the event\, or failure to attend\, will be charged in full. Please 
- inform us of any dietary needs or restrictions by emailing happening@thequ
- in.com at least 72 hours prior to the event.
+DESCRIPTION:Category: Member Mixer\nPrice: $65.00 per person\nStatus: Waitl
+ ist Only\nEvent URL: https://members.thequinhouse.com/events/182101\n\nSte
+ p into a lively Saturday brunch designed for members in their 40s - where 
+ meaningful connections come naturally and conversation flows as effortless
+ ly as the mimosas. This Serendipity Brunch invites you to gather in Lunaso
+ l for a relaxed yet engaging start to the day alongside fellow members.\n\
+ nThe experience unfolds at an easy\, social pace: a thoughtfully curated\,
+  family-style menu paired with subtle conversation prompts to spark connec
+ tion and keep dialogue flowing. Enjoy a table of pastries\, fresh fruit\, 
+ and parfaits to begin\, followed by your choice of entrée and generous si
+ des\, with Bloody Marys and mimosas available throughout.\n\nIt’s a refi
+ ned\, convivial take on brunch at The ’House—welcoming\, engaging\, an
+ d designed to bring together those who appreciate great conversation and e
+ ven better company.\n\n*Tickets are $65 per person\, plus tax\, and are re
+ served for members only. Cancellations within 48 hours of the event\, or f
+ ailure to attend\, will be charged in full. Please inform us of any dietar
+ y needs or restrictions by emailing happening@thequin.com at least 72 hour
+ s prior to the event.
 URL:https://members.thequinhouse.com/events/182101
 CATEGORIES:Member Mixer
 END:VEVENT
@@ -240,25 +218,25 @@ DTSTART;TZID=America/New_York:20260512T130000
 DTEND;TZID=America/New_York:20260512T150000
 SUMMARY:Hands-On Impact: Household Goods
 LOCATION:The Muse
-DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nAvailability: 1 spo
- t left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/eve
- nts/182103\n\nA simple set of kitchen tools can be the difference between 
- a space and a home.\n\nJoin The ‘Quin Impact Fund for a hands-on volunte
- er experience in partnership with Household Goods\, where you will assembl
- e Kitchen Starter Sets for individuals and families transitioning into sta
- ble housing. Together\, you will unpack\, sort\, and thoughtfully build es
- sential kits - each one filled with everyday items that make it possible t
- o cook\, gather\, and begin again.\n\nHousehold Goods furnishes more than 
- 2\,500 homes each year\, yet the demand for basic kitchen essentials remai
- ns constant. These starter sets - simple\, practical\, and deeply impactfu
- l - help ensure that every home begins with the tools needed for daily lif
- e.\n\nMembers are invited to contribute by donating new or gently used kit
- chen items or supporting purchases through a curated Amazon wish list ahea
- d of the event. A meaningful opportunity to give back\, connect\, and play
-  a small part in helping someone build a home from the ground up.\n\n*This
-  event is complimentary and reserved for members only. For any questions 
- regarding donation items\, please contact The ‘Quin Impact Fund team at�
- �impact@thequin.com.\n\nShop the Amazon Wishlist here.
+DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nStatus: Waitlist On
+ ly\nEvent URL: https://members.thequinhouse.com/events/182103\n\nA simple 
+ set of kitchen tools can be the difference between a space and a home.\n\n
+ Join The ‘Quin Impact Fund for a hands-on volunteer experience in partne
+ rship with Household Goods\, where you will assemble Kitchen Starter Sets 
+ for individuals and families transitioning into stable housing. Together\,
+  you will unpack\, sort\, and thoughtfully build essential kits - each one
+  filled with everyday items that make it possible to cook\, gather\, and b
+ egin again.\n\nHousehold Goods furnishes more than 2\,500 homes each year\
+ , yet the demand for basic kitchen essentials remains constant. These star
+ ter sets - simple\, practical\, and deeply impactful - help ensure that ev
+ ery home begins with the tools needed for daily life.\n\nMembers are invit
+ ed to contribute by donating new or gently used kitchen items or supportin
+ g purchases through a curated Amazon wish list ahead of the event. A meani
+ ngful opportunity to give back\, connect\, and play a small part in helpin
+ g someone build a home from the ground up.\n\n*This event is complimentary
+  and reserved for members only. For any questions regarding donation item
+ s\, please contact The ‘Quin Impact Fund team at impact@thequin.com.\n\
+ nShop the Amazon Wishlist here.
 URL:https://members.thequinhouse.com/events/182103
 CATEGORIES:‘Quin Impact Fund
 END:VEVENT
@@ -644,7 +622,7 @@ DTSTART;TZID=America/New_York:20260521T170000
 DTEND;TZID=America/New_York:20260521T183000
 SUMMARY:Rethinking Women's Health: The Head & The Heart
 LOCATION:Scottie's
-DESCRIPTION:Category: Health & Wellness\nPrice: Free\nAvailability: 28 spot
+DESCRIPTION:Category: Health & Wellness\nPrice: Free\nAvailability: 20 spot
  s left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/eve
  nts/184947\n\n5:00PM Reception\, 5:30PM Discussion \nThe third installmen
  t in our Women’s Health Series explores the powerful and often underexam
