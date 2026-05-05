@@ -248,7 +248,7 @@ DTSTART;TZID=America/New_York:20260512T170000
 DTEND;TZID=America/New_York:20260512T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 20 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 19 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  82248\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in an ambiant reserved space. This is your opportunity to connect with fe
@@ -269,29 +269,29 @@ DTSTART;TZID=America/New_York:20260512T173000
 DTEND;TZID=America/New_York:20260512T190000
 SUMMARY:'Quin Chat: AI Powered Women
 LOCATION:Scottie's
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nStatus: Waitlist Only\nEve
- nt URL: https://members.thequinhouse.com/events/182250\n\n5:30PM Reception
- \, 6:00PM Discussion\nAI is reshaping the world - but who is shaping AI?\n
- \nThis discussion brings together leading women at the forefront of artifi
- cial intelligence to explore the human decisions\, ethical frameworks\, an
- d leadership required to guide this moment of rapid transformation.\n\nDr.
-  Felicia Newhouse\, founder of AI-Powered Women—a global learning platfo
- rm and 1\,200-person MIT summit focused on building the workforce infrastr
- ucture behind responsible AI adoption—will share insights on how organiz
- ations translate AI investment into real-world implementation\, where lead
- ership\, culture\, and human capability determine success. She is joined b
- y Dr. Karrie Karahalios of the MIT Media Lab\, a pioneer in algorithmic ac
- countability\, and Dr. Cansu Canca\, Director of Responsible AI Practice a
- t Northeastern University and founder of AI Ethics Lab and creator of Puz
- zle-solving in Ethics (PiE) Model.\n\nTogether\, they will examine how AI 
- systems reflect the values and assumptions of those who build and deploy t
- hem and why diverse leadership is not just important\, but essential. From
-  bias and governance to trust\, identity\, and decision-making\, the conve
- rsation moves beyond technology to the deeper question of responsibility.\
- n\nAn intimate\, interdisciplinary conversation on women shaping the futur
- e of AI and the systems that will shape us all.\n\n*This event is complime
- ntary and reserved for members only. Light bites and refreshments will be 
- served.
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 1 spot left\
+ nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/182
+ 250\n\n5:30PM Reception\, 6:00PM Discussion\nAI is reshaping the world - b
+ ut who is shaping AI?\n\nThis discussion brings together leading women at 
+ the forefront of artificial intelligence to explore the human decisions\, 
+ ethical frameworks\, and leadership required to guide this moment of rapid
+  transformation.\n\nDr. Felicia Newhouse\, founder of AI-Powered Women—a
+  global learning platform and 1\,200-person MIT summit focused on building
+  the workforce infrastructure behind responsible AI adoption—will share 
+ insights on how organizations translate AI investment into real-world impl
+ ementation\, where leadership\, culture\, and human capability determine s
+ uccess. She is joined by Dr. Karrie Karahalios of the MIT Media Lab\, a pi
+ oneer in algorithmic accountability\, and Dr. Cansu Canca\, Director of Re
+ sponsible AI Practice at Northeastern University and founder of AI Ethics 
+ Lab and creator of Puzzle-solving in Ethics (PiE) Model.\n\nTogether\, th
+ ey will examine how AI systems reflect the values and assumptions of those
+  who build and deploy them and why diverse leadership is not just importan
+ t\, but essential. From bias and governance to trust\, identity\, and deci
+ sion-making\, the conversation moves beyond technology to the deeper quest
+ ion of responsibility.\n\nAn intimate\, interdisciplinary conversation on 
+ women shaping the future of AI and the systems that will shape us all.\n\n
+ *This event is complimentary and reserved for members only. Light bites an
+ d refreshments will be served.
 URL:https://members.thequinhouse.com/events/182250
 CATEGORIES:‘Quin Chat
 END:VEVENT
@@ -617,13 +617,32 @@ URL:https://members.thequinhouse.com/events/184144
 CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
+UID:quin-event-184140@thequinhouse.com
+DTSTAMP:20260521T170000Z
+DTSTART;TZID=America/New_York:20260521T170000
+DTEND;TZID=America/New_York:20260521T190000
+SUMMARY:Member Mixer - Bingo 
+LOCATION:The Living Room
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 47 spots lef
+ t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
+ 84140\n\nJoin us for a lively Bingo-Themed Member Mixer. Enjoy 5–6 fast-
+ paced rounds of traditional bingo\, each lasting 10–15 minutes\, with pl
+ enty of chances to win and connect. After each round\, winners will switch
+  seats and join a new group\, keeping the energy high and conversations fl
+ owing. It’s the perfect way to meet fellow members\, spark new connectio
+ ns\, and add a playful twist to your evening.\n\n*This event is compliment
+ ary and reserved for members only.
+URL:https://members.thequinhouse.com/events/184140
+CATEGORIES:Member Mixer
+END:VEVENT
+BEGIN:VEVENT
 UID:quin-event-184947@thequinhouse.com
 DTSTAMP:20260521T170000Z
 DTSTART;TZID=America/New_York:20260521T170000
 DTEND;TZID=America/New_York:20260521T183000
 SUMMARY:Rethinking Women's Health: The Head & The Heart
 LOCATION:Scottie's
-DESCRIPTION:Category: Health & Wellness\nPrice: Free\nAvailability: 16 spot
+DESCRIPTION:Category: Health & Wellness\nPrice: Free\nAvailability: 13 spot
  s left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/eve
  nts/184947\n\n5:00PM Reception\, 5:30PM Discussion \nThe third installmen
  t in our Women’s Health Series explores the powerful and often underexam
@@ -714,6 +733,28 @@ URL:https://members.thequinhouse.com/events/185624
 CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
+UID:quin-event-184946@thequinhouse.com
+DTSTAMP:20260528T173000Z
+DTSTART;TZID=America/New_York:20260528T173000
+DTEND;TZID=America/New_York:20260528T193000
+SUMMARY:Member Meet Up: Night Shift Brewery Esplanade
+LOCATION:Offsite: Night Shift Esplanade
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 58 spots lef
+ t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
+ 84946\n\nJoin fellow members for an early summer evening at Night Shift E
+ splanade\, a lively outdoor beer garden set along the Charles River.\n\nTh
+ is casual gathering offers an easy setting to connect\, unwind\, and enjoy
+  a curated selection of beers\, hard seltzers\, wines\, and non-alcoholic 
+ options. Whether catching up with familiar faces or meeting someone new\, 
+ the atmosphere is designed to be social\, welcoming\, and effortlessly enj
+ oyable.\n\nDogs are welcome so feel free to bring your four-legged compani
+ on along for the evening.\n\n*This event is complimentary and reserved for
+  members only. Each member will receive two complimentary drinks\, followe
+ d by a cash bar. Food is available for purchase at nearby concessions.
+URL:https://members.thequinhouse.com/events/184946
+CATEGORIES:Member Mixer
+END:VEVENT
+BEGIN:VEVENT
 UID:quin-event-181402@thequinhouse.com
 DTSTAMP:20260530T113000Z
 DTSTART;TZID=America/New_York:20260530T113000
@@ -729,6 +770,31 @@ DESCRIPTION:Category: Food & Beverage\nPrice: Free / Included\nStatus: Avai
  nMake a Reservation.
 URL:https://members.thequinhouse.com/events/181402
 CATEGORIES:Food & Beverage
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-184143@thequinhouse.com
+DTSTAMP:20260530T120000Z
+DTSTART;TZID=America/New_York:20260530T120000
+DTEND;TZID=America/New_York:20260530T140000
+SUMMARY:Serendipity Brunch
+LOCATION:Lunasol
+DESCRIPTION:Category: Member Mixer\nPrice: $65.00 per person\nAvailability:
+  18 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
+ .com/events/184143\n\nJoin us for a Serendipity Saturday Brunch that invit
+ es members to enjoy great conversation\, in good company. Set in Lunasol\,
+  the afternoon unfolds with an easy rhythm—a thoughtful menu\, enthusia
+ stic members\, and a curated card deck of conversation prompts to inspire 
+ connections.\n\nBrunch will be served family-style\, featuring pastries\, 
+ fruit\, and parfaits to begin\, followed by a choice of entrée and genero
+ us sides. Mimosas and Bloody Marys will be available throughout.\n\nSpend 
+ the day at The 'House—unhurried\, social\, and effortlessly enjoyable.\
+ n\n*Tickets are $65 per person\, plus tax\, and are reserved for members o
+ nly. Cancellations within 48 hours of the event\, or failure to attend\, w
+ ill be charged in full. Please inform us of any dietary needs or restricti
+ ons by emailing happening@thequin.com at least 72 hours prior to the event
+ .
+URL:https://members.thequinhouse.com/events/184143
+CATEGORIES:Member Mixer
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-180148@thequinhouse.com
