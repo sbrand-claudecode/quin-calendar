@@ -24,46 +24,6 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:quin-event-182350@thequinhouse.com
-DTSTAMP:20260505T160000Z
-DTSTART;VALUE=DATE:20260505
-DTEND;VALUE=DATE:20260506
-SUMMARY:BBQ Specials 
-LOCATION:The Pub
-DESCRIPTION:Category: Food & Beverage\nPrice: Free / Included\nStatus: Avai
- lable\nTime: 4 PM – 9 PM\nEvent URL: https://members.thequinhouse.com/ev
- ents/182350\n\nExclusively Available Tuesday Evenings\nSettle in and get y
- our hands a little messy - in the best way.\n\nBegin with a warm corn brea
- d skillet and hot honey butter\, alongside the classics: potato salad\, pi
- ckles\, and coleslaw. From there\, choose two barbecue favorites for your 
- main indulgence—espresso-rubbed beef brisket\, St. Louis ribs cooked low
-  and slow\, or pulled pork sliders worth every bite. A little smoky\, a li
- ttle saucy\, and just the right amount of refined.\n\nMake a Reservation.
-URL:https://members.thequinhouse.com/events/182350
-CATEGORIES:Food & Beverage
-END:VEVENT
-BEGIN:VEVENT
-UID:quin-event-182097@thequinhouse.com
-DTSTAMP:20260505T170000Z
-DTSTART;TZID=America/New_York:20260505T170000
-DTEND;TZID=America/New_York:20260505T190000
-SUMMARY:Member Mingle
-LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 1 spot left\
- nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/182
- 097\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set i
- n an ambiant reserved space. This is your opportunity to connect with fell
- ow members\, exchange ideas\, and cultivate meaningful relationships.\n\nW
- hether you're sparking new collaborations\, sharing insights\, or simply e
- njoying great conversation\, the Member Mingle is the perfect way to engag
- e with our dynamic community. Don’t miss the chance to connect\, inspire
- \, and be inspired!\n\n*This event is complimentary and reserved for membe
- rs only. Complimentary light bites will be served\, and beverages will be 
- available for purchase.
-URL:https://members.thequinhouse.com/events/182097
-CATEGORIES:Member Mixer
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-181396@thequinhouse.com
 DTSTAMP:20260506T180000Z
 DTSTART;TZID=America/New_York:20260506T180000
@@ -269,29 +229,29 @@ DTSTART;TZID=America/New_York:20260512T173000
 DTEND;TZID=America/New_York:20260512T190000
 SUMMARY:'Quin Chat: AI Powered Women
 LOCATION:Scottie's
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 1 spot left\
- nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/182
- 250\n\n5:30PM Reception\, 6:00PM Discussion\nAI is reshaping the world - b
- ut who is shaping AI?\n\nThis discussion brings together leading women at 
- the forefront of artificial intelligence to explore the human decisions\, 
- ethical frameworks\, and leadership required to guide this moment of rapid
-  transformation.\n\nDr. Felicia Newhouse\, founder of AI-Powered Women—a
-  global learning platform and 1\,200-person MIT summit focused on building
-  the workforce infrastructure behind responsible AI adoption—will share 
- insights on how organizations translate AI investment into real-world impl
- ementation\, where leadership\, culture\, and human capability determine s
- uccess. She is joined by Dr. Karrie Karahalios of the MIT Media Lab\, a pi
- oneer in algorithmic accountability\, and Dr. Cansu Canca\, Director of Re
- sponsible AI Practice at Northeastern University and founder of AI Ethics 
- Lab and creator of Puzzle-solving in Ethics (PiE) Model.\n\nTogether\, th
- ey will examine how AI systems reflect the values and assumptions of those
-  who build and deploy them and why diverse leadership is not just importan
- t\, but essential. From bias and governance to trust\, identity\, and deci
- sion-making\, the conversation moves beyond technology to the deeper quest
- ion of responsibility.\n\nAn intimate\, interdisciplinary conversation on 
- women shaping the future of AI and the systems that will shape us all.\n\n
- *This event is complimentary and reserved for members only. Light bites an
- d refreshments will be served.
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nStatus: Waitlist Only\nEve
+ nt URL: https://members.thequinhouse.com/events/182250\n\n5:30PM Reception
+ \, 6:00PM Discussion\nAI is reshaping the world - but who is shaping AI?\n
+ \nThis discussion brings together leading women at the forefront of artifi
+ cial intelligence to explore the human decisions\, ethical frameworks\, an
+ d leadership required to guide this moment of rapid transformation.\n\nDr.
+  Felicia Newhouse\, founder of AI-Powered Women—a global learning platfo
+ rm and 1\,200-person MIT summit focused on building the workforce infrastr
+ ucture behind responsible AI adoption—will share insights on how organiz
+ ations translate AI investment into real-world implementation\, where lead
+ ership\, culture\, and human capability determine success. She is joined b
+ y Dr. Karrie Karahalios of the MIT Media Lab\, a pioneer in algorithmic ac
+ countability\, and Dr. Cansu Canca\, Director of Responsible AI Practice a
+ t Northeastern University and founder of AI Ethics Lab and creator of Puz
+ zle-solving in Ethics (PiE) Model.\n\nTogether\, they will examine how AI 
+ systems reflect the values and assumptions of those who build and deploy t
+ hem and why diverse leadership is not just important\, but essential. From
+  bias and governance to trust\, identity\, and decision-making\, the conve
+ rsation moves beyond technology to the deeper question of responsibility.\
+ n\nAn intimate\, interdisciplinary conversation on women shaping the futur
+ e of AI and the systems that will shape us all.\n\n*This event is complime
+ ntary and reserved for members only. Light bites and refreshments will be 
+ served.
 URL:https://members.thequinhouse.com/events/182250
 CATEGORIES:‘Quin Chat
 END:VEVENT
@@ -544,7 +504,7 @@ DTSTART;TZID=America/New_York:20260519T170000
 DTEND;TZID=America/New_York:20260519T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 11 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 10 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  84145\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in an ambiant reserved space. This is your opportunity to connect with fe
@@ -623,7 +583,7 @@ DTSTART;TZID=America/New_York:20260521T170000
 DTEND;TZID=America/New_York:20260521T190000
 SUMMARY:Member Mixer - Bingo 
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 47 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 41 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  84140\n\nJoin us for a lively Bingo-Themed Member Mixer. Enjoy 5–6 fast-
  paced rounds of traditional bingo\, each lasting 10–15 minutes\, with pl
@@ -739,7 +699,7 @@ DTSTART;TZID=America/New_York:20260528T173000
 DTEND;TZID=America/New_York:20260528T193000
 SUMMARY:Member Meet Up: Night Shift Brewery Esplanade
 LOCATION:Offsite: Night Shift Esplanade
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 58 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 49 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  84946\n\nJoin fellow members for an early summer evening at Night Shift E
  splanade\, a lively outdoor beer garden set along the Charles River.\n\nTh
