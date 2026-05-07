@@ -24,25 +24,6 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:quin-event-181396@thequinhouse.com
-DTSTAMP:20260506T180000Z
-DTSTART;TZID=America/New_York:20260506T180000
-DTEND;TZID=America/New_York:20260506T210000
-SUMMARY:Live Music: Samuel Batista Quartet
-LOCATION:The Reading Room
-DESCRIPTION:Category: The Arts\nPrice: Free / Included\nStatus: Available\n
- Event URL: https://members.thequinhouse.com/events/181396\n\nJoin us for a
- n unforgettable evening with a quartet or performers\, led by Panamanian 
- saxophonist and composer Samuel Batista. Joined by piano\, drums and bass\
- , this dynamic trio seamlessly blends jazz with rich cultural influences. 
- Grab a signature cocktail from the Little Bar\, settle into the Reading Ro
- om\, and let their captivating music transport you on a journey through ja
- zz and heritage.\n\n*Reservations are not required. Please note that seati
- ng is first come\, first served.
-URL:https://members.thequinhouse.com/events/181396
-CATEGORIES:The Arts
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-182099@thequinhouse.com
 DTSTAMP:20260507T113000Z
 DTSTART;TZID=America/New_York:20260507T113000
@@ -179,25 +160,25 @@ DTSTART;TZID=America/New_York:20260512T130000
 DTEND;TZID=America/New_York:20260512T150000
 SUMMARY:Hands-On Impact: Household Goods
 LOCATION:The Muse
-DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nAvailability: 2 spo
- ts left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/ev
- ents/182103\n\nA simple set of kitchen tools can be the difference between
-  a space and a home.\n\nJoin The ‘Quin Impact Fund for a hands-on volunt
- eer experience in partnership with Household Goods\, where you will assemb
- le Kitchen Starter Sets for individuals and families transitioning into st
- able housing. Together\, you will unpack\, sort\, and thoughtfully build e
- ssential kits - each one filled with everyday items that make it possible 
- to cook\, gather\, and begin again.\n\nHousehold Goods furnishes more than
-  2\,500 homes each year\, yet the demand for basic kitchen essentials rema
- ins constant. These starter sets - simple\, practical\, and deeply impactf
- ul - help ensure that every home begins with the tools needed for daily li
- fe.\n\nMembers are invited to contribute by donating new or gently used ki
- tchen items or supporting purchases through a curated Amazon wish list ahe
- ad of the event. A meaningful opportunity to give back\, connect\, and pla
- y a small part in helping someone build a home from the ground up.\n\n*Thi
- s event is complimentary and reserved for members only. For any questions
-  regarding donation items\, please contact The ‘Quin Impact Fund team at
-  impact@thequin.com.\n\nShop the Amazon Wishlist here.
+DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nStatus: Waitlist On
+ ly\nEvent URL: https://members.thequinhouse.com/events/182103\n\nA simple 
+ set of kitchen tools can be the difference between a space and a home.\n\n
+ Join The ‘Quin Impact Fund for a hands-on volunteer experience in partne
+ rship with Household Goods\, where you will assemble Kitchen Starter Sets 
+ for individuals and families transitioning into stable housing. Together\,
+  you will unpack\, sort\, and thoughtfully build essential kits - each one
+  filled with everyday items that make it possible to cook\, gather\, and b
+ egin again.\n\nHousehold Goods furnishes more than 2\,500 homes each year\
+ , yet the demand for basic kitchen essentials remains constant. These star
+ ter sets - simple\, practical\, and deeply impactful - help ensure that ev
+ ery home begins with the tools needed for daily life.\n\nMembers are invit
+ ed to contribute by donating new or gently used kitchen items or supportin
+ g purchases through a curated Amazon wish list ahead of the event. A meani
+ ngful opportunity to give back\, connect\, and play a small part in helpin
+ g someone build a home from the ground up.\n\n*This event is complimentary
+  and reserved for members only. For any questions regarding donation item
+ s\, please contact The ‘Quin Impact Fund team at impact@thequin.com.\n\
+ nShop the Amazon Wishlist here.
 URL:https://members.thequinhouse.com/events/182103
 CATEGORIES:‘Quin Impact Fund
 END:VEVENT
@@ -504,7 +485,7 @@ DTSTART;TZID=America/New_York:20260519T170000
 DTEND;TZID=America/New_York:20260519T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 9 spots left
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 8 spots left
  \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/18
  4145\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set 
  in an ambiant reserved space. This is your opportunity to connect with fel
@@ -583,7 +564,7 @@ DTSTART;TZID=America/New_York:20260521T170000
 DTEND;TZID=America/New_York:20260521T190000
 SUMMARY:Member Mixer - Bingo 
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 39 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 36 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  84140\n\nJoin us for a lively Bingo-Themed Member Mixer. Enjoy 5–6 fast-
  paced rounds of traditional bingo\, each lasting 10–15 minutes\, with pl
@@ -602,7 +583,7 @@ DTSTART;TZID=America/New_York:20260521T170000
 DTEND;TZID=America/New_York:20260521T183000
 SUMMARY:Rethinking Women's Health: The Head & The Heart
 LOCATION:Scottie's
-DESCRIPTION:Category: Health & Wellness\nPrice: Free\nAvailability: 8 spots
+DESCRIPTION:Category: Health & Wellness\nPrice: Free\nAvailability: 7 spots
   left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/even
  ts/184947\n\n5:00PM Reception\, 5:30PM Discussion \nThe third installment
   in our Women’s Health Series explores the powerful and often underexami
@@ -633,7 +614,7 @@ DTSTART;TZID=America/New_York:20260526T170000
 DTEND;TZID=America/New_York:20260526T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 20 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 17 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  84146\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in an ambiant reserved space. This is your opportunity to connect with fe
@@ -699,7 +680,7 @@ DTSTART;TZID=America/New_York:20260528T173000
 DTEND;TZID=America/New_York:20260528T193000
 SUMMARY:Member Meet Up: Night Shift Brewery Esplanade
 LOCATION:Offsite: Night Shift Esplanade
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 38 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 32 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  84946\n\nJoin fellow members for an early summer evening at Night Shift E
  splanade\, a lively outdoor beer garden set along the Charles River.\n\nTh
