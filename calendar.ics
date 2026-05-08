@@ -49,7 +49,7 @@ DTSTART;TZID=America/New_York:20260508T170000
 DTEND;TZID=America/New_York:20260508T183000
 SUMMARY:'Quin Chat: Finding Justice with New England Innocence Project
 LOCATION:Scottie's
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 6 spots left
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 8 spots left
  \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/18
  2100\n\n5:00PM Reception\, 5:30PM Discussion\nAn evening that will challen
  ge what you think you know about justice - and redefine what it means to r
@@ -107,18 +107,18 @@ DTSTART;TZID=America/New_York:20260511T180000
 DTEND;TZID=America/New_York:20260511T210000
 SUMMARY:Community Dinner Table
 LOCATION:Café Q
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nStatus: Waitlist Only\nEve
- nt URL: https://members.thequinhouse.com/events/176007\n\nStart your week 
- in good company with the Café Q Community dinner table for members-only. 
- Set aside for those looking to expand their social circle over a shared me
- al\, this gathering is all about good food\, lively conversation\, and mea
- ningful connections. Pull up a chair\, and savor the experience—because 
- nothing brings people together quite like a great meal.\n\n*This event is 
- reserved for members only. An advance charge of $24 per member contributes
-  to communal appetizers available upon seating. Members are responsible fo
- r à la carte entrées\, desserts\, and beverages\, plus taxes and fees. C
- ancellations made within 24 hours of the event\, or failure to attend will
-  be subject to the Café Q's surcharge policy.
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 1 spot left\
+ nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/176
+ 007\n\nStart your week in good company with the Café Q Community dinner t
+ able for members-only. Set aside for those looking to expand their social 
+ circle over a shared meal\, this gathering is all about good food\, lively
+  conversation\, and meaningful connections. Pull up a chair\, and savor th
+ e experience—because nothing brings people together quite like a great m
+ eal.\n\n*This event is reserved for members only. An advance charge of $24
+  per member contributes to communal appetizers available upon seating. Mem
+ bers are responsible for à la carte entrées\, desserts\, and beverages\,
+  plus taxes and fees. Cancellations made within 24 hours of the event\, or
+  failure to attend will be subject to the Café Q's surcharge policy.
 URL:https://members.thequinhouse.com/events/176007
 CATEGORIES:Member Mixer
 END:VEVENT
@@ -198,29 +198,29 @@ DTSTART;TZID=America/New_York:20260512T173000
 DTEND;TZID=America/New_York:20260512T190000
 SUMMARY:'Quin Chat: AI Powered Women
 LOCATION:Scottie's
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 1 spot left\
- nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/182
- 250\n\n5:30PM Reception\, 6:00PM Discussion\nAI is reshaping the world - b
- ut who is shaping AI?\n\nThis discussion brings together leading women at 
- the forefront of artificial intelligence to explore the human decisions\, 
- ethical frameworks\, and leadership required to guide this moment of rapid
-  transformation.\n\nDr. Felicia Newhouse\, founder of AI-Powered Women—a
-  global learning platform and 1\,200-person MIT summit focused on building
-  the workforce infrastructure behind responsible AI adoption—will share 
- insights on how organizations translate AI investment into real-world impl
- ementation\, where leadership\, culture\, and human capability determine s
- uccess. She is joined by Dr. Karrie Karahalios of the MIT Media Lab\, a pi
- oneer in algorithmic accountability\, and Dr. Cansu Canca\, Director of Re
- sponsible AI Practice at Northeastern University and founder of AI Ethics 
- Lab and creator of Puzzle-solving in Ethics (PiE) Model.\n\nTogether\, th
- ey will examine how AI systems reflect the values and assumptions of those
-  who build and deploy them and why diverse leadership is not just importan
- t\, but essential. From bias and governance to trust\, identity\, and deci
- sion-making\, the conversation moves beyond technology to the deeper quest
- ion of responsibility.\n\nAn intimate\, interdisciplinary conversation on 
- women shaping the future of AI and the systems that will shape us all.\n\n
- *This event is complimentary and reserved for members only. Light bites an
- d refreshments will be served.
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nStatus: Waitlist Only\nEve
+ nt URL: https://members.thequinhouse.com/events/182250\n\n5:30PM Reception
+ \, 6:00PM Discussion\nAI is reshaping the world - but who is shaping AI?\n
+ \nThis discussion brings together leading women at the forefront of artifi
+ cial intelligence to explore the human decisions\, ethical frameworks\, an
+ d leadership required to guide this moment of rapid transformation.\n\nDr.
+  Felicia Newhouse\, founder of AI-Powered Women—a global learning platfo
+ rm and 1\,200-person MIT summit focused on building the workforce infrastr
+ ucture behind responsible AI adoption—will share insights on how organiz
+ ations translate AI investment into real-world implementation\, where lead
+ ership\, culture\, and human capability determine success. She is joined b
+ y Dr. Karrie Karahalios of the MIT Media Lab\, a pioneer in algorithmic ac
+ countability\, and Dr. Cansu Canca\, Director of Responsible AI Practice a
+ t Northeastern University and founder of AI Ethics Lab and creator of Puz
+ zle-solving in Ethics (PiE) Model.\n\nTogether\, they will examine how AI 
+ systems reflect the values and assumptions of those who build and deploy t
+ hem and why diverse leadership is not just important\, but essential. From
+  bias and governance to trust\, identity\, and decision-making\, the conve
+ rsation moves beyond technology to the deeper question of responsibility.\
+ n\nAn intimate\, interdisciplinary conversation on women shaping the futur
+ e of AI and the systems that will shape us all.\n\n*This event is complime
+ ntary and reserved for members only. Light bites and refreshments will be 
+ served.
 URL:https://members.thequinhouse.com/events/182250
 CATEGORIES:‘Quin Chat
 END:VEVENT
@@ -783,16 +783,16 @@ DESCRIPTION:Category: The Arts\nPrice: $934.58 per person\nAvailability: 1
  spot left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/
  events/184920\n\nExperience an unforgettable night of live music at Fenway
   Park as RÜFÜS DU SOL takes the stage.\n\nMembers are invited to secure 
- premium seating in Section A6\, Row 3 for an immersive concert experience 
- just steps from the performance. Known for their atmospheric sound\, emoti
- ve vocals\, and deep electronic beats\, the Australian trio—Tyrone Lindq
- vist\, Jon George\, and James Hunt—has built a global following with alb
- ums including Atlas\, Bloom\, Solace\, Surrender\, and their latest releas
- e\, Inhale / Exhale.\n\n*A pair of tickets is offered at $1\,000 total ($5
- 00 per ticket). Tickets are non-refundable and non-transferable. Members m
- ay purchase up to four tickets (two pairs) and are required to accompany t
- heir guests ages 16+. All shows are rain or shine. Food and beverage are a
- vailable for purchase at nearby concessions.
+ premium seating in Section A6\, Row 3 for an immersive concert experience.
+  Known for their atmospheric sound\, emotive vocals\, and deep electronic 
+ beats\, the Australian trio—Tyrone Lindqvist\, Jon George\, and James Hu
+ nt—has built a global following with albums including Atlas\, Bloom\, So
+ lace\, Surrender\, and their latest release\, Inhale / Exhale.\n\n*A pair 
+ of tickets is offered at $1\,000 total ($500 per ticket). Tickets are non-
+ refundable and non-transferable. Members may purchase up to four tickets (
+ two pairs) and are required to accompany their guests ages 16+. All shows 
+ are rain or shine. Food and beverage are available for purchase at nearby 
+ concessions.
 URL:https://members.thequinhouse.com/events/184920
 CATEGORIES:The Arts
 END:VEVENT
