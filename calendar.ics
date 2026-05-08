@@ -49,26 +49,26 @@ DTSTART;TZID=America/New_York:20260508T170000
 DTEND;TZID=America/New_York:20260508T183000
 SUMMARY:'Quin Chat: Finding Justice with New England Innocence Project
 LOCATION:Scottie's
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nStatus: Waitlist Only\nEve
- nt URL: https://members.thequinhouse.com/events/182100\n\n5:00PM Reception
- \, 5:30PM Discussion\nAn evening that will challenge what you think you kn
- ow about justice - and redefine what it means to rebuild a life.\n\nHear f
- irsthand from Sean Ellis and Edward Wright—two men who were wrongfully c
- onvicted\, spent decades incarcerated\, and ultimately fought to reclaim t
- heir freedom. Their stories are deeply personal\, but also powerful reflec
- tions on systemic failure\, resilience\, and the long road to exoneration.
- \n\nSean Ellis\, whose case gained international attention through the Net
- flix docuseries Trial 4\, now leads advocacy efforts through the Exoneree
-  Network\, supporting others navigating life after incarceration. Edward W
- right\, exonerated after 41 years\, taught himself the law while imprisone
- d - successfully fighting for his own freedom while helping others do the 
- same.\n\nThe conversation will be guided by Radha Natarajan\, Executive Di
- rector of the New England Innocence Project\, whose work continues to conf
- ront bias and drive meaningful reform within the justice system.\n\nA rare
-  opportunity to engage with voices at the forefront of justice reform - an
- d to witness the strength\, clarity\, and humanity behind these extraordin
- ary journeys.\n\n*This event is complimentary and reserved for members onl
- y. Light bites and refreshments will be served.
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 3 spots left
+ \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/18
+ 2100\n\n5:00PM Reception\, 5:30PM Discussion\nAn evening that will challen
+ ge what you think you know about justice - and redefine what it means to r
+ ebuild a life.\n\nHear firsthand from Sean Ellis and Edward Wright—two m
+ en who were wrongfully convicted\, spent decades incarcerated\, and ultima
+ tely fought to reclaim their freedom. Their stories are deeply personal\, 
+ but also powerful reflections on systemic failure\, resilience\, and the l
+ ong road to exoneration.\n\nSean Ellis\, whose case gained international a
+ ttention through the Netflix docuseries Trial 4\, now leads advocacy effo
+ rts through the Exoneree Network\, supporting others navigating life after
+  incarceration. Edward Wright\, exonerated after 41 years\, taught himself
+  the law while imprisoned - successfully fighting for his own freedom whil
+ e helping others do the same.\n\nThe conversation will be guided by Radha 
+ Natarajan\, Executive Director of the New England Innocence Project\, whos
+ e work continues to confront bias and drive meaningful reform within the j
+ ustice system.\n\nA rare opportunity to engage with voices at the forefron
+ t of justice reform - and to witness the strength\, clarity\, and humanity
+  behind these extraordinary journeys.\n\n*This event is complimentary and 
+ reserved for members only. Light bites and refreshments will be served.
 URL:https://members.thequinhouse.com/events/182100
 CATEGORIES:‘Quin Chat
 END:VEVENT
@@ -198,29 +198,29 @@ DTSTART;TZID=America/New_York:20260512T173000
 DTEND;TZID=America/New_York:20260512T190000
 SUMMARY:'Quin Chat: AI Powered Women
 LOCATION:Scottie's
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nStatus: Waitlist Only\nEve
- nt URL: https://members.thequinhouse.com/events/182250\n\n5:30PM Reception
- \, 6:00PM Discussion\nAI is reshaping the world - but who is shaping AI?\n
- \nThis discussion brings together leading women at the forefront of artifi
- cial intelligence to explore the human decisions\, ethical frameworks\, an
- d leadership required to guide this moment of rapid transformation.\n\nDr.
-  Felicia Newhouse\, founder of AI-Powered Women—a global learning platfo
- rm and 1\,200-person MIT summit focused on building the workforce infrastr
- ucture behind responsible AI adoption—will share insights on how organiz
- ations translate AI investment into real-world implementation\, where lead
- ership\, culture\, and human capability determine success. She is joined b
- y Dr. Karrie Karahalios of the MIT Media Lab\, a pioneer in algorithmic ac
- countability\, and Dr. Cansu Canca\, Director of Responsible AI Practice a
- t Northeastern University and founder of AI Ethics Lab and creator of Puz
- zle-solving in Ethics (PiE) Model.\n\nTogether\, they will examine how AI 
- systems reflect the values and assumptions of those who build and deploy t
- hem and why diverse leadership is not just important\, but essential. From
-  bias and governance to trust\, identity\, and decision-making\, the conve
- rsation moves beyond technology to the deeper question of responsibility.\
- n\nAn intimate\, interdisciplinary conversation on women shaping the futur
- e of AI and the systems that will shape us all.\n\n*This event is complime
- ntary and reserved for members only. Light bites and refreshments will be 
- served.
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 1 spot left\
+ nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/182
+ 250\n\n5:30PM Reception\, 6:00PM Discussion\nAI is reshaping the world - b
+ ut who is shaping AI?\n\nThis discussion brings together leading women at 
+ the forefront of artificial intelligence to explore the human decisions\, 
+ ethical frameworks\, and leadership required to guide this moment of rapid
+  transformation.\n\nDr. Felicia Newhouse\, founder of AI-Powered Women—a
+  global learning platform and 1\,200-person MIT summit focused on building
+  the workforce infrastructure behind responsible AI adoption—will share 
+ insights on how organizations translate AI investment into real-world impl
+ ementation\, where leadership\, culture\, and human capability determine s
+ uccess. She is joined by Dr. Karrie Karahalios of the MIT Media Lab\, a pi
+ oneer in algorithmic accountability\, and Dr. Cansu Canca\, Director of Re
+ sponsible AI Practice at Northeastern University and founder of AI Ethics 
+ Lab and creator of Puzzle-solving in Ethics (PiE) Model.\n\nTogether\, th
+ ey will examine how AI systems reflect the values and assumptions of those
+  who build and deploy them and why diverse leadership is not just importan
+ t\, but essential. From bias and governance to trust\, identity\, and deci
+ sion-making\, the conversation moves beyond technology to the deeper quest
+ ion of responsibility.\n\nAn intimate\, interdisciplinary conversation on 
+ women shaping the future of AI and the systems that will shape us all.\n\n
+ *This event is complimentary and reserved for members only. Light bites an
+ d refreshments will be served.
 URL:https://members.thequinhouse.com/events/182250
 CATEGORIES:‘Quin Chat
 END:VEVENT
@@ -552,7 +552,7 @@ DTSTART;TZID=America/New_York:20260521T170000
 DTEND;TZID=America/New_York:20260521T190000
 SUMMARY:Member Mixer - Bingo 
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 32 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 31 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  84140\n\nJoin us for a lively Bingo-Themed Member Mixer. Enjoy 5–6 fast-
  paced rounds of traditional bingo\, each lasting 10–15 minutes\, with pl
@@ -571,27 +571,27 @@ DTSTART;TZID=America/New_York:20260521T170000
 DTEND;TZID=America/New_York:20260521T183000
 SUMMARY:Rethinking Women's Health: The Head & The Heart
 LOCATION:Scottie's
-DESCRIPTION:Category: Health & Wellness\nPrice: Free\nAvailability: 2 spots
-  left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/even
- ts/184947\n\n5:00PM Reception\, 5:30PM Discussion \nThe third installment
-  in our Women’s Health Series explores the powerful and often underexami
- ned connection between cardiovascular and brain health—two systems deepl
- y intertwined in shaping how we live\, age\, and thrive\n\nThis thoughtful
- ly curated conversation brings together two leading physicians whose work 
- reflects both the science and the human experience of health. Dr. Ami Bhat
- t—Chief Innovation Officer at the American College of Cardiology and Cha
- ir of the FDA Digital Health Advisory Committee—will explore the “hear
- t” of the conversation\, offering insight into cardiovascular health\, i
- nnovation\, and the evolving tools shaping prevention and care.\n\nComplem
- enting this perspective\, Dr. Julia Loewenthal—Assistant Professor of Me
- dicine at Harvard Medical School and a board-certified internist and geria
- trician—will guide the “head” of the discussion\, focusing on brain 
- health\, aging\, and the ways cognitive conditions such as dementia unique
- ly impact women.\n\nDesigned to inform and empower\, this program invites 
- a more expansive understanding of women’s health—one that recognizes t
- he deep interconnection between heart\, mind\, and longevity.\n\n*This eve
- nt is complimentary and reserved for members only. Complimentary light bit
- es will be served\, and beverages will be available for purchase.
+DESCRIPTION:Category: Health & Wellness\nPrice: Free\nAvailability: 1 spot 
+ left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/event
+ s/184947\n\n5:00PM Reception\, 5:30PM Discussion \nThe third installment 
+ in our Women’s Health Series explores the powerful and often underexamin
+ ed connection between cardiovascular and brain health—two systems deeply
+  intertwined in shaping how we live\, age\, and thrive\n\nThis thoughtfull
+ y curated conversation brings together two leading physicians whose work r
+ eflects both the science and the human experience of health. Dr. Ami Bhatt
+ —Chief Innovation Officer at the American College of Cardiology and Chai
+ r of the FDA Digital Health Advisory Committee—will explore the “heart
+ ” of the conversation\, offering insight into cardiovascular health\, in
+ novation\, and the evolving tools shaping prevention and care.\n\nCompleme
+ nting this perspective\, Dr. Julia Loewenthal—Assistant Professor of Med
+ icine at Harvard Medical School and a board-certified internist and geriat
+ rician—will guide the “head” of the discussion\, focusing on brain h
+ ealth\, aging\, and the ways cognitive conditions such as dementia uniquel
+ y impact women.\n\nDesigned to inform and empower\, this program invites a
+  more expansive understanding of women’s health—one that recognizes th
+ e deep interconnection between heart\, mind\, and longevity.\n\n*This even
+ t is complimentary and reserved for members only. Complimentary light bite
+ s will be served\, and beverages will be available for purchase.
 URL:https://members.thequinhouse.com/events/184947
 CATEGORIES:Health & Wellness
 END:VEVENT
@@ -668,7 +668,7 @@ DTSTART;TZID=America/New_York:20260528T173000
 DTEND;TZID=America/New_York:20260528T193000
 SUMMARY:Member Meet Up: Night Shift Brewery Esplanade
 LOCATION:Offsite: Night Shift Esplanade
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 26 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 23 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  84946\n\nJoin fellow members for an early summer evening at Night Shift E
  splanade\, a lively outdoor beer garden set along the Charles River.\n\nTh
@@ -724,19 +724,6 @@ DESCRIPTION:Category: Member Mixer\nPrice: $65.00 per person\nAvailability:
  .
 URL:https://members.thequinhouse.com/events/184143
 CATEGORIES:Member Mixer
-END:VEVENT
-BEGIN:VEVENT
-UID:quin-event-186163@thequinhouse.com
-DTSTAMP:20260602T170000Z
-DTSTART;TZID=America/New_York:20260602T170000
-DTEND;TZID=America/New_York:20260602T183000
-SUMMARY:'Quin Chat: Understanding Brain Health
-LOCATION:Scottie's
-DESCRIPTION:Category: Health & Wellness\nPrice: Free\nAvailability: 78 spot
- s left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/eve
- nts/186163\n
-URL:https://members.thequinhouse.com/events/186163
-CATEGORIES:Health & Wellness
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-180148@thequinhouse.com
