@@ -49,7 +49,7 @@ DTSTART;TZID=America/New_York:20260508T170000
 DTEND;TZID=America/New_York:20260508T183000
 SUMMARY:'Quin Chat: Finding Justice with New England Innocence Project
 LOCATION:Scottie's
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 8 spots left
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 2 spots left
  \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/18
  2100\n\n5:00PM Reception\, 5:30PM Discussion\nAn evening that will challen
  ge what you think you know about justice - and redefine what it means to r
@@ -79,24 +79,24 @@ DTSTART;TZID=America/New_York:20260509T120000
 DTEND;TZID=America/New_York:20260509T140000
 SUMMARY:Serendipity Brunch: The 40's Social
 LOCATION:Lunasol
-DESCRIPTION:Category: Member Mixer\nPrice: $65.00 per person\nAvailability:
-  3 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse.
- com/events/182101\n\nStep into a lively Saturday brunch designed for membe
- rs in their 40s - where meaningful connections come naturally and conversa
- tion flows as effortlessly as the mimosas. This Serendipity Brunch invites
-  you to gather in Lunasol for a relaxed yet engaging start to the day alon
- gside fellow members.\n\nThe experience unfolds at an easy\, social pace: 
- a thoughtfully curated\, family-style menu paired with subtle conversation
-  prompts to spark connection and keep dialogue flowing. Enjoy a table of p
- astries\, fresh fruit\, and parfaits to begin\, followed by your choice of
-  entrée and generous sides\, with Bloody Marys and mimosas available thro
- ughout.\n\nIt’s a refined\, convivial take on brunch at The ’House—w
- elcoming\, engaging\, and designed to bring together those who appreciate 
- great conversation and even better company.\n\n*Tickets are $65 per person
- \, plus tax\, and are reserved for members only. Cancellations within 48 h
- ours of the event\, or failure to attend\, will be charged in full. Please
-  inform us of any dietary needs or restrictions by emailing happening@theq
- uin.com at least 72 hours prior to the event.
+DESCRIPTION:Category: Member Mixer\nPrice: $65.00 per person\nStatus: Waitl
+ ist Only\nEvent URL: https://members.thequinhouse.com/events/182101\n\nSte
+ p into a lively Saturday brunch designed for members in their 40s - where 
+ meaningful connections come naturally and conversation flows as effortless
+ ly as the mimosas. This Serendipity Brunch invites you to gather in Lunaso
+ l for a relaxed yet engaging start to the day alongside fellow members.\n\
+ nThe experience unfolds at an easy\, social pace: a thoughtfully curated\,
+  family-style menu paired with subtle conversation prompts to spark connec
+ tion and keep dialogue flowing. Enjoy a table of pastries\, fresh fruit\, 
+ and parfaits to begin\, followed by your choice of entrée and generous si
+ des\, with Bloody Marys and mimosas available throughout.\n\nIt’s a refi
+ ned\, convivial take on brunch at The ’House—welcoming\, engaging\, an
+ d designed to bring together those who appreciate great conversation and e
+ ven better company.\n\n*Tickets are $65 per person\, plus tax\, and are re
+ served for members only. Cancellations within 48 hours of the event\, or f
+ ailure to attend\, will be charged in full. Please inform us of any dietar
+ y needs or restrictions by emailing happening@thequin.com at least 72 hour
+ s prior to the event.
 URL:https://members.thequinhouse.com/events/182101
 CATEGORIES:Member Mixer
 END:VEVENT
@@ -177,7 +177,7 @@ DTSTART;TZID=America/New_York:20260512T170000
 DTEND;TZID=America/New_York:20260512T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 14 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 13 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  82248\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in an ambiant reserved space. This is your opportunity to connect with fe
@@ -193,14 +193,14 @@ CATEGORIES:Member Mixer
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-182250@thequinhouse.com
-DTSTAMP:20260512T173000Z
-DTSTART;TZID=America/New_York:20260512T173000
-DTEND;TZID=America/New_York:20260512T190000
+DTSTAMP:20260512T170000Z
+DTSTART;TZID=America/New_York:20260512T170000
+DTEND;TZID=America/New_York:20260512T183000
 SUMMARY:'Quin Chat: AI Powered Women
 LOCATION:Scottie's
 DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nStatus: Waitlist Only\nEve
- nt URL: https://members.thequinhouse.com/events/182250\n\n5:30PM Reception
- \, 6:00PM Discussion\nAI is reshaping the world - but who is shaping AI?\n
+ nt URL: https://members.thequinhouse.com/events/182250\n\n5:00PM Reception
+ \, 5:30PM Discussion\nAI is reshaping the world - but who is shaping AI?\n
  \nThis discussion brings together leading women at the forefront of artifi
  cial intelligence to explore the human decisions\, ethical frameworks\, an
  d leadership required to guide this moment of rapid transformation.\n\nDr.
@@ -375,6 +375,41 @@ URL:https://members.thequinhouse.com/events/182450
 CATEGORIES:Sports & Games
 END:VEVENT
 BEGIN:VEVENT
+UID:quin-event-186161@thequinhouse.com
+DTSTAMP:20260515T170000Z
+DTSTART;TZID=America/New_York:20260515T170000
+DTEND;TZID=America/New_York:20260515T183000
+SUMMARY:'Quin Chat: The Art of Provincetown
+LOCATION:The Reading Room
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 60 spots lef
+ t\nStatus: futureSale\nEvent URL: https://members.thequinhouse.com/events/
+ 186161\n\n5:00PM Reception\, 5:30PM Discussion\nStep into a dialogue at th
+ e intersection of place\, history\, and contemporary practice. Join ’Qui
+ n House Art Curator Kate Chertavian for an intimate conversation exploring
+  the newest special exhibition at The ’Quin\, presented in collaboration
+  with the Provincetown Arts Society. On view from May 12th through July 14
+ th across the Lobby\, Grand Staircase\, and Reading Room\, the exhibition 
+ brings together a vibrant group of Boston- and Provincetown-based artists�
+ ��reflecting both the legacy and evolving spirit of one of America’s mos
+ t influential art colonies.\n\nPanelists include Gene Tartaglia\, Director
+  of the Provincetown Arts Society\; Christine McCarthy\, Chief Executive O
+ fficer of the Provincetown Art Association & Museum\; and exhibiting artis
+ t Megan Hinton\, whose interdisciplinary work reimagines the boundaries of
+  painting\, sculpture\, and material. Together\, they will explore Provinc
+ etown’s rich artistic history and the vital role arts organizations cont
+ inue to play in shaping and sustaining its creative community today.\n\nPa
+ rt two of this exhibition unfolds just beyond Boston. Hosted at the histor
+ ic Mary Heaton Vorse House\, the home of the Provincetown Arts Society\, t
+ he companion show will feature ’Quin House artists Zainab Sumu\, Yu-Wen-
+ Wu\, Brian Zink\, and Lavaughn Jenkins. Members will be invited to Provinc
+ etown in June for a private tour with the curators\, and an opportunity to
+  engage directly with the artists. More information on Part two of the exh
+ ibition to follow...\n\n*This event is complimentary and reserved for memb
+ ers only. Light bites and refreshments will be served.
+URL:https://members.thequinhouse.com/events/186161
+CATEGORIES:‘Quin Chat
+END:VEVENT
+BEGIN:VEVENT
 UID:quin-event-184208@thequinhouse.com
 DTSTAMP:20260518T180000Z
 DTSTART;TZID=America/New_York:20260518T180000
@@ -473,7 +508,7 @@ DTSTART;TZID=America/New_York:20260519T170000
 DTEND;TZID=America/New_York:20260519T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 7 spots left
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 6 spots left
  \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/18
  4145\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set 
  in an ambiant reserved space. This is your opportunity to connect with fel
@@ -552,7 +587,7 @@ DTSTART;TZID=America/New_York:20260521T170000
 DTEND;TZID=America/New_York:20260521T190000
 SUMMARY:Member Mixer - Bingo 
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 30 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 25 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  84140\n\nJoin us for a lively Bingo-Themed Member Mixer. Enjoy 5–6 fast-
  paced rounds of traditional bingo\, each lasting 10–15 minutes\, with pl
@@ -571,27 +606,27 @@ DTSTART;TZID=America/New_York:20260521T170000
 DTEND;TZID=America/New_York:20260521T183000
 SUMMARY:Rethinking Women's Health: The Head & The Heart
 LOCATION:Scottie's
-DESCRIPTION:Category: Health & Wellness\nPrice: Free\nAvailability: 1 spot 
- left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/event
- s/184947\n\n5:00PM Reception\, 5:30PM Discussion \nThe third installment 
- in our Women’s Health Series explores the powerful and often underexamin
- ed connection between cardiovascular and brain health—two systems deeply
-  intertwined in shaping how we live\, age\, and thrive\n\nThis thoughtfull
- y curated conversation brings together two leading physicians whose work r
- eflects both the science and the human experience of health. Dr. Ami Bhatt
- —Chief Innovation Officer at the American College of Cardiology and Chai
- r of the FDA Digital Health Advisory Committee—will explore the “heart
- ” of the conversation\, offering insight into cardiovascular health\, in
- novation\, and the evolving tools shaping prevention and care.\n\nCompleme
- nting this perspective\, Dr. Julia Loewenthal—Assistant Professor of Med
- icine at Harvard Medical School and a board-certified internist and geriat
- rician—will guide the “head” of the discussion\, focusing on brain h
- ealth\, aging\, and the ways cognitive conditions such as dementia uniquel
- y impact women.\n\nDesigned to inform and empower\, this program invites a
-  more expansive understanding of women’s health—one that recognizes th
- e deep interconnection between heart\, mind\, and longevity.\n\n*This even
- t is complimentary and reserved for members only. Complimentary light bite
- s will be served\, and beverages will be available for purchase.
+DESCRIPTION:Category: Health & Wellness\nPrice: Free\nStatus: Waitlist Only
+ \nEvent URL: https://members.thequinhouse.com/events/184947\n\n5:00PM Rece
+ ption\, 5:30PM Discussion \nThe third installment in our Women’s Health
+  Series explores the powerful and often underexamined connection between c
+ ardiovascular and brain health—two systems deeply intertwined in shaping
+  how we live\, age\, and thrive\n\nThis thoughtfully curated conversation 
+ brings together two leading physicians whose work reflects both the scienc
+ e and the human experience of health. Dr. Ami Bhatt—Chief Innovation Off
+ icer at the American College of Cardiology and Chair of the FDA Digital He
+ alth Advisory Committee—will explore the “heart” of the conversation
+ \, offering insight into cardiovascular health\, innovation\, and the evol
+ ving tools shaping prevention and care.\n\nComplementing this perspective\
+ , Dr. Julia Loewenthal—Assistant Professor of Medicine at Harvard Medica
+ l School and a board-certified internist and geriatrician—will guide the
+  “head” of the discussion\, focusing on brain health\, aging\, and the
+  ways cognitive conditions such as dementia uniquely impact women.\n\nDesi
+ gned to inform and empower\, this program invites a more expansive underst
+ anding of women’s health—one that recognizes the deep interconnection 
+ between heart\, mind\, and longevity.\n\n*This event is complimentary and 
+ reserved for members only. Complimentary light bites will be served\, and 
+ beverages will be available for purchase.
 URL:https://members.thequinhouse.com/events/184947
 CATEGORIES:Health & Wellness
 END:VEVENT
@@ -668,7 +703,7 @@ DTSTART;TZID=America/New_York:20260528T173000
 DTEND;TZID=America/New_York:20260528T193000
 SUMMARY:Member Meet Up: Night Shift Brewery Esplanade
 LOCATION:Offsite: Night Shift Esplanade
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 21 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 10 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  84946\n\nJoin fellow members for an early summer evening at Night Shift E
  splanade\, a lively outdoor beer garden set along the Charles River.\n\nTh
@@ -724,6 +759,63 @@ DESCRIPTION:Category: Member Mixer\nPrice: $65.00 per person\nAvailability:
  .
 URL:https://members.thequinhouse.com/events/184143
 CATEGORIES:Member Mixer
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-175777@thequinhouse.com
+DTSTAMP:20260601T170000Z
+DTSTART;TZID=America/New_York:20260601T170000
+DTEND;TZID=America/New_York:20260601T183000
+SUMMARY:'Quin Chat: How to Start Collecting
+LOCATION:The Reading Room
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 80 spots left\nS
+ tatus: futureSale\nEvent URL: https://members.thequinhouse.com/events/1757
+ 77\n\n5:00PM Reception\, 5:30PM Discussion\nStep inside the art market wit
+ h those who know it best. Join ’Quin House Art Curator Kate Chertavian i
+ n conversation with Simon Shaw\, Senior Advisor and Co-Head of Impressioni
+ st and Modern Art at Sotheby’s\, for an insider’s look at how collecti
+ ons are shaped\, valued\, and sustained over time.\n\nDrawing on decades o
+ f experience across auction houses\, private collections\, and global mark
+ ets\, the discussion will explore how to build with intention—navigating
+  auctions and galleries\, evaluating works\, resisting fleeting trends\, a
+ nd ultimately defining a point of view that is distinctly your own. Though
+ tful\, candid\, and deeply informed\, this is a rare opportunity to hear d
+ irectly from two leading voices at the highest levels of the art world.\n\
+ n*This event is complimentary and reserved for members only. Light refresh
+ ments will be served.
+URL:https://members.thequinhouse.com/events/175777
+CATEGORIES:The Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-186163@thequinhouse.com
+DTSTAMP:20260602T170000Z
+DTSTART;TZID=America/New_York:20260602T170000
+DTEND;TZID=America/New_York:20260602T183000
+SUMMARY:'Quin Chat: Understanding Brain Health
+LOCATION:Scottie's
+DESCRIPTION:Category: Health & Wellness\nPrice: Free\nAvailability: 77 spot
+ s left\nStatus: futureSale\nEvent URL: https://members.thequinhouse.com/ev
+ ents/186163\n\n5:00PM Reception\, 5:30PM Discussion\nWhat if brain health 
+ wasn’t just clinical—but personal\, preventative\, and deeply relevant
+  to how we live every day? In honor of Alzheimer's Awareness Month\, this 
+ candid\, forward-thinking conversation brings together leading physicians 
+ and patient voices to explore the latest in neurovascular innovation\, lif
+ e-saving interventions\, and the often-overlooked habits that shape cognit
+ ive well-being. Expect an unfiltered look at survival\, prevention\, and t
+ he science redefining how we think about the brain.\n\nFeaturing Dr. Chris
+ topher Ogilvy—Director of Endovascular and Operative Neurovascular Surge
+ ry at Beth Israel Deaconess Medical Center and Professor at Harvard Medica
+ l School—whose pioneering work continues to push the boundaries of moder
+ n neurosurgery\, alongside Meg Smith\, CEO of Cure Alzheimer’s Fund. Si
+ nce taking the helm in 2023\, Smith has led the organization’s continued
+  growth and impact\, advancing a research model that has directed over $13
+ 8 million toward bold scientific efforts to slow\, prevent\, and ultimatel
+ y reverse Alzheimer’s.\n\nTogether with additional expert and patient pe
+ rspectives\, the panel offers a rare opportunity to engage with leaders at
+  the forefront of brain health and discovery.\n\n*This event is compliment
+ ary and reserved for members only. Light bites and refreshments will be se
+ rved.
+URL:https://members.thequinhouse.com/events/186163
+CATEGORIES:Health & Wellness
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-180148@thequinhouse.com
