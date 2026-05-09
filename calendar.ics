@@ -43,36 +43,6 @@ URL:https://members.thequinhouse.com/events/182285
 CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
-UID:quin-event-182100@thequinhouse.com
-DTSTAMP:20260508T170000Z
-DTSTART;TZID=America/New_York:20260508T170000
-DTEND;TZID=America/New_York:20260508T183000
-SUMMARY:'Quin Chat: Finding Justice with New England Innocence Project
-LOCATION:Scottie's
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 2 spots left
- \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/18
- 2100\n\n5:00PM Reception\, 5:30PM Discussion\nAn evening that will challen
- ge what you think you know about justice - and redefine what it means to r
- ebuild a life.\n\nHear firsthand from Sean Ellis and Edward Wright—two m
- en who were wrongfully convicted\, spent decades incarcerated\, and ultima
- tely fought to reclaim their freedom. Their stories are deeply personal\, 
- but also powerful reflections on systemic failure\, resilience\, and the l
- ong road to exoneration.\n\nSean Ellis\, whose case gained international a
- ttention through the Netflix docuseries Trial 4\, now leads advocacy effo
- rts through the Exoneree Network\, supporting others navigating life after
-  incarceration. Edward Wright\, exonerated after 41 years\, taught himself
-  the law while imprisoned - successfully fighting for his own freedom whil
- e helping others do the same.\n\nThe conversation will be guided by Radha 
- Natarajan\, Executive Director of the New England Innocence Project\, whos
- e work continues to confront bias and drive meaningful reform within the j
- ustice system.\n\nA rare opportunity to engage with voices at the forefron
- t of justice reform - and to witness the strength\, clarity\, and humanity
-  behind these extraordinary journeys.\n\n*This event is complimentary and 
- reserved for members only. Light bites and refreshments will be served.
-URL:https://members.thequinhouse.com/events/182100
-CATEGORIES:‘Quin Chat
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-182101@thequinhouse.com
 DTSTAMP:20260509T120000Z
 DTSTART;TZID=America/New_York:20260509T120000
@@ -107,18 +77,18 @@ DTSTART;TZID=America/New_York:20260511T180000
 DTEND;TZID=America/New_York:20260511T210000
 SUMMARY:Community Dinner Table
 LOCATION:Café Q
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 1 spot left\
- nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/176
- 007\n\nStart your week in good company with the Café Q Community dinner t
- able for members-only. Set aside for those looking to expand their social 
- circle over a shared meal\, this gathering is all about good food\, lively
-  conversation\, and meaningful connections. Pull up a chair\, and savor th
- e experience—because nothing brings people together quite like a great m
- eal.\n\n*This event is reserved for members only. An advance charge of $24
-  per member contributes to communal appetizers available upon seating. Mem
- bers are responsible for à la carte entrées\, desserts\, and beverages\,
-  plus taxes and fees. Cancellations made within 24 hours of the event\, or
-  failure to attend will be subject to the Café Q's surcharge policy.
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nStatus: Waitlist Only\nEve
+ nt URL: https://members.thequinhouse.com/events/176007\n\nStart your week 
+ in good company with the Café Q Community dinner table for members-only. 
+ Set aside for those looking to expand their social circle over a shared me
+ al\, this gathering is all about good food\, lively conversation\, and mea
+ ningful connections. Pull up a chair\, and savor the experience—because 
+ nothing brings people together quite like a great meal.\n\n*This event is 
+ reserved for members only. An advance charge of $24 per member contributes
+  to communal appetizers available upon seating. Members are responsible fo
+ r à la carte entrées\, desserts\, and beverages\, plus taxes and fees. C
+ ancellations made within 24 hours of the event\, or failure to attend will
+  be subject to the Café Q's surcharge policy.
 URL:https://members.thequinhouse.com/events/176007
 CATEGORIES:Member Mixer
 END:VEVENT
@@ -129,25 +99,25 @@ DTSTART;TZID=America/New_York:20260512T130000
 DTEND;TZID=America/New_York:20260512T150000
 SUMMARY:Hands-On Impact: Household Goods
 LOCATION:The Muse
-DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nAvailability: 1 spo
- t left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/eve
- nts/182103\n\nA simple set of kitchen tools can be the difference between 
- a space and a home.\n\nJoin The ‘Quin Impact Fund for a hands-on volunte
- er experience in partnership with Household Goods\, where you will assembl
- e Kitchen Starter Sets for individuals and families transitioning into sta
- ble housing. Together\, you will unpack\, sort\, and thoughtfully build es
- sential kits - each one filled with everyday items that make it possible t
- o cook\, gather\, and begin again.\n\nHousehold Goods furnishes more than 
- 2\,500 homes each year\, yet the demand for basic kitchen essentials remai
- ns constant. These starter sets - simple\, practical\, and deeply impactfu
- l - help ensure that every home begins with the tools needed for daily lif
- e.\n\nMembers are invited to contribute by donating new or gently used kit
- chen items or supporting purchases through a curated Amazon wish list ahea
- d of the event. A meaningful opportunity to give back\, connect\, and play
-  a small part in helping someone build a home from the ground up.\n\n*This
-  event is complimentary and reserved for members only. For any questions 
- regarding donation items\, please contact The ‘Quin Impact Fund team at�
- �impact@thequin.com.\n\nShop the Amazon Wishlist here.
+DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nStatus: Waitlist On
+ ly\nEvent URL: https://members.thequinhouse.com/events/182103\n\nA simple 
+ set of kitchen tools can be the difference between a space and a home.\n\n
+ Join The ‘Quin Impact Fund for a hands-on volunteer experience in partne
+ rship with Household Goods\, where you will assemble Kitchen Starter Sets 
+ for individuals and families transitioning into stable housing. Together\,
+  you will unpack\, sort\, and thoughtfully build essential kits - each one
+  filled with everyday items that make it possible to cook\, gather\, and b
+ egin again.\n\nHousehold Goods furnishes more than 2\,500 homes each year\
+ , yet the demand for basic kitchen essentials remains constant. These star
+ ter sets - simple\, practical\, and deeply impactful - help ensure that ev
+ ery home begins with the tools needed for daily life.\n\nMembers are invit
+ ed to contribute by donating new or gently used kitchen items or supportin
+ g purchases through a curated Amazon wish list ahead of the event. A meani
+ ngful opportunity to give back\, connect\, and play a small part in helpin
+ g someone build a home from the ground up.\n\n*This event is complimentary
+  and reserved for members only. For any questions regarding donation item
+ s\, please contact The ‘Quin Impact Fund team at impact@thequin.com.\n\
+ nShop the Amazon Wishlist here.
 URL:https://members.thequinhouse.com/events/182103
 CATEGORIES:‘Quin Impact Fund
 END:VEVENT
@@ -177,7 +147,7 @@ DTSTART;TZID=America/New_York:20260512T170000
 DTEND;TZID=America/New_York:20260512T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 13 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 11 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  82248\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in an ambiant reserved space. This is your opportunity to connect with fe
@@ -587,7 +557,7 @@ DTSTART;TZID=America/New_York:20260521T170000
 DTEND;TZID=America/New_York:20260521T190000
 SUMMARY:Member Mixer - Bingo 
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 25 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 19 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  84140\n\nJoin us for a lively Bingo-Themed Member Mixer. Enjoy 5–6 fast-
  paced rounds of traditional bingo\, each lasting 10–15 minutes\, with pl
@@ -637,7 +607,7 @@ DTSTART;TZID=America/New_York:20260526T170000
 DTEND;TZID=America/New_York:20260526T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 17 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 18 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  84146\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in an ambiant reserved space. This is your opportunity to connect with fe
@@ -658,18 +628,18 @@ DTSTART;TZID=America/New_York:20260528T110000
 DTEND;TZID=America/New_York:20260528T120000
 SUMMARY:Art Tour: Masterworks in Print 
 LOCATION:Meet in The Lobby
-DESCRIPTION:Category: The Arts\nPrice: Free\nStatus: Waitlist Only\nEvent U
- RL: https://members.thequinhouse.com/events/176379\n\nJoin ‘Quin Collect
- ion Curator Kate Chertavian for a print-focused art tour. The discussion w
- ill begin in the Lobby with a closer look at Julie Mehretu’s spectacular
-  copper-plate etching\, Six Bardos: Luminous Appearance\, and Cy Twombly�
- �s silkscreen from the landmark On the Bowery series.\n\nThe conversation 
- will explore a wide range of printmaking techniques—including screenprin
- t\, woodcut\, and lithography—featuring works by artists such as Robert 
- Mangold\, Jasper Johns\, and Louise Bourgeois.\n\nThe tour will also offer
-  insights into a remarkable new addition to the ‘Quin’s collection: Cl
- aude Monet’s Champ d’Iris à Giverny.\n\n*This event is complimentary 
- and reserved for members only.
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 1 spot left\nSta
+ tus: Available\nEvent URL: https://members.thequinhouse.com/events/176379\
+ n\nJoin ‘Quin Collection Curator Kate Chertavian for a print-focused art
+  tour. The discussion will begin in the Lobby with a closer look at Julie 
+ Mehretu’s spectacular copper-plate etching\, Six Bardos: Luminous Appear
+ ance\, and Cy Twombly’s silkscreen from the landmark On the Bowery serie
+ s.\n\nThe conversation will explore a wide range of printmaking techniques
+ —including screenprint\, woodcut\, and lithography—featuring works by 
+ artists such as Robert Mangold\, Jasper Johns\, and Louise Bourgeois.\n\nT
+ he tour will also offer insights into a remarkable new addition to the ‘
+ Quin’s collection: Claude Monet’s Champ d’Iris à Giverny.\n\n*This 
+ event is complimentary and reserved for members only.
 URL:https://members.thequinhouse.com/events/176379
 CATEGORIES:The Arts
 END:VEVENT
@@ -703,18 +673,18 @@ DTSTART;TZID=America/New_York:20260528T173000
 DTEND;TZID=America/New_York:20260528T193000
 SUMMARY:Member Meet Up: Night Shift Brewery Esplanade
 LOCATION:Offsite: Night Shift Esplanade
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 10 spots lef
- t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
- 84946\n\nJoin fellow members for an early summer evening at Night Shift E
- splanade\, a lively outdoor beer garden set along the Charles River.\n\nTh
- is casual gathering offers an easy setting to connect\, unwind\, and enjoy
-  a curated selection of beers\, hard seltzers\, wines\, and non-alcoholic 
- options. Whether catching up with familiar faces or meeting someone new\, 
- the atmosphere is designed to be social\, welcoming\, and effortlessly enj
- oyable.\n\nDogs are welcome so feel free to bring your four-legged compani
- on along for the evening.\n\n*This event is complimentary and reserved for
-  members only. Each member will receive two complimentary drinks\, followe
- d by a cash bar. Food is available for purchase at nearby concessions.
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 3 spots left
+ \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/18
+ 4946\n\nJoin fellow members for an early summer evening at Night Shift Es
+ planade\, a lively outdoor beer garden set along the Charles River.\n\nThi
+ s casual gathering offers an easy setting to connect\, unwind\, and enjoy 
+ a curated selection of beers\, hard seltzers\, wines\, and non-alcoholic o
+ ptions. Whether catching up with familiar faces or meeting someone new\, t
+ he atmosphere is designed to be social\, welcoming\, and effortlessly enjo
+ yable.\n\nDogs are welcome so feel free to bring your four-legged companio
+ n along for the evening.\n\n*This event is complimentary and reserved for 
+ members only. Each member will receive two complimentary drinks\, followed
+  by a cash bar. Food is available for purchase at nearby concessions.
 URL:https://members.thequinhouse.com/events/184946
 CATEGORIES:Member Mixer
 END:VEVENT
@@ -871,20 +841,19 @@ DTSTART;TZID=America/New_York:20260623T190000
 DTEND;TZID=America/New_York:20260623T220000
 SUMMARY:Summer Concert Series: Rüfüs Du Sol 
 LOCATION:Offsite: Fenway Park
-DESCRIPTION:Category: The Arts\nPrice: $934.58 per person\nAvailability: 1 
- spot left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/
- events/184920\n\nExperience an unforgettable night of live music at Fenway
-  Park as RÜFÜS DU SOL takes the stage.\n\nMembers are invited to secure 
- premium seating in Section A6\, Row 3 for an immersive concert experience.
-  Known for their atmospheric sound\, emotive vocals\, and deep electronic 
- beats\, the Australian trio—Tyrone Lindqvist\, Jon George\, and James Hu
- nt—has built a global following with albums including Atlas\, Bloom\, So
- lace\, Surrender\, and their latest release\, Inhale / Exhale.\n\n*A pair 
- of tickets is offered at $1\,000 total ($500 per ticket). Tickets are non-
- refundable and non-transferable. Members may purchase up to four tickets (
- two pairs) and are required to accompany their guests ages 16+. All shows 
- are rain or shine. Food and beverage are available for purchase at nearby 
- concessions.
+DESCRIPTION:Category: The Arts\nPrice: $934.58 per person\nStatus: soldOut\
+ nEvent URL: https://members.thequinhouse.com/events/184920\n\nExperience a
+ n unforgettable night of live music at Fenway Park as RÜFÜS DU SOL takes
+  the stage.\n\nMembers are invited to secure premium seating in Section A6
+ \, Row 3 for an immersive concert experience. Known for their atmospheric 
+ sound\, emotive vocals\, and deep electronic beats\, the Australian trio�
+ �Tyrone Lindqvist\, Jon George\, and James Hunt—has built a global follo
+ wing with albums including Atlas\, Bloom\, Solace\, Surrender\, and their 
+ latest release\, Inhale / Exhale.\n\n*A pair of tickets is offered at $1\,
+ 000 total ($500 per ticket). Tickets are non-refundable and non-transferab
+ le. Members may purchase up to four tickets (two pairs) and are required t
+ o accompany their guests ages 16+. All shows are rain or shine. Food and b
+ everage are available for purchase at nearby concessions.
 URL:https://members.thequinhouse.com/events/184920
 CATEGORIES:The Arts
 END:VEVENT
