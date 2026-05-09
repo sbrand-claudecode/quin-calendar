@@ -557,7 +557,7 @@ DTSTART;TZID=America/New_York:20260521T170000
 DTEND;TZID=America/New_York:20260521T190000
 SUMMARY:Member Mixer - Bingo 
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 19 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 18 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  84140\n\nJoin us for a lively Bingo-Themed Member Mixer. Enjoy 5–6 fast-
  paced rounds of traditional bingo\, each lasting 10–15 minutes\, with pl
@@ -607,7 +607,7 @@ DTSTART;TZID=America/New_York:20260526T170000
 DTEND;TZID=America/New_York:20260526T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 18 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 16 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  84146\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in an ambiant reserved space. This is your opportunity to connect with fe
@@ -673,18 +673,18 @@ DTSTART;TZID=America/New_York:20260528T173000
 DTEND;TZID=America/New_York:20260528T193000
 SUMMARY:Member Meet Up: Night Shift Brewery Esplanade
 LOCATION:Offsite: Night Shift Esplanade
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 1 spot left\
- nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/184
- 946\n\nJoin fellow members for an early summer evening at Night Shift Esp
- lanade\, a lively outdoor beer garden set along the Charles River.\n\nThis
-  casual gathering offers an easy setting to connect\, unwind\, and enjoy a
-  curated selection of beers\, hard seltzers\, wines\, and non-alcoholic op
- tions. Whether catching up with familiar faces or meeting someone new\, th
- e atmosphere is designed to be social\, welcoming\, and effortlessly enjoy
- able.\n\nDogs are welcome so feel free to bring your four-legged companion
-  along for the evening.\n\n*This event is complimentary and reserved for m
- embers only. Each member will receive two complimentary drinks\, followed 
- by a cash bar. Food is available for purchase at nearby concessions.
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nStatus: Waitlist Only\nEve
+ nt URL: https://members.thequinhouse.com/events/184946\n\nJoin fellow memb
+ ers for an early summer evening at Night Shift Esplanade\, a lively outdo
+ or beer garden set along the Charles River.\n\nThis casual gathering offer
+ s an easy setting to connect\, unwind\, and enjoy a curated selection of b
+ eers\, hard seltzers\, wines\, and non-alcoholic options. Whether catching
+  up with familiar faces or meeting someone new\, the atmosphere is designe
+ d to be social\, welcoming\, and effortlessly enjoyable.\n\nDogs are welco
+ me so feel free to bring your four-legged companion along for the evening.
+ \n\n*This event is complimentary and reserved for members only. Each membe
+ r will receive two complimentary drinks\, followed by a cash bar. Food is 
+ available for purchase at nearby concessions.
 URL:https://members.thequinhouse.com/events/184946
 CATEGORIES:Member Mixer
 END:VEVENT
@@ -713,7 +713,7 @@ DTEND;TZID=America/New_York:20260530T140000
 SUMMARY:Serendipity Brunch
 LOCATION:Lunasol
 DESCRIPTION:Category: Member Mixer\nPrice: $65.00 per person\nAvailability:
-  18 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
+  17 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
  .com/events/184143\n\nJoin us for a Serendipity Saturday Brunch that invit
  es members to enjoy great conversation\, in good company. Set in Lunasol\,
   the afternoon unfolds with an easy rhythm—a thoughtful menu\, enthusia
