@@ -24,25 +24,6 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:quin-event-182285@thequinhouse.com
-DTSTAMP:20260507T190000Z
-DTSTART;VALUE=DATE:20260507
-DTEND;VALUE=DATE:20260510
-SUMMARY:Dessert Trolley 
-LOCATION:The Reading Room
-DESCRIPTION:Category: Food & Beverage\nPrice: Free / Included\nStatus: Avai
- lable\nTime: 7 PM – 10 PM\nEvent URL: https://members.thequinhouse.com/e
- vents/182285\n\nEnd the evening with a nightcap in the Reading Room this M
- other’s Day weekend\, where The ’Quin’s pastry team presents an imag
- inative dessert trolley inspired by the beauty of the season in bloom. Eac
- h confection is artfully crafted in the form of a flower\, offering a deli
- cate balance of flavor and design.\n\nThoughtfully composed and visually s
- triking\, this offering is designed to delight the senses and linger long 
- after the final course.\n\nReservations are not required.
-URL:https://members.thequinhouse.com/events/182285
-CATEGORIES:Food & Beverage
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-176007@thequinhouse.com
 DTSTAMP:20260511T180000Z
 DTSTART;TZID=America/New_York:20260511T180000
