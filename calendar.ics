@@ -30,18 +30,18 @@ DTSTART;TZID=America/New_York:20260511T180000
 DTEND;TZID=America/New_York:20260511T210000
 SUMMARY:Community Dinner Table
 LOCATION:Café Q
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nStatus: Waitlist Only\nEve
- nt URL: https://members.thequinhouse.com/events/176007\n\nStart your week 
- in good company with the Café Q Community dinner table for members-only. 
- Set aside for those looking to expand their social circle over a shared me
- al\, this gathering is all about good food\, lively conversation\, and mea
- ningful connections. Pull up a chair\, and savor the experience—because 
- nothing brings people together quite like a great meal.\n\n*This event is 
- reserved for members only. An advance charge of $24 per member contributes
-  to communal appetizers available upon seating. Members are responsible fo
- r à la carte entrées\, desserts\, and beverages\, plus taxes and fees. C
- ancellations made within 24 hours of the event\, or failure to attend will
-  be subject to the Café Q's surcharge policy.
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 1 spot left\
+ nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/176
+ 007\n\nStart your week in good company with the Café Q Community dinner t
+ able for members-only. Set aside for those looking to expand their social 
+ circle over a shared meal\, this gathering is all about good food\, lively
+  conversation\, and meaningful connections. Pull up a chair\, and savor th
+ e experience—because nothing brings people together quite like a great m
+ eal.\n\n*This event is reserved for members only. An advance charge of $24
+  per member contributes to communal appetizers available upon seating. Mem
+ bers are responsible for à la carte entrées\, desserts\, and beverages\,
+  plus taxes and fees. Cancellations made within 24 hours of the event\, or
+  failure to attend will be subject to the Café Q's surcharge policy.
 URL:https://members.thequinhouse.com/events/176007
 CATEGORIES:Member Mixer
 END:VEVENT
@@ -100,7 +100,7 @@ DTSTART;TZID=America/New_York:20260512T170000
 DTEND;TZID=America/New_York:20260512T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 14 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 13 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  82248\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in an ambiant reserved space. This is your opportunity to connect with fe
@@ -395,32 +395,32 @@ DTEND;TZID=America/New_York:20260519T150000
 SUMMARY: 90 Minutes of Innovation: Leadership\, Governance and the Long Vie
  w 
 LOCATION:The Pub
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nStatus: You are on Waitlis
- t\nEvent URL: https://members.thequinhouse.com/events/169178\n\n1:00PM Pro
- gram\, 2:30PM Networking\nWhat does it take to guide institutions\, advise
-  CEOs\, and shape strategy at the highest levels across decades of transfo
- rmation?\n\nIn the latest edition of 90 Minutes of Innovation*\, John Wern
- er—venture capitalist\, MIT lecturer\, and *Forbes* AI columnist—sits 
- down with David Mussafer\, Chairman of Advent International and one of th
- e most influential leaders in global private equity.\n\nWith a career span
- ning decades\, Mussafer has helped build Advent into one of the world’s
-  top ten private equity firms\, headquartered here in Boston\, while also 
- advising companies and serving on boards across industries. Drawing from 
- the arc of his life’s work\, the conversation will weave together person
- al insights and professional milestones\, offering a perspective that sit
- s at the intersection of capital\, governance\, and long-term value creati
- on—where the biggest decisions are often the least visible.\n\nTogether\
- , they will explore what great companies and leadership teams have in comm
- on\, how boards actually function—and how they must evolve—the role of
-  private equity in building\, not just acquiring\, companies\, and how lea
- ders navigate uncertainty\, cycles\, and long-term strategy. The conversat
- ion will also draw on lessons from decades of investing across sectors and
-  geographies.\n\nExpect a thoughtful\, behind-the-scenes conversation abou
- t how decisions get made at the highest levels—where governance meets gr
- owth\, and strategy meets execution.\n\nFrom boardrooms to global markets�
- ��one stage\, one conversation\, not to be missed.\n\n*This event is compl
- imentary and reserved for members only. Light bites and refreshments will 
- be served.
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 1 spot left\
+ nStatus: You are on Waitlist\nEvent URL: https://members.thequinhouse.com/
+ events/169178\n\n1:00PM Program\, 2:30PM Networking\nWhat does it take to 
+ guide institutions\, advise CEOs\, and shape strategy at the highest level
+ s across decades of transformation?\n\nIn the latest edition of 90 Minutes
+  of Innovation*\, John Werner—venture capitalist\, MIT lecturer\, and *F
+ orbes* AI columnist—sits down with David Mussafer\, Chairman of Advent I
+ nternational and one of the most influential leaders in global private eq
+ uity.\n\nWith a career spanning decades\, Mussafer has helped build Advent
+  into one of the world’s top ten private equity firms\, headquartered h
+ ere in Boston\, while also advising companies and serving on boards across
+  industries. Drawing from the arc of his life’s work\, the conversation
+  will weave together personal insights and professional milestones\, offe
+ ring a perspective that sits at the intersection of capital\, governance\,
+  and long-term value creation—where the biggest decisions are often the 
+ least visible.\n\nTogether\, they will explore what great companies and le
+ adership teams have in common\, how boards actually function—and how the
+ y must evolve—the role of private equity in building\, not just acquirin
+ g\, companies\, and how leaders navigate uncertainty\, cycles\, and long-t
+ erm strategy. The conversation will also draw on lessons from decades of i
+ nvesting across sectors and geographies.\n\nExpect a thoughtful\, behind-t
+ he-scenes conversation about how decisions get made at the highest levels�
+ ��where governance meets growth\, and strategy meets execution.\n\nFrom bo
+ ardrooms to global markets—one stage\, one conversation\, not to be miss
+ ed.\n\n*This event is complimentary and reserved for members only. Light b
+ ites and refreshments will be served.
 URL:https://members.thequinhouse.com/events/169178
 CATEGORIES:‘Quin Chat
 END:VEVENT
@@ -431,7 +431,7 @@ DTSTART;TZID=America/New_York:20260519T170000
 DTEND;TZID=America/New_York:20260519T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 6 spots left
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 5 spots left
  \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/18
  4145\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set 
  in an ambiant reserved space. This is your opportunity to connect with fel
@@ -510,7 +510,7 @@ DTSTART;TZID=America/New_York:20260521T170000
 DTEND;TZID=America/New_York:20260521T190000
 SUMMARY:Member Mixer - Bingo 
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 8 spots left
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 7 spots left
  \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/18
  4140\n\nJoin us for a lively Bingo-Themed Member Mixer. Enjoy 5–6 fast-p
  aced rounds of traditional bingo\, each lasting 10–15 minutes\, with ple
@@ -560,7 +560,7 @@ DTSTART;TZID=America/New_York:20260526T170000
 DTEND;TZID=America/New_York:20260526T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 14 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 13 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  84146\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in an ambiant reserved space. This is your opportunity to connect with fe
@@ -581,18 +581,18 @@ DTSTART;TZID=America/New_York:20260528T110000
 DTEND;TZID=America/New_York:20260528T120000
 SUMMARY:Art Tour: Masterworks in Print 
 LOCATION:Meet in The Lobby
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 1 spot left\nSta
- tus: Available\nEvent URL: https://members.thequinhouse.com/events/176379\
- n\nJoin ‘Quin Collection Curator Kate Chertavian for a print-focused art
-  tour. The discussion will begin in the Lobby with a closer look at Julie 
- Mehretu’s spectacular copper-plate etching\, Six Bardos: Luminous Appear
- ance\, and Cy Twombly’s silkscreen from the landmark On the Bowery serie
- s.\n\nThe conversation will explore a wide range of printmaking techniques
- —including screenprint\, woodcut\, and lithography—featuring works by 
- artists such as Robert Mangold\, Jasper Johns\, and Louise Bourgeois.\n\nT
- he tour will also offer insights into a remarkable new addition to the ‘
- Quin’s collection: Claude Monet’s Champ d’Iris à Giverny.\n\n*This 
- event is complimentary and reserved for members only.
+DESCRIPTION:Category: The Arts\nPrice: Free\nStatus: Waitlist Only\nEvent U
+ RL: https://members.thequinhouse.com/events/176379\n\nJoin ‘Quin Collect
+ ion Curator Kate Chertavian for a print-focused art tour. The discussion w
+ ill begin in the Lobby with a closer look at Julie Mehretu’s spectacular
+  copper-plate etching\, Six Bardos: Luminous Appearance\, and Cy Twombly�
+ �s silkscreen from the landmark On the Bowery series.\n\nThe conversation 
+ will explore a wide range of printmaking techniques—including screenprin
+ t\, woodcut\, and lithography—featuring works by artists such as Robert 
+ Mangold\, Jasper Johns\, and Louise Bourgeois.\n\nThe tour will also offer
+  insights into a remarkable new addition to the ‘Quin’s collection: Cl
+ aude Monet’s Champ d’Iris à Giverny.\n\n*This event is complimentary 
+ and reserved for members only.
 URL:https://members.thequinhouse.com/events/176379
 CATEGORIES:The Arts
 END:VEVENT
@@ -794,20 +794,19 @@ DTSTART;TZID=America/New_York:20260623T190000
 DTEND;TZID=America/New_York:20260623T220000
 SUMMARY:Summer Concert Series: Rüfüs Du Sol 
 LOCATION:Offsite: Fenway Park
-DESCRIPTION:Category: The Arts\nPrice: $934.58 per person\nAvailability: 1 
- spot left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/
- events/184920\n\nExperience an unforgettable night of live music at Fenway
-  Park as RÜFÜS DU SOL takes the stage.\n\nMembers are invited to secure 
- premium seating in Section A6\, Row 3 for an immersive concert experience.
-  Known for their atmospheric sound\, emotive vocals\, and deep electronic 
- beats\, the Australian trio—Tyrone Lindqvist\, Jon George\, and James Hu
- nt—has built a global following with albums including Atlas\, Bloom\, So
- lace\, Surrender\, and their latest release\, Inhale / Exhale.\n\n*A pair 
- of tickets is offered at $1\,000 total ($500 per ticket). Tickets are non-
- refundable and non-transferable. Members may purchase up to four tickets (
- two pairs) and are required to accompany their guests ages 16+. All shows 
- are rain or shine. Food and beverage are available for purchase at nearby 
- concessions.
+DESCRIPTION:Category: The Arts\nPrice: $934.58 per person\nStatus: soldOut\
+ nEvent URL: https://members.thequinhouse.com/events/184920\n\nExperience a
+ n unforgettable night of live music at Fenway Park as RÜFÜS DU SOL takes
+  the stage.\n\nMembers are invited to secure premium seating in Section A6
+ \, Row 3 for an immersive concert experience. Known for their atmospheric 
+ sound\, emotive vocals\, and deep electronic beats\, the Australian trio�
+ �Tyrone Lindqvist\, Jon George\, and James Hunt—has built a global follo
+ wing with albums including Atlas\, Bloom\, Solace\, Surrender\, and their 
+ latest release\, Inhale / Exhale.\n\n*A pair of tickets is offered at $1\,
+ 000 total ($500 per ticket). Tickets are non-refundable and non-transferab
+ le. Members may purchase up to four tickets (two pairs) and are required t
+ o accompany their guests ages 16+. All shows are rain or shine. Food and b
+ everage are available for purchase at nearby concessions.
 URL:https://members.thequinhouse.com/events/184920
 CATEGORIES:The Arts
 END:VEVENT
