@@ -30,18 +30,18 @@ DTSTART;TZID=America/New_York:20260511T180000
 DTEND;TZID=America/New_York:20260511T210000
 SUMMARY:Community Dinner Table
 LOCATION:Café Q
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 1 spot left\
- nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/176
- 007\n\nStart your week in good company with the Café Q Community dinner t
- able for members-only. Set aside for those looking to expand their social 
- circle over a shared meal\, this gathering is all about good food\, lively
-  conversation\, and meaningful connections. Pull up a chair\, and savor th
- e experience—because nothing brings people together quite like a great m
- eal.\n\n*This event is reserved for members only. An advance charge of $24
-  per member contributes to communal appetizers available upon seating. Mem
- bers are responsible for à la carte entrées\, desserts\, and beverages\,
-  plus taxes and fees. Cancellations made within 24 hours of the event\, or
-  failure to attend will be subject to the Café Q's surcharge policy.
+DESCRIPTION:Category: Member Mixer\nPrice: Free / Included\nStatus: unlimit
+ ed\nEvent URL: https://members.thequinhouse.com/events/176007\n\nStart you
+ r week in good company with the Café Q Community dinner table for members
+ -only. Set aside for those looking to expand their social circle over a sh
+ ared meal\, this gathering is all about good food\, lively conversation\, 
+ and meaningful connections. Pull up a chair\, and savor the experience—b
+ ecause nothing brings people together quite like a great meal.\n\n*This ev
+ ent is reserved for members only. An advance charge of $24 per member cont
+ ributes to communal appetizers available upon seating. Members are respons
+ ible for à la carte entrées\, desserts\, and beverages\, plus taxes and 
+ fees. Cancellations made within 24 hours of the event\, or failure to atte
+ nd will be subject to the Café Q's surcharge policy.
 URL:https://members.thequinhouse.com/events/176007
 CATEGORIES:Member Mixer
 END:VEVENT
@@ -100,7 +100,7 @@ DTSTART;TZID=America/New_York:20260512T170000
 DTEND;TZID=America/New_York:20260512T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 13 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 16 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  82248\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in an ambiant reserved space. This is your opportunity to connect with fe
@@ -304,31 +304,31 @@ DTSTART;TZID=America/New_York:20260515T170000
 DTEND;TZID=America/New_York:20260515T183000
 SUMMARY:'Quin Chat: The Art of Provincetown
 LOCATION:The Reading Room
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 60 spots lef
- t\nStatus: futureSale\nEvent URL: https://members.thequinhouse.com/events/
- 186161\n\n5:00PM Reception\, 5:30PM Discussion\nStep into a dialogue at th
- e intersection of place\, history\, and contemporary practice. Join ’Qui
- n House Art Curator Kate Chertavian for an intimate conversation exploring
-  the newest special exhibition at The ’Quin\, presented in collaboration
-  with the Provincetown Arts Society. On view from May 12th through July 14
- th across the Lobby\, Grand Staircase\, and Reading Room\, the exhibition 
- brings together a vibrant group of Boston- and Provincetown-based artists�
- ��reflecting both the legacy and evolving spirit of one of America’s mos
- t influential art colonies.\n\nPanelists include Gene Tartaglia\, Director
-  of the Provincetown Arts Society\; Christine McCarthy\, Chief Executive O
- fficer of the Provincetown Art Association & Museum\; and exhibiting artis
- t Megan Hinton\, whose interdisciplinary work reimagines the boundaries of
-  painting\, sculpture\, and material. Together\, they will explore Provinc
- etown’s rich artistic history and the vital role arts organizations cont
- inue to play in shaping and sustaining its creative community today.\n\nPa
- rt two of this exhibition unfolds just beyond Boston. Hosted at the histor
- ic Mary Heaton Vorse House\, the home of the Provincetown Arts Society\, t
- he companion show will feature ’Quin House artists Zainab Sumu\, Yu-Wen-
- Wu\, Brian Zink\, and Lavaughn Jenkins. Members will be invited to Provinc
- etown in June for a private tour with the curators\, and an opportunity to
-  engage directly with the artists. More information on Part two of the exh
- ibition to follow...\n\n*This event is complimentary and reserved for memb
- ers only. Light bites and refreshments will be served.
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 6 spots left
+ \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/18
+ 6161\n\n5:00PM Reception\, 5:30PM Discussion\nStep into a dialogue at the 
+ intersection of place\, history\, and contemporary practice. Join ’Quin 
+ House Art Curator Kate Chertavian for an intimate conversation exploring t
+ he newest special exhibition at The ’Quin\, presented in collaboration w
+ ith the Provincetown Arts Society. On view from May 12th through July 14th
+  across the Lobby\, Grand Staircase\, and Reading Room\, the exhibition br
+ ings together a vibrant group of Boston- and Provincetown-based artists—
+ reflecting both the legacy and evolving spirit of one of America’s most 
+ influential art colonies.\n\nPanelists include Gene Tartaglia\, Director o
+ f the Provincetown Arts Society\; Christine McCarthy\, Chief Executive Off
+ icer of the Provincetown Art Association & Museum\; and exhibiting artist 
+ Megan Hinton\, whose interdisciplinary work reimagines the boundaries of p
+ ainting\, sculpture\, and material. Together\, they will explore Provincet
+ own’s rich artistic history and the vital role arts organizations contin
+ ue to play in shaping and sustaining its creative community today.\n\nPart
+  two of this exhibition unfolds just beyond Boston. Hosted at the historic
+  Mary Heaton Vorse House\, the home of the Provincetown Arts Society\, the
+  companion show will feature ’Quin House artists Zainab Sumu\, Yu-Wen-Wu
+ \, Brian Zink\, and Lavaughn Jenkins. Members will be invited to Provincet
+ own in June for a private tour with the curators\, and an opportunity to e
+ ngage directly with the artists. More information on Part two of the exhib
+ ition to follow...\n\n*This event is complimentary and reserved for member
+ s only. Light bites and refreshments will be served.
 URL:https://members.thequinhouse.com/events/186161
 CATEGORIES:‘Quin Chat
 END:VEVENT
@@ -431,7 +431,7 @@ DTSTART;TZID=America/New_York:20260519T170000
 DTEND;TZID=America/New_York:20260519T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 5 spots left
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 2 spots left
  \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/18
  4145\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set 
  in an ambiant reserved space. This is your opportunity to connect with fel
@@ -510,15 +510,15 @@ DTSTART;TZID=America/New_York:20260521T170000
 DTEND;TZID=America/New_York:20260521T190000
 SUMMARY:Member Mixer - Bingo 
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 6 spots left
- \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/18
- 4140\n\nJoin us for a lively Bingo-Themed Member Mixer. Enjoy 5–6 fast-p
- aced rounds of traditional bingo\, each lasting 10–15 minutes\, with ple
- nty of chances to win and connect. After each round\, winners will switch 
- seats and join a new group\, keeping the energy high and conversations flo
- wing. It’s the perfect way to meet fellow members\, spark new connection
- s\, and add a playful twist to your evening.\n\n*This event is complimenta
- ry and reserved for members only.
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nStatus: Waitlist Only\nEve
+ nt URL: https://members.thequinhouse.com/events/184140\n\nJoin us for a li
+ vely Bingo-Themed Member Mixer. Enjoy 5–6 fast-paced rounds of tradition
+ al bingo\, each lasting 10–15 minutes\, with plenty of chances to win an
+ d connect. After each round\, winners will switch seats and join a new gro
+ up\, keeping the energy high and conversations flowing. It’s the perfect
+  way to meet fellow members\, spark new connections\, and add a playful tw
+ ist to your evening.\n\n*This event is complimentary and reserved for memb
+ ers only.
 URL:https://members.thequinhouse.com/events/184140
 CATEGORIES:Member Mixer
 END:VEVENT
@@ -560,7 +560,7 @@ DTSTART;TZID=America/New_York:20260526T170000
 DTEND;TZID=America/New_York:20260526T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 13 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 11 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  84146\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in an ambiant reserved space. This is your opportunity to connect with fe
@@ -666,7 +666,7 @@ DTEND;TZID=America/New_York:20260530T140000
 SUMMARY:Serendipity Brunch
 LOCATION:Lunasol
 DESCRIPTION:Category: Member Mixer\nPrice: $65.00 per person\nAvailability:
-  16 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
+  15 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
  .com/events/184143\n\nJoin us for a Serendipity Saturday Brunch that invit
  es members to enjoy great conversation\, in good company. Set in Lunasol\,
   the afternoon unfolds with an easy rhythm—a thoughtful menu\, enthusia
@@ -690,21 +690,21 @@ DTSTART;TZID=America/New_York:20260601T170000
 DTEND;TZID=America/New_York:20260601T183000
 SUMMARY:'Quin Chat: How to Start Collecting
 LOCATION:The Reading Room
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 80 spots left\nS
- tatus: futureSale\nEvent URL: https://members.thequinhouse.com/events/1757
- 77\n\n5:00PM Reception\, 5:30PM Discussion\nStep inside the art market wit
- h those who know it best. Join ’Quin House Art Curator Kate Chertavian i
- n conversation with Simon Shaw\, Senior Advisor and Co-Head of Impressioni
- st and Modern Art at Sotheby’s\, for an insider’s look at how collecti
- ons are shaped\, valued\, and sustained over time.\n\nDrawing on decades o
- f experience across auction houses\, private collections\, and global mark
- ets\, the discussion will explore how to build with intention—navigating
-  auctions and galleries\, evaluating works\, resisting fleeting trends\, a
- nd ultimately defining a point of view that is distinctly your own. Though
- tful\, candid\, and deeply informed\, this is a rare opportunity to hear d
- irectly from two leading voices at the highest levels of the art world.\n\
- n*This event is complimentary and reserved for members only. Light refresh
- ments will be served.
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 1 spot left\nSta
+ tus: Available\nEvent URL: https://members.thequinhouse.com/events/175777\
+ n\n5:00PM Reception\, 5:30PM Discussion\nStep inside the art market with t
+ hose who know it best. Join ’Quin House Art Curator Kate Chertavian in c
+ onversation with Simon Shaw\, Senior Advisor and Co-Head of Impressionist 
+ and Modern Art at Sotheby’s\, for an insider’s look at how collections
+  are shaped\, valued\, and sustained over time.\n\nDrawing on decades of e
+ xperience across auction houses\, private collections\, and global markets
+ \, the discussion will explore how to build with intention—navigating au
+ ctions and galleries\, evaluating works\, resisting fleeting trends\, and 
+ ultimately defining a point of view that is distinctly your own. Thoughtfu
+ l\, candid\, and deeply informed\, this is a rare opportunity to hear dire
+ ctly from two leading voices at the highest levels of the art world.\n\n*T
+ his event is complimentary and reserved for members only. Light refreshmen
+ ts will be served.
 URL:https://members.thequinhouse.com/events/175777
 CATEGORIES:The Arts
 END:VEVENT
@@ -715,28 +715,27 @@ DTSTART;TZID=America/New_York:20260602T170000
 DTEND;TZID=America/New_York:20260602T183000
 SUMMARY:'Quin Chat: Understanding Brain Health
 LOCATION:Scottie's
-DESCRIPTION:Category: Health & Wellness\nPrice: Free\nAvailability: 77 spot
- s left\nStatus: futureSale\nEvent URL: https://members.thequinhouse.com/ev
- ents/186163\n\n5:00PM Reception\, 5:30PM Discussion\nWhat if brain health 
- wasn’t just clinical—but personal\, preventative\, and deeply relevant
-  to how we live every day? In honor of Alzheimer's Awareness Month\, this 
- candid\, forward-thinking conversation brings together leading physicians 
- and patient voices to explore the latest in neurovascular innovation\, lif
- e-saving interventions\, and the often-overlooked habits that shape cognit
- ive well-being. Expect an unfiltered look at survival\, prevention\, and t
- he science redefining how we think about the brain.\n\nFeaturing Dr. Chris
- topher Ogilvy—Director of Endovascular and Operative Neurovascular Surge
- ry at Beth Israel Deaconess Medical Center and Professor at Harvard Medica
- l School—whose pioneering work continues to push the boundaries of moder
- n neurosurgery\, alongside Meg Smith\, CEO of Cure Alzheimer’s Fund. Si
- nce taking the helm in 2023\, Smith has led the organization’s continued
-  growth and impact\, advancing a research model that has directed over $13
- 8 million toward bold scientific efforts to slow\, prevent\, and ultimatel
- y reverse Alzheimer’s.\n\nTogether with additional expert and patient pe
- rspectives\, the panel offers a rare opportunity to engage with leaders at
-  the forefront of brain health and discovery.\n\n*This event is compliment
- ary and reserved for members only. Light bites and refreshments will be se
- rved.
+DESCRIPTION:Category: Health & Wellness\nPrice: Free\nStatus: You are Confi
+ rmed\nEvent URL: https://members.thequinhouse.com/events/186163\n\n5:00PM 
+ Reception\, 5:30PM Discussion\nWhat if brain health wasn’t just clinical
+ —but personal\, preventative\, and deeply relevant to how we live every 
+ day? In honor of Alzheimer's Awareness Month\, this candid\, forward-think
+ ing conversation brings together leading physicians and patient voices to 
+ explore the latest in neurovascular innovation\, life-saving interventions
+ \, and the often-overlooked habits that shape cognitive well-being. Expect
+  an unfiltered look at survival\, prevention\, and the science redefining 
+ how we think about the brain.\n\nFeaturing Dr. Christopher Ogilvy—Direct
+ or of Endovascular and Operative Neurovascular Surgery at Beth Israel Deac
+ oness Medical Center and Professor at Harvard Medical School—whose pione
+ ering work continues to push the boundaries of modern neurosurgery\, alon
+ gside Meg Smith\, CEO of Cure Alzheimer’s Fund. Since taking the helm in
+  2023\, Smith has led the organization’s continued growth and impact\, a
+ dvancing a research model that has directed over $138 million toward bold 
+ scientific efforts to slow\, prevent\, and ultimately reverse Alzheimer’
+ s.\n\nTogether with additional expert and patient perspectives\, the panel
+  offers a rare opportunity to engage with leaders at the forefront of brai
+ n health and discovery.\n\n*This event is complimentary and reserved for m
+ embers only. Light bites and refreshments will be served.
 URL:https://members.thequinhouse.com/events/186163
 CATEGORIES:Health & Wellness
 END:VEVENT
