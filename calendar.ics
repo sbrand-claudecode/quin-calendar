@@ -24,35 +24,6 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:quin-event-182103@thequinhouse.com
-DTSTAMP:20260512T130000Z
-DTSTART;TZID=America/New_York:20260512T130000
-DTEND;TZID=America/New_York:20260512T150000
-SUMMARY:Hands-On Impact: Household Goods
-LOCATION:The Muse
-DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nAvailability: 1 spo
- t left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/eve
- nts/182103\n\nA simple set of kitchen tools can be the difference between 
- a space and a home.\n\nJoin The ‘Quin Impact Fund for a hands-on volunte
- er experience in partnership with Household Goods\, where you will assembl
- e Kitchen Starter Sets for individuals and families transitioning into sta
- ble housing. Together\, you will unpack\, sort\, and thoughtfully build es
- sential kits - each one filled with everyday items that make it possible t
- o cook\, gather\, and begin again.\n\nHousehold Goods furnishes more than 
- 2\,500 homes each year\, yet the demand for basic kitchen essentials remai
- ns constant. These starter sets - simple\, practical\, and deeply impactfu
- l - help ensure that every home begins with the tools needed for daily lif
- e.\n\nMembers are invited to contribute by donating new or gently used kit
- chen items or supporting purchases through a curated Amazon wish list ahea
- d of the event. A meaningful opportunity to give back\, connect\, and play
-  a small part in helping someone build a home from the ground up.\n\n*This
-  event is complimentary and reserved for members only. For any questions 
- regarding donation items\, please contact The ‘Quin Impact Fund team at�
- �impact@thequin.com.\n\nShop the Amazon Wishlist here.
-URL:https://members.thequinhouse.com/events/182103
-CATEGORIES:‘Quin Impact Fund
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-182351@thequinhouse.com
 DTSTAMP:20260512T160000Z
 DTSTART;VALUE=DATE:20260512
@@ -78,7 +49,7 @@ DTSTART;TZID=America/New_York:20260512T170000
 DTEND;TZID=America/New_York:20260512T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 16 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 18 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  82248\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in an ambiant reserved space. This is your opportunity to connect with fe
@@ -99,29 +70,29 @@ DTSTART;TZID=America/New_York:20260512T170000
 DTEND;TZID=America/New_York:20260512T183000
 SUMMARY:'Quin Chat: AI Powered Women
 LOCATION:Scottie's
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 1 spot left\
- nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/182
- 250\n\n5:00PM Reception\, 5:30PM Discussion\nAI is reshaping the world - b
- ut who is shaping AI?\n\nThis discussion brings together leading women at 
- the forefront of artificial intelligence to explore the human decisions\, 
- ethical frameworks\, and leadership required to guide this moment of rapid
-  transformation.\n\nDr. Felicia Newhouse\, founder of AI-Powered Women—a
-  global learning platform and 1\,200-person MIT summit focused on building
-  the workforce infrastructure behind responsible AI adoption—will share 
- insights on how organizations translate AI investment into real-world impl
- ementation\, where leadership\, culture\, and human capability determine s
- uccess. She is joined by Dr. Karrie Karahalios of the MIT Media Lab\, a pi
- oneer in algorithmic accountability\, and Dr. Cansu Canca\, Director of Re
- sponsible AI Practice at Northeastern University and founder of AI Ethics 
- Lab and creator of Puzzle-solving in Ethics (PiE) Model.\n\nTogether\, th
- ey will examine how AI systems reflect the values and assumptions of those
-  who build and deploy them and why diverse leadership is not just importan
- t\, but essential. From bias and governance to trust\, identity\, and deci
- sion-making\, the conversation moves beyond technology to the deeper quest
- ion of responsibility.\n\nAn intimate\, interdisciplinary conversation on 
- women shaping the future of AI and the systems that will shape us all.\n\n
- *This event is complimentary and reserved for members only. Light bites an
- d refreshments will be served.
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nStatus: Waitlist Only\nEve
+ nt URL: https://members.thequinhouse.com/events/182250\n\n5:00PM Reception
+ \, 5:30PM Discussion\nAI is reshaping the world - but who is shaping AI?\n
+ \nThis discussion brings together leading women at the forefront of artifi
+ cial intelligence to explore the human decisions\, ethical frameworks\, an
+ d leadership required to guide this moment of rapid transformation.\n\nDr.
+  Felicia Newhouse\, founder of AI-Powered Women—a global learning platfo
+ rm and 1\,200-person MIT summit focused on building the workforce infrastr
+ ucture behind responsible AI adoption—will share insights on how organiz
+ ations translate AI investment into real-world implementation\, where lead
+ ership\, culture\, and human capability determine success. She is joined b
+ y Dr. Karrie Karahalios of the MIT Media Lab\, a pioneer in algorithmic ac
+ countability\, and Dr. Cansu Canca\, Director of Responsible AI Practice a
+ t Northeastern University and founder of AI Ethics Lab and creator of Puz
+ zle-solving in Ethics (PiE) Model.\n\nTogether\, they will examine how AI 
+ systems reflect the values and assumptions of those who build and deploy t
+ hem and why diverse leadership is not just important\, but essential. From
+  bias and governance to trust\, identity\, and decision-making\, the conve
+ rsation moves beyond technology to the deeper question of responsibility.\
+ n\nAn intimate\, interdisciplinary conversation on women shaping the futur
+ e of AI and the systems that will shape us all.\n\n*This event is complime
+ ntary and reserved for members only. Light bites and refreshments will be 
+ served.
 URL:https://members.thequinhouse.com/events/182250
 CATEGORIES:‘Quin Chat
 END:VEVENT
@@ -403,23 +374,41 @@ URL:https://members.thequinhouse.com/events/169178
 CATEGORIES:‘Quin Chat
 END:VEVENT
 BEGIN:VEVENT
+UID:quin-event-182352@thequinhouse.com
+DTSTAMP:20260519T160000Z
+DTSTART;VALUE=DATE:20260519
+DTEND;VALUE=DATE:20260520
+SUMMARY:BBQ Specials 
+LOCATION:The Pub
+DESCRIPTION:Category: Food & Beverage\nPrice: Free / Included\nStatus: Avai
+ lable\nTime: 4 PM – 9 PM\nEvent URL: https://members.thequinhouse.com/ev
+ ents/182352\n\nExclusively Available Tuesday Evenings\nSettle in and get y
+ our hands a little messy - in the best way.\n\nBegin with a warm corn brea
+ d skillet and hot honey butter\, alongside the classics: potato salad\, pi
+ ckles\, and coleslaw. From there\, choose two barbecue favorites for your 
+ main indulgence—espresso-rubbed beef brisket\, St. Louis ribs cooked low
+  and slow\, or pulled pork sliders worth every bite. A little smoky\, a li
+ ttle saucy\, and just the right amount of refined.\n\nMake a Reservation.
+URL:https://members.thequinhouse.com/events/182352
+CATEGORIES:Food & Beverage
+END:VEVENT
+BEGIN:VEVENT
 UID:quin-event-184145@thequinhouse.com
 DTSTAMP:20260519T170000Z
 DTSTART;TZID=America/New_York:20260519T170000
 DTEND;TZID=America/New_York:20260519T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 1 spot left\
- nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/184
- 145\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set i
- n an ambiant reserved space. This is your opportunity to connect with fell
- ow members\, exchange ideas\, and cultivate meaningful relationships.\n\nW
- hether you're sparking new collaborations\, sharing insights\, or simply e
- njoying great conversation\, the Member Mingle is the perfect way to engag
- e with our dynamic community. Don’t miss the chance to connect\, inspire
- \, and be inspired!\n\n*This event is complimentary and reserved for membe
- rs only. Complimentary light bites will be served\, and beverages will be 
- available for purchase.
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nStatus: Waitlist Only\nEve
+ nt URL: https://members.thequinhouse.com/events/184145\n\nJoin us for our 
+ weekly Member Mingle\, an inclusive gathering set in an ambiant reserved s
+ pace. This is your opportunity to connect with fellow members\, exchange i
+ deas\, and cultivate meaningful relationships.\n\nWhether you're sparking 
+ new collaborations\, sharing insights\, or simply enjoying great conversat
+ ion\, the Member Mingle is the perfect way to engage with our dynamic comm
+ unity. Don’t miss the chance to connect\, inspire\, and be inspired!\n\n
+ *This event is complimentary and reserved for members only. Complimentary 
+ light bites will be served\, and beverages will be available for purchase.
 URL:https://members.thequinhouse.com/events/184145
 CATEGORIES:Member Mixer
 END:VEVENT
@@ -488,15 +477,15 @@ DTSTART;TZID=America/New_York:20260521T170000
 DTEND;TZID=America/New_York:20260521T190000
 SUMMARY:Member Mixer - Bingo 
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nStatus: Waitlist Only\nEve
- nt URL: https://members.thequinhouse.com/events/184140\n\nJoin us for a li
- vely Bingo-Themed Member Mixer. Enjoy 5–6 fast-paced rounds of tradition
- al bingo\, each lasting 10–15 minutes\, with plenty of chances to win an
- d connect. After each round\, winners will switch seats and join a new gro
- up\, keeping the energy high and conversations flowing. It’s the perfect
-  way to meet fellow members\, spark new connections\, and add a playful tw
- ist to your evening.\n\n*This event is complimentary and reserved for memb
- ers only.
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 1 spot left\
+ nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/184
+ 140\n\nJoin us for a lively Bingo-Themed Member Mixer. Enjoy 5–6 fast-pa
+ ced rounds of traditional bingo\, each lasting 10–15 minutes\, with plen
+ ty of chances to win and connect. After each round\, winners will switch s
+ eats and join a new group\, keeping the energy high and conversations flow
+ ing. It’s the perfect way to meet fellow members\, spark new connections
+ \, and add a playful twist to your evening.\n\n*This event is complimentar
+ y and reserved for members only.
 URL:https://members.thequinhouse.com/events/184140
 CATEGORIES:Member Mixer
 END:VEVENT
@@ -686,6 +675,28 @@ URL:https://members.thequinhouse.com/events/175777
 CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
+UID:quin-event-175998@thequinhouse.com
+DTSTAMP:20260601T183000Z
+DTSTART;TZID=America/New_York:20260601T183000
+DTEND;TZID=America/New_York:20260601T210000
+SUMMARY:Serendipity Dinner 
+LOCATION:The Muse
+DESCRIPTION:Category: Member Mixer\nPrice: $100.00 per person\nAvailability
+ : 17 spots left\nStatus: Available\nEvent URL: https://members.thequinhous
+ e.com/events/175998\n\nJoin The ‘Quin House Managing Director\, Matthias
+  Kiehm\, for an evening of meaningful connections over a thoughtfully cura
+ ted three-course dinner. Enjoy expertly paired wines as you engage with fe
+ llow members\, guided by conversation prompts designed to inspire deeper\,
+  more memorable exchanges. This unique experience offers the perfect blend
+  of great company\, engaging dialogue\, and a menu crafted to delight the 
+ senses.\n\n*Tickets are $100 per person and are reserved for members only.
+  Cancellations within 72 hours of the event\, or failure to attend\, will 
+ be charged in full. Please inform us of any dietary needs or restrictions 
+ by emailing happening@thequin.com at least 72 hours before dinner service.
+URL:https://members.thequinhouse.com/events/175998
+CATEGORIES:Member Mixer
+END:VEVENT
+BEGIN:VEVENT
 UID:quin-event-186163@thequinhouse.com
 DTSTAMP:20260602T170000Z
 DTSTART;TZID=America/New_York:20260602T170000
@@ -715,6 +726,65 @@ DESCRIPTION:Category: Health & Wellness\nPrice: Free\nStatus: You are Confi
  embers only. Light bites and refreshments will be served.
 URL:https://members.thequinhouse.com/events/186163
 CATEGORIES:Health & Wellness
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-184976@thequinhouse.com
+DTSTAMP:20260603T180000Z
+DTSTART;TZID=America/New_York:20260603T180000
+DTEND;TZID=America/New_York:20260603T210000
+SUMMARY:Live Music: Ron Reid 
+LOCATION:The Reading Room
+DESCRIPTION:Category: The Arts\nPrice: Free / Included\nStatus: Available\n
+ Event URL: https://members.thequinhouse.com/events/184976\n\nSpend the eve
+ ning with prominent Trinidadian bassist and steel drummer Ron Reid.  His 
+ vibrant performance fuses jazz\, Caribbean rhythms\, and contemporary groo
+ ves with effortless sophistication\, creating a lively\, unforgettable mus
+ ical experience.\n\nSettle in with a signature cocktail from Little Bar an
+ d let the evening’s artistry shape a memorable night at the ’House.\n\
+ n*Please note this event is reserved for members\, plus three guests. Seat
+ ing is first come\, first served.
+URL:https://members.thequinhouse.com/events/184976
+CATEGORIES:The Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-176008@thequinhouse.com
+DTSTAMP:20260608T180000Z
+DTSTART;TZID=America/New_York:20260608T180000
+DTEND;TZID=America/New_York:20260608T210000
+SUMMARY:Community Dinner Table
+LOCATION:Café Q
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 12 spots lef
+ t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
+ 76008\n\nStart your week in good company with the Café Q Community dinner
+  table for members-only. Set aside for those looking to expand their socia
+ l circle over a shared meal\, this gathering is all about good food\, live
+ ly conversation\, and meaningful connections. Pull up a chair\, and savor 
+ the experience—because nothing brings people together quite like a great
+  meal.\n\n*This event is reserved for members only. An advance charge of $
+ 24 per member contributes to communal appetizers available upon seating. M
+ embers are responsible for à la carte entrées\, desserts\, and beverages
+ \, plus taxes and fees. Cancellations made within 24 hours of the event\, 
+ or failure to attend will be subject to the Café Q's surcharge policy.
+URL:https://members.thequinhouse.com/events/176008
+CATEGORIES:Member Mixer
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-176372@thequinhouse.com
+DTSTAMP:20260610T180000Z
+DTSTART;TZID=America/New_York:20260610T180000
+DTEND;TZID=America/New_York:20260610T210000
+SUMMARY:Live Music: Bob Richardson 
+LOCATION:The Reading Room
+DESCRIPTION:Category: The Arts\nPrice: Free / Included\nStatus: Available\n
+ Event URL: https://members.thequinhouse.com/events/176372\n\nAdored for hi
+ s signature style and smile\, Bob Richardson returns to the 'House for ano
+ ther spectacular piano and vocal performance live from the Reading Room. R
+ ichardson\, a composer\, arranger\, vocalist and former educator will char
+ m the audience with requests all night long.\n\n*Please note that this eve
+ nt is complimentary and reserved for members\, plus three guests. Seating 
+ is first come\, first served.
+URL:https://members.thequinhouse.com/events/176372
+CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-180148@thequinhouse.com
