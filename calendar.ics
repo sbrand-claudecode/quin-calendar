@@ -24,28 +24,6 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:quin-event-176007@thequinhouse.com
-DTSTAMP:20260511T180000Z
-DTSTART;TZID=America/New_York:20260511T180000
-DTEND;TZID=America/New_York:20260511T210000
-SUMMARY:Community Dinner Table
-LOCATION:Café Q
-DESCRIPTION:Category: Member Mixer\nPrice: Free / Included\nStatus: unlimit
- ed\nEvent URL: https://members.thequinhouse.com/events/176007\n\nStart you
- r week in good company with the Café Q Community dinner table for members
- -only. Set aside for those looking to expand their social circle over a sh
- ared meal\, this gathering is all about good food\, lively conversation\, 
- and meaningful connections. Pull up a chair\, and savor the experience—b
- ecause nothing brings people together quite like a great meal.\n\n*This ev
- ent is reserved for members only. An advance charge of $24 per member cont
- ributes to communal appetizers available upon seating. Members are respons
- ible for à la carte entrées\, desserts\, and beverages\, plus taxes and 
- fees. Cancellations made within 24 hours of the event\, or failure to atte
- nd will be subject to the Café Q's surcharge policy.
-URL:https://members.thequinhouse.com/events/176007
-CATEGORIES:Member Mixer
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-182103@thequinhouse.com
 DTSTAMP:20260512T130000Z
 DTSTART;TZID=America/New_York:20260512T130000
@@ -121,29 +99,29 @@ DTSTART;TZID=America/New_York:20260512T170000
 DTEND;TZID=America/New_York:20260512T183000
 SUMMARY:'Quin Chat: AI Powered Women
 LOCATION:Scottie's
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nStatus: Waitlist Only\nEve
- nt URL: https://members.thequinhouse.com/events/182250\n\n5:00PM Reception
- \, 5:30PM Discussion\nAI is reshaping the world - but who is shaping AI?\n
- \nThis discussion brings together leading women at the forefront of artifi
- cial intelligence to explore the human decisions\, ethical frameworks\, an
- d leadership required to guide this moment of rapid transformation.\n\nDr.
-  Felicia Newhouse\, founder of AI-Powered Women—a global learning platfo
- rm and 1\,200-person MIT summit focused on building the workforce infrastr
- ucture behind responsible AI adoption—will share insights on how organiz
- ations translate AI investment into real-world implementation\, where lead
- ership\, culture\, and human capability determine success. She is joined b
- y Dr. Karrie Karahalios of the MIT Media Lab\, a pioneer in algorithmic ac
- countability\, and Dr. Cansu Canca\, Director of Responsible AI Practice a
- t Northeastern University and founder of AI Ethics Lab and creator of Puz
- zle-solving in Ethics (PiE) Model.\n\nTogether\, they will examine how AI 
- systems reflect the values and assumptions of those who build and deploy t
- hem and why diverse leadership is not just important\, but essential. From
-  bias and governance to trust\, identity\, and decision-making\, the conve
- rsation moves beyond technology to the deeper question of responsibility.\
- n\nAn intimate\, interdisciplinary conversation on women shaping the futur
- e of AI and the systems that will shape us all.\n\n*This event is complime
- ntary and reserved for members only. Light bites and refreshments will be 
- served.
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 1 spot left\
+ nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/182
+ 250\n\n5:00PM Reception\, 5:30PM Discussion\nAI is reshaping the world - b
+ ut who is shaping AI?\n\nThis discussion brings together leading women at 
+ the forefront of artificial intelligence to explore the human decisions\, 
+ ethical frameworks\, and leadership required to guide this moment of rapid
+  transformation.\n\nDr. Felicia Newhouse\, founder of AI-Powered Women—a
+  global learning platform and 1\,200-person MIT summit focused on building
+  the workforce infrastructure behind responsible AI adoption—will share 
+ insights on how organizations translate AI investment into real-world impl
+ ementation\, where leadership\, culture\, and human capability determine s
+ uccess. She is joined by Dr. Karrie Karahalios of the MIT Media Lab\, a pi
+ oneer in algorithmic accountability\, and Dr. Cansu Canca\, Director of Re
+ sponsible AI Practice at Northeastern University and founder of AI Ethics 
+ Lab and creator of Puzzle-solving in Ethics (PiE) Model.\n\nTogether\, th
+ ey will examine how AI systems reflect the values and assumptions of those
+  who build and deploy them and why diverse leadership is not just importan
+ t\, but essential. From bias and governance to trust\, identity\, and deci
+ sion-making\, the conversation moves beyond technology to the deeper quest
+ ion of responsibility.\n\nAn intimate\, interdisciplinary conversation on 
+ women shaping the future of AI and the systems that will shape us all.\n\n
+ *This event is complimentary and reserved for members only. Light bites an
+ d refreshments will be served.
 URL:https://members.thequinhouse.com/events/182250
 CATEGORIES:‘Quin Chat
 END:VEVENT
@@ -304,7 +282,7 @@ DTSTART;TZID=America/New_York:20260515T170000
 DTEND;TZID=America/New_York:20260515T183000
 SUMMARY:'Quin Chat: The Art of Provincetown
 LOCATION:The Reading Room
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 6 spots left
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 2 spots left
  \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/18
  6161\n\n5:00PM Reception\, 5:30PM Discussion\nStep into a dialogue at the 
  intersection of place\, history\, and contemporary practice. Join ’Quin 
@@ -340,25 +318,25 @@ DTEND;TZID=America/New_York:20260518T190000
 SUMMARY:Author's Circle Book Club: "Love & Other Monsters" with Emily Frank
  lin
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nStatus: Waitlist Only\nEvent U
- RL: https://members.thequinhouse.com/events/184208\n\nBookmark the date fo
- r a captivating conversation exploring Love & Other Monsters by Emily Fra
- nklin—a richly imagined novel set against the haunting backdrop of the �
- ��Year Without Summer.”\n\nIn 1816\, amid unrelenting storms on the shor
- es of Lake Geneva\, a group of young literary icons—including Mary and P
- ercy Shelley and the infamous Lord Byron—gather to create\, provoke\, an
- d unravel. At the center of it all is Claire Clairmont: clever\, passionat
- e\, and often overshadowed\, yet determined to carve out her own identity 
- in a world dominated by brilliance and ego. As romance\, rivalry\, and amb
- ition collide\, Claire must navigate loyalty\, longing\, and the cost of l
- iving—and loving—on the edge of history.\n\nBlending historical intrig
- ue with emotional depth\, Love & Other Monsters explores the origins of l
- egendary works like Frankenstein while giving voice to the woman too often
-  left out of the story.\n\nJoin us for an engaging discussion moderated by
-  Wendy Dodson\, owner of Hummingbird Books\, as we delve into this atmosph
- eric novel and its themes of creativity\, fame\, and the monsters we make�
- ��both real and imagined.\n\n*This event is complimentary and reserved for
-  members only. Light refreshments will be served.
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 1 spot left\nSta
+ tus: Available\nEvent URL: https://members.thequinhouse.com/events/184208\
+ n\nBookmark the date for a captivating conversation exploring Love & Othe
+ r Monsters by Emily Franklin—a richly imagined novel set against the hau
+ nting backdrop of the “Year Without Summer.”\n\nIn 1816\, amid unrelen
+ ting storms on the shores of Lake Geneva\, a group of young literary icons
+ —including Mary and Percy Shelley and the infamous Lord Byron—gather t
+ o create\, provoke\, and unravel. At the center of it all is Claire Clairm
+ ont: clever\, passionate\, and often overshadowed\, yet determined to carv
+ e out her own identity in a world dominated by brilliance and ego. As roma
+ nce\, rivalry\, and ambition collide\, Claire must navigate loyalty\, long
+ ing\, and the cost of living—and loving—on the edge of history.\n\nBle
+ nding historical intrigue with emotional depth\, Love & Other Monsters ex
+ plores the origins of legendary works like Frankenstein while giving voice
+  to the woman too often left out of the story.\n\nJoin us for an engaging 
+ discussion moderated by Wendy Dodson\, owner of Hummingbird Books\, as we 
+ delve into this atmospheric novel and its themes of creativity\, fame\, an
+ d the monsters we make—both real and imagined.\n\n*This event is complim
+ entary and reserved for members only. Light refreshments will be served.
 URL:https://members.thequinhouse.com/events/184208
 CATEGORIES:The Arts
 END:VEVENT
