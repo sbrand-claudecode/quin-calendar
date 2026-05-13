@@ -93,12 +93,6 @@ function parseWhenDates(rawSource) {
   return dates;
 }
 
-async function fetchSourceText(client, uid) {
-  const msg = await client.fetchOne(uid, { source: true }, { uid: true });
-  if (!msg || !msg.source) return '';
-  return Buffer.isBuffer(msg.source) ? msg.source.toString('utf8') : String(msg.source);
-}
-
 async function main() {
   const client = new ImapFlow({
     host: 'imap.gmail.com',
@@ -121,48 +115,80 @@ async function main() {
   const titlesSeen = new Set();
 
   try {
-    let total = 0;
+    // Pass 1: collect envelopes only. Do NOT issue nested fetches inside the
+    // `for await` — imapflow serializes commands and a nested fetch will hang
+    // the stream until the socket times out.
+    const messages = [];
     for await (const msg of client.fetch('1:*', {
       envelope: true,
       uid: true,
       internalDate: true,
     })) {
-      total += 1;
-      const subj = msg.envelope && msg.envelope.subject;
-      const parsed = parseSubject(subj);
+      messages.push({
+        uid: msg.uid,
+        subject: msg.envelope && msg.envelope.subject,
+        internalDate: msg.internalDate,
+      });
+    }
+    console.log(`Scanned ${messages.length} messages under "${LABEL}"`);
 
+    // Classify and queue UIDs that need a body fetch.
+    const classified = [];
+    const needBody = [];
+    for (const m of messages) {
+      const parsed = parseSubject(m.subject);
+      classified.push({ ...m, parsed });
+      if (parsed.kind === 'monitor-multi') needBody.push(m.uid);
+      else if (parsed.kind === 'monitor-single' && !parsed.date) needBody.push(m.uid);
+    }
+
+    // Pass 2: fetch bodies for just the messages that need them.
+    const bodyByUid = new Map();
+    if (needBody.length) {
+      console.log(`Fetching bodies for ${needBody.length} message(s)`);
+      for await (const msg of client.fetch(
+        needBody,
+        { uid: true, source: true },
+        { uid: true }
+      )) {
+        const src = Buffer.isBuffer(msg.source)
+          ? msg.source.toString('utf8')
+          : String(msg.source || '');
+        bodyByUid.set(msg.uid, src);
+      }
+    }
+
+    for (const m of classified) {
+      const { uid, parsed, internalDate } = m;
       if (parsed.kind === 'new-event') {
         if (parsed.date) {
           const ymd = dateToYMD_ET(parsed.date);
           if (ymd < today) {
-            toDelete.add(msg.uid);
-            reasons.set(msg.uid, `new-event past (${ymd}): ${parsed.title}`);
+            toDelete.add(uid);
+            reasons.set(uid, `new-event past (${ymd}): ${parsed.title}`);
           }
         }
       } else if (parsed.kind === 'monitor-single') {
         let date = parsed.date;
         if (!date) {
-          const src = await fetchSourceText(client, msg.uid);
-          const dates = parseWhenDates(src);
+          const dates = parseWhenDates(bodyByUid.get(uid) || '');
           if (dates.length > 0) date = dates[0];
         }
         const title = parsed.title;
         titlesSeen.add(title);
-        singleEvents.push({ uid: msg.uid, title, date, internalDate: msg.internalDate });
+        singleEvents.push({ uid, title, date, internalDate });
         if (date && dateToYMD_ET(date) < today) {
-          toDelete.add(msg.uid);
-          reasons.set(msg.uid, `monitor-single past (${dateToYMD_ET(date)}): ${title}`);
+          toDelete.add(uid);
+          reasons.set(uid, `monitor-single past (${dateToYMD_ET(date)}): ${title}`);
         }
       } else if (parsed.kind === 'monitor-multi') {
-        const src = await fetchSourceText(client, msg.uid);
-        const dates = parseWhenDates(src);
+        const dates = parseWhenDates(bodyByUid.get(uid) || '');
         if (dates.length > 0 && dates.every((d) => dateToYMD_ET(d) < today)) {
-          toDelete.add(msg.uid);
-          reasons.set(msg.uid, `monitor-multi all past (${dates.length} events)`);
+          toDelete.add(uid);
+          reasons.set(uid, `monitor-multi all past (${dates.length} events)`);
         }
       }
     }
-    console.log(`Scanned ${total} messages under "${LABEL}"`);
 
     // Dedup single-event [quin-monitor] emails: keep newest per title.
     const byTitle = new Map();
