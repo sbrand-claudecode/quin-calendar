@@ -112,6 +112,7 @@ async function main() {
   const toDelete = new Set();
   const singleEvents = [];
   const reasons = new Map();
+  const subjects = new Map();
   const titlesSeen = new Set();
 
   try {
@@ -159,13 +160,14 @@ async function main() {
     }
 
     for (const m of classified) {
-      const { uid, parsed, internalDate } = m;
+      const { uid, parsed, internalDate, subject } = m;
+      subjects.set(uid, subject || '(no subject)');
       if (parsed.kind === 'new-event') {
         if (parsed.date) {
           const ymd = dateToYMD_ET(parsed.date);
           if (ymd < today) {
             toDelete.add(uid);
-            reasons.set(uid, `new-event past (${ymd}): ${parsed.title}`);
+            reasons.set(uid, `new-event past (${ymd})`);
           }
         }
       } else if (parsed.kind === 'monitor-single') {
@@ -179,13 +181,22 @@ async function main() {
         singleEvents.push({ uid, title, date, internalDate });
         if (date && dateToYMD_ET(date) < today) {
           toDelete.add(uid);
-          reasons.set(uid, `monitor-single past (${dateToYMD_ET(date)}): ${title}`);
+          reasons.set(uid, `monitor-single past (${dateToYMD_ET(date)})`);
         }
       } else if (parsed.kind === 'monitor-multi') {
         const dates = parseWhenDates(bodyByUid.get(uid) || '');
-        if (dates.length > 0 && dates.every((d) => dateToYMD_ET(d) < today)) {
+        const ymds = dates.map((d) => dateToYMD_ET(d));
+        if (ymds.length > 0 && ymds.every((y) => y < today)) {
           toDelete.add(uid);
-          reasons.set(uid, `monitor-multi all past (${dates.length} events)`);
+          reasons.set(uid, `monitor-multi all past [${ymds.join(', ')}]`);
+        } else if (ymds.length > 0) {
+          console.log(
+            `  keep   uid=${uid}  monitor-multi has future date(s) [${ymds.join(', ')}]  subject="${subject}"`
+          );
+        } else {
+          console.log(
+            `  keep   uid=${uid}  monitor-multi: no When: dates parsed  subject="${subject}"`
+          );
         }
       }
     }
@@ -208,7 +219,9 @@ async function main() {
     }
 
     for (const uid of toDelete) {
-      console.log(`  delete uid=${uid}  ${reasons.get(uid) || ''}`);
+      console.log(
+        `  delete uid=${uid}  [${reasons.get(uid) || ''}]  subject="${subjects.get(uid) || ''}"`
+      );
     }
     console.log(`Total to delete: ${toDelete.size}`);
 
