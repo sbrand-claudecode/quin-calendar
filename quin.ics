@@ -24,33 +24,6 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:quin-event-184139@thequinhouse.com
-DTSTAMP:20260513T170000Z
-DTSTART;TZID=America/New_York:20260513T170000
-DTEND;TZID=America/New_York:20260513T180000
-SUMMARY:Rooftop Rendezvous: Château Sainte Marguerite
-LOCATION:Sky Deck
-DESCRIPTION:Category: Food & Beverage\nPrice: Free\nStatus: You are on Wait
- list\nEvent URL: https://members.thequinhouse.com/events/184139\n\nDue to 
- a system error\, registration opened earlier than intended and this event 
- is now fully booked. Given the high level of member interest\, we have add
- ed an additional session on May 28th. Please click here to register. We ap
- ologize for the inconvenience.\n\nAs the season turns\, the Sky Deck reeme
- rges as one of The 'Quin's most coveted settings - an open-air retreat abo
- ve the city\, where warm afternoons stretch into golden hour and evenings 
- unfold with ease. \n\nThis year\, we are pleased to partner with Château
-  Sainte Marguerite as our exclusive 'House rosé\, poured throughout the s
- eason alongside a signature rosé cocktail - bringing a fresh\, coastal se
- nsibility to the rooftop experience.\n\nTo mark the opening\, join us for 
- a celebratory rooftop rendezvous\, featuring a complimentary tasting of Ch
- âteau Sainte Marguerite. Thoughtfully designed to capture the spirit of t
- he season\, the evening offers a first taste of summer at The ’Quin - ef
- fortless\, elevated\, and best enjoyed above it all.\n\n*This event is com
- plimentary and reserved for members only.
-URL:https://members.thequinhouse.com/events/184139
-CATEGORIES:Food & Beverage
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-169178@thequinhouse.com
 DTSTAMP:20260519T130000Z
 DTSTART;TZID=America/New_York:20260519T130000
@@ -86,6 +59,29 @@ DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nStatus: You are on Waitlis
  be served.
 URL:https://members.thequinhouse.com/events/169178
 CATEGORIES:‘Quin Chat
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-184139@thequinhouse.com
+DTSTAMP:20260519T170000Z
+DTSTART;TZID=America/New_York:20260519T170000
+DTEND;TZID=America/New_York:20260519T180000
+SUMMARY:Rooftop Rendezvous: Château Sainte Marguerite
+LOCATION:Sky Deck
+DESCRIPTION:Category: Food & Beverage\nPrice: Free\nStatus: You are on Wait
+ list\nEvent URL: https://members.thequinhouse.com/events/184139\n\nAs the 
+ season turns\, the Sky Deck reemerges as one of The 'Quin's most coveted s
+ ettings - an open-air retreat above the city\, where warm afternoons stret
+ ch into golden hour and evenings unfold with ease. \n\nThis year\, we are
+  pleased to partner with Château Sainte Marguerite as our exclusive 'Hous
+ e rosé\, poured throughout the season alongside a signature rosé cocktai
+ l - bringing a fresh\, coastal sensibility to the rooftop experience.\n\nT
+ o mark the opening\, join us for a celebratory rooftop rendezvous\, featur
+ ing a complimentary tasting of Château Sainte Marguerite. Thoughtfully de
+ signed to capture the spirit of the season\, the evening offers a first ta
+ ste of summer at The ’Quin - effortless\, elevated\, and best enjoyed ab
+ ove it all.\n\n*This event is complimentary and reserved for members only.
+URL:https://members.thequinhouse.com/events/184139
+CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-185624@thequinhouse.com

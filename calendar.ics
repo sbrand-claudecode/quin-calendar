@@ -24,33 +24,6 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:quin-event-184139@thequinhouse.com
-DTSTAMP:20260513T170000Z
-DTSTART;TZID=America/New_York:20260513T170000
-DTEND;TZID=America/New_York:20260513T180000
-SUMMARY:Rooftop Rendezvous: Château Sainte Marguerite
-LOCATION:Sky Deck
-DESCRIPTION:Category: Food & Beverage\nPrice: Free\nStatus: You are on Wait
- list\nEvent URL: https://members.thequinhouse.com/events/184139\n\nDue to 
- a system error\, registration opened earlier than intended and this event 
- is now fully booked. Given the high level of member interest\, we have add
- ed an additional session on May 28th. Please click here to register. We ap
- ologize for the inconvenience.\n\nAs the season turns\, the Sky Deck reeme
- rges as one of The 'Quin's most coveted settings - an open-air retreat abo
- ve the city\, where warm afternoons stretch into golden hour and evenings 
- unfold with ease. \n\nThis year\, we are pleased to partner with Château
-  Sainte Marguerite as our exclusive 'House rosé\, poured throughout the s
- eason alongside a signature rosé cocktail - bringing a fresh\, coastal se
- nsibility to the rooftop experience.\n\nTo mark the opening\, join us for 
- a celebratory rooftop rendezvous\, featuring a complimentary tasting of Ch
- âteau Sainte Marguerite. Thoughtfully designed to capture the spirit of t
- he season\, the evening offers a first taste of summer at The ’Quin - ef
- fortless\, elevated\, and best enjoyed above it all.\n\n*This event is com
- plimentary and reserved for members only.
-URL:https://members.thequinhouse.com/events/184139
-CATEGORIES:Food & Beverage
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-176371@thequinhouse.com
 DTSTAMP:20260513T180000Z
 DTSTART;TZID=America/New_York:20260513T180000
@@ -320,22 +293,46 @@ URL:https://members.thequinhouse.com/events/182352
 CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
+UID:quin-event-184139@thequinhouse.com
+DTSTAMP:20260519T170000Z
+DTSTART;TZID=America/New_York:20260519T170000
+DTEND;TZID=America/New_York:20260519T180000
+SUMMARY:Rooftop Rendezvous: Château Sainte Marguerite
+LOCATION:Sky Deck
+DESCRIPTION:Category: Food & Beverage\nPrice: Free\nStatus: You are on Wait
+ list\nEvent URL: https://members.thequinhouse.com/events/184139\n\nAs the 
+ season turns\, the Sky Deck reemerges as one of The 'Quin's most coveted s
+ ettings - an open-air retreat above the city\, where warm afternoons stret
+ ch into golden hour and evenings unfold with ease. \n\nThis year\, we are
+  pleased to partner with Château Sainte Marguerite as our exclusive 'Hous
+ e rosé\, poured throughout the season alongside a signature rosé cocktai
+ l - bringing a fresh\, coastal sensibility to the rooftop experience.\n\nT
+ o mark the opening\, join us for a celebratory rooftop rendezvous\, featur
+ ing a complimentary tasting of Château Sainte Marguerite. Thoughtfully de
+ signed to capture the spirit of the season\, the evening offers a first ta
+ ste of summer at The ’Quin - effortless\, elevated\, and best enjoyed ab
+ ove it all.\n\n*This event is complimentary and reserved for members only.
+URL:https://members.thequinhouse.com/events/184139
+CATEGORIES:Food & Beverage
+END:VEVENT
+BEGIN:VEVENT
 UID:quin-event-184145@thequinhouse.com
 DTSTAMP:20260519T170000Z
 DTSTART;TZID=America/New_York:20260519T170000
 DTEND;TZID=America/New_York:20260519T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nStatus: Waitlist Only\nEve
- nt URL: https://members.thequinhouse.com/events/184145\n\nJoin us for our 
- weekly Member Mingle\, an inclusive gathering set in an ambiant reserved s
- pace. This is your opportunity to connect with fellow members\, exchange i
- deas\, and cultivate meaningful relationships.\n\nWhether you're sparking 
- new collaborations\, sharing insights\, or simply enjoying great conversat
- ion\, the Member Mingle is the perfect way to engage with our dynamic comm
- unity. Don’t miss the chance to connect\, inspire\, and be inspired!\n\n
- *This event is complimentary and reserved for members only. Complimentary 
- light bites will be served\, and beverages will be available for purchase.
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 1 spot left\
+ nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/184
+ 145\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set i
+ n an ambiant reserved space. This is your opportunity to connect with fell
+ ow members\, exchange ideas\, and cultivate meaningful relationships.\n\nW
+ hether you're sparking new collaborations\, sharing insights\, or simply e
+ njoying great conversation\, the Member Mingle is the perfect way to engag
+ e with our dynamic community. Don’t miss the chance to connect\, inspire
+ \, and be inspired!\n\n*This event is complimentary and reserved for membe
+ rs only. Complimentary light bites will be served\, and beverages will be 
+ available for purchase.
 URL:https://members.thequinhouse.com/events/184145
 CATEGORIES:Member Mixer
 END:VEVENT
@@ -584,20 +581,21 @@ DTSTART;TZID=America/New_York:20260601T170000
 DTEND;TZID=America/New_York:20260601T183000
 SUMMARY:'Quin Chat: How to Start Collecting
 LOCATION:The Reading Room
-DESCRIPTION:Category: The Arts\nPrice: Free\nStatus: Waitlist Only\nEvent U
- RL: https://members.thequinhouse.com/events/175777\n\n5:00PM Reception\, 5
- :30PM Discussion\nStep inside the art market with those who know it best. 
- Join ’Quin House Art Curator Kate Chertavian in conversation with Simon 
- Shaw\, Senior Advisor and Co-Head of Impressionist and Modern Art at Sothe
- by’s\, for an insider’s look at how collections are shaped\, valued\, 
- and sustained over time.\n\nDrawing on decades of experience across auctio
- n houses\, private collections\, and global markets\, the discussion will 
- explore how to build with intention—navigating auctions and galleries\, 
- evaluating works\, resisting fleeting trends\, and ultimately defining a p
- oint of view that is distinctly your own. Thoughtful\, candid\, and deeply
-  informed\, this is a rare opportunity to hear directly from two leading v
- oices at the highest levels of the art world.\n\n*This event is compliment
- ary and reserved for members only. Light refreshments will be served.
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 1 spot left\nSta
+ tus: Available\nEvent URL: https://members.thequinhouse.com/events/175777\
+ n\n5:00PM Reception\, 5:30PM Discussion\nStep inside the art market with t
+ hose who know it best. Join ’Quin House Art Curator Kate Chertavian in c
+ onversation with Simon Shaw\, Senior Advisor and Co-Head of Impressionist 
+ and Modern Art at Sotheby’s\, for an insider’s look at how collections
+  are shaped\, valued\, and sustained over time.\n\nDrawing on decades of e
+ xperience across auction houses\, private collections\, and global markets
+ \, the discussion will explore how to build with intention—navigating au
+ ctions and galleries\, evaluating works\, resisting fleeting trends\, and 
+ ultimately defining a point of view that is distinctly your own. Thoughtfu
+ l\, candid\, and deeply informed\, this is a rare opportunity to hear dire
+ ctly from two leading voices at the highest levels of the art world.\n\n*T
+ his event is complimentary and reserved for members only. Light refreshmen
+ ts will be served.
 URL:https://members.thequinhouse.com/events/175777
 CATEGORIES:The Arts
 END:VEVENT
@@ -656,6 +654,27 @@ URL:https://members.thequinhouse.com/events/186163
 CATEGORIES:Health & Wellness
 END:VEVENT
 BEGIN:VEVENT
+UID:quin-event-186694@thequinhouse.com
+DTSTAMP:20260602T170000Z
+DTSTART;TZID=America/New_York:20260602T170000
+DTEND;TZID=America/New_York:20260602T190000
+SUMMARY:Member Mingle
+LOCATION:The Living Room
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 39 spots lef
+ t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
+ 86694\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
+  in an ambiant reserved space. This is your opportunity to connect with fe
+ llow members\, exchange ideas\, and cultivate meaningful relationships.\n\
+ nWhether you're sparking new collaborations\, sharing insights\, or simply
+  enjoying great conversation\, the Member Mingle is the perfect way to eng
+ age with our dynamic community. Don’t miss the chance to connect\, inspi
+ re\, and be inspired!\n\n*This event is complimentary and reserved for mem
+ bers only. Complimentary light bites will be served\, and beverages will b
+ e available for purchase.
+URL:https://members.thequinhouse.com/events/186694
+CATEGORIES:Member Mixer
+END:VEVENT
+BEGIN:VEVENT
 UID:quin-event-184976@thequinhouse.com
 DTSTAMP:20260603T180000Z
 DTSTART;TZID=America/New_York:20260603T180000
@@ -681,7 +700,7 @@ DTSTART;TZID=America/New_York:20260608T180000
 DTEND;TZID=America/New_York:20260608T210000
 SUMMARY:Community Dinner Table
 LOCATION:Café Q
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 11 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 10 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  76008\n\nStart your week in good company with the Café Q Community dinner
   table for members-only. Set aside for those looking to expand their socia
