@@ -1,0 +1,53 @@
+name: Cleanup Quin Emails
+
+on:
+  schedule:
+    # Target: 8:00am America/New_York year-round. GitHub cron is UTC-only,
+    # so fire at both 12:00 UTC (= 8am EDT) and 13:00 UTC (= 8am EST).
+    # A runtime guard below short-circuits whichever run isn't currently 8am ET.
+    - cron: '0 12 * * *'
+    - cron: '0 13 * * *'
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Log decisions without actually deleting'
+        type: boolean
+        default: false
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Gate on 8am ET (skip for scheduled runs at other hours)
+        id: gate
+        run: |
+          HR=$(TZ=America/New_York date +%H)
+          echo "Current ET hour: $HR; event: ${{ github.event_name }}"
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "run=true" >> "$GITHUB_OUTPUT"
+          elif [ "$HR" = "08" ]; then
+            echo "run=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "run=false" >> "$GITHUB_OUTPUT"
+            echo "Skipping: not 8am ET."
+          fi
+
+      - name: Install dependencies
+        if: steps.gate.outputs.run == 'true'
+        run: npm install
+
+      - name: Run cleanup
+        if: steps.gate.outputs.run == 'true'
+        env:
+          GMAIL_USER: ${{ secrets.QUIN_EMAIL }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          DRY_RUN: ${{ inputs.dry_run && '1' || '' }}
+        run: node cleanup-quin-emails.js

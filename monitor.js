@@ -101,6 +101,20 @@ function formatDtstart(dtstart) {
   return dateStr;
 }
 
+// Short date for inclusion in the email subject. Matches the format the
+// cleanup workflow parses out of the subject ("Mon DD, YYYY").
+function formatDateForSubject(dtstart) {
+  if (!dtstart) return null;
+  const m = dtstart.match(/(\d{4})(\d{2})(\d{2})/);
+  if (!m) return null;
+  const [, y, mo, d] = m;
+  const date = new Date(Date.UTC(+y, +mo - 1, +d, 12));
+  return date.toLocaleDateString('en-US', {
+    month: 'short', day: 'numeric', year: 'numeric',
+    timeZone: 'America/New_York',
+  });
+}
+
 async function main() {
   let oldIcs;
   try {
@@ -133,6 +147,7 @@ async function main() {
       transitions.push({
         summary: newEv.summary,
         dtstart: formatDtstart(newEv.dtstart),
+        dtstartRaw: newEv.dtstart,
         spots: nowSpots,
         priorStatus: oldEv.status,
         url: newEv.url,
@@ -166,9 +181,15 @@ async function main() {
   bodyLines.push('—');
   bodyLines.push('Automated notification from quin-calendar monitor.');
 
-  const subject = transitions.length === 1
-    ? `[quin-monitor] Spots opened: ${transitions[0].summary}`
-    : `[quin-monitor] Spots opened for ${transitions.length} events`;
+  let subject;
+  if (transitions.length === 1) {
+    const dateStr = formatDateForSubject(transitions[0].dtstartRaw);
+    subject = dateStr
+      ? `[quin-monitor] Spots opened (${dateStr}): ${transitions[0].summary}`
+      : `[quin-monitor] Spots opened: ${transitions[0].summary}`;
+  } else {
+    subject = `[quin-monitor] Spots opened for ${transitions.length} events`;
+  }
 
   // Append a trailing newline to both files so the workflow's heredoc-style
   // $GITHUB_OUTPUT blocks have the closing delimiter on its own line.

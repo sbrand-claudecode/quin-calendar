@@ -5,10 +5,12 @@
   "main": "scrape.js",
   "scripts": {
     "start": "node scrape.js",
-    "filter": "node filter.js"
+    "filter": "node filter.js",
+    "cleanup": "node cleanup-quin-emails.js"
   },
   "dependencies": {
     "he": "^1.2.0",
+    "imapflow": "^1.0.171",
     "libsodium-wrappers": "^0.7.13",
     "node-fetch": "^3.3.2",
     "playwright": "^1.41.0",
