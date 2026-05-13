@@ -24,79 +24,6 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:quin-event-182351@thequinhouse.com
-DTSTAMP:20260512T160000Z
-DTSTART;VALUE=DATE:20260512
-DTEND;VALUE=DATE:20260513
-SUMMARY:BBQ Specials 
-LOCATION:The Pub
-DESCRIPTION:Category: Food & Beverage\nPrice: Free / Included\nStatus: Avai
- lable\nTime: 4 PM – 9 PM\nEvent URL: https://members.thequinhouse.com/ev
- ents/182351\n\nExclusively Available Tuesday Evenings\nSettle in and get y
- our hands a little messy - in the best way.\n\nBegin with a warm corn brea
- d skillet and hot honey butter\, alongside the classics: potato salad\, pi
- ckles\, and coleslaw. From there\, choose two barbecue favorites for your 
- main indulgence—espresso-rubbed beef brisket\, St. Louis ribs cooked low
-  and slow\, or pulled pork sliders worth every bite. A little smoky\, a li
- ttle saucy\, and just the right amount of refined.\n\nMake a Reservation.
-URL:https://members.thequinhouse.com/events/182351
-CATEGORIES:Food & Beverage
-END:VEVENT
-BEGIN:VEVENT
-UID:quin-event-182248@thequinhouse.com
-DTSTAMP:20260512T170000Z
-DTSTART;TZID=America/New_York:20260512T170000
-DTEND;TZID=America/New_York:20260512T190000
-SUMMARY:Member Mingle
-LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 18 spots lef
- t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
- 82248\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
-  in an ambiant reserved space. This is your opportunity to connect with fe
- llow members\, exchange ideas\, and cultivate meaningful relationships.\n\
- nWhether you're sparking new collaborations\, sharing insights\, or simply
-  enjoying great conversation\, the Member Mingle is the perfect way to eng
- age with our dynamic community. Don’t miss the chance to connect\, inspi
- re\, and be inspired!\n\n*This event is complimentary and reserved for mem
- bers only. Complimentary light bites will be served\, and beverages will b
- e available for purchase.
-URL:https://members.thequinhouse.com/events/182248
-CATEGORIES:Member Mixer
-END:VEVENT
-BEGIN:VEVENT
-UID:quin-event-182250@thequinhouse.com
-DTSTAMP:20260512T170000Z
-DTSTART;TZID=America/New_York:20260512T170000
-DTEND;TZID=America/New_York:20260512T183000
-SUMMARY:'Quin Chat: AI Powered Women
-LOCATION:Scottie's
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nStatus: Waitlist Only\nEve
- nt URL: https://members.thequinhouse.com/events/182250\n\n5:00PM Reception
- \, 5:30PM Discussion\nAI is reshaping the world - but who is shaping AI?\n
- \nThis discussion brings together leading women at the forefront of artifi
- cial intelligence to explore the human decisions\, ethical frameworks\, an
- d leadership required to guide this moment of rapid transformation.\n\nDr.
-  Felicia Newhouse\, founder of AI-Powered Women—a global learning platfo
- rm and 1\,200-person MIT summit focused on building the workforce infrastr
- ucture behind responsible AI adoption—will share insights on how organiz
- ations translate AI investment into real-world implementation\, where lead
- ership\, culture\, and human capability determine success. She is joined b
- y Dr. Karrie Karahalios of the MIT Media Lab\, a pioneer in algorithmic ac
- countability\, and Dr. Cansu Canca\, Director of Responsible AI Practice a
- t Northeastern University and founder of AI Ethics Lab and creator of Puz
- zle-solving in Ethics (PiE) Model.\n\nTogether\, they will examine how AI 
- systems reflect the values and assumptions of those who build and deploy t
- hem and why diverse leadership is not just important\, but essential. From
-  bias and governance to trust\, identity\, and decision-making\, the conve
- rsation moves beyond technology to the deeper question of responsibility.\
- n\nAn intimate\, interdisciplinary conversation on women shaping the futur
- e of AI and the systems that will shape us all.\n\n*This event is complime
- ntary and reserved for members only. Light bites and refreshments will be 
- served.
-URL:https://members.thequinhouse.com/events/182250
-CATEGORIES:‘Quin Chat
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-184139@thequinhouse.com
 DTSTAMP:20260513T170000Z
 DTSTART;TZID=America/New_York:20260513T170000
@@ -477,15 +404,15 @@ DTSTART;TZID=America/New_York:20260521T170000
 DTEND;TZID=America/New_York:20260521T190000
 SUMMARY:Member Mixer - Bingo 
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 1 spot left\
- nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/184
- 140\n\nJoin us for a lively Bingo-Themed Member Mixer. Enjoy 5–6 fast-pa
- ced rounds of traditional bingo\, each lasting 10–15 minutes\, with plen
- ty of chances to win and connect. After each round\, winners will switch s
- eats and join a new group\, keeping the energy high and conversations flow
- ing. It’s the perfect way to meet fellow members\, spark new connections
- \, and add a playful twist to your evening.\n\n*This event is complimentar
- y and reserved for members only.
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nStatus: Waitlist Only\nEve
+ nt URL: https://members.thequinhouse.com/events/184140\n\nJoin us for a li
+ vely Bingo-Themed Member Mixer. Enjoy 5–6 fast-paced rounds of tradition
+ al bingo\, each lasting 10–15 minutes\, with plenty of chances to win an
+ d connect. After each round\, winners will switch seats and join a new gro
+ up\, keeping the energy high and conversations flowing. It’s the perfect
+  way to meet fellow members\, spark new connections\, and add a playful tw
+ ist to your evening.\n\n*This event is complimentary and reserved for memb
+ ers only.
 URL:https://members.thequinhouse.com/events/184140
 CATEGORIES:Member Mixer
 END:VEVENT
@@ -527,17 +454,17 @@ DTSTART;TZID=America/New_York:20260526T170000
 DTEND;TZID=America/New_York:20260526T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 11 spots lef
- t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
- 84146\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
-  in an ambiant reserved space. This is your opportunity to connect with fe
- llow members\, exchange ideas\, and cultivate meaningful relationships.\n\
- nWhether you're sparking new collaborations\, sharing insights\, or simply
-  enjoying great conversation\, the Member Mingle is the perfect way to eng
- age with our dynamic community. Don’t miss the chance to connect\, inspi
- re\, and be inspired!\n\n*This event is complimentary and reserved for mem
- bers only. Complimentary light bites will be served\, and beverages will b
- e available for purchase.
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 9 spots left
+ \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/18
+ 4146\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set 
+ in an ambiant reserved space. This is your opportunity to connect with fel
+ low members\, exchange ideas\, and cultivate meaningful relationships.\n\n
+ Whether you're sparking new collaborations\, sharing insights\, or simply 
+ enjoying great conversation\, the Member Mingle is the perfect way to enga
+ ge with our dynamic community. Don’t miss the chance to connect\, inspir
+ e\, and be inspired!\n\n*This event is complimentary and reserved for memb
+ ers only. Complimentary light bites will be served\, and beverages will be
+  available for purchase.
 URL:https://members.thequinhouse.com/events/184146
 CATEGORIES:Member Mixer
 END:VEVENT
