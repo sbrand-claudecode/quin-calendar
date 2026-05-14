@@ -24,109 +24,140 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:quin-event-179731@thequinhouse.com
-DTSTAMP:20260422T173000Z
-DTSTART;TZID=America/New_York:20260422T173000
-DTEND;TZID=America/New_York:20260422T193000
-SUMMARY:Member Mixer: Passport to Conversation
-LOCATION:Scottie's
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 1 spot left\
- nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/ev
- ents/179731\n\nBoard Quintansa Flight 217 and take off for an evening of t
- ravel-inspired conversation and connection. This Member Mixer brings guest
- s together through curated one-on-one exchanges\, inviting you to share fa
- vorite destinations\, unforgettable journeys\, and dream adventures with f
- ellow members.\n\n*Please note that this event is complimentary and reserv
- ed for members only.
-URL:https://members.thequinhouse.com/events/179731
+UID:quin-event-169178@thequinhouse.com
+DTSTAMP:20260519T130000Z
+DTSTART;TZID=America/New_York:20260519T130000
+DTEND;TZID=America/New_York:20260519T150000
+SUMMARY: 90 Minutes of Innovation: Leadership\, Governance and the Long Vie
+ w 
+LOCATION:The Pub
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nStatus: You are on Waitlis
+ t\nEvent URL: https://members.thequinhouse.com/events/169178\n\n1:00PM Pro
+ gram\, 2:30PM Networking\nWhat does it take to guide institutions\, advise
+  CEOs\, and shape strategy at the highest levels across decades of transfo
+ rmation?\n\nIn the latest edition of 90 Minutes of Innovation*\, John Wern
+ er—venture capitalist\, MIT lecturer\, and *Forbes* AI columnist—sits 
+ down with David Mussafer\, Chairman of Advent International and one of th
+ e most influential leaders in global private equity.\n\nWith a career span
+ ning decades\, Mussafer has helped build Advent into one of the world’s
+  top ten private equity firms\, headquartered here in Boston\, while also 
+ advising companies and serving on boards across industries. Drawing from 
+ the arc of his life’s work\, the conversation will weave together person
+ al insights and professional milestones\, offering a perspective that sit
+ s at the intersection of capital\, governance\, and long-term value creati
+ on—where the biggest decisions are often the least visible.\n\nTogether\
+ , they will explore what great companies and leadership teams have in comm
+ on\, how boards actually function—and how they must evolve—the role of
+  private equity in building\, not just acquiring\, companies\, and how lea
+ ders navigate uncertainty\, cycles\, and long-term strategy. The conversat
+ ion will also draw on lessons from decades of investing across sectors and
+  geographies.\n\nExpect a thoughtful\, behind-the-scenes conversation abou
+ t how decisions get made at the highest levels—where governance meets gr
+ owth\, and strategy meets execution.\n\nFrom boardrooms to global markets�
+ ��one stage\, one conversation\, not to be missed.\n\n*This event is compl
+ imentary and reserved for members only. Light bites and refreshments will 
+ be served.
+URL:https://members.thequinhouse.com/events/169178
+CATEGORIES:‘Quin Chat
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-184139@thequinhouse.com
+DTSTAMP:20260519T170000Z
+DTSTART;TZID=America/New_York:20260519T170000
+DTEND;TZID=America/New_York:20260519T180000
+SUMMARY:Rooftop Rendezvous: Château Sainte Marguerite
+LOCATION:Sky Deck
+DESCRIPTION:Category: Food & Beverage\nPrice: Free\nStatus: You are on Wait
+ list\nEvent URL: https://members.thequinhouse.com/events/184139\n\nAs the 
+ season turns\, the Sky Deck reemerges as one of The 'Quin's most coveted s
+ ettings - an open-air retreat above the city\, where warm afternoons stret
+ ch into golden hour and evenings unfold with ease. \n\nThis year\, we are
+  pleased to partner with Château Sainte Marguerite as our exclusive 'Hous
+ e rosé\, poured throughout the season alongside a signature rosé cocktai
+ l - bringing a fresh\, coastal sensibility to the rooftop experience.\n\nT
+ o mark the opening\, join us for a celebratory rooftop rendezvous\, featur
+ ing a complimentary tasting of Château Sainte Marguerite. Thoughtfully de
+ signed to capture the spirit of the season\, the evening offers a first ta
+ ste of summer at The ’Quin - effortless\, elevated\, and best enjoyed ab
+ ove it all.\n\n*This event is complimentary and reserved for members only.
+URL:https://members.thequinhouse.com/events/184139
+CATEGORIES:Food & Beverage
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-185624@thequinhouse.com
+DTSTAMP:20260528T170000Z
+DTSTART;TZID=America/New_York:20260528T170000
+DTEND;TZID=America/New_York:20260528T180000
+SUMMARY:Rooftop Rendezvous: Château Sainte Marguerite
+LOCATION:Sky Deck
+DESCRIPTION:Category: Food & Beverage\nPrice: Free\nStatus: You are on Wait
+ list\nEvent URL: https://members.thequinhouse.com/events/185624\n\nAs the 
+ season turns\, the Sky Deck reemerges as one of The 'Quin's most coveted s
+ ettings - an open-air retreat above the city\, where warm afternoons stret
+ ch into golden hour and evenings unfold with ease. \n\nThis year\, we are
+  pleased to partner with Château Sainte Marguerite as our exclusive 'Hous
+ e rosé\, poured throughout the season alongside a signature rosé cocktai
+ l - bringing a fresh\, coastal sensibility to the rooftop experience.\n\nT
+ o mark the opening\, join us for a celebratory rooftop rendezvous\, featur
+ ing a complimentary tasting of Château Sainte Marguerite. Thoughtfully de
+ signed to capture the spirit of the season\, the evening offers a first ta
+ ste of summer at The ’Quin - effortless\, elevated\, and best enjoyed ab
+ ove it all.\n\n*This event is complimentary and reserved for members only.
+URL:https://members.thequinhouse.com/events/185624
+CATEGORIES:Food & Beverage
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-175998@thequinhouse.com
+DTSTAMP:20260601T183000Z
+DTSTART;TZID=America/New_York:20260601T183000
+DTEND;TZID=America/New_York:20260601T210000
+SUMMARY:Serendipity Dinner 
+LOCATION:The Muse
+DESCRIPTION:Category: Member Mixer\nPrice: $100.00 per person\nAvailability
+ : 15 spots left\nStatus: You are Confirmed\nEvent URL: https://members.the
+ quinhouse.com/events/175998\n\nJoin The ‘Quin House Managing Director\, 
+ Matthias Kiehm\, for an evening of meaningful connections over a thoughtfu
+ lly curated three-course dinner. Enjoy expertly paired wines as you engage
+  with fellow members\, guided by conversation prompts designed to inspire 
+ deeper\, more memorable exchanges. This unique experience offers the perfe
+ ct blend of great company\, engaging dialogue\, and a menu crafted to deli
+ ght the senses.\n\n*Tickets are $100 per person and are reserved for membe
+ rs only. Cancellations within 72 hours of the event\, or failure to attend
+ \, will be charged in full. Please inform us of any dietary needs or restr
+ ictions by emailing happening@thequin.com at least 72 hours before dinner 
+ service.
+URL:https://members.thequinhouse.com/events/175998
 CATEGORIES:Member Mixer
 END:VEVENT
 BEGIN:VEVENT
-UID:quin-event-179738@thequinhouse.com
-DTSTAMP:20260423T173000Z
-DTSTART;TZID=America/New_York:20260423T173000
-DTEND;TZID=America/New_York:20260423T190000
-SUMMARY: 'Quin Impact Fund x MassChallenge: Discovery & Innovation Pitch Co
- mpetition
-LOCATION:The Living Room
-DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nStatus: You are on 
- Waitlist\nEvent URL: https://members.thequinhouse.com/events/179738\n\n5:3
- 0PM Reception\, 6:00PM Discussion\nJoin us for the ‘Quin Impact Fund x M
- assChallenge Discovery & Innovation Pitch Competition\, where five groundb
- reaking startups - Bystro AI\, H2C Energy\, harmony desalting\, Materializ
- e Bio\, and TriCan Health - will pitch their visionary projects for a chan
- ce to receive funding from the ‘Quin Impact Fund. As a member in attenda
- nce\, you’ll play a vital role in shaping the future of innovation by ca
- sting your vote to help determine the allocation of funds. Don’t miss th
- is exciting opportunity to witness the next wave of impact-driven solution
- s in action!\n\n*This event is complimentary and reserved for members only
- . Light bites and refreshments will be served.
-URL:https://members.thequinhouse.com/events/179738
-CATEGORIES:‘Quin Impact Fund
-END:VEVENT
-BEGIN:VEVENT
-UID:quin-event-180909@thequinhouse.com
-DTSTAMP:20260428T170000Z
-DTSTART;TZID=America/New_York:20260428T170000
-DTEND;TZID=America/New_York:20260428T183000
-SUMMARY:'Quin Chat: The Atlantic's Nick Thompson 
+UID:quin-event-186163@thequinhouse.com
+DTSTAMP:20260602T170000Z
+DTSTART;TZID=America/New_York:20260602T170000
+DTEND;TZID=America/New_York:20260602T183000
+SUMMARY:'Quin Chat: Understanding Brain Health
 LOCATION:Scottie's
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nStatus: You are Confirmed\
- nEvent URL: https://members.thequinhouse.com/events/180909\n\n5:00PM Recep
- tion\, 5:30PM Discussion \nStep into a wide-ranging conversation with Nic
- holas Thompson\, CEO of The Atlantic. During his tenure\, the publication
-  has won the National Magazine Award for General Excellence three times\, 
- become one of the fastest-growing news organizations in the country\, and 
- reached record profitability and subscriber growth in its 157-year history
- . He is also the author of the national bestseller The Running Ground an
- d host of the podcast The Most Interesting Thing in AI\, where he explore
- s the rapidly evolving world of artificial intelligence.\n\nThompson will 
- be joined in conversation by Claire Hughes Johnson\, a technology leader a
- nd former Chief Operating Officer of Stripe. Together\, they will explore
-  the forces shaping today’s media and technology landscapes - from the f
- uture of AI and innovation to the evolving role of storytelling and leader
- ship in a rapidly changing world.\n\n*This event is complimentary and rese
- rved for members only. Light bites and refreshments will be served.
-URL:https://members.thequinhouse.com/events/180909
-CATEGORIES:‘Quin Chat
-END:VEVENT
-BEGIN:VEVENT
-UID:quin-event-180910@thequinhouse.com
-DTSTAMP:20260429T130000Z
-DTSTART;TZID=America/New_York:20260429T130000
-DTEND;TZID=America/New_York:20260429T150000
-SUMMARY:90 Minutes of Innovation: Networks\, Intelligence & the Future of D
- ecision-Making 
-LOCATION:The Pub
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nStatus: You are Confirmed\
- nEvent URL: https://members.thequinhouse.com/events/180910\n\n1:00PM Progr
- am\, 2:30PM Networking\nWhat can we learn from the individuals shaping AI\
- , enterprise transformation\, and modern engineering at the highest levels
- ?\n\nIn the latest edition of 90 Minutes of Innovation\, John Werner - ven
- ture capitalist\, MIT lecturer\, and Forbes AI columnist - will lead a ser
- ies of one-on-one conversations with three remarkable leaders\, each offer
- ing a distinct perspective on innovation\, leadership\, and the moment we�
- ��re in.\n\nJon Hirschtick\, founder of SolidWorks and Onshape\, is a pion
- eering force in computer-aided design who has transformed how engineers an
- d designers build the world. An MIT alumnus\, he used winnings from the In
- stitute’s legendary blackjack team to launch his first company - an expe
- rience that later inspired the film 21.\n\nSandy Pentland\, MIT professor 
- with appointments at MIT and Stanford\, and one of the most cited data sci
- entists globally\, whose work on human behavior\, social networks\, and �
- �reality mining” has fundamentally reshaped how we understand trust\, ci
- ties\, and collective intelligence. He will speak on his recent book\, Sh
- ared Wisdom: Cultural Evolution in the Age of AI.\n\nDavid Kenny\, Executi
- ve Chairman of Nielsen and former CEO of IBM Watson\, with prior leadershi
- p roles at Akamai and The Weather Channel\, has operated at the forefront 
- of AI\, data\, and global enterprise transformation.\n\nThrough individual
-  interviews\, the afternoon will explore their personal journeys\, the ide
- as that have defined their work\, and how each sees the rapidly evolving l
- andscape of AI\, technology\, and innovation today. Expect an engaging\, i
- nsight-rich experience that connects lived experience with forward-looking
-  perspective - offering a rare window into how these leaders think\, build
- \, and lead.\n\n*This event is complimentary and reserved for members only
- . Light bites and refreshments will be served.
-URL:https://members.thequinhouse.com/events/180910
-CATEGORIES:‘Quin Chat
+DESCRIPTION:Category: Health & Wellness\nPrice: Free\nStatus: You are Confi
+ rmed\nEvent URL: https://members.thequinhouse.com/events/186163\n\n5:00PM 
+ Reception\, 5:30PM Discussion\nWhat if brain health wasn’t just clinical
+ —but personal\, preventative\, and deeply relevant to how we live every 
+ day? In honor of Alzheimer's Awareness Month\, this candid\, forward-think
+ ing conversation brings together leading physicians and patient voices to 
+ explore the latest in neurovascular innovation\, life-saving interventions
+ \, and the often-overlooked habits that shape cognitive well-being. Expect
+  an unfiltered look at survival\, prevention\, and the science redefining 
+ how we think about the brain.\n\nFeaturing Dr. Christopher Ogilvy—Direct
+ or of Endovascular and Operative Neurovascular Surgery at Beth Israel Deac
+ oness Medical Center and Professor at Harvard Medical School—whose pione
+ ering work continues to push the boundaries of modern neurosurgery\, alon
+ gside Meg Smith\, CEO of Cure Alzheimer’s Fund. Since taking the helm in
+  2023\, Smith has led the organization’s continued growth and impact\, a
+ dvancing a research model that has directed over $138 million toward bold 
+ scientific efforts to slow\, prevent\, and ultimately reverse Alzheimer’
+ s.\n\nTogether with additional expert and patient perspectives\, the panel
+  offers a rare opportunity to engage with leaders at the forefront of brai
+ n health and discovery.\n\n*This event is complimentary and reserved for m
+ embers only. Light bites and refreshments will be served.
+URL:https://members.thequinhouse.com/events/186163
+CATEGORIES:Health & Wellness
 END:VEVENT
 END:VCALENDAR

@@ -4,12 +4,17 @@
  *
  * No credentials required. Fetches calendar.ics from GitHub Pages, keeps only
  * events where you are confirmed or on the waitlist, and writes quin.ics to the
- * current directory for import into Apple Calendar.
+ * current directory for import into Google Calendar.
  *
  * Usage:
  *   npm run filter          (or: node filter.js)
  *
- * Then double-click quin.ics in Finder to import into Apple Calendar.
+ * Then import quin.ics into Google Calendar:
+ *   Settings (gear icon) → Import & Export → Import → select quin.ics →
+ *   choose target calendar → Import.
+ *
+ * Google Calendar dedupes by UID on import, so re-importing updates existing
+ * events rather than creating duplicates.
  */
 
 const https = require('https');
@@ -63,7 +68,7 @@ https.get(CALENDAR_URL, (res) => {
 
     fs.writeFileSync(OUT_FILE, lines.join('\r\n') + '\r\n', 'utf8');
     console.log(`Written: ${OUT_FILE} (${personal.length} personal event${personal.length !== 1 ? 's' : ''})`);
-    console.log('Double-click quin.ics in Finder to import into Apple Calendar.');
+    console.log('Import into Google Calendar: Settings → Import & Export → Import → select quin.ics.');
   });
 }).on('error', (err) => {
   console.error('Network error:', err.message);

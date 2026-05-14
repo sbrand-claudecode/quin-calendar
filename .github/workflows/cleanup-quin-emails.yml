@@ -2,17 +2,23 @@ name: Cleanup Quin Emails
 
 on:
   schedule:
-    # Target: 8:00am America/New_York year-round. GitHub cron is UTC-only,
-    # so fire at both 12:00 UTC (= 8am EDT) and 13:00 UTC (= 8am EST).
-    # A runtime guard below short-circuits whichever run isn't currently 8am ET.
-    - cron: '0 12 * * *'
-    - cron: '0 13 * * *'
+    # GitHub's free-tier scheduler fires late (or skips) routinely, so we
+    # register several morning-ET slots as redundancy. The job itself is
+    # gated by a committed marker file (.cleanup-last-run) so it does real
+    # work at most once per ET day — whichever scheduled run lands first
+    # does the cleanup, the rest see the marker and skip.
+    - cron: '0 12 * * *'   # ~8:00am EDT / 7:00am EST
+    - cron: '30 13 * * *'  # ~9:30am EDT / 8:30am EST
+    - cron: '0 15 * * *'   # ~11:00am EDT / 10:00am EST
   workflow_dispatch:
     inputs:
       dry_run:
         description: 'Log decisions without actually deleting'
         type: boolean
         default: false
+
+permissions:
+  contents: write
 
 jobs:
   cleanup:
@@ -21,24 +27,29 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
+      - name: Decide whether to run (once per ET day)
+        id: gate
+        run: |
+          TODAY=$(TZ=America/New_York date +%F)
+          LAST=$(cat .cleanup-last-run 2>/dev/null || echo "")
+          echo "Today (ET): $TODAY | last successful run: ${LAST:-none} | event: ${{ github.event_name }}"
+          echo "today=$TODAY" >> "$GITHUB_OUTPUT"
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "Manual run — proceeding."
+            echo "run=true" >> "$GITHUB_OUTPUT"
+          elif [ "$LAST" = "$TODAY" ]; then
+            echo "Already ran successfully today — skipping."
+            echo "run=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "No successful run yet today — proceeding."
+            echo "run=true" >> "$GITHUB_OUTPUT"
+          fi
+
       - name: Set up Node.js
+        if: steps.gate.outputs.run == 'true'
         uses: actions/setup-node@v4
         with:
           node-version: '20'
-
-      - name: Gate on 8am ET (skip for scheduled runs at other hours)
-        id: gate
-        run: |
-          HR=$(TZ=America/New_York date +%H)
-          echo "Current ET hour: $HR; event: ${{ github.event_name }}"
-          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
-            echo "run=true" >> "$GITHUB_OUTPUT"
-          elif [ "$HR" = "08" ]; then
-            echo "run=true" >> "$GITHUB_OUTPUT"
-          else
-            echo "run=false" >> "$GITHUB_OUTPUT"
-            echo "Skipping: not 8am ET."
-          fi
 
       - name: Install dependencies
         if: steps.gate.outputs.run == 'true'
@@ -51,3 +62,17 @@ jobs:
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
           DRY_RUN: ${{ inputs.dry_run && '1' || '' }}
         run: node cleanup-quin-emails.js
+
+      - name: Record successful run
+        # Update the marker only on a real (non-dry) run that actually executed.
+        # A dry run must NOT claim the day, or it would block the real cleanup.
+        if: steps.gate.outputs.run == 'true' && !inputs.dry_run
+        run: |
+          echo "${{ steps.gate.outputs.today }}" > .cleanup-last-run
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add .cleanup-last-run
+          git commit -m "chore: record quin email cleanup run ${{ steps.gate.outputs.today }}" || {
+            echo "Nothing to commit."; exit 0;
+          }
+          git push || (git pull --rebase && git push) || echo "Push failed; next run will retry."
