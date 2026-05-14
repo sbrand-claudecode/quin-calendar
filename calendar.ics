@@ -24,24 +24,6 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:quin-event-176371@thequinhouse.com
-DTSTAMP:20260513T180000Z
-DTSTART;TZID=America/New_York:20260513T180000
-DTEND;TZID=America/New_York:20260513T210000
-SUMMARY:Live Music: Bob Richardson 
-LOCATION:The Reading Room
-DESCRIPTION:Category: The Arts\nPrice: Free / Included\nStatus: Available\n
- Event URL: https://members.thequinhouse.com/events/176371\n\nAdored for hi
- s signature style and smile\, Bob Richardson returns to the 'House for ano
- ther spectacular piano and vocal performance live from the Reading Room. R
- ichardson\, a composer\, arranger\, vocalist and former educator will char
- m the audience with requests all night long.\n\n*Please note that this eve
- nt is complimentary and reserved for members\, plus three guests. Seating 
- is first come\, first served.
-URL:https://members.thequinhouse.com/events/176371
-CATEGORIES:The Arts
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-184226@thequinhouse.com
 DTSTAMP:20260514T090000Z
 DTSTART;VALUE=DATE:20260514
@@ -218,21 +200,21 @@ DTSTART;TZID=America/New_York:20260518T183000
 DTEND;TZID=America/New_York:20260518T210000
 SUMMARY:Serendipity Dinner: The Ladies' Table
 LOCATION:The Muse
-DESCRIPTION:Category: Member Mixer\nPrice: $100.00 per person\nStatus: Wait
- list Only\nEvent URL: https://members.thequinhouse.com/events/184142\n\nSa
- vor an evening designed for meaningful connection at this special Serendip
- ity Dinner\, thoughtfully curated for women of The ’Quin. Gather around 
- an intimate table for a three-course dining experience\, complemented by e
- xpertly paired wines and engaging conversation.\n\nWith gentle prompts to 
- guide discussion\, the evening unfolds at an easy\, convivial pace—invit
- ing genuine dialogue\, shared stories\, and the opportunity to connect wit
- h fellow members in a warm\, welcoming setting. It’s a refined yet relax
- ed experience where great company and thoughtful cuisine come together sea
- mlessly.\n\n*Tickets are $100 per person\, plus tax\, and are reserved for
-  members only. Cancellations within 72 hours of the event\, or failure to 
- attend\, will be charged in full. Please inform us of any dietary needs or
-  restrictions by emailing happening@thequin.com at least 72 hours before d
- inner service.
+DESCRIPTION:Category: Member Mixer\nPrice: $100.00 per person\nAvailability
+ : 1 spot left\nStatus: Available\nEvent URL: https://members.thequinhouse.
+ com/events/184142\n\nSavor an evening designed for meaningful connection a
+ t this special Serendipity Dinner\, thoughtfully curated for women of The 
+ ’Quin. Gather around an intimate table for a three-course dining experie
+ nce\, complemented by expertly paired wines and engaging conversation.\n\n
+ With gentle prompts to guide discussion\, the evening unfolds at an easy\,
+  convivial pace—inviting genuine dialogue\, shared stories\, and the opp
+ ortunity to connect with fellow members in a warm\, welcoming setting. It�
+ ��s a refined yet relaxed experience where great company and thoughtful cu
+ isine come together seamlessly.\n\n*Tickets are $100 per person\, plus tax
+ \, and are reserved for members only. Cancellations within 72 hours of the
+  event\, or failure to attend\, will be charged in full. Please inform us 
+ of any dietary needs or restrictions by emailing happening@thequin.com at 
+ least 72 hours before dinner service.
 URL:https://members.thequinhouse.com/events/184142
 CATEGORIES:Member Mixer
 END:VEVENT
@@ -322,17 +304,16 @@ DTSTART;TZID=America/New_York:20260519T170000
 DTEND;TZID=America/New_York:20260519T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 1 spot left\
- nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/184
- 145\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set i
- n an ambiant reserved space. This is your opportunity to connect with fell
- ow members\, exchange ideas\, and cultivate meaningful relationships.\n\nW
- hether you're sparking new collaborations\, sharing insights\, or simply e
- njoying great conversation\, the Member Mingle is the perfect way to engag
- e with our dynamic community. Don’t miss the chance to connect\, inspire
- \, and be inspired!\n\n*This event is complimentary and reserved for membe
- rs only. Complimentary light bites will be served\, and beverages will be 
- available for purchase.
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nStatus: Waitlist Only\nEve
+ nt URL: https://members.thequinhouse.com/events/184145\n\nJoin us for our 
+ weekly Member Mingle\, an inclusive gathering set in an ambiant reserved s
+ pace. This is your opportunity to connect with fellow members\, exchange i
+ deas\, and cultivate meaningful relationships.\n\nWhether you're sparking 
+ new collaborations\, sharing insights\, or simply enjoying great conversat
+ ion\, the Member Mingle is the perfect way to engage with our dynamic comm
+ unity. Don’t miss the chance to connect\, inspire\, and be inspired!\n\n
+ *This event is complimentary and reserved for members only. Complimentary 
+ light bites will be served\, and beverages will be available for purchase.
 URL:https://members.thequinhouse.com/events/184145
 CATEGORIES:Member Mixer
 END:VEVENT
@@ -581,21 +562,20 @@ DTSTART;TZID=America/New_York:20260601T170000
 DTEND;TZID=America/New_York:20260601T183000
 SUMMARY:'Quin Chat: How to Start Collecting
 LOCATION:The Reading Room
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 1 spot left\nSta
- tus: Available\nEvent URL: https://members.thequinhouse.com/events/175777\
- n\n5:00PM Reception\, 5:30PM Discussion\nStep inside the art market with t
- hose who know it best. Join ’Quin House Art Curator Kate Chertavian in c
- onversation with Simon Shaw\, Senior Advisor and Co-Head of Impressionist 
- and Modern Art at Sotheby’s\, for an insider’s look at how collections
-  are shaped\, valued\, and sustained over time.\n\nDrawing on decades of e
- xperience across auction houses\, private collections\, and global markets
- \, the discussion will explore how to build with intention—navigating au
- ctions and galleries\, evaluating works\, resisting fleeting trends\, and 
- ultimately defining a point of view that is distinctly your own. Thoughtfu
- l\, candid\, and deeply informed\, this is a rare opportunity to hear dire
- ctly from two leading voices at the highest levels of the art world.\n\n*T
- his event is complimentary and reserved for members only. Light refreshmen
- ts will be served.
+DESCRIPTION:Category: The Arts\nPrice: Free\nStatus: Waitlist Only\nEvent U
+ RL: https://members.thequinhouse.com/events/175777\n\n5:00PM Reception\, 5
+ :30PM Discussion\nStep inside the art market with those who know it best. 
+ Join ’Quin House Art Curator Kate Chertavian in conversation with Simon 
+ Shaw\, Senior Advisor and Co-Head of Impressionist and Modern Art at Sothe
+ by’s\, for an insider’s look at how collections are shaped\, valued\, 
+ and sustained over time.\n\nDrawing on decades of experience across auctio
+ n houses\, private collections\, and global markets\, the discussion will 
+ explore how to build with intention—navigating auctions and galleries\, 
+ evaluating works\, resisting fleeting trends\, and ultimately defining a p
+ oint of view that is distinctly your own. Thoughtful\, candid\, and deeply
+  informed\, this is a rare opportunity to hear directly from two leading v
+ oices at the highest levels of the art world.\n\n*This event is compliment
+ ary and reserved for members only. Light refreshments will be served.
 URL:https://members.thequinhouse.com/events/175777
 CATEGORIES:The Arts
 END:VEVENT
