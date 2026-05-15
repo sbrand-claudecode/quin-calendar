@@ -24,48 +24,6 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:quin-event-184226@thequinhouse.com
-DTSTAMP:20260514T090000Z
-DTSTART;VALUE=DATE:20260514
-DTEND;VALUE=DATE:20260515
-SUMMARY:New York City Art Excursion
-LOCATION:Offsite: New York City
-DESCRIPTION:Category: The Arts\nPrice: $420.56 per person\nStatus: Waitlist
-  Only\nTime: 9 AM – 5 PM\nEvent URL: https://members.thequinhouse.com/ev
- ents/184226\n\nWe are excited to offer a curated\, behind-the-scenes look 
- at the contemporary art world lead by The ’Quin House art curator\, Kate
-  Chertavian.\n\nSpend a private morning at Christie’s\, featuring expert
-  insights from leading specialists in Impressionist\, Modern\, and 20th Ce
- ntury art. Through guided discussion and close looking\, members will gain
-  a deeper understanding of the auction process and highlights of the May s
- ales.\n\nFrom there\, members will travel to Chelsea for a series of guide
- d gallery visits at David Zwirner\, Hales\, and Hauser & Wirth\, where you
-  will experience current exhibitions at some of the most influential galle
- ries in the world.\n\nMidday\, members will gather for a lunch discussion 
- with Kate\, focused on strategies for navigating an art fair and building 
- a thoughtful approach to collecting.\n\nThe afternoon will conclude at Fri
- eze New York at The Shed\, where members will have the opportunity to expl
- ore the fair independently\, applying insights from the day in real time. 
- Throughout the experience\, members will gain behind-the-scenes perspectiv
- e on the art market\, along with Kate’s “5 Things to Know about Collec
- ting.”\n\n9:00AM - 9:15AM | Arrival & Welcome at Christie’s\n9:15AM - 
- 11:00AM | Private Viewing at Christie’s\n11:00AM - 11:30AM | Transit to 
- Chelsea\n11:30AM - 1:20PM | Gallery Visits: David Zwirner\, Hales\, Hauser
-  & Wirth\n1:30PM - 2:30PM | Lunch & Discussion with Kate Chertavian\n3:00P
- M - 5:00PM | Independent Browsing at Frieze New York\n\nThis intimate\, th
- oughtfully designed program offers a unique opportunity to engage directly
-  with experts\, deepen your understanding of the art market\, and experien
- ce New York’s art scene alongside fellow members.\n\n*This excursion is 
- offered to members-only at $450 per person\, including the cost of lunch\,
-  group transportation between Christie's and the galleries\, as well as yo
- ur ticket to the Frieze Art Fair. A limited number of spaces are available
-  on a first come\, first to reserve basis. Members are responsible for the
- ir own transportation to and from New York. Tickets are non-refundable an
- d non-transferable.
-URL:https://members.thequinhouse.com/events/184226
-CATEGORIES:The Arts
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-176385@thequinhouse.com
 DTSTAMP:20260514T173000Z
 DTSTART;VALUE=DATE:20260514
@@ -103,63 +61,37 @@ URL:https://members.thequinhouse.com/events/176385
 CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
-UID:quin-event-182450@thequinhouse.com
-DTSTAMP:20260514T173000Z
-DTSTART;TZID=America/New_York:20260514T173000
-DTEND;TZID=America/New_York:20260514T200000
-SUMMARY:Game Night: Bridge Instructional Play 
-LOCATION:The Muse
-DESCRIPTION:Category: Sports & Games\nPrice: Free\nStatus: Waitlist Only\nE
- vent URL: https://members.thequinhouse.com/events/182450\n\nDiscover the a
- rt and strategy of Bridge in a thoughtfully designed two-part instructiona
- l series for members. Our expert instructor\, Zach Grossack\, will guide 
- members through the fundamentals\, offering tips\, strategies\, and techni
- ques designed for beginners and intermediate players alike.\n\nEach sessio
- n is relaxed and hands-on\, offering the opportunity to practice bidding\,
-  refine strategy\, and build confidence at the table with personalized gui
- dance. Look forward to a welcoming environment to learn\, improve\, and en
- joy the timeless art of Bridge alongside fellow members.\n\n*This event is
-  complimentary and reserved for members only. Please note that this is a t
- wo-part series\; registration for the first session on May 14th will auto
- matically enroll you in the second session on May 21st\, ensuring a cohesi
- ve learning experience across both evenings. Guests are invited to arrive 
- at 5:30PM to settle in with a bite and beverage on the 'House before the c
- lass begins promptly at 6:00 PM.
-URL:https://members.thequinhouse.com/events/182450
-CATEGORIES:Sports & Games
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-186161@thequinhouse.com
 DTSTAMP:20260515T170000Z
 DTSTART;TZID=America/New_York:20260515T170000
 DTEND;TZID=America/New_York:20260515T183000
 SUMMARY:'Quin Chat: The Art of Provincetown
 LOCATION:The Reading Room
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 2 spots left
- \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/18
- 6161\n\n5:00PM Reception\, 5:30PM Discussion\nStep into a dialogue at the 
- intersection of place\, history\, and contemporary practice. Join ’Quin 
- House Art Curator Kate Chertavian for an intimate conversation exploring t
- he newest special exhibition at The ’Quin\, presented in collaboration w
- ith the Provincetown Arts Society. On view from May 12th through July 14th
-  across the Lobby\, Grand Staircase\, and Reading Room\, the exhibition br
- ings together a vibrant group of Boston- and Provincetown-based artists—
- reflecting both the legacy and evolving spirit of one of America’s most 
- influential art colonies.\n\nPanelists include Gene Tartaglia\, Director o
- f the Provincetown Arts Society\; Christine McCarthy\, Chief Executive Off
- icer of the Provincetown Art Association & Museum\; and exhibiting artist 
- Megan Hinton\, whose interdisciplinary work reimagines the boundaries of p
- ainting\, sculpture\, and material. Together\, they will explore Provincet
- own’s rich artistic history and the vital role arts organizations contin
- ue to play in shaping and sustaining its creative community today.\n\nPart
-  two of this exhibition unfolds just beyond Boston. Hosted at the historic
-  Mary Heaton Vorse House\, the home of the Provincetown Arts Society\, the
-  companion show will feature ’Quin House artists Zainab Sumu\, Yu-Wen-Wu
- \, Brian Zink\, and Lavaughn Jenkins. Members will be invited to Provincet
- own in June for a private tour with the curators\, and an opportunity to e
- ngage directly with the artists. More information on Part two of the exhib
- ition to follow...\n\n*This event is complimentary and reserved for member
- s only. Light bites and refreshments will be served.
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 1 spot left\
+ nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/186
+ 161\n\n5:00PM Reception\, 5:30PM Discussion\nStep into a dialogue at the i
+ ntersection of place\, history\, and contemporary practice. Join ’Quin H
+ ouse Art Curator Kate Chertavian for an intimate conversation exploring th
+ e newest special exhibition at The ’Quin\, presented in collaboration wi
+ th the Provincetown Arts Society. On view from May 12th through July 14th 
+ across the Lobby\, Grand Staircase\, and Reading Room\, the exhibition bri
+ ngs together a vibrant group of Boston- and Provincetown-based artists—r
+ eflecting both the legacy and evolving spirit of one of America’s most i
+ nfluential art colonies.\n\nPanelists include Gene Tartaglia\, Director of
+  the Provincetown Arts Society\; Christine McCarthy\, Chief Executive Offi
+ cer of the Provincetown Art Association & Museum\; and exhibiting artist M
+ egan Hinton\, whose interdisciplinary work reimagines the boundaries of pa
+ inting\, sculpture\, and material. Together\, they will explore Provinceto
+ wn’s rich artistic history and the vital role arts organizations continu
+ e to play in shaping and sustaining its creative community today.\n\nPart 
+ two of this exhibition unfolds just beyond Boston. Hosted at the historic 
+ Mary Heaton Vorse House\, the home of the Provincetown Arts Society\, the 
+ companion show will feature ’Quin House artists Zainab Sumu\, Yu-Wen-Wu\
+ , Brian Zink\, and Lavaughn Jenkins. Members will be invited to Provinceto
+ wn in June for a private tour with the curators\, and an opportunity to en
+ gage directly with the artists. More information on Part two of the exhibi
+ tion to follow...\n\n*This event is complimentary and reserved for members
+  only. Light bites and refreshments will be served.
 URL:https://members.thequinhouse.com/events/186161
 CATEGORIES:‘Quin Chat
 END:VEVENT
@@ -201,20 +133,20 @@ DTEND;TZID=America/New_York:20260518T210000
 SUMMARY:Serendipity Dinner: The Ladies' Table
 LOCATION:The Muse
 DESCRIPTION:Category: Member Mixer\nPrice: $100.00 per person\nAvailability
- : 1 spot left\nStatus: Available\nEvent URL: https://members.thequinhouse.
- com/events/184142\n\nSavor an evening designed for meaningful connection a
- t this special Serendipity Dinner\, thoughtfully curated for women of The 
- ’Quin. Gather around an intimate table for a three-course dining experie
- nce\, complemented by expertly paired wines and engaging conversation.\n\n
- With gentle prompts to guide discussion\, the evening unfolds at an easy\,
-  convivial pace—inviting genuine dialogue\, shared stories\, and the opp
- ortunity to connect with fellow members in a warm\, welcoming setting. It�
- ��s a refined yet relaxed experience where great company and thoughtful cu
- isine come together seamlessly.\n\n*Tickets are $100 per person\, plus tax
- \, and are reserved for members only. Cancellations within 72 hours of the
-  event\, or failure to attend\, will be charged in full. Please inform us 
- of any dietary needs or restrictions by emailing happening@thequin.com at 
- least 72 hours before dinner service.
+ : 2 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
+ .com/events/184142\n\nSavor an evening designed for meaningful connection 
+ at this special Serendipity Dinner\, thoughtfully curated for women of The
+  ’Quin. Gather around an intimate table for a three-course dining experi
+ ence\, complemented by expertly paired wines and engaging conversation.\n\
+ nWith gentle prompts to guide discussion\, the evening unfolds at an easy\
+ , convivial pace—inviting genuine dialogue\, shared stories\, and the op
+ portunity to connect with fellow members in a warm\, welcoming setting. It
+ ’s a refined yet relaxed experience where great company and thoughtful c
+ uisine come together seamlessly.\n\n*Tickets are $100 per person\, plus ta
+ x\, and are reserved for members only. Cancellations within 72 hours of th
+ e event\, or failure to attend\, will be charged in full. Please inform us
+  of any dietary needs or restrictions by emailing happening@thequin.com at
+  least 72 hours before dinner service.
 URL:https://members.thequinhouse.com/events/184142
 CATEGORIES:Member Mixer
 END:VEVENT
@@ -281,20 +213,19 @@ DTSTART;TZID=America/New_York:20260519T170000
 DTEND;TZID=America/New_York:20260519T180000
 SUMMARY:Rooftop Rendezvous: Château Sainte Marguerite
 LOCATION:Sky Deck
-DESCRIPTION:Category: Food & Beverage\nPrice: Free\nAvailability: 1 spot le
- ft\nStatus: You are on Waitlist\nEvent URL: https://members.thequinhouse.c
- om/events/184139\n\nAs the season turns\, the Sky Deck reemerges as one of
-  The 'Quin's most coveted settings - an open-air retreat above the city\, 
- where warm afternoons stretch into golden hour and evenings unfold with ea
- se. \n\nThis year\, we are pleased to partner with Château Sainte Margue
- rite as our exclusive 'House rosé\, poured throughout the season alongsid
- e a signature rosé cocktail - bringing a fresh\, coastal sensibility to t
- he rooftop experience.\n\nTo mark the opening\, join us for a celebratory 
- rooftop rendezvous\, featuring a complimentary tasting of Château Sainte 
- Marguerite. Thoughtfully designed to capture the spirit of the season\, th
- e evening offers a first taste of summer at The ’Quin - effortless\, ele
- vated\, and best enjoyed above it all.\n\n*This event is complimentary and
-  reserved for members only.
+DESCRIPTION:Category: Food & Beverage\nPrice: Free\nStatus: You are on Wait
+ list\nEvent URL: https://members.thequinhouse.com/events/184139\n\nAs the 
+ season turns\, the Sky Deck reemerges as one of The 'Quin's most coveted s
+ ettings - an open-air retreat above the city\, where warm afternoons stret
+ ch into golden hour and evenings unfold with ease. \n\nThis year\, we are
+  pleased to partner with Château Sainte Marguerite as our exclusive 'Hous
+ e rosé\, poured throughout the season alongside a signature rosé cocktai
+ l - bringing a fresh\, coastal sensibility to the rooftop experience.\n\nT
+ o mark the opening\, join us for a celebratory rooftop rendezvous\, featur
+ ing a complimentary tasting of Château Sainte Marguerite. Thoughtfully de
+ signed to capture the spirit of the season\, the evening offers a first ta
+ ste of summer at The ’Quin - effortless\, elevated\, and best enjoyed ab
+ ove it all.\n\n*This event is complimentary and reserved for members only.
 URL:https://members.thequinhouse.com/events/184139
 CATEGORIES:Food & Beverage
 END:VEVENT
@@ -403,27 +334,27 @@ DTSTART;TZID=America/New_York:20260521T170000
 DTEND;TZID=America/New_York:20260521T183000
 SUMMARY:Rethinking Women's Health: The Head & The Heart
 LOCATION:Scottie's
-DESCRIPTION:Category: Health & Wellness\nPrice: Free\nAvailability: 1 spot 
- left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/event
- s/184947\n\n5:00PM Reception\, 5:30PM Discussion \nThe third installment 
- in our Women’s Health Series explores the powerful and often underexamin
- ed connection between cardiovascular and brain health—two systems deeply
-  intertwined in shaping how we live\, age\, and thrive\n\nThis thoughtfull
- y curated conversation brings together two leading physicians whose work r
- eflects both the science and the human experience of health. Dr. Ami Bhatt
- —Chief Innovation Officer at the American College of Cardiology and Chai
- r of the FDA Digital Health Advisory Committee—will explore the “heart
- ” of the conversation\, offering insight into cardiovascular health\, in
- novation\, and the evolving tools shaping prevention and care.\n\nCompleme
- nting this perspective\, Dr. Julia Loewenthal—Assistant Professor of Med
- icine at Harvard Medical School and a board-certified internist and geriat
- rician—will guide the “head” of the discussion\, focusing on brain h
- ealth\, aging\, and the ways cognitive conditions such as dementia uniquel
- y impact women.\n\nDesigned to inform and empower\, this program invites a
-  more expansive understanding of women’s health—one that recognizes th
- e deep interconnection between heart\, mind\, and longevity.\n\n*This even
- t is complimentary and reserved for members only. Complimentary light bite
- s will be served\, and beverages will be available for purchase.
+DESCRIPTION:Category: Health & Wellness\nPrice: Free\nStatus: Waitlist Only
+ \nEvent URL: https://members.thequinhouse.com/events/184947\n\n5:00PM Rece
+ ption\, 5:30PM Discussion \nThe third installment in our Women’s Health
+  Series explores the powerful and often underexamined connection between c
+ ardiovascular and brain health—two systems deeply intertwined in shaping
+  how we live\, age\, and thrive\n\nThis thoughtfully curated conversation 
+ brings together two leading physicians whose work reflects both the scienc
+ e and the human experience of health. Dr. Ami Bhatt—Chief Innovation Off
+ icer at the American College of Cardiology and Chair of the FDA Digital He
+ alth Advisory Committee—will explore the “heart” of the conversation
+ \, offering insight into cardiovascular health\, innovation\, and the evol
+ ving tools shaping prevention and care.\n\nComplementing this perspective\
+ , Dr. Julia Loewenthal—Assistant Professor of Medicine at Harvard Medica
+ l School and a board-certified internist and geriatrician—will guide the
+  “head” of the discussion\, focusing on brain health\, aging\, and the
+  ways cognitive conditions such as dementia uniquely impact women.\n\nDesi
+ gned to inform and empower\, this program invites a more expansive underst
+ anding of women’s health—one that recognizes the deep interconnection 
+ between heart\, mind\, and longevity.\n\n*This event is complimentary and 
+ reserved for members only. Complimentary light bites will be served\, and 
+ beverages will be available for purchase.
 URL:https://members.thequinhouse.com/events/184947
 CATEGORIES:Health & Wellness
 END:VEVENT
@@ -434,7 +365,7 @@ DTSTART;TZID=America/New_York:20260526T170000
 DTEND;TZID=America/New_York:20260526T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 4 spots left
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 3 spots left
  \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/18
  4146\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set 
  in an ambiant reserved space. This is your opportunity to connect with fel
@@ -564,20 +495,21 @@ DTSTART;TZID=America/New_York:20260601T170000
 DTEND;TZID=America/New_York:20260601T183000
 SUMMARY:'Quin Chat: How to Start Collecting
 LOCATION:The Reading Room
-DESCRIPTION:Category: The Arts\nPrice: Free\nStatus: Waitlist Only\nEvent U
- RL: https://members.thequinhouse.com/events/175777\n\n5:00PM Reception\, 5
- :30PM Discussion\nStep inside the art market with those who know it best. 
- Join ’Quin House Art Curator Kate Chertavian in conversation with Simon 
- Shaw\, Senior Advisor and Co-Head of Impressionist and Modern Art at Sothe
- by’s\, for an insider’s look at how collections are shaped\, valued\, 
- and sustained over time.\n\nDrawing on decades of experience across auctio
- n houses\, private collections\, and global markets\, the discussion will 
- explore how to build with intention—navigating auctions and galleries\, 
- evaluating works\, resisting fleeting trends\, and ultimately defining a p
- oint of view that is distinctly your own. Thoughtful\, candid\, and deeply
-  informed\, this is a rare opportunity to hear directly from two leading v
- oices at the highest levels of the art world.\n\n*This event is compliment
- ary and reserved for members only. Light refreshments will be served.
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 1 spot left\nSta
+ tus: Available\nEvent URL: https://members.thequinhouse.com/events/175777\
+ n\n5:00PM Reception\, 5:30PM Discussion\nStep inside the art market with t
+ hose who know it best. Join ’Quin House Art Curator Kate Chertavian in c
+ onversation with Simon Shaw\, Senior Advisor and Co-Head of Impressionist 
+ and Modern Art at Sotheby’s\, for an insider’s look at how collections
+  are shaped\, valued\, and sustained over time.\n\nDrawing on decades of e
+ xperience across auction houses\, private collections\, and global markets
+ \, the discussion will explore how to build with intention—navigating au
+ ctions and galleries\, evaluating works\, resisting fleeting trends\, and 
+ ultimately defining a point of view that is distinctly your own. Thoughtfu
+ l\, candid\, and deeply informed\, this is a rare opportunity to hear dire
+ ctly from two leading voices at the highest levels of the art world.\n\n*T
+ his event is complimentary and reserved for members only. Light refreshmen
+ ts will be served.
 URL:https://members.thequinhouse.com/events/175777
 CATEGORIES:The Arts
 END:VEVENT
@@ -588,7 +520,7 @@ DTSTART;TZID=America/New_York:20260601T173000
 DTEND;TZID=America/New_York:20260601T200000
 SUMMARY:Game Night: Bridge: Beyond Basics
 LOCATION:Scottie's
-DESCRIPTION:Category: Sports & Games\nPrice: Free\nAvailability: 30 spots l
+DESCRIPTION:Category: Sports & Games\nPrice: Free\nAvailability: 20 spots l
  eft\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events
  /185004\n\nDiscover the art and strategy of Bridge in a thoughtfully desig
  ned two-part series for members ready to deepen their understanding of the
@@ -617,7 +549,7 @@ DTEND;TZID=America/New_York:20260601T210000
 SUMMARY:Serendipity Dinner 
 LOCATION:The Muse
 DESCRIPTION:Category: Member Mixer\nPrice: $100.00 per person\nAvailability
- : 14 spots left\nStatus: You are Confirmed\nEvent URL: https://members.the
+ : 13 spots left\nStatus: You are Confirmed\nEvent URL: https://members.the
  quinhouse.com/events/175998\n\nJoin The ‘Quin House Managing Director\, 
  Matthias Kiehm\, for an evening of meaningful connections over a thoughtfu
  lly curated three-course dinner. Enjoy expertly paired wines as you engage
@@ -710,7 +642,7 @@ DTSTART;TZID=America/New_York:20260608T180000
 DTEND;TZID=America/New_York:20260608T210000
 SUMMARY:Community Dinner Table
 LOCATION:Café Q
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 9 spots left
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 8 spots left
  \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/17
  6008\n\nStart your week in good company with the Café Q Community dinner 
  table for members-only. Set aside for those looking to expand their social
