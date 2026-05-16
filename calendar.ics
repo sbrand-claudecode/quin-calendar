@@ -61,41 +61,6 @@ URL:https://members.thequinhouse.com/events/176385
 CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
-UID:quin-event-186161@thequinhouse.com
-DTSTAMP:20260515T170000Z
-DTSTART;TZID=America/New_York:20260515T170000
-DTEND;TZID=America/New_York:20260515T183000
-SUMMARY:'Quin Chat: The Art of Provincetown
-LOCATION:The Reading Room
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 4 spots left
- \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/18
- 6161\n\n5:00PM Reception\, 5:30PM Discussion\nStep into a dialogue at the 
- intersection of place\, history\, and contemporary practice. Join ’Quin 
- House Art Curator Kate Chertavian for an intimate conversation exploring t
- he newest special exhibition at The ’Quin\, presented in collaboration w
- ith the Provincetown Arts Society. On view from May 12th through July 14th
-  across the Lobby\, Grand Staircase\, and Reading Room\, the exhibition br
- ings together a vibrant group of Boston- and Provincetown-based artists—
- reflecting both the legacy and evolving spirit of one of America’s most 
- influential art colonies.\n\nPanelists include Gene Tartaglia\, Director o
- f the Provincetown Arts Society\; Christine McCarthy\, Chief Executive Off
- icer of the Provincetown Art Association & Museum\; and exhibiting artist 
- Megan Hinton\, whose interdisciplinary work reimagines the boundaries of p
- ainting\, sculpture\, and material. Together\, they will explore Provincet
- own’s rich artistic history and the vital role arts organizations contin
- ue to play in shaping and sustaining its creative community today.\n\nPart
-  two of this exhibition unfolds just beyond Boston. Hosted at the historic
-  Mary Heaton Vorse House\, the home of the Provincetown Arts Society\, the
-  companion show will feature ’Quin House artists Zainab Sumu\, Yu-Wen-Wu
- \, Brian Zink\, and Lavaughn Jenkins. Members will be invited to Provincet
- own in June for a private tour with the curators\, and an opportunity to e
- ngage directly with the artists. More information on Part two of the exhib
- ition to follow...\n\n*This event is complimentary and reserved for member
- s only. Light bites and refreshments will be served.
-URL:https://members.thequinhouse.com/events/186161
-CATEGORIES:‘Quin Chat
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-184208@thequinhouse.com
 DTSTAMP:20260518T180000Z
 DTSTART;TZID=America/New_York:20260518T180000
@@ -158,32 +123,32 @@ DTEND;TZID=America/New_York:20260519T150000
 SUMMARY: 90 Minutes of Innovation: Leadership\, Governance and the Long Vie
  w 
 LOCATION:The Pub
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 1 spot left\
- nStatus: You are on Waitlist\nEvent URL: https://members.thequinhouse.com/
- events/169178\n\n1:00PM Program\, 2:30PM Networking\nWhat does it take to 
- guide institutions\, advise CEOs\, and shape strategy at the highest level
- s across decades of transformation?\n\nIn the latest edition of 90 Minutes
-  of Innovation*\, John Werner—venture capitalist\, MIT lecturer\, and *F
- orbes* AI columnist—sits down with David Mussafer\, Chairman of Advent I
- nternational and one of the most influential leaders in global private eq
- uity.\n\nWith a career spanning decades\, Mussafer has helped build Advent
-  into one of the world’s top ten private equity firms\, headquartered h
- ere in Boston\, while also advising companies and serving on boards across
-  industries. Drawing from the arc of his life’s work\, the conversation
-  will weave together personal insights and professional milestones\, offe
- ring a perspective that sits at the intersection of capital\, governance\,
-  and long-term value creation—where the biggest decisions are often the 
- least visible.\n\nTogether\, they will explore what great companies and le
- adership teams have in common\, how boards actually function—and how the
- y must evolve—the role of private equity in building\, not just acquirin
- g\, companies\, and how leaders navigate uncertainty\, cycles\, and long-t
- erm strategy. The conversation will also draw on lessons from decades of i
- nvesting across sectors and geographies.\n\nExpect a thoughtful\, behind-t
- he-scenes conversation about how decisions get made at the highest levels�
- ��where governance meets growth\, and strategy meets execution.\n\nFrom bo
- ardrooms to global markets—one stage\, one conversation\, not to be miss
- ed.\n\n*This event is complimentary and reserved for members only. Light b
- ites and refreshments will be served.
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nStatus: You are on Waitlis
+ t\nEvent URL: https://members.thequinhouse.com/events/169178\n\n1:00PM Pro
+ gram\, 2:30PM Networking\nWhat does it take to guide institutions\, advise
+  CEOs\, and shape strategy at the highest levels across decades of transfo
+ rmation?\n\nIn the latest edition of 90 Minutes of Innovation*\, John Wern
+ er—venture capitalist\, MIT lecturer\, and *Forbes* AI columnist—sits 
+ down with David Mussafer\, Chairman of Advent International and one of th
+ e most influential leaders in global private equity.\n\nWith a career span
+ ning decades\, Mussafer has helped build Advent into one of the world’s
+  top ten private equity firms\, headquartered here in Boston\, while also 
+ advising companies and serving on boards across industries. Drawing from 
+ the arc of his life’s work\, the conversation will weave together person
+ al insights and professional milestones\, offering a perspective that sit
+ s at the intersection of capital\, governance\, and long-term value creati
+ on—where the biggest decisions are often the least visible.\n\nTogether\
+ , they will explore what great companies and leadership teams have in comm
+ on\, how boards actually function—and how they must evolve—the role of
+  private equity in building\, not just acquiring\, companies\, and how lea
+ ders navigate uncertainty\, cycles\, and long-term strategy. The conversat
+ ion will also draw on lessons from decades of investing across sectors and
+  geographies.\n\nExpect a thoughtful\, behind-the-scenes conversation abou
+ t how decisions get made at the highest levels—where governance meets gr
+ owth\, and strategy meets execution.\n\nFrom boardrooms to global markets�
+ ��one stage\, one conversation\, not to be missed.\n\n*This event is compl
+ imentary and reserved for members only. Light bites and refreshments will 
+ be served.
 URL:https://members.thequinhouse.com/events/169178
 CATEGORIES:‘Quin Chat
 END:VEVENT
@@ -236,17 +201,16 @@ DTSTART;TZID=America/New_York:20260519T170000
 DTEND;TZID=America/New_York:20260519T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 1 spot left\
- nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/184
- 145\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set i
- n an ambiant reserved space. This is your opportunity to connect with fell
- ow members\, exchange ideas\, and cultivate meaningful relationships.\n\nW
- hether you're sparking new collaborations\, sharing insights\, or simply e
- njoying great conversation\, the Member Mingle is the perfect way to engag
- e with our dynamic community. Don’t miss the chance to connect\, inspire
- \, and be inspired!\n\n*This event is complimentary and reserved for membe
- rs only. Complimentary light bites will be served\, and beverages will be 
- available for purchase.
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nStatus: Waitlist Only\nEve
+ nt URL: https://members.thequinhouse.com/events/184145\n\nJoin us for our 
+ weekly Member Mingle\, an inclusive gathering set in an ambiant reserved s
+ pace. This is your opportunity to connect with fellow members\, exchange i
+ deas\, and cultivate meaningful relationships.\n\nWhether you're sparking 
+ new collaborations\, sharing insights\, or simply enjoying great conversat
+ ion\, the Member Mingle is the perfect way to engage with our dynamic comm
+ unity. Don’t miss the chance to connect\, inspire\, and be inspired!\n\n
+ *This event is complimentary and reserved for members only. Complimentary 
+ light bites will be served\, and beverages will be available for purchase.
 URL:https://members.thequinhouse.com/events/184145
 CATEGORIES:Member Mixer
 END:VEVENT
@@ -391,17 +355,16 @@ DTSTART;TZID=America/New_York:20260526T170000
 DTEND;TZID=America/New_York:20260526T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 2 spots left
- \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/18
- 4146\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set 
- in an ambiant reserved space. This is your opportunity to connect with fel
- low members\, exchange ideas\, and cultivate meaningful relationships.\n\n
- Whether you're sparking new collaborations\, sharing insights\, or simply 
- enjoying great conversation\, the Member Mingle is the perfect way to enga
- ge with our dynamic community. Don’t miss the chance to connect\, inspir
- e\, and be inspired!\n\n*This event is complimentary and reserved for memb
- ers only. Complimentary light bites will be served\, and beverages will be
-  available for purchase.
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nStatus: Waitlist Only\nEve
+ nt URL: https://members.thequinhouse.com/events/184146\n\nJoin us for our 
+ weekly Member Mingle\, an inclusive gathering set in an ambiant reserved s
+ pace. This is your opportunity to connect with fellow members\, exchange i
+ deas\, and cultivate meaningful relationships.\n\nWhether you're sparking 
+ new collaborations\, sharing insights\, or simply enjoying great conversat
+ ion\, the Member Mingle is the perfect way to engage with our dynamic comm
+ unity. Don’t miss the chance to connect\, inspire\, and be inspired!\n\n
+ *This event is complimentary and reserved for members only. Complimentary 
+ light bites will be served\, and beverages will be available for purchase.
 URL:https://members.thequinhouse.com/events/184146
 CATEGORIES:Member Mixer
 END:VEVENT
@@ -497,20 +460,19 @@ DTEND;TZID=America/New_York:20260530T140000
 SUMMARY:Serendipity Brunch
 LOCATION:Lunasol
 DESCRIPTION:Category: Member Mixer\nPrice: $65.00 per person\nAvailability:
-  13 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
- .com/events/184143\n\nJoin us for a Serendipity Saturday Brunch that invit
- es members to enjoy great conversation\, in good company. Set in Lunasol\,
-  the afternoon unfolds with an easy rhythm—a thoughtful menu\, enthusia
- stic members\, and a curated card deck of conversation prompts to inspire 
- connections.\n\nBrunch will be served family-style\, featuring pastries\, 
- fruit\, and parfaits to begin\, followed by a choice of entrée and genero
- us sides. Mimosas and Bloody Marys will be available throughout.\n\nSpend 
- the day at The 'House—unhurried\, social\, and effortlessly enjoyable.\
- n\n*Tickets are $65 per person\, plus tax\, and are reserved for members o
- nly. Cancellations within 48 hours of the event\, or failure to attend\, w
- ill be charged in full. Please inform us of any dietary needs or restricti
- ons by emailing happening@thequin.com at least 72 hours prior to the event
- .
+  7 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse.
+ com/events/184143\n\nJoin us for a Serendipity Saturday Brunch that invite
+ s members to enjoy great conversation\, in good company. Set in Lunasol\, 
+ the afternoon unfolds with an easy rhythm—a thoughtful menu\, enthusias
+ tic members\, and a curated card deck of conversation prompts to inspire c
+ onnections.\n\nBrunch will be served family-style\, featuring pastries\, f
+ ruit\, and parfaits to begin\, followed by a choice of entrée and generou
+ s sides. Mimosas and Bloody Marys will be available throughout.\n\nSpend t
+ he day at The 'House—unhurried\, social\, and effortlessly enjoyable.\n
+ \n*Tickets are $65 per person\, plus tax\, and are reserved for members on
+ ly. Cancellations within 48 hours of the event\, or failure to attend\, wi
+ ll be charged in full. Please inform us of any dietary needs or restrictio
+ ns by emailing happening@thequin.com at least 72 hours prior to the event.
 URL:https://members.thequinhouse.com/events/184143
 CATEGORIES:Member Mixer
 END:VEVENT
@@ -545,24 +507,23 @@ DTSTART;TZID=America/New_York:20260601T173000
 DTEND;TZID=America/New_York:20260601T200000
 SUMMARY:Game Night: Bridge: Beyond Basics
 LOCATION:Scottie's
-DESCRIPTION:Category: Sports & Games\nPrice: Free\nAvailability: 20 spots l
- eft\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events
- /185004\n\nDiscover the art and strategy of Bridge in a thoughtfully desig
- ned two-part series for members ready to deepen their understanding of the
-  game. Open to those who joined our March and May gatherings—as well as 
- anyone with a foundational knowledge of Bridge—these sessions offer the 
- perfect next step for building confidence at the table.\n\nLed by an exper
- t guest instructor\, each evening will blend guided play with focused inst
- ruction\, emphasizing the nuances of bidding while continuing to refine ov
- erall play tactics. Expect a relaxed\, hands-on atmosphere with ample oppo
- rtunity to play multiple hands\, ask questions\, and develop your strategy
-  in real time.\n\nBy the series’ end\, members will feel equipped to gat
- her and play with ease\, carrying forward both the skill and the spirit of
-  this timeless game alongside fellow members.\n\n*This event is compliment
- ary and reserved for members only. Please note that this is a two-part ser
- ies\; registration for the first session on June 1st will automatically en
- roll you in the second session on June 8th\, ensuring a cohesive learning 
- experience across both evenings.
+DESCRIPTION:Category: Sports & Games\nPrice: Free\nAvailability: 8 spots le
+ ft\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/
+ 185004\n\nDiscover the art and strategy of Bridge in a thoughtfully design
+ ed two-part series for members ready to deepen their understanding of the 
+ game. Open to those who joined our March and May gatherings—as well as a
+ nyone with a foundational knowledge of Bridge—these sessions offer the p
+ erfect next step for building confidence at the table.\n\nLed by an expert
+  guest instructor\, each evening will blend guided play with focused instr
+ uction. Expect a relaxed\, hands-on atmosphere with ample opportunity to p
+ lay multiple hands\, ask questions\, and develop your strategy in real tim
+ e.\n\nBy the series’ end\, members will feel equipped to gather and play
+  with ease\, carrying forward both the skill and the spirit of this timele
+ ss game alongside fellow members.\n\n*This event is complimentary and rese
+ rved for members only. Please note that this is a two-part series\; regist
+ ration for the first session on June 1st will automatically enroll you in 
+ the second session on June 8th\, ensuring a cohesive learning experience a
+ cross both evenings.
 URL:https://members.thequinhouse.com/events/185004
 CATEGORIES:Sports & Games
 END:VEVENT
@@ -574,7 +535,7 @@ DTEND;TZID=America/New_York:20260601T210000
 SUMMARY:Serendipity Dinner 
 LOCATION:The Muse
 DESCRIPTION:Category: Member Mixer\nPrice: $100.00 per person\nAvailability
- : 12 spots left\nStatus: You are Confirmed\nEvent URL: https://members.the
+ : 11 spots left\nStatus: You are Confirmed\nEvent URL: https://members.the
  quinhouse.com/events/175998\n\nJoin The ‘Quin House Managing Director\, 
  Matthias Kiehm\, for an evening of meaningful connections over a thoughtfu
  lly curated three-course dinner. Enjoy expertly paired wines as you engage
@@ -627,7 +588,7 @@ DTSTART;TZID=America/New_York:20260602T170000
 DTEND;TZID=America/New_York:20260602T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 39 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 38 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  86694\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in an ambiant reserved space. This is your opportunity to connect with fe
@@ -683,6 +644,34 @@ URL:https://members.thequinhouse.com/events/176008
 CATEGORIES:Member Mixer
 END:VEVENT
 BEGIN:VEVENT
+UID:quin-event-187622@thequinhouse.com
+DTSTAMP:20260610T170000Z
+DTSTART;TZID=America/New_York:20260610T170000
+DTEND;TZID=America/New_York:20260610T183000
+SUMMARY:Author Talk: "Checkmate" with Ben Mezrich
+LOCATION:The Pub
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 80 spots left\nS
+ tatus: futureSale\nEvent URL: https://members.thequinhouse.com/events/1876
+ 22\n\n5:00PM Reception\, 5:30PM Discussion \nStep into the high-stakes wo
+ rld of Checkmate with bestselling author Ben Mezrich—an electrifying tru
+ e story that unravels the biggest scandal in modern chess.\n\nIn September
+  2022\, the chess world was shaken when nineteen-year-old American prodigy
+  Hans Niemann defeated reigning world champion Magnus Carlsen in a stunnin
+ g upset. Days later\, Carlsen accused Niemann of cheating—an allegation 
+ that ignited a global firestorm\, drawing in Chess.com\, the media\, and a
+  rapidly expanding digital audience. What followed was a dramatic collisio
+ n of reputation\, rivalry\, and power.\n\nBut Checkmate is about far more 
+ than controversy. It’s a portrait of ambition at its sharpest edge—a y
+ oung player willing to risk everything to rise\, and a legendary figure de
+ termined to defend his legacy. Set against the backdrop of a centuries-old
+  game transformed by streaming\, sponsorships\, and Silicon Valley influen
+ ce\, Mezrich brings readers inside a world that is as cutthroat as it is c
+ erebral.\n\n*This event is complimentary and reserved for members only. Li
+ ght bites and refreshments will be served.
+URL:https://members.thequinhouse.com/events/187622
+CATEGORIES:The Arts
+END:VEVENT
+BEGIN:VEVENT
 UID:quin-event-176372@thequinhouse.com
 DTSTAMP:20260610T180000Z
 DTSTART;TZID=America/New_York:20260610T180000
@@ -698,6 +687,36 @@ DESCRIPTION:Category: The Arts\nPrice: Free / Included\nStatus: Available\n
  nt is complimentary and reserved for members\, plus three guests. Seating 
  is first come\, first served.
 URL:https://members.thequinhouse.com/events/176372
+CATEGORIES:The Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-186725@thequinhouse.com
+DTSTAMP:20260611T170000Z
+DTSTART;TZID=America/New_York:20260611T170000
+DTEND;TZID=America/New_York:20260611T190000
+SUMMARY:Wit & Word: A Performance in Written Humor
+LOCATION:Scottie's
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 80 spots left\nS
+ tatus: futureSale\nEvent URL: https://members.thequinhouse.com/events/1867
+ 25\n\n5:30PM Reception\, 6:00PM Performance\nWit & Word offers an evening 
+ where humor is written\, spoken\, and felt—bringing together a standout 
+ group of writers for a live\, spoken-word style performance that celebrate
+ s the craft of comedy on the page. Moving beyond stand-up\, the night unfo
+ lds through essays\, satire\, and personal storytelling—sharp\, candid\,
+  and unexpectedly moving.\n\nGuiding the evening is award-winning comedian
+  and The Moth regular Bethany Van Delft\, whose distinctive voice and gr
+ ounded storytelling bring warmth\, wit\, and a natural sense of connection
+  to the stage.\n\nThe lineup features Tracy McArdle Brady\, Founder and Ch
+ ief Humorist of Wit & Word\; Steve Almond\, New York Times bestselling a
+ uthor\; Lisa Borders\, award-winning novelist and McSweeney’s contributo
+ r\; Neil Martinez-Belkin\, New York Times bestselling co-author and form
+ er music editor of XXL Magazine\; and Viktoria Shulevich\, humor writer p
+ ublished in The New Yorker and McSweeney’s. Together\, they explore th
+ e absurdities and revelations of modern adulting through humor that is as 
+ insightful as it is entertaining.\n\n*This event is complimentary and rese
+ rved for members only. Light refreshments will be served and beverages wil
+ l be available for purchase.
+URL:https://members.thequinhouse.com/events/186725
 CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
