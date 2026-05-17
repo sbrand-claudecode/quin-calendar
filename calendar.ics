@@ -24,43 +24,6 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:quin-event-176385@thequinhouse.com
-DTSTAMP:20260514T173000Z
-DTSTART;VALUE=DATE:20260514
-DTEND;VALUE=DATE:20260517
-SUMMARY:A Taste of Twin Farms
-LOCATION:Café Q
-DESCRIPTION:Category: Food & Beverage\nPrice: Free / Included\nStatus: Avai
- lable\nTime: 5:30 PM – 10 PM\nEvent URL: https://members.thequinhouse.co
- m/events/176385\n\nExperience the refined elegance of Twin Farms this May 
- as Café Q welcomes the celebrated culinary team from the two Michelin key
-  Vermont resort for an exclusive three-day takeover.\n\nLed by Executive C
- hef Nathan Rich—recognized for his innovative approach to luxury dining 
- and commitment to seasonal\, locally sourced ingredients—alongside Chef 
- Sylvain Courbet\, whose Alpine roots and global culinary journey inform hi
- s thoughtful\, ingredient-driven cuisine\, this special residency brings t
- he spirit of Twin Farms to The ‘Quin House.\n\nThroughout the collaborat
- ion\, members are invited to experience Twin Farms across multiple moments
-  of the day. Breakfast and lunch will feature a selection of thoughtfully 
- composed specials\, offering a preview of the chefs’ seasonal approach\,
-  while dinner will transform Café Q into a full Twin Farms takeover—sho
- wcasing a complete menu designed to highlight the very best of spring.\n\n
- Begin your evening with vibrant starters such as Lobster Tacos with Ossetr
- a caviar\, Green Gazpacho with avocado and spring peas\, or Cavatelli with
-  morel mushrooms and ramp butter. Entrées highlight refined\, ingredient-
- forward dishes including Vermont Wagyu Striploin\, Truffled Chicken\, Icel
- andic Cod with lobster cream\, and Curried Cauliflower with saffron broth.
-  Conclude with elegant desserts like Vermont Ricotta Beignets with maple c
- ream or a decadent Three Chocolate Pavé.\n\nRooted in the rich agricultur
- al traditions of Vermont and inspired by global technique\, each dish refl
- ects Twin Farms’ dedication to craftsmanship\, storytelling\, and an imm
- ersive dining experience.\n\nDuring dinner service\, Café Q’s regular m
- enu will be set aside\, allowing this one-of-a-kind culinary experience to
-  take center stage.\n\nMake a Reservation.
-URL:https://members.thequinhouse.com/events/176385
-CATEGORIES:Food & Beverage
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-184208@thequinhouse.com
 DTSTAMP:20260518T180000Z
 DTSTART;TZID=America/New_York:20260518T180000
