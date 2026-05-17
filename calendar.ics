@@ -68,7 +68,7 @@ DTEND;TZID=America/New_York:20260518T190000
 SUMMARY:Author's Circle Book Club: "Love & Other Monsters" with Emily Frank
  lin
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 2 spots left\nSt
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 4 spots left\nSt
  atus: Available\nEvent URL: https://members.thequinhouse.com/events/184208
  \n\nBookmark the date for a captivating conversation exploring Love & Oth
  er Monsters by Emily Franklin—a richly imagined novel set against the ha
@@ -178,19 +178,20 @@ DTSTART;TZID=America/New_York:20260519T170000
 DTEND;TZID=America/New_York:20260519T180000
 SUMMARY:Rooftop Rendezvous: Château Sainte Marguerite
 LOCATION:Sky Deck
-DESCRIPTION:Category: Food & Beverage\nPrice: Free\nStatus: You are on Wait
- list\nEvent URL: https://members.thequinhouse.com/events/184139\n\nAs the 
- season turns\, the Sky Deck reemerges as one of The 'Quin's most coveted s
- ettings - an open-air retreat above the city\, where warm afternoons stret
- ch into golden hour and evenings unfold with ease. \n\nThis year\, we are
-  pleased to partner with Château Sainte Marguerite as our exclusive 'Hous
- e rosé\, poured throughout the season alongside a signature rosé cocktai
- l - bringing a fresh\, coastal sensibility to the rooftop experience.\n\nT
- o mark the opening\, join us for a celebratory rooftop rendezvous\, featur
- ing a complimentary tasting of Château Sainte Marguerite. Thoughtfully de
- signed to capture the spirit of the season\, the evening offers a first ta
- ste of summer at The ’Quin - effortless\, elevated\, and best enjoyed ab
- ove it all.\n\n*This event is complimentary and reserved for members only.
+DESCRIPTION:Category: Food & Beverage\nPrice: Free\nAvailability: 1 spot le
+ ft\nStatus: You are on Waitlist\nEvent URL: https://members.thequinhouse.c
+ om/events/184139\n\nAs the season turns\, the Sky Deck reemerges as one of
+  The 'Quin's most coveted settings - an open-air retreat above the city\, 
+ where warm afternoons stretch into golden hour and evenings unfold with ea
+ se. \n\nThis year\, we are pleased to partner with Château Sainte Margue
+ rite as our exclusive 'House rosé\, poured throughout the season alongsid
+ e a signature rosé cocktail - bringing a fresh\, coastal sensibility to t
+ he rooftop experience.\n\nTo mark the opening\, join us for a celebratory 
+ rooftop rendezvous\, featuring a complimentary tasting of Château Sainte 
+ Marguerite. Thoughtfully designed to capture the spirit of the season\, th
+ e evening offers a first taste of summer at The ’Quin - effortless\, ele
+ vated\, and best enjoyed above it all.\n\n*This event is complimentary and
+  reserved for members only.
 URL:https://members.thequinhouse.com/events/184139
 CATEGORIES:Food & Beverage
 END:VEVENT
@@ -201,17 +202,16 @@ DTSTART;TZID=America/New_York:20260519T170000
 DTEND;TZID=America/New_York:20260519T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 1 spot left\
- nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/184
- 145\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set i
- n an ambiant reserved space. This is your opportunity to connect with fell
- ow members\, exchange ideas\, and cultivate meaningful relationships.\n\nW
- hether you're sparking new collaborations\, sharing insights\, or simply e
- njoying great conversation\, the Member Mingle is the perfect way to engag
- e with our dynamic community. Don’t miss the chance to connect\, inspire
- \, and be inspired!\n\n*This event is complimentary and reserved for membe
- rs only. Complimentary light bites will be served\, and beverages will be 
- available for purchase.
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nStatus: Waitlist Only\nEve
+ nt URL: https://members.thequinhouse.com/events/184145\n\nJoin us for our 
+ weekly Member Mingle\, an inclusive gathering set in an ambiant reserved s
+ pace. This is your opportunity to connect with fellow members\, exchange i
+ deas\, and cultivate meaningful relationships.\n\nWhether you're sparking 
+ new collaborations\, sharing insights\, or simply enjoying great conversat
+ ion\, the Member Mingle is the perfect way to engage with our dynamic comm
+ unity. Don’t miss the chance to connect\, inspire\, and be inspired!\n\n
+ *This event is complimentary and reserved for members only. Complimentary 
+ light bites will be served\, and beverages will be available for purchase.
 URL:https://members.thequinhouse.com/events/184145
 CATEGORIES:Member Mixer
 END:VEVENT
@@ -461,7 +461,7 @@ DTEND;TZID=America/New_York:20260530T140000
 SUMMARY:Serendipity Brunch
 LOCATION:Lunasol
 DESCRIPTION:Category: Member Mixer\nPrice: $65.00 per person\nAvailability:
-  5 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse.
+  4 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse.
  com/events/184143\n\nJoin us for a Serendipity Saturday Brunch that invite
  s members to enjoy great conversation\, in good company. Set in Lunasol\, 
  the afternoon unfolds with an easy rhythm—a thoughtful menu\, enthusias
@@ -508,7 +508,7 @@ DTSTART;TZID=America/New_York:20260601T173000
 DTEND;TZID=America/New_York:20260601T200000
 SUMMARY:Game Night: Bridge: Beyond Basics
 LOCATION:Scottie's
-DESCRIPTION:Category: Sports & Games\nPrice: Free\nAvailability: 5 spots le
+DESCRIPTION:Category: Sports & Games\nPrice: Free\nAvailability: 2 spots le
  ft\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/
  185004\n\nDiscover the art and strategy of Bridge in a thoughtfully design
  ed two-part series for members ready to deepen their understanding of the 
@@ -536,7 +536,7 @@ DTEND;TZID=America/New_York:20260601T210000
 SUMMARY:Serendipity Dinner 
 LOCATION:The Muse
 DESCRIPTION:Category: Member Mixer\nPrice: $100.00 per person\nAvailability
- : 9 spots left\nStatus: You are Confirmed\nEvent URL: https://members.theq
+ : 8 spots left\nStatus: You are Confirmed\nEvent URL: https://members.theq
  uinhouse.com/events/175998\n\nJoin The ‘Quin House Managing Director\, M
  atthias Kiehm\, for an evening of meaningful connections over a thoughtful
  ly curated three-course dinner. Enjoy expertly paired wines as you engage 
@@ -629,7 +629,7 @@ DTSTART;TZID=America/New_York:20260608T180000
 DTEND;TZID=America/New_York:20260608T210000
 SUMMARY:Community Dinner Table
 LOCATION:Café Q
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 6 spots left
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 4 spots left
  \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/17
  6008\n\nStart your week in good company with the Café Q Community dinner 
  table for members-only. Set aside for those looking to expand their social
