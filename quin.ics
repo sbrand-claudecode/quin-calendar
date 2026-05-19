@@ -24,62 +24,26 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:quin-event-169178@thequinhouse.com
-DTSTAMP:20260519T130000Z
-DTSTART;TZID=America/New_York:20260519T130000
-DTEND;TZID=America/New_York:20260519T150000
-SUMMARY: 90 Minutes of Innovation: Leadership\, Governance and the Long Vie
- w 
-LOCATION:The Pub
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nStatus: You are on Waitlis
- t\nEvent URL: https://members.thequinhouse.com/events/169178\n\n1:00PM Pro
- gram\, 2:30PM Networking\nWhat does it take to guide institutions\, advise
-  CEOs\, and shape strategy at the highest levels across decades of transfo
- rmation?\n\nIn the latest edition of 90 Minutes of Innovation*\, John Wern
- er—venture capitalist\, MIT lecturer\, and *Forbes* AI columnist—sits 
- down with David Mussafer\, Chairman of Advent International and one of th
- e most influential leaders in global private equity.\n\nWith a career span
- ning decades\, Mussafer has helped build Advent into one of the world’s
-  top ten private equity firms\, headquartered here in Boston\, while also 
- advising companies and serving on boards across industries. Drawing from 
- the arc of his life’s work\, the conversation will weave together person
- al insights and professional milestones\, offering a perspective that sit
- s at the intersection of capital\, governance\, and long-term value creati
- on—where the biggest decisions are often the least visible.\n\nTogether\
- , they will explore what great companies and leadership teams have in comm
- on\, how boards actually function—and how they must evolve—the role of
-  private equity in building\, not just acquiring\, companies\, and how lea
- ders navigate uncertainty\, cycles\, and long-term strategy. The conversat
- ion will also draw on lessons from decades of investing across sectors and
-  geographies.\n\nExpect a thoughtful\, behind-the-scenes conversation abou
- t how decisions get made at the highest levels—where governance meets gr
- owth\, and strategy meets execution.\n\nFrom boardrooms to global markets�
- ��one stage\, one conversation\, not to be missed.\n\n*This event is compl
- imentary and reserved for members only. Light bites and refreshments will 
- be served.
-URL:https://members.thequinhouse.com/events/169178
-CATEGORIES:‘Quin Chat
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-184139@thequinhouse.com
 DTSTAMP:20260519T170000Z
 DTSTART;TZID=America/New_York:20260519T170000
 DTEND;TZID=America/New_York:20260519T180000
 SUMMARY:Rooftop Rendezvous: Château Sainte Marguerite
 LOCATION:Sky Deck
-DESCRIPTION:Category: Food & Beverage\nPrice: Free\nStatus: You are on Wait
- list\nEvent URL: https://members.thequinhouse.com/events/184139\n\nAs the 
- season turns\, the Sky Deck reemerges as one of The 'Quin's most coveted s
- ettings - an open-air retreat above the city\, where warm afternoons stret
- ch into golden hour and evenings unfold with ease. \n\nThis year\, we are
-  pleased to partner with Château Sainte Marguerite as our exclusive 'Hous
- e rosé\, poured throughout the season alongside a signature rosé cocktai
- l - bringing a fresh\, coastal sensibility to the rooftop experience.\n\nT
- o mark the opening\, join us for a celebratory rooftop rendezvous\, featur
- ing a complimentary tasting of Château Sainte Marguerite. Thoughtfully de
- signed to capture the spirit of the season\, the evening offers a first ta
- ste of summer at The ’Quin - effortless\, elevated\, and best enjoyed ab
- ove it all.\n\n*This event is complimentary and reserved for members only.
+DESCRIPTION:Category: Food & Beverage\nPrice: Free\nAvailability: 1 spot le
+ ft\nStatus: You are on Waitlist\nEvent URL: https://members.thequinhouse.c
+ om/events/184139\n\nAs the season turns\, the Sky Deck reemerges as one of
+  The 'Quin's most coveted settings - an open-air retreat above the city\, 
+ where warm afternoons stretch into golden hour and evenings unfold with ea
+ se. \n\nThis year\, we are pleased to partner with Château Sainte Margue
+ rite as our exclusive 'House rosé\, poured throughout the season alongsid
+ e a signature rosé cocktail - bringing a fresh\, coastal sensibility to t
+ he rooftop experience.\n\nTo mark the opening\, join us for a celebratory 
+ rooftop rendezvous\, featuring a complimentary tasting of Château Sainte 
+ Marguerite. Thoughtfully designed to capture the spirit of the season\, th
+ e evening offers a first taste of summer at The ’Quin - effortless\, ele
+ vated\, and best enjoyed above it all.\n\n*This event is complimentary and
+  reserved for members only.
 URL:https://members.thequinhouse.com/events/184139
 CATEGORIES:Food & Beverage
 END:VEVENT
@@ -90,16 +54,17 @@ DTSTART;TZID=America/New_York:20260519T180000
 DTEND;TZID=America/New_York:20260519T190000
 SUMMARY:Stand Up Comedy: Steve Sweeney | 6:00PM Show
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nStatus: You are Confirmed\nEve
- nt URL: https://members.thequinhouse.com/events/176366\n\nBoston’s best 
- return to the ’House! Join us for a night of comedy featuring headliner 
- Steve Sweeney\, a renowned comedian with decades of experience in the come
- dy scene. His unique style blends storytelling with sharp wit\, making eve
- ry performance unforgettable.\n\nGrab a drink from the bar beginning at 5:
- 30PM\, then settle in for an evening of laughs—seating is first come\, f
- irst served.\n\nMake a night of it with a pre-show burger and a beer from 
- The Pub. Dining walk-ins are welcome.\n\n*This event is complimentary and 
- available to members\, plus one registered guest.
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 1 spot left\nSta
+ tus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/events
+ /176366\n\nBoston’s best return to the ’House! Join us for a night of 
+ comedy featuring headliner Steve Sweeney\, a renowned comedian with decade
+ s of experience in the comedy scene. His unique style blends storytelling 
+ with sharp wit\, making every performance unforgettable.\n\nGrab a drink f
+ rom the bar beginning at 5:30PM\, then settle in for an evening of laughs�
+ ��seating is first come\, first served.\n\nMake a night of it with a pre-s
+ how burger and a beer from The Pub. Dining walk-ins are welcome.\n\n*This 
+ event is complimentary and available to members\, plus one registered gues
+ t.
 URL:https://members.thequinhouse.com/events/176366
 CATEGORIES:The Arts
 END:VEVENT
