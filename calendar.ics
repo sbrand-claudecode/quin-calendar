@@ -31,7 +31,7 @@ DTEND;TZID=America/New_York:20260519T150000
 SUMMARY: 90 Minutes of Innovation: Leadership\, Governance and the Long Vie
  w 
 LOCATION:The Pub
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 3 spots left
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 4 spots left
  \nStatus: You are on Waitlist\nEvent URL: https://members.thequinhouse.com
  /events/169178\n\n1:00PM Program\, 2:30PM Networking\nWhat does it take to
   guide institutions\, advise CEOs\, and shape strategy at the highest leve
@@ -129,16 +129,16 @@ DTSTART;TZID=America/New_York:20260519T180000
 DTEND;TZID=America/New_York:20260519T190000
 SUMMARY:Stand Up Comedy: Steve Sweeney | 6:00PM Show
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 4 spots left\nSt
- atus: Available\nEvent URL: https://members.thequinhouse.com/events/176366
- \n\nBoston’s best return to the ’House! Join us for a night of comedy 
- featuring headliner Steve Sweeney\, a renowned comedian with decades of ex
- perience in the comedy scene. His unique style blends storytelling with sh
- arp wit\, making every performance unforgettable.\n\nGrab a drink from the
-  bar beginning at 5:30PM\, then settle in for an evening of laughs—seati
- ng is first come\, first served.\n\nMake a night of it with a pre-show bur
- ger and a beer from The Pub. Dining walk-ins are welcome.\n\n*This event i
- s complimentary and available to members\, plus one registered guest.
+DESCRIPTION:Category: The Arts\nPrice: Free\nStatus: You are Confirmed\nEve
+ nt URL: https://members.thequinhouse.com/events/176366\n\nBoston’s best 
+ return to the ’House! Join us for a night of comedy featuring headliner 
+ Steve Sweeney\, a renowned comedian with decades of experience in the come
+ dy scene. His unique style blends storytelling with sharp wit\, making eve
+ ry performance unforgettable.\n\nGrab a drink from the bar beginning at 5:
+ 30PM\, then settle in for an evening of laughs—seating is first come\, f
+ irst served.\n\nMake a night of it with a pre-show burger and a beer from 
+ The Pub. Dining walk-ins are welcome.\n\n*This event is complimentary and 
+ available to members\, plus one registered guest.
 URL:https://members.thequinhouse.com/events/176366
 CATEGORIES:The Arts
 END:VEVENT
@@ -149,16 +149,16 @@ DTSTART;TZID=America/New_York:20260519T200000
 DTEND;TZID=America/New_York:20260519T210000
 SUMMARY:Stand Up Comedy: Steve Sweeney | 8:00PM Show
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nStatus: Waitlist Only\nEvent U
- RL: https://members.thequinhouse.com/events/176367\n\nBoston’s best retu
- rn to the ’House! Join us for a night of comedy featuring headliner Stev
- e Sweeney\, a renowned comedian with decades of experience in the comedy s
- cene. His unique style blends storytelling with sharp wit\, making every p
- erformance unforgettable.\n\nGrab a drink from the bar beginning at 5:30PM
- \, then settle in for an evening of laughs—seating is first come\, first
-  served.\n\nMake a night of it with a pre-show burger and a beer from The 
- Pub. Dining walk-ins are welcome.\n\n*This event is complimentary and avai
- lable to members\, plus one registered guest.
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 1 spot left\nSta
+ tus: Available\nEvent URL: https://members.thequinhouse.com/events/176367\
+ n\nBoston’s best return to the ’House! Join us for a night of comedy f
+ eaturing headliner Steve Sweeney\, a renowned comedian with decades of exp
+ erience in the comedy scene. His unique style blends storytelling with sha
+ rp wit\, making every performance unforgettable.\n\nGrab a drink from the 
+ bar beginning at 5:30PM\, then settle in for an evening of laughs—seatin
+ g is first come\, first served.\n\nMake a night of it with a pre-show burg
+ er and a beer from The Pub. Dining walk-ins are welcome.\n\n*This event is
+  complimentary and available to members\, plus one registered guest.
 URL:https://members.thequinhouse.com/events/176367
 CATEGORIES:The Arts
 END:VEVENT
@@ -187,15 +187,15 @@ DTSTART;TZID=America/New_York:20260521T170000
 DTEND;TZID=America/New_York:20260521T190000
 SUMMARY:Member Mixer - Bingo 
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 1 spot left\
- nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/184
- 140\n\nJoin us for a lively Bingo-Themed Member Mixer. Enjoy 5–6 fast-pa
- ced rounds of traditional bingo\, each lasting 10–15 minutes\, with plen
- ty of chances to win and connect. After each round\, winners will switch s
- eats and join a new group\, keeping the energy high and conversations flow
- ing. It’s the perfect way to meet fellow members\, spark new connections
- \, and add a playful twist to your evening.\n\n*This event is complimentar
- y and reserved for members only.
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nStatus: Waitlist Only\nEve
+ nt URL: https://members.thequinhouse.com/events/184140\n\nJoin us for a li
+ vely Bingo-Themed Member Mixer. Enjoy 5–6 fast-paced rounds of tradition
+ al bingo\, each lasting 10–15 minutes\, with plenty of chances to win an
+ d connect. After each round\, winners will switch seats and join a new gro
+ up\, keeping the energy high and conversations flowing. It’s the perfect
+  way to meet fellow members\, spark new connections\, and add a playful tw
+ ist to your evening.\n\n*This event is complimentary and reserved for memb
+ ers only.
 URL:https://members.thequinhouse.com/events/184140
 CATEGORIES:Member Mixer
 END:VEVENT
@@ -305,19 +305,20 @@ DTSTART;TZID=America/New_York:20260528T170000
 DTEND;TZID=America/New_York:20260528T180000
 SUMMARY:Rooftop Rendezvous: Château Sainte Marguerite
 LOCATION:Sky Deck
-DESCRIPTION:Category: Food & Beverage\nPrice: Free\nStatus: You are on Wait
- list\nEvent URL: https://members.thequinhouse.com/events/185624\n\nAs the 
- season turns\, the Sky Deck reemerges as one of The 'Quin's most coveted s
- ettings - an open-air retreat above the city\, where warm afternoons stret
- ch into golden hour and evenings unfold with ease. \n\nThis year\, we are
-  pleased to partner with Château Sainte Marguerite as our exclusive 'Hous
- e rosé\, poured throughout the season alongside a signature rosé cocktai
- l - bringing a fresh\, coastal sensibility to the rooftop experience.\n\nT
- o mark the opening\, join us for a celebratory rooftop rendezvous\, featur
- ing a complimentary tasting of Château Sainte Marguerite. Thoughtfully de
- signed to capture the spirit of the season\, the evening offers a first ta
- ste of summer at The ’Quin - effortless\, elevated\, and best enjoyed ab
- ove it all.\n\n*This event is complimentary and reserved for members only.
+DESCRIPTION:Category: Food & Beverage\nPrice: Free\nAvailability: 1 spot le
+ ft\nStatus: You are on Waitlist\nEvent URL: https://members.thequinhouse.c
+ om/events/185624\n\nAs the season turns\, the Sky Deck reemerges as one of
+  The 'Quin's most coveted settings - an open-air retreat above the city\, 
+ where warm afternoons stretch into golden hour and evenings unfold with ea
+ se. \n\nThis year\, we are pleased to partner with Château Sainte Margue
+ rite as our exclusive 'House rosé\, poured throughout the season alongsid
+ e a signature rosé cocktail - bringing a fresh\, coastal sensibility to t
+ he rooftop experience.\n\nTo mark the opening\, join us for a celebratory 
+ rooftop rendezvous\, featuring a complimentary tasting of Château Sainte 
+ Marguerite. Thoughtfully designed to capture the spirit of the season\, th
+ e evening offers a first taste of summer at The ’Quin - effortless\, ele
+ vated\, and best enjoyed above it all.\n\n*This event is complimentary and
+  reserved for members only.
 URL:https://members.thequinhouse.com/events/185624
 CATEGORIES:Food & Beverage
 END:VEVENT
@@ -557,7 +558,7 @@ DTSTART;TZID=America/New_York:20260610T170000
 DTEND;TZID=America/New_York:20260610T183000
 SUMMARY:Author Talk: "Checkmate" with Ben Mezrich
 LOCATION:The Pub
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 4 spots left\nSt
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 3 spots left\nSt
  atus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/event
  s/187622\n\n5:00PM Reception\, 5:30PM Discussion \nStep into the high-sta
  kes world of Checkmate with bestselling author Ben Mezrich—an electrifyi
