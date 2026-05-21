@@ -24,24 +24,6 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:quin-event-184144@thequinhouse.com
-DTSTAMP:20260520T180000Z
-DTSTART;TZID=America/New_York:20260520T180000
-DTEND;TZID=America/New_York:20260520T210000
-SUMMARY:Live Music: Alex Minasian 
-LOCATION:The Reading Room
-DESCRIPTION:Category: The Arts\nPrice: Free / Included\nStatus: Available\n
- Event URL: https://members.thequinhouse.com/events/184144\n\nLet the sultr
- y sounds of jazz take over as pianist Alex Minasian brings his rich\, time
- -honored artistry to the stage. Known for his masterful touch and deep rev
- erence for the jazz tradition\, Minasian delivers a performance that is bo
- th dynamic and deeply expressive.\n\nSip a cocktail from Little Bar\, sink
-  into the moment\, and let the music carry you away.\n\n*Reservations are 
- not required. Please be advised that seating is first come\, first served.
-URL:https://members.thequinhouse.com/events/184144
-CATEGORIES:The Arts
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-184140@thequinhouse.com
 DTSTAMP:20260521T170000Z
 DTSTART;TZID=America/New_York:20260521T170000
@@ -67,27 +49,27 @@ DTSTART;TZID=America/New_York:20260521T170000
 DTEND;TZID=America/New_York:20260521T183000
 SUMMARY:Rethinking Women's Health: The Head & The Heart
 LOCATION:Scottie's
-DESCRIPTION:Category: Health & Wellness\nPrice: Free\nStatus: Waitlist Only
- \nEvent URL: https://members.thequinhouse.com/events/184947\n\n5:00PM Rece
- ption\, 5:30PM Discussion \nThe third installment in our Women’s Health
-  Series explores the powerful and often underexamined connection between c
- ardiovascular and brain health—two systems deeply intertwined in shaping
-  how we live\, age\, and thrive\n\nThis thoughtfully curated conversation 
- brings together two leading physicians whose work reflects both the scienc
- e and the human experience of health. Dr. Ami Bhatt—Chief Innovation Off
- icer at the American College of Cardiology and Chair of the FDA Digital He
- alth Advisory Committee—will explore the “heart” of the conversation
- \, offering insight into cardiovascular health\, innovation\, and the evol
- ving tools shaping prevention and care.\n\nComplementing this perspective\
- , Dr. Julia Loewenthal—Assistant Professor of Medicine at Harvard Medica
- l School and a board-certified internist and geriatrician—will guide the
-  “head” of the discussion\, focusing on brain health\, aging\, and the
-  ways cognitive conditions such as dementia uniquely impact women.\n\nDesi
- gned to inform and empower\, this program invites a more expansive underst
- anding of women’s health—one that recognizes the deep interconnection 
- between heart\, mind\, and longevity.\n\n*This event is complimentary and 
- reserved for members only. Complimentary light bites will be served\, and 
- beverages will be available for purchase.
+DESCRIPTION:Category: Health & Wellness\nPrice: Free\nAvailability: 1 spot 
+ left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/event
+ s/184947\n\n5:00PM Reception\, 5:30PM Discussion \nThe third installment 
+ in our Women’s Health Series explores the powerful and often underexamin
+ ed connection between cardiovascular and brain health—two systems deeply
+  intertwined in shaping how we live\, age\, and thrive\n\nThis thoughtfull
+ y curated conversation brings together two leading physicians whose work r
+ eflects both the science and the human experience of health. Dr. Ami Bhatt
+ —Chief Innovation Officer at the American College of Cardiology and Chai
+ r of the FDA Digital Health Advisory Committee—will explore the “heart
+ ” of the conversation\, offering insight into cardiovascular health\, in
+ novation\, and the evolving tools shaping prevention and care.\n\nCompleme
+ nting this perspective\, Dr. Julia Loewenthal—Assistant Professor of Med
+ icine at Harvard Medical School and a board-certified internist and geriat
+ rician—will guide the “head” of the discussion\, focusing on brain h
+ ealth\, aging\, and the ways cognitive conditions such as dementia uniquel
+ y impact women.\n\nDesigned to inform and empower\, this program invites a
+  more expansive understanding of women’s health—one that recognizes th
+ e deep interconnection between heart\, mind\, and longevity.\n\n*This even
+ t is complimentary and reserved for members only. Complimentary light bite
+ s will be served\, and beverages will be available for purchase.
 URL:https://members.thequinhouse.com/events/184947
 CATEGORIES:Health & Wellness
 END:VEVENT
@@ -116,6 +98,25 @@ DESCRIPTION:Category: Sports & Games\nPrice: Free\nStatus: Waitlist Only\nE
  lass begins promptly at 6:00 PM.
 URL:https://members.thequinhouse.com/events/187002
 CATEGORIES:Sports & Games
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-182353@thequinhouse.com
+DTSTAMP:20260526T160000Z
+DTSTART;VALUE=DATE:20260526
+DTEND;VALUE=DATE:20260527
+SUMMARY:BBQ Specials 
+LOCATION:The Pub
+DESCRIPTION:Category: Food & Beverage\nPrice: Free / Included\nStatus: Avai
+ lable\nTime: 4 PM – 9 PM\nEvent URL: https://members.thequinhouse.com/ev
+ ents/182353\n\nExclusively Available Tuesday Evenings\nSettle in and get y
+ our hands a little messy - in the best way.\n\nBegin with a warm corn brea
+ d skillet and hot honey butter\, alongside the classics: potato salad\, pi
+ ckles\, and coleslaw. From there\, choose two barbecue favorites for your 
+ main indulgence—espresso-rubbed beef brisket\, St. Louis ribs cooked low
+  and slow\, or pulled pork sliders worth every bite. A little smoky\, a li
+ ttle saucy\, and just the right amount of refined.\n\nMake a Reservation.
+URL:https://members.thequinhouse.com/events/182353
+CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-184146@thequinhouse.com
@@ -204,6 +205,31 @@ DESCRIPTION:Category: Member Mixer\nPrice: Free\nStatus: Waitlist Only\nEve
  available for purchase at nearby concessions.
 URL:https://members.thequinhouse.com/events/184946
 CATEGORIES:Member Mixer
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-188309@thequinhouse.com
+DTSTAMP:20260530T100000Z
+DTSTART;TZID=America/New_York:20260530T100000
+DTEND;TZID=America/New_York:20260530T113000
+SUMMARY:The Drawing Lab with Deb Putnoi: Session V
+LOCATION:The Muse
+DESCRIPTION:Category: The Arts\nPrice: Free\nStatus: soldOut\nEvent URL: ht
+ tps://members.thequinhouse.com/events/188309\n\nSaturdays: February 28\, M
+ arch 28\, April 25\, May 30 & June 27 | 10:00AM The Terrace & The Muse\nJo
+ in us for The Drawing Lab\, a six class immersive drawing course led by ar
+ tist and educator Deb Putnoi\, exploring the method as a practice of mindf
+ ulness\, observation\, and self-expression. Open to all experience levels\
+ , this course invites members to discover their unique visual voice throug
+ h guided exercises\, sensory awareness\, and creative connection.\n\nMeet 
+ likeminded members on reoccurring Saturdays over coffee and light bites wh
+ ile experimenting with a range of materials and methods\, drawing inspirat
+ ion from one another and The ’Quin Collection. Registration includes com
+ mitment to participate in all six sessions.\n\n*This six-month course is r
+ eserved for members only. The $120 per person fee includes all materials n
+ eeded for the duration of the program. Please note that registration for t
+ his course is final and non-cancelable\, and may not be transferred.
+URL:https://members.thequinhouse.com/events/188309
+CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-181402@thequinhouse.com
@@ -419,7 +445,7 @@ DTSTART;TZID=America/New_York:20260609T170000
 DTEND;TZID=America/New_York:20260609T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 37 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 35 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  86695\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in an ambiant reserved space. This is your opportunity to connect with fe
@@ -486,7 +512,7 @@ DTSTART;TZID=America/New_York:20260611T173000
 DTEND;TZID=America/New_York:20260611T193000
 SUMMARY:Wit & Word: A Performance in Written Humor
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 3 spots left\nSt
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 2 spots left\nSt
  atus: Available\nEvent URL: https://members.thequinhouse.com/events/186725
  \n\n5:30PM Reception\, 6:00PM Performance\nWit & Word offers an evening wh
  ere humor is written\, spoken\, and felt—bringing together a standout gr
@@ -649,6 +675,31 @@ DESCRIPTION:Category: Sports & Games\nPrice: $3327.10 per person\nAvailabil
   to accompany their guest at all times.
 URL:https://members.thequinhouse.com/events/175300
 CATEGORIES:Sports & Games
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-188314@thequinhouse.com
+DTSTAMP:20260627T100000Z
+DTSTART;TZID=America/New_York:20260627T100000
+DTEND;TZID=America/New_York:20260627T113000
+SUMMARY:The Drawing Lab with Deb Putnoi: Session VI
+LOCATION:The Muse
+DESCRIPTION:Category: The Arts\nPrice: Free\nStatus: soldOut\nEvent URL: ht
+ tps://members.thequinhouse.com/events/188314\n\nSaturdays: February 28\, M
+ arch 28\, April 25\, May 30 & June 27 | 10:00AM The Terrace & The Muse\nJo
+ in us for The Drawing Lab\, a six class immersive drawing course led by ar
+ tist and educator Deb Putnoi\, exploring the method as a practice of mindf
+ ulness\, observation\, and self-expression. Open to all experience levels\
+ , this course invites members to discover their unique visual voice throug
+ h guided exercises\, sensory awareness\, and creative connection.\n\nMeet 
+ likeminded members on reoccurring Saturdays over coffee and light bites wh
+ ile experimenting with a range of materials and methods\, drawing inspirat
+ ion from one another and The ’Quin Collection. Registration includes com
+ mitment to participate in all six sessions.\n\n*This six-month course is r
+ eserved for members only. The $120 per person fee includes all materials n
+ eeded for the duration of the program. Please note that registration for t
+ his course is final and non-cancelable\, and may not be transferred.
+URL:https://members.thequinhouse.com/events/188314
+CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-183090@thequinhouse.com
