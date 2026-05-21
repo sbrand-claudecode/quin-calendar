@@ -30,15 +30,15 @@ DTSTART;TZID=America/New_York:20260521T170000
 DTEND;TZID=America/New_York:20260521T190000
 SUMMARY:Member Mixer - Bingo 
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nStatus: Waitlist Only\nEve
- nt URL: https://members.thequinhouse.com/events/184140\n\nJoin us for a li
- vely Bingo-Themed Member Mixer. Enjoy 5–6 fast-paced rounds of tradition
- al bingo\, each lasting 10–15 minutes\, with plenty of chances to win an
- d connect. After each round\, winners will switch seats and join a new gro
- up\, keeping the energy high and conversations flowing. It’s the perfect
-  way to meet fellow members\, spark new connections\, and add a playful tw
- ist to your evening.\n\n*This event is complimentary and reserved for memb
- ers only.
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 3 spots left
+ \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/18
+ 4140\n\nJoin us for a lively Bingo-Themed Member Mixer. Enjoy 5–6 fast-p
+ aced rounds of traditional bingo\, each lasting 10–15 minutes\, with ple
+ nty of chances to win and connect. After each round\, winners will switch 
+ seats and join a new group\, keeping the energy high and conversations flo
+ wing. It’s the perfect way to meet fellow members\, spark new connection
+ s\, and add a playful twist to your evening.\n\n*This event is complimenta
+ ry and reserved for members only.
 URL:https://members.thequinhouse.com/events/184140
 CATEGORIES:Member Mixer
 END:VEVENT
@@ -146,18 +146,18 @@ DTSTART;TZID=America/New_York:20260528T110000
 DTEND;TZID=America/New_York:20260528T120000
 SUMMARY:Art Tour: Masterworks in Print 
 LOCATION:Meet in The Lobby
-DESCRIPTION:Category: The Arts\nPrice: Free\nStatus: Waitlist Only\nEvent U
- RL: https://members.thequinhouse.com/events/176379\n\nJoin ‘Quin Collect
- ion Curator Kate Chertavian for a print-focused art tour. The discussion w
- ill begin in the Lobby with a closer look at Julie Mehretu’s spectacular
-  copper-plate etching\, Six Bardos: Luminous Appearance\, and Cy Twombly�
- �s silkscreen from the landmark On the Bowery series.\n\nThe conversation 
- will explore a wide range of printmaking techniques—including screenprin
- t\, woodcut\, and lithography—featuring works by artists such as Robert 
- Mangold\, Jasper Johns\, and Louise Bourgeois.\n\nThe tour will also offer
-  insights into a remarkable new addition to the ‘Quin’s collection: Cl
- aude Monet’s Champ d’Iris à Giverny.\n\n*This event is complimentary 
- and reserved for members only.
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 1 spot left\nSta
+ tus: Available\nEvent URL: https://members.thequinhouse.com/events/176379\
+ n\nJoin ‘Quin Collection Curator Kate Chertavian for a print-focused art
+  tour. The discussion will begin in the Lobby with a closer look at Julie 
+ Mehretu’s spectacular copper-plate etching\, Six Bardos: Luminous Appear
+ ance\, and Cy Twombly’s silkscreen from the landmark On the Bowery serie
+ s.\n\nThe conversation will explore a wide range of printmaking techniques
+ —including screenprint\, woodcut\, and lithography—featuring works by 
+ artists such as Robert Mangold\, Jasper Johns\, and Louise Bourgeois.\n\nT
+ he tour will also offer insights into a remarkable new addition to the ‘
+ Quin’s collection: Claude Monet’s Champ d’Iris à Giverny.\n\n*This 
+ event is complimentary and reserved for members only.
 URL:https://members.thequinhouse.com/events/176379
 CATEGORIES:The Arts
 END:VEVENT
@@ -445,7 +445,7 @@ DTSTART;TZID=America/New_York:20260609T170000
 DTEND;TZID=America/New_York:20260609T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 34 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 33 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  86695\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in an ambiant reserved space. This is your opportunity to connect with fe
@@ -543,7 +543,7 @@ DTEND;TZID=America/New_York:20260613T140000
 SUMMARY: Serendipity Pride Brunch
 LOCATION:Lunasol
 DESCRIPTION:Category: Member Mixer\nPrice: $65.00 per person\nAvailability:
-  17 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
+  15 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
  .com/events/186727\n\nJoin us for a Pride Edition of Serendipity Saturday 
  Brunch—a celebration of community\, conversation\, and connection. Set i
  n Lunasol\, the afternoon unfolds with a vibrant energy\, where members ga
