@@ -30,15 +30,15 @@ DTSTART;TZID=America/New_York:20260521T170000
 DTEND;TZID=America/New_York:20260521T190000
 SUMMARY:Member Mixer - Bingo 
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 1 spot left\
- nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/184
- 140\n\nJoin us for a lively Bingo-Themed Member Mixer. Enjoy 5–6 fast-pa
- ced rounds of traditional bingo\, each lasting 10–15 minutes\, with plen
- ty of chances to win and connect. After each round\, winners will switch s
- eats and join a new group\, keeping the energy high and conversations flow
- ing. It’s the perfect way to meet fellow members\, spark new connections
- \, and add a playful twist to your evening.\n\n*This event is complimentar
- y and reserved for members only.
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nStatus: Waitlist Only\nEve
+ nt URL: https://members.thequinhouse.com/events/184140\n\nJoin us for a li
+ vely Bingo-Themed Member Mixer. Enjoy 5–6 fast-paced rounds of tradition
+ al bingo\, each lasting 10–15 minutes\, with plenty of chances to win an
+ d connect. After each round\, winners will switch seats and join a new gro
+ up\, keeping the energy high and conversations flowing. It’s the perfect
+  way to meet fellow members\, spark new connections\, and add a playful tw
+ ist to your evening.\n\n*This event is complimentary and reserved for memb
+ ers only.
 URL:https://members.thequinhouse.com/events/184140
 CATEGORIES:Member Mixer
 END:VEVENT
@@ -49,27 +49,27 @@ DTSTART;TZID=America/New_York:20260521T170000
 DTEND;TZID=America/New_York:20260521T183000
 SUMMARY:Rethinking Women's Health: The Head & The Heart
 LOCATION:Scottie's
-DESCRIPTION:Category: Health & Wellness\nPrice: Free\nAvailability: 2 spots
-  left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/even
- ts/184947\n\n5:00PM Reception\, 5:30PM Discussion \nThe third installment
-  in our Women’s Health Series explores the powerful and often underexami
- ned connection between cardiovascular and brain health—two systems deepl
- y intertwined in shaping how we live\, age\, and thrive\n\nThis thoughtful
- ly curated conversation brings together two leading physicians whose work 
- reflects both the science and the human experience of health. Dr. Ami Bhat
- t—Chief Innovation Officer at the American College of Cardiology and Cha
- ir of the FDA Digital Health Advisory Committee—will explore the “hear
- t” of the conversation\, offering insight into cardiovascular health\, i
- nnovation\, and the evolving tools shaping prevention and care.\n\nComplem
- enting this perspective\, Dr. Julia Loewenthal—Assistant Professor of Me
- dicine at Harvard Medical School and a board-certified internist and geria
- trician—will guide the “head” of the discussion\, focusing on brain 
- health\, aging\, and the ways cognitive conditions such as dementia unique
- ly impact women.\n\nDesigned to inform and empower\, this program invites 
- a more expansive understanding of women’s health—one that recognizes t
- he deep interconnection between heart\, mind\, and longevity.\n\n*This eve
- nt is complimentary and reserved for members only. Complimentary light bit
- es will be served\, and beverages will be available for purchase.
+DESCRIPTION:Category: Health & Wellness\nPrice: Free\nStatus: Waitlist Only
+ \nEvent URL: https://members.thequinhouse.com/events/184947\n\n5:00PM Rece
+ ption\, 5:30PM Discussion \nThe third installment in our Women’s Health
+  Series explores the powerful and often underexamined connection between c
+ ardiovascular and brain health—two systems deeply intertwined in shaping
+  how we live\, age\, and thrive\n\nThis thoughtfully curated conversation 
+ brings together two leading physicians whose work reflects both the scienc
+ e and the human experience of health. Dr. Ami Bhatt—Chief Innovation Off
+ icer at the American College of Cardiology and Chair of the FDA Digital He
+ alth Advisory Committee—will explore the “heart” of the conversation
+ \, offering insight into cardiovascular health\, innovation\, and the evol
+ ving tools shaping prevention and care.\n\nComplementing this perspective\
+ , Dr. Julia Loewenthal—Assistant Professor of Medicine at Harvard Medica
+ l School and a board-certified internist and geriatrician—will guide the
+  “head” of the discussion\, focusing on brain health\, aging\, and the
+  ways cognitive conditions such as dementia uniquely impact women.\n\nDesi
+ gned to inform and empower\, this program invites a more expansive underst
+ anding of women’s health—one that recognizes the deep interconnection 
+ between heart\, mind\, and longevity.\n\n*This event is complimentary and 
+ reserved for members only. Complimentary light bites will be served\, and 
+ beverages will be available for purchase.
 URL:https://members.thequinhouse.com/events/184947
 CATEGORIES:Health & Wellness
 END:VEVENT
@@ -125,17 +125,17 @@ DTSTART;TZID=America/New_York:20260526T170000
 DTEND;TZID=America/New_York:20260526T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 2 spots left
- \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/18
- 4146\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set 
- in an ambiant reserved space. This is your opportunity to connect with fel
- low members\, exchange ideas\, and cultivate meaningful relationships.\n\n
- Whether you're sparking new collaborations\, sharing insights\, or simply 
- enjoying great conversation\, the Member Mingle is the perfect way to enga
- ge with our dynamic community. Don’t miss the chance to connect\, inspir
- e\, and be inspired!\n\n*This event is complimentary and reserved for memb
- ers only. Complimentary light bites will be served\, and beverages will be
-  available for purchase.
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 1 spot left\
+ nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/184
+ 146\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set i
+ n an ambiant reserved space. This is your opportunity to connect with fell
+ ow members\, exchange ideas\, and cultivate meaningful relationships.\n\nW
+ hether you're sparking new collaborations\, sharing insights\, or simply e
+ njoying great conversation\, the Member Mingle is the perfect way to engag
+ e with our dynamic community. Don’t miss the chance to connect\, inspire
+ \, and be inspired!\n\n*This event is complimentary and reserved for membe
+ rs only. Complimentary light bites will be served\, and beverages will be 
+ available for purchase.
 URL:https://members.thequinhouse.com/events/184146
 CATEGORIES:Member Mixer
 END:VEVENT
@@ -512,26 +512,26 @@ DTSTART;TZID=America/New_York:20260611T173000
 DTEND;TZID=America/New_York:20260611T193000
 SUMMARY:Wit & Word: A Performance in Written Humor
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 1 spot left\nSta
- tus: Available\nEvent URL: https://members.thequinhouse.com/events/186725\
- n\n5:30PM Reception\, 6:00PM Performance\nWit & Word offers an evening whe
- re humor is written\, spoken\, and felt—bringing together a standout gro
- up of writers for a live\, spoken-word style performance that celebrates t
- he craft of comedy on the page. Moving beyond stand-up\, the night unfolds
-  through essays\, satire\, and personal storytelling—sharp\, candid\, an
- d unexpectedly moving.\n\nGuiding the evening is award-winning comedian an
- d The Moth regular Bethany Van Delft\, whose distinctive voice and groun
- ded storytelling bring warmth\, wit\, and a natural sense of connection to
-  the stage.\n\nThe lineup features Tracy McArdle Brady\, Founder and Chief
-  Humorist of Wit & Word\; Steve Almond\, New York Times bestselling auth
- or\; Lisa Borders\, award-winning novelist and McSweeney’s contributor\;
-  Neil Martinez-Belkin\, New York Times bestselling co-author and former 
- music editor of XXL Magazine\; and Viktoria Shulevich\, humor writer publ
- ished in The New Yorker and McSweeney’s. Together\, they explore the a
- bsurdities and revelations of modern adulting through humor that is as ins
- ightful as it is entertaining.\n\n*This event is complimentary and reserve
- d for members only. Light refreshments will be served and beverages will b
- e available for purchase.
+DESCRIPTION:Category: The Arts\nPrice: Free\nStatus: Waitlist Only\nEvent U
+ RL: https://members.thequinhouse.com/events/186725\n\n5:30PM Reception\, 6
+ :00PM Performance\nWit & Word offers an evening where humor is written\, s
+ poken\, and felt—bringing together a standout group of writers for a liv
+ e\, spoken-word style performance that celebrates the craft of comedy on t
+ he page. Moving beyond stand-up\, the night unfolds through essays\, satir
+ e\, and personal storytelling—sharp\, candid\, and unexpectedly moving.\
+ n\nGuiding the evening is award-winning comedian and The Moth regular Be
+ thany Van Delft\, whose distinctive voice and grounded storytelling bring 
+ warmth\, wit\, and a natural sense of connection to the stage.\n\nThe line
+ up features Tracy McArdle Brady\, Founder and Chief Humorist of Wit & Word
+ \; Steve Almond\, New York Times bestselling author\; Lisa Borders\, awa
+ rd-winning novelist and McSweeney’s contributor\; Neil Martinez-Belkin\,
+  New York Times bestselling co-author and former music editor of XXL Ma
+ gazine\; and Viktoria Shulevich\, humor writer published in The New Yorke
+ r and McSweeney’s. Together\, they explore the absurdities and revelati
+ ons of modern adulting through humor that is as insightful as it is entert
+ aining.\n\n*This event is complimentary and reserved for members only. Lig
+ ht refreshments will be served and beverages will be available for purchas
+ e.
 URL:https://members.thequinhouse.com/events/186725
 CATEGORIES:The Arts
 END:VEVENT
