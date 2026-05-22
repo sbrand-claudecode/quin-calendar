@@ -24,82 +24,6 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:quin-event-184140@thequinhouse.com
-DTSTAMP:20260521T170000Z
-DTSTART;TZID=America/New_York:20260521T170000
-DTEND;TZID=America/New_York:20260521T190000
-SUMMARY:Member Mixer - Bingo 
-LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 3 spots left
- \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/18
- 4140\n\nJoin us for a lively Bingo-Themed Member Mixer. Enjoy 5–6 fast-p
- aced rounds of traditional bingo\, each lasting 10–15 minutes\, with ple
- nty of chances to win and connect. After each round\, winners will switch 
- seats and join a new group\, keeping the energy high and conversations flo
- wing. It’s the perfect way to meet fellow members\, spark new connection
- s\, and add a playful twist to your evening.\n\n*This event is complimenta
- ry and reserved for members only.
-URL:https://members.thequinhouse.com/events/184140
-CATEGORIES:Member Mixer
-END:VEVENT
-BEGIN:VEVENT
-UID:quin-event-184947@thequinhouse.com
-DTSTAMP:20260521T170000Z
-DTSTART;TZID=America/New_York:20260521T170000
-DTEND;TZID=America/New_York:20260521T183000
-SUMMARY:Rethinking Women's Health: The Head & The Heart
-LOCATION:Scottie's
-DESCRIPTION:Category: Health & Wellness\nPrice: Free\nStatus: Waitlist Only
- \nEvent URL: https://members.thequinhouse.com/events/184947\n\n5:00PM Rece
- ption\, 5:30PM Discussion \nThe third installment in our Women’s Health
-  Series explores the powerful and often underexamined connection between c
- ardiovascular and brain health—two systems deeply intertwined in shaping
-  how we live\, age\, and thrive\n\nThis thoughtfully curated conversation 
- brings together two leading physicians whose work reflects both the scienc
- e and the human experience of health. Dr. Ami Bhatt—Chief Innovation Off
- icer at the American College of Cardiology and Chair of the FDA Digital He
- alth Advisory Committee—will explore the “heart” of the conversation
- \, offering insight into cardiovascular health\, innovation\, and the evol
- ving tools shaping prevention and care.\n\nComplementing this perspective\
- , Dr. Julia Loewenthal—Assistant Professor of Medicine at Harvard Medica
- l School and a board-certified internist and geriatrician—will guide the
-  “head” of the discussion\, focusing on brain health\, aging\, and the
-  ways cognitive conditions such as dementia uniquely impact women.\n\nDesi
- gned to inform and empower\, this program invites a more expansive underst
- anding of women’s health—one that recognizes the deep interconnection 
- between heart\, mind\, and longevity.\n\n*This event is complimentary and 
- reserved for members only. Complimentary light bites will be served\, and 
- beverages will be available for purchase.
-URL:https://members.thequinhouse.com/events/184947
-CATEGORIES:Health & Wellness
-END:VEVENT
-BEGIN:VEVENT
-UID:quin-event-187002@thequinhouse.com
-DTSTAMP:20260521T173000Z
-DTSTART;TZID=America/New_York:20260521T173000
-DTEND;TZID=America/New_York:20260521T200000
-SUMMARY:Game Night: Bridge Instructional Play Session II
-LOCATION:The Muse
-DESCRIPTION:Category: Sports & Games\nPrice: Free\nStatus: Waitlist Only\nE
- vent URL: https://members.thequinhouse.com/events/187002\n\nDiscover the a
- rt and strategy of Bridge in a thoughtfully designed two-part instructiona
- l series for members. Our expert instructor\, Zach Grossack\, will guide 
- members through the fundamentals\, offering tips\, strategies\, and techni
- ques designed for beginners and intermediate players alike.\n\nEach sessio
- n is relaxed and hands-on\, offering the opportunity to practice bidding\,
-  refine strategy\, and build confidence at the table with personalized gui
- dance. Look forward to a welcoming environment to learn\, improve\, and en
- joy the timeless art of Bridge alongside fellow members.\n\n*This event is
-  complimentary and reserved for members only. Please note that this is a t
- wo-part series\; registration for the first session on May 14th will auto
- matically enroll you in the second session on May 21st\, ensuring a cohesi
- ve learning experience across both evenings. Guests are invited to arrive 
- at 5:30PM to settle in with a bite and beverage on the 'House before the c
- lass begins promptly at 6:00 PM.
-URL:https://members.thequinhouse.com/events/187002
-CATEGORIES:Sports & Games
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-182353@thequinhouse.com
 DTSTAMP:20260526T160000Z
 DTSTART;VALUE=DATE:20260526
@@ -146,18 +70,18 @@ DTSTART;TZID=America/New_York:20260528T110000
 DTEND;TZID=America/New_York:20260528T120000
 SUMMARY:Art Tour: Masterworks in Print 
 LOCATION:Meet in The Lobby
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 1 spot left\nSta
- tus: Available\nEvent URL: https://members.thequinhouse.com/events/176379\
- n\nJoin ‘Quin Collection Curator Kate Chertavian for a print-focused art
-  tour. The discussion will begin in the Lobby with a closer look at Julie 
- Mehretu’s spectacular copper-plate etching\, Six Bardos: Luminous Appear
- ance\, and Cy Twombly’s silkscreen from the landmark On the Bowery serie
- s.\n\nThe conversation will explore a wide range of printmaking techniques
- —including screenprint\, woodcut\, and lithography—featuring works by 
- artists such as Robert Mangold\, Jasper Johns\, and Louise Bourgeois.\n\nT
- he tour will also offer insights into a remarkable new addition to the ‘
- Quin’s collection: Claude Monet’s Champ d’Iris à Giverny.\n\n*This 
- event is complimentary and reserved for members only.
+DESCRIPTION:Category: The Arts\nPrice: Free\nStatus: You are Confirmed\nEve
+ nt URL: https://members.thequinhouse.com/events/176379\n\nJoin ‘Quin Col
+ lection Curator Kate Chertavian for a print-focused art tour. The discussi
+ on will begin in the Lobby with a closer look at Julie Mehretu’s spectac
+ ular copper-plate etching\, Six Bardos: Luminous Appearance\, and Cy Twomb
+ ly’s silkscreen from the landmark On the Bowery series.\n\nThe conversat
+ ion will explore a wide range of printmaking techniques—including screen
+ print\, woodcut\, and lithography—featuring works by artists such as Rob
+ ert Mangold\, Jasper Johns\, and Louise Bourgeois.\n\nThe tour will also o
+ ffer insights into a remarkable new addition to the ‘Quin’s collection
+ : Claude Monet’s Champ d’Iris à Giverny.\n\n*This event is compliment
+ ary and reserved for members only.
 URL:https://members.thequinhouse.com/events/176379
 CATEGORIES:The Arts
 END:VEVENT
@@ -445,7 +369,7 @@ DTSTART;TZID=America/New_York:20260609T170000
 DTEND;TZID=America/New_York:20260609T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 33 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 32 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  86695\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in an ambiant reserved space. This is your opportunity to connect with fe
@@ -568,7 +492,7 @@ DTSTART;TZID=America/New_York:20260616T170000
 DTEND;TZID=America/New_York:20260616T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 38 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 37 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  86696\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in an ambiant reserved space. This is your opportunity to connect with fe
