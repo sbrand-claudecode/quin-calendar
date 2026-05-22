@@ -49,17 +49,16 @@ DTSTART;TZID=America/New_York:20260526T170000
 DTEND;TZID=America/New_York:20260526T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 1 spot left\
- nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/184
- 146\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set i
- n an ambiant reserved space. This is your opportunity to connect with fell
- ow members\, exchange ideas\, and cultivate meaningful relationships.\n\nW
- hether you're sparking new collaborations\, sharing insights\, or simply e
- njoying great conversation\, the Member Mingle is the perfect way to engag
- e with our dynamic community. Don’t miss the chance to connect\, inspire
- \, and be inspired!\n\n*This event is complimentary and reserved for membe
- rs only. Complimentary light bites will be served\, and beverages will be 
- available for purchase.
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nStatus: Waitlist Only\nEve
+ nt URL: https://members.thequinhouse.com/events/184146\n\nJoin us for our 
+ weekly Member Mingle\, an inclusive gathering set in an ambiant reserved s
+ pace. This is your opportunity to connect with fellow members\, exchange i
+ deas\, and cultivate meaningful relationships.\n\nWhether you're sparking 
+ new collaborations\, sharing insights\, or simply enjoying great conversat
+ ion\, the Member Mingle is the perfect way to engage with our dynamic comm
+ unity. Don’t miss the chance to connect\, inspire\, and be inspired!\n\n
+ *This event is complimentary and reserved for members only. Complimentary 
+ light bites will be served\, and beverages will be available for purchase.
 URL:https://members.thequinhouse.com/events/184146
 CATEGORIES:Member Mixer
 END:VEVENT
