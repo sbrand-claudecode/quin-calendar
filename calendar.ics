@@ -354,7 +354,7 @@ DTSTART;TZID=America/New_York:20260602T170000
 DTEND;TZID=America/New_York:20260602T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 21 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 20 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  86694\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in an ambiant reserved space. This is your opportunity to connect with fe
@@ -454,7 +454,7 @@ DTSTART;TZID=America/New_York:20260609T170000
 DTEND;TZID=America/New_York:20260609T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 28 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 27 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  86695\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in an ambiant reserved space. This is your opportunity to connect with fe
@@ -606,7 +606,7 @@ DTSTART;TZID=America/New_York:20260616T170000
 DTEND;TZID=America/New_York:20260616T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 34 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 33 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  86696\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in an ambiant reserved space. This is your opportunity to connect with fe
@@ -657,7 +657,7 @@ DTSTART;TZID=America/New_York:20260617T190000
 DTEND;TZID=America/New_York:20260617T200000
 SUMMARY:From Interest to Impact: Board and Volunteer Fair
 LOCATION:The Muse
-DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nAvailability: 30 sp
+DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nAvailability: 28 sp
  ots left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/e
  vents/188596\n\nTurn inspiration into action at the The 'Quin Impact Fund'
  s Board and Volunteer Fair\, an interactive networking experience connecti
@@ -730,7 +730,7 @@ DTSTART;TZID=America/New_York:20260623T180000
 DTEND;TZID=America/New_York:20260623T190000
 SUMMARY:Improv Comedy | 6:00PM Show
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 22 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 18 spots left\nS
  tatus: Available\nEvent URL: https://members.thequinhouse.com/events/17636
  4\n\nBoston’s best return to the 'House! Improv comedians are ready to k
  eep you laughing with spontaneous sketches\, quick wit\, and audience-insp
@@ -773,16 +773,16 @@ DTSTART;TZID=America/New_York:20260623T200000
 DTEND;TZID=America/New_York:20260623T210000
 SUMMARY:Improv Comedy | 8:00PM Show
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 21 spots left\nS
- tatus: Available\nEvent URL: https://members.thequinhouse.com/events/17636
- 5\n\nBoston’s best return to the 'House! Improv comedians are ready to k
- eep you laughing with spontaneous sketches\, quick wit\, and audience-insp
- ired moments. Join us for a cocktail from the cash bar beginning at 7:30pm
- \, then snag your seat and enjoy a show packed with energy from beginning 
- to end. Seating is first come\, first serve\n\nMake it a night with a pre-
- show burger and a beer from the Pub. Dining walk-ins are welcome! \n\n*Thi
- s event complimentary and available for registered members and up to one r
- egistered guest.
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 8 spots left\nSt
+ atus: Available\nEvent URL: https://members.thequinhouse.com/events/176365
+ \n\nBoston’s best return to the 'House! Improv comedians are ready to ke
+ ep you laughing with spontaneous sketches\, quick wit\, and audience-inspi
+ red moments. Join us for a cocktail from the cash bar beginning at 7:30pm\
+ , then snag your seat and enjoy a show packed with energy from beginning t
+ o end. Seating is first come\, first serve\n\nMake it a night with a pre-s
+ how burger and a beer from the Pub. Dining walk-ins are welcome! \n\n*This
+  event complimentary and available for registered members and up to one re
+ gistered guest.
 URL:https://members.thequinhouse.com/events/176365
 CATEGORIES:The Arts
 END:VEVENT
