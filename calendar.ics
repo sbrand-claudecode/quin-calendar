@@ -114,18 +114,18 @@ DTSTART;TZID=America/New_York:20260528T173000
 DTEND;TZID=America/New_York:20260528T193000
 SUMMARY:Member Meet Up: Night Shift Brewery Esplanade
 LOCATION:Offsite: Night Shift Esplanade
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nStatus: Waitlist Only\nEve
- nt URL: https://members.thequinhouse.com/events/184946\n\nJoin fellow memb
- ers for an early summer evening at Night Shift Esplanade\, a lively outdo
- or beer garden set along the Charles River.\n\nThis casual gathering offer
- s an easy setting to connect\, unwind\, and enjoy a curated selection of b
- eers\, hard seltzers\, wines\, and non-alcoholic options. Whether catching
-  up with familiar faces or meeting someone new\, the atmosphere is designe
- d to be social\, welcoming\, and effortlessly enjoyable.\n\nDogs are welco
- me so feel free to bring your four-legged companion along for the evening.
- \n\n*This event is complimentary and reserved for members only. Each membe
- r will receive two complimentary drinks\, followed by a cash bar. Food is 
- available for purchase at nearby concessions.
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 1 spot left\
+ nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/184
+ 946\n\nJoin fellow members for an early summer evening at Night Shift Esp
+ lanade\, a lively outdoor beer garden set along the Charles River.\n\nThis
+  casual gathering offers an easy setting to connect\, unwind\, and enjoy a
+  curated selection of beers\, hard seltzers\, wines\, and non-alcoholic op
+ tions. Whether catching up with familiar faces or meeting someone new\, th
+ e atmosphere is designed to be social\, welcoming\, and effortlessly enjoy
+ able.\n\nDogs are welcome so feel free to bring your four-legged companion
+  along for the evening.\n\n*This event is complimentary and reserved for m
+ embers only. Each member will receive two complimentary drinks\, followed 
+ by a cash bar. Food is available for purchase at nearby concessions.
 URL:https://members.thequinhouse.com/events/184946
 CATEGORIES:Member Mixer
 END:VEVENT
@@ -354,7 +354,7 @@ DTSTART;TZID=America/New_York:20260602T170000
 DTEND;TZID=America/New_York:20260602T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 20 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 19 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  86694\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in an ambiant reserved space. This is your opportunity to connect with fe
@@ -657,7 +657,7 @@ DTSTART;TZID=America/New_York:20260617T190000
 DTEND;TZID=America/New_York:20260617T200000
 SUMMARY:From Interest to Impact: Board and Volunteer Fair
 LOCATION:The Muse
-DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nAvailability: 28 sp
+DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nAvailability: 24 sp
  ots left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/e
  vents/188596\n\nTurn inspiration into action at the The 'Quin Impact Fund'
  s Board and Volunteer Fair\, an interactive networking experience connecti
@@ -730,7 +730,7 @@ DTSTART;TZID=America/New_York:20260623T180000
 DTEND;TZID=America/New_York:20260623T190000
 SUMMARY:Improv Comedy | 6:00PM Show
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 18 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 12 spots left\nS
  tatus: Available\nEvent URL: https://members.thequinhouse.com/events/17636
  4\n\nBoston’s best return to the 'House! Improv comedians are ready to k
  eep you laughing with spontaneous sketches\, quick wit\, and audience-insp
@@ -773,7 +773,7 @@ DTSTART;TZID=America/New_York:20260623T200000
 DTEND;TZID=America/New_York:20260623T210000
 SUMMARY:Improv Comedy | 8:00PM Show
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 8 spots left\nSt
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 7 spots left\nSt
  atus: Available\nEvent URL: https://members.thequinhouse.com/events/176365
  \n\nBoston’s best return to the 'House! Improv comedians are ready to ke
  ep you laughing with spontaneous sketches\, quick wit\, and audience-inspi
