@@ -69,18 +69,18 @@ DTSTART;TZID=America/New_York:20260528T110000
 DTEND;TZID=America/New_York:20260528T120000
 SUMMARY:Art Tour: Masterworks in Print 
 LOCATION:Meet in The Lobby
-DESCRIPTION:Category: The Arts\nPrice: Free\nStatus: You are Confirmed\nEve
- nt URL: https://members.thequinhouse.com/events/176379\n\nJoin ‘Quin Col
- lection Curator Kate Chertavian for a print-focused art tour. The discussi
- on will begin in the Lobby with a closer look at Julie Mehretu’s spectac
- ular copper-plate etching\, Six Bardos: Luminous Appearance\, and Cy Twomb
- ly’s silkscreen from the landmark On the Bowery series.\n\nThe conversat
- ion will explore a wide range of printmaking techniques—including screen
- print\, woodcut\, and lithography—featuring works by artists such as Rob
- ert Mangold\, Jasper Johns\, and Louise Bourgeois.\n\nThe tour will also o
- ffer insights into a remarkable new addition to the ‘Quin’s collection
- : Claude Monet’s Champ d’Iris à Giverny.\n\n*This event is compliment
- ary and reserved for members only.
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 1 spot left\nSta
+ tus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/events
+ /176379\n\nJoin ‘Quin Collection Curator Kate Chertavian for a print-foc
+ used art tour. The discussion will begin in the Lobby with a closer look a
+ t Julie Mehretu’s spectacular copper-plate etching\, Six Bardos: Luminou
+ s Appearance\, and Cy Twombly’s silkscreen from the landmark On the Bowe
+ ry series.\n\nThe conversation will explore a wide range of printmaking te
+ chniques—including screenprint\, woodcut\, and lithography—featuring w
+ orks by artists such as Robert Mangold\, Jasper Johns\, and Louise Bourgeo
+ is.\n\nThe tour will also offer insights into a remarkable new addition to
+  the ‘Quin’s collection: Claude Monet’s Champ d’Iris à Giverny.\n
+ \n*This event is complimentary and reserved for members only.
 URL:https://members.thequinhouse.com/events/176379
 CATEGORIES:The Arts
 END:VEVENT
@@ -301,7 +301,7 @@ DTEND;TZID=America/New_York:20260601T210000
 SUMMARY:Serendipity Dinner 
 LOCATION:The Muse
 DESCRIPTION:Category: Member Mixer\nPrice: $100.00 per person\nAvailability
- : 5 spots left\nStatus: You are Confirmed\nEvent URL: https://members.theq
+ : 4 spots left\nStatus: You are Confirmed\nEvent URL: https://members.theq
  uinhouse.com/events/175998\n\nJoin The ‘Quin House Managing Director\, M
  atthias Kiehm\, for an evening of meaningful connections over a thoughtful
  ly curated three-course dinner. Enjoy expertly paired wines as you engage 
@@ -354,7 +354,7 @@ DTSTART;TZID=America/New_York:20260602T170000
 DTEND;TZID=America/New_York:20260602T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 19 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 16 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  86694\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in an ambiant reserved space. This is your opportunity to connect with fe
@@ -454,7 +454,7 @@ DTSTART;TZID=America/New_York:20260609T170000
 DTEND;TZID=America/New_York:20260609T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 27 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 26 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  86695\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in an ambiant reserved space. This is your opportunity to connect with fe
@@ -606,7 +606,7 @@ DTSTART;TZID=America/New_York:20260616T170000
 DTEND;TZID=America/New_York:20260616T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 33 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 32 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  86696\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in an ambiant reserved space. This is your opportunity to connect with fe
@@ -657,7 +657,7 @@ DTSTART;TZID=America/New_York:20260617T190000
 DTEND;TZID=America/New_York:20260617T200000
 SUMMARY:From Interest to Impact: Board and Volunteer Fair
 LOCATION:The Muse
-DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nAvailability: 22 sp
+DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nAvailability: 23 sp
  ots left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/e
  vents/188596\n\nTurn inspiration into action at the The 'Quin Impact Fund'
  s Board and Volunteer Fair\, an interactive networking experience connecti
@@ -730,7 +730,7 @@ DTSTART;TZID=America/New_York:20260623T180000
 DTEND;TZID=America/New_York:20260623T190000
 SUMMARY:Improv Comedy | 6:00PM Show
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 7 spots left\nSt
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 8 spots left\nSt
  atus: Available\nEvent URL: https://members.thequinhouse.com/events/176364
  \n\nBoston’s best return to the 'House! Improv comedians are ready to ke
  ep you laughing with spontaneous sketches\, quick wit\, and audience-inspi
@@ -773,7 +773,7 @@ DTSTART;TZID=America/New_York:20260623T200000
 DTEND;TZID=America/New_York:20260623T210000
 SUMMARY:Improv Comedy | 8:00PM Show
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 7 spots left\nSt
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 5 spots left\nSt
  atus: Available\nEvent URL: https://members.thequinhouse.com/events/176365
  \n\nBoston’s best return to the 'House! Improv comedians are ready to ke
  ep you laughing with spontaneous sketches\, quick wit\, and audience-inspi
