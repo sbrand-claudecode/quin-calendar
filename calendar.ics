@@ -49,7 +49,7 @@ DTSTART;TZID=America/New_York:20260526T170000
 DTEND;TZID=America/New_York:20260526T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 3 spots left
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 7 spots left
  \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/18
  4146\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set 
  in an ambiant reserved space. This is your opportunity to connect with fel
@@ -203,7 +203,7 @@ DTSTART;TZID=America/New_York:20260531T140000
 DTEND;TZID=America/New_York:20260531T173000
 SUMMARY:CBS Sports Golazo Network Live Stream: "Call It What You Want"
 LOCATION:The Pub
-DESCRIPTION:Category: Sports & Games\nPrice: Free\nAvailability: 58 spots l
+DESCRIPTION:Category: Sports & Games\nPrice: Free\nAvailability: 55 spots l
  eft\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events
  /188593\n\n2:00PM Doors Open\, 2:30PM Pre-Match Commentary\, 3:00PM Match\
  nJoin CBS Sports Golazo Network for a live taping of Call It What You Wa
@@ -395,7 +395,7 @@ DTSTART;TZID=America/New_York:20260604T140000
 DTEND;TZID=America/New_York:20260604T160000
 SUMMARY:'Quin Chat: The Art of Boston in Provincetown
 LOCATION:Offsite: Mary Heaton Vorse House
-DESCRIPTION:Category: The Arts\nPrice: $46.73 per person\nAvailability: 53 
+DESCRIPTION:Category: The Arts\nPrice: $46.73 per person\nAvailability: 51 
  spots left\nStatus: Available\nEvent URL: https://members.thequinhouse.com
  /events/188597\n\n11:00AM - 12:00PM Optional Provincetown Art Association 
  & Museum Tour\n2:00PM Private Reception & MHVH Gallery Viewing\, 3:00PM -
@@ -628,26 +628,26 @@ DTSTART;TZID=America/New_York:20260617T170000
 DTEND;TZID=America/New_York:20260617T190000
 SUMMARY:From Interest to Impact: Finding Your Place on a Nonprofit Board
 LOCATION:The Living Room
-DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nAvailability: 11 sp
- ots left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/e
- vents/188594\n\n5:00PM Reception\, 5:30PM Presentation\, 6:30PM Panel Disc
- ussion\nStep into the future of civic leadership through this dynamic prog
- ram presented in partnership with The 'Quin Impact Fund and United Way’s
-  Board Connect initiative. Designed for emerging and established changemak
- ers alike\, the evening will explore how nonprofit board service can becom
- e a powerful catalyst for impact\, innovation\, and community transformati
- on.\n\nThe program begins with an interactive workshop led by United Way\,
-  offering an inside look at the responsibilities\, influence\, and opportu
- nities that come with board leadership. A forward-thinking panel discussio
- n will follow\, featuring nonprofit leaders and governance experts includi
- ng Jon Feinman of InnerCity Weightlifting\, Linda Whitlock\, Co-Chair of 
- The 'Quin Impact Fund and Yolanda Coentro of the Institute for Nonprofit P
- ractice\, moderated by Marty Martinez of United Way of Massachusetts Bay.\
- n\nThe evening concludes with an opportunity to connect directly with loca
- l organizations actively seeking new board talent—creating space for mea
- ningful conversations\, new collaborations\, and the next generation of pu
- rpose-driven leadership.\n\n*This event is complimentary and reserved for 
- members only. Complimentary light bites and refreshments will be served.
+DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nStatus: Waitlist On
+ ly\nEvent URL: https://members.thequinhouse.com/events/188594\n\n5:00PM Re
+ ception\, 5:30PM Presentation\, 6:30PM Panel Discussion\nStep into the fut
+ ure of civic leadership through this dynamic program presented in partners
+ hip with The 'Quin Impact Fund and United Way’s Board Connect initiative
+ . Designed for emerging and established changemakers alike\, the evening w
+ ill explore how nonprofit board service can become a powerful catalyst for
+  impact\, innovation\, and community transformation.\n\nThe program begins
+  with an interactive workshop led by United Way\, offering an inside look 
+ at the responsibilities\, influence\, and opportunities that come with boa
+ rd leadership. A forward-thinking panel discussion will follow\, featuring
+  nonprofit leaders and governance experts including Jon Feinman of InnerCi
+ ty Weightlifting\, Linda Whitlock\, Co-Chair of The 'Quin Impact Fund and
+  Yolanda Coentro of the Institute for Nonprofit Practice\, moderated by Ma
+ rty Martinez of United Way of Massachusetts Bay.\n\nThe evening concludes 
+ with an opportunity to connect directly with local organizations actively 
+ seeking new board talent—creating space for meaningful conversations\, n
+ ew collaborations\, and the next generation of purpose-driven leadership.\
+ n\n*This event is complimentary and reserved for members only. Complimenta
+ ry light bites and refreshments will be served.
 URL:https://members.thequinhouse.com/events/188594
 CATEGORIES:‘Quin Impact Fund
 END:VEVENT
