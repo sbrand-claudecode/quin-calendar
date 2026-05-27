@@ -53,18 +53,20 @@ DTEND;TZID=America/New_York:20260528T180000
 SUMMARY:Rooftop Rendezvous: Château Sainte Marguerite
 LOCATION:Sky Deck
 DESCRIPTION:Category: Food & Beverage\nPrice: Free\nStatus: You are on Wait
- list\nEvent URL: https://members.thequinhouse.com/events/185624\n\nAs the 
- season turns\, the Sky Deck reemerges as one of The 'Quin's most coveted s
- ettings - an open-air retreat above the city\, where warm afternoons stret
- ch into golden hour and evenings unfold with ease. \n\nThis year\, we are
-  pleased to partner with Château Sainte Marguerite as our exclusive 'Hous
- e rosé\, poured throughout the season alongside a signature rosé cocktai
- l - bringing a fresh\, coastal sensibility to the rooftop experience.\n\nT
- o mark the opening\, join us for a celebratory rooftop rendezvous\, featur
- ing a complimentary tasting of Château Sainte Marguerite. Thoughtfully de
- signed to capture the spirit of the season\, the evening offers a first ta
- ste of summer at The ’Quin - effortless\, elevated\, and best enjoyed ab
- ove it all.\n\n*This event is complimentary and reserved for members only.
+ list\nEvent URL: https://members.thequinhouse.com/events/185624\n\n5:00PM 
+ Arrival\, 5:15PM Tasting & Presentation\nAs the season turns\, the Sky Dec
+ k reemerges as one of The 'Quin's most coveted settings - an open-air retr
+ eat above the city\, where warm afternoons stretch into golden hour and ev
+ enings unfold with ease. \n\nThis year\, we are pleased to partner with C
+ hâteau Sainte Marguerite as our exclusive 'House rosé\, poured throughou
+ t the season alongside a signature rosé cocktail - bringing a fresh\, coa
+ stal sensibility to the rooftop experience.\n\nTo mark the opening\, join 
+ us for a celebratory rooftop rendezvous\, featuring a complimentary tastin
+ g of Château Sainte Marguerite and a presentation from the owner and este
+ emed winemaker\, Olivier Fayard. Thoughtfully designed to capture the spir
+ it of the season\, the evening offers a first taste of summer at The ’Qu
+ in - effortless\, elevated\, and best enjoyed above it all.\n\n*This event
+  is complimentary and reserved for members only.
 URL:https://members.thequinhouse.com/events/185624
 CATEGORIES:Food & Beverage
 END:VEVENT
@@ -161,9 +163,10 @@ UID:quin-event-188593@thequinhouse.com
 DTSTAMP:20260531T140000Z
 DTSTART;TZID=America/New_York:20260531T140000
 DTEND;TZID=America/New_York:20260531T173000
-SUMMARY:CBS Sports Golazo Network Live Stream: "Call It What You Want"
+SUMMARY:CBS Sports Golazo Network Live Taping: "Call It What You Want" Podc
+ ast
 LOCATION:The Pub
-DESCRIPTION:Category: Sports & Games\nPrice: Free\nAvailability: 49 spots l
+DESCRIPTION:Category: Sports & Games\nPrice: Free\nAvailability: 46 spots l
  eft\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events
  /188593\n\n2:00PM Doors Open\, 2:30PM Pre-Match Commentary\, 3:00PM Match\
  nJoin CBS Sports Golazo Network for a live taping of Call It What You Wa
@@ -178,9 +181,10 @@ DESCRIPTION:Category: Sports & Games\nPrice: Free\nAvailability: 49 spots l
   audience Q&A\, bringing fans closer to the conversation shaping the futur
  e of the game. The Pub will sport a cash bar and à la carte stadium-style
   menu available for purchase throughout the game. \n\n*This event is rese
- rved for members and one registered guest. This is a lively reception-styl
- e game viewing event\, therefore seats will be reduced (not guaranteed) fo
- r this occasion in favor of standing room to accommodate all attendees.
+ rved for members\, plus three registered guests. This is a lively receptio
+ n-style game viewing event\, therefore seats will be reduced (not guarante
+ ed) for this occasion in favor of standing room to accommodate all attende
+ es.
 URL:https://members.thequinhouse.com/events/188593
 CATEGORIES:Sports & Games
 END:VEVENT
@@ -315,7 +319,7 @@ DTSTART;TZID=America/New_York:20260602T170000
 DTEND;TZID=America/New_York:20260602T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 14 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 13 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  86694\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in an ambiant reserved space. This is your opportunity to connect with fe
