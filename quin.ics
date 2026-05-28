@@ -24,50 +24,27 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:quin-event-176379@thequinhouse.com
-DTSTAMP:20260528T110000Z
-DTSTART;TZID=America/New_York:20260528T110000
-DTEND;TZID=America/New_York:20260528T120000
-SUMMARY:Art Tour: Masterworks in Print 
-LOCATION:Meet in The Lobby
-DESCRIPTION:Category: The Arts\nPrice: Free\nStatus: You are Confirmed\nEve
- nt URL: https://members.thequinhouse.com/events/176379\n\nJoin ‘Quin Col
- lection Curator Kate Chertavian for a print-focused art tour. The discussi
- on will begin in the Lobby with a closer look at Julie Mehretu’s spectac
- ular copper-plate etching\, Six Bardos: Luminous Appearance\, and Cy Twomb
- ly’s silkscreen from the landmark On the Bowery series.\n\nThe conversat
- ion will explore a wide range of printmaking techniques—including screen
- print\, woodcut\, and lithography—featuring works by artists such as Rob
- ert Mangold\, Jasper Johns\, and Louise Bourgeois.\n\nThe tour will also o
- ffer insights into a remarkable new addition to the ‘Quin’s collection
- : Claude Monet’s Champ d’Iris à Giverny.\n\n*This event is compliment
- ary and reserved for members only.
-URL:https://members.thequinhouse.com/events/176379
-CATEGORIES:The Arts
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-185624@thequinhouse.com
 DTSTAMP:20260528T170000Z
 DTSTART;TZID=America/New_York:20260528T170000
 DTEND;TZID=America/New_York:20260528T180000
 SUMMARY:Meet The Maker: Château Sainte Marguerite
-LOCATION:Sky Deck
-DESCRIPTION:Category: Food & Beverage\nPrice: Free\nAvailability: 5 spots l
- eft\nStatus: You are on Waitlist\nEvent URL: https://members.thequinhouse.
- com/events/185624\n\n5:00PM Arrival\, 5:15PM Tasting & Presentation\nAs th
- e season turns\, the Sky Deck reemerges as one of The 'Quin's most coveted
-  settings - an open-air retreat above the city\, where warm afternoons str
- etch into golden hour and evenings unfold with ease. \n\nThis year\, we a
- re pleased to partner with Château Sainte Marguerite as our exclusive 'Ho
- use rosé\, poured throughout the season alongside a signature rosé cockt
- ail - bringing a fresh\, coastal sensibility to the rooftop experience.\n\
- nTo mark the opening\, join us for a celebratory rooftop rendezvous\, feat
- uring a complimentary tasting of Château Sainte Marguerite and a presenta
- tion from the owner and esteemed winemaker\, Olivier Fayard. Thoughtfully 
- designed to capture the spirit of the season\, the evening offers a first 
- taste of summer at The ’Quin - effortless\, elevated\, and best enjoyed 
- above it all.\n\n*This event is complimentary and reserved for members onl
- y.
+LOCATION:Scottie's
+DESCRIPTION:Category: Food & Beverage\nPrice: Free\nStatus: You are on Wait
+ list\nEvent URL: https://members.thequinhouse.com/events/185624\n\n5:00PM 
+ Arrival\, 5:15PM Tasting & Presentation\nAs the season turns\, the Sky Dec
+ k reemerges as one of The 'Quin's most coveted settings - an open-air retr
+ eat above the city\, where warm afternoons stretch into golden hour and ev
+ enings unfold with ease. \n\nThis year\, we are pleased to partner with C
+ hâteau Sainte Marguerite as our exclusive 'House rosé\, poured throughou
+ t the season alongside a signature rosé cocktail - bringing a fresh\, coa
+ stal sensibility to the rooftop experience.\n\nTo mark the opening\, join 
+ us for a celebratory meet the maker\, featuring a complimentary tasting of
+  Château Sainte Marguerite and a presentation from the owner and esteemed
+  winemaker\, Olivier Fayard. Thoughtfully designed to capture the spirit o
+ f the season\, the evening offers a first taste of summer at The ’Quin -
+  effortless\, elevated\, and best enjoyed above it all.\n\n*This event is 
+ complimentary and reserved for members only.
 URL:https://members.thequinhouse.com/events/185624
 CATEGORIES:Food & Beverage
 END:VEVENT
