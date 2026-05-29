@@ -24,53 +24,6 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:quin-event-185624@thequinhouse.com
-DTSTAMP:20260528T170000Z
-DTSTART;TZID=America/New_York:20260528T170000
-DTEND;TZID=America/New_York:20260528T180000
-SUMMARY:Meet The Maker: Château Sainte Marguerite
-LOCATION:Scottie's
-DESCRIPTION:Category: Food & Beverage\nPrice: Free\nStatus: You are on Wait
- list\nEvent URL: https://members.thequinhouse.com/events/185624\n\n5:00PM 
- Arrival\, 5:15PM Tasting & Presentation\nAs the season turns\, the Sky Dec
- k reemerges as one of The 'Quin's most coveted settings - an open-air retr
- eat above the city\, where warm afternoons stretch into golden hour and ev
- enings unfold with ease. \n\nThis year\, we are pleased to partner with C
- hâteau Sainte Marguerite as our exclusive 'House rosé\, poured throughou
- t the season alongside a signature rosé cocktail - bringing a fresh\, coa
- stal sensibility to the rooftop experience.\n\nTo mark the opening\, join 
- us for a celebratory meet the maker\, featuring a complimentary tasting of
-  Château Sainte Marguerite and a presentation from the owner and esteemed
-  winemaker\, Olivier Fayard. Thoughtfully designed to capture the spirit o
- f the season\, the evening offers a first taste of summer at The ’Quin -
-  effortless\, elevated\, and best enjoyed above it all.\n\n*This event is 
- complimentary and reserved for members only.
-URL:https://members.thequinhouse.com/events/185624
-CATEGORIES:Food & Beverage
-END:VEVENT
-BEGIN:VEVENT
-UID:quin-event-184946@thequinhouse.com
-DTSTAMP:20260528T173000Z
-DTSTART;TZID=America/New_York:20260528T173000
-DTEND;TZID=America/New_York:20260528T193000
-SUMMARY:Member Meet Up: Night Shift Brewery Esplanade
-LOCATION:Offsite: Night Shift Esplanade
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nStatus: Waitlist Only\nEve
- nt URL: https://members.thequinhouse.com/events/184946\n\nJoin fellow memb
- ers for an early summer evening at Night Shift Esplanade\, a lively outdo
- or beer garden set along the Charles River.\n\nThis casual gathering offer
- s an easy setting to connect\, unwind\, and enjoy a curated selection of b
- eers\, hard seltzers\, wines\, and non-alcoholic options. Whether catching
-  up with familiar faces or meeting someone new\, the atmosphere is designe
- d to be social\, welcoming\, and effortlessly enjoyable.\n\nDogs are welco
- me so feel free to bring your four-legged companion along for the evening.
- \n\n*This event is complimentary and reserved for members only. Each membe
- r will receive two complimentary drinks\, followed by a cash bar. Food is 
- available for purchase at nearby concessions.
-URL:https://members.thequinhouse.com/events/184946
-CATEGORIES:Member Mixer
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-188309@thequinhouse.com
 DTSTAMP:20260530T100000Z
 DTSTART;TZID=America/New_York:20260530T100000
@@ -144,7 +97,7 @@ DTEND;TZID=America/New_York:20260531T173000
 SUMMARY:CBS Sports Golazo Network Live Taping: "Call It What You Want" Podc
  ast
 LOCATION:The Pub
-DESCRIPTION:Category: Sports & Games\nPrice: Free\nAvailability: 41 spots l
+DESCRIPTION:Category: Sports & Games\nPrice: Free\nAvailability: 39 spots l
  eft\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events
  /188593\n\n2:00PM Doors Open\, 2:30PM Pre-Match Commentary\, 3:00PM Match\
  nJoin CBS Sports Golazo Network for a live taping of Call It What You Wa
@@ -297,7 +250,7 @@ DTSTART;TZID=America/New_York:20260602T170000
 DTEND;TZID=America/New_York:20260602T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 11 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 10 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  86694\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in an ambiant reserved space. This is your opportunity to connect with fe
@@ -397,7 +350,7 @@ DTSTART;TZID=America/New_York:20260609T170000
 DTEND;TZID=America/New_York:20260609T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 20 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 18 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  86695\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in an ambiant reserved space. This is your opportunity to connect with fe

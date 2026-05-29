@@ -24,31 +24,6 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:quin-event-185624@thequinhouse.com
-DTSTAMP:20260528T170000Z
-DTSTART;TZID=America/New_York:20260528T170000
-DTEND;TZID=America/New_York:20260528T180000
-SUMMARY:Meet The Maker: Château Sainte Marguerite
-LOCATION:Scottie's
-DESCRIPTION:Category: Food & Beverage\nPrice: Free\nStatus: You are on Wait
- list\nEvent URL: https://members.thequinhouse.com/events/185624\n\n5:00PM 
- Arrival\, 5:15PM Tasting & Presentation\nAs the season turns\, the Sky Dec
- k reemerges as one of The 'Quin's most coveted settings - an open-air retr
- eat above the city\, where warm afternoons stretch into golden hour and ev
- enings unfold with ease. \n\nThis year\, we are pleased to partner with C
- hâteau Sainte Marguerite as our exclusive 'House rosé\, poured throughou
- t the season alongside a signature rosé cocktail - bringing a fresh\, coa
- stal sensibility to the rooftop experience.\n\nTo mark the opening\, join 
- us for a celebratory meet the maker\, featuring a complimentary tasting of
-  Château Sainte Marguerite and a presentation from the owner and esteemed
-  winemaker\, Olivier Fayard. Thoughtfully designed to capture the spirit o
- f the season\, the evening offers a first taste of summer at The ’Quin -
-  effortless\, elevated\, and best enjoyed above it all.\n\n*This event is 
- complimentary and reserved for members only.
-URL:https://members.thequinhouse.com/events/185624
-CATEGORIES:Food & Beverage
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-175998@thequinhouse.com
 DTSTAMP:20260601T183000Z
 DTSTART;TZID=America/New_York:20260601T183000
