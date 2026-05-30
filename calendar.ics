@@ -24,72 +24,6 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:quin-event-188309@thequinhouse.com
-DTSTAMP:20260530T100000Z
-DTSTART;TZID=America/New_York:20260530T100000
-DTEND;TZID=America/New_York:20260530T113000
-SUMMARY:The Drawing Lab with Deb Putnoi: Session V
-LOCATION:The Muse
-DESCRIPTION:Category: The Arts\nPrice: Free\nStatus: soldOut\nEvent URL: ht
- tps://members.thequinhouse.com/events/188309\n\nSaturdays: February 28\, M
- arch 28\, April 25\, May 30 & June 27 | 10:00AM The Terrace & The Muse\nJo
- in us for The Drawing Lab\, a six class immersive drawing course led by ar
- tist and educator Deb Putnoi\, exploring the method as a practice of mindf
- ulness\, observation\, and self-expression. Open to all experience levels\
- , this course invites members to discover their unique visual voice throug
- h guided exercises\, sensory awareness\, and creative connection.\n\nMeet 
- likeminded members on reoccurring Saturdays over coffee and light bites wh
- ile experimenting with a range of materials and methods\, drawing inspirat
- ion from one another and The ’Quin Collection. Registration includes com
- mitment to participate in all six sessions.\n\n*This six-month course is r
- eserved for members only. The $120 per person fee includes all materials n
- eeded for the duration of the program. Please note that registration for t
- his course is final and non-cancelable\, and may not be transferred.
-URL:https://members.thequinhouse.com/events/188309
-CATEGORIES:The Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:quin-event-181402@thequinhouse.com
-DTSTAMP:20260530T113000Z
-DTSTART;TZID=America/New_York:20260530T113000
-DTEND;TZID=America/New_York:20260530T143000
-SUMMARY:Jazz Brunch
-LOCATION:Café Q
-DESCRIPTION:Category: Food & Beverage\nPrice: Free / Included\nStatus: Avai
- lable\nEvent URL: https://members.thequinhouse.com/events/181402\n\nReserv
- ations from 10:30AM - 3:00PM | Live Music from 11:30AM - 2:30PM\nRise\, sh
- ine and come hungry for Café Q's á la carte weekend brunch menu featurin
- g tableside entertainment by a Jazz duo. Following the club's usual policy
- \, children ages 6+ are welcome to attend when accompanied by a parent.\n\
- nMake a Reservation.
-URL:https://members.thequinhouse.com/events/181402
-CATEGORIES:Food & Beverage
-END:VEVENT
-BEGIN:VEVENT
-UID:quin-event-184143@thequinhouse.com
-DTSTAMP:20260530T120000Z
-DTSTART;TZID=America/New_York:20260530T120000
-DTEND;TZID=America/New_York:20260530T140000
-SUMMARY:Serendipity Brunch
-LOCATION:Lunasol
-DESCRIPTION:Category: Member Mixer\nPrice: $65.00 per person\nStatus: Waitl
- ist Only\nEvent URL: https://members.thequinhouse.com/events/184143\n\nJoi
- n us for a Serendipity Saturday Brunch that invites members to enjoy great
-  conversation\, in good company. Set in Lunasol\, the afternoon unfolds w
- ith an easy rhythm—a thoughtful menu\, enthusiastic members\, and a cura
- ted card deck of conversation prompts to inspire connections.\n\nBrunch wi
- ll be served family-style\, featuring pastries\, fruit\, and parfaits to b
- egin\, followed by a choice of entrée and generous sides. Mimosas and Blo
- ody Marys will be available throughout.\n\nSpend the day at The 'House—
- unhurried\, social\, and effortlessly enjoyable.\n\n*Tickets are $65 per p
- erson\, plus tax\, and are reserved for members only. Cancellations within
-  48 hours of the event\, or failure to attend\, will be charged in full. P
- lease inform us of any dietary needs or restrictions by emailing happening
- @thequin.com at least 72 hours prior to the event.
-URL:https://members.thequinhouse.com/events/184143
-CATEGORIES:Member Mixer
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-188593@thequinhouse.com
 DTSTAMP:20260531T140000Z
 DTSTART;TZID=America/New_York:20260531T140000
@@ -97,7 +31,7 @@ DTEND;TZID=America/New_York:20260531T173000
 SUMMARY:CBS Sports Golazo Network Live Taping: "Call It What You Want" Podc
  ast
 LOCATION:The Pub
-DESCRIPTION:Category: Sports & Games\nPrice: Free\nAvailability: 9 spots le
+DESCRIPTION:Category: Sports & Games\nPrice: Free\nAvailability: 6 spots le
  ft\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/
  188593\n\n2:00PM Doors Open\, 2:30PM Pre-Match Commentary\, 3:30PM Match\n
  Join CBS Sports Golazo Network for a live taping of Call It What You Wan
@@ -219,28 +153,27 @@ DTSTART;TZID=America/New_York:20260602T170000
 DTEND;TZID=America/New_York:20260602T183000
 SUMMARY:'Quin Chat: Understanding Brain Health
 LOCATION:Scottie's
-DESCRIPTION:Category: Health & Wellness\nPrice: Free\nAvailability: 1 spot 
- left\nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.c
- om/events/186163\n\n5:00PM Reception\, 5:30PM Discussion\nWhat if brain he
- alth wasn’t just clinical—but personal\, preventative\, and deeply rel
- evant to how we live every day? In honor of Alzheimer's Awareness Month\, 
- this candid\, forward-thinking conversation brings together leading physic
- ians and patient voices to explore the latest in neurovascular innovation\
- , life-saving interventions\, and the often-overlooked habits that shape c
- ognitive well-being. Expect an unfiltered look at survival\, prevention\, 
- and the science redefining how we think about the brain.\n\nFeaturing Dr. 
- Christopher Ogilvy—Director of Endovascular and Operative Neurovascular 
- Surgery at Beth Israel Deaconess Medical Center and Professor at Harvard M
- edical School—whose pioneering work continues to push the boundaries of 
- modern neurosurgery\, alongside Meg Smith\, CEO of Cure Alzheimer’s Fun
- d. Since taking the helm in 2023\, Smith has led the organization’s cont
- inued growth and impact\, advancing a research model that has directed ove
- r $138 million toward bold scientific efforts to slow\, prevent\, and ulti
- mately reverse Alzheimer’s.\n\nTogether with additional expert and patie
- nt perspectives\, the panel offers a rare opportunity to engage with leade
- rs at the forefront of brain health and discovery.\n\n*This event is compl
- imentary and reserved for members only. Light bites and refreshments will 
- be served.
+DESCRIPTION:Category: Health & Wellness\nPrice: Free\nStatus: You are Confi
+ rmed\nEvent URL: https://members.thequinhouse.com/events/186163\n\n5:00PM 
+ Reception\, 5:30PM Discussion\nWhat if brain health wasn’t just clinical
+ —but personal\, preventative\, and deeply relevant to how we live every 
+ day? In honor of Alzheimer's Awareness Month\, this candid\, forward-think
+ ing conversation brings together leading physicians and patient voices to 
+ explore the latest in neurovascular innovation\, life-saving interventions
+ \, and the often-overlooked habits that shape cognitive well-being. Expect
+  an unfiltered look at survival\, prevention\, and the science redefining 
+ how we think about the brain.\n\nFeaturing Dr. Christopher Ogilvy—Direct
+ or of Endovascular and Operative Neurovascular Surgery at Beth Israel Deac
+ oness Medical Center and Professor at Harvard Medical School—whose pione
+ ering work continues to push the boundaries of modern neurosurgery\, alon
+ gside Meg Smith\, CEO of Cure Alzheimer’s Fund. Since taking the helm in
+  2023\, Smith has led the organization’s continued growth and impact\, a
+ dvancing a research model that has directed over $138 million toward bold 
+ scientific efforts to slow\, prevent\, and ultimately reverse Alzheimer’
+ s.\n\nTogether with additional expert and patient perspectives\, the panel
+  offers a rare opportunity to engage with leaders at the forefront of brai
+ n health and discovery.\n\n*This event is complimentary and reserved for m
+ embers only. Light bites and refreshments will be served.
 URL:https://members.thequinhouse.com/events/186163
 CATEGORIES:Health & Wellness
 END:VEVENT
@@ -291,7 +224,7 @@ DTSTART;TZID=America/New_York:20260604T140000
 DTEND;TZID=America/New_York:20260604T160000
 SUMMARY:'Quin Chat: The Art of Boston in Provincetown
 LOCATION:Offsite: Mary Heaton Vorse House
-DESCRIPTION:Category: The Arts\nPrice: $46.73 per person\nAvailability: 52 
+DESCRIPTION:Category: The Arts\nPrice: $46.73 per person\nAvailability: 50 
  spots left\nStatus: Available\nEvent URL: https://members.thequinhouse.com
  /events/188597\n\n11:00AM - 12:00PM Optional Provincetown Art Association 
  & Museum Tour\n2:00PM Private Reception & MHVH Gallery Viewing\, 3:00PM -
@@ -401,24 +334,24 @@ DTSTART;TZID=America/New_York:20260610T170000
 DTEND;TZID=America/New_York:20260610T183000
 SUMMARY:Author Talk: "Checkmate" with Ben Mezrich
 LOCATION:The Pub
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 1 spot left\nSta
- tus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/events
- /187622\n\n5:00PM Reception\, 5:30PM Discussion \nStep into the high-stak
- es world of Checkmate with bestselling author Ben Mezrich—an electrifyin
- g true story that unravels the biggest scandal in modern chess.\n\nIn Sept
- ember 2022\, the chess world was shaken when nineteen-year-old American pr
- odigy Hans Niemann defeated reigning world champion Magnus Carlsen in a st
- unning upset. Days later\, Carlsen accused Niemann of cheating—an allega
- tion that ignited a global firestorm\, drawing in Chess.com\, the media\, 
- and a rapidly expanding digital audience. What followed was a dramatic col
- lision of reputation\, rivalry\, and power.\n\nBut Checkmate is about far 
- more than controversy. It’s a portrait of ambition at its sharpest edge�
- ��a young player willing to risk everything to rise\, and a legendary figu
- re determined to defend his legacy. Set against the backdrop of a centurie
- s-old game transformed by streaming\, sponsorships\, and Silicon Valley in
- fluence\, Mezrich brings readers inside a world that is as cutthroat as it
-  is cerebral.\n\n*This event is complimentary and reserved for members onl
- y. Light bites and refreshments will be served.
+DESCRIPTION:Category: The Arts\nPrice: Free\nStatus: You are Confirmed\nEve
+ nt URL: https://members.thequinhouse.com/events/187622\n\n5:00PM Reception
+ \, 5:30PM Discussion \nStep into the high-stakes world of Checkmate with 
+ bestselling author Ben Mezrich—an electrifying true story that unravels 
+ the biggest scandal in modern chess.\n\nIn September 2022\, the chess worl
+ d was shaken when nineteen-year-old American prodigy Hans Niemann defeated
+  reigning world champion Magnus Carlsen in a stunning upset. Days later\, 
+ Carlsen accused Niemann of cheating—an allegation that ignited a global 
+ firestorm\, drawing in Chess.com\, the media\, and a rapidly expanding dig
+ ital audience. What followed was a dramatic collision of reputation\, riva
+ lry\, and power.\n\nBut Checkmate is about far more than controversy. It�
+ �s a portrait of ambition at its sharpest edge—a young player willing to
+  risk everything to rise\, and a legendary figure determined to defend his
+  legacy. Set against the backdrop of a centuries-old game transformed by s
+ treaming\, sponsorships\, and Silicon Valley influence\, Mezrich brings re
+ aders inside a world that is as cutthroat as it is cerebral.\n\n*This even
+ t is complimentary and reserved for members only. Light bites and refreshm
+ ents will be served.
 URL:https://members.thequinhouse.com/events/187622
 CATEGORIES:The Arts
 END:VEVENT
