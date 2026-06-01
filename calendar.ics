@@ -30,7 +30,7 @@ DTSTART;TZID=America/New_York:20260601T170000
 DTEND;TZID=America/New_York:20260601T183000
 SUMMARY:'Quin Chat: How to Start Collecting
 LOCATION:The Reading Room
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 8 spots left\nSt
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 4 spots left\nSt
  atus: Available\nEvent URL: https://members.thequinhouse.com/events/175777
  \n\n5:00PM Reception\, 5:30PM Discussion\nStep inside the art market with 
  those who know it best. Join ’Quin House Art Curator Kate Chertavian in 
@@ -154,7 +154,7 @@ DTSTART;TZID=America/New_York:20260602T170000
 DTEND;TZID=America/New_York:20260602T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 7 spots left
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 6 spots left
  \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/18
  6694\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set 
  in an ambiant reserved space. This is your opportunity to connect with fel
@@ -325,24 +325,24 @@ DTSTART;TZID=America/New_York:20260610T170000
 DTEND;TZID=America/New_York:20260610T183000
 SUMMARY:Author Talk: "Checkmate" with Ben Mezrich
 LOCATION:The Pub
-DESCRIPTION:Category: The Arts\nPrice: Free\nStatus: You are Confirmed\nEve
- nt URL: https://members.thequinhouse.com/events/187622\n\n5:00PM Reception
- \, 5:30PM Discussion \nStep into the high-stakes world of Checkmate with 
- bestselling author Ben Mezrich—an electrifying true story that unravels 
- the biggest scandal in modern chess.\n\nIn September 2022\, the chess worl
- d was shaken when nineteen-year-old American prodigy Hans Niemann defeated
-  reigning world champion Magnus Carlsen in a stunning upset. Days later\, 
- Carlsen accused Niemann of cheating—an allegation that ignited a global 
- firestorm\, drawing in Chess.com\, the media\, and a rapidly expanding dig
- ital audience. What followed was a dramatic collision of reputation\, riva
- lry\, and power.\n\nBut Checkmate is about far more than controversy. It�
- �s a portrait of ambition at its sharpest edge—a young player willing to
-  risk everything to rise\, and a legendary figure determined to defend his
-  legacy. Set against the backdrop of a centuries-old game transformed by s
- treaming\, sponsorships\, and Silicon Valley influence\, Mezrich brings re
- aders inside a world that is as cutthroat as it is cerebral.\n\n*This even
- t is complimentary and reserved for members only. Light bites and refreshm
- ents will be served.
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 1 spot left\nSta
+ tus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/events
+ /187622\n\n5:00PM Reception\, 5:30PM Discussion \nStep into the high-stak
+ es world of Checkmate with bestselling author Ben Mezrich—an electrifyin
+ g true story that unravels the biggest scandal in modern chess.\n\nIn Sept
+ ember 2022\, the chess world was shaken when nineteen-year-old American pr
+ odigy Hans Niemann defeated reigning world champion Magnus Carlsen in a st
+ unning upset. Days later\, Carlsen accused Niemann of cheating—an allega
+ tion that ignited a global firestorm\, drawing in Chess.com\, the media\, 
+ and a rapidly expanding digital audience. What followed was a dramatic col
+ lision of reputation\, rivalry\, and power.\n\nBut Checkmate is about far 
+ more than controversy. It’s a portrait of ambition at its sharpest edge�
+ ��a young player willing to risk everything to rise\, and a legendary figu
+ re determined to defend his legacy. Set against the backdrop of a centurie
+ s-old game transformed by streaming\, sponsorships\, and Silicon Valley in
+ fluence\, Mezrich brings readers inside a world that is as cutthroat as it
+  is cerebral.\n\n*This event is complimentary and reserved for members onl
+ y. Light bites and refreshments will be served.
 URL:https://members.thequinhouse.com/events/187622
 CATEGORIES:The Arts
 END:VEVENT
@@ -531,7 +531,7 @@ DTSTART;TZID=America/New_York:20260617T170000
 DTEND;TZID=America/New_York:20260617T183000
 SUMMARY:'Quin Chat: Echoes of Liberty
 LOCATION:Scottie's
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 53 spots lef
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 46 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  89485\n\n5:00PM Reception\, 5:30PM Discussion \nJoin us for an exclusive 
  preview of Echoes of Liberty\, an immersive Augmented Reality experience 
@@ -836,7 +836,7 @@ DTSTART;TZID=America/New_York:20260625T110000
 DTEND;TZID=America/New_York:20260625T120000
 SUMMARY:Art Tour: Celebrating LGBTQIA+ Artists
 LOCATION:Meet in The Lobby
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 5 spots left\nSt
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 2 spots left\nSt
  atus: Available\nEvent URL: https://members.thequinhouse.com/events/176380
  \n\nIn celebration of June: Pride Month\, join The 'Quin's Art Curator Kat
  e Chertavian for a guided exploration of works by LGBTQIA+ artists feature
@@ -855,7 +855,7 @@ DTSTART;TZID=America/New_York:20260625T120000
 DTEND;TZID=America/New_York:20260625T140000
 SUMMARY: Serendipity Lunch - Convening Curators
 LOCATION:Lunasol
-DESCRIPTION:Category: The Arts\nPrice: $68.00 per person\nAvailability: 15 
+DESCRIPTION:Category: The Arts\nPrice: $68.00 per person\nAvailability: 13 
  spots left\nStatus: Available\nEvent URL: https://members.thequinhouse.com
  /events/188040\n\nContinuing the "Curated Connections" extension of the Se
  rendipity series\, meet us for lunch convening members who identify as Cr
@@ -1185,5 +1185,47 @@ DESCRIPTION:Category: The Arts\nPrice: $607.48 per person\nStatus: soldOut\
   no assigned seating. All shows are rain or shine.
 URL:https://members.thequinhouse.com/events/180153
 CATEGORIES:The Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-189418@thequinhouse.com
+DTSTAMP:20260925T120000Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260929
+SUMMARY:'Venture: Oktoberfest
+LOCATION:Offsite: Munich\, Germany
+DESCRIPTION:Category: ‘Venture - Travel\nPrice: $5607.48 per person\nAvai
+ lability: 3 spots left\nStatus: Available\nTime: 12 PM – 11 AM\nEvent UR
+ L: https://members.thequinhouse.com/events/189418\n\nExperience Oktoberfes
+ t like never before.\n\nMore than just a visit\, join fellow 'Quin members
+  for our return to Oktoberfest—an unforgettable experience celebrating t
+ he very best of Bavarian culture\, tradition\, and hospitality. Discover t
+ he vibrant spirit of Munich and the festive atmosphere surrounding the wor
+ ld-famous beer halls\, all while enjoying exclusive access to the iconic M
+ arstall-Festzelt beer tent. This exceptional journey will once again be ho
+ sted by 'Quin Managing Director\, Matthias Kiehm\, a native of Germany\, w
+ ho will share his deep local knowledge\, personal connections\, and passio
+ n for the region throughout the trip.\n\nThe luxurious Seehotel Überfahrt
+  will serve as your five-star home away from home\, offering the perfect b
+ lend of elegance and comfort. Nestled near the stunning Lake Tegernsee\, t
+ his exquisite retreat features a renowned spa\, exceptional dining\, and i
+ mpeccable service\, creating the ideal setting for an unforgettable Oktobe
+ rfest adventure.\n\nIncluded in the price is four nights’ accommodation 
+ at the 5-star Seehotel Überfahrt in Rottach-Egern\, access to the Marstal
+ l-Festzelt beer tent\, all formal dining experiences and activities\, as w
+ ell as all taxes and gratuities. Flights to and from Munich\, your transfe
+ r to and from the hotel\, insurance and any items of a personal nature are
+  NOT included.\n\nDeluxe Mountain View | Single $4\,800 | Double $7\,300\n
+ Deluxe Lake View | Single $5\,100 | Double $7\,600\nJunior Suite Mountain 
+ View | Single $6\,000 | Double $8\,500\nMaisonette Lake View | Single $8\,
+ 300 | Double $10\,800\nTegernsee Suite Lake View | Single $9\,900 | Double
+  $12\,400\n\nReservations are non-refundable and non-transferable in order
+  to guarantee accommodations during the high season. Payment is due in fu
+ ll at the time of booking. \n\nTo ensure the best possible experience for
+  all attendees\, we kindly ask that members inform us in advance of any ph
+ ysical limitations\, mobility considerations\, or accessibility needs we s
+ hould be aware of. All members will also be asked to sign The 'Quin's stan
+ dard liability agreement in advance of travel.
+URL:https://members.thequinhouse.com/events/189418
+CATEGORIES:‘Venture - Travel
 END:VEVENT
 END:VCALENDAR
