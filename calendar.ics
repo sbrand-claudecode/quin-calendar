@@ -24,43 +24,13 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:quin-event-188593@thequinhouse.com
-DTSTAMP:20260531T140000Z
-DTSTART;TZID=America/New_York:20260531T140000
-DTEND;TZID=America/New_York:20260531T173000
-SUMMARY:CBS Sports Golazo Network Live Taping: "Call It What You Want" Podc
- ast
-LOCATION:The Pub
-DESCRIPTION:Category: Sports & Games\nPrice: Free\nAvailability: 12 spots l
- eft\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events
- /188593\n\n2:00PM Doors Open\, 2:30PM Pre-Match Commentary\, 3:30PM Match\
- nJoin CBS Sports Golazo Network for a live taping of Call It What You Wa
- nt featuring United States Men's National Team (USMNT) legends and leadin
- g soccer voices Jimmy Conrad\, Marcelo Balboa\, and Charlie Davies as they
-  break down the USMNT's friendly match against Senegal ahead of the World 
- Cup.\n\nBlending live match commentary\, tournament predictions\, insider 
- analysis\, and post-match discussion\, the afternoon offers 'Quin members 
- an immersive look into the current state of the USMNT and the global socce
- r landscape leading into the world’s biggest stage. Members will also ha
- ve the opportunity to engage directly with the hosts during an interactive
-  audience Q&A\, bringing fans closer to the conversation shaping the futur
- e of the game. The Pub will sport a cash bar and à la carte stadium-style
-  menu available for purchase throughout the game. \n\n*This event is rese
- rved for members\, plus three registered guests. This is a lively receptio
- n-style game viewing event\, therefore seats will be reduced (not guarante
- ed) for this occasion in favor of standing room to accommodate all attende
- es.
-URL:https://members.thequinhouse.com/events/188593
-CATEGORIES:Sports & Games
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-175777@thequinhouse.com
 DTSTAMP:20260601T170000Z
 DTSTART;TZID=America/New_York:20260601T170000
 DTEND;TZID=America/New_York:20260601T183000
 SUMMARY:'Quin Chat: How to Start Collecting
 LOCATION:The Reading Room
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 2 spots left\nSt
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 3 spots left\nSt
  atus: Available\nEvent URL: https://members.thequinhouse.com/events/175777
  \n\n5:00PM Reception\, 5:30PM Discussion\nStep inside the art market with 
  those who know it best. Join ’Quin House Art Curator Kate Chertavian in 
@@ -132,7 +102,7 @@ DTEND;TZID=America/New_York:20260601T210000
 SUMMARY:Serendipity Dinner 
 LOCATION:The Muse
 DESCRIPTION:Category: Member Mixer\nPrice: $100.00 per person\nAvailability
- : 5 spots left\nStatus: You are Confirmed\nEvent URL: https://members.theq
+ : 4 spots left\nStatus: You are Confirmed\nEvent URL: https://members.theq
  uinhouse.com/events/175998\n\nJoin The ‘Quin House Managing Director\, M
  atthias Kiehm\, for an evening of meaningful connections over a thoughtful
  ly curated three-course dinner. Enjoy expertly paired wines as you engage 
@@ -154,27 +124,28 @@ DTSTART;TZID=America/New_York:20260602T170000
 DTEND;TZID=America/New_York:20260602T183000
 SUMMARY:'Quin Chat: Understanding Brain Health
 LOCATION:Scottie's
-DESCRIPTION:Category: Health & Wellness\nPrice: Free\nStatus: You are Confi
- rmed\nEvent URL: https://members.thequinhouse.com/events/186163\n\n5:00PM 
- Reception\, 5:30PM Discussion\nWhat if brain health wasn’t just clinical
- —but personal\, preventative\, and deeply relevant to how we live every 
- day? In honor of Alzheimer's Awareness Month\, this candid\, forward-think
- ing conversation brings together leading physicians and patient voices to 
- explore the latest in neurovascular innovation\, life-saving interventions
- \, and the often-overlooked habits that shape cognitive well-being. Expect
-  an unfiltered look at survival\, prevention\, and the science redefining 
- how we think about the brain.\n\nFeaturing Dr. Christopher Ogilvy—Direct
- or of Endovascular and Operative Neurovascular Surgery at Beth Israel Deac
- oness Medical Center and Professor at Harvard Medical School—whose pione
- ering work continues to push the boundaries of modern neurosurgery\, alon
- gside Meg Smith\, CEO of Cure Alzheimer’s Fund. Since taking the helm in
-  2023\, Smith has led the organization’s continued growth and impact\, a
- dvancing a research model that has directed over $138 million toward bold 
- scientific efforts to slow\, prevent\, and ultimately reverse Alzheimer’
- s.\n\nTogether with additional expert and patient perspectives\, the panel
-  offers a rare opportunity to engage with leaders at the forefront of brai
- n health and discovery.\n\n*This event is complimentary and reserved for m
- embers only. Light bites and refreshments will be served.
+DESCRIPTION:Category: Health & Wellness\nPrice: Free\nAvailability: 1 spot 
+ left\nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.c
+ om/events/186163\n\n5:00PM Reception\, 5:30PM Discussion\nWhat if brain he
+ alth wasn’t just clinical—but personal\, preventative\, and deeply rel
+ evant to how we live every day? In honor of Alzheimer's Awareness Month\, 
+ this candid\, forward-thinking conversation brings together leading physic
+ ians and patient voices to explore the latest in neurovascular innovation\
+ , life-saving interventions\, and the often-overlooked habits that shape c
+ ognitive well-being. Expect an unfiltered look at survival\, prevention\, 
+ and the science redefining how we think about the brain.\n\nFeaturing Dr. 
+ Christopher Ogilvy—Director of Endovascular and Operative Neurovascular 
+ Surgery at Beth Israel Deaconess Medical Center and Professor at Harvard M
+ edical School—whose pioneering work continues to push the boundaries of 
+ modern neurosurgery\, alongside Meg Smith\, CEO of Cure Alzheimer’s Fun
+ d. Since taking the helm in 2023\, Smith has led the organization’s cont
+ inued growth and impact\, advancing a research model that has directed ove
+ r $138 million toward bold scientific efforts to slow\, prevent\, and ulti
+ mately reverse Alzheimer’s.\n\nTogether with additional expert and patie
+ nt perspectives\, the panel offers a rare opportunity to engage with leade
+ rs at the forefront of brain health and discovery.\n\n*This event is compl
+ imentary and reserved for members only. Light bites and refreshments will 
+ be served.
 URL:https://members.thequinhouse.com/events/186163
 CATEGORIES:Health & Wellness
 END:VEVENT
@@ -285,7 +256,7 @@ DTSTART;TZID=America/New_York:20260609T170000
 DTEND;TZID=America/New_York:20260609T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 18 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 17 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  86695\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in an ambiant reserved space. This is your opportunity to connect with fe
@@ -784,7 +755,7 @@ DTSTART;TZID=America/New_York:20260625T110000
 DTEND;TZID=America/New_York:20260625T120000
 SUMMARY:Art Tour: Celebrating LGBTQIA+ Artists
 LOCATION:Meet in The Lobby
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 14 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 13 spots left\nS
  tatus: Available\nEvent URL: https://members.thequinhouse.com/events/17638
  0\n\nIn celebration of June: Pride Month\, join The 'Quin's Art Curator Ka
  te Chertavian for a guided exploration of works by LGBTQIA+ artists featur
