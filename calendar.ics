@@ -24,31 +24,6 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:quin-event-175777@thequinhouse.com
-DTSTAMP:20260601T170000Z
-DTSTART;TZID=America/New_York:20260601T170000
-DTEND;TZID=America/New_York:20260601T183000
-SUMMARY:'Quin Chat: How to Start Collecting
-LOCATION:The Reading Room
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 4 spots left\nSt
- atus: Available\nEvent URL: https://members.thequinhouse.com/events/175777
- \n\n5:00PM Reception\, 5:30PM Discussion\nStep inside the art market with 
- those who know it best. Join ’Quin House Art Curator Kate Chertavian in 
- conversation with Simon Shaw\, Senior Advisor and Co-Head of Impressionist
-  and Modern Art at Sotheby’s\, for an insider’s look at how collection
- s are shaped\, valued\, and sustained over time.\n\nDrawing on decades of 
- experience across auction houses\, private collections\, and global market
- s\, the discussion will explore how to build with intention—navigating a
- uctions and galleries\, evaluating works\, resisting fleeting trends\, and
-  ultimately defining a point of view that is distinctly your own. Thoughtf
- ul\, candid\, and deeply informed\, this is a rare opportunity to hear dir
- ectly from two leading voices at the highest levels of the art world.\n\n*
- This event is complimentary and reserved for members only. Light refreshme
- nts will be served.
-URL:https://members.thequinhouse.com/events/175777
-CATEGORIES:The Arts
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-184860@thequinhouse.com
 DTSTAMP:20260601T170000Z
 DTSTART;VALUE=DATE:20260601
@@ -67,54 +42,6 @@ DESCRIPTION:Category: Food & Beverage\nPrice: Free / Included\nStatus: Avai
  age and familiar flavors are elevated with care.
 URL:https://members.thequinhouse.com/events/184860
 CATEGORIES:Food & Beverage
-END:VEVENT
-BEGIN:VEVENT
-UID:quin-event-185004@thequinhouse.com
-DTSTAMP:20260601T173000Z
-DTSTART;TZID=America/New_York:20260601T173000
-DTEND;TZID=America/New_York:20260601T200000
-SUMMARY:Game Night: Bridge: Beyond Basics
-LOCATION:Scottie's
-DESCRIPTION:Category: Sports & Games\nPrice: Free\nStatus: Waitlist Only\nE
- vent URL: https://members.thequinhouse.com/events/185004\n\nDiscover the a
- rt and strategy of Bridge in a thoughtfully designed two-part series for m
- embers ready to deepen their understanding of the game. Open to those who 
- joined our March and May gatherings—as well as anyone with a foundationa
- l knowledge of Bridge—these sessions offer the perfect next step for bui
- lding confidence at the table.\n\nLed by an expert guest instructor\, each
-  evening will blend guided play with focused instruction. Expect a relaxed
- \, hands-on atmosphere with ample opportunity to play multiple hands\, ask
-  questions\, and develop your strategy in real time.\n\nBy the series’ e
- nd\, members will feel equipped to gather and play with ease\, carrying fo
- rward both the skill and the spirit of this timeless game alongside fellow
-  members.\n\n*This event is complimentary and reserved for members only. P
- lease note that this is a two-part series\; registration for the first ses
- sion on June 1st will automatically enroll you in the second session on Ju
- ne 8th\, ensuring a cohesive learning experience across both evenings.
-URL:https://members.thequinhouse.com/events/185004
-CATEGORIES:Sports & Games
-END:VEVENT
-BEGIN:VEVENT
-UID:quin-event-175998@thequinhouse.com
-DTSTAMP:20260601T183000Z
-DTSTART;TZID=America/New_York:20260601T183000
-DTEND;TZID=America/New_York:20260601T210000
-SUMMARY:Serendipity Dinner 
-LOCATION:The Muse
-DESCRIPTION:Category: Member Mixer\nPrice: $100.00 per person\nStatus: You 
- are Confirmed\nEvent URL: https://members.thequinhouse.com/events/175998\n
- \nJoin The ‘Quin House Managing Director\, Matthias Kiehm\, for an eveni
- ng of meaningful connections over a thoughtfully curated three-course dinn
- er. Enjoy expertly paired wines as you engage with fellow members\, guided
-  by conversation prompts designed to inspire deeper\, more memorable excha
- nges. This unique experience offers the perfect blend of great company\, e
- ngaging dialogue\, and a menu crafted to delight the senses.\n\n*Tickets a
- re $100 per person and are reserved for members only. Cancellations within
-  72 hours of the event\, or failure to attend\, will be charged in full. P
- lease inform us of any dietary needs or restrictions by emailing happening
- @thequin.com at least 72 hours before dinner service.
-URL:https://members.thequinhouse.com/events/175998
-CATEGORIES:Member Mixer
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-186163@thequinhouse.com
@@ -154,7 +81,7 @@ DTSTART;TZID=America/New_York:20260602T170000
 DTEND;TZID=America/New_York:20260602T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 6 spots left
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 7 spots left
  \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/18
  6694\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set 
  in an ambiant reserved space. This is your opportunity to connect with fel
@@ -254,7 +181,7 @@ DTSTART;TZID=America/New_York:20260609T170000
 DTEND;TZID=America/New_York:20260609T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 13 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 12 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  86695\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in an ambiant reserved space. This is your opportunity to connect with fe
@@ -325,24 +252,24 @@ DTSTART;TZID=America/New_York:20260610T170000
 DTEND;TZID=America/New_York:20260610T183000
 SUMMARY:Author Talk: "Checkmate" with Ben Mezrich
 LOCATION:The Pub
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 1 spot left\nSta
- tus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/events
- /187622\n\n5:00PM Reception\, 5:30PM Discussion \nStep into the high-stak
- es world of Checkmate with bestselling author Ben Mezrich—an electrifyin
- g true story that unravels the biggest scandal in modern chess.\n\nIn Sept
- ember 2022\, the chess world was shaken when nineteen-year-old American pr
- odigy Hans Niemann defeated reigning world champion Magnus Carlsen in a st
- unning upset. Days later\, Carlsen accused Niemann of cheating—an allega
- tion that ignited a global firestorm\, drawing in Chess.com\, the media\, 
- and a rapidly expanding digital audience. What followed was a dramatic col
- lision of reputation\, rivalry\, and power.\n\nBut Checkmate is about far 
- more than controversy. It’s a portrait of ambition at its sharpest edge�
- ��a young player willing to risk everything to rise\, and a legendary figu
- re determined to defend his legacy. Set against the backdrop of a centurie
- s-old game transformed by streaming\, sponsorships\, and Silicon Valley in
- fluence\, Mezrich brings readers inside a world that is as cutthroat as it
-  is cerebral.\n\n*This event is complimentary and reserved for members onl
- y. Light bites and refreshments will be served.
+DESCRIPTION:Category: The Arts\nPrice: Free\nStatus: You are Confirmed\nEve
+ nt URL: https://members.thequinhouse.com/events/187622\n\n5:00PM Reception
+ \, 5:30PM Discussion \nStep into the high-stakes world of Checkmate with 
+ bestselling author Ben Mezrich—an electrifying true story that unravels 
+ the biggest scandal in modern chess.\n\nIn September 2022\, the chess worl
+ d was shaken when nineteen-year-old American prodigy Hans Niemann defeated
+  reigning world champion Magnus Carlsen in a stunning upset. Days later\, 
+ Carlsen accused Niemann of cheating—an allegation that ignited a global 
+ firestorm\, drawing in Chess.com\, the media\, and a rapidly expanding dig
+ ital audience. What followed was a dramatic collision of reputation\, riva
+ lry\, and power.\n\nBut Checkmate is about far more than controversy. It�
+ �s a portrait of ambition at its sharpest edge—a young player willing to
+  risk everything to rise\, and a legendary figure determined to defend his
+  legacy. Set against the backdrop of a centuries-old game transformed by s
+ treaming\, sponsorships\, and Silicon Valley influence\, Mezrich brings re
+ aders inside a world that is as cutthroat as it is cerebral.\n\n*This even
+ t is complimentary and reserved for members only. Light bites and refreshm
+ ents will be served.
 URL:https://members.thequinhouse.com/events/187622
 CATEGORIES:The Arts
 END:VEVENT
@@ -455,7 +382,7 @@ DTEND;TZID=America/New_York:20260613T140000
 SUMMARY: Serendipity Pride Brunch
 LOCATION:Lunasol
 DESCRIPTION:Category: Member Mixer\nPrice: $65.00 per person\nAvailability:
-  11 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
+  10 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
  .com/events/186727\n\nJoin us for a Pride Edition of Serendipity Saturday 
  Brunch—a celebration of community\, conversation\, and connection. Set i
  n Lunasol\, the afternoon unfolds with a vibrant energy\, where members ga
@@ -531,7 +458,7 @@ DTSTART;TZID=America/New_York:20260617T170000
 DTEND;TZID=America/New_York:20260617T183000
 SUMMARY:'Quin Chat: Echoes of Liberty
 LOCATION:Scottie's
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 46 spots lef
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 39 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  89485\n\n5:00PM Reception\, 5:30PM Discussion \nJoin us for an exclusive 
  preview of Echoes of Liberty\, an immersive Augmented Reality experience 
@@ -1194,7 +1121,7 @@ DTEND;VALUE=DATE:20260929
 SUMMARY:'Venture: Oktoberfest
 LOCATION:Offsite: Munich\, Germany
 DESCRIPTION:Category: ‘Venture - Travel\nPrice: $5607.48 per person\nAvai
- lability: 3 spots left\nStatus: Available\nTime: 12 PM – 11 AM\nEvent UR
+ lability: 2 spots left\nStatus: Available\nTime: 12 PM – 11 AM\nEvent UR
  L: https://members.thequinhouse.com/events/189418\n\nExperience Oktoberfes
  t like never before.\n\nMore than just a visit\, join fellow 'Quin members
   for our return to Oktoberfest—an unforgettable experience celebrating t
