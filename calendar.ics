@@ -44,58 +44,6 @@ URL:https://members.thequinhouse.com/events/184860
 CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
-UID:quin-event-186163@thequinhouse.com
-DTSTAMP:20260602T170000Z
-DTSTART;TZID=America/New_York:20260602T170000
-DTEND;TZID=America/New_York:20260602T183000
-SUMMARY:'Quin Chat: Understanding Brain Health
-LOCATION:Scottie's
-DESCRIPTION:Category: Health & Wellness\nPrice: Free\nStatus: You are Confi
- rmed\nEvent URL: https://members.thequinhouse.com/events/186163\n\n5:00PM 
- Reception\, 5:30PM Discussion\nWhat if brain health wasn’t just clinical
- —but personal\, preventative\, and deeply relevant to how we live every 
- day? In honor of Alzheimer's Awareness Month\, this candid\, forward-think
- ing conversation brings together leading physicians and patient voices to 
- explore the latest in neurovascular innovation\, life-saving interventions
- \, and the often-overlooked habits that shape cognitive well-being. Expect
-  an unfiltered look at survival\, prevention\, and the science redefining 
- how we think about the brain.\n\nFeaturing Dr. Christopher Ogilvy—Direct
- or of Endovascular and Operative Neurovascular Surgery at Beth Israel Deac
- oness Medical Center and Professor at Harvard Medical School—whose pione
- ering work continues to push the boundaries of modern neurosurgery\, alon
- gside Meg Smith\, CEO of Cure Alzheimer’s Fund. Since taking the helm in
-  2023\, Smith has led the organization’s continued growth and impact\, a
- dvancing a research model that has directed over $138 million toward bold 
- scientific efforts to slow\, prevent\, and ultimately reverse Alzheimer’
- s.\n\nTogether with additional expert and patient perspectives\, the panel
-  offers a rare opportunity to engage with leaders at the forefront of brai
- n health and discovery.\n\n*This event is complimentary and reserved for m
- embers only. Light bites and refreshments will be served.
-URL:https://members.thequinhouse.com/events/186163
-CATEGORIES:Health & Wellness
-END:VEVENT
-BEGIN:VEVENT
-UID:quin-event-186694@thequinhouse.com
-DTSTAMP:20260602T170000Z
-DTSTART;TZID=America/New_York:20260602T170000
-DTEND;TZID=America/New_York:20260602T190000
-SUMMARY:Member Mingle
-LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 11 spots lef
- t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
- 86694\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
-  in an ambiant reserved space. This is your opportunity to connect with fe
- llow members\, exchange ideas\, and cultivate meaningful relationships.\n\
- nWhether you're sparking new collaborations\, sharing insights\, or simply
-  enjoying great conversation\, the Member Mingle is the perfect way to eng
- age with our dynamic community. Don’t miss the chance to connect\, inspi
- re\, and be inspired!\n\n*This event is complimentary and reserved for mem
- bers only. Complimentary light bites will be served\, and beverages will b
- e available for purchase.
-URL:https://members.thequinhouse.com/events/186694
-CATEGORIES:Member Mixer
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-184976@thequinhouse.com
 DTSTAMP:20260603T180000Z
 DTSTART;TZID=America/New_York:20260603T180000
@@ -181,7 +129,7 @@ DTSTART;TZID=America/New_York:20260609T170000
 DTEND;TZID=America/New_York:20260609T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 11 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 10 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  86695\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in an ambiant reserved space. This is your opportunity to connect with fe
@@ -316,26 +264,26 @@ DTSTART;TZID=America/New_York:20260611T173000
 DTEND;TZID=America/New_York:20260611T193000
 SUMMARY:Wit & Word: A Performance in Written Humor
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 1 spot left\nSta
- tus: Available\nEvent URL: https://members.thequinhouse.com/events/186725\
- n\n5:30PM Reception\, 6:00PM Performance\nWit & Word offers an evening whe
- re humor is written\, spoken\, and felt—bringing together a standout gro
- up of writers for a live\, spoken-word style performance that celebrates t
- he craft of comedy on the page. Moving beyond stand-up\, the night unfolds
-  through essays\, satire\, and personal storytelling—sharp\, candid\, an
- d unexpectedly moving.\n\nGuiding the evening is award-winning comedian an
- d The Moth regular Bethany Van Delft\, whose distinctive voice and groun
- ded storytelling bring warmth\, wit\, and a natural sense of connection to
-  the stage.\n\nThe lineup features Tracy McArdle Brady\, Founder and Chief
-  Humorist of Wit & Word\; Steve Almond\, New York Times bestselling auth
- or\; Lisa Borders\, award-winning novelist and McSweeney’s contributor\;
-  Neil Martinez-Belkin\, New York Times bestselling co-author and former 
- music editor of XXL Magazine\; and Viktoria Shulevich\, humor writer publ
- ished in The New Yorker and McSweeney’s. Together\, they explore the a
- bsurdities and revelations of modern adulting through humor that is as ins
- ightful as it is entertaining.\n\n*This event is complimentary and reserve
- d for members only. Light refreshments will be served and beverages will b
- e available for purchase.
+DESCRIPTION:Category: The Arts\nPrice: Free\nStatus: Waitlist Only\nEvent U
+ RL: https://members.thequinhouse.com/events/186725\n\n5:30PM Reception\, 6
+ :00PM Performance\nWit & Word offers an evening where humor is written\, s
+ poken\, and felt—bringing together a standout group of writers for a liv
+ e\, spoken-word style performance that celebrates the craft of comedy on t
+ he page. Moving beyond stand-up\, the night unfolds through essays\, satir
+ e\, and personal storytelling—sharp\, candid\, and unexpectedly moving.\
+ n\nGuiding the evening is award-winning comedian and The Moth regular Be
+ thany Van Delft\, whose distinctive voice and grounded storytelling bring 
+ warmth\, wit\, and a natural sense of connection to the stage.\n\nThe line
+ up features Tracy McArdle Brady\, Founder and Chief Humorist of Wit & Word
+ \; Steve Almond\, New York Times bestselling author\; Lisa Borders\, awa
+ rd-winning novelist and McSweeney’s contributor\; Neil Martinez-Belkin\,
+  New York Times bestselling co-author and former music editor of XXL Ma
+ gazine\; and Viktoria Shulevich\, humor writer published in The New Yorke
+ r and McSweeney’s. Together\, they explore the absurdities and revelati
+ ons of modern adulting through humor that is as insightful as it is entert
+ aining.\n\n*This event is complimentary and reserved for members only. Lig
+ ht refreshments will be served and beverages will be available for purchas
+ e.
 URL:https://members.thequinhouse.com/events/186725
 CATEGORIES:The Arts
 END:VEVENT
@@ -458,7 +406,7 @@ DTSTART;TZID=America/New_York:20260617T170000
 DTEND;TZID=America/New_York:20260617T183000
 SUMMARY:'Quin Chat: Echoes of Liberty
 LOCATION:Scottie's
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 35 spots lef
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 34 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  89485\n\n5:00PM Reception\, 5:30PM Discussion \nJoin us for an exclusive 
  preview of Echoes of Liberty\, an immersive Augmented Reality experience 
@@ -554,7 +502,7 @@ DTSTART;TZID=America/New_York:20260622T180000
 DTEND;TZID=America/New_York:20260622T210000
 SUMMARY:Community Dinner Table
 LOCATION:Café Q
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 8 spots left
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 7 spots left
  \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/17
  6009\n\nStart your week in good company with the Café Q Community dinner 
  table for members-only. Set aside for those looking to expand their social
