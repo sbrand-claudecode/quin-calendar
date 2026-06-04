@@ -44,25 +44,6 @@ URL:https://members.thequinhouse.com/events/184860
 CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
-UID:quin-event-184976@thequinhouse.com
-DTSTAMP:20260603T180000Z
-DTSTART;TZID=America/New_York:20260603T180000
-DTEND;TZID=America/New_York:20260603T210000
-SUMMARY:Live Music: Ron Reid 
-LOCATION:The Reading Room
-DESCRIPTION:Category: The Arts\nPrice: Free / Included\nStatus: Available\n
- Event URL: https://members.thequinhouse.com/events/184976\n\nSpend the eve
- ning with prominent Trinidadian bassist and steel drummer Ron Reid.  His 
- vibrant performance fuses jazz\, Caribbean rhythms\, and contemporary groo
- ves with effortless sophistication\, creating a lively\, unforgettable mus
- ical experience.\n\nSettle in with a signature cocktail from Little Bar an
- d let the evening’s artistry shape a memorable night at the ’House.\n\
- n*Please note this event is reserved for members\, plus three guests. Seat
- ing is first come\, first served.
-URL:https://members.thequinhouse.com/events/184976
-CATEGORIES:The Arts
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-188597@thequinhouse.com
 DTSTAMP:20260604T140000Z
 DTSTART;TZID=America/New_York:20260604T140000
@@ -129,7 +110,7 @@ DTSTART;TZID=America/New_York:20260609T170000
 DTEND;TZID=America/New_York:20260609T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 12 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 11 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  86695\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in an ambiant reserved space. This is your opportunity to connect with fe
@@ -407,7 +388,7 @@ DTSTART;TZID=America/New_York:20260617T170000
 DTEND;TZID=America/New_York:20260617T183000
 SUMMARY:'Quin Chat: Echoes of Liberty
 LOCATION:Scottie's
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 32 spots lef
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 31 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  89485\n\n5:00PM Reception\, 5:30PM Discussion \nJoin us for an exclusive 
  preview of Echoes of Liberty\, an immersive Augmented Reality experience 
@@ -503,7 +484,7 @@ DTSTART;TZID=America/New_York:20260622T180000
 DTEND;TZID=America/New_York:20260622T210000
 SUMMARY:Community Dinner Table
 LOCATION:Café Q
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 7 spots left
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 6 spots left
  \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/17
  6009\n\nStart your week in good company with the Café Q Community dinner 
  table for members-only. Set aside for those looking to expand their social
@@ -712,15 +693,14 @@ DTSTART;TZID=America/New_York:20260625T110000
 DTEND;TZID=America/New_York:20260625T120000
 SUMMARY:Art Tour: Celebrating LGBTQIA+ Artists
 LOCATION:Meet in The Lobby
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 1 spot left\nSta
- tus: Available\nEvent URL: https://members.thequinhouse.com/events/176380\
- n\nIn celebration of June: Pride Month\, join The 'Quin's Art Curator Kate
-  Chertavian for a guided exploration of works by LGBTQIA+ artists featured
-  in The ‘Quin’s permanent art collection. This in-depth tour will spar
- k conversation around what “the queering of art” means and feature pow
- erful works by Andy Warhol\, Jasper Johns\, Zanele Muholi\, Louise Bourgeo
- is\, and more.\n\n*This event is complimentary and reserved for members on
- ly.
+DESCRIPTION:Category: The Arts\nPrice: Free\nStatus: Waitlist Only\nEvent U
+ RL: https://members.thequinhouse.com/events/176380\n\nIn celebration of Ju
+ ne: Pride Month\, join The 'Quin's Art Curator Kate Chertavian for a guide
+ d exploration of works by LGBTQIA+ artists featured in The ‘Quin’s per
+ manent art collection. This in-depth tour will spark conversation around w
+ hat “the queering of art” means and feature powerful works by Andy War
+ hol\, Jasper Johns\, Zanele Muholi\, Louise Bourgeois\, and more.\n\n*This
+  event is complimentary and reserved for members only.
 URL:https://members.thequinhouse.com/events/176380
 CATEGORIES:The Arts
 END:VEVENT
