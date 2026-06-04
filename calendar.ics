@@ -110,7 +110,7 @@ DTSTART;TZID=America/New_York:20260609T170000
 DTEND;TZID=America/New_York:20260609T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 11 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 10 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  86695\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in an ambiant reserved space. This is your opportunity to connect with fe
@@ -152,26 +152,26 @@ DTSTART;TZID=America/New_York:20260609T193000
 DTEND;TZID=America/New_York:20260609T203000
 SUMMARY:Author's Circle Book Club: The Gap Years with Tom French
 LOCATION:The Terrace Room
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 1 spot left\nSta
- tus: Available\nEvent URL: https://members.thequinhouse.com/events/186709\
- n\nBookmark the date for an inspiring conversation exploring The Gap Years
-  with author Tom French & moderated by Wendy Dodson\, owner of Hummingbird
-  Books - a powerful reflection on adventure\, endurance\, and the pursuit 
- of meaning beyond the expected path.\n\nAt the close of a four-decade care
- er\, French set out to rediscover the passions that once defined him. What
-  began as a single “gap year” evolved into a transformative three-year
-  journey—one that took him from cross-country ski races to the slopes of
-  the world’s highest peaks\, including two extraordinary expeditions to 
- Mount Everest. Along the way\, he faced physical limits\, unpredictable el
- ements\, and moments of profound uncertainty\, from navigating a cyclone h
- igh on the mountain to summiting under a moonlit sky via an uncharted appr
- oach.\n\nYet The Gap Years is about more than endurance at altitude. It is
-  a meditation on renewal - on the beauty of wild places\, the discipline o
- f sport\, and the deeper question of how we choose to spend our time. Fren
- ch’s story invites us to reconsider what it means to begin again\, and t
- o reconnect with the pursuits that once made us feel most alive.\n\n*This 
- event is complimentary and reserved for members only. Light refreshments w
- ill be served.
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 2 spots left\nSt
+ atus: Available\nEvent URL: https://members.thequinhouse.com/events/186709
+ \n\nBookmark the date for an inspiring conversation exploring The Gap Year
+ s with author Tom French & moderated by Wendy Dodson\, owner of Hummingbir
+ d Books - a powerful reflection on adventure\, endurance\, and the pursuit
+  of meaning beyond the expected path.\n\nAt the close of a four-decade car
+ eer\, French set out to rediscover the passions that once defined him. Wha
+ t began as a single “gap year” evolved into a transformative three-yea
+ r journey—one that took him from cross-country ski races to the slopes o
+ f the world’s highest peaks\, including two extraordinary expeditions to
+  Mount Everest. Along the way\, he faced physical limits\, unpredictable e
+ lements\, and moments of profound uncertainty\, from navigating a cyclone 
+ high on the mountain to summiting under a moonlit sky via an uncharted app
+ roach.\n\nYet The Gap Years is about more than endurance at altitude. It i
+ s a meditation on renewal - on the beauty of wild places\, the discipline 
+ of sport\, and the deeper question of how we choose to spend our time. Fre
+ nch’s story invites us to reconsider what it means to begin again\, and 
+ to reconnect with the pursuits that once made us feel most alive.\n\n*This
+  event is complimentary and reserved for members only. Light refreshments 
+ will be served.
 URL:https://members.thequinhouse.com/events/186709
 CATEGORIES:The Arts
 END:VEVENT
@@ -312,21 +312,21 @@ DTEND;TZID=America/New_York:20260613T140000
 SUMMARY: Serendipity Pride Brunch
 LOCATION:Lunasol
 DESCRIPTION:Category: Member Mixer\nPrice: $65.00 per person\nAvailability:
-  10 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
- .com/events/186727\n\nJoin us for a Pride Edition of Serendipity Saturday 
- Brunch—a celebration of community\, conversation\, and connection. Set i
- n Lunasol\, the afternoon unfolds with a vibrant energy\, where members ga
- ther around a thoughtfully curated menu and a spirit of inclusivity. Conve
- rsation prompts invite moments of reflection\, storytelling\, and shared p
- erspective—honoring the voices and experiences that make our community s
- o dynamic.\n\nBrunch will be served family-style\, featuring pastries\, fr
- uit\, and parfaits to begin\, followed by a choice of entrée and generous
-  sides. Mimosas and Bloody Marys will be available throughout.\n\nSpend th
- e day at The 'House—unhurried\, social\, and effortlessly enjoyable.\n\n
- *Tickets are $65 per person\, plus tax\, and are reserved for members only
- . Cancellations within 48 hours of the event\, or failure to attend\, will
-  be charged in full. Please inform us of any dietary needs or restrictions
-  by emailing happening@thequin.com at least 72 hours prior to the event.
+  9 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse.
+ com/events/186727\n\nJoin us for a Pride Edition of Serendipity Saturday B
+ runch—a celebration of community\, conversation\, and connection. Set in
+  Lunasol\, the afternoon unfolds with a vibrant energy\, where members gat
+ her around a thoughtfully curated menu and a spirit of inclusivity. Conver
+ sation prompts invite moments of reflection\, storytelling\, and shared pe
+ rspective—honoring the voices and experiences that make our community so
+  dynamic.\n\nBrunch will be served family-style\, featuring pastries\, fru
+ it\, and parfaits to begin\, followed by a choice of entrée and generous 
+ sides. Mimosas and Bloody Marys will be available throughout.\n\nSpend the
+  day at The 'House—unhurried\, social\, and effortlessly enjoyable.\n\n*
+ Tickets are $65 per person\, plus tax\, and are reserved for members only.
+  Cancellations within 48 hours of the event\, or failure to attend\, will 
+ be charged in full. Please inform us of any dietary needs or restrictions 
+ by emailing happening@thequin.com at least 72 hours prior to the event.
 URL:https://members.thequinhouse.com/events/186727
 CATEGORIES:Member Mixer
 END:VEVENT
@@ -388,7 +388,7 @@ DTSTART;TZID=America/New_York:20260617T170000
 DTEND;TZID=America/New_York:20260617T183000
 SUMMARY:'Quin Chat: Echoes of Liberty
 LOCATION:Scottie's
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 31 spots lef
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 30 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  89485\n\n5:00PM Reception\, 5:30PM Discussion \nJoin us for an exclusive 
  preview of Echoes of Liberty\, an immersive Augmented Reality experience 
@@ -484,7 +484,7 @@ DTSTART;TZID=America/New_York:20260622T180000
 DTEND;TZID=America/New_York:20260622T210000
 SUMMARY:Community Dinner Table
 LOCATION:Café Q
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 6 spots left
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 5 spots left
  \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/17
  6009\n\nStart your week in good company with the Café Q Community dinner 
  table for members-only. Set aside for those looking to expand their social
