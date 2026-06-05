@@ -44,44 +44,6 @@ URL:https://members.thequinhouse.com/events/184860
 CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
-UID:quin-event-188597@thequinhouse.com
-DTSTAMP:20260604T140000Z
-DTSTART;TZID=America/New_York:20260604T140000
-DTEND;TZID=America/New_York:20260604T160000
-SUMMARY:'Quin Chat: The Art of Boston in Provincetown
-LOCATION:Offsite: Mary Heaton Vorse House
-DESCRIPTION:Category: The Arts\nPrice: $46.73 per person\nAvailability: 52 
- spots left\nStatus: Available\nEvent URL: https://members.thequinhouse.com
- /events/188597\n\n11:00AM - 12:00PM Optional Provincetown Art Association 
- & Museum Tour\n2:00PM Private Reception & MHVH Gallery Viewing\, 3:00PM -
-  4:00PM Panel Discussion\nThe unofficial start to summer welcomes Part Two
-  of The ‘Quin’s Summer Art Exchange offsite in America's oldest contin
- uous art colony - Provincetown\, at the storied Mary Heaton Vorse House.\n
- \nTogether with the Provincetown Art Society\, 'Quin members are invited t
- o join us on June 4th for a private reception and self-guided gallery view
- ing of the new offsite exhibition featuring local artists of The 'Quin's p
- ermanent art collection: Zainab Sumu\, Yu-Wen Wu\, Brian Zink\, Adrienne
-  Shishko and Lavaughan Jenkins.\n\nMembers will gather in the Mary Heaton
-  Vorse House courtyard for a panel discussion exploring P-town's rich arti
- stic history\, and the vital role of art organizations together with the c
- ollection curators\, Kate Chertavian\, Gene Tartaglia\, and 'Quin Creative
-  Director (also behind the restoration of the MHVH) Ken Fulk.\n\nConsideri
- ng making a day of it? We welcome those attending the afternoon program to
-  attend a complimentary tour of the Provincetown Art Association & Museum 
- together with CEO\, Christine McCarthy from 11:00AM-Noon. Between events\,
-  members will have time to grab a bite and explore the various galleries t
- hat make up the community in advance of afternoon 'Quin Programming at the
-  MHVH. If you plan to attend this aspect of the day\, please do ensure thi
- s is noted when you purchase a ticket.\n\n*This event is $50/per person an
- d reserved for members\, plus one registered guest. Transportation is the 
- responsibility of members. Please look forward to light bites and beverage
-  during the afternoon reception.\n\nNot able to make it? The Mary Heaton V
- orse House reciprocal exhibition will be on display in Provincetown from M
- ay 23rd - July 12th.
-URL:https://members.thequinhouse.com/events/188597
-CATEGORIES:The Arts
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-176008@thequinhouse.com
 DTSTAMP:20260608T180000Z
 DTSTART;TZID=America/New_York:20260608T180000
@@ -110,17 +72,17 @@ DTSTART;TZID=America/New_York:20260609T170000
 DTEND;TZID=America/New_York:20260609T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 10 spots lef
- t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
- 86695\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
-  in an ambiant reserved space. This is your opportunity to connect with fe
- llow members\, exchange ideas\, and cultivate meaningful relationships.\n\
- nWhether you're sparking new collaborations\, sharing insights\, or simply
-  enjoying great conversation\, the Member Mingle is the perfect way to eng
- age with our dynamic community. Don’t miss the chance to connect\, inspi
- re\, and be inspired!\n\n*This event is complimentary and reserved for mem
- bers only. Complimentary light bites will be served\, and beverages will b
- e available for purchase.
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 9 spots left
+ \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/18
+ 6695\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set 
+ in an ambiant reserved space. This is your opportunity to connect with fel
+ low members\, exchange ideas\, and cultivate meaningful relationships.\n\n
+ Whether you're sparking new collaborations\, sharing insights\, or simply 
+ enjoying great conversation\, the Member Mingle is the perfect way to enga
+ ge with our dynamic community. Don’t miss the chance to connect\, inspir
+ e\, and be inspired!\n\n*This event is complimentary and reserved for memb
+ ers only. Complimentary light bites will be served\, and beverages will be
+  available for purchase.
 URL:https://members.thequinhouse.com/events/186695
 CATEGORIES:Member Mixer
 END:VEVENT
@@ -483,7 +445,7 @@ DTSTART;TZID=America/New_York:20260622T180000
 DTEND;TZID=America/New_York:20260622T210000
 SUMMARY:Community Dinner Table
 LOCATION:Café Q
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 5 spots left
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 4 spots left
  \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/17
  6009\n\nStart your week in good company with the Café Q Community dinner 
  table for members-only. Set aside for those looking to expand their social
