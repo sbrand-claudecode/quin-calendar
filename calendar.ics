@@ -44,6 +44,32 @@ URL:https://members.thequinhouse.com/events/184860
 CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
+UID:quin-event-185005@thequinhouse.com
+DTSTAMP:20260608T173000Z
+DTSTART;TZID=America/New_York:20260608T173000
+DTEND;TZID=America/New_York:20260608T200000
+SUMMARY:Game Night: Bridge: Beyond Basics Session II
+LOCATION:The Muse
+DESCRIPTION:Category: Sports & Games\nPrice: Free\nStatus: Waitlist Only\nE
+ vent URL: https://members.thequinhouse.com/events/185005\n\nDiscover the a
+ rt and strategy of Bridge in a thoughtfully designed two-part series for m
+ embers ready to deepen their understanding of the game. Open to those who 
+ joined our March and May gatherings—as well as anyone with a foundationa
+ l knowledge of Bridge—these sessions offer the perfect next step for bui
+ lding confidence at the table.\n\nLed by an expert guest instructor\, each
+  evening will blend guided play with focused instruction. Expect a relaxed
+ \, hands-on atmosphere with ample opportunity to play multiple hands\, ask
+  questions\, and develop your strategy in real time.\n\nBy the series’ e
+ nd\, members will feel equipped to gather and play with ease\, carrying fo
+ rward both the skill and the spirit of this timeless game alongside fellow
+  members.\n\n*This event is complimentary and reserved for members only. P
+ lease note that this is a two-part series\; registration for the first ses
+ sion on June 1st will automatically enroll you in the second session on Ju
+ ne 8th\, ensuring a cohesive learning experience across both evenings.
+URL:https://members.thequinhouse.com/events/185005
+CATEGORIES:Sports & Games
+END:VEVENT
+BEGIN:VEVENT
 UID:quin-event-176008@thequinhouse.com
 DTSTAMP:20260608T180000Z
 DTSTART;TZID=America/New_York:20260608T180000
@@ -72,7 +98,7 @@ DTSTART;TZID=America/New_York:20260609T170000
 DTEND;TZID=America/New_York:20260609T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 7 spots left
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 2 spots left
  \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/18
  6695\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set 
  in an ambiant reserved space. This is your opportunity to connect with fel
@@ -97,13 +123,16 @@ DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free / Included\nStatus:
  Available\nEvent URL: https://members.thequinhouse.com/events/189549\n\nJo
  in us for an inspiring evening of live music featuring student musicians f
  rom the Josiah Quincy Orchestra Program and teaching artists from Boston M
- usic Project\, a nonprofit partner of The ’Quin Impact Fund. Through an 
- intimate performance in The Reading Room\, members will experience the tra
- nsformative power of music and the impact of equitable arts education firs
- thand. This special event celebrates the talent of Boston’s young artist
- s and The ’Quin Impact Fund’s commitment to supporting organizations t
- hat create lasting opportunities through education\, creativity\, and comm
- unity engagement.\n\n*Reservations are not required.
+ usic Project\, an Arts & Culture grant recipient of our philanthropic arm\
+ , The ’Quin Impact Fund. \n\nLiving room style seating for the short pe
+ rformance in the Reading Room is first come\, first served to experience t
+ he transformative power of music and the impact of equitable arts educatio
+ n firsthand. This special event celebrates the talent of Boston’s young 
+ artists and The ’Quin Impact Fund’s commitment to supporting organizat
+ ions that create lasting opportunities through education\, creativity\, an
+ d community engagement.\n\n*Reservations are not required. Please look for
+ ward to a cash bar at the neighboring Little Bar\, or à la carte culinary
+  delights from the Reading Room's regular menu.
 URL:https://members.thequinhouse.com/events/189549
 CATEGORIES:‘Quin Impact Fund
 END:VEVENT
@@ -143,24 +172,24 @@ DTSTART;TZID=America/New_York:20260610T170000
 DTEND;TZID=America/New_York:20260610T183000
 SUMMARY:Author Talk: "Checkmate" with Ben Mezrich
 LOCATION:The Pub
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 1 spot left\nSta
- tus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/events
- /187622\n\n5:00PM Reception\, 5:30PM Discussion \nStep into the high-stak
- es world of Checkmate with bestselling author Ben Mezrich—an electrifyin
- g true story that unravels the biggest scandal in modern chess.\n\nIn Sept
- ember 2022\, the chess world was shaken when nineteen-year-old American pr
- odigy Hans Niemann defeated reigning world champion Magnus Carlsen in a st
- unning upset. Days later\, Carlsen accused Niemann of cheating—an allega
- tion that ignited a global firestorm\, drawing in Chess.com\, the media\, 
- and a rapidly expanding digital audience. What followed was a dramatic col
- lision of reputation\, rivalry\, and power.\n\nBut Checkmate is about far 
- more than controversy. It’s a portrait of ambition at its sharpest edge�
- ��a young player willing to risk everything to rise\, and a legendary figu
- re determined to defend his legacy. Set against the backdrop of a centurie
- s-old game transformed by streaming\, sponsorships\, and Silicon Valley in
- fluence\, Mezrich brings readers inside a world that is as cutthroat as it
-  is cerebral.\n\n*This event is complimentary and reserved for members onl
- y. Light bites and refreshments will be served.
+DESCRIPTION:Category: The Arts\nPrice: Free\nStatus: You are Confirmed\nEve
+ nt URL: https://members.thequinhouse.com/events/187622\n\n5:00PM Reception
+ \, 5:30PM Discussion \nStep into the high-stakes world of Checkmate with 
+ bestselling author Ben Mezrich—an electrifying true story that unravels 
+ the biggest scandal in modern chess.\n\nIn September 2022\, the chess worl
+ d was shaken when nineteen-year-old American prodigy Hans Niemann defeated
+  reigning world champion Magnus Carlsen in a stunning upset. Days later\, 
+ Carlsen accused Niemann of cheating—an allegation that ignited a global 
+ firestorm\, drawing in Chess.com\, the media\, and a rapidly expanding dig
+ ital audience. What followed was a dramatic collision of reputation\, riva
+ lry\, and power.\n\nBut Checkmate is about far more than controversy. It�
+ �s a portrait of ambition at its sharpest edge—a young player willing to
+  risk everything to rise\, and a legendary figure determined to defend his
+  legacy. Set against the backdrop of a centuries-old game transformed by s
+ treaming\, sponsorships\, and Silicon Valley influence\, Mezrich brings re
+ aders inside a world that is as cutthroat as it is cerebral.\n\n*This even
+ t is complimentary and reserved for members only. Light bites and refreshm
+ ents will be served.
 URL:https://members.thequinhouse.com/events/187622
 CATEGORIES:The Arts
 END:VEVENT
@@ -270,24 +299,22 @@ UID:quin-event-186727@thequinhouse.com
 DTSTAMP:20260613T120000Z
 DTSTART;TZID=America/New_York:20260613T120000
 DTEND;TZID=America/New_York:20260613T140000
-SUMMARY: Serendipity Pride Brunch
+SUMMARY: Serendipity Brunch: Celebrating Pride
 LOCATION:Lunasol
 DESCRIPTION:Category: Member Mixer\nPrice: $65.00 per person\nAvailability:
-  9 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse.
- com/events/186727\n\nJoin us for a Pride Edition of Serendipity Saturday B
- runch—a celebration of community\, conversation\, and connection. Set in
-  Lunasol\, the afternoon unfolds with a vibrant energy\, where members gat
- her around a thoughtfully curated menu and a spirit of inclusivity. Conver
- sation prompts invite moments of reflection\, storytelling\, and shared pe
- rspective—honoring the voices and experiences that make our community so
-  dynamic.\n\nBrunch will be served family-style\, featuring pastries\, fru
- it\, and parfaits to begin\, followed by a choice of entrée and generous 
- sides. Mimosas and Bloody Marys will be available throughout.\n\nSpend the
-  day at The 'House—unhurried\, social\, and effortlessly enjoyable.\n\n*
- Tickets are $65 per person\, plus tax\, and are reserved for members only.
-  Cancellations within 48 hours of the event\, or failure to attend\, will 
- be charged in full. Please inform us of any dietary needs or restrictions 
- by emailing happening@thequin.com at least 72 hours prior to the event.
+  7 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse.
+ com/events/186727\n\nCelebrate Pride at a special edition of Serendipity B
+ runch\, where community\, conversation\, and connection take center stage.
+  Set in Lunasol\, the afternoon unfolds with vibrant energy\, bringing tog
+ ether members around a thoughtfully curated menu and a shared thread of co
+ mmonality that sparks meaningful conversation.\n\nConversation prompts inv
+ ite moments of reflection\, storytelling\, and shared perspective - honori
+ ng the voices and experiences that make our community so dynamic. Brunch w
+ ill be served family-style\, featuring pastries\, fruit\, and parfaits to 
+ begin\, followed by a choice of entrée and generous sides. Mimosas and Bl
+ oody Marys will be available throughout.\n\n*Tickets are $65 per person\, 
+ plus tax\, and are reserved for members only. Cancellations within 48 hour
+ s of the event\, or failure to attend\, will be charged in full.
 URL:https://members.thequinhouse.com/events/186727
 CATEGORIES:Member Mixer
 END:VEVENT
@@ -349,7 +376,7 @@ DTSTART;TZID=America/New_York:20260617T170000
 DTEND;TZID=America/New_York:20260617T183000
 SUMMARY:'Quin Chat: Echoes of Liberty
 LOCATION:Scottie's
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 29 spots lef
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 26 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  89485\n\n5:00PM Reception\, 5:30PM Discussion \nJoin us for an exclusive 
  preview of Echoes of Liberty\, an immersive Augmented Reality experience 
@@ -484,6 +511,36 @@ URL:https://members.thequinhouse.com/events/180148
 CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
+UID:quin-event-190012@thequinhouse.com
+DTSTAMP:20260623T150000Z
+DTSTART;VALUE=DATE:20260623
+DTEND;VALUE=DATE:20260624
+SUMMARY:TEDxBoston: Visions of the Next 250
+LOCATION:Offsite: GBH Studios
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nStatus: Waitlist Only\nTim
+ e: 3 PM – 7 PM\nEvent URL: https://members.thequinhouse.com/events/19001
+ 2\n\nFor 250 years\, Massachusetts has produced the ideas that shaped a na
+ tion: public education\, the telephone\, the first American node of the Wo
+ rld Wide Web. The next 250 begin now.\n\nAs part of the statewide Our Amer
+ ica 250 initiative\, join us at GBH for a one-day gathering on what comes 
+ next. Thirty speakers take the stage in interviews and talks\, mapping the
+  forces that will define America's next chapter: artificial intelligence\,
+  the future of work\, energy and climate technology\, and the reinvention 
+ of education.\n\nA preview of featured speakers:\n\nAndrew Lau - CEO of Je
+ llyfish\nJoseph Aoun - President of Northeastern University and author of 
+ Robot-Proof\nLibby Wayman - Partner at Breakthrough Energy Ventures\nNeil 
+ Thompson - Director of MIT FutureTech and Principal Investigator at MIT's 
+ Initiative on the Digital Economy\n\nCurated and moderated by John Werner\
+ , venture capitalist\, MIT lecturer\, and Forbes AI columnist. Every talk 
+ is recorded as a living time capsule\, a message to the generations who wi
+ ll open it on the road to America's 500th.\n\nPlease look forward to addit
+ ional details regarding related Programming hosted at The 'Quin on June 22
+ nd. More information to follow.\n\n*This event is complimentary and reserv
+ ed for members\, plus one guest.
+URL:https://members.thequinhouse.com/events/190012
+CATEGORIES:‘Quin Chat
+END:VEVENT
+BEGIN:VEVENT
 UID:quin-event-166318@thequinhouse.com
 DTSTAMP:20260623T160000Z
 DTSTART;VALUE=DATE:20260623
@@ -531,7 +588,7 @@ DTSTART;TZID=America/New_York:20260623T170000
 DTEND;TZID=America/New_York:20260623T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 38 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 36 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  86697\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in an ambiant reserved space. This is your opportunity to connect with fe
@@ -689,6 +746,38 @@ URL:https://members.thequinhouse.com/events/188040
 CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
+UID:quin-event-189486@thequinhouse.com
+DTSTAMP:20260625T170000Z
+DTSTART;TZID=America/New_York:20260625T170000
+DTEND;TZID=America/New_York:20260625T183000
+SUMMARY:Meet the Maker: Rhonda Kallman from Boston Harbor Distillery
+LOCATION:Scottie's
+DESCRIPTION:Category: Food & Beverage\nPrice: Free\nAvailability: 58 spots 
+ left\nStatus: futureSale\nEvent URL: https://members.thequinhouse.com/even
+ ts/189486\n\nJoin us for a spirited evening celebrating 250 years of Massa
+ chusetts in partnership with Boston Harbor Distillery. Led by founder Rhon
+ da Kallman\, this reception-style Meet the Maker invites members to explor
+ e the stories\, craftsmanship\, and local history woven into one of Boston
+ ’s most distinctive distilleries—where every detail\, from the spirits
+  themselves to the names on the bottles\, reflects a deep connection to pl
+ ace.\n\nA pioneering force in the craft beverage industry\, Rhonda Kallman
+  has spent decades shaping the future of American brewing and distilling. 
+ Her passion for whiskey\, storytelling\, and craftsmanship is at the heart
+  of Boston Harbor Distillery’s approach: honoring history while redefini
+ ng what modern American spirits can be.\n\nGuided by Rhonda\, members will
+  have the first opportunity to taste an exclusive selections from Boston H
+ arbor Distillery including: Putnam Single Malt Whiskey & Rye Expressions\,
+  Demon Seed Whiskey and featuring American 250 Custom Malt Whiskey\, of wh
+ ich only one barrel was produced. Set within the legacy of a restored 19th
+ -century waterfront mill building in Dorchester\, the distillery has becom
+ e a modern landmark of American craft spirits—equal parts innovation\, h
+ eritage\, and unapologetic Boston character.\n\n*This event is complimenta
+ ry and reserved for members only. Complimentary light bites will be served
+ .
+URL:https://members.thequinhouse.com/events/189486
+CATEGORIES:Food & Beverage
+END:VEVENT
+BEGIN:VEVENT
 UID:quin-event-189617@thequinhouse.com
 DTSTAMP:20260625T220000Z
 DTSTART;TZID=America/New_York:20260625T220000
@@ -796,7 +885,7 @@ DTSTART;TZID=America/New_York:20260630T170000
 DTEND;TZID=America/New_York:20260630T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 38 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 36 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  86698\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in an ambiant reserved space. This is your opportunity to connect with fe
