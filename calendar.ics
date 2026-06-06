@@ -98,17 +98,17 @@ DTSTART;TZID=America/New_York:20260609T170000
 DTEND;TZID=America/New_York:20260609T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 2 spots left
- \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/18
- 6695\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set 
- in an ambiant reserved space. This is your opportunity to connect with fel
- low members\, exchange ideas\, and cultivate meaningful relationships.\n\n
- Whether you're sparking new collaborations\, sharing insights\, or simply 
- enjoying great conversation\, the Member Mingle is the perfect way to enga
- ge with our dynamic community. Don’t miss the chance to connect\, inspir
- e\, and be inspired!\n\n*This event is complimentary and reserved for memb
- ers only. Complimentary light bites will be served\, and beverages will be
-  available for purchase.
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 1 spot left\
+ nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/186
+ 695\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set i
+ n an ambiant reserved space. This is your opportunity to connect with fell
+ ow members\, exchange ideas\, and cultivate meaningful relationships.\n\nW
+ hether you're sparking new collaborations\, sharing insights\, or simply e
+ njoying great conversation\, the Member Mingle is the perfect way to engag
+ e with our dynamic community. Don’t miss the chance to connect\, inspire
+ \, and be inspired!\n\n*This event is complimentary and reserved for membe
+ rs only. Complimentary light bites will be served\, and beverages will be 
+ available for purchase.
 URL:https://members.thequinhouse.com/events/186695
 CATEGORIES:Member Mixer
 END:VEVENT
@@ -302,7 +302,7 @@ DTEND;TZID=America/New_York:20260613T140000
 SUMMARY: Serendipity Brunch: Celebrating Pride
 LOCATION:Lunasol
 DESCRIPTION:Category: Member Mixer\nPrice: $65.00 per person\nAvailability:
-  7 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse.
+  6 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse.
  com/events/186727\n\nCelebrate Pride at a special edition of Serendipity B
  runch\, where community\, conversation\, and connection take center stage.
   Set in Lunasol\, the afternoon unfolds with vibrant energy\, bringing tog
@@ -325,7 +325,7 @@ DTSTART;TZID=America/New_York:20260616T170000
 DTEND;TZID=America/New_York:20260616T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 19 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 17 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  86696\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in an ambiant reserved space. This is your opportunity to connect with fe
@@ -376,7 +376,7 @@ DTSTART;TZID=America/New_York:20260617T170000
 DTEND;TZID=America/New_York:20260617T183000
 SUMMARY:'Quin Chat: Echoes of Liberty
 LOCATION:Scottie's
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 26 spots lef
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 23 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  89485\n\n5:00PM Reception\, 5:30PM Discussion \nJoin us for an exclusive 
  preview of Echoes of Liberty\, an immersive Augmented Reality experience 
@@ -803,19 +803,19 @@ DTEND;TZID=America/New_York:20260626T180000
 SUMMARY:'Quin Suite: World Cup France v. Norway
 LOCATION:Offsite: Gillette Stadium
 DESCRIPTION:Category: Sports & Games\nPrice: $3327.10 per person\nAvailabil
- ity: 11 spots left\nStatus: Available\nEvent URL: https://members.thequinh
- ouse.com/events/175300\n\nClaim your place in a private ’Quin Suite (#R9
- ) at Gillette Stadium for the highly anticipated France vs Norway World 
- Cup matchup. Enter through a dedicated suite entrance and settle into rese
- rved seating with sweeping views of the pitch\, all while enjoying continu
- ous food and beverage service throughout the match. A curated assortment o
- f preset dishes showcases local culinary talent\, complemented by premium 
- champagne\, wine\, beer\, spirits\, mocktails\, and soft drinks. World-cla
- ss football\, elevated hospitality\, and an atmosphere that delivers from 
- kickoff to final whistle - game on.\n\n*Suite tickets are offered at $3\,5
- 60 per ticket and are available to members\, plus one guest age 16+. Suite
-  tickets are non-refundable and are non-transferable. Members are required
-  to accompany their guest at all times.
+ ity: 9 spots left\nStatus: Available\nEvent URL: https://members.thequinho
+ use.com/events/175300\n\nClaim your place in a private ’Quin Suite (#R9)
+  at Gillette Stadium for the highly anticipated France vs Norway World C
+ up matchup. Enter through a dedicated suite entrance and settle into reser
+ ved seating with sweeping views of the pitch\, all while enjoying continuo
+ us food and beverage service throughout the match. A curated assortment of
+  preset dishes showcases local culinary talent\, complemented by premium c
+ hampagne\, wine\, beer\, spirits\, mocktails\, and soft drinks. World-clas
+ s football\, elevated hospitality\, and an atmosphere that delivers from k
+ ickoff to final whistle - game on.\n\n*Suite tickets are offered at $3\,56
+ 0 per ticket and are available to members\, plus one guest age 16+. Suite 
+ tickets are non-refundable and are non-transferable. Members are required 
+ to accompany their guest at all times.
 URL:https://members.thequinhouse.com/events/175300
 CATEGORIES:Sports & Games
 END:VEVENT
@@ -885,7 +885,7 @@ DTSTART;TZID=America/New_York:20260630T170000
 DTEND;TZID=America/New_York:20260630T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 36 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 34 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  86698\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in an ambiant reserved space. This is your opportunity to connect with fe
