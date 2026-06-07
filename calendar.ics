@@ -76,18 +76,18 @@ DTSTART;TZID=America/New_York:20260608T180000
 DTEND;TZID=America/New_York:20260608T210000
 SUMMARY:Community Dinner Table
 LOCATION:Café Q
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nStatus: Waitlist Only\nEve
- nt URL: https://members.thequinhouse.com/events/176008\n\nStart your week 
- in good company with the Café Q Community dinner table for members-only. 
- Set aside for those looking to expand their social circle over a shared me
- al\, this gathering is all about good food\, lively conversation\, and mea
- ningful connections. Pull up a chair\, and savor the experience—because 
- nothing brings people together quite like a great meal.\n\n*This event is 
- reserved for members only. An advance charge of $24 per member contributes
-  to communal appetizers available upon seating. Members are responsible fo
- r à la carte entrées\, desserts\, and beverages\, plus taxes and fees. C
- ancellations made within 24 hours of the event\, or failure to attend will
-  be subject to the Café Q's surcharge policy.
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 1 spot left\
+ nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/176
+ 008\n\nStart your week in good company with the Café Q Community dinner t
+ able for members-only. Set aside for those looking to expand their social 
+ circle over a shared meal\, this gathering is all about good food\, lively
+  conversation\, and meaningful connections. Pull up a chair\, and savor th
+ e experience—because nothing brings people together quite like a great m
+ eal.\n\n*This event is reserved for members only. An advance charge of $24
+  per member contributes to communal appetizers available upon seating. Mem
+ bers are responsible for à la carte entrées\, desserts\, and beverages\,
+  plus taxes and fees. Cancellations made within 24 hours of the event\, or
+  failure to attend will be subject to the Café Q's surcharge policy.
 URL:https://members.thequinhouse.com/events/176008
 CATEGORIES:Member Mixer
 END:VEVENT
@@ -301,7 +301,7 @@ DTEND;TZID=America/New_York:20260613T140000
 SUMMARY: Serendipity Brunch: Celebrating Pride
 LOCATION:Lunasol
 DESCRIPTION:Category: Member Mixer\nPrice: $65.00 per person\nAvailability:
-  5 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse.
+  4 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse.
  com/events/186727\n\nCelebrate Pride at a special edition of Serendipity B
  runch\, where community\, conversation\, and connection take center stage.
   Set in Lunasol\, the afternoon unfolds with vibrant energy\, bringing tog
@@ -324,7 +324,7 @@ DTSTART;TZID=America/New_York:20260616T170000
 DTEND;TZID=America/New_York:20260616T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 17 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 16 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  86696\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in an ambiant reserved space. This is your opportunity to connect with fe
@@ -345,26 +345,26 @@ DTSTART;TZID=America/New_York:20260617T170000
 DTEND;TZID=America/New_York:20260617T190000
 SUMMARY:From Interest to Impact: Finding Your Place on a Nonprofit Board
 LOCATION:The Living Room
-DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nStatus: Waitlist On
- ly\nEvent URL: https://members.thequinhouse.com/events/188594\n\n5:00PM Re
- ception\, 5:30PM Presentation\, 6:15PM Panel Discussion\nStep into the fut
- ure of civic leadership through this dynamic program presented in partners
- hip with The 'Quin Impact Fund and United Way’s Board Connect initiative
- . Designed for emerging and established changemakers alike\, the evening w
- ill explore how nonprofit board service can become a powerful catalyst for
-  impact\, innovation\, and community transformation.\n\nThe program begins
-  with an interactive workshop led by United Way\, offering an inside look 
- at the responsibilities\, influence\, and opportunities that come with boa
- rd leadership. A forward-thinking panel discussion will follow\, featuring
-  nonprofit leaders and governance experts including Jon Feinman of InnerCi
- ty Weightlifting\, Linda Whitlock\, Co-Chair of The 'Quin Impact Fund and
-  Yolanda Coentro of the Institute for Nonprofit Practice\, moderated by Ma
- rty Martinez of United Way of Massachusetts Bay.\n\nThe evening concludes 
- with an opportunity to connect directly with local organizations actively 
- seeking new board talent—creating space for meaningful conversations\, n
- ew collaborations\, and the next generation of purpose-driven leadership.\
- n\n*This event is complimentary and reserved for members only. Complimenta
- ry light bites and refreshments will be served.
+DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nAvailability: 1 spo
+ t left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/eve
+ nts/188594\n\n5:00PM Reception\, 5:30PM Presentation\, 6:15PM Panel Discus
+ sion\nStep into the future of civic leadership through this dynamic progra
+ m presented in partnership with The 'Quin Impact Fund and United Way’s B
+ oard Connect initiative. Designed for emerging and established changemaker
+ s alike\, the evening will explore how nonprofit board service can become 
+ a powerful catalyst for impact\, innovation\, and community transformation
+ .\n\nThe program begins with an interactive workshop led by United Way\, o
+ ffering an inside look at the responsibilities\, influence\, and opportuni
+ ties that come with board leadership. A forward-thinking panel discussion 
+ will follow\, featuring nonprofit leaders and governance experts including
+  Jon Feinman of InnerCity Weightlifting\, Linda Whitlock\, Co-Chair of Th
+ e 'Quin Impact Fund and Yolanda Coentro of the Institute for Nonprofit Pra
+ ctice\, moderated by Marty Martinez of United Way of Massachusetts Bay.\n\
+ nThe evening concludes with an opportunity to connect directly with local 
+ organizations actively seeking new board talent—creating space for meani
+ ngful conversations\, new collaborations\, and the next generation of purp
+ ose-driven leadership.\n\n*This event is complimentary and reserved for me
+ mbers only. Complimentary light bites and refreshments will be served.
 URL:https://members.thequinhouse.com/events/188594
 CATEGORIES:‘Quin Impact Fund
 END:VEVENT
@@ -375,7 +375,7 @@ DTSTART;TZID=America/New_York:20260617T170000
 DTEND;TZID=America/New_York:20260617T183000
 SUMMARY:'Quin Chat: Echoes of Liberty
 LOCATION:Scottie's
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 21 spots lef
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 20 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  89485\n\n5:00PM Reception\, 5:30PM Discussion \nJoin us for an exclusive 
  preview of Echoes of Liberty\, an immersive Augmented Reality experience 
@@ -884,7 +884,7 @@ DTSTART;TZID=America/New_York:20260630T170000
 DTEND;TZID=America/New_York:20260630T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 34 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 32 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  86698\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in an ambiant reserved space. This is your opportunity to connect with fe
