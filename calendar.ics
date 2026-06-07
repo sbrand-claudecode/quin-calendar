@@ -76,7 +76,7 @@ DTSTART;TZID=America/New_York:20260608T180000
 DTEND;TZID=America/New_York:20260608T210000
 SUMMARY:Community Dinner Table
 LOCATION:Café Q
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 2 spots left
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 3 spots left
  \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/17
  6008\n\nStart your week in good company with the Café Q Community dinner 
  table for members-only. Set aside for those looking to expand their social
@@ -98,17 +98,16 @@ DTSTART;TZID=America/New_York:20260609T170000
 DTEND;TZID=America/New_York:20260609T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 1 spot left\
- nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/186
- 695\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set i
- n an ambiant reserved space. This is your opportunity to connect with fell
- ow members\, exchange ideas\, and cultivate meaningful relationships.\n\nW
- hether you're sparking new collaborations\, sharing insights\, or simply e
- njoying great conversation\, the Member Mingle is the perfect way to engag
- e with our dynamic community. Don’t miss the chance to connect\, inspire
- \, and be inspired!\n\n*This event is complimentary and reserved for membe
- rs only. Complimentary light bites will be served\, and beverages will be 
- available for purchase.
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nStatus: Waitlist Only\nEve
+ nt URL: https://members.thequinhouse.com/events/186695\n\nJoin us for our 
+ weekly Member Mingle\, an inclusive gathering set in an ambiant reserved s
+ pace. This is your opportunity to connect with fellow members\, exchange i
+ deas\, and cultivate meaningful relationships.\n\nWhether you're sparking 
+ new collaborations\, sharing insights\, or simply enjoying great conversat
+ ion\, the Member Mingle is the perfect way to engage with our dynamic comm
+ unity. Don’t miss the chance to connect\, inspire\, and be inspired!\n\n
+ *This event is complimentary and reserved for members only. Complimentary 
+ light bites will be served\, and beverages will be available for purchase.
 URL:https://members.thequinhouse.com/events/186695
 CATEGORIES:Member Mixer
 END:VEVENT
@@ -172,24 +171,24 @@ DTSTART;TZID=America/New_York:20260610T170000
 DTEND;TZID=America/New_York:20260610T183000
 SUMMARY:Author Talk: "Checkmate" with Ben Mezrich
 LOCATION:The Pub
-DESCRIPTION:Category: The Arts\nPrice: Free\nStatus: You are Confirmed\nEve
- nt URL: https://members.thequinhouse.com/events/187622\n\n5:00PM Reception
- \, 5:30PM Discussion \nStep into the high-stakes world of Checkmate with 
- bestselling author Ben Mezrich—an electrifying true story that unravels 
- the biggest scandal in modern chess.\n\nIn September 2022\, the chess worl
- d was shaken when nineteen-year-old American prodigy Hans Niemann defeated
-  reigning world champion Magnus Carlsen in a stunning upset. Days later\, 
- Carlsen accused Niemann of cheating—an allegation that ignited a global 
- firestorm\, drawing in Chess.com\, the media\, and a rapidly expanding dig
- ital audience. What followed was a dramatic collision of reputation\, riva
- lry\, and power.\n\nBut Checkmate is about far more than controversy. It�
- �s a portrait of ambition at its sharpest edge—a young player willing to
-  risk everything to rise\, and a legendary figure determined to defend his
-  legacy. Set against the backdrop of a centuries-old game transformed by s
- treaming\, sponsorships\, and Silicon Valley influence\, Mezrich brings re
- aders inside a world that is as cutthroat as it is cerebral.\n\n*This even
- t is complimentary and reserved for members only. Light bites and refreshm
- ents will be served.
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 1 spot left\nSta
+ tus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/events
+ /187622\n\n5:00PM Reception\, 5:30PM Discussion \nStep into the high-stak
+ es world of Checkmate with bestselling author Ben Mezrich—an electrifyin
+ g true story that unravels the biggest scandal in modern chess.\n\nIn Sept
+ ember 2022\, the chess world was shaken when nineteen-year-old American pr
+ odigy Hans Niemann defeated reigning world champion Magnus Carlsen in a st
+ unning upset. Days later\, Carlsen accused Niemann of cheating—an allega
+ tion that ignited a global firestorm\, drawing in Chess.com\, the media\, 
+ and a rapidly expanding digital audience. What followed was a dramatic col
+ lision of reputation\, rivalry\, and power.\n\nBut Checkmate is about far 
+ more than controversy. It’s a portrait of ambition at its sharpest edge�
+ ��a young player willing to risk everything to rise\, and a legendary figu
+ re determined to defend his legacy. Set against the backdrop of a centurie
+ s-old game transformed by streaming\, sponsorships\, and Silicon Valley in
+ fluence\, Mezrich brings readers inside a world that is as cutthroat as it
+  is cerebral.\n\n*This event is complimentary and reserved for members onl
+ y. Light bites and refreshments will be served.
 URL:https://members.thequinhouse.com/events/187622
 CATEGORIES:The Arts
 END:VEVENT
@@ -517,26 +516,26 @@ DTSTART;VALUE=DATE:20260623
 DTEND;VALUE=DATE:20260624
 SUMMARY:TEDxBoston: Visions of the Next 250
 LOCATION:Offsite: GBH Studios
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nStatus: Waitlist Only\nTim
- e: 3 PM – 7 PM\nEvent URL: https://members.thequinhouse.com/events/19001
- 2\n\nFor 250 years\, Massachusetts has produced the ideas that shaped a na
- tion: public education\, the telephone\, the first American node of the Wo
- rld Wide Web. The next 250 begin now.\n\nAs part of the statewide Our Amer
- ica 250 initiative\, join us at GBH for a one-day gathering on what comes 
- next. Thirty speakers take the stage in interviews and talks\, mapping the
-  forces that will define America's next chapter: artificial intelligence\,
-  the future of work\, energy and climate technology\, and the reinvention 
- of education.\n\nA preview of featured speakers:\n\nAndrew Lau - CEO of Je
- llyfish\nJoseph Aoun - President of Northeastern University and author of 
- Robot-Proof\nLibby Wayman - Partner at Breakthrough Energy Ventures\nNeil 
- Thompson - Director of MIT FutureTech and Principal Investigator at MIT's 
- Initiative on the Digital Economy\n\nCurated and moderated by John Werner\
- , venture capitalist\, MIT lecturer\, and Forbes AI columnist. Every talk 
- is recorded as a living time capsule\, a message to the generations who wi
- ll open it on the road to America's 500th.\n\nPlease look forward to addit
- ional details regarding related Programming hosted at The 'Quin on June 22
- nd. More information to follow.\n\n*This event is complimentary and reserv
- ed for members\, plus one guest.
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nStatus: You are on Waitlis
+ t\nTime: 3 PM – 7 PM\nEvent URL: https://members.thequinhouse.com/events
+ /190012\n\nFor 250 years\, Massachusetts has produced the ideas that shape
+ d a nation: public education\, the telephone\, the first American node of 
+ the World Wide Web. The next 250 begin now.\n\nAs part of the statewide Ou
+ r America 250 initiative\, join us at GBH for a one-day gathering on what 
+ comes next. Thirty speakers take the stage in interviews and talks\, mappi
+ ng the forces that will define America's next chapter: artificial intellig
+ ence\, the future of work\, energy and climate technology\, and the reinve
+ ntion of education.\n\nA preview of featured speakers:\n\nAndrew Lau - CEO
+  of Jellyfish\nJoseph Aoun - President of Northeastern University and auth
+ or of Robot-Proof\nLibby Wayman - Partner at Breakthrough Energy Ventures\
+ nNeil Thompson - Director of MIT FutureTech and Principal Investigator at 
+ MIT's Initiative on the Digital Economy\n\nCurated and moderated by John W
+ erner\, venture capitalist\, MIT lecturer\, and Forbes AI columnist. Every
+  talk is recorded as a living time capsule\, a message to the generations 
+ who will open it on the road to America's 500th.\n\nPlease look forward to
+  additional details regarding related Programming hosted at The 'Quin on J
+ une 22nd. More information to follow.\n\n*This event is complimentary and 
+ reserved for members\, plus one guest.
 URL:https://members.thequinhouse.com/events/190012
 CATEGORIES:‘Quin Chat
 END:VEVENT
@@ -588,7 +587,7 @@ DTSTART;TZID=America/New_York:20260623T170000
 DTEND;TZID=America/New_York:20260623T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 36 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 35 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  86697\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in an ambiant reserved space. This is your opportunity to connect with fe
@@ -885,7 +884,7 @@ DTSTART;TZID=America/New_York:20260630T170000
 DTEND;TZID=America/New_York:20260630T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 31 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 29 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  86698\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in an ambiant reserved space. This is your opportunity to connect with fe

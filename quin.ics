@@ -30,26 +30,56 @@ DTSTART;TZID=America/New_York:20260610T170000
 DTEND;TZID=America/New_York:20260610T183000
 SUMMARY:Author Talk: "Checkmate" with Ben Mezrich
 LOCATION:The Pub
-DESCRIPTION:Category: The Arts\nPrice: Free\nStatus: You are Confirmed\nEve
- nt URL: https://members.thequinhouse.com/events/187622\n\n5:00PM Reception
- \, 5:30PM Discussion \nStep into the high-stakes world of Checkmate with 
- bestselling author Ben Mezrich—an electrifying true story that unravels 
- the biggest scandal in modern chess.\n\nIn September 2022\, the chess worl
- d was shaken when nineteen-year-old American prodigy Hans Niemann defeated
-  reigning world champion Magnus Carlsen in a stunning upset. Days later\, 
- Carlsen accused Niemann of cheating—an allegation that ignited a global 
- firestorm\, drawing in Chess.com\, the media\, and a rapidly expanding dig
- ital audience. What followed was a dramatic collision of reputation\, riva
- lry\, and power.\n\nBut Checkmate is about far more than controversy. It�
- �s a portrait of ambition at its sharpest edge—a young player willing to
-  risk everything to rise\, and a legendary figure determined to defend his
-  legacy. Set against the backdrop of a centuries-old game transformed by s
- treaming\, sponsorships\, and Silicon Valley influence\, Mezrich brings re
- aders inside a world that is as cutthroat as it is cerebral.\n\n*This even
- t is complimentary and reserved for members only. Light bites and refreshm
- ents will be served.
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 1 spot left\nSta
+ tus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/events
+ /187622\n\n5:00PM Reception\, 5:30PM Discussion \nStep into the high-stak
+ es world of Checkmate with bestselling author Ben Mezrich—an electrifyin
+ g true story that unravels the biggest scandal in modern chess.\n\nIn Sept
+ ember 2022\, the chess world was shaken when nineteen-year-old American pr
+ odigy Hans Niemann defeated reigning world champion Magnus Carlsen in a st
+ unning upset. Days later\, Carlsen accused Niemann of cheating—an allega
+ tion that ignited a global firestorm\, drawing in Chess.com\, the media\, 
+ and a rapidly expanding digital audience. What followed was a dramatic col
+ lision of reputation\, rivalry\, and power.\n\nBut Checkmate is about far 
+ more than controversy. It’s a portrait of ambition at its sharpest edge�
+ ��a young player willing to risk everything to rise\, and a legendary figu
+ re determined to defend his legacy. Set against the backdrop of a centurie
+ s-old game transformed by streaming\, sponsorships\, and Silicon Valley in
+ fluence\, Mezrich brings readers inside a world that is as cutthroat as it
+  is cerebral.\n\n*This event is complimentary and reserved for members onl
+ y. Light bites and refreshments will be served.
 URL:https://members.thequinhouse.com/events/187622
 CATEGORIES:The Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-190012@thequinhouse.com
+DTSTAMP:20260623T150000Z
+DTSTART;VALUE=DATE:20260623
+DTEND;VALUE=DATE:20260624
+SUMMARY:TEDxBoston: Visions of the Next 250
+LOCATION:Offsite: GBH Studios
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nStatus: You are on Waitlis
+ t\nTime: 3 PM – 7 PM\nEvent URL: https://members.thequinhouse.com/events
+ /190012\n\nFor 250 years\, Massachusetts has produced the ideas that shape
+ d a nation: public education\, the telephone\, the first American node of 
+ the World Wide Web. The next 250 begin now.\n\nAs part of the statewide Ou
+ r America 250 initiative\, join us at GBH for a one-day gathering on what 
+ comes next. Thirty speakers take the stage in interviews and talks\, mappi
+ ng the forces that will define America's next chapter: artificial intellig
+ ence\, the future of work\, energy and climate technology\, and the reinve
+ ntion of education.\n\nA preview of featured speakers:\n\nAndrew Lau - CEO
+  of Jellyfish\nJoseph Aoun - President of Northeastern University and auth
+ or of Robot-Proof\nLibby Wayman - Partner at Breakthrough Energy Ventures\
+ nNeil Thompson - Director of MIT FutureTech and Principal Investigator at 
+ MIT's Initiative on the Digital Economy\n\nCurated and moderated by John W
+ erner\, venture capitalist\, MIT lecturer\, and Forbes AI columnist. Every
+  talk is recorded as a living time capsule\, a message to the generations 
+ who will open it on the road to America's 500th.\n\nPlease look forward to
+  additional details regarding related Programming hosted at The 'Quin on J
+ une 22nd. More information to follow.\n\n*This event is complimentary and 
+ reserved for members\, plus one guest.
+URL:https://members.thequinhouse.com/events/190012
+CATEGORIES:‘Quin Chat
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-188062@thequinhouse.com
