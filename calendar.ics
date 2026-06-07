@@ -76,18 +76,18 @@ DTSTART;TZID=America/New_York:20260608T180000
 DTEND;TZID=America/New_York:20260608T210000
 SUMMARY:Community Dinner Table
 LOCATION:Café Q
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 1 spot left\
- nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/176
- 008\n\nStart your week in good company with the Café Q Community dinner t
- able for members-only. Set aside for those looking to expand their social 
- circle over a shared meal\, this gathering is all about good food\, lively
-  conversation\, and meaningful connections. Pull up a chair\, and savor th
- e experience—because nothing brings people together quite like a great m
- eal.\n\n*This event is reserved for members only. An advance charge of $24
-  per member contributes to communal appetizers available upon seating. Mem
- bers are responsible for à la carte entrées\, desserts\, and beverages\,
-  plus taxes and fees. Cancellations made within 24 hours of the event\, or
-  failure to attend will be subject to the Café Q's surcharge policy.
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 2 spots left
+ \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/17
+ 6008\n\nStart your week in good company with the Café Q Community dinner 
+ table for members-only. Set aside for those looking to expand their social
+  circle over a shared meal\, this gathering is all about good food\, livel
+ y conversation\, and meaningful connections. Pull up a chair\, and savor t
+ he experience—because nothing brings people together quite like a great 
+ meal.\n\n*This event is reserved for members only. An advance charge of $2
+ 4 per member contributes to communal appetizers available upon seating. Me
+ mbers are responsible for à la carte entrées\, desserts\, and beverages\
+ , plus taxes and fees. Cancellations made within 24 hours of the event\, o
+ r failure to attend will be subject to the Café Q's surcharge policy.
 URL:https://members.thequinhouse.com/events/176008
 CATEGORIES:Member Mixer
 END:VEVENT
@@ -143,26 +143,25 @@ DTSTART;TZID=America/New_York:20260609T193000
 DTEND;TZID=America/New_York:20260609T203000
 SUMMARY:Author's Circle Book Club: The Gap Years with Tom French
 LOCATION:The Terrace Room
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 1 spot left\nSta
- tus: Available\nEvent URL: https://members.thequinhouse.com/events/186709\
- n\nBookmark the date for an inspiring conversation exploring The Gap Years
-  with author Tom French & moderated by Wendy Dodson\, owner of Hummingbird
-  Books - a powerful reflection on adventure\, endurance\, and the pursuit 
- of meaning beyond the expected path.\n\nAt the close of a four-decade care
- er\, French set out to rediscover the passions that once defined him. What
-  began as a single “gap year” evolved into a transformative three-year
-  journey—one that took him from cross-country ski races to the slopes of
-  the world’s highest peaks\, including two extraordinary expeditions to 
- Mount Everest. Along the way\, he faced physical limits\, unpredictable el
- ements\, and moments of profound uncertainty\, from navigating a cyclone h
- igh on the mountain to summiting under a moonlit sky via an uncharted appr
- oach.\n\nYet The Gap Years is about more than endurance at altitude. It is
-  a meditation on renewal - on the beauty of wild places\, the discipline o
- f sport\, and the deeper question of how we choose to spend our time. Fren
- ch’s story invites us to reconsider what it means to begin again\, and t
- o reconnect with the pursuits that once made us feel most alive.\n\n*This 
- event is complimentary and reserved for members only. Light refreshments w
- ill be served.
+DESCRIPTION:Category: The Arts\nPrice: Free\nStatus: Waitlist Only\nEvent U
+ RL: https://members.thequinhouse.com/events/186709\n\nBookmark the date fo
+ r an inspiring conversation exploring The Gap Years with author Tom French
+  & moderated by Wendy Dodson\, owner of Hummingbird Books - a powerful ref
+ lection on adventure\, endurance\, and the pursuit of meaning beyond the e
+ xpected path.\n\nAt the close of a four-decade career\, French set out to 
+ rediscover the passions that once defined him. What began as a single “g
+ ap year” evolved into a transformative three-year journey—one that too
+ k him from cross-country ski races to the slopes of the world’s highest 
+ peaks\, including two extraordinary expeditions to Mount Everest. Along th
+ e way\, he faced physical limits\, unpredictable elements\, and moments of
+  profound uncertainty\, from navigating a cyclone high on the mountain to 
+ summiting under a moonlit sky via an uncharted approach.\n\nYet The Gap Ye
+ ars is about more than endurance at altitude. It is a meditation on renewa
+ l - on the beauty of wild places\, the discipline of sport\, and the deepe
+ r question of how we choose to spend our time. French’s story invites us
+  to reconsider what it means to begin again\, and to reconnect with the pu
+ rsuits that once made us feel most alive.\n\n*This event is complimentary 
+ and reserved for members only. Light refreshments will be served.
 URL:https://members.thequinhouse.com/events/186709
 CATEGORIES:The Arts
 END:VEVENT
@@ -886,7 +885,7 @@ DTSTART;TZID=America/New_York:20260630T170000
 DTEND;TZID=America/New_York:20260630T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 32 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 31 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  86698\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in an ambiant reserved space. This is your opportunity to connect with fe
