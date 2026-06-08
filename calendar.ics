@@ -76,18 +76,18 @@ DTSTART;TZID=America/New_York:20260608T180000
 DTEND;TZID=America/New_York:20260608T210000
 SUMMARY:Community Dinner Table
 LOCATION:Café Q
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 1 spot left\
- nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/176
- 008\n\nStart your week in good company with the Café Q Community dinner t
- able for members-only. Set aside for those looking to expand their social 
- circle over a shared meal\, this gathering is all about good food\, lively
-  conversation\, and meaningful connections. Pull up a chair\, and savor th
- e experience—because nothing brings people together quite like a great m
- eal.\n\n*This event is reserved for members only. An advance charge of $24
-  per member contributes to communal appetizers available upon seating. Mem
- bers are responsible for à la carte entrées\, desserts\, and beverages\,
-  plus taxes and fees. Cancellations made within 24 hours of the event\, or
-  failure to attend will be subject to the Café Q's surcharge policy.
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nStatus: Waitlist Only\nEve
+ nt URL: https://members.thequinhouse.com/events/176008\n\nStart your week 
+ in good company with the Café Q Community dinner table for members-only. 
+ Set aside for those looking to expand their social circle over a shared me
+ al\, this gathering is all about good food\, lively conversation\, and mea
+ ningful connections. Pull up a chair\, and savor the experience—because 
+ nothing brings people together quite like a great meal.\n\n*This event is 
+ reserved for members only. An advance charge of $24 per member contributes
+  to communal appetizers available upon seating. Members are responsible fo
+ r à la carte entrées\, desserts\, and beverages\, plus taxes and fees. C
+ ancellations made within 24 hours of the event\, or failure to attend will
+  be subject to the Café Q's surcharge policy.
 URL:https://members.thequinhouse.com/events/176008
 CATEGORIES:Member Mixer
 END:VEVENT
@@ -143,25 +143,26 @@ DTSTART;TZID=America/New_York:20260609T193000
 DTEND;TZID=America/New_York:20260609T203000
 SUMMARY:Author's Circle Book Club: The Gap Years with Tom French
 LOCATION:The Terrace Room
-DESCRIPTION:Category: The Arts\nPrice: Free\nStatus: Waitlist Only\nEvent U
- RL: https://members.thequinhouse.com/events/186709\n\nBookmark the date fo
- r an inspiring conversation exploring The Gap Years with author Tom French
-  & moderated by Wendy Dodson\, owner of Hummingbird Books - a powerful ref
- lection on adventure\, endurance\, and the pursuit of meaning beyond the e
- xpected path.\n\nAt the close of a four-decade career\, French set out to 
- rediscover the passions that once defined him. What began as a single “g
- ap year” evolved into a transformative three-year journey—one that too
- k him from cross-country ski races to the slopes of the world’s highest 
- peaks\, including two extraordinary expeditions to Mount Everest. Along th
- e way\, he faced physical limits\, unpredictable elements\, and moments of
-  profound uncertainty\, from navigating a cyclone high on the mountain to 
- summiting under a moonlit sky via an uncharted approach.\n\nYet The Gap Ye
- ars is about more than endurance at altitude. It is a meditation on renewa
- l - on the beauty of wild places\, the discipline of sport\, and the deepe
- r question of how we choose to spend our time. French’s story invites us
-  to reconsider what it means to begin again\, and to reconnect with the pu
- rsuits that once made us feel most alive.\n\n*This event is complimentary 
- and reserved for members only. Light refreshments will be served.
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 1 spot left\nSta
+ tus: Available\nEvent URL: https://members.thequinhouse.com/events/186709\
+ n\nBookmark the date for an inspiring conversation exploring The Gap Years
+  with author Tom French & moderated by Wendy Dodson\, owner of Hummingbird
+  Books - a powerful reflection on adventure\, endurance\, and the pursuit 
+ of meaning beyond the expected path.\n\nAt the close of a four-decade care
+ er\, French set out to rediscover the passions that once defined him. What
+  began as a single “gap year” evolved into a transformative three-year
+  journey—one that took him from cross-country ski races to the slopes of
+  the world’s highest peaks\, including two extraordinary expeditions to 
+ Mount Everest. Along the way\, he faced physical limits\, unpredictable el
+ ements\, and moments of profound uncertainty\, from navigating a cyclone h
+ igh on the mountain to summiting under a moonlit sky via an uncharted appr
+ oach.\n\nYet The Gap Years is about more than endurance at altitude. It is
+  a meditation on renewal - on the beauty of wild places\, the discipline o
+ f sport\, and the deeper question of how we choose to spend our time. Fren
+ ch’s story invites us to reconsider what it means to begin again\, and t
+ o reconnect with the pursuits that once made us feel most alive.\n\n*This 
+ event is complimentary and reserved for members only. Light refreshments w
+ ill be served.
 URL:https://members.thequinhouse.com/events/186709
 CATEGORIES:The Arts
 END:VEVENT
@@ -172,24 +173,24 @@ DTSTART;TZID=America/New_York:20260610T170000
 DTEND;TZID=America/New_York:20260610T183000
 SUMMARY:Author Talk: "Checkmate" with Ben Mezrich
 LOCATION:The Pub
-DESCRIPTION:Category: The Arts\nPrice: Free\nStatus: You are Confirmed\nEve
- nt URL: https://members.thequinhouse.com/events/187622\n\n5:00PM Reception
- \, 5:30PM Discussion \nStep into the high-stakes world of Checkmate with 
- bestselling author Ben Mezrich—an electrifying true story that unravels 
- the biggest scandal in modern chess.\n\nIn September 2022\, the chess worl
- d was shaken when nineteen-year-old American prodigy Hans Niemann defeated
-  reigning world champion Magnus Carlsen in a stunning upset. Days later\, 
- Carlsen accused Niemann of cheating—an allegation that ignited a global 
- firestorm\, drawing in Chess.com\, the media\, and a rapidly expanding dig
- ital audience. What followed was a dramatic collision of reputation\, riva
- lry\, and power.\n\nBut Checkmate is about far more than controversy. It�
- �s a portrait of ambition at its sharpest edge—a young player willing to
-  risk everything to rise\, and a legendary figure determined to defend his
-  legacy. Set against the backdrop of a centuries-old game transformed by s
- treaming\, sponsorships\, and Silicon Valley influence\, Mezrich brings re
- aders inside a world that is as cutthroat as it is cerebral.\n\n*This even
- t is complimentary and reserved for members only. Light bites and refreshm
- ents will be served.
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 3 spots left\nSt
+ atus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/event
+ s/187622\n\n5:00PM Reception\, 5:30PM Discussion \nStep into the high-sta
+ kes world of Checkmate with bestselling author Ben Mezrich—an electrifyi
+ ng true story that unravels the biggest scandal in modern chess.\n\nIn Sep
+ tember 2022\, the chess world was shaken when nineteen-year-old American p
+ rodigy Hans Niemann defeated reigning world champion Magnus Carlsen in a s
+ tunning upset. Days later\, Carlsen accused Niemann of cheating—an alleg
+ ation that ignited a global firestorm\, drawing in Chess.com\, the media\,
+  and a rapidly expanding digital audience. What followed was a dramatic co
+ llision of reputation\, rivalry\, and power.\n\nBut Checkmate is about far
+  more than controversy. It’s a portrait of ambition at its sharpest edge
+ —a young player willing to risk everything to rise\, and a legendary fig
+ ure determined to defend his legacy. Set against the backdrop of a centuri
+ es-old game transformed by streaming\, sponsorships\, and Silicon Valley i
+ nfluence\, Mezrich brings readers inside a world that is as cutthroat as i
+ t is cerebral.\n\n*This event is complimentary and reserved for members on
+ ly. Light bites and refreshments will be served.
 URL:https://members.thequinhouse.com/events/187622
 CATEGORIES:The Arts
 END:VEVENT
@@ -472,7 +473,7 @@ DTSTART;TZID=America/New_York:20260622T180000
 DTEND;TZID=America/New_York:20260622T210000
 SUMMARY:Community Dinner Table
 LOCATION:Café Q
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 3 spots left
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 2 spots left
  \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/17
  6009\n\nStart your week in good company with the Café Q Community dinner 
  table for members-only. Set aside for those looking to expand their social
@@ -752,27 +753,27 @@ DTSTART;TZID=America/New_York:20260625T170000
 DTEND;TZID=America/New_York:20260625T183000
 SUMMARY:Meet the Maker: Rhonda Kallman from Boston Harbor Distillery
 LOCATION:Scottie's
-DESCRIPTION:Category: Food & Beverage\nPrice: Free\nAvailability: 16 spots 
- left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/event
- s/189486\n\nJoin us for a spirited evening celebrating 250 years of Massac
- husetts in partnership with Boston Harbor Distillery. Led by founder Rhond
- a Kallman\, this reception-style Meet the Maker invites members to explore
-  the stories\, craftsmanship\, and local history woven into one of Boston�
- ��s most distinctive distilleries—where every detail\, from the spirits 
- themselves to the names on the bottles\, reflects a deep connection to pla
- ce.\n\nA pioneering force in the craft beverage industry\, Rhonda Kallman 
- has spent decades shaping the future of American brewing and distilling. H
- er passion for whiskey\, storytelling\, and craftsmanship is at the heart 
- of Boston Harbor Distillery’s approach: honoring history while redefinin
- g what modern American spirits can be.\n\nGuided by Rhonda\, members will 
- have the first opportunity to taste an exclusive selections from Boston Ha
- rbor Distillery including: Putnam Single Malt Whiskey & Rye Expressions\, 
- Demon Seed Whiskey and featuring American 250 Custom Malt Whiskey\, of whi
- ch only one barrel was produced. Set within the legacy of a restored 19th-
- century waterfront mill building in Dorchester\, the distillery has become
-  a modern landmark of American craft spirits—equal parts innovation\, he
- ritage\, and unapologetic Boston character.\n\n*This event is complimentar
- y and reserved for members only. Complimentary light bites will be served.
+DESCRIPTION:Category: Food & Beverage\nPrice: Free\nAvailability: 8 spots l
+ eft\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events
+ /189486\n\nJoin us for a spirited evening celebrating 250 years of Massach
+ usetts in partnership with Boston Harbor Distillery. Led by founder Rhonda
+  Kallman\, this reception-style Meet the Maker invites members to explore 
+ the stories\, craftsmanship\, and local history woven into one of Boston�
+ �s most distinctive distilleries—where every detail\, from the spirits t
+ hemselves to the names on the bottles\, reflects a deep connection to plac
+ e.\n\nA pioneering force in the craft beverage industry\, Rhonda Kallman h
+ as spent decades shaping the future of American brewing and distilling. He
+ r passion for whiskey\, storytelling\, and craftsmanship is at the heart o
+ f Boston Harbor Distillery’s approach: honoring history while redefining
+  what modern American spirits can be.\n\nGuided by Rhonda\, members will h
+ ave the first opportunity to taste an exclusive selections from Boston Har
+ bor Distillery including: Putnam Single Malt Whiskey & Rye Expressions\, D
+ emon Seed Whiskey and featuring American 250 Custom Malt Whiskey\, of whic
+ h only one barrel was produced. Set within the legacy of a restored 19th-c
+ entury waterfront mill building in Dorchester\, the distillery has become 
+ a modern landmark of American craft spirits—equal parts innovation\, her
+ itage\, and unapologetic Boston character.\n\n*This event is complimentary
+  and reserved for members only. Complimentary light bites will be served.
 URL:https://members.thequinhouse.com/events/189486
 CATEGORIES:Food & Beverage
 END:VEVENT
