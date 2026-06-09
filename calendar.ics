@@ -44,71 +44,23 @@ URL:https://members.thequinhouse.com/events/184860
 CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
-UID:quin-event-185005@thequinhouse.com
-DTSTAMP:20260608T173000Z
-DTSTART;TZID=America/New_York:20260608T173000
-DTEND;TZID=America/New_York:20260608T200000
-SUMMARY:Game Night: Bridge: Beyond Basics Session II
-LOCATION:The Muse
-DESCRIPTION:Category: Sports & Games\nPrice: Free\nStatus: Waitlist Only\nE
- vent URL: https://members.thequinhouse.com/events/185005\n\nDiscover the a
- rt and strategy of Bridge in a thoughtfully designed two-part series for m
- embers ready to deepen their understanding of the game. Open to those who 
- joined our March and May gatherings—as well as anyone with a foundationa
- l knowledge of Bridge—these sessions offer the perfect next step for bui
- lding confidence at the table.\n\nLed by an expert guest instructor\, each
-  evening will blend guided play with focused instruction. Expect a relaxed
- \, hands-on atmosphere with ample opportunity to play multiple hands\, ask
-  questions\, and develop your strategy in real time.\n\nBy the series’ e
- nd\, members will feel equipped to gather and play with ease\, carrying fo
- rward both the skill and the spirit of this timeless game alongside fellow
-  members.\n\n*This event is complimentary and reserved for members only. P
- lease note that this is a two-part series\; registration for the first ses
- sion on June 1st will automatically enroll you in the second session on Ju
- ne 8th\, ensuring a cohesive learning experience across both evenings.
-URL:https://members.thequinhouse.com/events/185005
-CATEGORIES:Sports & Games
-END:VEVENT
-BEGIN:VEVENT
-UID:quin-event-176008@thequinhouse.com
-DTSTAMP:20260608T180000Z
-DTSTART;TZID=America/New_York:20260608T180000
-DTEND;TZID=America/New_York:20260608T210000
-SUMMARY:Community Dinner Table
-LOCATION:Café Q
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nStatus: Waitlist Only\nEve
- nt URL: https://members.thequinhouse.com/events/176008\n\nStart your week 
- in good company with the Café Q Community dinner table for members-only. 
- Set aside for those looking to expand their social circle over a shared me
- al\, this gathering is all about good food\, lively conversation\, and mea
- ningful connections. Pull up a chair\, and savor the experience—because 
- nothing brings people together quite like a great meal.\n\n*This event is 
- reserved for members only. An advance charge of $24 per member contributes
-  to communal appetizers available upon seating. Members are responsible fo
- r à la carte entrées\, desserts\, and beverages\, plus taxes and fees. C
- ancellations made within 24 hours of the event\, or failure to attend will
-  be subject to the Café Q's surcharge policy.
-URL:https://members.thequinhouse.com/events/176008
-CATEGORIES:Member Mixer
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-186695@thequinhouse.com
 DTSTAMP:20260609T170000Z
 DTSTART;TZID=America/New_York:20260609T170000
 DTEND;TZID=America/New_York:20260609T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 2 spots left
- \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/18
- 6695\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set 
- in an ambiant reserved space. This is your opportunity to connect with fel
- low members\, exchange ideas\, and cultivate meaningful relationships.\n\n
- Whether you're sparking new collaborations\, sharing insights\, or simply 
- enjoying great conversation\, the Member Mingle is the perfect way to enga
- ge with our dynamic community. Don’t miss the chance to connect\, inspir
- e\, and be inspired!\n\n*This event is complimentary and reserved for memb
- ers only. Complimentary light bites will be served\, and beverages will be
-  available for purchase.
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 1 spot left\
+ nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/186
+ 695\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set i
+ n an ambiant reserved space. This is your opportunity to connect with fell
+ ow members\, exchange ideas\, and cultivate meaningful relationships.\n\nW
+ hether you're sparking new collaborations\, sharing insights\, or simply e
+ njoying great conversation\, the Member Mingle is the perfect way to engag
+ e with our dynamic community. Don’t miss the chance to connect\, inspire
+ \, and be inspired!\n\n*This event is complimentary and reserved for membe
+ rs only. Complimentary light bites will be served\, and beverages will be 
+ available for purchase.
 URL:https://members.thequinhouse.com/events/186695
 CATEGORIES:Member Mixer
 END:VEVENT
@@ -173,7 +125,7 @@ DTSTART;TZID=America/New_York:20260610T170000
 DTEND;TZID=America/New_York:20260610T183000
 SUMMARY:Author Talk: "Checkmate" with Ben Mezrich
 LOCATION:The Pub
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 3 spots left\nSt
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 4 spots left\nSt
  atus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/event
  s/187622\n\n5:00PM Reception\, 5:30PM Discussion \nStep into the high-sta
  kes world of Checkmate with bestselling author Ben Mezrich—an electrifyi
@@ -377,7 +329,7 @@ DTSTART;TZID=America/New_York:20260617T170000
 DTEND;TZID=America/New_York:20260617T183000
 SUMMARY:'Quin Chat: Echoes of Liberty
 LOCATION:Scottie's
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 19 spots lef
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 17 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  89485\n\n5:00PM Reception\, 5:30PM Discussion \nJoin us for an exclusive 
  preview of Echoes of Liberty\, an immersive Augmented Reality experience 
@@ -753,7 +705,7 @@ DTSTART;TZID=America/New_York:20260625T170000
 DTEND;TZID=America/New_York:20260625T183000
 SUMMARY:Meet the Maker: Rhonda Kallman from Boston Harbor Distillery
 LOCATION:Scottie's
-DESCRIPTION:Category: Food & Beverage\nPrice: Free\nAvailability: 8 spots l
+DESCRIPTION:Category: Food & Beverage\nPrice: Free\nAvailability: 4 spots l
  eft\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events
  /189486\n\nJoin us for a spirited evening celebrating 250 years of Massach
  usetts in partnership with Boston Harbor Distillery. Led by founder Rhonda
