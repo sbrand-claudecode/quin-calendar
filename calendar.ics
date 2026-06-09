@@ -50,16 +50,17 @@ DTSTART;TZID=America/New_York:20260609T170000
 DTEND;TZID=America/New_York:20260609T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nStatus: Waitlist Only\nEve
- nt URL: https://members.thequinhouse.com/events/186695\n\nJoin us for our 
- weekly Member Mingle\, an inclusive gathering set in an ambiant reserved s
- pace. This is your opportunity to connect with fellow members\, exchange i
- deas\, and cultivate meaningful relationships.\n\nWhether you're sparking 
- new collaborations\, sharing insights\, or simply enjoying great conversat
- ion\, the Member Mingle is the perfect way to engage with our dynamic comm
- unity. Don’t miss the chance to connect\, inspire\, and be inspired!\n\n
- *This event is complimentary and reserved for members only. Complimentary 
- light bites will be served\, and beverages will be available for purchase.
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 4 spots left
+ \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/18
+ 6695\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set 
+ in an ambiant reserved space. This is your opportunity to connect with fel
+ low members\, exchange ideas\, and cultivate meaningful relationships.\n\n
+ Whether you're sparking new collaborations\, sharing insights\, or simply 
+ enjoying great conversation\, the Member Mingle is the perfect way to enga
+ ge with our dynamic community. Don’t miss the chance to connect\, inspir
+ e\, and be inspired!\n\n*This event is complimentary and reserved for memb
+ ers only. Complimentary light bites will be served\, and beverages will be
+  available for purchase.
 URL:https://members.thequinhouse.com/events/186695
 CATEGORIES:Member Mixer
 END:VEVENT
@@ -94,25 +95,26 @@ DTSTART;TZID=America/New_York:20260609T193000
 DTEND;TZID=America/New_York:20260609T203000
 SUMMARY:Author's Circle Book Club: The Gap Years with Tom French
 LOCATION:The Terrace Room
-DESCRIPTION:Category: The Arts\nPrice: Free\nStatus: Waitlist Only\nEvent U
- RL: https://members.thequinhouse.com/events/186709\n\nBookmark the date fo
- r an inspiring conversation exploring The Gap Years with author Tom French
-  & moderated by Wendy Dodson\, owner of Hummingbird Books - a powerful ref
- lection on adventure\, endurance\, and the pursuit of meaning beyond the e
- xpected path.\n\nAt the close of a four-decade career\, French set out to 
- rediscover the passions that once defined him. What began as a single “g
- ap year” evolved into a transformative three-year journey—one that too
- k him from cross-country ski races to the slopes of the world’s highest 
- peaks\, including two extraordinary expeditions to Mount Everest. Along th
- e way\, he faced physical limits\, unpredictable elements\, and moments of
-  profound uncertainty\, from navigating a cyclone high on the mountain to 
- summiting under a moonlit sky via an uncharted approach.\n\nYet The Gap Ye
- ars is about more than endurance at altitude. It is a meditation on renewa
- l - on the beauty of wild places\, the discipline of sport\, and the deepe
- r question of how we choose to spend our time. French’s story invites us
-  to reconsider what it means to begin again\, and to reconnect with the pu
- rsuits that once made us feel most alive.\n\n*This event is complimentary 
- and reserved for members only. Light refreshments will be served.
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 2 spots left\nSt
+ atus: Available\nEvent URL: https://members.thequinhouse.com/events/186709
+ \n\nBookmark the date for an inspiring conversation exploring The Gap Year
+ s with author Tom French & moderated by Wendy Dodson\, owner of Hummingbir
+ d Books - a powerful reflection on adventure\, endurance\, and the pursuit
+  of meaning beyond the expected path.\n\nAt the close of a four-decade car
+ eer\, French set out to rediscover the passions that once defined him. Wha
+ t began as a single “gap year” evolved into a transformative three-yea
+ r journey—one that took him from cross-country ski races to the slopes o
+ f the world’s highest peaks\, including two extraordinary expeditions to
+  Mount Everest. Along the way\, he faced physical limits\, unpredictable e
+ lements\, and moments of profound uncertainty\, from navigating a cyclone 
+ high on the mountain to summiting under a moonlit sky via an uncharted app
+ roach.\n\nYet The Gap Years is about more than endurance at altitude. It i
+ s a meditation on renewal - on the beauty of wild places\, the discipline 
+ of sport\, and the deeper question of how we choose to spend our time. Fre
+ nch’s story invites us to reconsider what it means to begin again\, and 
+ to reconnect with the pursuits that once made us feel most alive.\n\n*This
+  event is complimentary and reserved for members only. Light refreshments 
+ will be served.
 URL:https://members.thequinhouse.com/events/186709
 CATEGORIES:The Arts
 END:VEVENT
@@ -123,7 +125,7 @@ DTSTART;TZID=America/New_York:20260610T170000
 DTEND;TZID=America/New_York:20260610T183000
 SUMMARY:Author Talk: "Checkmate" with Ben Mezrich
 LOCATION:The Pub
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 6 spots left\nSt
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 3 spots left\nSt
  atus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/event
  s/187622\n\n5:00PM Reception\, 5:30PM Discussion \nStep into the high-sta
  kes world of Checkmate with bestselling author Ben Mezrich—an electrifyi
@@ -187,7 +189,7 @@ DTSTART;TZID=America/New_York:20260611T173000
 DTEND;TZID=America/New_York:20260611T193000
 SUMMARY:Wit & Word: A Performance in Written Humor
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 3 spots left\nSt
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 6 spots left\nSt
  atus: Available\nEvent URL: https://members.thequinhouse.com/events/186725
  \n\n5:30PM Reception\, 6:00PM Performance\nWit & Word offers an evening wh
  ere humor is written\, spoken\, and felt—bringing together a standout gr
@@ -252,20 +254,20 @@ DTSTART;TZID=America/New_York:20260613T120000
 DTEND;TZID=America/New_York:20260613T140000
 SUMMARY: Serendipity Brunch: Celebrating Pride
 LOCATION:Lunasol
-DESCRIPTION:Category: Member Mixer\nPrice: $65.00 per person\nAvailability:
-  2 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse.
- com/events/186727\n\nCelebrate Pride at a special edition of Serendipity B
- runch\, where community\, conversation\, and connection take center stage.
-  Set in Lunasol\, the afternoon unfolds with vibrant energy\, bringing tog
- ether members around a thoughtfully curated menu and a shared thread of co
- mmonality that sparks meaningful conversation.\n\nConversation prompts inv
- ite moments of reflection\, storytelling\, and shared perspective - honori
- ng the voices and experiences that make our community so dynamic. Brunch w
- ill be served family-style\, featuring pastries\, fruit\, and parfaits to 
- begin\, followed by a choice of entrée and generous sides. Mimosas and Bl
- oody Marys will be available throughout.\n\n*Tickets are $65 per person\, 
- plus tax\, and are reserved for members only. Cancellations within 48 hour
- s of the event\, or failure to attend\, will be charged in full.
+DESCRIPTION:Category: Member Mixer\nPrice: $65.00 per person\nStatus: Waitl
+ ist Only\nEvent URL: https://members.thequinhouse.com/events/186727\n\nCel
+ ebrate Pride at a special edition of Serendipity Brunch\, where community\
+ , conversation\, and connection take center stage. Set in Lunasol\, the af
+ ternoon unfolds with vibrant energy\, bringing together members around a t
+ houghtfully curated menu and a shared thread of commonality that sparks me
+ aningful conversation.\n\nConversation prompts invite moments of reflectio
+ n\, storytelling\, and shared perspective - honoring the voices and experi
+ ences that make our community so dynamic. Brunch will be served family-sty
+ le\, featuring pastries\, fruit\, and parfaits to begin\, followed by a ch
+ oice of entrée and generous sides. Mimosas and Bloody Marys will be avail
+ able throughout.\n\n*Tickets are $65 per person\, plus tax\, and are reser
+ ved for members only. Cancellations within 48 hours of the event\, or fail
+ ure to attend\, will be charged in full.
 URL:https://members.thequinhouse.com/events/186727
 CATEGORIES:Member Mixer
 END:VEVENT
@@ -327,7 +329,7 @@ DTSTART;TZID=America/New_York:20260617T170000
 DTEND;TZID=America/New_York:20260617T183000
 SUMMARY:'Quin Chat: Echoes of Liberty
 LOCATION:Scottie's
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 16 spots lef
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 15 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  89485\n\n5:00PM Reception\, 5:30PM Discussion \nJoin us for an exclusive 
  preview of Echoes of Liberty\, an immersive Augmented Reality experience 
@@ -703,27 +705,27 @@ DTSTART;TZID=America/New_York:20260625T170000
 DTEND;TZID=America/New_York:20260625T183000
 SUMMARY:Meet the Maker: Rhonda Kallman from Boston Harbor Distillery
 LOCATION:Scottie's
-DESCRIPTION:Category: Food & Beverage\nPrice: Free\nAvailability: 3 spots l
- eft\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events
- /189486\n\nJoin us for a spirited evening celebrating 250 years of Massach
- usetts in partnership with Boston Harbor Distillery. Led by founder Rhonda
-  Kallman\, this reception-style Meet the Maker invites members to explore 
- the stories\, craftsmanship\, and local history woven into one of Boston�
- �s most distinctive distilleries—where every detail\, from the spirits t
- hemselves to the names on the bottles\, reflects a deep connection to plac
- e.\n\nA pioneering force in the craft beverage industry\, Rhonda Kallman h
- as spent decades shaping the future of American brewing and distilling. He
- r passion for whiskey\, storytelling\, and craftsmanship is at the heart o
- f Boston Harbor Distillery’s approach: honoring history while redefining
-  what modern American spirits can be.\n\nGuided by Rhonda\, members will h
- ave the first opportunity to taste an exclusive selections from Boston Har
- bor Distillery including: Putnam Single Malt Whiskey & Rye Expressions\, D
- emon Seed Whiskey and featuring American 250 Custom Malt Whiskey\, of whic
- h only one barrel was produced. Set within the legacy of a restored 19th-c
- entury waterfront mill building in Dorchester\, the distillery has become 
- a modern landmark of American craft spirits—equal parts innovation\, her
- itage\, and unapologetic Boston character.\n\n*This event is complimentary
-  and reserved for members only. Complimentary light bites will be served.
+DESCRIPTION:Category: Food & Beverage\nPrice: Free\nStatus: Waitlist Only\n
+ Event URL: https://members.thequinhouse.com/events/189486\n\nJoin us for a
+  spirited evening celebrating 250 years of Massachusetts in partnership wi
+ th Boston Harbor Distillery. Led by founder Rhonda Kallman\, this receptio
+ n-style Meet the Maker invites members to explore the stories\, craftsmans
+ hip\, and local history woven into one of Boston’s most distinctive dist
+ illeries—where every detail\, from the spirits themselves to the names o
+ n the bottles\, reflects a deep connection to place.\n\nA pioneering force
+  in the craft beverage industry\, Rhonda Kallman has spent decades shaping
+  the future of American brewing and distilling. Her passion for whiskey\, 
+ storytelling\, and craftsmanship is at the heart of Boston Harbor Distille
+ ry’s approach: honoring history while redefining what modern American sp
+ irits can be.\n\nGuided by Rhonda\, members will have the first opportunit
+ y to taste an exclusive selections from Boston Harbor Distillery including
+ : Putnam Single Malt Whiskey & Rye Expressions\, Demon Seed Whiskey and fe
+ aturing American 250 Custom Malt Whiskey\, of which only one barrel was pr
+ oduced. Set within the legacy of a restored 19th-century waterfront mill b
+ uilding in Dorchester\, the distillery has become a modern landmark of Ame
+ rican craft spirits—equal parts innovation\, heritage\, and unapologetic
+  Boston character.\n\n*This event is complimentary and reserved for member
+ s only. Complimentary light bites will be served.
 URL:https://members.thequinhouse.com/events/189486
 CATEGORIES:Food & Beverage
 END:VEVENT
@@ -827,6 +829,23 @@ DESCRIPTION:Category: The Arts\nPrice: Free\nStatus: soldOut\nEvent URL: ht
  his course is final and non-cancelable\, and may not be transferred.
 URL:https://members.thequinhouse.com/events/188314
 CATEGORIES:The Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-181403@thequinhouse.com
+DTSTAMP:20260627T113000Z
+DTSTART;TZID=America/New_York:20260627T113000
+DTEND;TZID=America/New_York:20260627T143000
+SUMMARY:Jazz Brunch
+LOCATION:Café Q
+DESCRIPTION:Category: Food & Beverage\nPrice: Free / Included\nStatus: Avai
+ lable\nEvent URL: https://members.thequinhouse.com/events/181403\n\nReserv
+ ations from 10:30AM - 3:00PM | Live Music from 11:30AM - 2:30PM\nRise\, sh
+ ine and come hungry for Café Q's á la carte weekend brunch menu featurin
+ g tableside entertainment by a Jazz duo. Following the club's usual policy
+ \, children ages 6+ are welcome to attend when accompanied by a parent.\n\
+ nMake a Reservation.
+URL:https://members.thequinhouse.com/events/181403
+CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-186698@thequinhouse.com
