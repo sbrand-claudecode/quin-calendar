@@ -44,88 +44,13 @@ URL:https://members.thequinhouse.com/events/184860
 CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
-UID:quin-event-186695@thequinhouse.com
-DTSTAMP:20260609T170000Z
-DTSTART;TZID=America/New_York:20260609T170000
-DTEND;TZID=America/New_York:20260609T190000
-SUMMARY:Member Mingle
-LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 4 spots left
- \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/18
- 6695\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set 
- in an ambiant reserved space. This is your opportunity to connect with fel
- low members\, exchange ideas\, and cultivate meaningful relationships.\n\n
- Whether you're sparking new collaborations\, sharing insights\, or simply 
- enjoying great conversation\, the Member Mingle is the perfect way to enga
- ge with our dynamic community. Don’t miss the chance to connect\, inspir
- e\, and be inspired!\n\n*This event is complimentary and reserved for memb
- ers only. Complimentary light bites will be served\, and beverages will be
-  available for purchase.
-URL:https://members.thequinhouse.com/events/186695
-CATEGORIES:Member Mixer
-END:VEVENT
-BEGIN:VEVENT
-UID:quin-event-189549@thequinhouse.com
-DTSTAMP:20260609T180000Z
-DTSTART;TZID=America/New_York:20260609T180000
-DTEND;TZID=America/New_York:20260609T190000
-SUMMARY:Boston Music Project
-LOCATION:The Reading Room
-DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free / Included\nStatus: 
- Available\nEvent URL: https://members.thequinhouse.com/events/189549\n\nJo
- in us for an inspiring evening of live music featuring student musicians f
- rom the Josiah Quincy Orchestra Program and teaching artists from Boston M
- usic Project\, an Arts & Culture grant recipient of our philanthropic arm\
- , The ’Quin Impact Fund. \n\nLiving room style seating for the short pe
- rformance in the Reading Room is first come\, first served to experience t
- he transformative power of music and the impact of equitable arts educatio
- n firsthand. This special event celebrates the talent of Boston’s young 
- artists and The ’Quin Impact Fund’s commitment to supporting organizat
- ions that create lasting opportunities through education\, creativity\, an
- d community engagement.\n\n*Reservations are not required. Please look for
- ward to a cash bar at the neighboring Little Bar\, or à la carte culinary
-  delights from the Reading Room's regular menu.
-URL:https://members.thequinhouse.com/events/189549
-CATEGORIES:‘Quin Impact Fund
-END:VEVENT
-BEGIN:VEVENT
-UID:quin-event-186709@thequinhouse.com
-DTSTAMP:20260609T193000Z
-DTSTART;TZID=America/New_York:20260609T193000
-DTEND;TZID=America/New_York:20260609T203000
-SUMMARY:Author's Circle Book Club: The Gap Years with Tom French
-LOCATION:The Terrace Room
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 2 spots left\nSt
- atus: Available\nEvent URL: https://members.thequinhouse.com/events/186709
- \n\nBookmark the date for an inspiring conversation exploring The Gap Year
- s with author Tom French & moderated by Wendy Dodson\, owner of Hummingbir
- d Books - a powerful reflection on adventure\, endurance\, and the pursuit
-  of meaning beyond the expected path.\n\nAt the close of a four-decade car
- eer\, French set out to rediscover the passions that once defined him. Wha
- t began as a single “gap year” evolved into a transformative three-yea
- r journey—one that took him from cross-country ski races to the slopes o
- f the world’s highest peaks\, including two extraordinary expeditions to
-  Mount Everest. Along the way\, he faced physical limits\, unpredictable e
- lements\, and moments of profound uncertainty\, from navigating a cyclone 
- high on the mountain to summiting under a moonlit sky via an uncharted app
- roach.\n\nYet The Gap Years is about more than endurance at altitude. It i
- s a meditation on renewal - on the beauty of wild places\, the discipline 
- of sport\, and the deeper question of how we choose to spend our time. Fre
- nch’s story invites us to reconsider what it means to begin again\, and 
- to reconnect with the pursuits that once made us feel most alive.\n\n*This
-  event is complimentary and reserved for members only. Light refreshments 
- will be served.
-URL:https://members.thequinhouse.com/events/186709
-CATEGORIES:The Arts
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-187622@thequinhouse.com
 DTSTAMP:20260610T170000Z
 DTSTART;TZID=America/New_York:20260610T170000
 DTEND;TZID=America/New_York:20260610T183000
 SUMMARY:Author Talk: "Checkmate" with Ben Mezrich
 LOCATION:The Pub
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 3 spots left\nSt
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 6 spots left\nSt
  atus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/event
  s/187622\n\n5:00PM Reception\, 5:30PM Discussion \nStep into the high-sta
  kes world of Checkmate with bestselling author Ben Mezrich—an electrifyi
@@ -189,7 +114,7 @@ DTSTART;TZID=America/New_York:20260611T173000
 DTEND;TZID=America/New_York:20260611T193000
 SUMMARY:Wit & Word: A Performance in Written Humor
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 6 spots left\nSt
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 9 spots left\nSt
  atus: Available\nEvent URL: https://members.thequinhouse.com/events/186725
  \n\n5:30PM Reception\, 6:00PM Performance\nWit & Word offers an evening wh
  ere humor is written\, spoken\, and felt—bringing together a standout gr
@@ -1063,8 +988,8 @@ CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-189418@thequinhouse.com
-DTSTAMP:20260925T120000Z
-DTSTART;VALUE=DATE:20260925
+DTSTAMP:20260924T120000Z
+DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260929
 SUMMARY:'Venture: Oktoberfest
 LOCATION:Offsite: Munich\, Germany
