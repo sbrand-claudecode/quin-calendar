@@ -44,52 +44,6 @@ URL:https://members.thequinhouse.com/events/184860
 CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
-UID:quin-event-187622@thequinhouse.com
-DTSTAMP:20260610T170000Z
-DTSTART;TZID=America/New_York:20260610T170000
-DTEND;TZID=America/New_York:20260610T183000
-SUMMARY:Author Talk: "Checkmate" with Ben Mezrich
-LOCATION:The Pub
-DESCRIPTION:Category: The Arts\nPrice: Free\nStatus: You are Confirmed\nEve
- nt URL: https://members.thequinhouse.com/events/187622\n\n5:00PM Reception
- \, 5:30PM Discussion \nStep into the high-stakes world of Checkmate with 
- bestselling author Ben Mezrich—an electrifying true story that unravels 
- the biggest scandal in modern chess.\n\nIn September 2022\, the chess worl
- d was shaken when nineteen-year-old American prodigy Hans Niemann defeated
-  reigning world champion Magnus Carlsen in a stunning upset. Days later\, 
- Carlsen accused Niemann of cheating—an allegation that ignited a global 
- firestorm\, drawing in Chess.com\, the media\, and a rapidly expanding dig
- ital audience. What followed was a dramatic collision of reputation\, riva
- lry\, and power.\n\nBut Checkmate is about far more than controversy. It�
- �s a portrait of ambition at its sharpest edge—a young player willing to
-  risk everything to rise\, and a legendary figure determined to defend his
-  legacy. Set against the backdrop of a centuries-old game transformed by s
- treaming\, sponsorships\, and Silicon Valley influence\, Mezrich brings re
- aders inside a world that is as cutthroat as it is cerebral.\n\n*This even
- t is complimentary and reserved for members only. Light bites and refreshm
- ents will be served.
-URL:https://members.thequinhouse.com/events/187622
-CATEGORIES:The Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:quin-event-176372@thequinhouse.com
-DTSTAMP:20260610T180000Z
-DTSTART;TZID=America/New_York:20260610T180000
-DTEND;TZID=America/New_York:20260610T210000
-SUMMARY:Live Music: Bob Richardson 
-LOCATION:The Reading Room
-DESCRIPTION:Category: The Arts\nPrice: Free / Included\nStatus: Available\n
- Event URL: https://members.thequinhouse.com/events/176372\n\nAdored for hi
- s signature style and smile\, Bob Richardson returns to the 'House for ano
- ther spectacular piano and vocal performance live from the Reading Room. R
- ichardson\, a composer\, arranger\, vocalist and former educator will char
- m the audience with requests all night long.\n\n*Please note that this eve
- nt is complimentary and reserved for members\, plus three guests. Seating 
- is first come\, first served.
-URL:https://members.thequinhouse.com/events/176372
-CATEGORIES:The Arts
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-186730@thequinhouse.com
 DTSTAMP:20260611T150000Z
 DTSTART;VALUE=DATE:20260611
@@ -114,7 +68,7 @@ DTSTART;TZID=America/New_York:20260611T173000
 DTEND;TZID=America/New_York:20260611T193000
 SUMMARY:Wit & Word: A Performance in Written Humor
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 11 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 14 spots left\nS
  tatus: Available\nEvent URL: https://members.thequinhouse.com/events/18672
  5\n\n5:30PM Reception\, 6:00PM Performance\nWit & Word offers an evening w
  here humor is written\, spoken\, and felt—bringing together a standout g
@@ -203,7 +157,7 @@ DTSTART;TZID=America/New_York:20260616T170000
 DTEND;TZID=America/New_York:20260616T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 11 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 10 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  86696\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in an ambiant reserved space. This is your opportunity to connect with fe
@@ -254,7 +208,7 @@ DTSTART;TZID=America/New_York:20260617T170000
 DTEND;TZID=America/New_York:20260617T183000
 SUMMARY:'Quin Chat: Echoes of Liberty
 LOCATION:Scottie's
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 14 spots lef
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 13 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  89485\n\n5:00PM Reception\, 5:30PM Discussion \nJoin us for an exclusive 
  preview of Echoes of Liberty\, an immersive Augmented Reality experience 
