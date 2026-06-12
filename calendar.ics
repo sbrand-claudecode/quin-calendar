@@ -178,7 +178,7 @@ DTSTART;TZID=America/New_York:20260617T170000
 DTEND;TZID=America/New_York:20260617T183000
 SUMMARY:'Quin Chat: Echoes of Liberty
 LOCATION:Scottie's
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 14 spots lef
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 15 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  89485\n\n5:00PM Reception\, 5:30PM Discussion \nJoin us for an exclusive 
  preview of Echoes of Liberty\, an immersive Augmented Reality experience 
@@ -453,16 +453,15 @@ DTSTART;TZID=America/New_York:20260623T200000
 DTEND;TZID=America/New_York:20260623T210000
 SUMMARY:Improv Comedy | 8:00PM Show
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 2 spots left\nSt
- atus: Available\nEvent URL: https://members.thequinhouse.com/events/176365
- \n\nBoston’s best return to the 'House! Improv comedians are ready to ke
- ep you laughing with spontaneous sketches\, quick wit\, and audience-inspi
- red moments. Join us for a cocktail from the cash bar beginning at 7:30pm\
- , then snag your seat and enjoy a show packed with energy from beginning t
- o end. Seating is first come\, first serve\n\nMake it a night with a pre-s
- how burger and a beer from the Pub. Dining walk-ins are welcome! \n\n*This
-  event complimentary and available for registered members and up to one re
- gistered guest.
+DESCRIPTION:Category: The Arts\nPrice: Free\nStatus: Waitlist Only\nEvent U
+ RL: https://members.thequinhouse.com/events/176365\n\nBoston’s best retu
+ rn to the 'House! Improv comedians are ready to keep you laughing with spo
+ ntaneous sketches\, quick wit\, and audience-inspired moments. Join us for
+  a cocktail from the cash bar beginning at 7:30pm\, then snag your seat an
+ d enjoy a show packed with energy from beginning to end. Seating is first 
+ come\, first serve\n\nMake it a night with a pre-show burger and a beer fr
+ om the Pub. Dining walk-ins are welcome! \n\n*This event complimentary and
+  available for registered members and up to one registered guest.
 URL:https://members.thequinhouse.com/events/176365
 CATEGORIES:The Arts
 END:VEVENT
