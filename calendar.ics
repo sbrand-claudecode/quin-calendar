@@ -62,36 +62,6 @@ URL:https://members.thequinhouse.com/events/186730
 CATEGORIES:Sports & Games
 END:VEVENT
 BEGIN:VEVENT
-UID:quin-event-186725@thequinhouse.com
-DTSTAMP:20260611T173000Z
-DTSTART;TZID=America/New_York:20260611T173000
-DTEND;TZID=America/New_York:20260611T193000
-SUMMARY:Wit & Word: A Performance in Written Humor
-LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 22 spots left\nS
- tatus: Available\nEvent URL: https://members.thequinhouse.com/events/18672
- 5\n\n5:30PM Reception\, 6:00PM Performance\nWit & Word offers an evening w
- here humor is written\, spoken\, and felt—bringing together a standout g
- roup of writers for a live\, spoken-word style performance that celebrates
-  the craft of comedy on the page. Moving beyond stand-up\, the night unfol
- ds through essays\, satire\, and personal storytelling—sharp\, candid\, 
- and unexpectedly moving.\n\nGuiding the evening is short story writer and 
- essayist\, Steve Almond\, whose distinctive voice and grounded storytellin
- g bring warmth\, wit\, and a natural sense of connection to the stage.\n\n
- The lineup features Tracy McArdle Brady\, Founder and Chief Humorist of Wi
- t & Word\; Steve Almond\, New York Times bestselling author\; Lisa Borde
- rs\, award-winning novelist and McSweeney’s contributor\; Neil Martinez-
- Belkin\, New York Times bestselling co-author and former music editor of
-  XXL Magazine\; and Viktoria Shulevich\, humor writer published in The N
- ew Yorker and McSweeney’s. Together\, they explore the absurdities and 
- revelations of modern adulting through humor that is as insightful as it i
- s entertaining.\n\n*This event is complimentary and reserved for members o
- nly. Light refreshments will be served and beverages will be available for
-  purchase.
-URL:https://members.thequinhouse.com/events/186725
-CATEGORIES:The Arts
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-189605@thequinhouse.com
 DTSTAMP:20260612T150000Z
 DTSTART;TZID=America/New_York:20260612T150000
@@ -208,7 +178,7 @@ DTSTART;TZID=America/New_York:20260617T170000
 DTEND;TZID=America/New_York:20260617T183000
 SUMMARY:'Quin Chat: Echoes of Liberty
 LOCATION:Scottie's
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 13 spots lef
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 14 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  89485\n\n5:00PM Reception\, 5:30PM Discussion \nJoin us for an exclusive 
  preview of Echoes of Liberty\, an immersive Augmented Reality experience 
@@ -734,7 +704,7 @@ DTSTART;TZID=America/New_York:20260630T170000
 DTEND;TZID=America/New_York:20260630T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 28 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 27 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  86698\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in an ambiant reserved space. This is your opportunity to connect with fe
