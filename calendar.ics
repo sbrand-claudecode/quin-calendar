@@ -62,24 +62,6 @@ URL:https://members.thequinhouse.com/events/186730
 CATEGORIES:Sports & Games
 END:VEVENT
 BEGIN:VEVENT
-UID:quin-event-189604@thequinhouse.com
-DTSTAMP:20260612T210000Z
-DTSTART;TZID=America/New_York:20260612T210000
-DTEND;TZID=America/New_York:20260612T230000
-SUMMARY:World Cup Watch Party: USA vs. Paraguay 
-LOCATION:The Pub
-DESCRIPTION:Category: Sports & Games\nPrice: Free / Included\nStatus: Avail
- able\nEvent URL: https://members.thequinhouse.com/events/189604\n\nAll eye
- s on the pitch as the United States faces off against Paraguay in a high
- -stakes World Cup group stage match. Settle in with the best seats in the 
- house—every screen aglow\, the energy palpable\, and the Pub pouring all
-  night long. A full lineup of fan favorites will be on offer\, best enjoye
- d alongside a perfectly timed pint.\n\n*Reservations not required. Please 
- note that the kitchen will close at 11:00PM.
-URL:https://members.thequinhouse.com/events/189604
-CATEGORIES:Sports & Games
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-186727@thequinhouse.com
 DTSTAMP:20260613T120000Z
 DTSTART;TZID=America/New_York:20260613T120000
@@ -110,7 +92,7 @@ DTSTART;TZID=America/New_York:20260616T170000
 DTEND;TZID=America/New_York:20260616T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 8 spots left
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 7 spots left
  \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/18
  6696\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set 
  in an ambiant reserved space. This is your opportunity to connect with fel
@@ -161,7 +143,7 @@ DTSTART;TZID=America/New_York:20260617T170000
 DTEND;TZID=America/New_York:20260617T183000
 SUMMARY:'Quin Chat: Echoes of Liberty
 LOCATION:Scottie's
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 16 spots lef
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 15 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  89485\n\n5:00PM Reception\, 5:30PM Discussion \nJoin us for an exclusive 
  preview of Echoes of Liberty\, an immersive Augmented Reality experience 
