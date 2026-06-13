@@ -62,23 +62,6 @@ URL:https://members.thequinhouse.com/events/186730
 CATEGORIES:Sports & Games
 END:VEVENT
 BEGIN:VEVENT
-UID:quin-event-189605@thequinhouse.com
-DTSTAMP:20260612T150000Z
-DTSTART;TZID=America/New_York:20260612T150000
-DTEND;TZID=America/New_York:20260612T170000
-SUMMARY:World Cup Watch Party: Canada vs. Bosnia-Herzegovina 
-LOCATION:The Pub
-DESCRIPTION:Category: Sports & Games\nPrice: Free / Included\nStatus: Avail
- able\nEvent URL: https://members.thequinhouse.com/events/189605\n\nAll eye
- s on the pitch as Canada faces off against Bosnia-Herzegovina  in a high-
- stakes World Cup group stage match. Settle in with the best seats in the h
- ouse—every screen aglow\, the energy palpable\, and the Pub pouring all 
- night long. A full lineup of fan favorites will be on offer\, best enjoyed
-  alongside a perfectly timed pint.\n\n*Reservations not required.
-URL:https://members.thequinhouse.com/events/189605
-CATEGORIES:Sports & Games
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-189604@thequinhouse.com
 DTSTAMP:20260612T210000Z
 DTSTART;TZID=America/New_York:20260612T210000
@@ -127,17 +110,17 @@ DTSTART;TZID=America/New_York:20260616T170000
 DTEND;TZID=America/New_York:20260616T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 10 spots lef
- t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
- 86696\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
-  in an ambiant reserved space. This is your opportunity to connect with fe
- llow members\, exchange ideas\, and cultivate meaningful relationships.\n\
- nWhether you're sparking new collaborations\, sharing insights\, or simply
-  enjoying great conversation\, the Member Mingle is the perfect way to eng
- age with our dynamic community. Don’t miss the chance to connect\, inspi
- re\, and be inspired!\n\n*This event is complimentary and reserved for mem
- bers only. Complimentary light bites will be served\, and beverages will b
- e available for purchase.
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 8 spots left
+ \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/18
+ 6696\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set 
+ in an ambiant reserved space. This is your opportunity to connect with fel
+ low members\, exchange ideas\, and cultivate meaningful relationships.\n\n
+ Whether you're sparking new collaborations\, sharing insights\, or simply 
+ enjoying great conversation\, the Member Mingle is the perfect way to enga
+ ge with our dynamic community. Don’t miss the chance to connect\, inspir
+ e\, and be inspired!\n\n*This event is complimentary and reserved for memb
+ ers only. Complimentary light bites will be served\, and beverages will be
+  available for purchase.
 URL:https://members.thequinhouse.com/events/186696
 CATEGORIES:Member Mixer
 END:VEVENT
@@ -178,7 +161,7 @@ DTSTART;TZID=America/New_York:20260617T170000
 DTEND;TZID=America/New_York:20260617T183000
 SUMMARY:'Quin Chat: Echoes of Liberty
 LOCATION:Scottie's
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 15 spots lef
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 16 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  89485\n\n5:00PM Reception\, 5:30PM Discussion \nJoin us for an exclusive 
  preview of Echoes of Liberty\, an immersive Augmented Reality experience 
@@ -295,7 +278,7 @@ DTEND;TZID=America/New_York:20260622T191500
 SUMMARY:Member Mixer: The 'Quin Crawl
 LOCATION:Begin in Scottie's
 DESCRIPTION:Category: Member Mixer\nPrice: $72.00 per person\nAvailability:
-  74 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
+  49 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
  .com/events/190021\n\nEmbark on a spirited journey through The 'Quin as we
   visit five distinct bars during a progressive beverage experience designe
  d for discovery\, conversation\, and connection.\n\nThe evening begins at 
@@ -354,18 +337,18 @@ DTSTART;TZID=America/New_York:20260622T180000
 DTEND;TZID=America/New_York:20260622T210000
 SUMMARY:Community Dinner Table
 LOCATION:Café Q
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 2 spots left
- \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/17
- 6009\n\nStart your week in good company with the Café Q Community dinner 
- table for members-only. Set aside for those looking to expand their social
-  circle over a shared meal\, this gathering is all about good food\, livel
- y conversation\, and meaningful connections. Pull up a chair\, and savor t
- he experience—because nothing brings people together quite like a great 
- meal.\n\n*This event is reserved for members only. An advance charge of $2
- 4 per member contributes to communal appetizers available upon seating. Me
- mbers are responsible for à la carte entrées\, desserts\, and beverages\
- , plus taxes and fees. Cancellations made within 24 hours of the event\, o
- r failure to attend will be subject to the Café Q's surcharge policy.
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 1 spot left\
+ nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/176
+ 009\n\nStart your week in good company with the Café Q Community dinner t
+ able for members-only. Set aside for those looking to expand their social 
+ circle over a shared meal\, this gathering is all about good food\, lively
+  conversation\, and meaningful connections. Pull up a chair\, and savor th
+ e experience—because nothing brings people together quite like a great m
+ eal.\n\n*This event is reserved for members only. An advance charge of $24
+  per member contributes to communal appetizers available upon seating. Mem
+ bers are responsible for à la carte entrées\, desserts\, and beverages\,
+  plus taxes and fees. Cancellations made within 24 hours of the event\, or
+  failure to attend will be subject to the Café Q's surcharge policy.
 URL:https://members.thequinhouse.com/events/176009
 CATEGORIES:Member Mixer
 END:VEVENT
@@ -611,7 +594,7 @@ DTSTART;TZID=America/New_York:20260625T120000
 DTEND;TZID=America/New_York:20260625T140000
 SUMMARY: Serendipity Lunch - Convening Curators
 LOCATION:Lunasol
-DESCRIPTION:Category: The Arts\nPrice: $68.00 per person\nAvailability: 8 s
+DESCRIPTION:Category: The Arts\nPrice: $68.00 per person\nAvailability: 7 s
  pots left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/
  events/188040\n\nContinuing the "Curated Connections" extension of the Ser
  endipity series\, meet us for lunch convening members who identify as Cre
@@ -970,7 +953,7 @@ DTSTART;TZID=America/New_York:20260706T170000
 DTEND;TZID=America/New_York:20260706T190000
 SUMMARY:Member Mingle
 LOCATION:The Sky Deck
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 39 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 32 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  86839\n\nJoin us for our weekly Member Mingle as we take the gathering out
  doors for the summer season on The Sky Deck. Set against sweeping city vie
@@ -1056,7 +1039,7 @@ DTSTART;TZID=America/New_York:20260713T170000
 DTEND;TZID=America/New_York:20260713T190000
 SUMMARY:Member Mingle
 LOCATION:The Sky Deck
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 39 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 28 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  90016\n\nJoin us for our weekly Member Mingle as we take the gathering out
  doors for the summer season on The Sky Deck. Set against sweeping city vie
