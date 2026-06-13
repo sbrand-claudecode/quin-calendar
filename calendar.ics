@@ -92,7 +92,7 @@ DTSTART;TZID=America/New_York:20260616T170000
 DTEND;TZID=America/New_York:20260616T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 7 spots left
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 5 spots left
  \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/18
  6696\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set 
  in an ambiant reserved space. This is your opportunity to connect with fel
@@ -179,21 +179,21 @@ DTSTART;TZID=America/New_York:20260617T190000
 DTEND;TZID=America/New_York:20260617T200000
 SUMMARY:From Interest to Impact: Board and Volunteer Fair
 LOCATION:The Muse
-DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nStatus: Waitlist On
- ly\nEvent URL: https://members.thequinhouse.com/events/188596\n\nTurn insp
- iration into action at the The 'Quin Impact Fund's Board and Volunteer Fai
- r\, an interactive networking experience connecting attendees directly wit
- h nonprofit organizations shaping the future of our communities.\n\nFeatur
- ing ten mission-driven organizations actively seeking board and committee 
- members\, the fair offers a unique opportunity to engage with nonprofit le
- aders\, explore causes aligned with your passions\, and discover meaningfu
- l pathways to impact. Designed as a dynamic drop-in experience\, guests ar
- e invited to move freely throughout the space\, fostering organic conversa
- tions and new connections. Nonprofits that will be in attendance include\n
- \nBoston Music Project\nBoston Public Art Triennial\nCircle of Hope\nDress
-  for Success Boston\nEllis Early Learning\nFamilyAid\nInnerCity Weightlift
- ing\nInstitute for Nonprofit Practice\nProject 351\nThe Children’s Room\
- n\n*This event is complimentary and reserved for members only.
+DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free / Included\nStatus: 
+ unlimited\nEvent URL: https://members.thequinhouse.com/events/188596\n\nTu
+ rn inspiration into action at the The 'Quin Impact Fund's Board and Volunt
+ eer Fair\, an interactive networking experience connecting attendees direc
+ tly with nonprofit organizations shaping the future of our communities.\n\
+ nFeaturing ten mission-driven organizations actively seeking board and com
+ mittee members\, the fair offers a unique opportunity to engage with nonpr
+ ofit leaders\, explore causes aligned with your passions\, and discover me
+ aningful pathways to impact. Designed as a dynamic drop-in experience\, gu
+ ests are invited to move freely throughout the space\, fostering organic c
+ onversations and new connections. Nonprofits that will be in attendance in
+ clude\n\nBoston Music Project\nBoston Public Art Triennial\nCircle of Hope
+ \nDress for Success Boston\nEllis Early Learning\nFamilyAid\nInnerCity Wei
+ ghtlifting\nInstitute for Nonprofit Practice\nProject 351\nThe Children’
+ s Room\n\n*This event is complimentary and reserved for members only.
 URL:https://members.thequinhouse.com/events/188596
 CATEGORIES:‘Quin Impact Fund
 END:VEVENT
@@ -935,7 +935,7 @@ DTSTART;TZID=America/New_York:20260706T170000
 DTEND;TZID=America/New_York:20260706T190000
 SUMMARY:Member Mingle
 LOCATION:The Sky Deck
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 32 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 31 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  86839\n\nJoin us for our weekly Member Mingle as we take the gathering out
  doors for the summer season on The Sky Deck. Set against sweeping city vie
