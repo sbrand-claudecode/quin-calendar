@@ -62,30 +62,6 @@ URL:https://members.thequinhouse.com/events/186730
 CATEGORIES:Sports & Games
 END:VEVENT
 BEGIN:VEVENT
-UID:quin-event-186727@thequinhouse.com
-DTSTAMP:20260613T120000Z
-DTSTART;TZID=America/New_York:20260613T120000
-DTEND;TZID=America/New_York:20260613T140000
-SUMMARY: Serendipity Brunch: Celebrating Pride
-LOCATION:Lunasol
-DESCRIPTION:Category: Member Mixer\nPrice: $65.00 per person\nAvailability:
-  1 spot left\nStatus: Available\nEvent URL: https://members.thequinhouse.c
- om/events/186727\n\nCelebrate Pride at a special edition of Serendipity Br
- unch\, where community\, conversation\, and connection take center stage. 
- Set in Lunasol\, the afternoon unfolds with vibrant energy\, bringing toge
- ther members around a thoughtfully curated menu and a shared thread of com
- monality that sparks meaningful conversation.\n\nConversation prompts invi
- te moments of reflection\, storytelling\, and shared perspective - honorin
- g the voices and experiences that make our community so dynamic. Brunch wi
- ll be served family-style\, featuring pastries\, fruit\, and parfaits to b
- egin\, followed by a choice of entrée and generous sides. Mimosas and Blo
- ody Marys will be available throughout.\n\n*Tickets are $65 per person\, p
- lus tax\, and are reserved for members only. Cancellations within 48 hours
-  of the event\, or failure to attend\, will be charged in full.
-URL:https://members.thequinhouse.com/events/186727
-CATEGORIES:Member Mixer
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-186696@thequinhouse.com
 DTSTAMP:20260616T170000Z
 DTSTART;TZID=America/New_York:20260616T170000
@@ -260,7 +236,7 @@ DTEND;TZID=America/New_York:20260622T191500
 SUMMARY:Member Mixer: The 'Quin Crawl
 LOCATION:Begin in Scottie's
 DESCRIPTION:Category: Member Mixer\nPrice: $72.00 per person\nAvailability:
-  49 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
+  47 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
  .com/events/190021\n\nEmbark on a spirited journey through The 'Quin as we
   visit five distinct bars during a progressive beverage experience designe
  d for discovery\, conversation\, and connection.\n\nThe evening begins at 
