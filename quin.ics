@@ -24,32 +24,66 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:quin-event-191157@thequinhouse.com
+DTSTAMP:20260622T173000Z
+DTSTART;TZID=America/New_York:20260622T173000
+DTEND;TZID=America/New_York:20260622T190000
+SUMMARY:TEDxBoston: Visions of the Next 250 - A First Look
+LOCATION:The Reading Room
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 14 spots lef
+ t\nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/
+ events/191157\n\n5:30PM Reception\, 6:00PM Discussion \nFor 250 years\, M
+ assachusetts has been a place where bold ideas take root. On June 22nd\, t
+ he evening before the Visions of the Next 250 gathering at GBH\, we invite
+  members to a private preview in The Reading Room to explore a more challe
+ nging question: what will the next 250 years look like\, and who is shapin
+ g them?\n\nJohn Werner\, venture capitalist\, MIT lecturer\, and Forbes AI
+  columnist\, will interview four people working at the frontier of science
+ \, medicine\, education\, ethics\, and intelligence in the kind of off-the
+ -record conversation that needs fewer chairs to go deeper.\n\nTogether\, t
+ hey will explore some of the defining questions of our time: where machine
+  intelligence is headed and what it asks of us\; how wearable technology a
+ nd data are transforming our understanding of health\, resilience\, and hu
+ man performance\; how society can thoughtfully navigate the ethical challe
+ nges that accompany powerful new technologies\; and how education and life
+ long learning must evolve to prepare future generations for a world increa
+ singly shaped by innovation and artificial intelligence.\n\nSpeakers inclu
+ de:\n\nAlham Saadat - Executive Director\, The Innovation Trail of Greater
+  Boston\nAlex Wissner-Gross - Investor & Entrepreneur\nEmily Capodilupo - 
+ Senior Vice President of Research\, Algorithms\, and Data\, WHOOP\nJoseph 
+ Aoun - President\, Northeastern University\n\n*This event is complimentary
+  and reserved for members\, plus one guest. Light bites and refreshments w
+ ill be served.
+URL:https://members.thequinhouse.com/events/191157
+CATEGORIES:‘Quin Chat
+END:VEVENT
+BEGIN:VEVENT
 UID:quin-event-190012@thequinhouse.com
 DTSTAMP:20260623T150000Z
 DTSTART;VALUE=DATE:20260623
 DTEND;VALUE=DATE:20260624
 SUMMARY:TEDxBoston: Visions of the Next 250
 LOCATION:Offsite: GBH Studios
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nStatus: You are on Waitlis
- t\nTime: 3 PM – 7 PM\nEvent URL: https://members.thequinhouse.com/events
- /190012\n\nFor 250 years\, Massachusetts has produced the ideas that shape
- d a nation: public education\, the telephone\, the first American node of 
- the World Wide Web. The next 250 begin now.\n\nAs part of the statewide Ou
- r America 250 initiative\, join us at GBH for a one-day gathering on what 
- comes next. Thirty speakers take the stage in interviews and talks\, mappi
- ng the forces that will define America's next chapter: artificial intellig
- ence\, the future of work\, energy and climate technology\, and the reinve
- ntion of education.\n\nA preview of featured speakers:\n\nAndrew Lau - CEO
-  of Jellyfish\nJoseph Aoun - President of Northeastern University and auth
- or of Robot-Proof\nLibby Wayman - Partner at Breakthrough Energy Ventures\
- nNeil Thompson - Director of MIT FutureTech and Principal Investigator at 
- MIT's Initiative on the Digital Economy\n\nCurated and moderated by John W
- erner\, venture capitalist\, MIT lecturer\, and Forbes AI columnist. Every
-  talk is recorded as a living time capsule\, a message to the generations 
- who will open it on the road to America's 500th.\n\nPlease look forward to
-  additional details regarding related Programming hosted at The 'Quin on J
- une 22nd. More information to follow.\n\n*This event is complimentary and 
- reserved for members\, plus one guest.
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free / Included\nStatus: You are
+  on Waitlist\nTime: 3 PM – 7 PM\nEvent URL: https://members.thequinhouse
+ .com/events/190012\n\nFor 250 years\, Massachusetts has produced the ideas
+  that shaped a nation: public education\, the telephone\, the first Americ
+ an node of the World Wide Web. The next 250 begin now.\n\nAs part of the s
+ tatewide Our America 250 initiative\, join us at GBH for a one-day gatheri
+ ng on what comes next. Thirty speakers take the stage in interviews and ta
+ lks\, mapping the forces that will define America's next chapter: artifici
+ al intelligence\, the future of work\, energy and climate technology\, and
+  the reinvention of education.\n\nA preview of featured speakers:\n\nAndre
+ w Lau - CEO of Jellyfish\nJoseph Aoun - President of Northeastern Universi
+ ty and author of Robot-Proof\nLibby Wayman - Partner at Breakthrough Energ
+ y Ventures\nNeil Thompson - Director of MIT FutureTech and Principal Inves
+ tigator at MIT's Initiative on the Digital Economy\n\nCurated and moderate
+ d by John Werner\, venture capitalist\, MIT lecturer\, and Forbes AI colum
+ nist. Every talk is recorded as a living time capsule\, a message to the g
+ enerations who will open it on the road to America's 500th.\n\nPlease look
+  forward to additional details regarding related Programming hosted at The
+  'Quin on June 22nd. More information to follow.\n\n*This event is complim
+ entary and reserved for members\, plus one guest.
 URL:https://members.thequinhouse.com/events/190012
 CATEGORIES:‘Quin Chat
 END:VEVENT

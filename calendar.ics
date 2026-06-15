@@ -68,7 +68,7 @@ DTSTART;TZID=America/New_York:20260616T170000
 DTEND;TZID=America/New_York:20260616T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 5 spots left
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 3 spots left
  \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/18
  6696\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set 
  in an ambiant reserved space. This is your opportunity to connect with fel
@@ -119,7 +119,7 @@ DTSTART;TZID=America/New_York:20260617T170000
 DTEND;TZID=America/New_York:20260617T183000
 SUMMARY:'Quin Chat: Echoes of Liberty
 LOCATION:Scottie's
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 14 spots lef
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 13 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  89485\n\n5:00PM Reception\, 5:30PM Discussion \nJoin us for an exclusive 
  preview of Echoes of Liberty\, an immersive Augmented Reality experience 
@@ -236,7 +236,7 @@ DTEND;TZID=America/New_York:20260622T191500
 SUMMARY:Member Mixer: The 'Quin Crawl
 LOCATION:Begin in Scottie's
 DESCRIPTION:Category: Member Mixer\nPrice: $72.00 per person\nAvailability:
-  43 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
+  40 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
  .com/events/190021\n\nEmbark on a spirited journey through The 'Quin as we
   visit five distinct bars during a progressive beverage experience designe
  d for discovery\, conversation\, and connection.\n\nThe evening begins at 
@@ -261,30 +261,30 @@ DTSTART;TZID=America/New_York:20260622T173000
 DTEND;TZID=America/New_York:20260622T190000
 SUMMARY:TEDxBoston: Visions of the Next 250 - A First Look
 LOCATION:The Reading Room
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 120 spots le
- ft\nStatus: futureSale\nEvent URL: https://members.thequinhouse.com/events
- /191157\n\n5:30PM Reception\, 6:00PM Discussion \nFor 250 years\, Massach
- usetts has been a place where bold ideas take root. On June 22nd\, the eve
- ning before the Visions of the Next 250 gathering at GBH\, we invite membe
- rs to a private preview in The Reading Room to explore a more challenging 
- question: what will the next 250 years look like\, and who is shaping them
- ?\n\nJohn Werner\, venture capitalist\, MIT lecturer\, and Forbes AI colum
- nist\, will interview four people working at the frontier of science\, med
- icine\, education\, ethics\, and intelligence in the kind of off-the-recor
- d conversation that needs fewer chairs to go deeper.\n\nTogether\, they wi
- ll explore some of the defining questions of our time: where machine intel
- ligence is headed and what it asks of us\; how wearable technology and dat
- a are transforming our understanding of health\, resilience\, and human pe
- rformance\; how society can thoughtfully navigate the ethical challenges t
- hat accompany powerful new technologies\; and how education and lifelong l
- earning must evolve to prepare future generations for a world increasingly
-  shaped by innovation and artificial intelligence.\n\nSpeakers include:\n\
- nAlham Saadat - Executive Director\, The Innovation Trail of Greater Bosto
- n\nAlex Wissner-Gross - Investor & Entrepreneur\nEmily Capodilupo - Senior
-  Vice President of Research\, Algorithms\, and Data\, WHOOP\nJoseph Aoun -
-  President\, Northeastern University\n\n*This event is complimentary and r
- eserved for members\, plus one guest. Light bites and refreshments will be
-  served.
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 14 spots lef
+ t\nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/
+ events/191157\n\n5:30PM Reception\, 6:00PM Discussion \nFor 250 years\, M
+ assachusetts has been a place where bold ideas take root. On June 22nd\, t
+ he evening before the Visions of the Next 250 gathering at GBH\, we invite
+  members to a private preview in The Reading Room to explore a more challe
+ nging question: what will the next 250 years look like\, and who is shapin
+ g them?\n\nJohn Werner\, venture capitalist\, MIT lecturer\, and Forbes AI
+  columnist\, will interview four people working at the frontier of science
+ \, medicine\, education\, ethics\, and intelligence in the kind of off-the
+ -record conversation that needs fewer chairs to go deeper.\n\nTogether\, t
+ hey will explore some of the defining questions of our time: where machine
+  intelligence is headed and what it asks of us\; how wearable technology a
+ nd data are transforming our understanding of health\, resilience\, and hu
+ man performance\; how society can thoughtfully navigate the ethical challe
+ nges that accompany powerful new technologies\; and how education and life
+ long learning must evolve to prepare future generations for a world increa
+ singly shaped by innovation and artificial intelligence.\n\nSpeakers inclu
+ de:\n\nAlham Saadat - Executive Director\, The Innovation Trail of Greater
+  Boston\nAlex Wissner-Gross - Investor & Entrepreneur\nEmily Capodilupo - 
+ Senior Vice President of Research\, Algorithms\, and Data\, WHOOP\nJoseph 
+ Aoun - President\, Northeastern University\n\n*This event is complimentary
+  and reserved for members\, plus one guest. Light bites and refreshments w
+ ill be served.
 URL:https://members.thequinhouse.com/events/191157
 CATEGORIES:‘Quin Chat
 END:VEVENT
@@ -340,26 +340,26 @@ DTSTART;VALUE=DATE:20260623
 DTEND;VALUE=DATE:20260624
 SUMMARY:TEDxBoston: Visions of the Next 250
 LOCATION:Offsite: GBH Studios
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nStatus: You are on Waitlis
- t\nTime: 3 PM – 7 PM\nEvent URL: https://members.thequinhouse.com/events
- /190012\n\nFor 250 years\, Massachusetts has produced the ideas that shape
- d a nation: public education\, the telephone\, the first American node of 
- the World Wide Web. The next 250 begin now.\n\nAs part of the statewide Ou
- r America 250 initiative\, join us at GBH for a one-day gathering on what 
- comes next. Thirty speakers take the stage in interviews and talks\, mappi
- ng the forces that will define America's next chapter: artificial intellig
- ence\, the future of work\, energy and climate technology\, and the reinve
- ntion of education.\n\nA preview of featured speakers:\n\nAndrew Lau - CEO
-  of Jellyfish\nJoseph Aoun - President of Northeastern University and auth
- or of Robot-Proof\nLibby Wayman - Partner at Breakthrough Energy Ventures\
- nNeil Thompson - Director of MIT FutureTech and Principal Investigator at 
- MIT's Initiative on the Digital Economy\n\nCurated and moderated by John W
- erner\, venture capitalist\, MIT lecturer\, and Forbes AI columnist. Every
-  talk is recorded as a living time capsule\, a message to the generations 
- who will open it on the road to America's 500th.\n\nPlease look forward to
-  additional details regarding related Programming hosted at The 'Quin on J
- une 22nd. More information to follow.\n\n*This event is complimentary and 
- reserved for members\, plus one guest.
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free / Included\nStatus: You are
+  on Waitlist\nTime: 3 PM – 7 PM\nEvent URL: https://members.thequinhouse
+ .com/events/190012\n\nFor 250 years\, Massachusetts has produced the ideas
+  that shaped a nation: public education\, the telephone\, the first Americ
+ an node of the World Wide Web. The next 250 begin now.\n\nAs part of the s
+ tatewide Our America 250 initiative\, join us at GBH for a one-day gatheri
+ ng on what comes next. Thirty speakers take the stage in interviews and ta
+ lks\, mapping the forces that will define America's next chapter: artifici
+ al intelligence\, the future of work\, energy and climate technology\, and
+  the reinvention of education.\n\nA preview of featured speakers:\n\nAndre
+ w Lau - CEO of Jellyfish\nJoseph Aoun - President of Northeastern Universi
+ ty and author of Robot-Proof\nLibby Wayman - Partner at Breakthrough Energ
+ y Ventures\nNeil Thompson - Director of MIT FutureTech and Principal Inves
+ tigator at MIT's Initiative on the Digital Economy\n\nCurated and moderate
+ d by John Werner\, venture capitalist\, MIT lecturer\, and Forbes AI colum
+ nist. Every talk is recorded as a living time capsule\, a message to the g
+ enerations who will open it on the road to America's 500th.\n\nPlease look
+  forward to additional details regarding related Programming hosted at The
+  'Quin on June 22nd. More information to follow.\n\n*This event is complim
+ entary and reserved for members\, plus one guest.
 URL:https://members.thequinhouse.com/events/190012
 CATEGORIES:‘Quin Chat
 END:VEVENT
@@ -552,7 +552,7 @@ DTSTART;TZID=America/New_York:20260625T120000
 DTEND;TZID=America/New_York:20260625T140000
 SUMMARY: Serendipity Lunch - Convening Curators
 LOCATION:Lunasol
-DESCRIPTION:Category: The Arts\nPrice: $68.00 per person\nAvailability: 4 s
+DESCRIPTION:Category: The Arts\nPrice: $68.00 per person\nAvailability: 3 s
  pots left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/
  events/188040\n\nContinuing the "Curated Connections" extension of the Ser
  endipity series\, meet us for lunch convening members who identify as Cre
@@ -768,32 +768,32 @@ DTSTART;TZID=America/New_York:20260630T170000
 DTEND;TZID=America/New_York:20260630T183000
 SUMMARY:Rethinking Women's Health: Mental Health & Modern Life
 LOCATION:Scottie's
-DESCRIPTION:Category: Health & Wellness\nPrice: Free\nAvailability: 80 spot
- s left\nStatus: futureSale\nEvent URL: https://members.thequinhouse.com/ev
- ents/191160\n\n5:00PM Reception\, 5:30PM Discussion \nMental health is fi
- nally getting the attention it deserves—but the conversation is only beg
- inning.\n\nJoin us for the fourth installment of Rethinking Women's Health
- \, our ongoing series exploring the evolving landscape of women's well-bei
- ng through the lens of today's leading physicians\, researchers\, and advo
- cates. This session turns its focus to mental health\, examining the inter
- section of mind\, body\, identity\, and culture while challenging outdated
-  approaches to care.\n\nEach speaker will bring one topic to the conversat
- ion\, offering a distinct perspective on women's mental health today. Topi
- cs will include trauma-informed care and ketamine-assisted psychotherapy\,
-  the realities of navigating modern womanhood in a rapidly changing cultur
- al landscape\, and the structural and psychological factors that make ment
- al wellness both deeply personal and profoundly complex.\n\nLeading the di
- scussion are Dr. Cecil R. Webster Jr.\, Harvard-trained psychiatrist\, psy
- choanalyst\, and founder of Webster Clinic\; Dr. Marni Chanoff\, Harvard-t
- rained psychiatrist\, educator\, and founder of Joy In Health\; and Dr. J
- ackie Buchanan\, Harvard-trained child\, adolescent\, and adult psychiatr
- ist.\n\nDesigned to offer practical tools\, fresh perspectives\, and meani
- ngful insights\, the evening will conclude with 30 minutes of audience dis
- cussion and Q&A. We encourage attendees to bring their own questions and c
- uriosities as we create a thoughtful space for open and engaging conversat
- ion.\n\n*This event is complimentary and reserved for members only. Compli
- mentary light bites will be served\, and beverages will be available for p
- urchase.
+DESCRIPTION:Category: Health & Wellness\nPrice: Free\nAvailability: 31 spot
+ s left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/eve
+ nts/191160\n\n5:00PM Reception\, 5:30PM Discussion \nMental health is fin
+ ally getting the attention it deserves—but the conversation is only begi
+ nning.\n\nJoin us for the fourth installment of Rethinking Women's Health\
+ , our ongoing series exploring the evolving landscape of women's well-bein
+ g through the lens of today's leading physicians\, researchers\, and advoc
+ ates. This session turns its focus to mental health\, examining the inters
+ ection of mind\, body\, identity\, and culture while challenging outdated 
+ approaches to care.\n\nEach speaker will bring one topic to the conversati
+ on\, offering a distinct perspective on women's mental health today. Topic
+ s will include trauma-informed care and ketamine-assisted psychotherapy\, 
+ the realities of navigating modern womanhood in a rapidly changing cultura
+ l landscape\, and the structural and psychological factors that make menta
+ l wellness both deeply personal and profoundly complex.\n\nLeading the dis
+ cussion are Dr. Cecil R. Webster Jr.\, Harvard-trained psychiatrist\, psyc
+ hoanalyst\, and founder of Webster Clinic\; Dr. Marni Chanoff\, Harvard-tr
+ ained psychiatrist\, educator\, and founder of Joy In Health\; and Dr. Ja
+ ckie Buchanan\, Harvard-trained child\, adolescent\, and adult psychiatri
+ st.\n\nDesigned to offer practical tools\, fresh perspectives\, and meanin
+ gful insights\, the evening will conclude with 30 minutes of audience disc
+ ussion and Q&A. We encourage attendees to bring their own questions and cu
+ riosities as we create a thoughtful space for open and engaging conversati
+ on.\n\n*This event is complimentary and reserved for members only. Complim
+ entary light bites will be served\, and beverages will be available for pu
+ rchase.
 URL:https://members.thequinhouse.com/events/191160
 CATEGORIES:Health & Wellness
 END:VEVENT
@@ -911,7 +911,7 @@ DTSTART;TZID=America/New_York:20260706T170000
 DTEND;TZID=America/New_York:20260706T190000
 SUMMARY:Member Mingle
 LOCATION:The Sky Deck
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 24 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 15 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  86839\n\nJoin us for our weekly Member Mingle as we take the gathering out
  doors for the summer season on The Sky Deck. Set against sweeping city vie
@@ -997,7 +997,7 @@ DTSTART;TZID=America/New_York:20260713T170000
 DTEND;TZID=America/New_York:20260713T190000
 SUMMARY:Member Mingle
 LOCATION:The Sky Deck
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 22 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 17 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  90016\n\nJoin us for our weekly Member Mingle as we take the gathering out
  doors for the summer season on The Sky Deck. Set against sweeping city vie
@@ -1038,18 +1038,18 @@ DTSTART;TZID=America/New_York:20260802T190000
 DTEND;TZID=America/New_York:20260802T213000
 SUMMARY:Summer Concert Series: Zac Brown Band 
 LOCATION:Fenway Park
-DESCRIPTION:Category: The Arts\nPrice: $607.48 per person\nAvailability: 12
-  spots left\nStatus: Available\nEvent URL: https://members.thequinhouse.co
- m/events/180152\n\nThe ‘Quin’s Summer Concert Series continues with Za
- c Brown Band’s Love & Fear Tour\, joined by special guests Old Crow Medi
- cine Show.\n\nIn partnership with the Foundation To Be Named Later\, membe
- rs will experience a private party from Fenway’s Pavilion Decks A & B\, 
- complete with complimentary food\, beer\, wine\, and hard seltzers\, all s
- et against panoramic views of the show.\n\n*Tickets are $650 each and refl
- ect a charitable donation to The Foundation To Be Named Later. Tickets are
-  non-refundable and non-transferable. Members may purchase up to two ticke
- ts and are required to accompany their guests ages 16+. Pavilion Decks A &
-  B are open space with no assigned seating. All shows are rain or shine.
+DESCRIPTION:Category: The Arts\nPrice: $607.48 per person\nStatus: soldOut\
+ nEvent URL: https://members.thequinhouse.com/events/180152\n\nThe ‘Quin�
+ ��s Summer Concert Series continues with Zac Brown Band’s Love & Fear To
+ ur\, joined by special guests Old Crow Medicine Show.\n\nIn partnership wi
+ th the Foundation To Be Named Later\, members will experience a private pa
+ rty from Fenway’s Pavilion Decks A & B\, complete with complimentary foo
+ d\, beer\, wine\, and hard seltzers\, all set against panoramic views of t
+ he show.\n\n*Tickets are $650 each and reflect a charitable donation to Th
+ e Foundation To Be Named Later. Tickets are non-refundable and non-transfe
+ rable. Members may purchase up to two tickets and are required to accompan
+ y their guests ages 16+. Pavilion Decks A & B are open space with no assig
+ ned seating. All shows are rain or shine.
 URL:https://members.thequinhouse.com/events/180152
 CATEGORIES:The Arts
 END:VEVENT
