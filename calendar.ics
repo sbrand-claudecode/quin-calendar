@@ -44,45 +44,6 @@ URL:https://members.thequinhouse.com/events/184860
 CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
-UID:quin-event-186730@thequinhouse.com
-DTSTAMP:20260611T150000Z
-DTSTART;VALUE=DATE:20260611
-DTEND;VALUE=DATE:20260617
-SUMMARY:World Cup Watch Party: Mexico vs. South Africa 
-LOCATION:The Pub
-DESCRIPTION:Category: Sports & Games\nPrice: Free / Included\nStatus: Avail
- able\nTime: 3 PM – 5 PM\nEvent URL: https://members.thequinhouse.com/eve
- nts/186730\n\nAll eyes on the pitch as Mexico faces off against South Afr
- ica in a high-stakes World Cup group stage match. Settle in with the best
-  seats in the house—every screen aglow\, the energy palpable\, and The P
- ub pouring all night long. A full lineup of fan favorites will be on offer
- \, best enjoyed alongside a perfectly timed pint.\n\n*Reservations not req
- uired.
-URL:https://members.thequinhouse.com/events/186730
-CATEGORIES:Sports & Games
-END:VEVENT
-BEGIN:VEVENT
-UID:quin-event-186696@thequinhouse.com
-DTSTAMP:20260616T170000Z
-DTSTART;TZID=America/New_York:20260616T170000
-DTEND;TZID=America/New_York:20260616T190000
-SUMMARY:Member Mingle
-LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 8 spots left
- \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/18
- 6696\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set 
- in an ambiant reserved space. This is your opportunity to connect with fel
- low members\, exchange ideas\, and cultivate meaningful relationships.\n\n
- Whether you're sparking new collaborations\, sharing insights\, or simply 
- enjoying great conversation\, the Member Mingle is the perfect way to enga
- ge with our dynamic community. Don’t miss the chance to connect\, inspir
- e\, and be inspired!\n\n*This event is complimentary and reserved for memb
- ers only. Complimentary light bites will be served\, and beverages will be
-  available for purchase.
-URL:https://members.thequinhouse.com/events/186696
-CATEGORIES:Member Mixer
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-188594@thequinhouse.com
 DTSTAMP:20260617T170000Z
 DTSTART;TZID=America/New_York:20260617T170000
@@ -119,7 +80,7 @@ DTSTART;TZID=America/New_York:20260617T170000
 DTEND;TZID=America/New_York:20260617T183000
 SUMMARY:'Quin Chat: Echoes of Liberty
 LOCATION:Scottie's
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 16 spots lef
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 17 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  89485\n\n5:00PM Reception\, 5:30PM Discussion \nJoin us for an exclusive 
  preview of Echoes of Liberty\, an immersive Augmented Reality experience 
@@ -238,7 +199,7 @@ DTEND;TZID=America/New_York:20260622T191500
 SUMMARY:Member Mixer: The 'Quin Crawl
 LOCATION:Begin in Scottie's
 DESCRIPTION:Category: Member Mixer\nPrice: $72.00 per person\nAvailability:
-  38 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
+  39 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
  .com/events/190021\n\nEmbark on a spirited journey through The 'Quin as we
   visit five distinct bars during a progressive beverage experience designe
  d for discovery\, conversation\, and connection.\n\nThe evening begins at 
@@ -412,7 +373,7 @@ DTSTART;TZID=America/New_York:20260623T170000
 DTEND;TZID=America/New_York:20260623T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 30 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 29 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  86697\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in an ambiant reserved space. This is your opportunity to connect with fe
@@ -535,14 +496,15 @@ DTSTART;TZID=America/New_York:20260625T110000
 DTEND;TZID=America/New_York:20260625T120000
 SUMMARY:Art Tour: Celebrating LGBTQIA+ Artists
 LOCATION:Meet in The Lobby
-DESCRIPTION:Category: The Arts\nPrice: Free\nStatus: Waitlist Only\nEvent U
- RL: https://members.thequinhouse.com/events/176380\n\nIn celebration of Ju
- ne: Pride Month\, join The 'Quin's Art Curator Kate Chertavian for a guide
- d exploration of works by LGBTQIA+ artists featured in The ‘Quin’s per
- manent art collection. This in-depth tour will spark conversation around w
- hat “the queering of art” means and feature powerful works by Andy War
- hol\, Jasper Johns\, Zanele Muholi\, Louise Bourgeois\, and more.\n\n*This
-  event is complimentary and reserved for members only.
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 1 spot left\nSta
+ tus: Available\nEvent URL: https://members.thequinhouse.com/events/176380\
+ n\nIn celebration of June: Pride Month\, join The 'Quin's Art Curator Kate
+  Chertavian for a guided exploration of works by LGBTQIA+ artists featured
+  in The ‘Quin’s permanent art collection. This in-depth tour will spar
+ k conversation around what “the queering of art” means and feature pow
+ erful works by Andy Warhol\, Jasper Johns\, Zanele Muholi\, Louise Bourgeo
+ is\, and more.\n\n*This event is complimentary and reserved for members on
+ ly.
 URL:https://members.thequinhouse.com/events/176380
 CATEGORIES:The Arts
 END:VEVENT
@@ -769,7 +731,7 @@ DTSTART;TZID=America/New_York:20260630T170000
 DTEND;TZID=America/New_York:20260630T183000
 SUMMARY:Rethinking Women's Health: Mental Health & Modern Life
 LOCATION:Scottie's
-DESCRIPTION:Category: Health & Wellness\nPrice: Free\nAvailability: 8 spots
+DESCRIPTION:Category: Health & Wellness\nPrice: Free\nAvailability: 3 spots
   left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/even
  ts/191160\n\n5:00PM Reception\, 5:30PM Discussion \nMental health is fina
  lly getting the attention it deserves—but the conversation is only begin
@@ -912,7 +874,7 @@ DTSTART;TZID=America/New_York:20260706T170000
 DTEND;TZID=America/New_York:20260706T190000
 SUMMARY:Member Mingle
 LOCATION:The Sky Deck
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 8 spots left
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 5 spots left
  \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/18
  6839\n\nJoin us for our weekly Member Mingle as we take the gathering outd
  oors for the summer season on The Sky Deck. Set against sweeping city view
@@ -998,7 +960,7 @@ DTSTART;TZID=America/New_York:20260713T170000
 DTEND;TZID=America/New_York:20260713T190000
 SUMMARY:Member Mingle
 LOCATION:The Sky Deck
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 8 spots left
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 6 spots left
  \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/19
  0016\n\nJoin us for our weekly Member Mingle as we take the gathering outd
  oors for the summer season on The Sky Deck. Set against sweeping city view
