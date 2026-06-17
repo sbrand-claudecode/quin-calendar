@@ -80,7 +80,7 @@ DTSTART;TZID=America/New_York:20260617T170000
 DTEND;TZID=America/New_York:20260617T183000
 SUMMARY:'Quin Chat: Echoes of Liberty
 LOCATION:Scottie's
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 16 spots lef
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 18 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  89485\n\n5:00PM Reception\, 5:30PM Discussion \nJoin us for an exclusive 
  preview of Echoes of Liberty\, an immersive Augmented Reality experience 
@@ -199,7 +199,7 @@ DTEND;TZID=America/New_York:20260622T191500
 SUMMARY:Member Mixer: The 'Quin Crawl
 LOCATION:Begin in Scottie's
 DESCRIPTION:Category: Member Mixer\nPrice: $72.00 per person\nAvailability:
-  38 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
+  39 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
  .com/events/190021\n\nEmbark on a spirited journey through The 'Quin as we
   visit five distinct bars during a progressive beverage experience designe
  d for discovery\, conversation\, and connection.\n\nThe evening begins at 
@@ -373,7 +373,7 @@ DTSTART;TZID=America/New_York:20260623T170000
 DTEND;TZID=America/New_York:20260623T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 29 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 28 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  86697\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in an ambiant reserved space. This is your opportunity to connect with fe
@@ -731,32 +731,31 @@ DTSTART;TZID=America/New_York:20260630T170000
 DTEND;TZID=America/New_York:20260630T183000
 SUMMARY:Rethinking Women's Health: Mental Health & Modern Life
 LOCATION:Scottie's
-DESCRIPTION:Category: Health & Wellness\nPrice: Free\nAvailability: 1 spot 
- left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/event
- s/191160\n\n5:00PM Reception\, 5:30PM Discussion \nMental health is final
- ly getting the attention it deserves—but the conversation is only beginn
- ing.\n\nJoin us for the fourth installment of Rethinking Women's Health\, 
- our ongoing series exploring the evolving landscape of women's well-being 
- through the lens of today's leading physicians\, researchers\, and advocat
- es. This session turns its focus to mental health\, examining the intersec
- tion of mind\, body\, identity\, and culture while challenging outdated ap
- proaches to care.\n\nEach speaker will bring one topic to the conversation
- \, offering a distinct perspective on women's mental health today. Topics 
- will include trauma-informed care and ketamine-assisted psychotherapy\, th
- e realities of navigating modern womanhood in a rapidly changing cultural 
- landscape\, and the structural and psychological factors that make mental 
- wellness both deeply personal and profoundly complex.\n\nLeading the discu
- ssion are Dr. Cecil R. Webster Jr.\, Harvard-trained psychiatrist\, psycho
- analyst\, and founder of Webster Clinic\; Dr. Marni Chanoff\, Harvard-trai
- ned psychiatrist\, educator\, and founder of Joy In Health\; and Dr. Jack
- ie Buchanan\, Harvard-trained child\, adolescent\, and adult psychiatrist
- .\n\nDesigned to offer practical tools\, fresh perspectives\, and meaningf
- ul insights\, the evening will conclude with 30 minutes of audience discus
- sion and Q&A. We encourage attendees to bring their own questions and curi
- osities as we create a thoughtful space for open and engaging conversation
- .\n\n*This event is complimentary and reserved for members only. Complimen
- tary light bites will be served\, and beverages will be available for purc
- hase.
+DESCRIPTION:Category: Health & Wellness\nPrice: Free / Included\nStatus: un
+ limited\nEvent URL: https://members.thequinhouse.com/events/191160\n\n5:00
+ PM Reception\, 5:30PM Discussion \nMental health is finally getting the a
+ ttention it deserves—but the conversation is only beginning.\n\nJoin us 
+ for the fourth installment of Rethinking Women's Health\, our ongoing seri
+ es exploring the evolving landscape of women's well-being through the lens
+  of today's leading physicians\, researchers\, and advocates. This session
+  turns its focus to mental health\, examining the intersection of mind\, b
+ ody\, identity\, and culture while challenging outdated approaches to care
+ .\n\nEach speaker will bring one topic to the conversation\, offering a di
+ stinct perspective on women's mental health today. Topics will include tra
+ uma-informed care and ketamine-assisted psychotherapy\, the realities of n
+ avigating modern womanhood in a rapidly changing cultural landscape\, and 
+ the structural and psychological factors that make mental wellness both de
+ eply personal and profoundly complex.\n\nLeading the discussion are Dr. Ce
+ cil R. Webster Jr.\, Harvard-trained psychiatrist\, psychoanalyst\, and fo
+ under of Webster Clinic\; Dr. Marni Chanoff\, Harvard-trained psychiatrist
+ \, educator\, and founder of Joy In Health\; and Dr. Jackie Buchanan\, Ha
+ rvard-trained child\, adolescent\, and adult psychiatrist.\n\nDesigned to
+  offer practical tools\, fresh perspectives\, and meaningful insights\, th
+ e evening will conclude with 30 minutes of audience discussion and Q&A. We
+  encourage attendees to bring their own questions and curiosities as we cr
+ eate a thoughtful space for open and engaging conversation.\n\n*This event
+  is complimentary and reserved for members only. Complimentary light bites
+  will be served\, and beverages will be available for purchase.
 URL:https://members.thequinhouse.com/events/191160
 CATEGORIES:Health & Wellness
 END:VEVENT
@@ -874,7 +873,7 @@ DTSTART;TZID=America/New_York:20260706T170000
 DTEND;TZID=America/New_York:20260706T190000
 SUMMARY:Member Mingle
 LOCATION:The Sky Deck
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 5 spots left
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 4 spots left
  \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/18
  6839\n\nJoin us for our weekly Member Mingle as we take the gathering outd
  oors for the summer season on The Sky Deck. Set against sweeping city view
@@ -960,7 +959,7 @@ DTSTART;TZID=America/New_York:20260713T170000
 DTEND;TZID=America/New_York:20260713T190000
 SUMMARY:Member Mingle
 LOCATION:The Sky Deck
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 6 spots left
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 5 spots left
  \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/19
  0016\n\nJoin us for our weekly Member Mingle as we take the gathering outd
  oors for the summer season on The Sky Deck. Set against sweeping city view
