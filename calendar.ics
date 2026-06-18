@@ -280,7 +280,7 @@ DTSTART;TZID=America/New_York:20260623T170000
 DTEND;TZID=America/New_York:20260623T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 27 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 26 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  86697\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in an ambiant reserved space. This is your opportunity to connect with fe
@@ -444,27 +444,27 @@ DTSTART;TZID=America/New_York:20260625T170000
 DTEND;TZID=America/New_York:20260625T183000
 SUMMARY:Meet the Maker: Rhonda Kallman from Boston Harbor Distillery
 LOCATION:Scottie's
-DESCRIPTION:Category: Food & Beverage\nPrice: Free\nAvailability: 1 spot le
- ft\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/
- 189486\n\nJoin us for a spirited evening celebrating 250 years of Massachu
- setts in partnership with Boston Harbor Distillery. Led by founder Rhonda 
- Kallman\, this reception-style Meet the Maker invites members to explore t
- he stories\, craftsmanship\, and local history woven into one of Boston’
- s most distinctive distilleries—where every detail\, from the spirits th
- emselves to the names on the bottles\, reflects a deep connection to place
- .\n\nA pioneering force in the craft beverage industry\, Rhonda Kallman ha
- s spent decades shaping the future of American brewing and distilling. Her
-  passion for whiskey\, storytelling\, and craftsmanship is at the heart of
-  Boston Harbor Distillery’s approach: honoring history while redefining 
- what modern American spirits can be.\n\nGuided by Rhonda\, members will ha
- ve the first opportunity to taste an exclusive selections from Boston Harb
- or Distillery including: Putnam Single Malt Whiskey & Rye Expressions\, De
- mon Seed Whiskey and featuring American 250 Custom Malt Whiskey\, of which
-  only one barrel was produced. Set within the legacy of a restored 19th-ce
- ntury waterfront mill building in Dorchester\, the distillery has become a
-  modern landmark of American craft spirits—equal parts innovation\, heri
- tage\, and unapologetic Boston character.\n\n*This event is complimentary 
- and reserved for members only. Complimentary light bites will be served.
+DESCRIPTION:Category: Food & Beverage\nPrice: Free / Included\nStatus: unli
+ mited\nEvent URL: https://members.thequinhouse.com/events/189486\n\nJoin u
+ s for a spirited evening celebrating 250 years of Massachusetts in partner
+ ship with Boston Harbor Distillery. Led by founder Rhonda Kallman\, this r
+ eception-style Meet the Maker invites members to explore the stories\, cra
+ ftsmanship\, and local history woven into one of Boston’s most distincti
+ ve distilleries—where every detail\, from the spirits themselves to the 
+ names on the bottles\, reflects a deep connection to place.\n\nA pioneerin
+ g force in the craft beverage industry\, Rhonda Kallman has spent decades 
+ shaping the future of American brewing and distilling. Her passion for whi
+ skey\, storytelling\, and craftsmanship is at the heart of Boston Harbor D
+ istillery’s approach: honoring history while redefining what modern Amer
+ ican spirits can be.\n\nGuided by Rhonda\, members will have the first opp
+ ortunity to taste an exclusive selections from Boston Harbor Distillery in
+ cluding: Putnam Single Malt Whiskey & Rye Expressions\, Demon Seed Whiskey
+  and featuring American 250 Custom Malt Whiskey\, of which only one barrel
+  was produced. Set within the legacy of a restored 19th-century waterfront
+  mill building in Dorchester\, the distillery has become a modern landmark
+  of American craft spirits—equal parts innovation\, heritage\, and unapo
+ logetic Boston character.\n\n*This event is complimentary and reserved for
+  members only. Complimentary light bites will be served.
 URL:https://members.thequinhouse.com/events/189486
 CATEGORIES:Food & Beverage
 END:VEVENT
@@ -779,20 +779,19 @@ DTSTART;TZID=America/New_York:20260706T170000
 DTEND;TZID=America/New_York:20260706T190000
 SUMMARY:Member Mingle
 LOCATION:The Sky Deck
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 1 spot left\
- nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/186
- 839\n\nJoin us for our weekly Member Mingle as we take the gathering outdo
- ors for the summer season on The Sky Deck. Set against sweeping city views
-  and warm summer sunshine\, this inclusive gathering offers the perfect op
- portunity to connect with fellow members\, exchange ideas\, and cultivate 
- meaningful relationships.\n\nWhether you're sparking new collaborations\, 
- sharing insights\, or simply enjoying great conversation\, Member Mingle i
- s a welcoming space to engage with our dynamic community. Join us for an e
- vening of connection\, inspiration\, and conversation.\n\n*This event is c
- omplimentary and reserved exclusively for members. Complimentary light bit
- es will be served\, and beverages will be available for purchase. In the e
- vent of inclement weather\, the gathering will move indoors to The Living 
- Room.
+DESCRIPTION:Category: Member Mixer\nPrice: Free / Included\nStatus: unlimit
+ ed\nEvent URL: https://members.thequinhouse.com/events/186839\n\nJoin us f
+ or our weekly Member Mingle as we take the gathering outdoors for the summ
+ er season on The Sky Deck. Set against sweeping city views and warm summer
+  sunshine\, this inclusive gathering offers the perfect opportunity to con
+ nect with fellow members\, exchange ideas\, and cultivate meaningful relat
+ ionships.\n\nWhether you're sparking new collaborations\, sharing insights
+ \, or simply enjoying great conversation\, Member Mingle is a welcoming sp
+ ace to engage with our dynamic community. Join us for an evening of connec
+ tion\, inspiration\, and conversation.\n\n*This event is complimentary and
+  reserved exclusively for members. Complimentary light bites will be serve
+ d\, and beverages will be available for purchase. In the event of inclemen
+ t weather\, the gathering will move indoors to The Living Room.
 URL:https://members.thequinhouse.com/events/186839
 CATEGORIES:Member Mixer
 END:VEVENT
@@ -865,20 +864,20 @@ DTSTART;TZID=America/New_York:20260713T170000
 DTEND;TZID=America/New_York:20260713T190000
 SUMMARY:Member Mingle
 LOCATION:The Sky Deck
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 2 spots left
- \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/19
- 0016\n\nJoin us for our weekly Member Mingle as we take the gathering outd
- oors for the summer season on The Sky Deck. Set against sweeping city view
- s and warm summer sunshine\, this inclusive gathering offers the perfect o
- pportunity to connect with fellow members\, exchange ideas\, and cultivate
-  meaningful relationships.\n\nWhether you're sparking new collaborations\,
-  sharing insights\, or simply enjoying great conversation\, Member Mingle 
- is a welcoming space to engage with our dynamic community. Join us for an 
- evening of connection\, inspiration\, and conversation.\n\n*This event is 
- complimentary and reserved exclusively for members. Complimentary light bi
- tes will be served\, and beverages will be available for purchase. In the 
- event of inclement weather\, the gathering will move indoors to The Living
-  Room.
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 1 spot left\
+ nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/190
+ 016\n\nJoin us for our weekly Member Mingle as we take the gathering outdo
+ ors for the summer season on The Sky Deck. Set against sweeping city views
+  and warm summer sunshine\, this inclusive gathering offers the perfect op
+ portunity to connect with fellow members\, exchange ideas\, and cultivate 
+ meaningful relationships.\n\nWhether you're sparking new collaborations\, 
+ sharing insights\, or simply enjoying great conversation\, Member Mingle i
+ s a welcoming space to engage with our dynamic community. Join us for an e
+ vening of connection\, inspiration\, and conversation.\n\n*This event is c
+ omplimentary and reserved exclusively for members. Complimentary light bit
+ es will be served\, and beverages will be available for purchase. In the e
+ vent of inclement weather\, the gathering will move indoors to The Living 
+ Room.
 URL:https://members.thequinhouse.com/events/190016
 CATEGORIES:Member Mixer
 END:VEVENT
