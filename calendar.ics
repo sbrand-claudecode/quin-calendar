@@ -105,22 +105,22 @@ DTSTART;TZID=America/New_York:20260622T170000
 DTEND;TZID=America/New_York:20260622T191500
 SUMMARY:Member Mixer: The 'Quin Crawl
 LOCATION:Begin in Scottie's
-DESCRIPTION:Category: Member Mixer\nPrice: $72.00 per person\nStatus: Waitl
- ist Only\nEvent URL: https://members.thequinhouse.com/events/190021\n\nEmb
- ark on a spirited journey through The 'Quin as we visit five distinct bars
-  during a progressive beverage experience designed for discovery\, convers
- ation\, and connection.\n\nThe evening begins at Scottie's\, where members
-  will gather over light bites before making their way through Café Q\, Th
- e Pub\, Fernando's\, and Dive Bar. At each stop\, enjoy a bespoke cocktail
-  or zero proof option crafted exclusively for the occasion\, showcasing th
- e unique character of each space. Beer and wine selections will also be av
- ailable throughout the evening.\n\nEnjoy 25–30 minutes at each venue - a
-  dynamic experience which offers the perfect opportunity to explore famili
- ar favorites while mingling with fellow members along the way.\n\n*This ev
- ent is offered at $72 per member\, plus tax\, and is available to members 
- only. Club fees are included in the price of the ticket. Cancellations mad
- e less than 72 hours in advance\, or failure to attend\, will result in a 
- full charge.
+DESCRIPTION:Category: Member Mixer\nPrice: $72.00 per person\nAvailability:
+  1 spot left\nStatus: Available\nEvent URL: https://members.thequinhouse.c
+ om/events/190021\n\nEmbark on a spirited journey through The 'Quin as we v
+ isit five distinct bars during a progressive beverage experience designed 
+ for discovery\, conversation\, and connection.\n\nThe evening begins at Sc
+ ottie's\, where members will gather over light bites before making their w
+ ay through Café Q\, The Pub\, Fernando's\, and Dive Bar. At each stop\, e
+ njoy a bespoke cocktail or zero proof option crafted exclusively for the o
+ ccasion\, showcasing the unique character of each space. Beer and wine sel
+ ections will also be available throughout the evening.\n\nEnjoy 25–30 mi
+ nutes at each venue - a dynamic experience which offers the perfect opport
+ unity to explore familiar favorites while mingling with fellow members alo
+ ng the way.\n\n*This event is offered at $72 per member\, plus tax\, and i
+ s available to members only. Club fees are included in the price of the ti
+ cket. Cancellations made less than 72 hours in advance\, or failure to att
+ end\, will result in a full charge.
 URL:https://members.thequinhouse.com/events/190021
 CATEGORIES:Member Mixer
 END:VEVENT
@@ -421,7 +421,7 @@ DTSTART;TZID=America/New_York:20260625T120000
 DTEND;TZID=America/New_York:20260625T140000
 SUMMARY: Serendipity Lunch - Convening Curators
 LOCATION:Lunasol
-DESCRIPTION:Category: The Arts\nPrice: $68.00 per person\nAvailability: 3 s
+DESCRIPTION:Category: The Arts\nPrice: $68.00 per person\nAvailability: 4 s
  pots left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/
  events/188040\n\nContinuing the "Curated Connections" extension of the Ser
  endipity series\, meet us for lunch convening members who identify as Cre
