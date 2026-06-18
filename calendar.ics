@@ -44,99 +44,6 @@ URL:https://members.thequinhouse.com/events/184860
 CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
-UID:quin-event-188594@thequinhouse.com
-DTSTAMP:20260617T170000Z
-DTSTART;TZID=America/New_York:20260617T170000
-DTEND;TZID=America/New_York:20260617T190000
-SUMMARY:From Interest to Impact: Finding Your Place on a Nonprofit Board
-LOCATION:The Living Room
-DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free / Included\nStatus: 
- unlimited\nEvent URL: https://members.thequinhouse.com/events/188594\n\n5:
- 00PM Reception\, 5:30PM Presentation\, 6:15PM Panel Discussion\nStep into 
- the future of civic leadership through this dynamic program presented in p
- artnership with The 'Quin Impact Fund and United Way’s Board Connect ini
- tiative. Designed for emerging and established changemakers alike\, the ev
- ening will explore how nonprofit board service can become a powerful catal
- yst for impact\, innovation\, and community transformation.\n\nThe program
-  begins with an interactive workshop led by United Way\, offering an insid
- e look at the responsibilities\, influence\, and opportunities that come w
- ith board leadership. A forward-thinking panel discussion will follow\, fe
- aturing nonprofit leaders and governance experts including Jon Feinman of 
- InnerCity Weightlifting\, Linda Whitlock\, Co-Chair of The 'Quin Impact F
- und and Yolanda Coentro of the Institute for Nonprofit Practice\, moderate
- d by Marty Martinez of United Way of Massachusetts Bay.\n\nThe evening con
- cludes with an opportunity to connect directly with local organizations ac
- tively seeking new board talent—creating space for meaningful conversati
- ons\, new collaborations\, and the next generation of purpose-driven leade
- rship.\n\n*This event is complimentary and reserved for members only. Comp
- limentary light bites and refreshments will be served.
-URL:https://members.thequinhouse.com/events/188594
-CATEGORIES:‘Quin Impact Fund
-END:VEVENT
-BEGIN:VEVENT
-UID:quin-event-189485@thequinhouse.com
-DTSTAMP:20260617T170000Z
-DTSTART;TZID=America/New_York:20260617T170000
-DTEND;TZID=America/New_York:20260617T183000
-SUMMARY:'Quin Chat: Echoes of Liberty
-LOCATION:Scottie's
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 22 spots lef
- t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
- 89485\n\n5:00PM Reception\, 5:30PM Discussion \nJoin us for an exclusive 
- preview of Echoes of Liberty\, an immersive Augmented Reality experience 
- that blends live performance\, history\, and soundscapes to illuminate the
-  often-overlooked contributions of African Americans during the Revolution
- ary War era. Created and produced by visionary storyteller and educator Ne
- rissa Williams Scott\, Echoes of Liberty invites audiences into powerful
-  narratives rooted in history\, identity\, and cultural impact.\n\nFeaturi
- ng acclaimed performances — including Golden Globe-nominated actor Blair
-  Underwood as Crispus Attucks — this groundbreaking project harnesses em
- erging AR technology to bring the past vividly into the present\, creating
-  an unforgettable multi-sensory experience that bridges generations throug
- h storytelling and innovation.\n\nFollowing the preview\, members will enj
- oy a dynamic conversation led by Nerissa Williams Scott alongside an estee
- med panel of scholars\, creatives\, and innovators\, including Dr. Joyce H
- ope Scott\, Clinical Professor of African American & Black Diaspora Studie
- s at Boston University\; Dr. Noelle N. Trent\, President & CEO of the Mus
- eum of African American History | Boston & Nantucket and a nationally reco
- gnized public historian\; Lynn DuVal-Luse\, Executive Producer and Emerit
- us Marketing Director of the Museum of African American History\; and Nico
- las Robbe\, CEO and co-founder of Hoverlay\, the Augmented Reality platfor
- m powering the immersive narratives of Echoes of Liberty.\n\nTogether\, t
- he panel will explore the intersections of history\, technology\, educatio
- n\, and representation — and discuss how immersive storytelling can deep
- en our understanding of the past while shaping the future of cultural enga
- gement.\n\n*This event is complimentary and reserved for members only. Com
- plimentary light bites and refreshments will be served.
-URL:https://members.thequinhouse.com/events/189485
-CATEGORIES:‘Quin Chat
-END:VEVENT
-BEGIN:VEVENT
-UID:quin-event-188596@thequinhouse.com
-DTSTAMP:20260617T190000Z
-DTSTART;TZID=America/New_York:20260617T190000
-DTEND;TZID=America/New_York:20260617T200000
-SUMMARY:From Interest to Impact: Board and Volunteer Fair
-LOCATION:The Muse
-DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free / Included\nStatus: 
- unlimited\nEvent URL: https://members.thequinhouse.com/events/188596\n\nTu
- rn inspiration into action at the The 'Quin Impact Fund's Board and Volunt
- eer Fair\, an interactive networking experience connecting attendees direc
- tly with nonprofit organizations shaping the future of our communities.\n\
- nFeaturing ten mission-driven organizations actively seeking board and com
- mittee members\, the fair offers a unique opportunity to engage with nonpr
- ofit leaders\, explore causes aligned with your passions\, and discover me
- aningful pathways to impact. Designed as a dynamic drop-in experience\, gu
- ests are invited to move freely throughout the space\, fostering organic c
- onversations and new connections. Nonprofits that will be in attendance in
- clude\n\nBoston Music Project\nBoston Public Art Triennial\nCircle of Hope
- \nDress for Success Boston\nEllis Early Learning\nFamilyAid\nInnerCity Wei
- ghtlifting\nInstitute for Nonprofit Practice\nProject 351\nThe Children’
- s Room\n\n*This event is complimentary and reserved for members only.
-URL:https://members.thequinhouse.com/events/188596
-CATEGORIES:‘Quin Impact Fund
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-189616@thequinhouse.com
 DTSTAMP:20260618T210000Z
 DTSTART;TZID=America/New_York:20260618T210000
@@ -537,27 +444,27 @@ DTSTART;TZID=America/New_York:20260625T170000
 DTEND;TZID=America/New_York:20260625T183000
 SUMMARY:Meet the Maker: Rhonda Kallman from Boston Harbor Distillery
 LOCATION:Scottie's
-DESCRIPTION:Category: Food & Beverage\nPrice: Free\nStatus: Waitlist Only\n
- Event URL: https://members.thequinhouse.com/events/189486\n\nJoin us for a
-  spirited evening celebrating 250 years of Massachusetts in partnership wi
- th Boston Harbor Distillery. Led by founder Rhonda Kallman\, this receptio
- n-style Meet the Maker invites members to explore the stories\, craftsmans
- hip\, and local history woven into one of Boston’s most distinctive dist
- illeries—where every detail\, from the spirits themselves to the names o
- n the bottles\, reflects a deep connection to place.\n\nA pioneering force
-  in the craft beverage industry\, Rhonda Kallman has spent decades shaping
-  the future of American brewing and distilling. Her passion for whiskey\, 
- storytelling\, and craftsmanship is at the heart of Boston Harbor Distille
- ry’s approach: honoring history while redefining what modern American sp
- irits can be.\n\nGuided by Rhonda\, members will have the first opportunit
- y to taste an exclusive selections from Boston Harbor Distillery including
- : Putnam Single Malt Whiskey & Rye Expressions\, Demon Seed Whiskey and fe
- aturing American 250 Custom Malt Whiskey\, of which only one barrel was pr
- oduced. Set within the legacy of a restored 19th-century waterfront mill b
- uilding in Dorchester\, the distillery has become a modern landmark of Ame
- rican craft spirits—equal parts innovation\, heritage\, and unapologetic
-  Boston character.\n\n*This event is complimentary and reserved for member
- s only. Complimentary light bites will be served.
+DESCRIPTION:Category: Food & Beverage\nPrice: Free\nAvailability: 1 spot le
+ ft\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/
+ 189486\n\nJoin us for a spirited evening celebrating 250 years of Massachu
+ setts in partnership with Boston Harbor Distillery. Led by founder Rhonda 
+ Kallman\, this reception-style Meet the Maker invites members to explore t
+ he stories\, craftsmanship\, and local history woven into one of Boston’
+ s most distinctive distilleries—where every detail\, from the spirits th
+ emselves to the names on the bottles\, reflects a deep connection to place
+ .\n\nA pioneering force in the craft beverage industry\, Rhonda Kallman ha
+ s spent decades shaping the future of American brewing and distilling. Her
+  passion for whiskey\, storytelling\, and craftsmanship is at the heart of
+  Boston Harbor Distillery’s approach: honoring history while redefining 
+ what modern American spirits can be.\n\nGuided by Rhonda\, members will ha
+ ve the first opportunity to taste an exclusive selections from Boston Harb
+ or Distillery including: Putnam Single Malt Whiskey & Rye Expressions\, De
+ mon Seed Whiskey and featuring American 250 Custom Malt Whiskey\, of which
+  only one barrel was produced. Set within the legacy of a restored 19th-ce
+ ntury waterfront mill building in Dorchester\, the distillery has become a
+  modern landmark of American craft spirits—equal parts innovation\, heri
+ tage\, and unapologetic Boston character.\n\n*This event is complimentary 
+ and reserved for members only. Complimentary light bites will be served.
 URL:https://members.thequinhouse.com/events/189486
 CATEGORIES:Food & Beverage
 END:VEVENT
@@ -872,20 +779,20 @@ DTSTART;TZID=America/New_York:20260706T170000
 DTEND;TZID=America/New_York:20260706T190000
 SUMMARY:Member Mingle
 LOCATION:The Sky Deck
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 3 spots left
- \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/18
- 6839\n\nJoin us for our weekly Member Mingle as we take the gathering outd
- oors for the summer season on The Sky Deck. Set against sweeping city view
- s and warm summer sunshine\, this inclusive gathering offers the perfect o
- pportunity to connect with fellow members\, exchange ideas\, and cultivate
-  meaningful relationships.\n\nWhether you're sparking new collaborations\,
-  sharing insights\, or simply enjoying great conversation\, Member Mingle 
- is a welcoming space to engage with our dynamic community. Join us for an 
- evening of connection\, inspiration\, and conversation.\n\n*This event is 
- complimentary and reserved exclusively for members. Complimentary light bi
- tes will be served\, and beverages will be available for purchase. In the 
- event of inclement weather\, the gathering will move indoors to The Living
-  Room.
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 1 spot left\
+ nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/186
+ 839\n\nJoin us for our weekly Member Mingle as we take the gathering outdo
+ ors for the summer season on The Sky Deck. Set against sweeping city views
+  and warm summer sunshine\, this inclusive gathering offers the perfect op
+ portunity to connect with fellow members\, exchange ideas\, and cultivate 
+ meaningful relationships.\n\nWhether you're sparking new collaborations\, 
+ sharing insights\, or simply enjoying great conversation\, Member Mingle i
+ s a welcoming space to engage with our dynamic community. Join us for an e
+ vening of connection\, inspiration\, and conversation.\n\n*This event is c
+ omplimentary and reserved exclusively for members. Complimentary light bit
+ es will be served\, and beverages will be available for purchase. In the e
+ vent of inclement weather\, the gathering will move indoors to The Living 
+ Room.
 URL:https://members.thequinhouse.com/events/186839
 CATEGORIES:Member Mixer
 END:VEVENT
@@ -958,7 +865,7 @@ DTSTART;TZID=America/New_York:20260713T170000
 DTEND;TZID=America/New_York:20260713T190000
 SUMMARY:Member Mingle
 LOCATION:The Sky Deck
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 3 spots left
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 2 spots left
  \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/19
  0016\n\nJoin us for our weekly Member Mingle as we take the gathering outd
  oors for the summer season on The Sky Deck. Set against sweeping city view
