@@ -44,24 +44,6 @@ URL:https://members.thequinhouse.com/events/184860
 CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
-UID:quin-event-189616@thequinhouse.com
-DTSTAMP:20260618T210000Z
-DTSTART;TZID=America/New_York:20260618T210000
-DTEND;TZID=America/New_York:20260618T220000
-SUMMARY:World Cup Watch Party: Mexico vs. Korea 
-LOCATION:The Pub
-DESCRIPTION:Category: Sports & Games\nPrice: Free / Included\nStatus: Avail
- able\nEvent URL: https://members.thequinhouse.com/events/189616\n\nAll eye
- s on the pitch as the Mexico faces off against Korea in a high-stakes 
- World Cup group stage match. Settle in with the best seats in the house—
- every screen aglow\, the energy palpable\, and the Pub pouring all night l
- ong. A full lineup of fan favorites will be on offer\, best enjoyed alongs
- ide a perfectly timed pint.\n\n*Reservations not required. Please note tha
- t the kitchen will close at 11:00PM.
-URL:https://members.thequinhouse.com/events/189616
-CATEGORIES:Sports & Games
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-189607@thequinhouse.com
 DTSTAMP:20260619T150000Z
 DTSTART;TZID=America/New_York:20260619T150000
@@ -105,22 +87,22 @@ DTSTART;TZID=America/New_York:20260622T170000
 DTEND;TZID=America/New_York:20260622T191500
 SUMMARY:Member Mixer: The 'Quin Crawl
 LOCATION:Begin in Scottie's
-DESCRIPTION:Category: Member Mixer\nPrice: $72.00 per person\nAvailability:
-  1 spot left\nStatus: Available\nEvent URL: https://members.thequinhouse.c
- om/events/190021\n\nEmbark on a spirited journey through The 'Quin as we v
- isit five distinct bars during a progressive beverage experience designed 
- for discovery\, conversation\, and connection.\n\nThe evening begins at Sc
- ottie's\, where members will gather over light bites before making their w
- ay through Café Q\, The Pub\, Fernando's\, and Dive Bar. At each stop\, e
- njoy a bespoke cocktail or zero proof option crafted exclusively for the o
- ccasion\, showcasing the unique character of each space. Beer and wine sel
- ections will also be available throughout the evening.\n\nEnjoy 25–30 mi
- nutes at each venue - a dynamic experience which offers the perfect opport
- unity to explore familiar favorites while mingling with fellow members alo
- ng the way.\n\n*This event is offered at $72 per member\, plus tax\, and i
- s available to members only. Club fees are included in the price of the ti
- cket. Cancellations made less than 72 hours in advance\, or failure to att
- end\, will result in a full charge.
+DESCRIPTION:Category: Member Mixer\nPrice: Free / Included\nStatus: Unavail
+ able\nEvent URL: https://members.thequinhouse.com/events/190021\n\nEmbark 
+ on a spirited journey through The 'Quin as we visit five distinct bars dur
+ ing a progressive beverage experience designed for discovery\, conversatio
+ n\, and connection.\n\nThe evening begins at Scottie's\, where members wil
+ l gather over light bites before making their way through Café Q\, The Pu
+ b\, Fernando's\, and Dive Bar. At each stop\, enjoy a bespoke cocktail or 
+ zero proof option crafted exclusively for the occasion\, showcasing the un
+ ique character of each space. Beer and wine selections will also be availa
+ ble throughout the evening.\n\nEnjoy 25–30 minutes at each venue - a dyn
+ amic experience which offers the perfect opportunity to explore familiar f
+ avorites while mingling with fellow members along the way.\n\n*This event 
+ is offered at $72 per member\, plus tax\, and is available to members only
+ . Club fees are included in the price of the ticket. Cancellations made le
+ ss than 72 hours in advance\, or failure to attend\, will result in a full
+  charge.
 URL:https://members.thequinhouse.com/events/190021
 CATEGORIES:Member Mixer
 END:VEVENT
@@ -494,19 +476,22 @@ DTEND;TZID=America/New_York:20260626T180000
 SUMMARY:'Quin Suite: World Cup France v. Norway
 LOCATION:Offsite: Gillette Stadium
 DESCRIPTION:Category: Sports & Games\nPrice: $3327.10 per person\nAvailabil
- ity: 7 spots left\nStatus: Available\nEvent URL: https://members.thequinho
- use.com/events/175300\n\nClaim your place in a private ’Quin Suite (#R9)
-  at Gillette Stadium for the highly anticipated France vs Norway World C
- up matchup. Enter through a dedicated suite entrance and settle into reser
- ved seating with sweeping views of the pitch\, all while enjoying continuo
- us food and beverage service throughout the match. A curated assortment of
-  preset dishes showcases local culinary talent\, complemented by premium c
- hampagne\, wine\, beer\, spirits\, mocktails\, and soft drinks. World-clas
- s football\, elevated hospitality\, and an atmosphere that delivers from k
- ickoff to final whistle - game on.\n\n*Suite tickets are offered at $3\,56
- 0 per ticket and are available to members\, plus one guest age 16+. Suite 
- tickets are non-refundable and are non-transferable. Members are required 
- to accompany their guest at all times.
+ ity: 5 spots left\nStatus: Available\nEvent URL: https://members.thequinho
+ use.com/events/175300\n\nSecure your place in our private ’Quin Suite (#
+ R9) at Gillette Stadium for one of the most anticipated matches of the FIF
+ A World Cup.\n\nEnter through an exclusive suite entrance and take in ever
+ y moment of the France vs. Norway showdown from reserved seats overlooking
+  the pitch. Throughout the match\, enjoy elevated hospitality with continu
+ ous food and beverage service\, featuring a curated selection of dishes al
+ ongside premium champagne\, wine\, beer\, spirits\, mocktails\, and soft d
+ rinks. Scotland may be putting Boston's beer supply to the test\, but rest
+  assured - your glass will stay full in the ’Quin Suite.\n\nFrom the ele
+ ctric energy of the crowd to the world-class action on the field\, this is
+  the World Cup experience at its finest—where unforgettable moments unfo
+ ld from kickoff to the final whistle.\n\n*Suite tickets are offered at $3\
+ ,560 per ticket and are available to members\, plus three guests age 16+. 
+ Suite tickets are non-refundable and are non-transferable. Members are req
+ uired to accompany their guest at all times.
 URL:https://members.thequinhouse.com/events/175300
 CATEGORIES:Sports & Games
 END:VEVENT
@@ -864,20 +849,19 @@ DTSTART;TZID=America/New_York:20260713T170000
 DTEND;TZID=America/New_York:20260713T190000
 SUMMARY:Member Mingle
 LOCATION:The Sky Deck
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 1 spot left\
- nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/190
- 016\n\nJoin us for our weekly Member Mingle as we take the gathering outdo
- ors for the summer season on The Sky Deck. Set against sweeping city views
-  and warm summer sunshine\, this inclusive gathering offers the perfect op
- portunity to connect with fellow members\, exchange ideas\, and cultivate 
- meaningful relationships.\n\nWhether you're sparking new collaborations\, 
- sharing insights\, or simply enjoying great conversation\, Member Mingle i
- s a welcoming space to engage with our dynamic community. Join us for an e
- vening of connection\, inspiration\, and conversation.\n\n*This event is c
- omplimentary and reserved exclusively for members. Complimentary light bit
- es will be served\, and beverages will be available for purchase. In the e
- vent of inclement weather\, the gathering will move indoors to The Living 
- Room.
+DESCRIPTION:Category: Member Mixer\nPrice: Free / Included\nStatus: unlimit
+ ed\nEvent URL: https://members.thequinhouse.com/events/190016\n\nJoin us f
+ or our weekly Member Mingle as we take the gathering outdoors for the summ
+ er season on The Sky Deck. Set against sweeping city views and warm summer
+  sunshine\, this inclusive gathering offers the perfect opportunity to con
+ nect with fellow members\, exchange ideas\, and cultivate meaningful relat
+ ionships.\n\nWhether you're sparking new collaborations\, sharing insights
+ \, or simply enjoying great conversation\, Member Mingle is a welcoming sp
+ ace to engage with our dynamic community. Join us for an evening of connec
+ tion\, inspiration\, and conversation.\n\n*This event is complimentary and
+  reserved exclusively for members. Complimentary light bites will be serve
+ d\, and beverages will be available for purchase. In the event of inclemen
+ t weather\, the gathering will move indoors to The Living Room.
 URL:https://members.thequinhouse.com/events/190016
 CATEGORIES:Member Mixer
 END:VEVENT
