@@ -469,6 +469,38 @@ URL:https://members.thequinhouse.com/events/189617
 CATEGORIES:Sports & Games
 END:VEVENT
 BEGIN:VEVENT
+UID:quin-event-192120@thequinhouse.com
+DTSTAMP:20260626T100000Z
+DTSTART;TZID=America/New_York:20260626T100000
+DTEND;TZID=America/New_York:20260626T113000
+SUMMARY:Coffee & Conversation: Inclusion in a Divided World with Lord John 
+ Mann 
+LOCATION:The Muse
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 45 spots lef
+ t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
+ 92120\n\n10:00AM Reception\, 10:30AM Discussion \nAs Boston comes togethe
+ r with the global community this summer through events such as the FIFA Wo
+ rld Cup and Tall Ships\, there is no better time to reflect on collective 
+ inclusion and efforts to diminish discrimination.\n\nIn this special editi
+ on of Coffee & Conversation\, join Lord John Mann\, the United Kingdom Gov
+ ernment's Independent Adviser on Antisemitism\, and Colette Phillips\, Pre
+ sident and CEO of Colette Phillips Communications and founder of Get Konne
+ cted!\, for a timely discussion on inclusion\, discrimination\, and the ch
+ allenges facing democratic societies today.\n\nLord Mann has led groundbre
+ aking initiatives to combat hate in sport\, delivering educational program
+ s to thousands across professional football clubs and creating recognized 
+ Jewish Supporters Groups that promote inclusion and belonging. Drawing on 
+ his experience in government\, sport\, and civil society\, Lord Mann will 
+ offer valuable insights on building stronger and more resilient communitie
+ s.\n\nTogether\, Lord Mann and Colette Phillips will explore how instituti
+ ons\, communities\, and individuals can help build more inclusive societie
+ s\, confront prejudice\, and foster meaningful dialogue in an increasingly
+  complex world.\n\n*This event is complimentary and reserved for members o
+ nly. Light bites and refreshments will be served.
+URL:https://members.thequinhouse.com/events/192120
+CATEGORIES:‘Quin Chat
+END:VEVENT
+BEGIN:VEVENT
 UID:quin-event-175300@thequinhouse.com
 DTSTAMP:20260626T150000Z
 DTSTART;TZID=America/New_York:20260626T150000
@@ -570,6 +602,30 @@ DESCRIPTION:Category: Food & Beverage\nPrice: Free / Included\nStatus: Avai
  nMake a Reservation.
 URL:https://members.thequinhouse.com/events/181403
 CATEGORIES:Food & Beverage
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-192176@thequinhouse.com
+DTSTAMP:20260629T140000Z
+DTSTART;TZID=America/New_York:20260629T140000
+DTEND;TZID=America/New_York:20260629T154500
+SUMMARY:Revolutionary Spaces: The Road to 250 
+LOCATION:Offsite: Revolutionary Spaces
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 25 spots left\nS
+ tatus: futureSale\nEvent URL: https://members.thequinhouse.com/events/1921
+ 76\n\nIn anticipation of America's 250th anniversary\, members are invited
+  to experience Boston's revolutionary history through an exclusive guided 
+ tour hosted by Revolutionary Spaces. The afternoon will begin with a welco
+ me and introduction from President and CEO Dr. Nathaniel Sheidley before e
+ xploring some of the city's most significant historic landmarks\, includin
+ g the Old State House and Old South Meeting House.\n\nAlong the way\, memb
+ ers will gain deeper insight into the events\, people\, and ideas that sha
+ ped the nation's founding through guided access to permanent exhibitions a
+ nd historic spaces. The experience will conclude with rare private access 
+ to the Old State House Clock Tower and Old South Meeting House Clock Tower
+ \, offering a unique perspective on two of Boston's most iconic landmarks.
+ \n\n*This event is complimentary and reserved for members only.
+URL:https://members.thequinhouse.com/events/192176
+CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-188038@thequinhouse.com
@@ -799,6 +855,35 @@ URL:https://members.thequinhouse.com/events/176373
 CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
+UID:quin-event-191166@thequinhouse.com
+DTSTAMP:20260709T160000Z
+DTSTART;TZID=America/New_York:20260709T160000
+DTEND;TZID=America/New_York:20260709T180000
+SUMMARY:Meet the Maker: Berene Sauls of Tesselaarsdal Wines
+LOCATION:The Muse
+DESCRIPTION:Category: Food & Beverage\nPrice: Free\nAvailability: 40 spots 
+ left\nStatus: futureSale\nEvent URL: https://members.thequinhouse.com/even
+ ts/191166\n\nJoin us for an evening of wine\, storytelling\, and discovery
+  as we welcome Berene Sauls\, founder and winemaker of Tesselaarsdal Wines
+ \, for an intimate reception-style Meet the Maker.\n\nBorn in the historic
+  South African village of Tesselaarsdal and inspired by its remarkable leg
+ acy\, Berene has emerged as one of the country's most compelling voices in
+  modern winemaking. Her journey—from working behind the scenes at the ac
+ claimed Hamilton Russell Vineyards to launching her own label in 2015—ha
+ s been guided by a commitment to honoring place\, heritage\, and the trans
+ formative power of opportunity.\n\nThroughout the evening\, members will e
+ njoy a guided tasting of two vintages each of Tesselaarsdal Chardonnay and
+  Pinot Noir\, exploring the distinctive terroir of the Hemel-en-Aarde Ridg
+ e and the stories woven into every bottle. As Berene shares her experience
+ s as a pioneering female winemaker and entrepreneur\, guests will gain a d
+ eeper appreciation for the people\, history\, and landscape shaping one of
+  South Africa's most exciting wine regions.\n\n*This event is complimenary
+  and reserved for members only. Complimentary light bites and refreshments
+  will be served.
+URL:https://members.thequinhouse.com/events/191166
+CATEGORIES:Food & Beverage
+END:VEVENT
+BEGIN:VEVENT
 UID:quin-event-180149@thequinhouse.com
 DTSTAMP:20260710T183000Z
 DTSTART;TZID=America/New_York:20260710T183000
@@ -863,6 +948,67 @@ DESCRIPTION:Category: Member Mixer\nPrice: Free / Included\nStatus: unlimit
  d\, and beverages will be available for purchase. In the event of inclemen
  t weather\, the gathering will move indoors to The Living Room.
 URL:https://members.thequinhouse.com/events/190016
+CATEGORIES:Member Mixer
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-191168@thequinhouse.com
+DTSTAMP:20260714T170000Z
+DTSTART;TZID=America/New_York:20260714T170000
+DTEND;TZID=America/New_York:20260714T190000
+SUMMARY:Author Talk: "Man Made" with Karen Korellis Ruether
+LOCATION:The Muse
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 49 spots lef
+ t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
+ 91168\n\n5:00PM Reception\, 5:30PM Discussion\nWhat if the world around us
+  wasn't designed with everyone in mind?\n\nJoin us for an illuminating con
+ versation with Karen Korellis Reuther - designer\, educator\, inclusion ad
+ vocate\, and author of the forthcoming book MAN-MADE: How We Designed a Wo
+ rld That Leaves Women Out\, and How We Can Make It Right. Drawing on more 
+ than four decades of experience\, including leadership roles at Nike and R
+ eebok and her current work at Harvard's Graduate School of Design\, Karen 
+ explores the hidden ways gender bias has been built into the products\, sy
+ stems\, and spaces we encounter every day.\n\nFrom personal protective equ
+ ipment and athletic footwear to healthcare\, transportation\, and public i
+ nfrastructure\, MAN-MADE reveals how design decisions rooted in a male def
+ ault continue to shape women's experiences\, often with profound consequen
+ ces. Through compelling research\, real-world examples\, and a forward-loo
+ king vision for change\, Karen invites us to reconsider the world we have 
+ inherited - and imagine one designed for everyone.\n\n*This event is compl
+ imentary and reserved for members only. Light bites and refreshments will 
+ be served.
+URL:https://members.thequinhouse.com/events/191168
+CATEGORIES:‘Quin Chat
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-191172@thequinhouse.com
+DTSTAMP:20260715T200000Z
+DTSTART;TZID=America/New_York:20260715T200000
+DTEND;TZID=America/New_York:20260715T223000
+SUMMARY:Sail Boston: Luxury Yacht Valiant
+LOCATION:Offsite: Rowes Wharf Gate C
+DESCRIPTION:Category: Member Mixer\nPrice: $277.65 per person\nAvailability
+ : 100 spots left\nStatus: futureSale\nEvent URL: https://members.thequinho
+ use.com/events/191172\n\nAs Boston welcomes a once-in-a-generation gatheri
+ ng of the world's most magnificent tall ships in celebration of America's 
+ 250th anniversary\, join fellow members aboard luxury yacht Valiant for an
+  unforgettable evening on the harbor.\n\nDeparting from Rowes Wharf\, this
+  exclusive cruise offers a front-row vantage point to Sail Boston 2026\, a
+ s an international fleet of historic tall ships and military vessels fills
+  the harbor in a remarkable display of maritime tradition and global camar
+ aderie. As dusk settles over the city\, enjoy unparalleled views of the fl
+ eet before the evening culminates with a spectacular fireworks display ill
+ uminating the Boston skyline.\n\nThroughout the cruise\, guests will enjoy
+  an open bar and a selection of elevated bites while taking in one of the 
+ most anticipated events of the Semiquincentennial celebration from the bes
+ t seat in the harbor.\n\n*This event is offered at $295 per person and i
+ s reserved for members\, plus one registered guest age 21+. Complimentary 
+ light bites and refreshments will be served. Complimentary light bites an
+ d refreshments will be served. Please note that this event will take place
+  rain or shine. Valiant is partially covered\, and in the event of rough w
+ ater conditions\, the vessel will remain docked. Members will meet at Rowe
+ s Wharf Gate C\, located directly in front of the Boston Harbor Hotel. Pa
+ rking is available at the Boston Harbor Hotel.
+URL:https://members.thequinhouse.com/events/191172
 CATEGORIES:Member Mixer
 END:VEVENT
 BEGIN:VEVENT
