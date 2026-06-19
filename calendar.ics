@@ -262,7 +262,7 @@ DTSTART;TZID=America/New_York:20260623T170000
 DTEND;TZID=America/New_York:20260623T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 26 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 25 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  86697\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in an ambiant reserved space. This is your opportunity to connect with fe
@@ -476,7 +476,7 @@ DTEND;TZID=America/New_York:20260626T113000
 SUMMARY:Coffee & Conversation: Inclusion in a Divided World with Lord John 
  Mann 
 LOCATION:The Muse
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 36 spots lef
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 18 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  92120\n\n10:00AM Reception\, 10:30AM Discussion \nAs Boston comes togethe
  r with the global community this summer through events such as the FIFA Wo
@@ -507,23 +507,23 @@ DTSTART;TZID=America/New_York:20260626T150000
 DTEND;TZID=America/New_York:20260626T180000
 SUMMARY:'Quin Suite: World Cup France v. Norway
 LOCATION:Offsite: Gillette Stadium
-DESCRIPTION:Category: Sports & Games\nPrice: $3327.10 per person\nAvailabil
- ity: 5 spots left\nStatus: Available\nEvent URL: https://members.thequinho
- use.com/events/175300\n\nSecure your place in our private ’Quin Suite (#
- R9) at Gillette Stadium for one of the most anticipated matches of the FIF
- A World Cup.\n\nEnter through an exclusive suite entrance and take in ever
- y moment of the France vs. Norway showdown from reserved seats overlooking
-  the pitch. Throughout the match\, enjoy elevated hospitality with continu
- ous food and beverage service\, featuring a curated selection of dishes al
- ongside premium champagne\, wine\, beer\, spirits\, mocktails\, and soft d
- rinks. Scotland may be putting Boston's beer supply to the test\, but rest
-  assured - your glass will stay full in the ’Quin Suite.\n\nFrom the ele
- ctric energy of the crowd to the world-class action on the field\, this is
-  the World Cup experience at its finest—where unforgettable moments unfo
- ld from kickoff to the final whistle.\n\n*Suite tickets are offered at $3\
- ,560 per ticket and are available to members\, plus three guests age 16+. 
- Suite tickets are non-refundable and are non-transferable. Members are req
- uired to accompany their guest at all times.
+DESCRIPTION:Category: Sports & Games\nPrice: Free / Included\nStatus: Unava
+ ilable\nEvent URL: https://members.thequinhouse.com/events/175300\n\nSecur
+ e your place in our private ’Quin Suite (#R9) at Gillette Stadium for on
+ e of the most anticipated matches of the FIFA World Cup.\n\nEnter through 
+ an exclusive suite entrance and take in every moment of the France vs. Nor
+ way showdown from reserved seats overlooking the pitch. Throughout the mat
+ ch\, enjoy elevated hospitality with continuous food and beverage service\
+ , featuring a curated selection of dishes alongside premium champagne\, wi
+ ne\, beer\, spirits\, mocktails\, and soft drinks. Scotland may be putting
+  Boston's beer supply to the test\, but rest assured - your glass will sta
+ y full in the ’Quin Suite.\n\nFrom the electric energy of the crowd to t
+ he world-class action on the field\, this is the World Cup experience at i
+ ts finest—where unforgettable moments unfold from kickoff to the final w
+ histle.\n\n*Suite tickets are offered at $3\,560 per ticket and are availa
+ ble to members\, plus three guests age 16+. Suite tickets are non-refundab
+ le and are non-transferable. Members are required to accompany their guest
+  at all times.
 URL:https://members.thequinhouse.com/events/175300
 CATEGORIES:Sports & Games
 END:VEVENT
@@ -635,18 +635,18 @@ DTEND;TZID=America/New_York:20260629T210000
 SUMMARY:Serendipity Dinner 
 LOCATION:The Muse
 DESCRIPTION:Category: Member Mixer\nPrice: $100.00 per person\nAvailability
- : 13 spots left\nStatus: Available\nEvent URL: https://members.thequinhous
- e.com/events/188038\n\nJoin The ‘Quin House Senior Director of Culinary\
- , Jaron Dubinsky\, for an evening of meaningful connections over a thought
- fully curated three-course dinner. Enjoy expertly paired wines as you enga
- ge with fellow members\, guided by conversation prompts designed to inspir
- e deeper\, more memorable exchanges. This unique experience offers the per
- fect blend of great company\, engaging dialogue\, and a menu crafted to de
- light the senses.\n\n*Tickets are $100 per person and are reserved for mem
- bers only. Cancellations within 72 hours of the event\, or failure to atte
- nd\, will be charged in full. Please inform us of any dietary needs or res
- trictions by emailing happening@thequin.com at least 72 hours before dinne
- r service.
+ : 2 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
+ .com/events/188038\n\nJoin The ‘Quin House Senior Director of Culinary\,
+  Jaron Dubinsky\, for an evening of meaningful connections over a thoughtf
+ ully curated three-course dinner. Enjoy expertly paired wines as you engag
+ e with fellow members\, guided by conversation prompts designed to inspire
+  deeper\, more memorable exchanges. This unique experience offers the perf
+ ect blend of great company\, engaging dialogue\, and a menu crafted to del
+ ight the senses.\n\n*Tickets are $100 per person and are reserved for memb
+ ers only. Cancellations within 72 hours of the event\, or failure to atten
+ d\, will be charged in full. Please inform us of any dietary needs or rest
+ rictions by emailing happening@thequin.com at least 72 hours before dinner
+  service.
 URL:https://members.thequinhouse.com/events/188038
 CATEGORIES:Member Mixer
 END:VEVENT
@@ -657,7 +657,7 @@ DTSTART;TZID=America/New_York:20260630T170000
 DTEND;TZID=America/New_York:20260630T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 26 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 25 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  86698\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in an ambiant reserved space. This is your opportunity to connect with fe
@@ -957,7 +957,7 @@ DTSTART;TZID=America/New_York:20260714T170000
 DTEND;TZID=America/New_York:20260714T190000
 SUMMARY:Author Talk: "Man Made" with Karen Korellis Ruether
 LOCATION:The Muse
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 44 spots lef
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 37 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  91168\n\n5:00PM Reception\, 5:30PM Discussion\nWhat if the world around us
   wasn't designed with everyone in mind?\n\nJoin us for an illuminating con
