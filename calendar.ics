@@ -44,26 +44,6 @@ URL:https://members.thequinhouse.com/events/184860
 CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
-UID:quin-event-191159@thequinhouse.com
-DTSTAMP:20260621T113000Z
-DTSTART;VALUE=DATE:20260621
-DTEND;VALUE=DATE:20260622
-SUMMARY:Father's Day in The Pub 
-LOCATION:The Pub
-DESCRIPTION:Category: Holiday\nPrice: Free / Included\nStatus: Available\nT
- ime: 11:30 AM – 9 PM\nEvent URL: https://members.thequinhouse.com/events
- /191159\n\nWhen it comes to Father's Day\, the best celebrations are often
-  the ones that unfold around the table.\n\nThis Father's Day\, The Pub wil
- l feature a collection of crave-worthy specials—from Wagyu Pigs in a Bla
- nket and Loaded Fries to Buffalo Wings\, Fried Chicken Sliders\, and Fried
-  Fish Sliders—alongside the full Pub menu. Whether you're raising a glas
- s to the fathers\, grandfathers\, mentors\, or another father figure in yo
- ur life\, consider this your invitation to linger a little longer.\n\nClic
- k here to make a reservation.
-URL:https://members.thequinhouse.com/events/191159
-CATEGORIES:Holiday
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-190021@thequinhouse.com
 DTSTAMP:20260622T170000Z
 DTSTART;TZID=America/New_York:20260622T170000
@@ -461,27 +441,27 @@ DTEND;TZID=America/New_York:20260626T113000
 SUMMARY:Coffee & Conversation: Inclusion in a Divided World with Lord John 
  Mann 
 LOCATION:The Muse
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 10 spots lef
- t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
- 92120\n\n10:00AM Reception\, 10:30AM Discussion \nAs Boston comes togethe
- r with the global community this summer through events such as the FIFA Wo
- rld Cup and Tall Ships\, there is no better time to reflect on collective 
- inclusion and efforts to diminish discrimination.\n\nIn this special editi
- on of Coffee & Conversation\, join Lord John Mann\, the United Kingdom Gov
- ernment's Independent Adviser on Antisemitism\, and Colette Phillips\, Pre
- sident and CEO of Colette Phillips Communications and founder of Get Konne
- cted!\, for a timely discussion on inclusion\, discrimination\, and the ch
- allenges facing democratic societies today.\n\nLord Mann has led groundbre
- aking initiatives to combat hate in sport\, delivering educational program
- s to thousands across professional football clubs and creating recognized 
- Jewish Supporters Groups that promote inclusion and belonging. Drawing on 
- his experience in government\, sport\, and civil society\, Lord Mann will 
- offer valuable insights on building stronger and more resilient communitie
- s.\n\nTogether\, Lord Mann and Colette Phillips will explore how instituti
- ons\, communities\, and individuals can help build more inclusive societie
- s\, confront prejudice\, and foster meaningful dialogue in an increasingly
-  complex world.\n\n*This event is complimentary and reserved for members o
- nly. Light bites and refreshments will be served.
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 9 spots left
+ \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/19
+ 2120\n\n10:00AM Reception\, 10:30AM Discussion \nAs Boston comes together
+  with the global community this summer through events such as the FIFA Wor
+ ld Cup and Tall Ships\, there is no better time to reflect on collective i
+ nclusion and efforts to diminish discrimination.\n\nIn this special editio
+ n of Coffee & Conversation\, join Lord John Mann\, the United Kingdom Gove
+ rnment's Independent Adviser on Antisemitism\, and Colette Phillips\, Pres
+ ident and CEO of Colette Phillips Communications and founder of Get Konnec
+ ted!\, for a timely discussion on inclusion\, discrimination\, and the cha
+ llenges facing democratic societies today.\n\nLord Mann has led groundbrea
+ king initiatives to combat hate in sport\, delivering educational programs
+  to thousands across professional football clubs and creating recognized J
+ ewish Supporters Groups that promote inclusion and belonging. Drawing on h
+ is experience in government\, sport\, and civil society\, Lord Mann will o
+ ffer valuable insights on building stronger and more resilient communities
+ .\n\nTogether\, Lord Mann and Colette Phillips will explore how institutio
+ ns\, communities\, and individuals can help build more inclusive societies
+ \, confront prejudice\, and foster meaningful dialogue in an increasingly 
+ complex world.\n\n*This event is complimentary and reserved for members on
+ ly. Light bites and refreshments will be served.
 URL:https://members.thequinhouse.com/events/192120
 CATEGORIES:‘Quin Chat
 END:VEVENT
@@ -941,7 +921,7 @@ DTSTART;TZID=America/New_York:20260714T170000
 DTEND;TZID=America/New_York:20260714T190000
 SUMMARY:Author Talk: "Man Made" with Karen Korellis Reuther
 LOCATION:The Muse
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 28 spots lef
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 24 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  91168\n\n5:00PM Reception\, 5:30PM Discussion\nWhat if the world around us
   wasn't designed with everyone in mind?\n\nJoin us for an illuminating con
