@@ -24,39 +24,6 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:quin-event-191157@thequinhouse.com
-DTSTAMP:20260622T173000Z
-DTSTART;TZID=America/New_York:20260622T173000
-DTEND;TZID=America/New_York:20260622T190000
-SUMMARY:TEDxBoston: Visions of the Next 250 - A First Look
-LOCATION:The Reading Room
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free / Included\nStatus: You are
-  Confirmed\nEvent URL: https://members.thequinhouse.com/events/191157\n\n5
- :30PM Reception\, 6:00PM Discussion \nFor 250 years\, Massachusetts has b
- een a place where bold ideas take root. On June 22nd\, the evening before 
- the Visions of the Next 250 gathering at GBH\, we invite members to a priv
- ate preview in The Reading Room to explore a more challenging question: wh
- at will the next 250 years look like\, and who is shaping them?\n\nJohn We
- rner\, venture capitalist\, MIT lecturer\, and Forbes AI columnist\, will 
- interview four people working at the frontier of science\, medicine\, educ
- ation\, ethics\, and intelligence in the kind of off-the-record conversati
- on that needs fewer chairs to go deeper.\n\nTogether\, they will explore s
- ome of the defining questions of our time: where machine intelligence is h
- eaded and what it asks of us\; how wearable technology and data are transf
- orming our understanding of health\, resilience\, and human performance\; 
- how society can thoughtfully navigate the ethical challenges that accompan
- y powerful new technologies\; and how education and lifelong learning must
-  evolve to prepare future generations for a world increasingly shaped by i
- nnovation and artificial intelligence.\n\nSpeakers include:\n\nAlham Saada
- t - Executive Director\, The Innovation Trail of Greater Boston\nAlex Wiss
- ner-Gross - Investor & Entrepreneur\nEmily Capodilupo - Senior Vice Presid
- ent of Research\, Algorithms\, and Data\, WHOOP\nJoseph Aoun - President\,
-  Northeastern University\n\n*This event is complimentary and reserved for 
- members\, plus one guest. Light bites and refreshments will be served.
-URL:https://members.thequinhouse.com/events/191157
-CATEGORIES:‘Quin Chat
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-190012@thequinhouse.com
 DTSTAMP:20260623T150000Z
 DTSTART;VALUE=DATE:20260623
