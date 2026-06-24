@@ -24,36 +24,6 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:quin-event-190012@thequinhouse.com
-DTSTAMP:20260623T150000Z
-DTSTART;VALUE=DATE:20260623
-DTEND;VALUE=DATE:20260624
-SUMMARY:TEDxBoston: Visions of the Next 250
-LOCATION:Offsite: GBH Studios
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free / Included\nStatus: You are
-  on Waitlist\nTime: 3 PM – 7 PM\nEvent URL: https://members.thequinhouse
- .com/events/190012\n\nFor 250 years\, Massachusetts has produced the ideas
-  that shaped a nation: public education\, the telephone\, the first Americ
- an node of the World Wide Web. The next 250 begin now.\n\nAs part of the s
- tatewide Our America 250 initiative\, join us at GBH for a one-day gatheri
- ng on what comes next. Thirty speakers take the stage in interviews and ta
- lks\, mapping the forces that will define America's next chapter: artifici
- al intelligence\, the future of work\, energy and climate technology\, and
-  the reinvention of education.\n\nA preview of featured speakers:\n\nAndre
- w Lau - CEO of Jellyfish\nJoseph Aoun - President of Northeastern Universi
- ty and author of Robot-Proof\nLibby Wayman - Partner at Breakthrough Energ
- y Ventures\nNeil Thompson - Director of MIT FutureTech and Principal Inves
- tigator at MIT's Initiative on the Digital Economy\n\nCurated and moderate
- d by John Werner\, venture capitalist\, MIT lecturer\, and Forbes AI colum
- nist. Every talk is recorded as a living time capsule\, a message to the g
- enerations who will open it on the road to America's 500th.\n\nPlease look
-  forward to additional details regarding related Programming hosted at The
-  'Quin on June 22nd. More information to follow.\n\n*This event is complim
- entary and reserved for members\, plus one guest.
-URL:https://members.thequinhouse.com/events/190012
-CATEGORIES:‘Quin Chat
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-188062@thequinhouse.com
 DTSTAMP:20260624T170000Z
 DTSTART;TZID=America/New_York:20260624T170000
