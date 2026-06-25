@@ -68,47 +68,6 @@ URL:https://members.thequinhouse.com/events/166318
 CATEGORIES:Sports & Games
 END:VEVENT
 BEGIN:VEVENT
-UID:quin-event-176380@thequinhouse.com
-DTSTAMP:20260625T110000Z
-DTSTART;TZID=America/New_York:20260625T110000
-DTEND;TZID=America/New_York:20260625T120000
-SUMMARY:Art Tour: Celebrating LGBTQIA+ Artists
-LOCATION:Meet in The Lobby
-DESCRIPTION:Category: The Arts\nPrice: Free / Included\nStatus: unlimited\n
- Event URL: https://members.thequinhouse.com/events/176380\n\nIn celebratio
- n of June: Pride Month\, join The 'Quin's Art Curator Kate Chertavian for 
- a guided exploration of works by LGBTQIA+ artists featured in The ‘Quin�
- ��s permanent art collection. This in-depth tour will spark conversation a
- round what “the queering of art” means and feature powerful works by A
- ndy Warhol\, Jasper Johns\, Zanele Muholi\, Louise Bourgeois\, and more.\n
- \n*This event is complimentary and reserved for members only.
-URL:https://members.thequinhouse.com/events/176380
-CATEGORIES:The Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:quin-event-188040@thequinhouse.com
-DTSTAMP:20260625T120000Z
-DTSTART;TZID=America/New_York:20260625T120000
-DTEND;TZID=America/New_York:20260625T140000
-SUMMARY: Serendipity Lunch - Convening Curators
-LOCATION:Lunasol
-DESCRIPTION:Category: The Arts\nPrice: $68.00 per person\nAvailability: 1 s
- pot left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/e
- vents/188040\n\nContinuing the "Curated Connections" extension of the Sere
- ndipity series\, meet us for lunch convening members who identify as Crea
- tors. This month's commonality will inspire creatives to expand their hori
- zon with conversation led by a card deck of prompts\, and our Membership t
- eam. Curious? Set against the backdrop of lunch in Lunasol\, members will 
- enjoy getting to know one another over an engaging and wide-ranging conver
- sation while immersed in The 'Quin's most concentrated collection of art\,
-  and while enjoying a thoughtful lunch by the chef.\n\n*Tickets are $68 pe
- r person\, plus tax\, and are reserved for members only. Cancellations wit
- hin 48 hours of the event\, or failure to attend\, will be charged in full
-  to account for culinary preparations.
-URL:https://members.thequinhouse.com/events/188040
-CATEGORIES:The Arts
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-189486@thequinhouse.com
 DTSTAMP:20260625T170000Z
 DTSTART;TZID=America/New_York:20260625T170000
@@ -523,6 +482,29 @@ DESCRIPTION:Category: Member Mixer\nPrice: Free / Included\nStatus: unlimit
  t weather\, the gathering will move indoors to The Living Room.
 URL:https://members.thequinhouse.com/events/186839
 CATEGORIES:Member Mixer
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-192831@thequinhouse.com
+DTSTAMP:20260707T140000Z
+DTSTART;VALUE=DATE:20260707
+DTEND;VALUE=DATE:20260708
+SUMMARY:'Quin 5th Birthday: Cake & Champagne Celebration
+LOCATION:The Terrace
+DESCRIPTION:Category: Holiday\nPrice: Free / Included\nStatus: unlimited\nT
+ ime: 2 PM – 7 PM\nEvent URL: https://members.thequinhouse.com/events/192
+ 831\n\nLet‘s toast to The ‘Quin‘s fifth birthday! We invite all memb
+ ers to join us for a sweet treat and a glass of champagne on the ‘House 
+ in The Terrace. \n\nAs part of the celebration\, guests will also have th
+ e opportunity to experience our Summer Exhibition\, featuring works by Den
+ ise Matejic\, mother of The 'Quin Co-Founder Sandy Edgerley. The exhibitio
+ n showcases a collection of paintings and drawings by the artist\, whose w
+ ork is already familiar to many members through Tranquility after a Snowf
+ all\, prominently displayed on The ’Quin's Grand Staircase.\n\nHere's to
+  more years of meaningful connections and continuing our legacy together. 
+ Thank you for being such a vital part of our extraordinary community!\n\n*
+ This event is complimentary and reserved for members only.
+URL:https://members.thequinhouse.com/events/192831
+CATEGORIES:Holiday
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-176373@thequinhouse.com
