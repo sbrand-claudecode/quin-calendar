@@ -24,28 +24,6 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:quin-event-188062@thequinhouse.com
-DTSTAMP:20260624T170000Z
-DTSTART;TZID=America/New_York:20260624T170000
-DTEND;TZID=America/New_York:20260624T200000
-SUMMARY:Member Meet Up: Sunset Kayak
-LOCATION:Offsite: Paddle Boston
-DESCRIPTION:Category: Member Mixer\nPrice: Free / Included\nStatus: You are
-  Confirmed\nEvent URL: https://members.thequinhouse.com/events/188062\n\nJ
- oin fellow members for a relaxing sunset kayak along the scenic Charles Ri
- ver. Enjoy the great outdoors\, while connecting with fellow members\, and
-  taking in stunning views of the Boston skyline from a fresh vantage. Host
- ed by The 'Quin Membership Team\, please look forward to gathering on land
-  at 5:00PM at Paddle Boston for a casual mingle\, outfitting\, and a brief
-  orientation before getting on the water at 5:30PM. Kayaks will be provide
- d\, and all experience levels are welcome.\n\n*This event is complimentary
-  and reserved for member only. All attendees will be required to sign a wa
- iver prior to kayaking. This event is weather permitting\; a rain date wil
- l be offered if necessary.
-URL:https://members.thequinhouse.com/events/188062
-CATEGORIES:Member Mixer
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-192176@thequinhouse.com
 DTSTAMP:20260629T140000Z
 DTSTART;TZID=America/New_York:20260629T140000
