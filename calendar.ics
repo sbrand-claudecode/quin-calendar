@@ -68,37 +68,6 @@ URL:https://members.thequinhouse.com/events/166318
 CATEGORIES:Sports & Games
 END:VEVENT
 BEGIN:VEVENT
-UID:quin-event-189486@thequinhouse.com
-DTSTAMP:20260625T170000Z
-DTSTART;TZID=America/New_York:20260625T170000
-DTEND;TZID=America/New_York:20260625T183000
-SUMMARY:Meet the Maker: Rhonda Kallman from Boston Harbor Distillery
-LOCATION:Scottie's
-DESCRIPTION:Category: Food & Beverage\nPrice: Free / Included\nStatus: unli
- mited\nEvent URL: https://members.thequinhouse.com/events/189486\n\nJoin u
- s for a spirited evening celebrating 250 years of Massachusetts in partner
- ship with Boston Harbor Distillery. Led by founder Rhonda Kallman\, this r
- eception-style Meet the Maker invites members to explore the stories\, cra
- ftsmanship\, and local history woven into one of Boston’s most distincti
- ve distilleries—where every detail\, from the spirits themselves to the 
- names on the bottles\, reflects a deep connection to place.\n\nA pioneerin
- g force in the craft beverage industry\, Rhonda Kallman has spent decades 
- shaping the future of American brewing and distilling. Her passion for whi
- skey\, storytelling\, and craftsmanship is at the heart of Boston Harbor D
- istillery’s approach: honoring history while redefining what modern Amer
- ican spirits can be.\n\nGuided by Rhonda\, members will have the first opp
- ortunity to taste an exclusive selections from Boston Harbor Distillery in
- cluding: Putnam Single Malt Whiskey & Rye Expressions\, Demon Seed Whiskey
-  and featuring American 250 Custom Malt Whiskey\, of which only one barrel
-  was produced. Set within the legacy of a restored 19th-century waterfront
-  mill building in Dorchester\, the distillery has become a modern landmark
-  of American craft spirits—equal parts innovation\, heritage\, and unapo
- logetic Boston character.\n\n*This event is complimentary and reserved for
-  members only. Complimentary light bites will be served.
-URL:https://members.thequinhouse.com/events/189486
-CATEGORIES:Food & Beverage
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-189617@thequinhouse.com
 DTSTAMP:20260625T220000Z
 DTSTART;TZID=America/New_York:20260625T220000
@@ -304,7 +273,7 @@ DTSTART;TZID=America/New_York:20260630T170000
 DTEND;TZID=America/New_York:20260630T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 20 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 19 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  86698\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in an ambiant reserved space. This is your opportunity to connect with fe
@@ -626,25 +595,25 @@ DTSTART;TZID=America/New_York:20260714T170000
 DTEND;TZID=America/New_York:20260714T190000
 SUMMARY:Author Talk: "Man Made" with Karen Korellis Reuther
 LOCATION:The Muse
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 10 spots lef
- t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
- 91168\n\n5:00PM Reception\, 5:30PM Discussion\nWhat if the world around us
-  wasn't designed with everyone in mind?\n\nJoin us for an illuminating con
- versation with Karen Korellis Reuther - designer\, educator\, inclusion ad
- vocate\, and author of the forthcoming book MAN-MADE: How We Designed a Wo
- rld That Leaves Women Out\, and How We Can Make It Right. Drawing on more 
- than four decades of experience\, including leadership roles at Nike and R
- eebok and her current work at Harvard's Graduate School of Design\, Karen 
- explores the hidden ways gender bias has been built into the products\, sy
- stems\, and spaces we encounter every day.\n\nFrom personal protective equ
- ipment and athletic footwear to healthcare\, transportation\, and public i
- nfrastructure\, MAN-MADE reveals how design decisions rooted in a male def
- ault continue to shape women's experiences\, often with profound consequen
- ces. Through compelling research\, real-world examples\, and a forward-loo
- king vision for change\, Karen invites us to reconsider the world we have 
- inherited - and imagine one designed for everyone.\n\n*This event is compl
- imentary and reserved for members only. Light bites and refreshments will 
- be served.
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 7 spots left
+ \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/19
+ 1168\n\n5:00PM Reception\, 5:30PM Discussion\nWhat if the world around us 
+ wasn't designed with everyone in mind?\n\nJoin us for an illuminating conv
+ ersation with Karen Korellis Reuther - designer\, educator\, inclusion adv
+ ocate\, and author of the forthcoming book MAN-MADE: How We Designed a Wor
+ ld That Leaves Women Out\, and How We Can Make It Right. Drawing on more t
+ han four decades of experience\, including leadership roles at Nike and Re
+ ebok and her current work at Harvard's Graduate School of Design\, Karen e
+ xplores the hidden ways gender bias has been built into the products\, sys
+ tems\, and spaces we encounter every day.\n\nFrom personal protective equi
+ pment and athletic footwear to healthcare\, transportation\, and public in
+ frastructure\, MAN-MADE reveals how design decisions rooted in a male defa
+ ult continue to shape women's experiences\, often with profound consequenc
+ es. Through compelling research\, real-world examples\, and a forward-look
+ ing vision for change\, Karen invites us to reconsider the world we have i
+ nherited - and imagine one designed for everyone.\n\n*This event is compli
+ mentary and reserved for members only. Light bites and refreshments will b
+ e served.
 URL:https://members.thequinhouse.com/events/191168
 CATEGORIES:‘Quin Chat
 END:VEVENT
