@@ -44,74 +44,6 @@ URL:https://members.thequinhouse.com/events/184860
 CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
-UID:quin-event-166318@thequinhouse.com
-DTSTAMP:20260623T160000Z
-DTSTART;VALUE=DATE:20260623
-DTEND;VALUE=DATE:20260627
-SUMMARY:'Quin Suite: World Cup England v. Ghana 
-LOCATION:Offsite: Gillette Stadium
-DESCRIPTION:Category: Sports & Games\nPrice: Free / Included\nStatus: Waitl
- ist Only\nTime: 4 PM – 7 PM\nEvent URL: https://members.thequinhouse.com
- /events/166318\n\nClaim your place in a private ’Quin Suite (#B31) at Gi
- llette Stadium for the highly anticipated England v. Ghana World Cup match
- up. Enter through a dedicated suite entrance and settle into reserved seat
- ing with sweeping views of the pitch\, all while enjoying continuous food 
- and beverage service throughout the match. A curated assortment of preset 
- dishes showcases local culinary talent\, complemented by premium champagne
- \, wine\, beer\, spirits\, mocktails\, and soft drinks. World-class footba
- ll\, elevated hospitality\, and an atmosphere that delivers from kickoff t
- o final whistle - game on.\n\n*Suite tickets are offered at $3\,150 per ti
- cket and are available to members\, plus one guest age 16+. Suite tickets 
- are non-refundable and are non-transferable. Members are required to accom
- pany their guest at all times.
-URL:https://members.thequinhouse.com/events/166318
-CATEGORIES:Sports & Games
-END:VEVENT
-BEGIN:VEVENT
-UID:quin-event-175300@thequinhouse.com
-DTSTAMP:20260626T150000Z
-DTSTART;TZID=America/New_York:20260626T150000
-DTEND;TZID=America/New_York:20260626T180000
-SUMMARY:'Quin Suite: World Cup France v. Norway
-LOCATION:Offsite: Gillette Stadium
-DESCRIPTION:Category: Sports & Games\nPrice: Free / Included\nStatus: Waitl
- ist Only\nEvent URL: https://members.thequinhouse.com/events/175300\n\nSec
- ure your place in our private ’Quin Suite (#R9) at Gillette Stadium for 
- one of the most anticipated matches of the FIFA World Cup.\n\nEnter throug
- h an exclusive suite entrance and take in every moment of the France vs. N
- orway showdown from reserved seats overlooking the pitch. Throughout the m
- atch\, enjoy elevated hospitality with continuous food and beverage servic
- e\, featuring a curated selection of dishes alongside premium champagne\, 
- wine\, beer\, spirits\, mocktails\, and soft drinks. Scotland may be putti
- ng Boston's beer supply to the test\, but rest assured - your glass will s
- tay full in the ’Quin Suite.\n\nFrom the electric energy of the crowd to
-  the world-class action on the field\, this is the World Cup experience at
-  its finest—where unforgettable moments unfold from kickoff to the final
-  whistle.\n\n*Suite tickets are offered at $3\,560 per ticket and are avai
- lable to members\, plus three guests age 16+. Suite tickets are non-refund
- able and are non-transferable. Members are required to accompany their gue
- st at all times.
-URL:https://members.thequinhouse.com/events/175300
-CATEGORIES:Sports & Games
-END:VEVENT
-BEGIN:VEVENT
-UID:quin-event-189618@thequinhouse.com
-DTSTAMP:20260626T150000Z
-DTSTART;TZID=America/New_York:20260626T150000
-DTEND;TZID=America/New_York:20260626T170000
-SUMMARY:World Cup Watch Party: France vs. Norway 
-LOCATION:The Pub
-DESCRIPTION:Category: Sports & Games\nPrice: Free / Included\nStatus: Avail
- able\nEvent URL: https://members.thequinhouse.com/events/189618\n\nAll eye
- s on the pitch as the France faces off against Norway in a high-stakes
-  World Cup group stage match. Settle in with the best seats in the house�
- �every screen aglow\, the energy palpable\, and the Pub pouring all night 
- long. A full lineup of fan favorites will be on offer\, best enjoyed along
- side a perfectly timed pint.\n\n*Reservations not required.
-URL:https://members.thequinhouse.com/events/189618
-CATEGORIES:Sports & Games
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-189606@thequinhouse.com
 DTSTAMP:20260626T200000Z
 DTSTART;TZID=America/New_York:20260626T200000
@@ -223,19 +155,19 @@ DTSTART;TZID=America/New_York:20260630T170000
 DTEND;TZID=America/New_York:20260630T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 19 spots lef
- t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
- 86698\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
-  in an ambiant reserved space. This is your opportunity to connect with fe
- llow members\, exchange ideas\, and cultivate meaningful relationships.\n\
- nWhether you're sparking new collaborations\, sharing insights\, or simply
-  enjoying great conversation\, the Member Mingle is the perfect way to eng
- age with our dynamic community. Don’t miss the chance to connect\, inspi
- re\, and be inspired!\n\n*This event is complimentary and reserved for mem
- bers only. Complimentary light bites will be served\, and beverages will b
- e available for purchase.
+DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
+ e\nAvailability: 18 spots left\nStatus: Available\nEvent URL: https://memb
+ ers.thequinhouse.com/events/186698\n\nJoin us for our weekly Member Mingle
+ \, an inclusive gathering set in an ambiant reserved space. This is your o
+ pportunity to connect with fellow members\, exchange ideas\, and cultivate
+  meaningful relationships.\n\nWhether you're sparking new collaborations\,
+  sharing insights\, or simply enjoying great conversation\, the Member Min
+ gle is the perfect way to engage with our dynamic community. Don’t miss 
+ the chance to connect\, inspire\, and be inspired!\n\n*This event is compl
+ imentary and reserved for members only. Complimentary light bites will be 
+ served\, and beverages will be available for purchase.
 URL:https://members.thequinhouse.com/events/186698
-CATEGORIES:Member Mixer
+CATEGORIES:Member Mixer,Survey - Membership Mingle
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-191160@thequinhouse.com
