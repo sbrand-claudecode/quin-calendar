@@ -44,48 +44,6 @@ URL:https://members.thequinhouse.com/events/184860
 CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
-UID:quin-event-188314@thequinhouse.com
-DTSTAMP:20260627T100000Z
-DTSTART;TZID=America/New_York:20260627T100000
-DTEND;TZID=America/New_York:20260627T113000
-SUMMARY:The Drawing Lab with Deb Putnoi: Session VI
-LOCATION:The Muse
-DESCRIPTION:Category: The Arts\nPrice: Free\nStatus: soldOut\nEvent URL: ht
- tps://members.thequinhouse.com/events/188314\n\nSaturdays: February 28\, M
- arch 28\, April 25\, May 30 & June 27 | 10:00AM The Terrace & The Muse\nJo
- in us for The Drawing Lab\, a six class immersive drawing course led by ar
- tist and educator Deb Putnoi\, exploring the method as a practice of mindf
- ulness\, observation\, and self-expression. Open to all experience levels\
- , this course invites members to discover their unique visual voice throug
- h guided exercises\, sensory awareness\, and creative connection.\n\nMeet 
- likeminded members on reoccurring Saturdays over coffee and light bites wh
- ile experimenting with a range of materials and methods\, drawing inspirat
- ion from one another and The ’Quin Collection. Registration includes com
- mitment to participate in all six sessions.\n\n*This six-month course is r
- eserved for members only. The $120 per person fee includes all materials n
- eeded for the duration of the program. Please note that registration for t
- his course is final and non-cancelable\, and may not be transferred.
-URL:https://members.thequinhouse.com/events/188314
-CATEGORIES:The Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:quin-event-181403@thequinhouse.com
-DTSTAMP:20260627T113000Z
-DTSTART;TZID=America/New_York:20260627T113000
-DTEND;TZID=America/New_York:20260627T143000
-SUMMARY:Jazz Brunch
-LOCATION:Café Q
-DESCRIPTION:Category: Food & Beverage\nPrice: Free / Included\nStatus: Avai
- lable\nEvent URL: https://members.thequinhouse.com/events/181403\n\nReserv
- ations from 10:30AM - 3:00PM | Live Music from 11:30AM - 2:30PM\nRise\, sh
- ine and come hungry for Café Q's á la carte weekend brunch menu featurin
- g tableside entertainment by a Jazz duo. Following the club's usual policy
- \, children ages 6+ are welcome to attend when accompanied by a parent.\n\
- nMake a Reservation.
-URL:https://members.thequinhouse.com/events/181403
-CATEGORIES:Food & Beverage
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-192176@thequinhouse.com
 DTSTAMP:20260629T140000Z
 DTSTART;TZID=America/New_York:20260629T140000
@@ -139,7 +97,7 @@ DTEND;TZID=America/New_York:20260630T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 18 spots left\nStatus: Available\nEvent URL: https://memb
+ e\nAvailability: 17 spots left\nStatus: Available\nEvent URL: https://memb
  ers.thequinhouse.com/events/186698\n\nJoin us for our weekly Member Mingle
  \, an inclusive gathering set in an ambiant reserved space. This is your o
  pportunity to connect with fellow members\, exchange ideas\, and cultivate
