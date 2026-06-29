@@ -47,4 +47,70 @@ DESCRIPTION:Category: The Arts\nPrice: Free / Included\nStatus: You are on
 URL:https://members.thequinhouse.com/events/192176
 CATEGORIES:The Arts
 END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-192823@thequinhouse.com
+DTSTAMP:20260718T160000Z
+DTSTART;TZID=America/New_York:20260718T160000
+DTEND;TZID=America/New_York:20260718T173000
+SUMMARY:An Evening with Martini Master Alessandro Palazzi
+LOCATION:The Reading Room
+DESCRIPTION:Category: Food & Beverage\nPrice: Free / Included\nStatus: You 
+ are Confirmed\nEvent URL: https://members.thequinhouse.com/events/192823\n
+ \nThere are bartenders\, and then there are bartenders whose names have be
+ come synonymous with an institution. Alessandro Palazzi belongs firmly in 
+ the latter category. The celebrated Italian mixologist has spent years sha
+ ping the cocktail culture of London's legendary Duke's Bar\, where his met
+ iculous approach to hospitality and his famously cold martinis have earned
+  him a devoted international following.\n\nKnown for his effortless charm\
+ , encyclopedic knowledge of spirits\, and flair for storytelling\, Alessan
+ dro has elevated the martini from a simple cocktail to a memorable ritual.
+  His tableside preparation has become one of London's most sought-after ex
+ periences\, drawing discerning travelers\, industry leaders\, and cocktail
+  enthusiasts from around the world.\n\nThe 'Quin House is delighted to wel
+ come Alessandro for a rare Boston appearance on Saturday\, July 18th and a
+ gain\, on Saturday July 25th. Members will have the opportunity to learn f
+ irsthand what separates a good cocktail from a truly exceptional one durin
+ g an intimate masterclass covering technique\, history\, and the finer poi
+ nts of martini-making\, presented in partnership with Procera Gin\, the aw
+ ard-winning Nairobi-based spirit crafted with fresh African juniper and ce
+ lebrated for redefining luxury gin through exceptional African botanicals 
+ and craftsmanship.\n\nFollowing this class\, Alessandro will take over The
+  Reading Room for the evening\, where all members can enjoy the comforts o
+ f the Reading Room and martinis crafted by one of the hospitality world's 
+ most respected figures.\n\n*This event is offered at $100 per member and i
+ s reserved for members only. Light bites and refreshments will be served.
+URL:https://members.thequinhouse.com/events/192823
+CATEGORIES:Food & Beverage
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-192746@thequinhouse.com
+DTSTAMP:20260722T173000Z
+DTSTART;TZID=America/New_York:20260722T173000
+DTEND;TZID=America/New_York:20260722T190000
+SUMMARY:'Quin Chat: The Decisions That Changed the World
+LOCATION:Scottie's
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free / Included\nStatus: You are
+  Confirmed\nEvent URL: https://members.thequinhouse.com/events/192746\n\n5
+ :30PM Reception\, 6:00PM Discussion \nAs the United States celebrates its
+  250th anniversary\, join us for a timely conversation examining the decis
+ ions that have shaped America's role in the world. Drawing on a landmark 2
+ 026 survey conducted by the Council on Foreign Relations and the Society f
+ or Historians of American Foreign Relations\, James M. Lindsay\, distingui
+ shed senior fellow at the Council on Foreign Relations\, will be joined by
+  Mary Yntema\, past President & CEO of WorldBoston\, a World Affairs Counc
+ il\, and governance and strategy consultant\, to explore the ten most cons
+ equential successes—and failures—in U.S. foreign policy since the nati
+ on's founding.\n\nThrough the lenses of history\, strategy\, and democrati
+ c values\, this discussion will consider what these pivotal choices reveal
+  about American leadership\, global engagement\, and the challenges that l
+ ie ahead. At a moment when the international order is once again being red
+ efined\, this promises to be a thought-provoking exploration of how the pa
+ st informs the future.\n\nMembers will also receive a copy of the survey's
+  foreign policy scorecard\, providing an opportunity to weigh in on the ra
+ nkings and continue the conversation with fellow attendees following the d
+ iscussion.\n\n*This event is complimentary and reserved for members\, plus
+  one guest. Light bites and refreshments will be served.
+URL:https://members.thequinhouse.com/events/192746
+CATEGORIES:‘Quin Chat
+END:VEVENT
 END:VCALENDAR
