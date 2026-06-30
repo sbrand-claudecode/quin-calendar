@@ -44,52 +44,6 @@ URL:https://members.thequinhouse.com/events/184860
 CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
-UID:quin-event-192176@thequinhouse.com
-DTSTAMP:20260629T140000Z
-DTSTART;TZID=America/New_York:20260629T140000
-DTEND;TZID=America/New_York:20260629T154500
-SUMMARY:Revolutionary Spaces: The Road to 250 
-LOCATION:Offsite: Revolutionary Spaces
-DESCRIPTION:Category: The Arts\nPrice: Free / Included\nStatus: You are on 
- Waitlist\nEvent URL: https://members.thequinhouse.com/events/192176\n\nIn 
- anticipation of America's 250th anniversary\, members are invited to exper
- ience Boston's revolutionary history through an exclusive guided tour host
- ed by Revolutionary Spaces. The afternoon will begin with a welcome and in
- troduction from President and CEO Dr. Nathaniel Sheidley before exploring 
- some of the city's most significant historic landmarks\, including the Old
-  State House and Old South Meeting House.\n\nAlong the way\, members will 
- gain deeper insight into the events\, people\, and ideas that shaped the n
- ation's founding through guided access to permanent exhibitions and histor
- ic spaces. The experience will conclude with rare private access to the Ol
- d State House Clock Tower and Old South Meeting House Clock Tower\, offeri
- ng a unique perspective on two of Boston's most iconic landmarks.\n\n*This
-  event is complimentary and reserved for members only.
-URL:https://members.thequinhouse.com/events/192176
-CATEGORIES:The Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:quin-event-188038@thequinhouse.com
-DTSTAMP:20260629T183000Z
-DTSTART;TZID=America/New_York:20260629T183000
-DTEND;TZID=America/New_York:20260629T210000
-SUMMARY:Serendipity Dinner 
-LOCATION:The Muse
-DESCRIPTION:Category: Member Mixer\nPrice: Free / Included\nStatus: Waitlis
- t Only\nEvent URL: https://members.thequinhouse.com/events/188038\n\nJoin 
- The ‘Quin House Senior Director of Culinary\, Jaron Dubinsky\, for an ev
- ening of meaningful connections over a thoughtfully curated three-course d
- inner. Enjoy expertly paired wines as you engage with fellow members\, gui
- ded by conversation prompts designed to inspire deeper\, more memorable ex
- changes. This unique experience offers the perfect blend of great company\
- , engaging dialogue\, and a menu crafted to delight the senses.\n\n*Ticket
- s are $100 per person and are reserved for members only. Cancellations wit
- hin 72 hours of the event\, or failure to attend\, will be charged in full
- . Please inform us of any dietary needs or restrictions by emailing happen
- ing@thequin.com at least 72 hours before dinner service.
-URL:https://members.thequinhouse.com/events/188038
-CATEGORIES:Member Mixer
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-186698@thequinhouse.com
 DTSTAMP:20260630T170000Z
 DTSTART;TZID=America/New_York:20260630T170000
@@ -97,7 +51,7 @@ DTEND;TZID=America/New_York:20260630T190000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 15 spots left\nStatus: Available\nEvent URL: https://memb
+ e\nAvailability: 13 spots left\nStatus: Available\nEvent URL: https://memb
  ers.thequinhouse.com/events/186698\n\nJoin us for our weekly Member Mingle
  \, an inclusive gathering set in an ambiant reserved space. This is your o
  pportunity to connect with fellow members\, exchange ideas\, and cultivate
@@ -504,7 +458,9 @@ DESCRIPTION:Category: Food & Beverage\nPrice: Free / Included\nStatus: You
   Reading Room for the evening\, where all members can enjoy the comforts o
  f the Reading Room and martinis crafted by one of the hospitality world's 
  most respected figures.\n\n*This event is offered at $100 per member and i
- s reserved for members only. Light bites and refreshments will be served.
+ s reserved for members only. Cancellations made within 48 hours of the eve
+ nt\, or failure to attend\, will result in a full charge. Light bites and 
+ refreshments will be served.
 URL:https://members.thequinhouse.com/events/192823
 CATEGORIES:Food & Beverage
 END:VEVENT
@@ -608,7 +564,9 @@ DESCRIPTION:Category: Food & Beverage\nPrice: Free / Included\nStatus: Wait
  ding Room for the evening\, where all members can enjoy the comforts of th
  e Reading Room and martinis crafted by one of the hospitality world's most
   respected figures.\n\n*This event is offered at $100 per member and is re
- served for members only. Light bites and refreshments will be served.
+ served for members only. Cancellations made within 48 hours of the event\,
+  or failure to attend\, will result in a full charge. Light bites and refr
+ eshments will be served.
 URL:https://members.thequinhouse.com/events/192824
 CATEGORIES:Food & Beverage
 END:VEVENT

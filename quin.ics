@@ -24,30 +24,6 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:quin-event-192176@thequinhouse.com
-DTSTAMP:20260629T140000Z
-DTSTART;TZID=America/New_York:20260629T140000
-DTEND;TZID=America/New_York:20260629T154500
-SUMMARY:Revolutionary Spaces: The Road to 250 
-LOCATION:Offsite: Revolutionary Spaces
-DESCRIPTION:Category: The Arts\nPrice: Free / Included\nStatus: You are on 
- Waitlist\nEvent URL: https://members.thequinhouse.com/events/192176\n\nIn 
- anticipation of America's 250th anniversary\, members are invited to exper
- ience Boston's revolutionary history through an exclusive guided tour host
- ed by Revolutionary Spaces. The afternoon will begin with a welcome and in
- troduction from President and CEO Dr. Nathaniel Sheidley before exploring 
- some of the city's most significant historic landmarks\, including the Old
-  State House and Old South Meeting House.\n\nAlong the way\, members will 
- gain deeper insight into the events\, people\, and ideas that shaped the n
- ation's founding through guided access to permanent exhibitions and histor
- ic spaces. The experience will conclude with rare private access to the Ol
- d State House Clock Tower and Old South Meeting House Clock Tower\, offeri
- ng a unique perspective on two of Boston's most iconic landmarks.\n\n*This
-  event is complimentary and reserved for members only.
-URL:https://members.thequinhouse.com/events/192176
-CATEGORIES:The Arts
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-192823@thequinhouse.com
 DTSTAMP:20260718T160000Z
 DTSTART;TZID=America/New_York:20260718T160000
@@ -78,7 +54,9 @@ DESCRIPTION:Category: Food & Beverage\nPrice: Free / Included\nStatus: You
   Reading Room for the evening\, where all members can enjoy the comforts o
  f the Reading Room and martinis crafted by one of the hospitality world's 
  most respected figures.\n\n*This event is offered at $100 per member and i
- s reserved for members only. Light bites and refreshments will be served.
+ s reserved for members only. Cancellations made within 48 hours of the eve
+ nt\, or failure to attend\, will result in a full charge. Light bites and 
+ refreshments will be served.
 URL:https://members.thequinhouse.com/events/192823
 CATEGORIES:Food & Beverage
 END:VEVENT
