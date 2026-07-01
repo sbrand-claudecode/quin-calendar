@@ -223,6 +223,23 @@ URL:https://members.thequinhouse.com/events/191166
 CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
+UID:quin-event-194381@thequinhouse.com
+DTSTAMP:20260709T160000Z
+DTSTART;TZID=America/New_York:20260709T160000
+DTEND;TZID=America/New_York:20260709T180000
+SUMMARY:Watch Party: World Cup Quarterfinal 
+LOCATION:The Pub
+DESCRIPTION:Category: Sports & Games\nPrice: Free / Included\nStatus: Avail
+ able\nEvent URL: https://members.thequinhouse.com/events/194381\n\nAll eye
+ s on the pitch for the World Cup Quarterfinal match. Settle in with the 
+ best seats in the house—every screen aglow\, the energy palpable\, and t
+ he Pub pouring all night long. A full lineup of fan favorites will be on o
+ ffer\, best enjoyed alongside a perfectly timed pint.\n\n*Reservations not
+  required.
+URL:https://members.thequinhouse.com/events/194381
+CATEGORIES:Sports & Games
+END:VEVENT
+BEGIN:VEVENT
 UID:quin-event-180149@thequinhouse.com
 DTSTAMP:20260710T183000Z
 DTSTART;TZID=America/New_York:20260710T183000
@@ -406,6 +423,56 @@ URL:https://members.thequinhouse.com/events/189619
 CATEGORIES:Sports & Games
 END:VEVENT
 BEGIN:VEVENT
+UID:quin-event-192033@thequinhouse.com
+DTSTAMP:20260720T104500Z
+DTSTART;TZID=America/New_York:20260720T104500
+DTEND;TZID=America/New_York:20260720T123000
+SUMMARY:Hands on Impact: Women's Lunch Place | Session I
+LOCATION:Offsite: Women's Lunch Place
+DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nAvailability: 3 spo
+ ts left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/ev
+ ents/192033\n\nJoin fellow members for a meaningful day of service at Wome
+ n's Lunch Place\, a safe and welcoming daytime shelter and advocacy center
+  supporting women experiencing hunger\, homelessness\, and poverty. Volunt
+ eers will assist in the organization's kitchen\, helping prepare and serve
+  nutritious meals while supporting daily operations that make a direct imp
+ act on guests' lives.\n\nVolunteer activities may include meal preparation
+ \, kitchen organization\, unpacking deliveries\, preparing to-go meals\, a
+ nd other essential tasks. This opportunity offers a unique chance to learn
+  more about Women's Lunch Place\, connect with staff and guests\, and cont
+ ribute to an organization centered on dignity\, hope\, and healing.\n\n*Th
+ is event is complimentary and reserved for members only. Please wear close
+ d-toe shoes\, long pants\, and a shirt with sleeves. Hair must be pulled b
+ ack and covered with a hat or hairnet (provided on-site if needed).
+URL:https://members.thequinhouse.com/events/192033
+CATEGORIES:‘Quin Impact Fund
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-192034@thequinhouse.com
+DTSTAMP:20260720T121500Z
+DTSTART;TZID=America/New_York:20260720T121500
+DTEND;TZID=America/New_York:20260720T143000
+SUMMARY:Hands on Impact: Women's Lunch Place | Session II
+LOCATION:Offsite: Women's Lunch Place
+DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nAvailability: 4 spo
+ ts left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/ev
+ ents/192034\n\nJoin fellow members for a meaningful day of service at Wome
+ n's Lunch Place\, a safe and welcoming daytime shelter and advocacy center
+  supporting women experiencing hunger\, homelessness\, and poverty. Volunt
+ eers will assist in the organization's kitchen\, helping prepare and serve
+  nutritious meals while supporting daily operations that make a direct imp
+ act on guests' lives.\n\nVolunteer activities may include meal preparation
+ \, kitchen organization\, unpacking deliveries\, preparing to-go meals\, a
+ nd other essential tasks. This opportunity offers a unique chance to learn
+  more about Women's Lunch Place\, connect with staff and guests\, and cont
+ ribute to an organization centered on dignity\, hope\, and healing.\n\n*Th
+ is event is complimentary and reserved for members only. Please wear close
+ d-toe shoes\, long pants\, and a shirt with sleeves. Hair must be pulled b
+ ack and covered with a hat or hairnet (provided on-site if needed).
+URL:https://members.thequinhouse.com/events/192034
+CATEGORIES:‘Quin Impact Fund
+END:VEVENT
+BEGIN:VEVENT
 UID:quin-event-192746@thequinhouse.com
 DTSTAMP:20260722T173000Z
 DTSTART;TZID=America/New_York:20260722T173000
@@ -493,6 +560,29 @@ DESCRIPTION:Category: Food & Beverage\nPrice: Free / Included\nStatus: Wait
  eshments will be served.
 URL:https://members.thequinhouse.com/events/192824
 CATEGORIES:Food & Beverage
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-190268@thequinhouse.com
+DTSTAMP:20260728T173000Z
+DTSTART;TZID=America/New_York:20260728T173000
+DTEND;TZID=America/New_York:20260728T190000
+SUMMARY: Gather to Give: Equity & Opportunity Grant Reception
+LOCATION:The Muse
+DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nAvailability: 3 spo
+ ts left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/ev
+ ents/190268\n\n5:30PM Reception\, 6:00PM Ceremony\nJoin us for an inspirin
+ g evening celebrating the exceptional local recipients of this year's Equi
+ ty & Opportunity pillar grants\, awarded through The ’Quin Impact Fund a
+ nd made possible by the generosity of our members.\n\nThis event will hono
+ r organizations that are expanding access to education\, economic mobility
+ \, workforce development\, and essential resources—helping to create pat
+ hways to opportunity and strengthen communities across Greater Boston. Gue
+ sts will have the opportunity to hear from and connect with leaders drivin
+ g meaningful change\, learn more about their work\, and discover ways to s
+ upport their missions.\n\n*This complimentary event is reserved for member
+ s only. Light refreshments will be served.
+URL:https://members.thequinhouse.com/events/190268
+CATEGORIES:‘Quin Impact Fund
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-180152@thequinhouse.com
