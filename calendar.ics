@@ -24,25 +24,6 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:quin-event-190248@thequinhouse.com
-DTSTAMP:20260701T180000Z
-DTSTART;TZID=America/New_York:20260701T180000
-DTEND;TZID=America/New_York:20260701T210000
-SUMMARY:Live Music: Samuel Batista 
-LOCATION:The Reading Room
-DESCRIPTION:Category: The Arts\nPrice: Free / Included\nStatus: Available\n
- Event URL: https://members.thequinhouse.com/events/190248\n\nJoin us for a
- n unforgettable evening with a quartet or performers\, led by Panamanian 
- saxophonist and composer Samuel Batista. Joined by piano\, drums and bass\
- , this dynamic trio seamlessly blends jazz with rich cultural influences. 
- Grab a signature cocktail from the Little Bar\, settle into the Reading Ro
- om\, and let their captivating music transport you on a journey through ja
- zz and heritage.\n\n*Reservations are not required. Please note that seati
- ng is first come\, first served.
-URL:https://members.thequinhouse.com/events/190248
-CATEGORIES:The Arts
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-183090@thequinhouse.com
 DTSTAMP:20260704T150000Z
 DTSTART;VALUE=DATE:20260704
@@ -429,21 +410,21 @@ DTSTART;TZID=America/New_York:20260720T104500
 DTEND;TZID=America/New_York:20260720T123000
 SUMMARY:Hands on Impact: Women's Lunch Place | Session I
 LOCATION:Offsite: Women's Lunch Place
-DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nAvailability: 3 spo
- ts left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/ev
- ents/192033\n\nJoin fellow members for a meaningful day of service at Wome
- n's Lunch Place\, a safe and welcoming daytime shelter and advocacy center
-  supporting women experiencing hunger\, homelessness\, and poverty. Volunt
- eers will assist in the organization's kitchen\, helping prepare and serve
-  nutritious meals while supporting daily operations that make a direct imp
- act on guests' lives.\n\nVolunteer activities may include meal preparation
- \, kitchen organization\, unpacking deliveries\, preparing to-go meals\, a
- nd other essential tasks. This opportunity offers a unique chance to learn
-  more about Women's Lunch Place\, connect with staff and guests\, and cont
- ribute to an organization centered on dignity\, hope\, and healing.\n\n*Th
- is event is complimentary and reserved for members only. Please wear close
- d-toe shoes\, long pants\, and a shirt with sleeves. Hair must be pulled b
- ack and covered with a hat or hairnet (provided on-site if needed).
+DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free / Included\nStatus: 
+ unlimited\nEvent URL: https://members.thequinhouse.com/events/192033\n\nJo
+ in fellow members for a meaningful day of service at Women's Lunch Place\,
+  a safe and welcoming daytime shelter and advocacy center supporting women
+  experiencing hunger\, homelessness\, and poverty. Volunteers will assist 
+ in the organization's kitchen\, helping prepare and serve nutritious meals
+  while supporting daily operations that make a direct impact on guests' li
+ ves.\n\nVolunteer activities may include meal preparation\, kitchen organi
+ zation\, unpacking deliveries\, preparing to-go meals\, and other essentia
+ l tasks. This opportunity offers a unique chance to learn more about Women
+ 's Lunch Place\, connect with staff and guests\, and contribute to an orga
+ nization centered on dignity\, hope\, and healing.\n\n*This event is compl
+ imentary and reserved for members only. Please wear closed-toe shoes\, lon
+ g pants\, and a shirt with sleeves. Hair must be pulled back and covered w
+ ith a hat or hairnet (provided on-site if needed).
 URL:https://members.thequinhouse.com/events/192033
 CATEGORIES:‘Quin Impact Fund
 END:VEVENT
@@ -454,7 +435,7 @@ DTSTART;TZID=America/New_York:20260720T121500
 DTEND;TZID=America/New_York:20260720T143000
 SUMMARY:Hands on Impact: Women's Lunch Place | Session II
 LOCATION:Offsite: Women's Lunch Place
-DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nAvailability: 4 spo
+DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nAvailability: 2 spo
  ts left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/ev
  ents/192034\n\nJoin fellow members for a meaningful day of service at Wome
  n's Lunch Place\, a safe and welcoming daytime shelter and advocacy center
@@ -568,19 +549,19 @@ DTSTART;TZID=America/New_York:20260728T173000
 DTEND;TZID=America/New_York:20260728T190000
 SUMMARY: Gather to Give: Equity & Opportunity Grant Reception
 LOCATION:The Muse
-DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nAvailability: 3 spo
- ts left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/ev
- ents/190268\n\n5:30PM Reception\, 6:00PM Ceremony\nJoin us for an inspirin
- g evening celebrating the exceptional local recipients of this year's Equi
- ty & Opportunity pillar grants\, awarded through The ’Quin Impact Fund a
- nd made possible by the generosity of our members.\n\nThis event will hono
- r organizations that are expanding access to education\, economic mobility
- \, workforce development\, and essential resources—helping to create pat
- hways to opportunity and strengthen communities across Greater Boston. Gue
- sts will have the opportunity to hear from and connect with leaders drivin
- g meaningful change\, learn more about their work\, and discover ways to s
- upport their missions.\n\n*This complimentary event is reserved for member
- s only. Light refreshments will be served.
+DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free / Included\nStatus: 
+ unlimited\nEvent URL: https://members.thequinhouse.com/events/190268\n\n5:
+ 30PM Reception\, 6:00PM Ceremony\nJoin us for an inspiring evening celebra
+ ting the exceptional local recipients of this year's Equity & Opportunity 
+ pillar grants\, awarded through The ’Quin Impact Fund and made possible 
+ by the generosity of our members.\n\nThis event will honor organizations t
+ hat are expanding access to education\, economic mobility\, workforce deve
+ lopment\, and essential resources—helping to create pathways to opportun
+ ity and strengthen communities across Greater Boston. Guests will have the
+  opportunity to hear from and connect with leaders driving meaningful chan
+ ge\, learn more about their work\, and discover ways to support their miss
+ ions.\n\n*This complimentary event is reserved for members only. Light ref
+ reshments will be served.
 URL:https://members.thequinhouse.com/events/190268
 CATEGORIES:‘Quin Impact Fund
 END:VEVENT
