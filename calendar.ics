@@ -288,6 +288,33 @@ URL:https://members.thequinhouse.com/events/190016
 CATEGORIES:Member Mixer
 END:VEVENT
 BEGIN:VEVENT
+UID:quin-event-194582@thequinhouse.com
+DTSTAMP:20260713T190000Z
+DTSTART;TZID=America/New_York:20260713T190000
+DTEND;TZID=America/New_York:20260713T210000
+SUMMARY:Boston’s Exclusive First-Look Screening of "The Odyssey"
+LOCATION:Offsite: AMC Boston Common
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 20 spots left\nS
+ tatus: futureSale\nEvent URL: https://members.thequinhouse.com/events/1945
+ 82\n\n6:30PM Doors Open\, 7:00PM-10:00PM Screening\nBe among the first to 
+ experience one of the year's most anticipated cinematic events with a firs
+ t look screening of Christopher Nolan's highly anticipated adaptation of T
+ he Odyssey.\n\nThis summer\, defy the gods. Universal Pictures proudly pre
+ sents the new film by Christopher Nolan. A sweeping mythological epic insp
+ ired by Homer's timeless poem\, The Odyssey\, staring Matt Damon\, Tom H
+ olland\, Anne Hathaway\, Robert Pattison\, Lupita Nyong'o\, Zendaya and\, 
+ Charlize Theron. The film follows Odysseus\, the legendary King of Ithaca 
+ perilous decade- long journey home after the Trojan War as he confronts my
+ thical creatures\, vengeful gods\, and extraordinary trials in a relentles
+ s quest to reunite with his wife\, Penelope.\n\nJoin us for an unforgettab
+ le evening of epic storytelling\, breathtaking spectacle\, and one of the 
+ year's most anticipated cinematic experiences.\n\n*This event is complimen
+ tary and reserved for members only. Please note that the screening will be
+ gin promptly at 7:00PM with no trailers preceding the film.
+URL:https://members.thequinhouse.com/events/194582
+CATEGORIES:The Arts
+END:VEVENT
+BEGIN:VEVENT
 UID:quin-event-191168@thequinhouse.com
 DTSTAMP:20260714T170000Z
 DTSTART;TZID=America/New_York:20260714T170000
@@ -316,6 +343,30 @@ DESCRIPTION:Category: ‘Quin Chat\nPrice: Free / Included\nStatus: unlimit
  urchase at this event.
 URL:https://members.thequinhouse.com/events/191168
 CATEGORIES:‘Quin Chat
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-194581@thequinhouse.com
+DTSTAMP:20260715T133000Z
+DTSTART;TZID=America/New_York:20260715T133000
+DTEND;TZID=America/New_York:20260715T150000
+SUMMARY:'Quin Chat: Gallery by Denise Matejic 
+LOCATION:The Terrace
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 35 spots left\nS
+ tatus: futureSale\nEvent URL: https://members.thequinhouse.com/events/1945
+ 81\n\n1:30PM Reception\, 2:00PM Discussion\nPlease join The 'Quin House ar
+ t curator\, Kate Chertavian for a discussion together with The ‘Quin Hou
+ se Co-Founder Sandy Edgerley on the works of her mother\, artist Denise Ma
+ tejic. On view in the Terrace through July 23rd\, the pop-up exhibition fe
+ atures 21 artworks in a variety of media created throughout her career. In
+ spired by the rural landscapes and cityscapes of Western Europe where she 
+ grew up\, as well as the suburban landscape here in New England and beyond
+ \, her work is a celebration of the beauty found in the world around us. T
+ ogether\, Kate and Sandy will explore Denise's artistic practice and how i
+ t has inspired Sandy's lifelong love of art. Members will enjoy this after
+ noon experience over tea and light bites.  \n\n*This event is compliment
+ ary and reserved for members only.
+URL:https://members.thequinhouse.com/events/194581
+CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-191172@thequinhouse.com
@@ -347,6 +398,34 @@ DESCRIPTION:Category: Member Mixer\nPrice: Free / Included\nStatus: Waitlis
  tly in front of the Boston Harbor Hotel. Parking is available at the Bost
  on Harbor Hotel.
 URL:https://members.thequinhouse.com/events/191172
+CATEGORIES:Member Mixer
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-191169@thequinhouse.com
+DTSTAMP:20260716T120000Z
+DTSTART;TZID=America/New_York:20260716T120000
+DTEND;TZID=America/New_York:20260716T140000
+SUMMARY: Serendipity Lunch - The Creative Exchange
+LOCATION:The Terrace
+DESCRIPTION:Category: Member Mixer\nPrice: $80.00 per person\nAvailability:
+  18 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
+ .com/events/191169\n\nContinuing the "Curated Connections" extension of th
+ e Serendipity series\, join us for lunch convening members who are involve
+ d in—or inspired by—the performing arts. From actors\, musicians\, dan
+ cers\, directors\, and producers to passionate patrons and enthusiasts\, t
+ his month's commonality will spark engaging conversation through a curated
+  deck of prompts facilitated by our Membership team.\n\nCurious? Set again
+ st the backdrop of lunch in Lunasol\, members will enjoy meaningful connec
+ tions and lively discussion around creativity\, performance\, storytelling
+ \, and the cultural impact of the arts. Whether you're center stage or in 
+ the audience\, you'll leave with new perspectives\, new connections\, and 
+ a deeper appreciation for the vibrant performing arts community within The
+  'Quin—all while enjoying a thoughtful lunch prepared by the chef.\n\n*T
+ ickets are $80 per person\, plus tax\, and are reserved for members only. 
+ Cancellations within 48 hours of the event\, or failure to attend\, will b
+ e charged in full. Please inform us of any dietary needs or restrictions b
+ y emailing happening@thequin.com at least 72 hours prior to the event.
+URL:https://members.thequinhouse.com/events/191169
 CATEGORIES:Member Mixer
 END:VEVENT
 BEGIN:VEVENT
@@ -452,6 +531,56 @@ DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free / Included\nStatus:
  ith a hat or hairnet (provided on-site if needed).
 URL:https://members.thequinhouse.com/events/192034
 CATEGORIES:‘Quin Impact Fund
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-194060@thequinhouse.com
+DTSTAMP:20260720T183000Z
+DTSTART;TZID=America/New_York:20260720T183000
+DTEND;TZID=America/New_York:20260720T210000
+SUMMARY:Serendipity Dinner - Shared Histories
+LOCATION:The Muse
+DESCRIPTION:Category: Member Mixer\nPrice: $100.00 per person\nAvailability
+ : 18 spots left\nStatus: Available\nEvent URL: https://members.thequinhous
+ e.com/events/194060\n\nContinuing the "Curated Connections" extension of t
+ he Serendipity series\, join us for dinner convening members who study\, p
+ reserve\, teach\, or simply delight in history. From historians\, educator
+ s\, archivists\, curators\, and authors to lifelong learners and passionat
+ e history enthusiasts\, this month's shared interest will inspire engaging
+  conversation as you engage with fellow members through conversations insp
+ ired by the people\, places\, and pivotal moments that have shaped our wor
+ ld. \n\nCurious? Set against the backdrop of a thoughtfully curated three-
+ course dinner with expertly paired wines\, this unique experience invites 
+ members to connect through curated conversation prompts designed to spark 
+ engaging dialogue. Enjoy the perfect blend of stimulating discussion\, exc
+ eptional company\, and a menu crafted to delight the senses.\n\n*Tickets a
+ re $100 per person and are reserved for members only. Cancellations within
+  72 hours of the event\, or failure to attend\, will be charged in full. P
+ lease inform us of any dietary needs or restrictions by emailing happening
+ @thequin.com at least 72 hours before dinner service.
+URL:https://members.thequinhouse.com/events/194060
+CATEGORIES:Member Mixer
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-194588@thequinhouse.com
+DTSTAMP:20260721T180000Z
+DTSTART;TZID=America/New_York:20260721T180000
+DTEND;TZID=America/New_York:20260721T213000
+SUMMARY:Private Screening: "The Odyssey" 
+LOCATION:Offsite: Alamo Drafthouse Seaport
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 80 spots left\nS
+ tatus: futureSale\nEvent URL: https://members.thequinhouse.com/events/1945
+ 88\n\n6:00PM Doors Open\, 6:30PM - 9:30PM Screening\nJoin us for a ‘Quin
+ -exclusive private screening of Christopher Nolan’s highly anticipated a
+ daptation of The Odyssey.\n\nA sweeping mythological epic inspired by Home
+ r's timeless poem\, The Odyssey stars Matt Damon as Odysseus\, the legenda
+ ry King of Ithaca. The film chronicles his perilous decade-long journey ho
+ me following the Trojan War\, where he encounters mythical creatures\, ven
+ geful gods\, and extraordinary trials in his relentless quest to reunite w
+ ith his wife\, Penelope. An evening of epic storytelling awaits...\n\n*Thi
+ s event is complimentary and reserved for members\, plus one registered gu
+ est. Tableside food and beverage service is available in the theater.
+URL:https://members.thequinhouse.com/events/194588
+CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-192746@thequinhouse.com
@@ -566,6 +695,28 @@ URL:https://members.thequinhouse.com/events/190268
 CATEGORIES:‘Quin Impact Fund
 END:VEVENT
 BEGIN:VEVENT
+UID:quin-event-181400@thequinhouse.com
+DTSTAMP:20260729T180000Z
+DTSTART;TZID=America/New_York:20260729T180000
+DTEND;TZID=America/New_York:20260729T210000
+SUMMARY:Live Music: Becca Hannah 
+LOCATION:The Reading Room
+DESCRIPTION:Category: The Arts\nPrice: Free / Included\nStatus: Available\n
+ Event URL: https://members.thequinhouse.com/events/181400\n\nSettle in for
+  an evening with Becca Hannah\, whose soulful blend of R&B\, jazz\, blues\
+ , and soul creates an atmosphere that is both intimate and transporting. G
+ uided by instinct and emotion\, Becca crafts music that lingers long after
+  the final note\, weaving themes of love\, longing\, and self-discovery in
+ to every performance.\n\nDrawing from her debut album\, Tonight In My Drea
+ ms\, Becca invites listeners into a richly textured sonic world where time
+ less influences meet contemporary expression. Sip on a signature cocktail 
+ from Little Bar and let the music carry you through an unforgettable eveni
+ ng.\n\n*Reservations are not required. Seating is first come\, first serve
+ d.
+URL:https://members.thequinhouse.com/events/181400
+CATEGORIES:The Arts
+END:VEVENT
+BEGIN:VEVENT
 UID:quin-event-180152@thequinhouse.com
 DTSTAMP:20260802T190000Z
 DTSTART;TZID=America/New_York:20260802T190000
@@ -585,6 +736,28 @@ DESCRIPTION:Category: The Arts\nPrice: $607.48 per person\nStatus: soldOut\
  y their guests ages 16+. Pavilion Decks A & B are open space with no assig
  ned seating. All shows are rain or shine.
 URL:https://members.thequinhouse.com/events/180152
+CATEGORIES:The Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-194363@thequinhouse.com
+DTSTAMP:20260805T180000Z
+DTSTART;TZID=America/New_York:20260805T180000
+DTEND;TZID=America/New_York:20260805T210000
+SUMMARY:Live Music: Anibal Cruz
+LOCATION:The Reading Room
+DESCRIPTION:Category: The Arts\nPrice: Free / Included\nStatus: Available\n
+ Event URL: https://members.thequinhouse.com/events/194363\n\nStep into The
+  Reading Room for an unforgettable night of Latin jazz with Cuban pianist\
+ , composer\, and bandleader Anibal Cruz. Known for his magnetic blend of C
+ uban rhythms and jazz innovation\, Cruz has captivated audiences worldwide
+ \, performing alongside icons like Paquito de Rivera and leading his own e
+ nsembles\, Clave & Blues and The Blue Island Project. His set will take yo
+ u on a journey through soulful compositions and dynamic improvisations. Ma
+ ke it a night to remember with cocktails available from the neighboring Li
+ ttle Bar or tableside bites from The Reading Room menu.\n\n*Please be awar
+ e that seating is first come\, first served. Reservations are not required
+ .
+URL:https://members.thequinhouse.com/events/194363
 CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
