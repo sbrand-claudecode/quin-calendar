@@ -24,94 +24,6 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:quin-event-183090@thequinhouse.com
-DTSTAMP:20260704T150000Z
-DTSTART;VALUE=DATE:20260704
-DTEND;VALUE=DATE:20260707
-SUMMARY:'Venture: Wimbledon
-LOCATION:Offsite
-DESCRIPTION:Category: ‘Venture - Travel\nPrice: $12850.47 per person\nSta
- tus: Waitlist Only\nTime: 3 PM – 12 PM\nEvent URL: https://members.thequ
- inhouse.com/events/183090\n\nAn Exclusive Seat at Tennis' Most Iconic Stag
- e. Experience the Prestige of Wimbledon.\nMore than a visit to London\, th
- is is an invitation to one of sport’s most rarefied worlds - Wimbledon..
- . where tradition\, precision\, and quiet luxury converge on perfectly kep
- t grass courts.\n\nYour weekend centers on Sunday at the All England Lawn 
- Tennis Club\, where members will take their place on Centre Court with cov
- eted Debenture tickets\, among the most exclusive seats in global sport. A
- s the Championships enter the fourth round\, the atmosphere sharpens: the 
- field narrows\, the stakes heighten\, and the game reveals its most compel
- ling drama. From this vantage point\, members will witness the world’s f
- inest players in matches that will define the trajectory to the finals.\n\
- nBetween play\, move at your own pace through the grounds - where champagn
- e is poured with ease\, strawberries and cream remain a ritual\, and every
-  detail reflects Wimbledon’s singular blend of heritage and refinement. 
- This is not simply spectating\; it is participation in a cultural institut
- ion\, experienced as it was intended.\n\nCurated with intention\, this is 
- an insider experience of Wimbledon at its most electric\, shared in the co
- mpany of those who appreciate it most.\n\nDay One | Saturday\, July 4th\n\
- nYour journey begins with your arrival in London\, where you will be welco
- med to The Kensington Hotel\, a refined townhouse known for its polished d
- iscretion and residential charm.\n\nOnce checked in\, take a moment to unw
- ind from your travels - whether relaxing in the hotel’s inviting drawing
-  rooms or stepping out to explore the surrounding neighborhood at your lei
- sure. The afternoon is yours to ease into the rhythm of the city or connec
- t with fellow ‘Quin members as the experience unofficially begins.\n\nIn
-  the evening\, gather for a 'Quin Member welcome dinner hosted by former-L
- ondoner - our very own Managing Director\, Matthias Kiehm at The Audley Pu
- blic House. The Audley is a proper neighborhood Pub where history and cont
- emporary art collide. Here\, amid thoughtfully restored interiors and a co
- nvivial atmosphere\, members will be reintroduced to fellow fans of the sp
- ort over a beautifully prepared dinner while anticipating the next days ma
- tches.\n\nDay Two | Sunday\, July 5th\n\nYour second day begins with a sea
- mless departure from The Kensington Hotel as you make your way to Wimbledo
- n\, with travel arrangements thoughtfully coordinated for ease and comfort
- .\n\nUpon arrival at the All England Lawn Tennis Club on "Middle Sunday\,"
-  you will have the full day to experience the Gentlemen's and Ladies' Sing
- les Fourth Round at your own pace. With Debenture ticket(s) in hand\, enjo
- y prime seating on Centre Court - where the field narrows and the tourname
- nt’s momentum becomes palpable. Your tickets also provide access to No. 
- 1 Court and the outer courts\, allowing you to move fluidly between matche
- s and take in the breadth of play across the grounds.\n\nThroughout the da
- y\, you will have access to the Debenture Holders’ Lounge and its collec
- tion of private bars and dining venues. Whether pausing for a leisurely lu
- nch\, a glass of champagne\, or a moment of respite overlooking the courts
- \, the experience is yours to shape as you wish.\n\nFollowing the conclusi
- on of play\, return to London in the early evening. Keeping dynamic match 
- times in mind\, the day concludes with a relaxed late-evening group dinner
- \, in a stylish yet comfortable setting to unwind and reflect before retur
- ning to The Kensington Hotel for a well-deserved nights rest.\n\nDay Three
-  | Monday\, July 6th\n\nYour final morning begins at a relaxed pace with b
- reakfast at The Kensington Hotel. Enjoy a quiet start to the day - whether
-  over a leisurely meal or a final moment of calm in the hotel’s inviting
-  surroundings.\n\nFollowing breakfast\, departures will take place on your
-  own schedule - whether returning home\, or staying on for an independent 
- extension to the trip. As you make your way home\, carry with you the memo
- ries of a weekend defined by exceptional access\, thoughtful curation\, an
- d the shared experience of Wimbledon at its most compelling.\n\nClassic Ro
- om | Single Occupancy\n\nClassic Room at The Kensington Hotel | Two Twin 
- Beds with Breakfast Included\n\nOne Wimbledon Debenture Ticket to the Gen
- tlemen's and Ladies' Singles Fourth Round\, including Centre Court seating
-  and the Debenture's Holders' Lounge with its collection of private bars a
- nd dining venues.\n\nTwo curated group dinners\, including a welcome dinne
- r at The Audley Public House.\n\n$7\,950\n\nClassic Room | Double Occupanc
- y\n\nClassic Room at The Kensington Hotel | Queen Bed with Breakfast Inclu
- ded\n\nTwo Wimbledon Debenture Tickets to the Gentlemen's and Ladies' Sing
- les Fourth Round\, including Centre Court seating and the Debenture's Hold
- ers' Lounge with its collection of private bars and dining venues.\n\nTwo 
- curated group dinners\, including a welcome dinner at The Audley Public Ho
- use.\n\n$13\,750\n\nPlease note the price of airfare is not included in th
- e ticket price. Members and their guests are responsible for booking their
-  own flights. For the smoothest arrival experience\, we recommend flying i
- nto London Heathrow Airport (LHR) located less than an hour by car from Th
- e Kensington Hotel.\n\n* Reservations are non-refundable and non-transfera
- ble. Please note that all bookings are subject to the terms and conditions
-  outlined in the final confirmation materials including your sign-off on a
-  standard liability waiver.
-URL:https://members.thequinhouse.com/events/183090
-CATEGORIES:‘Venture - Travel
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-186839@thequinhouse.com
 DTSTAMP:20260706T170000Z
 DTSTART;TZID=America/New_York:20260706T170000
@@ -351,20 +263,20 @@ DTSTART;TZID=America/New_York:20260715T133000
 DTEND;TZID=America/New_York:20260715T150000
 SUMMARY:'Quin Chat: Gallery by Denise Matejic 
 LOCATION:The Terrace
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 8 spots left\nSt
- atus: Available\nEvent URL: https://members.thequinhouse.com/events/194581
- \n\n1:30PM Reception\, 2:00PM Discussion\nPlease join The 'Quin House art 
- curator\, Kate Chertavian for a discussion together with The ‘Quin House
-  Co-Founder Sandy Edgerley on the works of her mother\, artist Denise Mate
- jic. On view in the Terrace through July 23rd\, the pop-up exhibition feat
- ures 21 artworks in a variety of media created throughout her career. Insp
- ired by the rural landscapes and cityscapes of Western Europe where she gr
- ew up\, as well as the suburban landscape here in New England and beyond\,
-  her work is a celebration of the beauty found in the world around us. Tog
- ether\, Kate and Sandy will explore Denise's artistic practice and how it 
- has inspired Sandy's lifelong love of art. Members will enjoy this afterno
- on experience over tea and light bites.  \n\n*This event is complimentar
- y and reserved for members only.
+DESCRIPTION:Category: The Arts\nPrice: Free\nStatus: soldOut\nEvent URL: ht
+ tps://members.thequinhouse.com/events/194581\n\n1:30PM Reception\, 2:00PM 
+ Discussion\nPlease join The 'Quin House art curator\, Kate Chertavian for 
+ a discussion together with The ‘Quin House Co-Founder Sandy Edgerley on 
+ the works of her mother\, artist Denise Matejic. On view in the Terrace th
+ rough July 23rd\, the pop-up exhibition features 21 artworks in a variety 
+ of media created throughout her career. Inspired by the rural landscapes a
+ nd cityscapes of Western Europe where she grew up\, as well as the suburba
+ n landscape here in New England and beyond\, her work is a celebration of 
+ the beauty found in the world around us. Together\, Kate and Sandy will ex
+ plore Denise's artistic practice and how it has inspired Sandy's lifelong 
+ love of art. Members will enjoy this afternoon experience over tea and lig
+ ht bites.  \n\n*This event is complimentary and reserved for members onl
+ y.
 URL:https://members.thequinhouse.com/events/194581
 CATEGORIES:The Arts
 END:VEVENT
@@ -408,7 +320,7 @@ DTEND;TZID=America/New_York:20260716T140000
 SUMMARY: Serendipity Lunch - The Creative Exchange
 LOCATION:The Terrace
 DESCRIPTION:Category: Member Mixer\nPrice: $80.00 per person\nAvailability:
-  9 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse.
+  8 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse.
  com/events/191169\n\nContinuing the "Curated Connections" extension of the
   Serendipity series\, join us for lunch convening members who are involved
   in—or inspired by—the performing arts. From actors\, musicians\, danc
