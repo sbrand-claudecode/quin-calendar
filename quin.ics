@@ -24,6 +24,33 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:quin-event-194582@thequinhouse.com
+DTSTAMP:20260713T190000Z
+DTSTART;TZID=America/New_York:20260713T190000
+DTEND;TZID=America/New_York:20260713T210000
+SUMMARY:Boston’s Exclusive First-Look Screening of "The Odyssey"
+LOCATION:Offsite: AMC Boston Common
+DESCRIPTION:Category: The Arts\nPrice: Free / Included\nStatus: You are on 
+ Waitlist\nEvent URL: https://members.thequinhouse.com/events/194582\n\n6:3
+ 0PM Doors Open\, 7:00PM-10:00PM Screening\nBe among the first to experienc
+ e one of the year's most anticipated cinematic events with a first look sc
+ reening of Christopher Nolan's highly anticipated adaptation of The Odysse
+ y.\n\nThis summer\, defy the gods. Universal Pictures proudly presents the
+  new film by Christopher Nolan. A sweeping mythological epic inspired by H
+ omer's timeless poem\, The Odyssey\, staring Matt Damon\, Tom Holland\, 
+ Anne Hathaway\, Robert Pattison\, Lupita Nyong'o\, Zendaya and\, Charlize 
+ Theron. The film follows Odysseus\, the legendary King of Ithaca perilous 
+ decade- long journey home after the Trojan War as he confronts mythical cr
+ eatures\, vengeful gods\, and extraordinary trials in a relentless quest t
+ o reunite with his wife\, Penelope.\n\nJoin us for an unforgettable evenin
+ g of epic storytelling\, breathtaking spectacle\, and one of the year's mo
+ st anticipated cinematic experiences.\n\n*This event is complimentary and 
+ reserved for members only. Please note that the screening will begin promp
+ tly at 7:00PM with no trailers preceding the film.
+URL:https://members.thequinhouse.com/events/194582
+CATEGORIES:The Arts
+END:VEVENT
+BEGIN:VEVENT
 UID:quin-event-192823@thequinhouse.com
 DTSTAMP:20260718T160000Z
 DTSTART;TZID=America/New_York:20260718T160000
@@ -59,6 +86,28 @@ DESCRIPTION:Category: Food & Beverage\nPrice: Free / Included\nStatus: You
  refreshments will be served.
 URL:https://members.thequinhouse.com/events/192823
 CATEGORIES:Food & Beverage
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-194588@thequinhouse.com
+DTSTAMP:20260721T180000Z
+DTSTART;TZID=America/New_York:20260721T180000
+DTEND;TZID=America/New_York:20260721T213000
+SUMMARY:Private Screening: "The Odyssey" 
+LOCATION:Offsite: Alamo Drafthouse Seaport
+DESCRIPTION:Category: The Arts\nPrice: Free / Included\nStatus: You are Con
+ firmed\nEvent URL: https://members.thequinhouse.com/events/194588\n\n6:00P
+ M Doors Open\, 6:30PM - 9:30PM Screening\nJoin us for a ‘Quin-exclusive 
+ private screening of Christopher Nolan’s highly anticipated adaptation o
+ f The Odyssey.\n\nA sweeping mythological epic inspired by Homer's timeles
+ s poem\, The Odyssey stars Matt Damon as Odysseus\, the legendary King of 
+ Ithaca. The film chronicles his perilous decade-long journey home followin
+ g the Trojan War\, where he encounters mythical creatures\, vengeful gods\
+ , and extraordinary trials in his relentless quest to reunite with his wif
+ e\, Penelope. An evening of epic storytelling awaits...\n\n*This event is 
+ complimentary and reserved for members\, plus one registered guest. Tables
+ ide food and beverage service is available in the theater.
+URL:https://members.thequinhouse.com/events/194588
+CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-192746@thequinhouse.com
