@@ -427,6 +427,27 @@ URL:https://members.thequinhouse.com/events/194060
 CATEGORIES:Member Mixer
 END:VEVENT
 BEGIN:VEVENT
+UID:quin-event-190017@thequinhouse.com
+DTSTAMP:20260721T170000Z
+DTSTART;TZID=America/New_York:20260721T170000
+DTEND;TZID=America/New_York:20260721T180000
+SUMMARY:Member Mingle
+LOCATION:Lunasol
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 40 spots lef
+ t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
+ 90017\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
+  in the ambiant reserved space of Lunasol. This is your opportunity to co
+ nnect with fellow members\, exchange ideas\, and cultivate meaningful rela
+ tionships.\n\nWhether you're sparking new collaborations\, sharing insight
+ s\, or simply enjoying great conversation\, the Member Mingle is the perfe
+ ct way to engage with our dynamic community. Don’t miss the chance to co
+ nnect\, inspire\, and be inspired.\n\n*This event is complimentary and res
+ erved for members only. Complimentary light bites will be served\, and bev
+ erages will be available for purchase.
+URL:https://members.thequinhouse.com/events/190017
+CATEGORIES:Member Mixer
+END:VEVENT
+BEGIN:VEVENT
 UID:quin-event-194588@thequinhouse.com
 DTSTAMP:20260721T180000Z
 DTSTART;TZID=America/New_York:20260721T180000
@@ -538,6 +559,27 @@ URL:https://members.thequinhouse.com/events/192824
 CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
+UID:quin-event-190018@thequinhouse.com
+DTSTAMP:20260728T170000Z
+DTSTART;TZID=America/New_York:20260728T170000
+DTEND;TZID=America/New_York:20260728T180000
+SUMMARY:Member Mingle
+LOCATION:Lunasol
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 40 spots lef
+ t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
+ 90018\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
+  in the ambiant reserved space of Lunasol. This is your opportunity to co
+ nnect with fellow members\, exchange ideas\, and cultivate meaningful rela
+ tionships.\n\nWhether you're sparking new collaborations\, sharing insight
+ s\, or simply enjoying great conversation\, the Member Mingle is the perfe
+ ct way to engage with our dynamic community. Don’t miss the chance to co
+ nnect\, inspire\, and be inspired.\n\n*This event is complimentary and res
+ erved for members only. Complimentary light bites will be served\, and bev
+ erages will be available for purchase.
+URL:https://members.thequinhouse.com/events/190018
+CATEGORIES:Member Mixer
+END:VEVENT
+BEGIN:VEVENT
 UID:quin-event-190268@thequinhouse.com
 DTSTAMP:20260728T173000Z
 DTSTART;TZID=America/New_York:20260728T173000
@@ -647,47 +689,5 @@ DESCRIPTION:Category: The Arts\nPrice: $607.48 per person\nStatus: soldOut\
   no assigned seating. All shows are rain or shine.
 URL:https://members.thequinhouse.com/events/180153
 CATEGORIES:The Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:quin-event-189418@thequinhouse.com
-DTSTAMP:20260924T120000Z
-DTSTART;VALUE=DATE:20260924
-DTEND;VALUE=DATE:20260929
-SUMMARY:'Venture: Oktoberfest
-LOCATION:Offsite: Munich\, Germany
-DESCRIPTION:Category: ‘Venture - Travel\nPrice: $5607.48 per person\nAvai
- lability: 2 spots left\nStatus: Available\nTime: 12 PM – 11 AM\nEvent UR
- L: https://members.thequinhouse.com/events/189418\n\nExperience Oktoberfes
- t like never before.\n\nMore than just a visit\, join fellow 'Quin members
-  for our return to Oktoberfest—an unforgettable experience celebrating t
- he very best of Bavarian culture\, tradition\, and hospitality. Discover t
- he vibrant spirit of Munich and the festive atmosphere surrounding the wor
- ld-famous beer halls\, all while enjoying exclusive access to the iconic M
- arstall-Festzelt beer tent. This exceptional journey will once again be ho
- sted by 'Quin Managing Director\, Matthias Kiehm\, a native of Germany\, w
- ho will share his deep local knowledge\, personal connections\, and passio
- n for the region throughout the trip.\n\nThe luxurious Seehotel Überfahrt
-  will serve as your five-star home away from home\, offering the perfect b
- lend of elegance and comfort. Nestled near the stunning Lake Tegernsee\, t
- his exquisite retreat features a renowned spa\, exceptional dining\, and i
- mpeccable service\, creating the ideal setting for an unforgettable Oktobe
- rfest adventure.\n\nIncluded in the price is four nights’ accommodation 
- at the 5-star Seehotel Überfahrt in Rottach-Egern\, access to the Marstal
- l-Festzelt beer tent\, all formal dining experiences and activities\, as w
- ell as all taxes and gratuities. Flights to and from Munich\, your transfe
- r to and from the hotel\, insurance and any items of a personal nature are
-  NOT included.\n\nDeluxe Mountain View | Single $4\,800 | Double $7\,300\n
- Deluxe Lake View | Single $5\,100 | Double $7\,600\nJunior Suite Mountain 
- View | Single $6\,000 | Double $8\,500\nMaisonette Lake View | Single $8\,
- 300 | Double $10\,800\nTegernsee Suite Lake View | Single $9\,900 | Double
-  $12\,400\n\nReservations are non-refundable and non-transferable in order
-  to guarantee accommodations during the high season. Payment is due in fu
- ll at the time of booking. \n\nTo ensure the best possible experience for
-  all attendees\, we kindly ask that members inform us in advance of any ph
- ysical limitations\, mobility considerations\, or accessibility needs we s
- hould be aware of. All members will also be asked to sign The 'Quin's stan
- dard liability agreement in advance of travel.
-URL:https://members.thequinhouse.com/events/189418
-CATEGORIES:‘Venture - Travel
 END:VEVENT
 END:VCALENDAR
