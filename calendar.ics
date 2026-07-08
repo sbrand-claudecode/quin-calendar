@@ -24,29 +24,6 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:quin-event-192831@thequinhouse.com
-DTSTAMP:20260707T140000Z
-DTSTART;VALUE=DATE:20260707
-DTEND;VALUE=DATE:20260708
-SUMMARY:On the 'House: Cake & Champagne 
-LOCATION:The Terrace
-DESCRIPTION:Category: Holiday\nPrice: Free / Included\nStatus: unlimited\nT
- ime: 2 PM – 7 PM\nEvent URL: https://members.thequinhouse.com/events/192
- 831\n\nAs The 'Quin turns five\, we invite members to stop by the Terrace\
- , for a sweet treat and a glass of champagne on the ‘House to celebrate 
- the community that we've co-created. \n\nLook forward to a welcome by the
-  familiar faces of the Membership team\, and a first preview of our Summer
-  Pop-Up flanking the ivy trellises featuring stunning paintings and drawin
- gs by 'Quin Co-Founder Sandy Edgerley's beloved mother and exceptional art
- ist Denise Matejic. The exhibition showcases a recognizable work that memb
- ers often admire on the Grand Staircase\, Tranquility after a Snowfall. 
- \n\nHere's to more years of meaningful connections and continuing our lega
- cy together. Thank you for being such a vital part of our extraordinary co
- mmunity!\n\n*This event is complimentary and reserved for members only.
-URL:https://members.thequinhouse.com/events/192831
-CATEGORIES:Holiday
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-176373@thequinhouse.com
 DTSTAMP:20260708T180000Z
 DTSTART;TZID=America/New_York:20260708T180000
@@ -297,7 +274,7 @@ DTEND;TZID=America/New_York:20260716T140000
 SUMMARY: Serendipity Lunch - The Creative Exchange
 LOCATION:The Terrace
 DESCRIPTION:Category: Member Mixer\nPrice: $80.00 per person\nAvailability:
-  8 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse.
+  7 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse.
  com/events/191169\n\nContinuing the "Curated Connections" extension of the
   Serendipity series\, join us for lunch convening members who are involved
   in—or inspired by—the performing arts. From actors\, musicians\, danc
