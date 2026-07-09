@@ -31,24 +31,24 @@ DTEND;TZID=America/New_York:20260709T180000
 SUMMARY:Meet the Maker: Berene Sauls of Tesselaarsdal Wines
 LOCATION:The Muse
 DESCRIPTION:Category: Food & Beverage\, Survey - Programming\nPrice: Free\n
- Availability: 2 spots left\nStatus: Available\nEvent URL: https://members.
- thequinhouse.com/events/191166\n\nJoin us for an evening of wine\, storyte
- lling\, and discovery as we welcome Berene Sauls\, founder and winemaker o
- f Tesselaarsdal Wines\, for an intimate reception-style Meet the Maker.\n\
- nBorn in the historic South African village of Tesselaarsdal and inspired 
- by its remarkable legacy\, Berene has emerged as one of the country's most
-  compelling voices in modern winemaking. Her journey—from working behind
-  the scenes at the acclaimed Hamilton Russell Vineyards to launching her o
- wn label in 2015—has been guided by a commitment to honoring place\, her
- itage\, and the transformative power of opportunity.\n\nThroughout the eve
- ning\, members will enjoy a guided tasting of two vintages each of Tessela
- arsdal Chardonnay and Pinot Noir\, exploring the distinctive terroir of th
- e Hemel-en-Aarde Ridge and the stories woven into every bottle. As Berene 
- shares her experiences as a pioneering female winemaker and entrepreneur\,
-  guests will gain a deeper appreciation for the people\, history\, and lan
- dscape shaping one of South Africa's most exciting wine regions.\n\n*This 
- event is complimenary and reserved for members only. Complimentary light b
- ites and refreshments will be served.
+ Availability: 4 spots left\nStatus: You are Confirmed\nEvent URL: https://
+ members.thequinhouse.com/events/191166\n\nJoin us for an evening of wine\,
+  storytelling\, and discovery as we welcome Berene Sauls\, founder and win
+ emaker of Tesselaarsdal Wines\, for an intimate reception-style Meet the M
+ aker.\n\nBorn in the historic South African village of Tesselaarsdal and i
+ nspired by its remarkable legacy\, Berene has emerged as one of the countr
+ y's most compelling voices in modern winemaking. Her journey—from workin
+ g behind the scenes at the acclaimed Hamilton Russell Vineyards to launchi
+ ng her own label in 2015—has been guided by a commitment to honoring pla
+ ce\, heritage\, and the transformative power of opportunity.\n\nThroughout
+  the evening\, members will enjoy a guided tasting of two vintages each of
+  Tesselaarsdal Chardonnay and Pinot Noir\, exploring the distinctive terro
+ ir of the Hemel-en-Aarde Ridge and the stories woven into every bottle. As
+  Berene shares her experiences as a pioneering female winemaker and entrep
+ reneur\, guests will gain a deeper appreciation for the people\, history\,
+  and landscape shaping one of South Africa's most exciting wine regions.\n
+ \n*This event is complimenary and reserved for members only. Complimentary
+  light bites and refreshments will be served.
 URL:https://members.thequinhouse.com/events/191166
 CATEGORIES:Food & Beverage,Survey - Programming
 END:VEVENT
@@ -416,7 +416,7 @@ DTSTART;TZID=America/New_York:20260721T170000
 DTEND;TZID=America/New_York:20260721T180000
 SUMMARY:Member Mingle
 LOCATION:Lunasol
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 37 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 36 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  90017\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in the ambiant reserved space of Lunasol. This is your opportunity to co
@@ -548,7 +548,7 @@ DTSTART;TZID=America/New_York:20260728T170000
 DTEND;TZID=America/New_York:20260728T180000
 SUMMARY:Member Mingle
 LOCATION:Lunasol
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 38 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 36 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  90018\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in the ambiant reserved space of Lunasol. This is your opportunity to co
@@ -606,6 +606,31 @@ DESCRIPTION:Category: The Arts\nPrice: Free / Included\nStatus: Available\n
  d.
 URL:https://members.thequinhouse.com/events/181400
 CATEGORIES:The Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-194059@thequinhouse.com
+DTSTAMP:20260730T120000Z
+DTSTART;TZID=America/New_York:20260730T120000
+DTEND;TZID=America/New_York:20260730T140000
+SUMMARY: Serendipity Lunch 
+LOCATION:The Terrace
+DESCRIPTION:Category: Member Mixer\nPrice: $80.00 per person\nAvailability:
+  18 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
+ .com/events/194059\n\nJoin us for a Serendipity Lunch that invites members
+  to enjoy meaningful conversation in great company. Set in The Terrace the
+  afternoon unfolds with an easy rhythm—a thoughtfully curated lunch\, en
+ thusiastic members\, and a deck of conversation prompts designed to spark 
+ engaging connections.\n\nLunch will be served in a relaxed setting showcas
+ ing a seasonal selection of chef-crafted dishes thoughtfully prepared to e
+ ncourage sharing and conversation. Beverages will be available throughout 
+ the experience.\n\nSpend the afternoon at The 'House—unhurried\, social\
+ , and effortlessly enjoyable.\n\n*Tickets are $80 per person\, plus tax\, 
+ and are reserved for members only. Cancellations within 48 hours of the ev
+ ent\, or failure to attend\, will be charged in full. Please inform us of 
+ any dietary needs or restrictions by emailing happening@thequin.com at lea
+ st 72 hours prior to the event.
+URL:https://members.thequinhouse.com/events/194059
+CATEGORIES:Member Mixer
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-180152@thequinhouse.com
