@@ -351,15 +351,15 @@ DESCRIPTION:Category: Member Mixer\nPrice: $100.00 per person\nAvailability
  e history enthusiasts\, this month's shared interest will inspire engaging
   conversation as you engage with fellow members through conversations insp
  ired by the people\, places\, and pivotal moments that have shaped our wor
- ld. \n\nCurious? Set against the backdrop of a thoughtfully curated three-
- course dinner with expertly paired wines\, this unique experience invites 
- members to connect through curated conversation prompts designed to spark 
- engaging dialogue. Enjoy the perfect blend of stimulating discussion\, exc
- eptional company\, and a menu crafted to delight the senses.\n\n*Tickets a
- re $100 per person and are reserved for members only. Cancellations within
-  72 hours of the event\, or failure to attend\, will be charged in full. P
- lease inform us of any dietary needs or restrictions by emailing happening
- @thequin.com at least 72 hours before dinner service.
+ ld.\n\nCurious? Set against the backdrop of a thoughtfully curated three-c
+ ourse dinner with expertly paired wines\, this unique experience invites m
+ embers to connect through curated conversation prompts designed to spark e
+ ngaging dialogue. Enjoy the perfect blend of stimulating discussion\, exce
+ ptional company\, and a menu crafted to delight the senses. \n\n*Tickets 
+ are $100 per person\, plus tax and are reserved for members only. Cancella
+ tions within 72 hours of the event\, or failure to attend\, will be charge
+ d in full. Please inform us of any dietary needs or restrictions by emaili
+ ng happening@thequin.com at least 72 hours before dinner service.
 URL:https://members.thequinhouse.com/events/194060
 CATEGORIES:Member Mixer
 END:VEVENT
@@ -502,7 +502,7 @@ DTSTART;TZID=America/New_York:20260728T170000
 DTEND;TZID=America/New_York:20260728T180000
 SUMMARY:Member Mingle
 LOCATION:Lunasol
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 36 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 35 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  90018\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in the ambiant reserved space of Lunasol. This is your opportunity to co
@@ -587,6 +587,34 @@ URL:https://members.thequinhouse.com/events/194059
 CATEGORIES:Member Mixer
 END:VEVENT
 BEGIN:VEVENT
+UID:quin-event-195309@thequinhouse.com
+DTSTAMP:20260730T173000Z
+DTSTART;TZID=America/New_York:20260730T173000
+DTEND;TZID=America/New_York:20260730T193000
+SUMMARY:Member Meet Up: Boston Harbor Distillery 
+LOCATION:Offsite: Rose Kennedy Greenway
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 45 spots lef
+ t\nStatus: futureSale\nEvent URL: https://members.thequinhouse.com/events/
+ 195309\n\nJoin us for a special Member Meet Up at The Rose Kennedy Greenwa
+ y\, hosted by Boston Harbor Distillery. Spend the evening connecting with 
+ fellow members while enjoying two complimentary handcrafted cocktails\, de
+ licious light bites\, and great conversation in one of Boston's most vibra
+ nt outdoor spaces.\n\nMembers will also have the unique opportunity to mee
+ t Boston Harbor Distillery founder Rhonda Kallman\, who will lead an exclu
+ sive guided tasting of the distillery's acclaimed Lawley's collection. Dis
+ cover the fresh botanical notes of their signature gins\, the rich charact
+ er of their New England–style rums\, and the crisp\, smooth finish of th
+ eir Harborside Vodka while learning about the inspiration and craftsmanshi
+ p behind each spirit.\n\nWhether you're a longtime whiskey and spirits ent
+ husiast or simply looking for a fun evening with fellow members\, this is 
+ the perfect opportunity to sip\, socialize\, and experience one of Boston'
+ s premier local distilleries.\n\n*This event is complimentary and reserved
+  for members only. Complimentary bites will be available at nearby concess
+ ions.
+URL:https://members.thequinhouse.com/events/195309
+CATEGORIES:Member Mixer
+END:VEVENT
+BEGIN:VEVENT
 UID:quin-event-180152@thequinhouse.com
 DTSTAMP:20260802T190000Z
 DTSTART;TZID=America/New_York:20260802T190000
@@ -606,6 +634,32 @@ DESCRIPTION:Category: The Arts\nPrice: $607.48 per person\nStatus: soldOut\
  y their guests ages 16+. Pavilion Decks A & B are open space with no assig
  ned seating. All shows are rain or shine.
 URL:https://members.thequinhouse.com/events/180152
+CATEGORIES:The Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-195311@thequinhouse.com
+DTSTAMP:20260804T190000Z
+DTSTART;TZID=America/New_York:20260804T190000
+DTEND;TZID=America/New_York:20260804T203000
+SUMMARY:Author's Circle Book Club: "Summer of Love" with Kerri Maher
+LOCATION:Scottie's
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 50 spots left\nS
+ tatus: futureSale\nEvent URL: https://members.thequinhouse.com/events/1953
+ 11\n\nBookmark the date for an inspiring conversation exploring “The Sum
+ mer of Love” with author Kerri Maher. Moderated by Wendy Dodson\, owner 
+ of Humming Bird Books.\n\nSettle into the sand this month and let the Cali
+ fornia coast carry you away. A story of family\, love\, ambition\, and lon
+ g-buried secrets\, this is the perfect escape to pack in your beach bag th
+ is summer. Travel back to the Summer of Love in 1967\, where two sisters f
+ ind themselves on very different paths. Winnie dreams of changing the worl
+ d through poetry in the heart of San Francisco's counterculture\, while Mi
+ randa stays home to build her family's California vineyard into something 
+ extraordinary.\n\nFifty years later\, Dawn Hartley is pulled back into her
+  family's past when she sets out to uncover the identity of a mysterious b
+ estselling author who seems to know all of the Hartleys' deepest secrets�
+ �including one Dawn is hiding herself.\n\n*This event is complimentary and
+  reserved for members only. Light refreshments will be served.
+URL:https://members.thequinhouse.com/events/195311
 CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
