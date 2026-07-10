@@ -24,52 +24,6 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:quin-event-191166@thequinhouse.com
-DTSTAMP:20260709T160000Z
-DTSTART;TZID=America/New_York:20260709T160000
-DTEND;TZID=America/New_York:20260709T180000
-SUMMARY:Meet the Maker: Berene Sauls of Tesselaarsdal Wines
-LOCATION:The Muse
-DESCRIPTION:Category: Food & Beverage\, Survey - Programming\nPrice: Free\n
- Availability: 4 spots left\nStatus: You are Confirmed\nEvent URL: https://
- members.thequinhouse.com/events/191166\n\nJoin us for an evening of wine\,
-  storytelling\, and discovery as we welcome Berene Sauls\, founder and win
- emaker of Tesselaarsdal Wines\, for an intimate reception-style Meet the M
- aker.\n\nBorn in the historic South African village of Tesselaarsdal and i
- nspired by its remarkable legacy\, Berene has emerged as one of the countr
- y's most compelling voices in modern winemaking. Her journey—from workin
- g behind the scenes at the acclaimed Hamilton Russell Vineyards to launchi
- ng her own label in 2015—has been guided by a commitment to honoring pla
- ce\, heritage\, and the transformative power of opportunity.\n\nThroughout
-  the evening\, members will enjoy a guided tasting of two vintages each of
-  Tesselaarsdal Chardonnay and Pinot Noir\, exploring the distinctive terro
- ir of the Hemel-en-Aarde Ridge and the stories woven into every bottle. As
-  Berene shares her experiences as a pioneering female winemaker and entrep
- reneur\, guests will gain a deeper appreciation for the people\, history\,
-  and landscape shaping one of South Africa's most exciting wine regions.\n
- \n*This event is complimenary and reserved for members only. Complimentary
-  light bites and refreshments will be served.
-URL:https://members.thequinhouse.com/events/191166
-CATEGORIES:Food & Beverage,Survey - Programming
-END:VEVENT
-BEGIN:VEVENT
-UID:quin-event-194381@thequinhouse.com
-DTSTAMP:20260709T160000Z
-DTSTART;TZID=America/New_York:20260709T160000
-DTEND;TZID=America/New_York:20260709T180000
-SUMMARY:Watch Party: World Cup Quarterfinal 
-LOCATION:The Pub
-DESCRIPTION:Category: Sports & Games\nPrice: Free / Included\nStatus: Avail
- able\nEvent URL: https://members.thequinhouse.com/events/194381\n\nAll eye
- s on the pitch for the World Cup Quarterfinal match. Settle in with the 
- best seats in the house—every screen aglow\, the energy palpable\, and t
- he Pub pouring all night long. A full lineup of fan favorites will be on o
- ffer\, best enjoyed alongside a perfectly timed pint.\n\n*Reservations not
-  required.
-URL:https://members.thequinhouse.com/events/194381
-CATEGORIES:Sports & Games
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-180149@thequinhouse.com
 DTSTAMP:20260710T183000Z
 DTSTART;TZID=America/New_York:20260710T183000
@@ -416,7 +370,7 @@ DTSTART;TZID=America/New_York:20260721T170000
 DTEND;TZID=America/New_York:20260721T180000
 SUMMARY:Member Mingle
 LOCATION:Lunasol
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 36 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 34 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  90017\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in the ambiant reserved space of Lunasol. This is your opportunity to co
