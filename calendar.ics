@@ -154,20 +154,20 @@ DTSTART;TZID=America/New_York:20260715T133000
 DTEND;TZID=America/New_York:20260715T150000
 SUMMARY:'Quin Chat: Gallery by Denise Matejic 
 LOCATION:The Terrace
-DESCRIPTION:Category: The Arts\nPrice: Free\nStatus: Waitlist Only\nEvent U
- RL: https://members.thequinhouse.com/events/194581\n\n1:30PM Reception\, 2
- :00PM Discussion\nPlease join The 'Quin House art curator\, Kate Chertavia
- n for a discussion together with The ‘Quin House Co-Founder Sandy Edgerl
- ey on the works of her mother\, artist Denise Matejic. On view in the Terr
- ace through July 23rd\, the pop-up exhibition features 21 artworks in a va
- riety of media created throughout her career. Inspired by the rural landsc
- apes and cityscapes of Western Europe where she grew up\, as well as the s
- uburban landscape here in New England and beyond\, her work is a celebrati
- on of the beauty found in the world around us. Together\, Kate and Sandy w
- ill explore Denise's artistic practice and how it has inspired Sandy's lif
- elong love of art. Members will enjoy this afternoon experience over tea a
- nd light bites.  \n\n*This event is complimentary and reserved for membe
- rs only.
+DESCRIPTION:Category: The Arts\nPrice: Free / Included\nStatus: unlimited\n
+ Event URL: https://members.thequinhouse.com/events/194581\n\n1:30PM Recept
+ ion\, 2:00PM Discussion\nPlease join The 'Quin House art curator\, Kate Ch
+ ertavian for a discussion together with The ‘Quin House Co-Founder Sandy
+  Edgerley on the works of her mother\, artist Denise Matejic. On view in t
+ he Terrace through July 23rd\, the pop-up exhibition features 21 artworks 
+ in a variety of media created throughout her career. Inspired by the rural
+  landscapes and cityscapes of Western Europe where she grew up\, as well a
+ s the suburban landscape here in New England and beyond\, her work is a ce
+ lebration of the beauty found in the world around us. Together\, Kate and 
+ Sandy will explore Denise's artistic practice and how it has inspired Sand
+ y's lifelong love of art. Members will enjoy this afternoon experience ove
+ r tea and light bites.  \n\n*This event is complimentary and reserved fo
+ r members only.
 URL:https://members.thequinhouse.com/events/194581
 CATEGORIES:The Arts
 END:VEVENT
@@ -343,23 +343,23 @@ DTEND;TZID=America/New_York:20260720T210000
 SUMMARY:Serendipity Dinner - Shared Histories
 LOCATION:The Muse
 DESCRIPTION:Category: Member Mixer\nPrice: $100.00 per person\nAvailability
- : 10 spots left\nStatus: Available\nEvent URL: https://members.thequinhous
- e.com/events/194060\n\nContinuing the "Curated Connections" extension of t
- he Serendipity series\, join us for dinner convening members who study\, p
- reserve\, teach\, or simply delight in history. From historians\, educator
- s\, archivists\, curators\, and authors to lifelong learners and passionat
- e history enthusiasts\, this month's shared interest will inspire engaging
-  conversation as you engage with fellow members through conversations insp
- ired by the people\, places\, and pivotal moments that have shaped our wor
- ld.\n\nCurious? Set against the backdrop of a thoughtfully curated three-c
- ourse dinner with expertly paired wines\, this unique experience invites m
- embers to connect through curated conversation prompts designed to spark e
- ngaging dialogue. Enjoy the perfect blend of stimulating discussion\, exce
- ptional company\, and a menu crafted to delight the senses. \n\n*Tickets 
- are $100 per person\, plus tax and are reserved for members only. Cancella
- tions within 72 hours of the event\, or failure to attend\, will be charge
- d in full. Please inform us of any dietary needs or restrictions by emaili
- ng happening@thequin.com at least 72 hours before dinner service.
+ : 4 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
+ .com/events/194060\n\nContinuing the "Curated Connections" extension of th
+ e Serendipity series\, join us for dinner convening members who study\, pr
+ eserve\, teach\, or simply delight in history. From historians\, educators
+ \, archivists\, curators\, and authors to lifelong learners and passionate
+  history enthusiasts\, this month's shared interest will inspire engaging 
+ conversation as you engage with fellow members through conversations inspi
+ red by the people\, places\, and pivotal moments that have shaped our worl
+ d.\n\nCurious? Set against the backdrop of a thoughtfully curated three-co
+ urse dinner with expertly paired wines\, this unique experience invites me
+ mbers to connect through curated conversation prompts designed to spark en
+ gaging dialogue. Enjoy the perfect blend of stimulating discussion\, excep
+ tional company\, and a menu crafted to delight the senses. \n\n*Tickets a
+ re $100 per person\, plus tax and are reserved for members only. Cancellat
+ ions within 72 hours of the event\, or failure to attend\, will be charged
+  in full. Please inform us of any dietary needs or restrictions by emailin
+ g happening@thequin.com at least 72 hours before dinner service.
 URL:https://members.thequinhouse.com/events/194060
 CATEGORIES:Member Mixer
 END:VEVENT
@@ -370,7 +370,7 @@ DTSTART;TZID=America/New_York:20260721T170000
 DTEND;TZID=America/New_York:20260721T180000
 SUMMARY:Member Mingle
 LOCATION:Lunasol
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 32 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 29 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  90017\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in the ambiant reserved space of Lunasol. This is your opportunity to co
@@ -438,6 +438,29 @@ URL:https://members.thequinhouse.com/events/192746
 CATEGORIES:‘Quin Chat
 END:VEVENT
 BEGIN:VEVENT
+UID:quin-event-195310@thequinhouse.com
+DTSTAMP:20260723T180000Z
+DTSTART;TZID=America/New_York:20260723T180000
+DTEND;TZID=America/New_York:20260723T200000
+SUMMARY:Member Mixer: The Story Behind It
+LOCATION:Scottie's
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 41 spots lef
+ t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
+ 95310\n\nEvery cherished object carries a story.\n\nJoin fellow members fo
+ r an intimate evening of conversation and discovery as we explore the pers
+ onal stories behind life's most meaningful keepsakes. Whether it is a trea
+ sured family heirloom\, a memorable travel find\, a piece of art\, a colle
+ ctible\, or another object of personal significance\, each item offers a u
+ nique glimpse into the experiences\, traditions\, and moments that have sh
+ aped its owner.\n\nMembers who wish to participate will be invited to shar
+ e their selected piece and its story in a brief presentation\, creating an
+  engaging exchange of memories\, history\, and inspiration.\n\n*This event
+  is complimentary and reserved for members only. Complimentary light bites
+  will be served with beverages available for purchase.
+URL:https://members.thequinhouse.com/events/195310
+CATEGORIES:Member Mixer
+END:VEVENT
+BEGIN:VEVENT
 UID:quin-event-192826@thequinhouse.com
 DTSTAMP:20260724T120000Z
 DTSTART;TZID=America/New_York:20260724T120000
@@ -502,7 +525,7 @@ DTSTART;TZID=America/New_York:20260728T170000
 DTEND;TZID=America/New_York:20260728T180000
 SUMMARY:Member Mingle
 LOCATION:Lunasol
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 35 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 34 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  90018\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in the ambiant reserved space of Lunasol. This is your opportunity to co
@@ -596,21 +619,20 @@ LOCATION:Offsite: Rose Kennedy Greenway
 DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 45 spots lef
  t\nStatus: futureSale\nEvent URL: https://members.thequinhouse.com/events/
  195309\n\nJoin us for a special Member Meet Up at The Rose Kennedy Greenwa
- y\, hosted by Boston Harbor Distillery. Spend the evening connecting with 
- fellow members while enjoying two complimentary handcrafted cocktails\, de
- licious light bites\, and great conversation in one of Boston's most vibra
- nt outdoor spaces.\n\nMembers will also have the unique opportunity to mee
- t Boston Harbor Distillery founder Rhonda Kallman\, who will lead an exclu
- sive guided tasting of the distillery's acclaimed Lawley's collection. Dis
- cover the fresh botanical notes of their signature gins\, the rich charact
- er of their New England–style rums\, and the crisp\, smooth finish of th
- eir Harborside Vodka while learning about the inspiration and craftsmanshi
- p behind each spirit.\n\nWhether you're a longtime whiskey and spirits ent
- husiast or simply looking for a fun evening with fellow members\, this is 
- the perfect opportunity to sip\, socialize\, and experience one of Boston'
- s premier local distilleries.\n\n*This event is complimentary and reserved
-  for members only. Complimentary bites will be available at nearby concess
- ions.
+ y\, hosted by The 'Quin's Membership Team. Spend the evening connecting wi
+ th fellow members while enjoying two handcrafted cocktails on the 'House\,
+  delicious light bites\, and great conversation in one of Boston's most vi
+ brant outdoor spaces.\n\nMembers will also have the unique opportunity to 
+ meet Boston Harbor Distillery founder Rhonda Kallman\, who will lead an ex
+ clusive guided tasting of the distillery's acclaimed Lawley's collection. 
+ Discover the fresh botanical notes of their signature gins\, the rich char
+ acter of their New England–style rums\, and the crisp\, smooth finish of
+  their Harborside Vodka while learning about the inspiration and craftsman
+ ship behind each spirit.\n\nWhether you are a longtime whiskey and spirits
+  enthusiast or simply looking for a fun evening with fellow members\, this
+  is the perfect opportunity to sip\, socialize\, and experience one of Bos
+ ton's premier local distilleries. \n\n*This event is complimentary and re
+ served for members only. Light bites will be available on the 'House.
 URL:https://members.thequinhouse.com/events/195309
 CATEGORIES:Member Mixer
 END:VEVENT
