@@ -24,28 +24,6 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:quin-event-180149@thequinhouse.com
-DTSTAMP:20260710T183000Z
-DTSTART;TZID=America/New_York:20260710T183000
-DTEND;TZID=America/New_York:20260710T210000
-SUMMARY:Summer Concert Series: Noah Kahan 
-LOCATION:Fenway Park
-DESCRIPTION:Category: The Arts\nPrice: $654.21 per person\nStatus: soldOut\
- nEvent URL: https://members.thequinhouse.com/events/180149\n\nThe ‘Quin�
- ��s Summer Concert Series continues with Noah Kahan’s Great Divide Tour\
- , joined by special guests Gigi Perez and Annabelle Dinda. \n\nIn partners
- hip with the Foundation To Be Named Later\, members will experience a priv
- ate party from Fenway’s Pavilion Decks A & B\, complete with complimenta
- ry food\, beer\, wine\, and hard seltzers\, all set against panoramic view
- s of the show.\n\n*Tickets are $700 each and reflect a charitable donation
-  to The Foundation To Be Named Later. Tickets are non-refundable and non-t
- ransferable. Members may purchase up to two tickets and are required to ac
- company their guests ages 16+. Pavilion Decks A & B are open space with no
-  assigned seating. All shows are rain or shine.
-URL:https://members.thequinhouse.com/events/180149
-CATEGORIES:The Arts
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-180151@thequinhouse.com
 DTSTAMP:20260711T183000Z
 DTSTART;TZID=America/New_York:20260711T183000
@@ -218,16 +196,16 @@ DESCRIPTION:Category: Member Mixer\nPrice: $80.00 per person\nAvailability:
  ers\, directors\, and producers to passionate patrons and enthusiasts\, th
  is month's commonality will spark engaging conversation through a curated 
  deck of prompts facilitated by our Membership team.\n\nCurious? Set agains
- t the backdrop of lunch in Lunasol\, members will enjoy meaningful connect
- ions and lively discussion around creativity\, performance\, storytelling\
- , and the cultural impact of the arts. Whether you're center stage or in t
- he audience\, you'll leave with new perspectives\, new connections\, and a
-  deeper appreciation for the vibrant performing arts community within The 
- 'Quin—all while enjoying a thoughtful lunch prepared by the chef.\n\n*Ti
- ckets are $80 per person\, plus tax\, and are reserved for members only. C
- ancellations within 48 hours of the event\, or failure to attend\, will be
-  charged in full. Please inform us of any dietary needs or restrictions by
-  emailing happening@thequin.com at least 72 hours prior to the event.
+ t the backdrop of lunch in The Terrace\, members will enjoy meaningful con
+ nections and lively discussion around creativity\, performance\, storytell
+ ing\, and the cultural impact of the arts. Whether you're center stage or 
+ in the audience\, you'll leave with new perspectives\, new connections\, a
+ nd a deeper appreciation for the vibrant performing arts community within 
+ The 'Quin—all while enjoying a thoughtful lunch prepared by the chef.\n\
+ n*Tickets are $80 per person\, plus tax\, and are reserved for members onl
+ y. Cancellations within 48 hours of the event\, or failure to attend\, wil
+ l be charged in full. Please inform us of any dietary needs or restriction
+ s by emailing happening@thequin.com at least 72 hours prior to the event.
 URL:https://members.thequinhouse.com/events/191169
 CATEGORIES:Member Mixer
 END:VEVENT
@@ -343,7 +321,7 @@ DTEND;TZID=America/New_York:20260720T210000
 SUMMARY:Serendipity Dinner - Shared Histories
 LOCATION:The Muse
 DESCRIPTION:Category: Member Mixer\nPrice: $100.00 per person\nAvailability
- : 4 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
+ : 3 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
  .com/events/194060\n\nContinuing the "Curated Connections" extension of th
  e Serendipity series\, join us for dinner convening members who study\, pr
  eserve\, teach\, or simply delight in history. From historians\, educators
@@ -370,7 +348,7 @@ DTSTART;TZID=America/New_York:20260721T170000
 DTEND;TZID=America/New_York:20260721T180000
 SUMMARY:Member Mingle
 LOCATION:Lunasol
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 29 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 28 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  90017\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in the ambiant reserved space of Lunasol. This is your opportunity to co
@@ -444,7 +422,7 @@ DTSTART;TZID=America/New_York:20260723T180000
 DTEND;TZID=America/New_York:20260723T200000
 SUMMARY:Member Mixer: The Story Behind It
 LOCATION:Scottie's
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 41 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 39 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  95310\n\nEvery cherished object carries a story.\n\nJoin fellow members fo
  r an intimate evening of conversation and discovery as we explore the pers
