@@ -24,28 +24,6 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:quin-event-180151@thequinhouse.com
-DTSTAMP:20260711T183000Z
-DTSTART;TZID=America/New_York:20260711T183000
-DTEND;TZID=America/New_York:20260711T210000
-SUMMARY:Summer Concert Series: Noah Kahan 
-LOCATION:Fenway Park
-DESCRIPTION:Category: The Arts\nPrice: $654.21 per person\nStatus: soldOut\
- nEvent URL: https://members.thequinhouse.com/events/180151\n\nThe ‘Quin�
- ��s Summer Concert Series continues with Noah Kahan’s Great Divide Tour\
- , joined by special guests Gigi Perez and Annabelle Dinda. \n\nIn partners
- hip with the Foundation To Be Named Later\, members will experience a priv
- ate party from Fenway’s Pavilion Decks A & B\, complete with complimenta
- ry food\, beer\, wine\, and hard seltzers\, all set against panoramic view
- s of the show.\n\n*Tickets are $700 each and reflect a charitable donation
-  to The Foundation To Be Named Later. Tickets are non-refundable and non-t
- ransferable. Members may purchase up to two tickets and are required to ac
- company their guests ages 16+. Pavilion Decks A & B are open space with no
-  assigned seating. All shows are rain or shine.
-URL:https://members.thequinhouse.com/events/180151
-CATEGORIES:The Arts
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-190016@thequinhouse.com
 DTSTAMP:20260713T170000Z
 DTSTART;TZID=America/New_York:20260713T170000
@@ -321,23 +299,23 @@ DTEND;TZID=America/New_York:20260720T210000
 SUMMARY:Serendipity Dinner - Shared Histories
 LOCATION:The Muse
 DESCRIPTION:Category: Member Mixer\nPrice: $100.00 per person\nAvailability
- : 2 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
- .com/events/194060\n\nContinuing the "Curated Connections" extension of th
- e Serendipity series\, join us for dinner convening members who study\, pr
- eserve\, teach\, or simply delight in history. From historians\, educators
- \, archivists\, curators\, and authors to lifelong learners and passionate
-  history enthusiasts\, this month's shared interest will inspire engaging 
- conversation as you engage with fellow members through conversations inspi
- red by the people\, places\, and pivotal moments that have shaped our worl
- d.\n\nCurious? Set against the backdrop of a thoughtfully curated three-co
- urse dinner with expertly paired wines\, this unique experience invites me
- mbers to connect through curated conversation prompts designed to spark en
- gaging dialogue. Enjoy the perfect blend of stimulating discussion\, excep
- tional company\, and a menu crafted to delight the senses. \n\n*Tickets a
- re $100 per person\, plus tax and are reserved for members only. Cancellat
- ions within 72 hours of the event\, or failure to attend\, will be charged
-  in full. Please inform us of any dietary needs or restrictions by emailin
- g happening@thequin.com at least 72 hours before dinner service.
+ : 1 spot left\nStatus: Available\nEvent URL: https://members.thequinhouse.
+ com/events/194060\n\nContinuing the "Curated Connections" extension of the
+  Serendipity series\, join us for dinner convening members who study\, pre
+ serve\, teach\, or simply delight in history. From historians\, educators\
+ , archivists\, curators\, and authors to lifelong learners and passionate 
+ history enthusiasts\, this month's shared interest will inspire engaging c
+ onversation as you engage with fellow members through conversations inspir
+ ed by the people\, places\, and pivotal moments that have shaped our world
+ .\n\nCurious? Set against the backdrop of a thoughtfully curated three-cou
+ rse dinner with expertly paired wines\, this unique experience invites mem
+ bers to connect through curated conversation prompts designed to spark eng
+ aging dialogue. Enjoy the perfect blend of stimulating discussion\, except
+ ional company\, and a menu crafted to delight the senses. \n\n*Tickets ar
+ e $100 per person\, plus tax and are reserved for members only. Cancellati
+ ons within 72 hours of the event\, or failure to attend\, will be charged 
+ in full. Please inform us of any dietary needs or restrictions by emailing
+  happening@thequin.com at least 72 hours before dinner service.
 URL:https://members.thequinhouse.com/events/194060
 CATEGORIES:Member Mixer
 END:VEVENT
@@ -422,7 +400,7 @@ DTSTART;TZID=America/New_York:20260723T180000
 DTEND;TZID=America/New_York:20260723T200000
 SUMMARY:Member Mixer: The Story Behind It
 LOCATION:Scottie's
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 38 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 36 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  95310\n\nEvery cherished object carries a story.\n\nJoin fellow members fo
  r an intimate evening of conversation and discovery as we explore the pers
