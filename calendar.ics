@@ -326,7 +326,7 @@ DTSTART;TZID=America/New_York:20260721T170000
 DTEND;TZID=America/New_York:20260721T180000
 SUMMARY:Member Mingle
 LOCATION:Lunasol
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 26 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 16 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  90017\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in the ambiant reserved space of Lunasol. This is your opportunity to co
@@ -400,7 +400,7 @@ DTSTART;TZID=America/New_York:20260723T180000
 DTEND;TZID=America/New_York:20260723T200000
 SUMMARY:Member Mixer: The Story Behind It
 LOCATION:Scottie's
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 33 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 29 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  95310\n\nEvery cherished object carries a story.\n\nJoin fellow members fo
  r an intimate evening of conversation and discovery as we explore the pers
@@ -481,7 +481,7 @@ DTSTART;TZID=America/New_York:20260728T170000
 DTEND;TZID=America/New_York:20260728T180000
 SUMMARY:Member Mingle
 LOCATION:Lunasol
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 30 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 26 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  90018\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in the ambiant reserved space of Lunasol. This is your opportunity to co
@@ -572,23 +572,23 @@ DTSTART;TZID=America/New_York:20260730T173000
 DTEND;TZID=America/New_York:20260730T193000
 SUMMARY:Member Meet Up: Boston Harbor Distillery 
 LOCATION:Offsite: Rose Kennedy Greenway
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 45 spots lef
- t\nStatus: futureSale\nEvent URL: https://members.thequinhouse.com/events/
- 195309\n\nJoin us for a special Member Meet Up at The Rose Kennedy Greenwa
- y\, hosted by The 'Quin's Membership Team. Spend the evening connecting wi
- th fellow members while enjoying two handcrafted cocktails on the 'House\,
-  delicious light bites\, and great conversation in one of Boston's most vi
- brant outdoor spaces.\n\nMembers will also have the unique opportunity to 
- meet Boston Harbor Distillery founder Rhonda Kallman\, who will lead an ex
- clusive guided tasting of the distillery's acclaimed Lawley's collection. 
- Discover the fresh botanical notes of their signature gins\, the rich char
- acter of their New England–style rums\, and the crisp\, smooth finish of
-  their Harborside Vodka while learning about the inspiration and craftsman
- ship behind each spirit.\n\nWhether you are a longtime whiskey and spirits
-  enthusiast or simply looking for a fun evening with fellow members\, this
-  is the perfect opportunity to sip\, socialize\, and experience one of Bos
- ton's premier local distilleries. \n\n*This event is complimentary and re
- served for members only. Light bites will be available on the 'House.
+DESCRIPTION:Category: Member Mixer\nPrice: Free / Included\nStatus: unlimit
+ ed\nEvent URL: https://members.thequinhouse.com/events/195309\n\nJoin us f
+ or a special Member Meet Up at The Rose Kennedy Greenway\, hosted by The '
+ Quin's Membership Team. Spend the evening connecting with fellow members w
+ hile enjoying two handcrafted cocktails on the 'House\, delicious light bi
+ tes\, and great conversation in one of Boston's most vibrant outdoor space
+ s.\n\nMembers will also have the unique opportunity to meet Boston Harbor 
+ Distillery founder Rhonda Kallman\, who will lead an exclusive guided tast
+ ing of the distillery's acclaimed Lawley's collection. Discover the fresh 
+ botanical notes of their signature gins\, the rich character of their New 
+ England–style rums\, and the crisp\, smooth finish of their Harborside V
+ odka while learning about the inspiration and craftsmanship behind each sp
+ irit.\n\nWhether you are a longtime whiskey and spirits enthusiast or simp
+ ly looking for a fun evening with fellow members\, this is the perfect opp
+ ortunity to sip\, socialize\, and experience one of Boston's premier local
+  distilleries. \n\n*This event is complimentary and reserved for members 
+ only. Light bites will be available on the 'House.
 URL:https://members.thequinhouse.com/events/195309
 CATEGORIES:Member Mixer
 END:VEVENT
@@ -621,22 +621,22 @@ DTSTART;TZID=America/New_York:20260804T190000
 DTEND;TZID=America/New_York:20260804T203000
 SUMMARY:Author's Circle Book Club: "Summer of Love" with Kerri Maher
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 50 spots left\nS
- tatus: futureSale\nEvent URL: https://members.thequinhouse.com/events/1953
- 11\n\nBookmark the date for an inspiring conversation exploring “The Sum
- mer of Love” with author Kerri Maher. Moderated by Wendy Dodson\, owner 
- of Humming Bird Books.\n\nSettle into the sand this month and let the Cali
- fornia coast carry you away. A story of family\, love\, ambition\, and lon
- g-buried secrets\, this is the perfect escape to pack in your beach bag th
- is summer. Travel back to the Summer of Love in 1967\, where two sisters f
- ind themselves on very different paths. Winnie dreams of changing the worl
- d through poetry in the heart of San Francisco's counterculture\, while Mi
- randa stays home to build her family's California vineyard into something 
- extraordinary.\n\nFifty years later\, Dawn Hartley is pulled back into her
-  family's past when she sets out to uncover the identity of a mysterious b
- estselling author who seems to know all of the Hartleys' deepest secrets�
- �including one Dawn is hiding herself.\n\n*This event is complimentary and
-  reserved for members only. Light refreshments will be served.
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 23 spots left\nS
+ tatus: Available\nEvent URL: https://members.thequinhouse.com/events/19531
+ 1\n\nBookmark the date for an inspiring conversation exploring “The Summ
+ er of Love” with author Kerri Maher. Moderated by Wendy Dodson\, owner o
+ f Humming Bird Books.\n\nSettle into the sand this month and let the Calif
+ ornia coast carry you away. A story of family\, love\, ambition\, and long
+ -buried secrets\, this is the perfect escape to pack in your beach bag thi
+ s summer. Travel back to the Summer of Love in 1967\, where two sisters fi
+ nd themselves on very different paths. Winnie dreams of changing the world
+  through poetry in the heart of San Francisco's counterculture\, while Mir
+ anda stays home to build her family's California vineyard into something e
+ xtraordinary.\n\nFifty years later\, Dawn Hartley is pulled back into her 
+ family's past when she sets out to uncover the identity of a mysterious be
+ stselling author who seems to know all of the Hartleys' deepest secrets—
+ including one Dawn is hiding herself.\n\n*This event is complimentary and 
+ reserved for members only. Light refreshments will be served.
 URL:https://members.thequinhouse.com/events/195311
 CATEGORIES:The Arts
 END:VEVENT
