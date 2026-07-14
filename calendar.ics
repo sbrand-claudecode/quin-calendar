@@ -24,56 +24,6 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:quin-event-190016@thequinhouse.com
-DTSTAMP:20260713T170000Z
-DTSTART;TZID=America/New_York:20260713T170000
-DTEND;TZID=America/New_York:20260713T190000
-SUMMARY:Member Mingle
-LOCATION:The Sky Deck
-DESCRIPTION:Category: Member Mixer\nPrice: Free / Included\nStatus: unlimit
- ed\nEvent URL: https://members.thequinhouse.com/events/190016\n\nJoin us f
- or our weekly Member Mingle as we take the gathering outdoors for the summ
- er season on The Sky Deck. Set against sweeping city views and warm summer
-  sunshine\, this inclusive gathering offers the perfect opportunity to con
- nect with fellow members\, exchange ideas\, and cultivate meaningful relat
- ionships.\n\nWhether you're sparking new collaborations\, sharing insights
- \, or simply enjoying great conversation\, Member Mingle is a welcoming sp
- ace to engage with our dynamic community. Join us for an evening of connec
- tion\, inspiration\, and conversation.\n\n*This event is complimentary and
-  reserved exclusively for members. Complimentary light bites will be serve
- d\, and beverages will be available for purchase. In the event of inclemen
- t weather\, the gathering will move indoors to The Living Room.
-URL:https://members.thequinhouse.com/events/190016
-CATEGORIES:Member Mixer
-END:VEVENT
-BEGIN:VEVENT
-UID:quin-event-194582@thequinhouse.com
-DTSTAMP:20260713T190000Z
-DTSTART;TZID=America/New_York:20260713T190000
-DTEND;TZID=America/New_York:20260713T210000
-SUMMARY:Boston’s Exclusive First-Look Screening of "The Odyssey"
-LOCATION:Offsite: AMC Boston Common
-DESCRIPTION:Category: The Arts\nPrice: Free / Included\nStatus: You are on 
- Waitlist\nEvent URL: https://members.thequinhouse.com/events/194582\n\n6:3
- 0PM Doors Open\, 7:00PM-10:00PM Screening\nBe among the first to experienc
- e one of the year's most anticipated cinematic events with a first look sc
- reening of Christopher Nolan's highly anticipated adaptation of The Odysse
- y.\n\nThis summer\, defy the gods. Universal Pictures proudly presents the
-  new film by Christopher Nolan. A sweeping mythological epic inspired by H
- omer's timeless poem\, The Odyssey\, staring Matt Damon\, Tom Holland\, 
- Anne Hathaway\, Robert Pattison\, Lupita Nyong'o\, Zendaya and\, Charlize 
- Theron. The film follows Odysseus\, the legendary King of Ithaca perilous 
- decade- long journey home after the Trojan War as he confronts mythical cr
- eatures\, vengeful gods\, and extraordinary trials in a relentless quest t
- o reunite with his wife\, Penelope.\n\nJoin us for an unforgettable evenin
- g of epic storytelling\, breathtaking spectacle\, and one of the year's mo
- st anticipated cinematic experiences.\n\n*This event is complimentary and 
- reserved for members only. Please note that the screening will begin promp
- tly at 7:00PM with no trailers preceding the film.
-URL:https://members.thequinhouse.com/events/194582
-CATEGORIES:The Arts
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-191168@thequinhouse.com
 DTSTAMP:20260714T170000Z
 DTSTART;TZID=America/New_York:20260714T170000
@@ -326,7 +276,7 @@ DTSTART;TZID=America/New_York:20260721T170000
 DTEND;TZID=America/New_York:20260721T180000
 SUMMARY:Member Mingle
 LOCATION:Lunasol
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 16 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 15 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  90017\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in the ambiant reserved space of Lunasol. This is your opportunity to co
@@ -400,7 +350,7 @@ DTSTART;TZID=America/New_York:20260723T180000
 DTEND;TZID=America/New_York:20260723T200000
 SUMMARY:Member Mixer: The Story Behind It
 LOCATION:Scottie's
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 29 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 27 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  95310\n\nEvery cherished object carries a story.\n\nJoin fellow members fo
  r an intimate evening of conversation and discovery as we explore the pers
@@ -481,7 +431,7 @@ DTSTART;TZID=America/New_York:20260728T170000
 DTEND;TZID=America/New_York:20260728T180000
 SUMMARY:Member Mingle
 LOCATION:Lunasol
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 26 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 24 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  90018\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in the ambiant reserved space of Lunasol. This is your opportunity to co
@@ -621,7 +571,7 @@ DTSTART;TZID=America/New_York:20260804T190000
 DTEND;TZID=America/New_York:20260804T203000
 SUMMARY:Author's Circle Book Club: "Summer of Love" with Kerri Maher
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 23 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 21 spots left\nS
  tatus: Available\nEvent URL: https://members.thequinhouse.com/events/19531
  1\n\nBookmark the date for an inspiring conversation exploring “The Summ
  er of Love” with author Kerri Maher. Moderated by Wendy Dodson\, owner o
