@@ -24,36 +24,6 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:quin-event-191168@thequinhouse.com
-DTSTAMP:20260714T170000Z
-DTSTART;TZID=America/New_York:20260714T170000
-DTEND;TZID=America/New_York:20260714T190000
-SUMMARY:Author Talk: "Man Made" with Karen Korellis Reuther
-LOCATION:The Muse
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free / Included\nStatus: unlimit
- ed\nEvent URL: https://members.thequinhouse.com/events/191168\n\n5:00PM Re
- ception\, 5:30PM Discussion\nWhat if the world around us was not designed 
- with everyone in mind?\n\nJoin us for an illuminating conversation with Ka
- ren Korellis Reuther - designer\, educator\, inclusion advocate\, and auth
- or for an exclusive first look of the forthcoming book MAN-MADE: How We D
- esigned a World That Leaves Women Out\, and How We Can Make It Right. Draw
- ing on more than four decades of experience\, including leadership roles a
- t Nike and Reebok and her current work at Harvard's Graduate School of Des
- ign\, Karen explores the hidden ways gender bias has been built into the p
- roducts\, systems\, and spaces we encounter every day.\n\nFrom personal pr
- otective equipment and athletic footwear to healthcare\, transportation\, 
- and public infrastructure\, MAN-MADE reveals how design decisions rooted
-  in a male default continue to shape women's experiences\, often with prof
- ound consequences. Through compelling research\, real-world examples\, and
-  a forward-looking vision for change\, Karen invites us to reconsider the 
- world we have inherited - and imagine one designed for everyone.\n\n*This 
- event is complimentary and reserved for members only. Light bites and refr
- eshments will be served. A pre-release of the book will be available for p
- urchase at this event.
-URL:https://members.thequinhouse.com/events/191168
-CATEGORIES:‘Quin Chat
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-194581@thequinhouse.com
 DTSTAMP:20260715T133000Z
 DTSTART;TZID=America/New_York:20260715T133000
@@ -276,7 +246,7 @@ DTSTART;TZID=America/New_York:20260721T170000
 DTEND;TZID=America/New_York:20260721T180000
 SUMMARY:Member Mingle
 LOCATION:Lunasol
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 15 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 14 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  90017\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in the ambiant reserved space of Lunasol. This is your opportunity to co
@@ -350,7 +320,7 @@ DTSTART;TZID=America/New_York:20260723T180000
 DTEND;TZID=America/New_York:20260723T200000
 SUMMARY:Member Mixer: The Story Behind It
 LOCATION:Scottie's
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 26 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 25 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  95310\n\nEvery cherished object carries a story.\n\nJoin fellow members fo
  r an intimate evening of conversation and discovery as we explore the pers
@@ -431,7 +401,7 @@ DTSTART;TZID=America/New_York:20260728T170000
 DTEND;TZID=America/New_York:20260728T180000
 SUMMARY:Member Mingle
 LOCATION:Lunasol
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 22 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 20 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  90018\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in the ambiant reserved space of Lunasol. This is your opportunity to co
@@ -571,7 +541,7 @@ DTSTART;TZID=America/New_York:20260804T190000
 DTEND;TZID=America/New_York:20260804T203000
 SUMMARY:Author's Circle Book Club: "Summer of Love" with Kerri Maher
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 14 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 13 spots left\nS
  tatus: Available\nEvent URL: https://members.thequinhouse.com/events/19531
  1\n\nBookmark the date for an inspiring conversation exploring “The Summ
  er of Love” with author Kerri Maher. Moderated by Wendy Dodson\, owner o
