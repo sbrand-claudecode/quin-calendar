@@ -24,38 +24,6 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:quin-event-191172@thequinhouse.com
-DTSTAMP:20260715T200000Z
-DTSTART;TZID=America/New_York:20260715T200000
-DTEND;TZID=America/New_York:20260715T223000
-SUMMARY:Sail Boston: Luxury Yacht Valiant
-LOCATION:Offsite: Rowes Wharf Gate C
-DESCRIPTION:Category: Member Mixer\nPrice: Free / Included\nStatus: Waitlis
- t Only\nEvent URL: https://members.thequinhouse.com/events/191172\n\nAs Bo
- ston welcomes a once-in-a-generation gathering of the world's most magnifi
- cent tall ships in celebration of America's 250th anniversary\, join fello
- w members aboard luxury yacht Valiant for an unforgettable evening on the 
- harbor.\n\nDeparting from Rowes Wharf\, this exclusive cruise offers a fro
- nt-row vantage point to Sail Boston 2026\, as an international fleet of hi
- storic tall ships and military vessels fills the harbor in a remarkable di
- splay of maritime tradition and global camaraderie. As dusk settles over t
- he city\, enjoy unparalleled views of the fleet before the evening culmina
- tes with a spectacular fireworks display illuminating the Boston skyline.\
- n\nThroughout the cruise\, guests will enjoy an open bar and a selection o
- f elevated bites while taking in one of the most anticipated events of the
-  Semiquincentennial celebration from the best seat in the harbor.\n\n*This
-  event is offered at $295 per person and is reserved for members\, plus 
- one registered guest age 21+. Complimentary light bites and refreshments w
- ill be served. Complimentary light bites and refreshments will be served.
-  Please note that this event will take place rain or shine. Valiant is par
- tially covered\, and in the event of rough water conditions\, the vessel w
- ill remain docked. Members will meet at Rowes Wharf Gate C\, located direc
- tly in front of the Boston Harbor Hotel. Parking is available at the Bost
- on Harbor Hotel.
-URL:https://members.thequinhouse.com/events/191172
-CATEGORIES:Member Mixer
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-191169@thequinhouse.com
 DTSTAMP:20260716T120000Z
 DTSTART;TZID=America/New_York:20260716T120000
@@ -296,7 +264,7 @@ DTSTART;TZID=America/New_York:20260723T180000
 DTEND;TZID=America/New_York:20260723T200000
 SUMMARY:Member Mixer: The Story Behind It
 LOCATION:Scottie's
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 22 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 21 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  95310\n\nEvery cherished object carries a story.\n\nJoin fellow members fo
  r an intimate evening of conversation and discovery as we explore the pers
@@ -377,7 +345,7 @@ DTSTART;TZID=America/New_York:20260728T170000
 DTEND;TZID=America/New_York:20260728T180000
 SUMMARY:Member Mingle
 LOCATION:Lunasol
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 20 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 19 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  90018\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in the ambiant reserved space of Lunasol. This is your opportunity to co
@@ -517,7 +485,7 @@ DTSTART;TZID=America/New_York:20260804T190000
 DTEND;TZID=America/New_York:20260804T203000
 SUMMARY:Author's Circle Book Club: "Summer of Love" with Kerri Maher
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 6 spots left\nSt
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 4 spots left\nSt
  atus: Available\nEvent URL: https://members.thequinhouse.com/events/195311
  \n\nBookmark the date for an inspiring conversation exploring “The Summe
  r of Love” with author Kerri Maher. Moderated by Wendy Dodson\, owner of
