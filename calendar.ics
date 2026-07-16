@@ -24,30 +24,6 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:quin-event-194581@thequinhouse.com
-DTSTAMP:20260715T133000Z
-DTSTART;TZID=America/New_York:20260715T133000
-DTEND;TZID=America/New_York:20260715T150000
-SUMMARY:'Quin Chat: Gallery by Denise Matejic 
-LOCATION:The Terrace
-DESCRIPTION:Category: The Arts\nPrice: Free / Included\nStatus: unlimited\n
- Event URL: https://members.thequinhouse.com/events/194581\n\n1:30PM Recept
- ion\, 2:00PM Discussion\nPlease join The 'Quin House art curator\, Kate Ch
- ertavian for a discussion together with The ‘Quin House Co-Founder Sandy
-  Edgerley on the works of her mother\, artist Denise Matejic. On view in t
- he Terrace through July 23rd\, the pop-up exhibition features 21 artworks 
- in a variety of media created throughout her career. Inspired by the rural
-  landscapes and cityscapes of Western Europe where she grew up\, as well a
- s the suburban landscape here in New England and beyond\, her work is a ce
- lebration of the beauty found in the world around us. Together\, Kate and 
- Sandy will explore Denise's artistic practice and how it has inspired Sand
- y's lifelong love of art. Members will enjoy this afternoon experience ove
- r tea and light bites.  \n\n*This event is complimentary and reserved fo
- r members only.
-URL:https://members.thequinhouse.com/events/194581
-CATEGORIES:The Arts
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-191172@thequinhouse.com
 DTSTAMP:20260715T200000Z
 DTSTART;TZID=America/New_York:20260715T200000
@@ -320,7 +296,7 @@ DTSTART;TZID=America/New_York:20260723T180000
 DTEND;TZID=America/New_York:20260723T200000
 SUMMARY:Member Mixer: The Story Behind It
 LOCATION:Scottie's
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 24 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 22 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  95310\n\nEvery cherished object carries a story.\n\nJoin fellow members fo
  r an intimate evening of conversation and discovery as we explore the pers
@@ -541,7 +517,7 @@ DTSTART;TZID=America/New_York:20260804T190000
 DTEND;TZID=America/New_York:20260804T203000
 SUMMARY:Author's Circle Book Club: "Summer of Love" with Kerri Maher
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 7 spots left\nSt
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 6 spots left\nSt
  atus: Available\nEvent URL: https://members.thequinhouse.com/events/195311
  \n\nBookmark the date for an inspiring conversation exploring “The Summe
  r of Love” with author Kerri Maher. Moderated by Wendy Dodson\, owner of
