@@ -24,34 +24,6 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:quin-event-191169@thequinhouse.com
-DTSTAMP:20260716T120000Z
-DTSTART;TZID=America/New_York:20260716T120000
-DTEND;TZID=America/New_York:20260716T140000
-SUMMARY: Serendipity Lunch - The Creative Exchange
-LOCATION:The Terrace
-DESCRIPTION:Category: Member Mixer\nPrice: $80.00 per person\nAvailability:
-  2 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse.
- com/events/191169\n\nContinuing the "Curated Connections" extension of the
-  Serendipity series\, join us for lunch convening members who are involved
-  in—or inspired by—the performing arts. From actors\, musicians\, danc
- ers\, directors\, and producers to passionate patrons and enthusiasts\, th
- is month's commonality will spark engaging conversation through a curated 
- deck of prompts facilitated by our Membership team.\n\nCurious? Set agains
- t the backdrop of lunch in The Terrace\, members will enjoy meaningful con
- nections and lively discussion around creativity\, performance\, storytell
- ing\, and the cultural impact of the arts. Whether you're center stage or 
- in the audience\, you'll leave with new perspectives\, new connections\, a
- nd a deeper appreciation for the vibrant performing arts community within 
- The 'Quin—all while enjoying a thoughtful lunch prepared by the chef.\n\
- n*Tickets are $80 per person\, plus tax\, and are reserved for members onl
- y. Cancellations within 48 hours of the event\, or failure to attend\, wil
- l be charged in full. Please inform us of any dietary needs or restriction
- s by emailing happening@thequin.com at least 72 hours prior to the event.
-URL:https://members.thequinhouse.com/events/191169
-CATEGORIES:Member Mixer
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-192823@thequinhouse.com
 DTSTAMP:20260718T160000Z
 DTSTART;TZID=America/New_York:20260718T160000
@@ -190,7 +162,7 @@ DTSTART;TZID=America/New_York:20260721T170000
 DTEND;TZID=America/New_York:20260721T180000
 SUMMARY:Member Mingle
 LOCATION:Lunasol
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 15 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 13 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  90017\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in the ambiant reserved space of Lunasol. This is your opportunity to co
@@ -485,7 +457,7 @@ DTSTART;TZID=America/New_York:20260804T190000
 DTEND;TZID=America/New_York:20260804T203000
 SUMMARY:Author's Circle Book Club: "Summer of Love" with Kerri Maher
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 3 spots left\nSt
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 2 spots left\nSt
  atus: Available\nEvent URL: https://members.thequinhouse.com/events/195311
  \n\nBookmark the date for an inspiring conversation exploring “The Summe
  r of Love” with author Kerri Maher. Moderated by Wendy Dodson\, owner of
