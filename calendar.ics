@@ -162,7 +162,7 @@ DTSTART;TZID=America/New_York:20260721T170000
 DTEND;TZID=America/New_York:20260721T180000
 SUMMARY:Member Mingle
 LOCATION:Lunasol
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 13 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 10 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  90017\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in the ambiant reserved space of Lunasol. This is your opportunity to co
@@ -236,21 +236,40 @@ DTSTART;TZID=America/New_York:20260723T180000
 DTEND;TZID=America/New_York:20260723T200000
 SUMMARY:Member Mixer: The Story Behind It
 LOCATION:Scottie's
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 21 spots lef
- t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
- 95310\n\nEvery cherished object carries a story.\n\nJoin fellow members fo
- r an intimate evening of conversation and discovery as we explore the pers
- onal stories behind life's most meaningful keepsakes. Whether it is a trea
- sured family heirloom\, a memorable travel find\, a piece of art\, a colle
- ctible\, or another object of personal significance\, each item offers a u
- nique glimpse into the experiences\, traditions\, and moments that have sh
- aped its owner.\n\nMembers who wish to participate will be invited to shar
- e their selected piece and its story in a brief presentation\, creating an
-  engaging exchange of memories\, history\, and inspiration.\n\n*This event
-  is complimentary and reserved for members only. Complimentary light bites
-  will be served with beverages available for purchase.
+DESCRIPTION:Category: Member Mixer\nPrice: Free / Included\nStatus: unlimit
+ ed\nEvent URL: https://members.thequinhouse.com/events/195310\n\nEvery che
+ rished object carries a story.\n\nJoin fellow members for an intimate even
+ ing of conversation and discovery as we explore the personal stories behin
+ d life's most meaningful keepsakes. Whether it is a treasured family heirl
+ oom\, a memorable travel find\, a piece of art\, a collectible\, or anothe
+ r object of personal significance\, each item offers a unique glimpse into
+  the experiences\, traditions\, and moments that have shaped its owner.\n\
+ nMembers who wish to participate will be invited to share their selected p
+ iece and its story in a brief presentation\, creating an engaging exchange
+  of memories\, history\, and inspiration.\n\n*This event is complimentary 
+ and reserved for members only. Complimentary light bites will be served wi
+ th beverages available for purchase.
 URL:https://members.thequinhouse.com/events/195310
 CATEGORIES:Member Mixer
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-195765@thequinhouse.com
+DTSTAMP:20260723T183000Z
+DTSTART;TZID=America/New_York:20260723T183000
+DTEND;TZID=America/New_York:20260723T203000
+SUMMARY:Game Night: Backgammon Open Play
+LOCATION:The Terrace
+DESCRIPTION:Category: Sports & Games\nPrice: Free\nAvailability: 8 spots le
+ ft\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/
+ 195765\n\nJoin us in The Terrace for an evening of friendly competition an
+ d open play designed for established players. Whether you are looking to s
+ harpen your strategy\, challenge fellow members\, or simply enjoy a few en
+ gaging matches\, this is the perfect opportunity to connect over one of th
+ e world's most timeless games. \n\n*This event is complimentary and reser
+ ved for members only. Complimentary light bites and refreshments will be s
+ erved.
+URL:https://members.thequinhouse.com/events/195765
+CATEGORIES:Sports & Games
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-192826@thequinhouse.com
@@ -272,6 +291,23 @@ DESCRIPTION:Category: Sports & Games\nPrice: Free / Included\nStatus: unlim
   marks the launch of a new reoccurring Mahjong Open Play series.
 URL:https://members.thequinhouse.com/events/192826
 CATEGORIES:Sports & Games
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-181404@thequinhouse.com
+DTSTAMP:20260725T113000Z
+DTSTART;TZID=America/New_York:20260725T113000
+DTEND;TZID=America/New_York:20260725T143000
+SUMMARY:Jazz Brunch
+LOCATION:Café Q
+DESCRIPTION:Category: Food & Beverage\nPrice: Free / Included\nStatus: Avai
+ lable\nEvent URL: https://members.thequinhouse.com/events/181404\n\nReserv
+ ations from 10:30AM - 3:00PM | Live Music from 11:30AM - 2:30PM\nRise\, sh
+ ine and come hungry for Café Q's á la carte weekend brunch menu featurin
+ g tableside entertainment by a Jazz duo. Following the club's usual policy
+ \, children ages 6+ are welcome to attend when accompanied by a parent.\n\
+ nMake a Reservation.
+URL:https://members.thequinhouse.com/events/181404
+CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-192824@thequinhouse.com
@@ -317,7 +353,7 @@ DTSTART;TZID=America/New_York:20260728T170000
 DTEND;TZID=America/New_York:20260728T180000
 SUMMARY:Member Mingle
 LOCATION:Lunasol
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 19 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 16 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  90018\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in the ambiant reserved space of Lunasol. This is your opportunity to co
@@ -384,7 +420,7 @@ DTEND;TZID=America/New_York:20260730T140000
 SUMMARY: Serendipity Lunch 
 LOCATION:The Terrace
 DESCRIPTION:Category: Member Mixer\nPrice: $80.00 per person\nAvailability:
-  16 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
+  12 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
  .com/events/194059\n\nJoin us for a Serendipity Lunch that invites members
   to enjoy meaningful conversation in great company. Set in The Terrace the
   afternoon unfolds with an easy rhythm—a thoughtfully curated lunch\, en
@@ -449,6 +485,35 @@ DESCRIPTION:Category: The Arts\nPrice: $607.48 per person\nStatus: soldOut\
  ned seating. All shows are rain or shine.
 URL:https://members.thequinhouse.com/events/180152
 CATEGORIES:The Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-195627@thequinhouse.com
+DTSTAMP:20260804T090000Z
+DTSTART;TZID=America/New_York:20260804T090000
+DTEND;TZID=America/New_York:20260804T110000
+SUMMARY:Hands on Impact: Friends of The Public Garden
+LOCATION:Meet in The Lobby
+DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nAvailability: 21 sp
+ ots left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/e
+ vents/195627\n\nJoin fellow members and The 'Quin Impact Fund for a reward
+ ing day of service dedicated to helping preserve and enhance Boston's belo
+ ved public green spaces. Working alongside the Friends of the Public Garde
+ n - a nonprofit organization that has partnered with the City of Boston si
+ nce 1970 to care for the Public Garden\, Boston Common\, and Commonwealth 
+ Avenue Mall - members will contribute to the ongoing stewardship of these 
+ iconic parks through a variety of hands-on projects.\n\nMembers will meet 
+ in the Lobby before walking together to their dedicated green space. Volun
+ teer activities may include weeding\, litter removal\, fence cleaning\, an
+ d other seasonal projects dependent on park needs. This is a wonderful opp
+ ortunity to enjoy the outdoors\, connect with fellow members\, and make a 
+ meaningful impact while helping preserve some of Boston’s most treasured
+  landscapes for generations to come.\n\n*This event is complimentary and r
+ eserved for members only. We recommend wearing comfortable clothing approp
+ riate for outdoor work\, including closed-toe shoes\, and bringing a reusa
+ ble water bottle. All registered members will be asked to sign a waiver pr
+ ior to the volunteer day. Please click here to sign the waiver.
+URL:https://members.thequinhouse.com/events/195627
+CATEGORIES:‘Quin Impact Fund
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-195311@thequinhouse.com
