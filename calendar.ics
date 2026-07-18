@@ -259,15 +259,14 @@ DTSTART;TZID=America/New_York:20260723T183000
 DTEND;TZID=America/New_York:20260723T203000
 SUMMARY:Game Night: Backgammon Open Play
 LOCATION:The Terrace
-DESCRIPTION:Category: Sports & Games\nPrice: Free\nAvailability: 1 spot lef
- t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
- 95765\n\nJoin us in The Terrace for an evening of friendly competition and
-  open play designed for established players. Whether you are looking to sh
- arpen your strategy\, challenge fellow members\, or simply enjoy a few eng
- aging matches\, this is the perfect opportunity to connect over one of the
-  world's most timeless games. \n\n*This event is complimentary and reserv
- ed for members only. Complimentary light bites and refreshments will be se
- rved.
+DESCRIPTION:Category: Sports & Games\nPrice: Free\nStatus: Waitlist Only\nE
+ vent URL: https://members.thequinhouse.com/events/195765\n\nJoin us in The
+  Terrace for an evening of friendly competition and open play designed for
+  established players. Whether you are looking to sharpen your strategy\, c
+ hallenge fellow members\, or simply enjoy a few engaging matches\, this is
+  the perfect opportunity to connect over one of the world's most timeless 
+ games. \n\n*This event is complimentary and reserved for members only. Co
+ mplimentary light bites and refreshments will be served.
 URL:https://members.thequinhouse.com/events/195765
 CATEGORIES:Sports & Games
 END:VEVENT
@@ -493,7 +492,7 @@ DTSTART;TZID=America/New_York:20260804T090000
 DTEND;TZID=America/New_York:20260804T110000
 SUMMARY:Hands on Impact: Friends of The Public Garden
 LOCATION:Meet in The Lobby
-DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nAvailability: 15 sp
+DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nAvailability: 14 sp
  ots left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/e
  vents/195627\n\nJoin fellow members and The 'Quin Impact Fund for a reward
  ing day of service dedicated to helping preserve and enhance Boston's belo
