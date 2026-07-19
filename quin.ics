@@ -24,43 +24,6 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:quin-event-192823@thequinhouse.com
-DTSTAMP:20260718T160000Z
-DTSTART;TZID=America/New_York:20260718T160000
-DTEND;TZID=America/New_York:20260718T173000
-SUMMARY:An Evening with Martini Master Alessandro Palazzi
-LOCATION:The Reading Room
-DESCRIPTION:Category: Food & Beverage\nPrice: Free / Included\nStatus: You 
- are Confirmed\nEvent URL: https://members.thequinhouse.com/events/192823\n
- \nThere are bartenders\, and then there are bartenders whose names have be
- come synonymous with an institution. Alessandro Palazzi belongs firmly in 
- the latter category. The celebrated Italian mixologist has spent years sha
- ping the cocktail culture of London's legendary Duke's Bar\, where his met
- iculous approach to hospitality and his famously cold martinis have earned
-  him a devoted international following.\n\nKnown for his effortless charm\
- , encyclopedic knowledge of spirits\, and flair for storytelling\, Alessan
- dro has elevated the martini from a simple cocktail to a memorable ritual.
-  His tableside preparation has become one of London's most sought-after ex
- periences\, drawing discerning travelers\, industry leaders\, and cocktail
-  enthusiasts from around the world.\n\nThe 'Quin House is delighted to wel
- come Alessandro for a rare Boston appearance on Saturday\, July 18th and a
- gain\, on Saturday July 25th. Members will have the opportunity to learn f
- irsthand what separates a good cocktail from a truly exceptional one durin
- g an intimate masterclass covering technique\, history\, and the finer poi
- nts of martini-making\, presented in partnership with Procera Gin\, the aw
- ard-winning Nairobi-based spirit crafted with fresh African juniper and ce
- lebrated for redefining luxury gin through exceptional African botanicals 
- and craftsmanship.\n\nFollowing this class\, Alessandro will take over The
-  Reading Room for the evening\, where all members can enjoy the comforts o
- f the Reading Room and martinis crafted by one of the hospitality world's 
- most respected figures.\n\n*This event is offered at $100 per member and i
- s reserved for members only. Cancellations made within 48 hours of the eve
- nt\, or failure to attend\, will result in a full charge. Light bites and 
- refreshments will be served.
-URL:https://members.thequinhouse.com/events/192823
-CATEGORIES:Food & Beverage
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-194588@thequinhouse.com
 DTSTAMP:20260721T180000Z
 DTSTART;TZID=America/New_York:20260721T180000

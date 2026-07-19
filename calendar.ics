@@ -24,43 +24,6 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:quin-event-192823@thequinhouse.com
-DTSTAMP:20260718T160000Z
-DTSTART;TZID=America/New_York:20260718T160000
-DTEND;TZID=America/New_York:20260718T173000
-SUMMARY:An Evening with Martini Master Alessandro Palazzi
-LOCATION:The Reading Room
-DESCRIPTION:Category: Food & Beverage\nPrice: Free / Included\nStatus: You 
- are Confirmed\nEvent URL: https://members.thequinhouse.com/events/192823\n
- \nThere are bartenders\, and then there are bartenders whose names have be
- come synonymous with an institution. Alessandro Palazzi belongs firmly in 
- the latter category. The celebrated Italian mixologist has spent years sha
- ping the cocktail culture of London's legendary Duke's Bar\, where his met
- iculous approach to hospitality and his famously cold martinis have earned
-  him a devoted international following.\n\nKnown for his effortless charm\
- , encyclopedic knowledge of spirits\, and flair for storytelling\, Alessan
- dro has elevated the martini from a simple cocktail to a memorable ritual.
-  His tableside preparation has become one of London's most sought-after ex
- periences\, drawing discerning travelers\, industry leaders\, and cocktail
-  enthusiasts from around the world.\n\nThe 'Quin House is delighted to wel
- come Alessandro for a rare Boston appearance on Saturday\, July 18th and a
- gain\, on Saturday July 25th. Members will have the opportunity to learn f
- irsthand what separates a good cocktail from a truly exceptional one durin
- g an intimate masterclass covering technique\, history\, and the finer poi
- nts of martini-making\, presented in partnership with Procera Gin\, the aw
- ard-winning Nairobi-based spirit crafted with fresh African juniper and ce
- lebrated for redefining luxury gin through exceptional African botanicals 
- and craftsmanship.\n\nFollowing this class\, Alessandro will take over The
-  Reading Room for the evening\, where all members can enjoy the comforts o
- f the Reading Room and martinis crafted by one of the hospitality world's 
- most respected figures.\n\n*This event is offered at $100 per member and i
- s reserved for members only. Cancellations made within 48 hours of the eve
- nt\, or failure to attend\, will result in a full charge. Light bites and 
- refreshments will be served.
-URL:https://members.thequinhouse.com/events/192823
-CATEGORIES:Food & Beverage
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-189619@thequinhouse.com
 DTSTAMP:20260719T150000Z
 DTSTART;TZID=America/New_York:20260719T150000
@@ -162,17 +125,17 @@ DTSTART;TZID=America/New_York:20260721T170000
 DTEND;TZID=America/New_York:20260721T180000
 SUMMARY:Member Mingle
 LOCATION:Lunasol
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 6 spots left
- \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/19
- 0017\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set 
- in the ambiant reserved space of Lunasol. This is your opportunity to con
- nect with fellow members\, exchange ideas\, and cultivate meaningful relat
- ionships.\n\nWhether you're sparking new collaborations\, sharing insights
- \, or simply enjoying great conversation\, the Member Mingle is the perfec
- t way to engage with our dynamic community. Don’t miss the chance to con
- nect\, inspire\, and be inspired.\n\n*This event is complimentary and rese
- rved for members only. Complimentary light bites will be served\, and beve
- rages will be available for purchase.
+DESCRIPTION:Category: Member Mixer\nPrice: Free / Included\nStatus: unlimit
+ ed\nEvent URL: https://members.thequinhouse.com/events/190017\n\nJoin us f
+ or our weekly Member Mingle\, an inclusive gathering set in the ambiant r
+ eserved space of Lunasol. This is your opportunity to connect with fellow 
+ members\, exchange ideas\, and cultivate meaningful relationships.\n\nWhet
+ her you're sparking new collaborations\, sharing insights\, or simply enjo
+ ying great conversation\, the Member Mingle is the perfect way to engage w
+ ith our dynamic community. Don’t miss the chance to connect\, inspire\, 
+ and be inspired.\n\n*This event is complimentary and reserved for members 
+ only. Complimentary light bites will be served\, and beverages will be ava
+ ilable for purchase.
 URL:https://members.thequinhouse.com/events/190017
 CATEGORIES:Member Mixer
 END:VEVENT
@@ -419,7 +382,7 @@ DTEND;TZID=America/New_York:20260730T140000
 SUMMARY: Serendipity Lunch 
 LOCATION:The Terrace
 DESCRIPTION:Category: Member Mixer\nPrice: $80.00 per person\nAvailability:
-  8 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse.
+  7 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse.
  com/events/194059\n\nJoin us for a Serendipity Lunch that invites members 
  to enjoy meaningful conversation in great company. Set in The Terrace the 
  afternoon unfolds with an easy rhythm—a thoughtfully curated lunch\, ent
@@ -492,7 +455,7 @@ DTSTART;TZID=America/New_York:20260804T090000
 DTEND;TZID=America/New_York:20260804T110000
 SUMMARY:Hands on Impact: Friends of The Public Garden
 LOCATION:Meet in The Lobby
-DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nAvailability: 13 sp
+DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nAvailability: 12 sp
  ots left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/e
  vents/195627\n\nJoin fellow members and The 'Quin Impact Fund for a reward
  ing day of service dedicated to helping preserve and enhance Boston's belo
