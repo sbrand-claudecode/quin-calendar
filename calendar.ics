@@ -24,56 +24,6 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:quin-event-192033@thequinhouse.com
-DTSTAMP:20260720T104500Z
-DTSTART;TZID=America/New_York:20260720T104500
-DTEND;TZID=America/New_York:20260720T123000
-SUMMARY:Hands on Impact: Women's Lunch Place | Session I
-LOCATION:Offsite: Women's Lunch Place
-DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free / Included\nStatus: 
- unlimited\nEvent URL: https://members.thequinhouse.com/events/192033\n\nJo
- in fellow members for a meaningful day of service at Women's Lunch Place\,
-  a safe and welcoming daytime shelter and advocacy center supporting women
-  experiencing hunger\, homelessness\, and poverty. Volunteers will assist 
- in the organization's kitchen\, helping prepare and serve nutritious meals
-  while supporting daily operations that make a direct impact on guests' li
- ves.\n\nVolunteer activities may include meal preparation\, kitchen organi
- zation\, unpacking deliveries\, preparing to-go meals\, and other essentia
- l tasks. This opportunity offers a unique chance to learn more about Women
- 's Lunch Place\, connect with staff and guests\, and contribute to an orga
- nization centered on dignity\, hope\, and healing.\n\n*This event is compl
- imentary and reserved for members only. Please wear closed-toe shoes\, lon
- g pants\, and a shirt with sleeves. Hair must be pulled back and covered w
- ith a hat or hairnet (provided on-site if needed).
-URL:https://members.thequinhouse.com/events/192033
-CATEGORIES:‘Quin Impact Fund
-END:VEVENT
-BEGIN:VEVENT
-UID:quin-event-192034@thequinhouse.com
-DTSTAMP:20260720T121500Z
-DTSTART;TZID=America/New_York:20260720T121500
-DTEND;TZID=America/New_York:20260720T143000
-SUMMARY:Hands on Impact: Women's Lunch Place | Session II
-LOCATION:Offsite: Women's Lunch Place
-DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free / Included\nStatus: 
- unlimited\nEvent URL: https://members.thequinhouse.com/events/192034\n\nJo
- in fellow members for a meaningful day of service at Women's Lunch Place\,
-  a safe and welcoming daytime shelter and advocacy center supporting women
-  experiencing hunger\, homelessness\, and poverty. Volunteers will assist 
- in the organization's kitchen\, helping prepare and serve nutritious meals
-  while supporting daily operations that make a direct impact on guests' li
- ves.\n\nVolunteer activities may include meal preparation\, kitchen organi
- zation\, unpacking deliveries\, preparing to-go meals\, and other essentia
- l tasks. This opportunity offers a unique chance to learn more about Women
- 's Lunch Place\, connect with staff and guests\, and contribute to an orga
- nization centered on dignity\, hope\, and healing.\n\n*This event is compl
- imentary and reserved for members only. Please wear closed-toe shoes\, lon
- g pants\, and a shirt with sleeves. Hair must be pulled back and covered w
- ith a hat or hairnet (provided on-site if needed).
-URL:https://members.thequinhouse.com/events/192034
-CATEGORIES:‘Quin Impact Fund
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-194060@thequinhouse.com
 DTSTAMP:20260720T183000Z
 DTSTART;TZID=America/New_York:20260720T183000
@@ -205,14 +155,15 @@ DTSTART;TZID=America/New_York:20260723T183000
 DTEND;TZID=America/New_York:20260723T203000
 SUMMARY:Game Night: Backgammon Open Play
 LOCATION:The Terrace
-DESCRIPTION:Category: Sports & Games\nPrice: Free\nStatus: Waitlist Only\nE
- vent URL: https://members.thequinhouse.com/events/195765\n\nJoin us in The
-  Terrace for an evening of friendly competition and open play designed for
-  established players. Whether you are looking to sharpen your strategy\, c
- hallenge fellow members\, or simply enjoy a few engaging matches\, this is
-  the perfect opportunity to connect over one of the world's most timeless 
- games. \n\n*This event is complimentary and reserved for members only. Co
- mplimentary light bites and refreshments will be served.
+DESCRIPTION:Category: Sports & Games\nPrice: Free\nAvailability: 1 spot lef
+ t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
+ 95765\n\nJoin us in The Terrace for an evening of friendly competition and
+  open play designed for established players. Whether you are looking to sh
+ arpen your strategy\, challenge fellow members\, or simply enjoy a few eng
+ aging matches\, this is the perfect opportunity to connect over one of the
+  world's most timeless games. \n\n*This event is complimentary and reserv
+ ed for members only. Complimentary light bites and refreshments will be se
+ rved.
 URL:https://members.thequinhouse.com/events/195765
 CATEGORIES:Sports & Games
 END:VEVENT
@@ -298,7 +249,7 @@ DTSTART;TZID=America/New_York:20260728T170000
 DTEND;TZID=America/New_York:20260728T180000
 SUMMARY:Member Mingle
 LOCATION:Lunasol
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 11 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 10 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  90018\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in the ambiant reserved space of Lunasol. This is your opportunity to co
@@ -365,7 +316,7 @@ DTEND;TZID=America/New_York:20260730T140000
 SUMMARY: Serendipity Lunch 
 LOCATION:The Terrace
 DESCRIPTION:Category: Member Mixer\nPrice: $80.00 per person\nAvailability:
-  7 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse.
+  6 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse.
  com/events/194059\n\nJoin us for a Serendipity Lunch that invites members 
  to enjoy meaningful conversation in great company. Set in The Terrace the 
  afternoon unfolds with an easy rhythm—a thoughtfully curated lunch\, ent
