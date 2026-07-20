@@ -24,23 +24,6 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:quin-event-189619@thequinhouse.com
-DTSTAMP:20260719T150000Z
-DTSTART;TZID=America/New_York:20260719T150000
-DTEND;TZID=America/New_York:20260719T170000
-SUMMARY:Watch Party: The World Cup Championship 
-LOCATION:The Pub
-DESCRIPTION:Category: Sports & Games\nPrice: Free / Included\nStatus: Avail
- able\nEvent URL: https://members.thequinhouse.com/events/189619\n\nAll eye
- s on the pitch for the World Cup Championship match. Settle in with the be
- st seats in the house—every screen aglow\, the energy palpable\, and the
-  Pub pouring all night long. A full lineup of fan favorites will be on off
- er\, best enjoyed alongside a perfectly timed pint.\n\n*Reservations not r
- equired.
-URL:https://members.thequinhouse.com/events/189619
-CATEGORIES:Sports & Games
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-192033@thequinhouse.com
 DTSTAMP:20260720T104500Z
 DTSTART;TZID=America/New_York:20260720T104500
@@ -315,7 +298,7 @@ DTSTART;TZID=America/New_York:20260728T170000
 DTEND;TZID=America/New_York:20260728T180000
 SUMMARY:Member Mingle
 LOCATION:Lunasol
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 13 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 12 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  90018\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in the ambiant reserved space of Lunasol. This is your opportunity to co
