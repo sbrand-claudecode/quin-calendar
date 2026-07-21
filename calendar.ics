@@ -24,34 +24,6 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:quin-event-194060@thequinhouse.com
-DTSTAMP:20260720T183000Z
-DTSTART;TZID=America/New_York:20260720T183000
-DTEND;TZID=America/New_York:20260720T210000
-SUMMARY:Serendipity Dinner - Shared Histories
-LOCATION:The Muse
-DESCRIPTION:Category: Member Mixer\nPrice: Free / Included\nStatus: Waitlis
- t Only\nEvent URL: https://members.thequinhouse.com/events/194060\n\nConti
- nuing the "Curated Connections" extension of the Serendipity series\, join
-  us for dinner convening members who study\, preserve\, teach\, or simply 
- delight in history. From historians\, educators\, archivists\, curators\, 
- and authors to lifelong learners and passionate history enthusiasts\, this
-  month's shared interest will inspire engaging conversation as you engage 
- with fellow members through conversations inspired by the people\, places\
- , and pivotal moments that have shaped our world.\n\nCurious? Set against 
- the backdrop of a thoughtfully curated three-course dinner with expertly p
- aired wines\, this unique experience invites members to connect through cu
- rated conversation prompts designed to spark engaging dialogue. Enjoy the 
- perfect blend of stimulating discussion\, exceptional company\, and a menu
-  crafted to delight the senses. \n\n*Tickets are $100 per person\, plus t
- ax and are reserved for members only. Cancellations within 72 hours of the
-  event\, or failure to attend\, will be charged in full. Please inform us 
- of any dietary needs or restrictions by emailing happening@thequin.com at 
- least 72 hours before dinner service.
-URL:https://members.thequinhouse.com/events/194060
-CATEGORIES:Member Mixer
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-190017@thequinhouse.com
 DTSTAMP:20260721T170000Z
 DTSTART;TZID=America/New_York:20260721T170000
@@ -155,15 +127,14 @@ DTSTART;TZID=America/New_York:20260723T183000
 DTEND;TZID=America/New_York:20260723T203000
 SUMMARY:Game Night: Backgammon Open Play
 LOCATION:The Terrace
-DESCRIPTION:Category: Sports & Games\nPrice: Free\nAvailability: 1 spot lef
- t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
- 95765\n\nJoin us in The Terrace for an evening of friendly competition and
-  open play designed for established players. Whether you are looking to sh
- arpen your strategy\, challenge fellow members\, or simply enjoy a few eng
- aging matches\, this is the perfect opportunity to connect over one of the
-  world's most timeless games. \n\n*This event is complimentary and reserv
- ed for members only. Complimentary light bites and refreshments will be se
- rved.
+DESCRIPTION:Category: Sports & Games\nPrice: Free\nStatus: Waitlist Only\nE
+ vent URL: https://members.thequinhouse.com/events/195765\n\nJoin us in The
+  Terrace for an evening of friendly competition and open play designed for
+  established players. Whether you are looking to sharpen your strategy\, c
+ hallenge fellow members\, or simply enjoy a few engaging matches\, this is
+  the perfect opportunity to connect over one of the world's most timeless 
+ games. \n\n*This event is complimentary and reserved for members only. Co
+ mplimentary light bites and refreshments will be served.
 URL:https://members.thequinhouse.com/events/195765
 CATEGORIES:Sports & Games
 END:VEVENT
@@ -249,17 +220,17 @@ DTSTART;TZID=America/New_York:20260728T170000
 DTEND;TZID=America/New_York:20260728T180000
 SUMMARY:Member Mingle
 LOCATION:Lunasol
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 10 spots lef
- t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
- 90018\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
-  in the ambiant reserved space of Lunasol. This is your opportunity to co
- nnect with fellow members\, exchange ideas\, and cultivate meaningful rela
- tionships.\n\nWhether you're sparking new collaborations\, sharing insight
- s\, or simply enjoying great conversation\, the Member Mingle is the perfe
- ct way to engage with our dynamic community. Don’t miss the chance to co
- nnect\, inspire\, and be inspired.\n\n*This event is complimentary and res
- erved for members only. Complimentary light bites will be served\, and bev
- erages will be available for purchase.
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 8 spots left
+ \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/19
+ 0018\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set 
+ in the ambiant reserved space of Lunasol. This is your opportunity to con
+ nect with fellow members\, exchange ideas\, and cultivate meaningful relat
+ ionships.\n\nWhether you're sparking new collaborations\, sharing insights
+ \, or simply enjoying great conversation\, the Member Mingle is the perfec
+ t way to engage with our dynamic community. Don’t miss the chance to con
+ nect\, inspire\, and be inspired.\n\n*This event is complimentary and rese
+ rved for members only. Complimentary light bites will be served\, and beve
+ rages will be available for purchase.
 URL:https://members.thequinhouse.com/events/190018
 CATEGORIES:Member Mixer
 END:VEVENT
