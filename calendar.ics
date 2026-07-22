@@ -24,27 +24,6 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:quin-event-190017@thequinhouse.com
-DTSTAMP:20260721T170000Z
-DTSTART;TZID=America/New_York:20260721T170000
-DTEND;TZID=America/New_York:20260721T180000
-SUMMARY:Member Mingle
-LOCATION:Lunasol
-DESCRIPTION:Category: Member Mixer\nPrice: Free / Included\nStatus: unlimit
- ed\nEvent URL: https://members.thequinhouse.com/events/190017\n\nJoin us f
- or our weekly Member Mingle\, an inclusive gathering set in the ambiant r
- eserved space of Lunasol. This is your opportunity to connect with fellow 
- members\, exchange ideas\, and cultivate meaningful relationships.\n\nWhet
- her you're sparking new collaborations\, sharing insights\, or simply enjo
- ying great conversation\, the Member Mingle is the perfect way to engage w
- ith our dynamic community. Don’t miss the chance to connect\, inspire\, 
- and be inspired.\n\n*This event is complimentary and reserved for members 
- only. Complimentary light bites will be served\, and beverages will be ava
- ilable for purchase.
-URL:https://members.thequinhouse.com/events/190017
-CATEGORIES:Member Mixer
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-194588@thequinhouse.com
 DTSTAMP:20260721T180000Z
 DTSTART;TZID=America/New_York:20260721T180000
@@ -220,7 +199,7 @@ DTSTART;TZID=America/New_York:20260728T170000
 DTEND;TZID=America/New_York:20260728T180000
 SUMMARY:Member Mingle
 LOCATION:Lunasol
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 4 spots left
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 2 spots left
  \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/19
  0018\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set 
  in the ambiant reserved space of Lunasol. This is your opportunity to con
@@ -360,25 +339,25 @@ DTSTART;TZID=America/New_York:20260804T090000
 DTEND;TZID=America/New_York:20260804T110000
 SUMMARY:Hands on Impact: Friends of The Public Garden
 LOCATION:Meet in The Lobby
-DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nAvailability: 10 sp
- ots left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/e
- vents/195627\n\nJoin fellow members and The 'Quin Impact Fund for a reward
- ing day of service dedicated to helping preserve and enhance Boston's belo
- ved public green spaces. Working alongside the Friends of the Public Garde
- n - a nonprofit organization that has partnered with the City of Boston si
- nce 1970 to care for the Public Garden\, Boston Common\, and Commonwealth 
- Avenue Mall - members will contribute to the ongoing stewardship of these 
- iconic parks through a variety of hands-on projects.\n\nMembers will meet 
- in the Lobby before walking together to their dedicated green space. Volun
- teer activities may include weeding\, litter removal\, fence cleaning\, an
- d other seasonal projects dependent on park needs. This is a wonderful opp
- ortunity to enjoy the outdoors\, connect with fellow members\, and make a 
- meaningful impact while helping preserve some of Boston’s most treasured
-  landscapes for generations to come.\n\n*This event is complimentary and r
- eserved for members only. We recommend wearing comfortable clothing approp
- riate for outdoor work\, including closed-toe shoes\, and bringing a reusa
- ble water bottle. All registered members will be asked to sign a waiver pr
- ior to the volunteer day. Please click here to sign the waiver.
+DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nAvailability: 9 spo
+ ts left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/ev
+ ents/195627\n\nJoin fellow members and The 'Quin Impact Fund for a rewardi
+ ng day of service dedicated to helping preserve and enhance Boston's belov
+ ed public green spaces. Working alongside the Friends of the Public Garden
+  - a nonprofit organization that has partnered with the City of Boston sin
+ ce 1970 to care for the Public Garden\, Boston Common\, and Commonwealth A
+ venue Mall - members will contribute to the ongoing stewardship of these i
+ conic parks through a variety of hands-on projects.\n\nMembers will meet i
+ n the Lobby before walking together to their dedicated green space. Volunt
+ eer activities may include weeding\, litter removal\, fence cleaning\, and
+  other seasonal projects dependent on park needs. This is a wonderful oppo
+ rtunity to enjoy the outdoors\, connect with fellow members\, and make a m
+ eaningful impact while helping preserve some of Boston’s most treasured 
+ landscapes for generations to come.\n\n*This event is complimentary and re
+ served for members only. We recommend wearing comfortable clothing appropr
+ iate for outdoor work\, including closed-toe shoes\, and bringing a reusab
+ le water bottle. All registered members will be asked to sign a waiver pri
+ or to the volunteer day. Please click here to sign the waiver.
 URL:https://members.thequinhouse.com/events/195627
 CATEGORIES:‘Quin Impact Fund
 END:VEVENT
@@ -389,7 +368,7 @@ DTSTART;TZID=America/New_York:20260804T170000
 DTEND;TZID=America/New_York:20260804T180000
 SUMMARY:Member Mingle
 LOCATION:Lunasol
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 39 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 37 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  96060\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in the ambiant reserved space of Lunasol. This is your opportunity to co
