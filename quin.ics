@@ -24,28 +24,6 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:quin-event-194588@thequinhouse.com
-DTSTAMP:20260721T180000Z
-DTSTART;TZID=America/New_York:20260721T180000
-DTEND;TZID=America/New_York:20260721T213000
-SUMMARY:Private Screening: "The Odyssey" 
-LOCATION:Offsite: Alamo Drafthouse Seaport
-DESCRIPTION:Category: The Arts\nPrice: Free / Included\nStatus: You are Con
- firmed\nEvent URL: https://members.thequinhouse.com/events/194588\n\n6:00P
- M Doors Open\, 6:30PM - 9:30PM Screening\nJoin us for a ‘Quin-exclusive 
- private screening of Christopher Nolan’s highly anticipated adaptation o
- f The Odyssey.\n\nA sweeping mythological epic inspired by Homer's timeles
- s poem\, The Odyssey stars Matt Damon as Odysseus\, the legendary King of 
- Ithaca. The film chronicles his perilous decade-long journey home followin
- g the Trojan War\, where he encounters mythical creatures\, vengeful gods\
- , and extraordinary trials in his relentless quest to reunite with his wif
- e\, Penelope. An evening of epic storytelling awaits...\n\n*This event is 
- complimentary and reserved for members\, plus one registered guest. Tables
- ide food and beverage service is available in the theater.
-URL:https://members.thequinhouse.com/events/194588
-CATEGORIES:The Arts
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-192746@thequinhouse.com
 DTSTAMP:20260722T173000Z
 DTSTART;TZID=America/New_York:20260722T173000
