@@ -108,7 +108,7 @@ DTSTAMP:20260725T160000Z
 DTSTART;TZID=America/New_York:20260725T160000
 DTEND;TZID=America/New_York:20260725T173000
 SUMMARY:An Evening with Martini Master Alessandro Palazzi
-LOCATION:The Reading Room
+LOCATION:The Muse
 DESCRIPTION:Category: Food & Beverage\nPrice: Free / Included\nStatus: Wait
  list Only\nEvent URL: https://members.thequinhouse.com/events/192824\n\nTh
  ere are bartenders\, and then there are bartenders whose names have become
@@ -280,6 +280,27 @@ URL:https://members.thequinhouse.com/events/180152
 CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
+UID:quin-event-196895@thequinhouse.com
+DTSTAMP:20260803T170000Z
+DTSTART;VALUE=DATE:20260803
+DTEND;VALUE=DATE:20260901
+SUMMARY:Taste of Puglia
+LOCATION:Café Q
+DESCRIPTION:Category: Food & Beverage\nPrice: Free / Included\nStatus: Avai
+ lable\nTime: 5 PM – 9 PM\nEvent URL: https://members.thequinhouse.com/ev
+ ents/196895\n\nThis August\, Café Q invites members to experience A Taste
+  of Puglia\, a limited-time menu celebrating the rich culinary heritage of
+  one of Italy's most captivating regions.\n\nAvailable exclusively during 
+ dinner service\, this thoughtfully curated menu celebrates the simple eleg
+ ance of Southern Italian cuisine - think handmade pastas\, fresh seafood\,
+  orchard-ripened vegetables\, creamy burrata\, and exceptional olive oils.
+  Pair your meal with a crisp local white or a bold Primitivo\, and discove
+ r the flavors that have made Puglia one of Italy's most celebrated culinar
+ y destinations.\n\nMake a Reservation.
+URL:https://members.thequinhouse.com/events/196895
+CATEGORIES:Food & Beverage
+END:VEVENT
+BEGIN:VEVENT
 UID:quin-event-195627@thequinhouse.com
 DTSTAMP:20260804T090000Z
 DTSTART;TZID=America/New_York:20260804T090000
@@ -307,6 +328,26 @@ DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nAvailability: 8 spo
  or to the volunteer day. Please click here to sign the waiver.
 URL:https://members.thequinhouse.com/events/195627
 CATEGORIES:‘Quin Impact Fund
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-196025@thequinhouse.com
+DTSTAMP:20260804T110000Z
+DTSTART;TZID=America/New_York:20260804T110000
+DTEND;TZID=America/New_York:20260804T120000
+SUMMARY:Art Tour: The Core Collection 
+LOCATION:Meet in The Lobby
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 30 spots left\nS
+ tatus: Available\nEvent URL: https://members.thequinhouse.com/events/19602
+ 5\n\nPlease join 'Quin collection curator\, Kate Chertavian\, for an art t
+ our focused on the Core Collection. The discussion will begin in Bondo wit
+ h Donald Lipski's spectacular statement chandelier and Christopher Wool's 
+ monumental silkscreens and will continue with a thematic exploration of wo
+ rks on the grand staircase. With insight into the collaborative process of
+  creating this incredible collection\, the tour will conclude in the lobby
+  with artists such as Julie Mehretu\, Auguste Rodin.\n\n*This event is com
+ plimentary and reserved for members\, plus one registered guest.
+URL:https://members.thequinhouse.com/events/196025
+CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-196060@thequinhouse.com
@@ -378,6 +419,95 @@ URL:https://members.thequinhouse.com/events/194363
 CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
+UID:quin-event-196056@thequinhouse.com
+DTSTAMP:20260806T120000Z
+DTSTART;TZID=America/New_York:20260806T120000
+DTEND;TZID=America/New_York:20260806T140000
+SUMMARY: Serendipity Lunch : The Traveler's Table 
+LOCATION:The Terrace
+DESCRIPTION:Category: Member Mixer\nPrice: $80.00 per person\nAvailability:
+  18 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
+ .com/events/196056\n\nEvery journey begins with curiosity.\n\nContinuing t
+ he "Curated Connections" extension of the Serendipity series meet us for a
+  Serendipty lunch celebrating the places that have inspired us\, the cultu
+ res that have broadened our perspectives\, and the adventures still waitin
+ g to be discovered. Through thoughtfully curated conversation prompts guid
+ ed by our Membership Team\, members will share memorable travel experience
+ s\, favorite destinations\, hidden gems\, and the moments that transformed
+  a trip into a lasting memory.\n\nCurious? Set against the backdrop of lun
+ ch in The Terrace\, members will enjoy getting to know one another over an
+  engaging and wide-ranging conversation while immersed in The 'Quin's whil
+ e enjoying a thoughtful lunch by the chef.\n\n*Tickets are $80 per person\
+ , plus tax\, and are reserved for members only. Cancellations within 72 
+ hours of the event\, or failure to attend\, will be charged in full. Pleas
+ e inform us of any dietary needs or restrictions by emailing happening@the
+ quin.com at least 72 hours before lunch service.
+URL:https://members.thequinhouse.com/events/196056
+CATEGORIES:Member Mixer
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-196061@thequinhouse.com
+DTSTAMP:20260811T170000Z
+DTSTART;TZID=America/New_York:20260811T170000
+DTEND;TZID=America/New_York:20260811T180000
+SUMMARY:Member Mingle
+LOCATION:Lunasol
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 39 spots lef
+ t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
+ 96061\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
+  in the ambiant reserved space of Lunasol. This is your opportunity to co
+ nnect with fellow members\, exchange ideas\, and cultivate meaningful rela
+ tionships.\n\nWhether you're sparking new collaborations\, sharing insight
+ s\, or simply enjoying great conversation\, the Member Mingle is the perfe
+ ct way to engage with our dynamic community. Don’t miss the chance to co
+ nnect\, inspire\, and be inspired.\n\n*This event is complimentary and res
+ erved for members only. Complimentary light bites will be served\, and bev
+ erages will be available for purchase.
+URL:https://members.thequinhouse.com/events/196061
+CATEGORIES:Member Mixer
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-197304@thequinhouse.com
+DTSTAMP:20260811T200000Z
+DTSTART;TZID=America/New_York:20260811T200000
+DTEND;TZID=America/New_York:20260811T210000
+SUMMARY:Rooftop Rendezvous: Citadelle Gin
+LOCATION:The Sky Deck
+DESCRIPTION:Category: Food & Beverage\nPrice: Free\nAvailability: 50 spots 
+ left\nStatus: futureSale\nEvent URL: https://members.thequinhouse.com/even
+ ts/197304\n\nThis August\, we invite you to discover a month-long celebrat
+ ion of exceptional cocktails in partnership with Citadelle Gin\, the accla
+ imed French gin renowned for its balance\, elegance\, and craftsmanship.\n
+ \nTo celebrate the collaboration\, join us for a celebratory rooftop rende
+ zvous featuring two signature serves available throughout the month: the i
+ mpeccably chilled Freezer Door Martini and the timeless French 75. Each co
+ cktail showcases Citadelle Gin's distinctive botanical character while off
+ ering a refined interpretation of two enduring classics.\n\nSip an ice-col
+ d cocktail as the sun sets over the Boston skyline\, and savor the season 
+ from one of The 'Quin's most spectacular vantage points.\n\n*This event is
+  complimentary and reserved for members only.
+URL:https://members.thequinhouse.com/events/197304
+CATEGORIES:Food & Beverage
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-197305@thequinhouse.com
+DTSTAMP:20260813T180000Z
+DTSTART;TZID=America/New_York:20260813T180000
+DTEND;TZID=America/New_York:20260813T200000
+SUMMARY:Board Game Night 
+LOCATION:The Living Room
+DESCRIPTION:Category: Sports & Games\nPrice: Free\nAvailability: 30 spots l
+ eft\nStatus: futureSale\nEvent URL: https://members.thequinhouse.com/event
+ s/197305\n\nBring your sharpest wit\, channel your competitive charm\, and
+  roll the dice for an evening of strategy\, luck\, and a touch of mischief
+ . Hosted in The Living Room\, pick from one of our timeless classics or mo
+ dern marvels and let the games begin!\n\n*This event is complimentary and 
+ reserved for members\, plus one registered guest.  Food and cocktails fro
+ m The Living Room menu will be available for purchase.
+URL:https://members.thequinhouse.com/events/197305
+CATEGORIES:Sports & Games
+END:VEVENT
+BEGIN:VEVENT
 UID:quin-event-180153@thequinhouse.com
 DTSTAMP:20260814T173000Z
 DTSTART;TZID=America/New_York:20260814T173000
@@ -397,6 +527,66 @@ DESCRIPTION:Category: The Arts\nPrice: $607.48 per person\nStatus: soldOut\
   accompany their guests ages 16+. Pavilion Decks A & B are open space with
   no assigned seating. All shows are rain or shine.
 URL:https://members.thequinhouse.com/events/180153
+CATEGORIES:The Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-196062@thequinhouse.com
+DTSTAMP:20260818T170000Z
+DTSTART;TZID=America/New_York:20260818T170000
+DTEND;TZID=America/New_York:20260818T180000
+SUMMARY:Member Mingle
+LOCATION:Lunasol
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 39 spots lef
+ t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
+ 96062\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
+  in the ambiant reserved space of Lunasol. This is your opportunity to co
+ nnect with fellow members\, exchange ideas\, and cultivate meaningful rela
+ tionships.\n\nWhether you're sparking new collaborations\, sharing insight
+ s\, or simply enjoying great conversation\, the Member Mingle is the perfe
+ ct way to engage with our dynamic community. Don’t miss the chance to co
+ nnect\, inspire\, and be inspired.\n\n*This event is complimentary and res
+ erved for members only. Complimentary light bites will be served\, and bev
+ erages will be available for purchase.
+URL:https://members.thequinhouse.com/events/196062
+CATEGORIES:Member Mixer
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-196063@thequinhouse.com
+DTSTAMP:20260825T170000Z
+DTSTART;TZID=America/New_York:20260825T170000
+DTEND;TZID=America/New_York:20260825T180000
+SUMMARY:Member Mingle
+LOCATION:Lunasol
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 40 spots lef
+ t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
+ 96063\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
+  in the ambiant reserved space of Lunasol. This is your opportunity to co
+ nnect with fellow members\, exchange ideas\, and cultivate meaningful rela
+ tionships.\n\nWhether you're sparking new collaborations\, sharing insight
+ s\, or simply enjoying great conversation\, the Member Mingle is the perfe
+ ct way to engage with our dynamic community. Don’t miss the chance to co
+ nnect\, inspire\, and be inspired.\n\n*This event is complimentary and res
+ erved for members only. Complimentary light bites will be served\, and bev
+ erages will be available for purchase.
+URL:https://members.thequinhouse.com/events/196063
+CATEGORIES:Member Mixer
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-176374@thequinhouse.com
+DTSTAMP:20260826T180000Z
+DTSTART;TZID=America/New_York:20260826T180000
+DTEND;TZID=America/New_York:20260826T210000
+SUMMARY:Live Music: Bob Richardson 
+LOCATION:The Reading Room
+DESCRIPTION:Category: The Arts\nPrice: Free / Included\nStatus: Available\n
+ Event URL: https://members.thequinhouse.com/events/176374\n\nAdored for hi
+ s signature style and smile\, Bob Richardson returns to the 'House for ano
+ ther spectacular piano and vocal performance live from the Reading Room. R
+ ichardson\, a composer\, arranger\, vocalist and former educator will char
+ m the audience with requests all night long.\n\n*Please note that this eve
+ nt is complimentary and reserved for members\, plus three guests. Seating 
+ is first come\, first served.
+URL:https://members.thequinhouse.com/events/176374
 CATEGORIES:The Arts
 END:VEVENT
 END:VCALENDAR
