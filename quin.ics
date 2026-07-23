@@ -23,35 +23,4 @@ DTSTART:19701101T020000
 RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
-BEGIN:VEVENT
-UID:quin-event-192746@thequinhouse.com
-DTSTAMP:20260722T173000Z
-DTSTART;TZID=America/New_York:20260722T173000
-DTEND;TZID=America/New_York:20260722T190000
-SUMMARY:'Quin Chat: The Decisions That Changed the World
-LOCATION:Scottie's
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free / Included\nStatus: You are
-  Confirmed\nEvent URL: https://members.thequinhouse.com/events/192746\n\n5
- :30PM Reception\, 6:00PM Discussion \nAs the United States celebrates its
-  250th anniversary\, join us for a timely conversation examining the decis
- ions that have shaped America's role in the world. Drawing on a landmark 2
- 026 survey conducted by the Council on Foreign Relations and the Society f
- or Historians of American Foreign Relations\, James M. Lindsay\, distingui
- shed senior fellow at the Council on Foreign Relations\, will be joined by
-  Mary Yntema\, past President & CEO of WorldBoston\, a World Affairs Counc
- il\, and governance and strategy consultant\, to explore the ten most cons
- equential successes—and failures—in U.S. foreign policy since the nati
- on's founding.\n\nThrough the lenses of history\, strategy\, and democrati
- c values\, this discussion will consider what these pivotal choices reveal
-  about American leadership\, global engagement\, and the challenges that l
- ie ahead. At a moment when the international order is once again being red
- efined\, this promises to be a thought-provoking exploration of how the pa
- st informs the future.\n\nMembers will also receive a copy of the survey's
-  foreign policy scorecard\, providing an opportunity to weigh in on the ra
- nkings and continue the conversation with fellow attendees following the d
- iscussion.\n\n*This event is complimentary and reserved for members\, plus
-  one guest. Light bites and refreshments will be served.
-URL:https://members.thequinhouse.com/events/192746
-CATEGORIES:‘Quin Chat
-END:VEVENT
 END:VCALENDAR
