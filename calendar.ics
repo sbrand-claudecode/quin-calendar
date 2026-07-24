@@ -24,64 +24,24 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:quin-event-195310@thequinhouse.com
-DTSTAMP:20260723T180000Z
-DTSTART;TZID=America/New_York:20260723T180000
-DTEND;TZID=America/New_York:20260723T200000
-SUMMARY:Member Mixer: The Story Behind It
-LOCATION:Scottie's
-DESCRIPTION:Category: Member Mixer\nPrice: Free / Included\nStatus: unlimit
- ed\nEvent URL: https://members.thequinhouse.com/events/195310\n\nEvery che
- rished object carries a story.\n\nJoin fellow members for an intimate even
- ing of conversation and discovery as we explore the personal stories behin
- d life's most meaningful keepsakes. Whether it is a treasured family heirl
- oom\, a memorable travel find\, a piece of art\, a collectible\, or anothe
- r object of personal significance\, each item offers a unique glimpse into
-  the experiences\, traditions\, and moments that have shaped its owner.\n\
- nMembers who wish to participate will be invited to share their selected p
- iece and its story in a brief presentation\, creating an engaging exchange
-  of memories\, history\, and inspiration.\n\n*This event is complimentary 
- and reserved for members only. Complimentary light bites will be served wi
- th beverages available for purchase.
-URL:https://members.thequinhouse.com/events/195310
-CATEGORIES:Member Mixer
-END:VEVENT
-BEGIN:VEVENT
-UID:quin-event-195765@thequinhouse.com
-DTSTAMP:20260723T183000Z
-DTSTART;TZID=America/New_York:20260723T183000
-DTEND;TZID=America/New_York:20260723T203000
-SUMMARY:Game Night: Backgammon Open Play
-LOCATION:The Terrace
-DESCRIPTION:Category: Sports & Games\nPrice: Free / Included\nStatus: Waitl
- ist Only\nEvent URL: https://members.thequinhouse.com/events/195765\n\nJoi
- n us in The Terrace for an evening of friendly competition and open play d
- esigned for established players. Whether you are looking to sharpen your s
- trategy\, challenge fellow members\, or simply enjoy a few engaging matche
- s\, this is the perfect opportunity to connect over one of the world's mos
- t timeless games. \n\n*This event is complimentary and reserved for membe
- rs only. Complimentary light bites and refreshments will be served.
-URL:https://members.thequinhouse.com/events/195765
-CATEGORIES:Sports & Games
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-192826@thequinhouse.com
 DTSTAMP:20260724T120000Z
 DTSTART;TZID=America/New_York:20260724T120000
 DTEND;TZID=America/New_York:20260724T150000
 SUMMARY:Mahjong Open Play 
 LOCATION:Lunasol
-DESCRIPTION:Category: Sports & Games\nPrice: Free\nStatus: Waitlist Only\nE
- vent URL: https://members.thequinhouse.com/events/192826\n\nHave a love fo
- r the game\, the strategy\, and the social ritual of Mahjong? Lunasol invi
- tes those with a knack for the game to an open play afternoon designed for
-  members with a sound knowledge of Mahjong gameplay and an appetite to mee
- t other members for spirited competition. Beverages and bites will be avai
- lable for purchase during the afternoon of friendly\, hands-on play. All M
- ahjong materials will be provided. \n\n*This event is complimentary and r
- eserved for members only. If you are not able to attend this open play eve
- nt\, please look forward to many more Mahjong moments as this event marks 
- the launch of a new reoccurring Mahjong Open Play series.
+DESCRIPTION:Category: Sports & Games\nPrice: Free\nAvailability: 1 spot lef
+ t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
+ 92826\n\nHave a love for the game\, the strategy\, and the social ritual o
+ f Mahjong? Lunasol invites those with a knack for the game to an open play
+  afternoon designed for members with a sound knowledge of Mahjong gameplay
+  and an appetite to meet other members for spirited competition. Beverages
+  and bites will be available for purchase during the afternoon of friendly
+ \, hands-on play. All Mahjong materials will be provided. \n\n*This event
+  is complimentary and reserved for members only. If you are not able to at
+ tend this open play event\, please look forward to many more Mahjong momen
+ ts as this event marks the launch of a new reoccurring Mahjong Open Play s
+ eries.
 URL:https://members.thequinhouse.com/events/192826
 CATEGORIES:Sports & Games
 END:VEVENT
@@ -213,7 +173,7 @@ DTEND;TZID=America/New_York:20260730T140000
 SUMMARY: Serendipity Lunch 
 LOCATION:The Terrace
 DESCRIPTION:Category: Member Mixer\nPrice: $80.00 per person\nAvailability:
-  6 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse.
+  4 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse.
  com/events/194059\n\nJoin us for a Serendipity Lunch that invites members 
  to enjoy meaningful conversation in great company. Set in The Terrace the 
  afternoon unfolds with an easy rhythm—a thoughtfully curated lunch\, ent
@@ -336,7 +296,7 @@ DTSTART;TZID=America/New_York:20260804T110000
 DTEND;TZID=America/New_York:20260804T120000
 SUMMARY:Art Tour: The Core Collection 
 LOCATION:Meet in The Lobby
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 30 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 29 spots left\nS
  tatus: Available\nEvent URL: https://members.thequinhouse.com/events/19602
  5\n\nPlease join 'Quin collection curator\, Kate Chertavian\, for an art t
  our focused on the Core Collection. The discussion will begin in Bondo wit
@@ -356,7 +316,7 @@ DTSTART;TZID=America/New_York:20260804T170000
 DTEND;TZID=America/New_York:20260804T180000
 SUMMARY:Member Mingle
 LOCATION:Lunasol
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 29 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 27 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  96060\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in the ambiant reserved space of Lunasol. This is your opportunity to co
@@ -426,7 +386,7 @@ DTEND;TZID=America/New_York:20260806T140000
 SUMMARY: Serendipity Lunch : The Traveler's Table 
 LOCATION:The Terrace
 DESCRIPTION:Category: Member Mixer\nPrice: $80.00 per person\nAvailability:
-  18 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
+  16 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
  .com/events/196056\n\nEvery journey begins with curiosity.\n\nContinuing t
  he "Curated Connections" extension of the Serendipity series meet us for a
   Serendipty lunch celebrating the places that have inspired us\, the cultu
@@ -446,13 +406,36 @@ URL:https://members.thequinhouse.com/events/196056
 CATEGORIES:Member Mixer
 END:VEVENT
 BEGIN:VEVENT
+UID:quin-event-176000@thequinhouse.com
+DTSTAMP:20260810T183000Z
+DTSTART;TZID=America/New_York:20260810T183000
+DTEND;TZID=America/New_York:20260810T210000
+SUMMARY:Serendipity Dinner 
+LOCATION:The Muse
+DESCRIPTION:Category: Member Mixer\nPrice: $100.00 per person\nAvailability
+ : 18 spots left\nStatus: Available\nEvent URL: https://members.thequinhous
+ e.com/events/176000\n\nJoin The ‘Quin House Managing Director\, Matthias
+  Kiehm\, for an evening of meaningful connections over a thoughtfully cura
+ ted three-course dinner. Enjoy expertly paired wines as you engage with fe
+ llow members\, guided by conversation prompts designed to inspire deeper\,
+  more memorable exchanges. This unique experience offers the perfect blend
+  of great company\, engaging dialogue\, and a menu crafted to delight the 
+ senses.\n\n*Tickets are $100 per person\, plus tax\, and are reserved for 
+ members only. Cancellations within 72 hours of the event\, or failure to a
+ ttend\, will be charged in full. Please inform us of any dietary needs or 
+ restrictions by emailing happening@thequin.com at least 72 hours before di
+ nner service.
+URL:https://members.thequinhouse.com/events/176000
+CATEGORIES:Member Mixer
+END:VEVENT
+BEGIN:VEVENT
 UID:quin-event-196061@thequinhouse.com
 DTSTAMP:20260811T170000Z
 DTSTART;TZID=America/New_York:20260811T170000
 DTEND;TZID=America/New_York:20260811T180000
 SUMMARY:Member Mingle
 LOCATION:Lunasol
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 39 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 37 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  96061\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in the ambiant reserved space of Lunasol. This is your opportunity to co
@@ -473,7 +456,7 @@ DTSTART;TZID=America/New_York:20260811T200000
 DTEND;TZID=America/New_York:20260811T210000
 SUMMARY:Rooftop Rendezvous: Citadelle Gin
 LOCATION:The Sky Deck
-DESCRIPTION:Category: Food & Beverage\nPrice: Free\nAvailability: 50 spots 
+DESCRIPTION:Category: Food & Beverage\nPrice: Free\nAvailability: 60 spots 
  left\nStatus: futureSale\nEvent URL: https://members.thequinhouse.com/even
  ts/197304\n\nThis August\, we invite you to discover a month-long celebrat
  ion of exceptional cocktails in partnership with Citadelle Gin\, the accla
@@ -536,7 +519,7 @@ DTSTART;TZID=America/New_York:20260818T170000
 DTEND;TZID=America/New_York:20260818T180000
 SUMMARY:Member Mingle
 LOCATION:Lunasol
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 39 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 38 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  96062\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in the ambiant reserved space of Lunasol. This is your opportunity to co
@@ -557,7 +540,7 @@ DTSTART;TZID=America/New_York:20260825T170000
 DTEND;TZID=America/New_York:20260825T180000
 SUMMARY:Member Mingle
 LOCATION:Lunasol
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 40 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 39 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  96063\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in the ambiant reserved space of Lunasol. This is your opportunity to co
