@@ -24,23 +24,6 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:quin-event-181404@thequinhouse.com
-DTSTAMP:20260725T113000Z
-DTSTART;TZID=America/New_York:20260725T113000
-DTEND;TZID=America/New_York:20260725T143000
-SUMMARY:Jazz Brunch
-LOCATION:Café Q
-DESCRIPTION:Category: Food & Beverage\nPrice: Free / Included\nStatus: Avai
- lable\nEvent URL: https://members.thequinhouse.com/events/181404\n\nReserv
- ations from 10:30AM - 3:00PM | Live Music from 11:30AM - 2:30PM\nRise\, sh
- ine and come hungry for Café Q's á la carte weekend brunch menu featurin
- g tableside entertainment by a Jazz duo. Following the club's usual policy
- \, children ages 6+ are welcome to attend when accompanied by a parent.\n\
- nMake a Reservation.
-URL:https://members.thequinhouse.com/events/181404
-CATEGORIES:Food & Beverage
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-192824@thequinhouse.com
 DTSTAMP:20260725T160000Z
 DTSTART;TZID=America/New_York:20260725T160000
@@ -151,7 +134,7 @@ DTEND;TZID=America/New_York:20260730T140000
 SUMMARY: Serendipity Lunch 
 LOCATION:The Terrace
 DESCRIPTION:Category: Member Mixer\nPrice: $80.00 per person\nAvailability:
-  5 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse.
+  6 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse.
  com/events/194059\n\nJoin us for a Serendipity Lunch that invites members 
  to enjoy meaningful conversation in great company. Set in The Terrace the 
  afternoon unfolds with an easy rhythm—a thoughtfully curated lunch\, ent
