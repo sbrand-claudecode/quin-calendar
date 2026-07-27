@@ -97,7 +97,7 @@ DTEND;TZID=America/New_York:20260730T140000
 SUMMARY: Serendipity Lunch 
 LOCATION:The Terrace
 DESCRIPTION:Category: Member Mixer\nPrice: $80.00 per person\nAvailability:
-  5 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse.
+  2 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse.
  com/events/194059\n\nJoin us for a Serendipity Lunch that invites members 
  to enjoy meaningful conversation in great company. Set in The Terrace the 
  afternoon unfolds with an easy rhythm—a thoughtfully curated lunch\, ent
@@ -170,7 +170,7 @@ DTSTART;TZID=America/New_York:20260804T090000
 DTEND;TZID=America/New_York:20260804T110000
 SUMMARY:Hands on Impact: Friends of The Public Garden
 LOCATION:Meet in The Lobby
-DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nAvailability: 6 spo
+DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nAvailability: 4 spo
  ts left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/ev
  ents/195627\n\nJoin fellow members and The 'Quin Impact Fund for a rewardi
  ng day of service dedicated to helping preserve and enhance Boston's belov
@@ -219,7 +219,7 @@ DTSTART;TZID=America/New_York:20260804T170000
 DTEND;TZID=America/New_York:20260804T180000
 SUMMARY:Member Mingle
 LOCATION:Lunasol
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 16 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 12 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  96060\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in the ambiant reserved space of Lunasol. This is your opportunity to co
@@ -310,7 +310,7 @@ DTEND;TZID=America/New_York:20260806T140000
 SUMMARY: Serendipity Lunch : The Traveler's Table 
 LOCATION:The Terrace
 DESCRIPTION:Category: Member Mixer\nPrice: $80.00 per person\nAvailability:
-  4 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse.
+  2 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse.
  com/events/196056\n\nEvery journey begins with curiosity.\n\nContinuing th
  e "Curated Connections" extension of the Serendipity series meet us for a 
  Serendipty lunch celebrating the places that have inspired us\, the cultur
@@ -337,7 +337,7 @@ DTEND;TZID=America/New_York:20260810T210000
 SUMMARY:Serendipity Dinner 
 LOCATION:The Muse
 DESCRIPTION:Category: Member Mixer\nPrice: $100.00 per person\nAvailability
- : 15 spots left\nStatus: Available\nEvent URL: https://members.thequinhous
+ : 14 spots left\nStatus: Available\nEvent URL: https://members.thequinhous
  e.com/events/176000\n\nJoin The ‘Quin House Managing Director\, Matthias
   Kiehm\, for an evening of meaningful connections over a thoughtfully cura
  ted three-course dinner. Enjoy expertly paired wines as you engage with fe
@@ -359,7 +359,7 @@ DTSTART;TZID=America/New_York:20260811T170000
 DTEND;TZID=America/New_York:20260811T180000
 SUMMARY:Member Mingle
 LOCATION:Lunasol
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 23 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 18 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  96061\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in the ambiant reserved space of Lunasol. This is your opportunity to co
@@ -380,21 +380,21 @@ DTSTART;TZID=America/New_York:20260811T200000
 DTEND;TZID=America/New_York:20260811T210000
 SUMMARY:Rooftop Rendezvous: Citadelle Gin
 LOCATION:The Sky Deck
-DESCRIPTION:Category: Food & Beverage\nPrice: Free\nAvailability: 13 spots 
- left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/event
- s/197304\n\nThis August\, we invite you to discover a month-long celebrati
- on of exceptional cocktails in partnership with Citadelle Gin\, the acclai
- med French gin renowned for its balance\, elegance\, and craftsmanship.\n\
- nTo celebrate the collaboration\, join us for a celebratory rooftop rendez
- vous featuring two signature serves available throughout the month: the im
- peccably chilled Freezer Door Martini and the timeless French 75. Each coc
- ktail showcases Citadelle Gin's distinctive botanical character while offe
- ring a refined interpretation of two enduring classics\, complemented by p
- remium caviar from Caviar Nantucket\, served atop perfectly crisp potato c
- hips for a timeless pairing.\n\nSip an ice-cold cocktail as the sun sets o
- ver the Boston skyline\, indulge in an elegant pairing of gin and caviar\,
-  and savor the season from one of The 'Quin's most spectacular vantage poi
- nts.\n\n*This event is complimentary and reserved for members only.
+DESCRIPTION:Category: Food & Beverage\nPrice: Free / Included\nStatus: unli
+ mited\nEvent URL: https://members.thequinhouse.com/events/197304\n\nThis A
+ ugust\, we invite you to discover a month-long celebration of exceptional 
+ cocktails in partnership with Citadelle Gin\, the acclaimed French gin ren
+ owned for its balance\, elegance\, and craftsmanship.\n\nTo celebrate the 
+ collaboration\, join us for a celebratory rooftop rendezvous featuring two
+  signature serves available throughout the month: the impeccably chilled F
+ reezer Door Martini and the timeless French 75. Each cocktail showcases Ci
+ tadelle Gin's distinctive botanical character while offering a refined int
+ erpretation of two enduring classics\, complemented by premium caviar from
+  Caviar Nantucket\, served atop perfectly crisp potato chips for a timeles
+ s pairing.\n\nSip an ice-cold cocktail as the sun sets over the Boston sky
+ line\, indulge in an elegant pairing of gin and caviar\, and savor the sea
+ son from one of The 'Quin's most spectacular vantage points.\n\n*This even
+ t is complimentary and reserved for members only.
 URL:https://members.thequinhouse.com/events/197304
 CATEGORIES:Food & Beverage
 END:VEVENT
@@ -405,14 +405,14 @@ DTSTART;TZID=America/New_York:20260813T180000
 DTEND;TZID=America/New_York:20260813T200000
 SUMMARY:Board Game Night 
 LOCATION:The Living Room
-DESCRIPTION:Category: Sports & Games\nPrice: Free\nAvailability: 7 spots le
- ft\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/
- 197305\n\nBring your sharpest wit\, channel your competitive charm\, and r
- oll the dice for an evening of strategy\, luck\, and a touch of mischief. 
- Hosted in The Living Room\, pick from one of our timeless classics or mode
- rn marvels and let the games begin!\n\n*This event is complimentary and re
- served for members\, plus one registered guest.  Food and cocktails from 
- The Living Room menu will be available for purchase.
+DESCRIPTION:Category: Sports & Games\nPrice: Free / Included\nStatus: Waitl
+ ist Only\nEvent URL: https://members.thequinhouse.com/events/197305\n\nBri
+ ng your sharpest wit\, channel your competitive charm\, and roll the dice 
+ for an evening of strategy\, luck\, and a touch of mischief. Hosted in The
+  Living Room\, pick from one of our timeless classics or modern marvels an
+ d let the games begin!\n\n*This event is complimentary and reserved for me
+ mbers\, plus one registered guest.  Food and cocktails from The Living Ro
+ om menu will be available for purchase.
 URL:https://members.thequinhouse.com/events/197305
 CATEGORIES:Sports & Games
 END:VEVENT
@@ -445,7 +445,7 @@ DTSTART;TZID=America/New_York:20260818T170000
 DTEND;TZID=America/New_York:20260818T180000
 SUMMARY:Member Mingle
 LOCATION:Lunasol
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 28 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 24 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  96062\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in the ambiant reserved space of Lunasol. This is your opportunity to co
@@ -466,7 +466,7 @@ DTSTART;TZID=America/New_York:20260825T170000
 DTEND;TZID=America/New_York:20260825T180000
 SUMMARY:Member Mingle
 LOCATION:Lunasol
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 27 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 24 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  96063\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in the ambiant reserved space of Lunasol. This is your opportunity to co
