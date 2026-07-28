@@ -97,7 +97,7 @@ DTEND;TZID=America/New_York:20260730T140000
 SUMMARY: Serendipity Lunch 
 LOCATION:The Terrace
 DESCRIPTION:Category: Member Mixer\nPrice: $80.00 per person\nAvailability:
-  3 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse.
+  2 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse.
  com/events/194059\n\nJoin us for a Serendipity Lunch that invites members 
  to enjoy meaningful conversation in great company. Set in The Terrace the 
  afternoon unfolds with an easy rhythm—a thoughtfully curated lunch\, ent
@@ -112,33 +112,6 @@ DESCRIPTION:Category: Member Mixer\nPrice: $80.00 per person\nAvailability:
  ny dietary needs or restrictions by emailing happening@thequin.com at leas
  t 72 hours prior to the event.
 URL:https://members.thequinhouse.com/events/194059
-CATEGORIES:Member Mixer
-END:VEVENT
-BEGIN:VEVENT
-UID:quin-event-195309@thequinhouse.com
-DTSTAMP:20260730T173000Z
-DTSTART;TZID=America/New_York:20260730T173000
-DTEND;TZID=America/New_York:20260730T193000
-SUMMARY:Member Meet Up: Boston Harbor Distillery 
-LOCATION:Offsite: Rose Kennedy Greenway
-DESCRIPTION:Category: Member Mixer\nPrice: Free / Included\nStatus: unlimit
- ed\nEvent URL: https://members.thequinhouse.com/events/195309\n\nJoin us f
- or a special Member Meet Up at The Rose Kennedy Greenway\, hosted by The '
- Quin's Membership Team. Spend the evening connecting with fellow members w
- hile enjoying two handcrafted cocktails on the 'House\, delicious light bi
- tes\, and great conversation in one of Boston's most vibrant outdoor space
- s.\n\nMembers will also have the unique opportunity to meet Boston Harbor 
- Distillery founder Rhonda Kallman\, who will lead an exclusive guided tast
- ing of the distillery's acclaimed Lawley's collection. Discover the fresh 
- botanical notes of their signature gins\, the rich character of their New 
- England–style rums\, and the crisp\, smooth finish of their Harborside V
- odka while learning about the inspiration and craftsmanship behind each sp
- irit.\n\nWhether you are a longtime whiskey and spirits enthusiast or simp
- ly looking for a fun evening with fellow members\, this is the perfect opp
- ortunity to sip\, socialize\, and experience one of Boston's premier local
-  distilleries. \n\n*This event is complimentary and reserved for members 
- only. Light bites will be available on the 'House.
-URL:https://members.thequinhouse.com/events/195309
 CATEGORIES:Member Mixer
 END:VEVENT
 BEGIN:VEVENT
@@ -330,6 +303,33 @@ URL:https://members.thequinhouse.com/events/196056
 CATEGORIES:Member Mixer
 END:VEVENT
 BEGIN:VEVENT
+UID:quin-event-195309@thequinhouse.com
+DTSTAMP:20260806T173000Z
+DTSTART;TZID=America/New_York:20260806T173000
+DTEND;TZID=America/New_York:20260806T193000
+SUMMARY:Member Meet Up: Boston Harbor Distillery 
+LOCATION:Offsite: Rose Kennedy Greenway
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 2 spots left
+ \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/19
+ 5309\n\nJoin us for a special Member Meet Up at The Rose Kennedy Greenway\
+ , hosted by The 'Quin's Membership Team. Spend the evening connecting with
+  fellow members while enjoying two handcrafted cocktails on the 'House\, d
+ elicious light bites\, and great conversation in one of Boston's most vibr
+ ant outdoor spaces.\n\nMembers will also have the unique opportunity to me
+ et Boston Harbor Distillery founder Rhonda Kallman\, who will lead an excl
+ usive guided tasting of the distillery's acclaimed Lawley's collection. Di
+ scover the fresh botanical notes of their signature gins\, the rich charac
+ ter of their New England–style rums\, and the crisp\, smooth finish of t
+ heir Harborside Vodka while learning about the inspiration and craftsmansh
+ ip behind each spirit.\n\nWhether you are a longtime whiskey and spirits e
+ nthusiast or simply looking for a fun evening with fellow members\, this i
+ s the perfect opportunity to sip\, socialize\, and experience one of Bosto
+ n's premier local distilleries. \n\n*This event is complimentary and rese
+ rved for members only. Light bites will be available on the 'House.
+URL:https://members.thequinhouse.com/events/195309
+CATEGORIES:Member Mixer
+END:VEVENT
+BEGIN:VEVENT
 UID:quin-event-176000@thequinhouse.com
 DTSTAMP:20260810T183000Z
 DTSTART;TZID=America/New_York:20260810T183000
@@ -466,7 +466,7 @@ DTSTART;TZID=America/New_York:20260825T170000
 DTEND;TZID=America/New_York:20260825T180000
 SUMMARY:Member Mingle
 LOCATION:Lunasol
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 24 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 23 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  96063\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in the ambiant reserved space of Lunasol. This is your opportunity to co
