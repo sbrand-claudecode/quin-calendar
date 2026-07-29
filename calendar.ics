@@ -24,50 +24,6 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:quin-event-190018@thequinhouse.com
-DTSTAMP:20260728T170000Z
-DTSTART;TZID=America/New_York:20260728T170000
-DTEND;TZID=America/New_York:20260728T180000
-SUMMARY:Member Mingle
-LOCATION:Lunasol
-DESCRIPTION:Category: Member Mixer\nPrice: Free / Included\nStatus: unlimit
- ed\nEvent URL: https://members.thequinhouse.com/events/190018\n\nJoin us f
- or our weekly Member Mingle\, an inclusive gathering set in the ambiant r
- eserved space of Lunasol. This is your opportunity to connect with fellow 
- members\, exchange ideas\, and cultivate meaningful relationships.\n\nWhet
- her you're sparking new collaborations\, sharing insights\, or simply enjo
- ying great conversation\, the Member Mingle is the perfect way to engage w
- ith our dynamic community. Don’t miss the chance to connect\, inspire\, 
- and be inspired.\n\n*This event is complimentary and reserved for members 
- only. Complimentary light bites will be served\, and beverages will be ava
- ilable for purchase.
-URL:https://members.thequinhouse.com/events/190018
-CATEGORIES:Member Mixer
-END:VEVENT
-BEGIN:VEVENT
-UID:quin-event-190268@thequinhouse.com
-DTSTAMP:20260728T173000Z
-DTSTART;TZID=America/New_York:20260728T173000
-DTEND;TZID=America/New_York:20260728T190000
-SUMMARY: Gather to Give: Equity & Opportunity Grant Reception
-LOCATION:The Muse
-DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free / Included\nStatus: 
- unlimited\nEvent URL: https://members.thequinhouse.com/events/190268\n\n5:
- 30PM Reception\, 6:00PM Ceremony\nJoin us for an inspiring evening celebra
- ting the exceptional local recipients of this year's Equity & Opportunity 
- pillar grants\, awarded through The ’Quin Impact Fund and made possible 
- by the generosity of our members.\n\nThis event will honor organizations t
- hat are expanding access to education\, economic mobility\, workforce deve
- lopment\, and essential resources—helping to create pathways to opportun
- ity and strengthen communities across Greater Boston. Guests will have the
-  opportunity to hear from and connect with leaders driving meaningful chan
- ge\, learn more about their work\, and discover ways to support their miss
- ions.\n\n*This complimentary event is reserved for members only. Light ref
- reshments will be served.
-URL:https://members.thequinhouse.com/events/190268
-CATEGORIES:‘Quin Impact Fund
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-181400@thequinhouse.com
 DTSTAMP:20260729T180000Z
 DTSTART;TZID=America/New_York:20260729T180000
@@ -143,7 +99,7 @@ DTSTART;TZID=America/New_York:20260804T090000
 DTEND;TZID=America/New_York:20260804T110000
 SUMMARY:Hands on Impact: Friends of The Public Garden
 LOCATION:Meet in The Lobby
-DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nAvailability: 3 spo
+DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nAvailability: 4 spo
  ts left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/ev
  ents/195627\n\nJoin fellow members and The 'Quin Impact Fund for a rewardi
  ng day of service dedicated to helping preserve and enhance Boston's belov
@@ -192,7 +148,7 @@ DTSTART;TZID=America/New_York:20260804T170000
 DTEND;TZID=America/New_York:20260804T180000
 SUMMARY:Member Mingle
 LOCATION:Lunasol
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 10 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 11 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  96060\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in the ambiant reserved space of Lunasol. This is your opportunity to co
@@ -309,23 +265,23 @@ DTSTART;TZID=America/New_York:20260806T173000
 DTEND;TZID=America/New_York:20260806T193000
 SUMMARY:Member Meet Up: Boston Harbor Distillery 
 LOCATION:Offsite: Rose Kennedy Greenway
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 2 spots left
- \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/19
- 5309\n\nJoin us for a special Member Meet Up at The Rose Kennedy Greenway\
- , hosted by The 'Quin's Membership Team. Spend the evening connecting with
-  fellow members while enjoying two handcrafted cocktails on the 'House\, d
- elicious light bites\, and great conversation in one of Boston's most vibr
- ant outdoor spaces.\n\nMembers will also have the unique opportunity to me
- et Boston Harbor Distillery founder Rhonda Kallman\, who will lead an excl
- usive guided tasting of the distillery's acclaimed Lawley's collection. Di
- scover the fresh botanical notes of their signature gins\, the rich charac
- ter of their New England–style rums\, and the crisp\, smooth finish of t
- heir Harborside Vodka while learning about the inspiration and craftsmansh
- ip behind each spirit.\n\nWhether you are a longtime whiskey and spirits e
- nthusiast or simply looking for a fun evening with fellow members\, this i
- s the perfect opportunity to sip\, socialize\, and experience one of Bosto
- n's premier local distilleries. \n\n*This event is complimentary and rese
- rved for members only. Light bites will be available on the 'House.
+DESCRIPTION:Category: Member Mixer\nPrice: Free / Included\nStatus: unlimit
+ ed\nEvent URL: https://members.thequinhouse.com/events/195309\n\nJoin us f
+ or a special Member Meet Up at The Rose Kennedy Greenway\, hosted by The '
+ Quin's Membership Team. Spend the evening connecting with fellow members w
+ hile enjoying two handcrafted cocktails on the 'House\, delicious light bi
+ tes\, and great conversation in one of Boston's most vibrant outdoor space
+ s.\n\nMembers will also have the unique opportunity to meet Boston Harbor 
+ Distillery founder Rhonda Kallman\, who will lead an exclusive guided tast
+ ing of the distillery's acclaimed Lawley's collection. Discover the fresh 
+ botanical notes of their signature gins\, the rich character of their New 
+ England–style rums\, and the crisp\, smooth finish of their Harborside V
+ odka while learning about the inspiration and craftsmanship behind each sp
+ irit.\n\nWhether you are a longtime whiskey and spirits enthusiast or simp
+ ly looking for a fun evening with fellow members\, this is the perfect opp
+ ortunity to sip\, socialize\, and experience one of Boston's premier local
+  distilleries. \n\n*This event is complimentary and reserved for members 
+ only. Light bites will be available on the 'House.
 URL:https://members.thequinhouse.com/events/195309
 CATEGORIES:Member Mixer
 END:VEVENT
@@ -337,7 +293,7 @@ DTEND;TZID=America/New_York:20260810T210000
 SUMMARY:Serendipity Dinner 
 LOCATION:The Muse
 DESCRIPTION:Category: Member Mixer\nPrice: $100.00 per person\nAvailability
- : 14 spots left\nStatus: Available\nEvent URL: https://members.thequinhous
+ : 13 spots left\nStatus: Available\nEvent URL: https://members.thequinhous
  e.com/events/176000\n\nJoin The ‘Quin House Managing Director\, Matthias
   Kiehm\, for an evening of meaningful connections over a thoughtfully cura
  ted three-course dinner. Enjoy expertly paired wines as you engage with fe
@@ -359,7 +315,7 @@ DTSTART;TZID=America/New_York:20260811T170000
 DTEND;TZID=America/New_York:20260811T180000
 SUMMARY:Member Mingle
 LOCATION:Lunasol
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 16 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 15 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  96061\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in the ambiant reserved space of Lunasol. This is your opportunity to co
