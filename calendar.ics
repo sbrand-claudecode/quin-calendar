@@ -24,31 +24,6 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:quin-event-194059@thequinhouse.com
-DTSTAMP:20260730T120000Z
-DTSTART;TZID=America/New_York:20260730T120000
-DTEND;TZID=America/New_York:20260730T140000
-SUMMARY: Serendipity Lunch 
-LOCATION:The Terrace
-DESCRIPTION:Category: Member Mixer\nPrice: $80.00 per person\nStatus: Waitl
- ist Only\nEvent URL: https://members.thequinhouse.com/events/194059\n\nJoi
- n us for a Serendipity Lunch that invites members to enjoy meaningful conv
- ersation in great company. Set in The Terrace the afternoon unfolds with a
- n easy rhythm—a thoughtfully curated lunch\, enthusiastic members\, and 
- a deck of conversation prompts designed to spark engaging connections.\n\n
- Lunch will be served in a relaxed setting showcasing a seasonal selection 
- of chef-crafted dishes thoughtfully prepared to encourage sharing and conv
- ersation. Beverages will be available throughout the experience.\n\nSpend 
- the afternoon at The 'House—unhurried\, social\, and effortlessly enjoya
- ble.\n\n*Tickets are $80 per person\, plus tax\, and are reserved for memb
- ers only. Cancellations within 48 hours of the event\, or failure to atten
- d\, will be charged in full. Please inform us of any dietary needs or rest
- rictions by emailing happening@thequin.com at least 72 hours prior to the 
- event.
-URL:https://members.thequinhouse.com/events/194059
-CATEGORIES:Member Mixer
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-180152@thequinhouse.com
 DTSTAMP:20260802T190000Z
 DTSTART;TZID=America/New_York:20260802T190000
@@ -77,7 +52,7 @@ DTSTART;TZID=America/New_York:20260804T090000
 DTEND;TZID=America/New_York:20260804T110000
 SUMMARY:Hands on Impact: Friends of The Public Garden
 LOCATION:Meet in The Lobby
-DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nAvailability: 3 spo
+DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nAvailability: 2 spo
  ts left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/ev
  ents/195627\n\nJoin fellow members and The 'Quin Impact Fund for a rewardi
  ng day of service dedicated to helping preserve and enhance Boston's belov
@@ -126,7 +101,7 @@ DTSTART;TZID=America/New_York:20260804T170000
 DTEND;TZID=America/New_York:20260804T180000
 SUMMARY:Member Mingle
 LOCATION:Lunasol
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 11 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 10 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  96060\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in the ambiant reserved space of Lunasol. This is your opportunity to co
@@ -314,21 +289,21 @@ DTSTART;TZID=America/New_York:20260811T200000
 DTEND;TZID=America/New_York:20260811T210000
 SUMMARY:Rooftop Rendezvous: Citadelle Gin
 LOCATION:The Sky Deck
-DESCRIPTION:Category: Food & Beverage\nPrice: Free / Included\nStatus: unli
- mited\nEvent URL: https://members.thequinhouse.com/events/197304\n\nThis A
- ugust\, we invite you to discover a month-long celebration of exceptional 
- cocktails in partnership with Citadelle Gin\, the acclaimed French gin ren
- owned for its balance\, elegance\, and craftsmanship.\n\nTo celebrate the 
- collaboration\, join us for a celebratory rooftop rendezvous featuring two
-  signature serves available throughout the month: the impeccably chilled F
- reezer Door Martini and the timeless French 75. Each cocktail showcases Ci
- tadelle Gin's distinctive botanical character while offering a refined int
- erpretation of two enduring classics\, complemented by premium caviar from
-  Caviar Nantucket\, served atop perfectly crisp potato chips for a timeles
- s pairing.\n\nSip an ice-cold cocktail as the sun sets over the Boston sky
- line\, indulge in an elegant pairing of gin and caviar\, and savor the sea
- son from one of The 'Quin's most spectacular vantage points.\n\n*This even
- t is complimentary and reserved for members only.
+DESCRIPTION:Category: Food & Beverage\nPrice: Free\nStatus: Waitlist Only\n
+ Event URL: https://members.thequinhouse.com/events/197304\n\nThis August\,
+  we invite you to discover a month-long celebration of exceptional cocktai
+ ls in partnership with Citadelle Gin\, the acclaimed French gin renowned f
+ or its balance\, elegance\, and craftsmanship.\n\nTo celebrate the collabo
+ ration\, join us for a celebratory rooftop rendezvous featuring two signat
+ ure serves available throughout the month: the impeccably chilled Freezer 
+ Door Martini and the timeless French 75. Each cocktail showcases Citadelle
+  Gin's distinctive botanical character while offering a refined interpreta
+ tion of two enduring classics\, complemented by premium caviar from Caviar
+  Nantucket\, served atop perfectly crisp potato chips for a timeless pairi
+ ng.\n\nSip an ice-cold cocktail as the sun sets over the Boston skyline\, 
+ indulge in an elegant pairing of gin and caviar\, and savor the season fro
+ m one of The 'Quin's most spectacular vantage points.\n\n*This event is co
+ mplimentary and reserved for members only.
 URL:https://members.thequinhouse.com/events/197304
 CATEGORIES:Food & Beverage
 END:VEVENT
