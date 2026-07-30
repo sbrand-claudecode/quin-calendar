@@ -24,28 +24,6 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:quin-event-181400@thequinhouse.com
-DTSTAMP:20260729T180000Z
-DTSTART;TZID=America/New_York:20260729T180000
-DTEND;TZID=America/New_York:20260729T210000
-SUMMARY:Live Music: Becca Hannah 
-LOCATION:The Reading Room
-DESCRIPTION:Category: The Arts\nPrice: Free / Included\nStatus: Available\n
- Event URL: https://members.thequinhouse.com/events/181400\n\nSettle in for
-  an evening with Becca Hannah\, whose soulful blend of R&B\, jazz\, blues\
- , and soul creates an atmosphere that is both intimate and transporting. G
- uided by instinct and emotion\, Becca crafts music that lingers long after
-  the final note\, weaving themes of love\, longing\, and self-discovery in
- to every performance.\n\nDrawing from her debut album\, Tonight In My Drea
- ms\, Becca invites listeners into a richly textured sonic world where time
- less influences meet contemporary expression. Sip on a signature cocktail 
- from Little Bar and let the music carry you through an unforgettable eveni
- ng.\n\n*Reservations are not required. Seating is first come\, first serve
- d.
-URL:https://members.thequinhouse.com/events/181400
-CATEGORIES:The Arts
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-194059@thequinhouse.com
 DTSTAMP:20260730T120000Z
 DTSTART;TZID=America/New_York:20260730T120000
@@ -401,7 +379,7 @@ DTSTART;TZID=America/New_York:20260818T170000
 DTEND;TZID=America/New_York:20260818T180000
 SUMMARY:Member Mingle
 LOCATION:Lunasol
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 23 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 21 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  96062\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in the ambiant reserved space of Lunasol. This is your opportunity to co
