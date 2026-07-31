@@ -369,6 +369,34 @@ URL:https://members.thequinhouse.com/events/196062
 CATEGORIES:Member Mixer
 END:VEVENT
 BEGIN:VEVENT
+UID:quin-event-196057@thequinhouse.com
+DTSTAMP:20260820T120000Z
+DTSTART;TZID=America/New_York:20260820T120000
+DTEND;TZID=America/New_York:20260820T140000
+SUMMARY: Serendipity Lunch: Back in Session 
+LOCATION:The Terrace
+DESCRIPTION:Category: Member Mixer\nPrice: $80.00 per person\nAvailability:
+  18 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
+ .com/events/196057\n\nContinuing the Curated Connections extension of the 
+ Serendipity series\, join us for a brunch inspired by the arrival of back-
+ to-school season—a time that has long symbolized fresh starts\, renewed 
+ curiosity\, and the excitement of new possibilities. Gather around a thoug
+ htfully curated midday menu in The Terrace as you connect with fellow memb
+ ers through engaging discussion prompts\, moderated by our Membership Team
+ \, exploring memorable school experiences\, influential mentors\, lifelong
+  learning\, and the moments that have shaped who we are today.\n\nWhether 
+ you're reminiscing about favorite teachers\, reflecting on lessons learned
+  beyond the classroom\, or embracing the opportunities that come with a ne
+ w season\, this Serendipity gathering offers a welcoming opportunity to co
+ nnect through shared stories and meaningful conversation.\n\n*Tickets are 
+ $80 per person\, plus tax\, and are reserved for members only. Cancellatio
+ ns within 72 hours of the event\, or failure to attend\, will be charged i
+ n full. Please inform us of any dietary needs or restrictions by emailing 
+ happening@thequin.com at least 72 hours prior to the event.
+URL:https://members.thequinhouse.com/events/196057
+CATEGORIES:Member Mixer
+END:VEVENT
+BEGIN:VEVENT
 UID:quin-event-196063@thequinhouse.com
 DTSTAMP:20260825T170000Z
 DTSTART;TZID=America/New_York:20260825T170000
