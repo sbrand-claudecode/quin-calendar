@@ -101,17 +101,17 @@ DTSTART;TZID=America/New_York:20260804T170000
 DTEND;TZID=America/New_York:20260804T180000
 SUMMARY:Member Mingle
 LOCATION:Lunasol
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 9 spots left
- \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/19
- 6060\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set 
- in the ambiant reserved space of Lunasol. This is your opportunity to con
- nect with fellow members\, exchange ideas\, and cultivate meaningful relat
- ionships.\n\nWhether you're sparking new collaborations\, sharing insights
- \, or simply enjoying great conversation\, the Member Mingle is the perfec
- t way to engage with our dynamic community. Don’t miss the chance to con
- nect\, inspire\, and be inspired.\n\n*This event is complimentary and rese
- rved for members only. Complimentary light bites will be served\, and beve
- rages will be available for purchase.
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 19 spots lef
+ t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
+ 96060\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
+  in the ambiant reserved space of Lunasol. This is your opportunity to co
+ nnect with fellow members\, exchange ideas\, and cultivate meaningful rela
+ tionships.\n\nWhether you're sparking new collaborations\, sharing insight
+ s\, or simply enjoying great conversation\, the Member Mingle is the perfe
+ ct way to engage with our dynamic community. Don’t miss the chance to co
+ nnect\, inspire\, and be inspired.\n\n*This event is complimentary and res
+ erved for members only. Complimentary light bites will be served\, and bev
+ erages will be available for purchase.
 URL:https://members.thequinhouse.com/events/196060
 CATEGORIES:Member Mixer
 END:VEVENT
@@ -143,22 +143,22 @@ DTSTART;TZID=America/New_York:20260804T190000
 DTEND;TZID=America/New_York:20260804T203000
 SUMMARY:Author's Circle Book Club: "Summer of Love" with Kerri Maher
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free / Included\nStatus: unlimited\n
- Event URL: https://members.thequinhouse.com/events/195311\n\nBookmark the 
- date for an inspiring conversation exploring “The Summer of Love” with
-  author Kerri Maher. Moderated by Wendy Dodson\, owner of Humming Bird Boo
- ks.\n\nSettle into the sand this month and let the California coast carry 
- you away. A story of family\, love\, ambition\, and long-buried secrets\, 
- this is the perfect escape to pack in your beach bag this summer. Travel b
- ack to the Summer of Love in 1967\, where two sisters find themselves on v
- ery different paths. Winnie dreams of changing the world through poetry in
-  the heart of San Francisco's counterculture\, while Miranda stays home to
-  build her family's California vineyard into something extraordinary.\n\nF
- ifty years later\, Dawn Hartley is pulled back into her family's past when
-  she sets out to uncover the identity of a mysterious bestselling author w
- ho seems to know all of the Hartleys' deepest secrets—including one Dawn
-  is hiding herself.\n\n*This event is complimentary and reserved for membe
- rs only. Light refreshments will be served.
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 3 spots left\nSt
+ atus: Available\nEvent URL: https://members.thequinhouse.com/events/195311
+ \n\nBookmark the date for an inspiring conversation exploring “The Summe
+ r of Love” with author Kerri Maher. Moderated by Wendy Dodson\, owner of
+  Humming Bird Books.\n\nSettle into the sand this month and let the Califo
+ rnia coast carry you away. A story of family\, love\, ambition\, and long-
+ buried secrets\, this is the perfect escape to pack in your beach bag this
+  summer. Travel back to the Summer of Love in 1967\, where two sisters fin
+ d themselves on very different paths. Winnie dreams of changing the world 
+ through poetry in the heart of San Francisco's counterculture\, while Mira
+ nda stays home to build her family's California vineyard into something ex
+ traordinary.\n\nFifty years later\, Dawn Hartley is pulled back into her f
+ amily's past when she sets out to uncover the identity of a mysterious bes
+ tselling author who seems to know all of the Hartleys' deepest secrets—i
+ ncluding one Dawn is hiding herself.\n\n*This event is complimentary and r
+ eserved for members only. Light refreshments will be served.
 URL:https://members.thequinhouse.com/events/195311
 CATEGORIES:The Arts
 END:VEVENT
@@ -268,7 +268,7 @@ DTSTART;TZID=America/New_York:20260811T170000
 DTEND;TZID=America/New_York:20260811T180000
 SUMMARY:Member Mingle
 LOCATION:Lunasol
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 14 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 24 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  96061\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in the ambiant reserved space of Lunasol. This is your opportunity to co
@@ -354,7 +354,7 @@ DTSTART;TZID=America/New_York:20260818T170000
 DTEND;TZID=America/New_York:20260818T180000
 SUMMARY:Member Mingle
 LOCATION:Lunasol
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 21 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 31 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  96062\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in the ambiant reserved space of Lunasol. This is your opportunity to co
@@ -397,13 +397,58 @@ URL:https://members.thequinhouse.com/events/196057
 CATEGORIES:Member Mixer
 END:VEVENT
 BEGIN:VEVENT
+UID:quin-event-197999@thequinhouse.com
+DTSTAMP:20260820T180000Z
+DTSTART;TZID=America/New_York:20260820T180000
+DTEND;TZID=America/New_York:20260820T200000
+SUMMARY:Member Meet Up: Night Shift Brewery Esplanade
+LOCATION:Offsite: Night Shift Brewery Esplanade
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 53 spots lef
+ t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
+ 97999\n\nJoin fellow members for an early summer evening at Night Shift Br
+ ewery on the Esplanade\, a lively outdoor beer garden set along the Charle
+ s River.\n\nThis casual gathering offers an easy setting to connect\, unwi
+ nd\, and enjoy a curated selection of beers\, hard seltzers\, wines\, and 
+ non-alcoholic options. Whether catching up with familiar faces or meeting 
+ someone new\, the atmosphere is designed to be social\, welcoming\, and ef
+ fortlessly enjoyable.\n\nDogs are welcome so feel free to bring your four-
+ legged companion along for the evening.\n\n*This event is complimentary an
+ d reserved for members only. Each member will receive two complimentary dr
+ inks\, followed by a cash bar. Food will be available for purchase.
+URL:https://members.thequinhouse.com/events/197999
+CATEGORIES:Member Mixer
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-196059@thequinhouse.com
+DTSTAMP:20260824T183000Z
+DTSTART;TZID=America/New_York:20260824T183000
+DTEND;TZID=America/New_York:20260824T210000
+SUMMARY:Serendipity Dinner
+LOCATION:The Muse
+DESCRIPTION:Category: Member Mixer\nPrice: $100.00 per person\nAvailability
+ : 18 spots left\nStatus: Available\nEvent URL: https://members.thequinhous
+ e.com/events/196059\n\nJoin The ‘Quin House Director of Membership\, Lis
+ a Flores\, for an evening of meaningful connections over a thoughtfully cu
+ rated three-course dinner. Enjoy expertly paired wines as you engage with 
+ fellow members\, guided by conversation prompts designed to inspire deeper
+ \, more memorable exchanges. This unique experience offers the perfect ble
+ nd of great company\, engaging dialogue\, and a menu crafted to delight th
+ e senses.\n\n*Tickets are $100 per person\, plus tax\, and are reserved fo
+ r members only. Cancellations within 72 hours of the event\, or failure to
+  attend\, will be charged in full. Please inform us of any dietary needs o
+ r restrictions by emailing happening@thequin.com at least 72 hours before 
+ dinner service.
+URL:https://members.thequinhouse.com/events/196059
+CATEGORIES:Member Mixer
+END:VEVENT
+BEGIN:VEVENT
 UID:quin-event-196063@thequinhouse.com
 DTSTAMP:20260825T170000Z
 DTSTART;TZID=America/New_York:20260825T170000
 DTEND;TZID=America/New_York:20260825T180000
 SUMMARY:Member Mingle
 LOCATION:Lunasol
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 22 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 32 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  96063\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in the ambiant reserved space of Lunasol. This is your opportunity to co
