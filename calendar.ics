@@ -24,53 +24,31 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:quin-event-180152@thequinhouse.com
-DTSTAMP:20260802T190000Z
-DTSTART;TZID=America/New_York:20260802T190000
-DTEND;TZID=America/New_York:20260802T213000
-SUMMARY:Summer Concert Series: Zac Brown Band 
-LOCATION:Fenway Park
-DESCRIPTION:Category: The Arts\nPrice: $607.48 per person\nStatus: soldOut\
- nEvent URL: https://members.thequinhouse.com/events/180152\n\nThe ‘Quin�
- ��s Summer Concert Series continues with Zac Brown Band’s Love & Fear To
- ur\, joined by special guests Old Crow Medicine Show.\n\nIn partnership wi
- th the Foundation To Be Named Later\, members will experience a private pa
- rty from Fenway’s Pavilion Decks A & B\, complete with complimentary foo
- d\, beer\, wine\, and hard seltzers\, all set against panoramic views of t
- he show.\n\n*Tickets are $650 each and reflect a charitable donation to Th
- e Foundation To Be Named Later. Tickets are non-refundable and non-transfe
- rable. Members may purchase up to two tickets and are required to accompan
- y their guests ages 16+. Pavilion Decks A & B are open space with no assig
- ned seating. All shows are rain or shine.
-URL:https://members.thequinhouse.com/events/180152
-CATEGORIES:The Arts
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-195627@thequinhouse.com
 DTSTAMP:20260804T090000Z
 DTSTART;TZID=America/New_York:20260804T090000
 DTEND;TZID=America/New_York:20260804T110000
 SUMMARY:Hands on Impact: Friends of The Public Garden
 LOCATION:Meet in The Lobby
-DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nAvailability: 1 spo
- t left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/eve
- nts/195627\n\nJoin fellow members and The 'Quin Impact Fund for a rewardin
- g day of service dedicated to helping preserve and enhance Boston's belove
- d public green spaces. Working alongside the Friends of the Public Garden 
- - a nonprofit organization that has partnered with the City of Boston sinc
- e 1970 to care for the Public Garden\, Boston Common\, and Commonwealth Av
- enue Mall - members will contribute to the ongoing stewardship of these ic
- onic parks through a variety of hands-on projects.\n\nMembers will meet in
-  the Lobby before walking together to their dedicated green space. Volunte
- er activities may include weeding\, litter removal\, fence cleaning\, and 
- other seasonal projects dependent on park needs. This is a wonderful oppor
- tunity to enjoy the outdoors\, connect with fellow members\, and make a me
- aningful impact while helping preserve some of Boston’s most treasured l
- andscapes for generations to come.\n\n*This event is complimentary and res
- erved for members only. We recommend wearing comfortable clothing appropri
- ate for outdoor work\, including closed-toe shoes\, and bringing a reusabl
- e water bottle. All registered members will be asked to sign a waiver prio
- r to the volunteer day. Please click here to sign the waiver.
+DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nAvailability: 3 spo
+ ts left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/ev
+ ents/195627\n\nJoin fellow members and The 'Quin Impact Fund for a rewardi
+ ng day of service dedicated to helping preserve and enhance Boston's belov
+ ed public green spaces. Working alongside the Friends of the Public Garden
+  - a nonprofit organization that has partnered with the City of Boston sin
+ ce 1970 to care for the Public Garden\, Boston Common\, and Commonwealth A
+ venue Mall - members will contribute to the ongoing stewardship of these i
+ conic parks through a variety of hands-on projects.\n\nMembers will meet i
+ n the Lobby before walking together to their dedicated green space. Volunt
+ eer activities may include weeding\, litter removal\, fence cleaning\, and
+  other seasonal projects dependent on park needs. This is a wonderful oppo
+ rtunity to enjoy the outdoors\, connect with fellow members\, and make a m
+ eaningful impact while helping preserve some of Boston’s most treasured 
+ landscapes for generations to come.\n\n*This event is complimentary and re
+ served for members only. We recommend wearing comfortable clothing appropr
+ iate for outdoor work\, including closed-toe shoes\, and bringing a reusab
+ le water bottle. All registered members will be asked to sign a waiver pri
+ or to the volunteer day. Please click here to sign the waiver.
 URL:https://members.thequinhouse.com/events/195627
 CATEGORIES:‘Quin Impact Fund
 END:VEVENT
@@ -143,7 +121,7 @@ DTSTART;TZID=America/New_York:20260804T190000
 DTEND;TZID=America/New_York:20260804T203000
 SUMMARY:Author's Circle Book Club: "Summer of Love" with Kerri Maher
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 4 spots left\nSt
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 5 spots left\nSt
  atus: Available\nEvent URL: https://members.thequinhouse.com/events/195311
  \n\nBookmark the date for an inspiring conversation exploring “The Summe
  r of Love” with author Kerri Maher. Moderated by Wendy Dodson\, owner of
@@ -402,7 +380,7 @@ DTSTART;TZID=America/New_York:20260820T180000
 DTEND;TZID=America/New_York:20260820T200000
 SUMMARY:Member Meet Up: Night Shift Brewery Esplanade
 LOCATION:Offsite: Night Shift Brewery Esplanade
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 26 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 24 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  97999\n\nJoin fellow members for an early summer evening at Night Shift Br
  ewery on the Esplanade\, a lively outdoor beer garden set along the Charle
@@ -447,7 +425,7 @@ DTSTART;TZID=America/New_York:20260825T170000
 DTEND;TZID=America/New_York:20260825T180000
 SUMMARY:Member Mingle
 LOCATION:Lunasol
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 24 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 23 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  96063\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in the ambiant reserved space of Lunasol. This is your opportunity to co
