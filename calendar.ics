@@ -24,55 +24,6 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:quin-event-195627@thequinhouse.com
-DTSTAMP:20260804T090000Z
-DTSTART;TZID=America/New_York:20260804T090000
-DTEND;TZID=America/New_York:20260804T110000
-SUMMARY:Hands on Impact: Friends of The Public Garden
-LOCATION:Meet in The Lobby
-DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nAvailability: 7 spo
- ts left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/ev
- ents/195627\n\nJoin fellow members and The 'Quin Impact Fund for a rewardi
- ng day of service dedicated to helping preserve and enhance Boston's belov
- ed public green spaces. Working alongside the Friends of the Public Garden
-  - a nonprofit organization that has partnered with the City of Boston sin
- ce 1970 to care for the Public Garden\, Boston Common\, and Commonwealth A
- venue Mall - members will contribute to the ongoing stewardship of these i
- conic parks through a variety of hands-on projects.\n\nMembers will meet i
- n the Lobby before walking together to their dedicated green space. Volunt
- eer activities may include weeding\, litter removal\, fence cleaning\, and
-  other seasonal projects dependent on park needs. This is a wonderful oppo
- rtunity to enjoy the outdoors\, connect with fellow members\, and make a m
- eaningful impact while helping preserve some of Boston’s most treasured 
- landscapes for generations to come.\n\n*This event is complimentary and re
- served for members only. We recommend wearing comfortable clothing appropr
- iate for outdoor work\, including closed-toe shoes\, and bringing a reusab
- le water bottle. All registered members will be asked to sign a waiver pri
- or to the volunteer day. Please click here to sign the waiver.
-URL:https://members.thequinhouse.com/events/195627
-CATEGORIES:‘Quin Impact Fund
-END:VEVENT
-BEGIN:VEVENT
-UID:quin-event-196025@thequinhouse.com
-DTSTAMP:20260804T110000Z
-DTSTART;TZID=America/New_York:20260804T110000
-DTEND;TZID=America/New_York:20260804T120000
-SUMMARY:Art Tour: The Core Collection 
-LOCATION:Meet in The Lobby
-DESCRIPTION:Category: The Arts\nPrice: Free / Included\nStatus: Waitlist On
- ly\nEvent URL: https://members.thequinhouse.com/events/196025\n\nPlease jo
- in 'Quin collection curator\, Kate Chertavian\, for an art tour focused on
-  the Core Collection. The discussion will begin in Bondo with Donald Lipsk
- i's spectacular statement chandelier and Christopher Wool's monumental sil
- kscreens and will continue with a thematic exploration of works on the gra
- nd staircase. With insight into the collaborative process of creating this
-  incredible collection\, the tour will conclude in the lobby with artists 
- such as Julie Mehretu\, Auguste Rodin.\n\n*This event is complimentary and
-  reserved for members\, plus one registered guest.
-URL:https://members.thequinhouse.com/events/196025
-CATEGORIES:The Arts
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-196060@thequinhouse.com
 DTSTAMP:20260804T170000Z
 DTSTART;TZID=America/New_York:20260804T170000
@@ -121,22 +72,22 @@ DTSTART;TZID=America/New_York:20260804T190000
 DTEND;TZID=America/New_York:20260804T203000
 SUMMARY:Author's Circle Book Club: "Summer of Love" with Kerri Maher
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 5 spots left\nSt
- atus: Available\nEvent URL: https://members.thequinhouse.com/events/195311
- \n\nBookmark the date for an inspiring conversation exploring “The Summe
- r of Love” with author Kerri Maher. Moderated by Wendy Dodson\, owner of
-  Humming Bird Books.\n\nSettle into the sand this month and let the Califo
- rnia coast carry you away. A story of family\, love\, ambition\, and long-
- buried secrets\, this is the perfect escape to pack in your beach bag this
-  summer. Travel back to the Summer of Love in 1967\, where two sisters fin
- d themselves on very different paths. Winnie dreams of changing the world 
- through poetry in the heart of San Francisco's counterculture\, while Mira
- nda stays home to build her family's California vineyard into something ex
- traordinary.\n\nFifty years later\, Dawn Hartley is pulled back into her f
- amily's past when she sets out to uncover the identity of a mysterious bes
- tselling author who seems to know all of the Hartleys' deepest secrets—i
- ncluding one Dawn is hiding herself.\n\n*This event is complimentary and r
- eserved for members only. Light refreshments will be served.
+DESCRIPTION:Category: The Arts\nPrice: Free\nStatus: Waitlist Only\nEvent U
+ RL: https://members.thequinhouse.com/events/195311\n\nBookmark the date fo
+ r an inspiring conversation exploring “The Summer of Love” with author
+  Kerri Maher. Moderated by Wendy Dodson\, owner of Humming Bird Books.\n\n
+ Settle into the sand this month and let the California coast carry you awa
+ y. A story of family\, love\, ambition\, and long-buried secrets\, this is
+  the perfect escape to pack in your beach bag this summer. Travel back to 
+ the Summer of Love in 1967\, where two sisters find themselves on very dif
+ ferent paths. Winnie dreams of changing the world through poetry in the he
+ art of San Francisco's counterculture\, while Miranda stays home to build 
+ her family's California vineyard into something extraordinary.\n\nFifty ye
+ ars later\, Dawn Hartley is pulled back into her family's past when she se
+ ts out to uncover the identity of a mysterious bestselling author who seem
+ s to know all of the Hartleys' deepest secrets—including one Dawn is hid
+ ing herself.\n\n*This event is complimentary and reserved for members only
+ . Light refreshments will be served.
 URL:https://members.thequinhouse.com/events/195311
 CATEGORIES:The Arts
 END:VEVENT
@@ -266,21 +217,21 @@ DTSTART;TZID=America/New_York:20260811T200000
 DTEND;TZID=America/New_York:20260811T210000
 SUMMARY:Rooftop Rendezvous: Citadelle Gin
 LOCATION:The Sky Deck
-DESCRIPTION:Category: Food & Beverage\nPrice: Free\nStatus: Waitlist Only\n
- Event URL: https://members.thequinhouse.com/events/197304\n\nThis August\,
-  we invite you to discover a month-long celebration of exceptional cocktai
- ls in partnership with Citadelle Gin\, the acclaimed French gin renowned f
- or its balance\, elegance\, and craftsmanship.\n\nTo celebrate the collabo
- ration\, join us for a celebratory rooftop rendezvous featuring two signat
- ure serves available throughout the month: the impeccably chilled Freezer 
- Door Martini and the timeless French 75. Each cocktail showcases Citadelle
-  Gin's distinctive botanical character while offering a refined interpreta
- tion of two enduring classics\, complemented by premium caviar from Caviar
-  Nantucket\, served atop perfectly crisp potato chips for a timeless pairi
- ng.\n\nSip an ice-cold cocktail as the sun sets over the Boston skyline\, 
- indulge in an elegant pairing of gin and caviar\, and savor the season fro
- m one of The 'Quin's most spectacular vantage points.\n\n*This event is co
- mplimentary and reserved for members only.
+DESCRIPTION:Category: Food & Beverage\nPrice: Free / Included\nStatus: unli
+ mited\nEvent URL: https://members.thequinhouse.com/events/197304\n\nThis A
+ ugust\, we invite you to discover a month-long celebration of exceptional 
+ cocktails in partnership with Citadelle Gin\, the acclaimed French gin ren
+ owned for its balance\, elegance\, and craftsmanship.\n\nTo celebrate the 
+ collaboration\, join us for a celebratory rooftop rendezvous featuring two
+  signature serves available throughout the month: the impeccably chilled F
+ reezer Door Martini and the timeless French 75. Each cocktail showcases Ci
+ tadelle Gin's distinctive botanical character while offering a refined int
+ erpretation of two enduring classics\, complemented by premium caviar from
+  Caviar Nantucket\, served atop perfectly crisp potato chips for a timeles
+ s pairing.\n\nSip an ice-cold cocktail as the sun sets over the Boston sky
+ line\, indulge in an elegant pairing of gin and caviar\, and savor the sea
+ son from one of The 'Quin's most spectacular vantage points.\n\n*This even
+ t is complimentary and reserved for members only.
 URL:https://members.thequinhouse.com/events/197304
 CATEGORIES:Food & Beverage
 END:VEVENT
@@ -331,7 +282,7 @@ DTSTART;TZID=America/New_York:20260818T170000
 DTEND;TZID=America/New_York:20260818T180000
 SUMMARY:Member Mingle
 LOCATION:Lunasol
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 25 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 24 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  96062\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in the ambiant reserved space of Lunasol. This is your opportunity to co
@@ -380,7 +331,7 @@ DTSTART;TZID=America/New_York:20260820T180000
 DTEND;TZID=America/New_York:20260820T200000
 SUMMARY:Member Meet Up: Night Shift Brewery Esplanade
 LOCATION:Offsite: Night Shift Brewery Esplanade
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 15 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 13 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  97999\n\nJoin fellow members for an early summer evening at Night Shift Br
  ewery on the Esplanade\, a lively outdoor beer garden set along the Charle
@@ -403,7 +354,7 @@ DTEND;TZID=America/New_York:20260824T210000
 SUMMARY:Serendipity Dinner
 LOCATION:The Muse
 DESCRIPTION:Category: Member Mixer\nPrice: $100.00 per person\nAvailability
- : 17 spots left\nStatus: Available\nEvent URL: https://members.thequinhous
+ : 16 spots left\nStatus: Available\nEvent URL: https://members.thequinhous
  e.com/events/196059\n\nJoin The ‘Quin House Director of Membership\, Lis
  a Flores\, for an evening of meaningful connections over a thoughtfully cu
  rated three-course dinner. Enjoy expertly paired wines as you engage with 
