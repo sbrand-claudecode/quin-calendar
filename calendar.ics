@@ -24,27 +24,6 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:quin-event-196060@thequinhouse.com
-DTSTAMP:20260804T170000Z
-DTSTART;TZID=America/New_York:20260804T170000
-DTEND;TZID=America/New_York:20260804T180000
-SUMMARY:Member Mingle
-LOCATION:Lunasol
-DESCRIPTION:Category: Member Mixer\nPrice: Free / Included\nStatus: unlimit
- ed\nEvent URL: https://members.thequinhouse.com/events/196060\n\nJoin us f
- or our weekly Member Mingle\, an inclusive gathering set in the ambiant r
- eserved space of Lunasol. This is your opportunity to connect with fellow 
- members\, exchange ideas\, and cultivate meaningful relationships.\n\nWhet
- her you're sparking new collaborations\, sharing insights\, or simply enjo
- ying great conversation\, the Member Mingle is the perfect way to engage w
- ith our dynamic community. Don’t miss the chance to connect\, inspire\, 
- and be inspired.\n\n*This event is complimentary and reserved for members 
- only. Complimentary light bites will be served\, and beverages will be ava
- ilable for purchase.
-URL:https://members.thequinhouse.com/events/196060
-CATEGORIES:Member Mixer
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-196895@thequinhouse.com
 DTSTAMP:20260804T170000Z
 DTSTART;VALUE=DATE:20260804
@@ -64,32 +43,6 @@ DESCRIPTION:Category: Food & Beverage\nPrice: Free / Included\nStatus: Avai
  y destinations.\n\nMake a Reservation.
 URL:https://members.thequinhouse.com/events/196895
 CATEGORIES:Food & Beverage
-END:VEVENT
-BEGIN:VEVENT
-UID:quin-event-195311@thequinhouse.com
-DTSTAMP:20260804T190000Z
-DTSTART;TZID=America/New_York:20260804T190000
-DTEND;TZID=America/New_York:20260804T203000
-SUMMARY:Author's Circle Book Club: "Summer of Love" with Kerri Maher
-LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nStatus: Waitlist Only\nEvent U
- RL: https://members.thequinhouse.com/events/195311\n\nBookmark the date fo
- r an inspiring conversation exploring “The Summer of Love” with author
-  Kerri Maher. Moderated by Wendy Dodson\, owner of Humming Bird Books.\n\n
- Settle into the sand this month and let the California coast carry you awa
- y. A story of family\, love\, ambition\, and long-buried secrets\, this is
-  the perfect escape to pack in your beach bag this summer. Travel back to 
- the Summer of Love in 1967\, where two sisters find themselves on very dif
- ferent paths. Winnie dreams of changing the world through poetry in the he
- art of San Francisco's counterculture\, while Miranda stays home to build 
- her family's California vineyard into something extraordinary.\n\nFifty ye
- ars later\, Dawn Hartley is pulled back into her family's past when she se
- ts out to uncover the identity of a mysterious bestselling author who seem
- s to know all of the Hartleys' deepest secrets—including one Dawn is hid
- ing herself.\n\n*This event is complimentary and reserved for members only
- . Light refreshments will be served.
-URL:https://members.thequinhouse.com/events/195311
-CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-194363@thequinhouse.com
@@ -196,7 +149,7 @@ DTSTART;TZID=America/New_York:20260811T170000
 DTEND;TZID=America/New_York:20260811T180000
 SUMMARY:Member Mingle
 LOCATION:Lunasol
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 17 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 15 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  96061\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in the ambiant reserved space of Lunasol. This is your opportunity to co
@@ -282,7 +235,7 @@ DTSTART;TZID=America/New_York:20260818T170000
 DTEND;TZID=America/New_York:20260818T180000
 SUMMARY:Member Mingle
 LOCATION:Lunasol
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 24 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 23 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  96062\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in the ambiant reserved space of Lunasol. This is your opportunity to co
@@ -331,7 +284,7 @@ DTSTART;TZID=America/New_York:20260820T180000
 DTEND;TZID=America/New_York:20260820T200000
 SUMMARY:Member Meet Up: Night Shift Brewery Esplanade
 LOCATION:Offsite: Night Shift Brewery Esplanade
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 13 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 11 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  97999\n\nJoin fellow members for an early summer evening at Night Shift Br
  ewery on the Esplanade\, a lively outdoor beer garden set along the Charle
@@ -376,7 +329,7 @@ DTSTART;TZID=America/New_York:20260825T170000
 DTEND;TZID=America/New_York:20260825T180000
 SUMMARY:Member Mingle
 LOCATION:Lunasol
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 24 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 25 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  96063\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in the ambiant reserved space of Lunasol. This is your opportunity to co
