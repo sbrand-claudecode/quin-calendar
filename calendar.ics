@@ -149,7 +149,7 @@ DTSTART;TZID=America/New_York:20260811T170000
 DTEND;TZID=America/New_York:20260811T180000
 SUMMARY:Member Mingle
 LOCATION:Lunasol
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 13 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 14 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  96061\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in the ambiant reserved space of Lunasol. This is your opportunity to co
@@ -235,7 +235,7 @@ DTSTART;TZID=America/New_York:20260818T170000
 DTEND;TZID=America/New_York:20260818T180000
 SUMMARY:Member Mingle
 LOCATION:Lunasol
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 22 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 20 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  96062\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in the ambiant reserved space of Lunasol. This is your opportunity to co
@@ -284,18 +284,18 @@ DTSTART;TZID=America/New_York:20260820T180000
 DTEND;TZID=America/New_York:20260820T200000
 SUMMARY:Member Meet Up: Night Shift Brewery Esplanade
 LOCATION:Offsite: Night Shift Brewery Esplanade
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 11 spots lef
- t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
- 97999\n\nJoin fellow members for an early summer evening at Night Shift Br
- ewery on the Esplanade\, a lively outdoor beer garden set along the Charle
- s River.\n\nThis casual gathering offers an easy setting to connect\, unwi
- nd\, and enjoy a curated selection of beers\, hard seltzers\, wines\, and 
- non-alcoholic options. Whether catching up with familiar faces or meeting 
- someone new\, the atmosphere is designed to be social\, welcoming\, and ef
- fortlessly enjoyable.\n\nDogs are welcome so feel free to bring your four-
- legged companion along for the evening.\n\n*This event is complimentary an
- d reserved for members only. Each member will receive two complimentary dr
- inks\, followed by a cash bar. Food will be available for purchase.
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 8 spots left
+ \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/19
+ 7999\n\nJoin fellow members for an early summer evening at Night Shift Bre
+ wery on the Esplanade\, a lively outdoor beer garden set along the Charles
+  River.\n\nThis casual gathering offers an easy setting to connect\, unwin
+ d\, and enjoy a curated selection of beers\, hard seltzers\, wines\, and n
+ on-alcoholic options. Whether catching up with familiar faces or meeting s
+ omeone new\, the atmosphere is designed to be social\, welcoming\, and eff
+ ortlessly enjoyable.\n\nDogs are welcome so feel free to bring your four-l
+ egged companion along for the evening.\n\n*This event is complimentary and
+  reserved for members only. Each member will receive two complimentary dri
+ nks\, followed by a cash bar. Food will be available for purchase.
 URL:https://members.thequinhouse.com/events/197999
 CATEGORIES:Member Mixer
 END:VEVENT
@@ -307,7 +307,7 @@ DTEND;TZID=America/New_York:20260824T210000
 SUMMARY:Serendipity Dinner
 LOCATION:The Muse
 DESCRIPTION:Category: Member Mixer\nPrice: $100.00 per person\nAvailability
- : 16 spots left\nStatus: Available\nEvent URL: https://members.thequinhous
+ : 15 spots left\nStatus: Available\nEvent URL: https://members.thequinhous
  e.com/events/196059\n\nJoin The ‘Quin House Director of Membership\, Lis
  a Flores\, for an evening of meaningful connections over a thoughtfully cu
  rated three-course dinner. Enjoy expertly paired wines as you engage with 
