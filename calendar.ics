@@ -45,33 +45,6 @@ URL:https://members.thequinhouse.com/events/196895
 CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
-UID:quin-event-195309@thequinhouse.com
-DTSTAMP:20260806T173000Z
-DTSTART;TZID=America/New_York:20260806T173000
-DTEND;TZID=America/New_York:20260806T193000
-SUMMARY:Member Meet Up: Boston Harbor Distillery 
-LOCATION:Offsite: Rose Kennedy Greenway
-DESCRIPTION:Category: Member Mixer\nPrice: Free / Included\nStatus: unlimit
- ed\nEvent URL: https://members.thequinhouse.com/events/195309\n\nJoin us f
- or a special Member Meet Up at The Rose Kennedy Greenway\, hosted by The '
- Quin's Membership Team. Spend the evening connecting with fellow members w
- hile enjoying two handcrafted cocktails on the 'House\, delicious light bi
- tes\, and great conversation in one of Boston's most vibrant outdoor space
- s.\n\nMembers will also have the unique opportunity to meet Boston Harbor 
- Distillery founder Rhonda Kallman\, who will lead an exclusive guided tast
- ing of the distillery's acclaimed Lawley's collection. Discover the fresh 
- botanical notes of their signature gins\, the rich character of their New 
- England–style rums\, and the crisp\, smooth finish of their Harborside V
- odka while learning about the inspiration and craftsmanship behind each sp
- irit.\n\nWhether you are a longtime whiskey and spirits enthusiast or simp
- ly looking for a fun evening with fellow members\, this is the perfect opp
- ortunity to sip\, socialize\, and experience one of Boston's premier local
-  distilleries. \n\n*This event is complimentary and reserved for members 
- only. Light bites will be available on the 'House.
-URL:https://members.thequinhouse.com/events/195309
-CATEGORIES:Member Mixer
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-176000@thequinhouse.com
 DTSTAMP:20260810T183000Z
 DTSTART;TZID=America/New_York:20260810T183000
@@ -319,7 +292,7 @@ DTSTART;TZID=America/New_York:20260827T173000
 DTEND;TZID=America/New_York:20260827T193000
 SUMMARY:Member Mixer: Common Ground
 LOCATION:Scottie's
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 76 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 74 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  98000\n\nMeaningful conversations begin with a single question.\n\nGather 
  with fellow members for an evening of engaging conversation inspired by a 
@@ -342,7 +315,7 @@ DTSTART;TZID=America/New_York:20260901T170000
 DTEND;TZID=America/New_York:20260901T180000
 SUMMARY:Member Mingle
 LOCATION:Lunasol
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 50 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 48 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  98803\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in the ambiant reserved space of Lunasol. This is your opportunity to co
