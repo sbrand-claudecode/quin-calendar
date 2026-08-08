@@ -73,17 +73,17 @@ DTSTART;TZID=America/New_York:20260811T170000
 DTEND;TZID=America/New_York:20260811T180000
 SUMMARY:Member Mingle
 LOCATION:Lunasol
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 10 spots lef
- t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
- 96061\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
-  in the ambiant reserved space of Lunasol. This is your opportunity to co
- nnect with fellow members\, exchange ideas\, and cultivate meaningful rela
- tionships.\n\nWhether you're sparking new collaborations\, sharing insight
- s\, or simply enjoying great conversation\, the Member Mingle is the perfe
- ct way to engage with our dynamic community. Don’t miss the chance to co
- nnect\, inspire\, and be inspired.\n\n*This event is complimentary and res
- erved for members only. Complimentary light bites will be served\, and bev
- erages will be available for purchase.
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 9 spots left
+ \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/19
+ 6061\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set 
+ in the ambiant reserved space of Lunasol. This is your opportunity to con
+ nect with fellow members\, exchange ideas\, and cultivate meaningful relat
+ ionships.\n\nWhether you're sparking new collaborations\, sharing insights
+ \, or simply enjoying great conversation\, the Member Mingle is the perfec
+ t way to engage with our dynamic community. Don’t miss the chance to con
+ nect\, inspire\, and be inspired.\n\n*This event is complimentary and rese
+ rved for members only. Complimentary light bites will be served\, and beve
+ rages will be available for purchase.
 URL:https://members.thequinhouse.com/events/196061
 CATEGORIES:Member Mixer
 END:VEVENT
@@ -159,7 +159,7 @@ DTSTART;TZID=America/New_York:20260818T170000
 DTEND;TZID=America/New_York:20260818T180000
 SUMMARY:Member Mingle
 LOCATION:Lunasol
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 17 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 16 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  96062\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in the ambiant reserved space of Lunasol. This is your opportunity to co
@@ -181,7 +181,7 @@ DTEND;TZID=America/New_York:20260820T140000
 SUMMARY: Serendipity Lunch: Back in Session 
 LOCATION:The Terrace
 DESCRIPTION:Category: Member Mixer\nPrice: $80.00 per person\nAvailability:
-  16 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
+  13 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
  .com/events/196057\n\nContinuing the Curated Connections extension of the 
  Serendipity series\, join us for a lunch inspired by the arrival of back-
  to-school season—a time that has long symbolized fresh starts\, renewed 
@@ -224,6 +224,99 @@ URL:https://members.thequinhouse.com/events/197999
 CATEGORIES:Member Mixer
 END:VEVENT
 BEGIN:VEVENT
+UID:quin-event-198805@thequinhouse.com
+DTSTAMP:20260822T100000Z
+DTSTART;TZID=America/New_York:20260822T100000
+DTEND;TZID=America/New_York:20260822T111500
+SUMMARY:Kid's Clubhouse: The Great Elephant Migration | Session I
+LOCATION:Scottie's
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 30 spots left\nS
+ tatus: futureSale\nEvent URL: https://members.thequinhouse.com/events/1988
+ 05\n\nCelebrate the arrival of The Great Elephant Migration in Boston with
+  a hands-on family crafting experience inspired by one of the world's most
+  meaningful public art initiatives.\n\nLed by children's book author Wendy
+  Rouillard of Barnaby's Books & Toys\, young creators will build their own
+  elephant habitats using a variety of nature-inspired materials. Each sess
+ ion begins with a brief introduction to the story behind The Great Elephan
+ t Migration\,introducing children to the importance of wildlife conservati
+ on and the ways humans and animals can coexist.\n\nAfter crafting\, contin
+ ue the adventure with brunch at Café Q\, where families can enjoy Journey
+  to Kerala - a refreshing\, kid-friendly mocktail inspired by the elephant
+ s' homeland\, featuring coconut water\, mango\, ginger\, lime\, curry leav
+ es\, and sparkling club soda.\n\n*This event is complimentary and reserved
+  for members\, plus their children aged 6+. Children may remain in the 'Ho
+ use\, attended by a parent until 4:00PM. Please ensure you select the corr
+ ect number of children's tickets when registering\, so we may account for 
+ supplies. Adults do not require registration. If you have a larger family 
+ (3+ kids) please email happening@thequin.com should you need an additional
+  seat. As we anticipate a waitlist\, please be mindful of other families b
+ y making any necessary cancellations at least 48-hours in advance.
+URL:https://members.thequinhouse.com/events/198805
+CATEGORIES:The Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-198806@thequinhouse.com
+DTSTAMP:20260822T124500Z
+DTSTART;TZID=America/New_York:20260822T124500
+DTEND;TZID=America/New_York:20260822T140000
+SUMMARY:Kid's Clubhouse: The Great Elephant Migration | Session II
+LOCATION:Scottie's
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 30 spots left\nS
+ tatus: futureSale\nEvent URL: https://members.thequinhouse.com/events/1988
+ 06\n\nCelebrate the arrival of The Great Elephant Migration in Boston with
+  a hands-on family crafting experience inspired by one of the world's most
+  meaningful public art initiatives.\n\nLed by children's book author Wendy
+  Rouillard of Barnaby's Books & Toys\, young creators will build their own
+  elephant habitats using a variety of nature-inspired materials. Each sess
+ ion begins with a brief introduction to the story behind The Great Elephan
+ t Migration\,introducing children to the importance of wildlife conservati
+ on and the ways humans and animals can coexist.\n\nAfter crafting\, contin
+ ue the adventure with brunch at Café Q\, where families can enjoy Journey
+  to Kerala - a refreshing\, kid-friendly mocktail inspired by the elephant
+ s' homeland\, featuring coconut water\, mango\, ginger\, lime\, curry leav
+ es\, and sparkling club soda.\n\n*This event is complimentary and reserved
+  for members\, plus their children aged 6+. Children may remain in the 'Ho
+ use\, attended by a parent until 4:00PM. Please ensure you select the corr
+ ect number of children's tickets when registering\, so we may account for 
+ supplies. Adults do not require registration. If you have a larger family 
+ (3+ kids) please email happening@thequin.com should you need an additional
+  seat. As we anticipate a waitlist\, please be mindful of other families b
+ y making any necessary cancellations at least 48-hours in advance.
+URL:https://members.thequinhouse.com/events/198806
+CATEGORIES:The Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-198914@thequinhouse.com
+DTSTAMP:20260822T143000Z
+DTSTART;TZID=America/New_York:20260822T143000
+DTEND;TZID=America/New_York:20260822T151500
+SUMMARY:Kid's Clubhouse: The Great Elephant Migration | Session III
+LOCATION:Scottie's
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 30 spots left\nS
+ tatus: futureSale\nEvent URL: https://members.thequinhouse.com/events/1989
+ 14\n\nCelebrate the arrival of The Great Elephant Migration in Boston with
+  a hands-on family crafting experience inspired by one of the world's most
+  meaningful public art initiatives.\n\nLed by children's book author Wendy
+  Rouillard of Barnaby's Books & Toys\, young creators will build their own
+  elephant habitats using a variety of nature-inspired materials. Each sess
+ ion begins with a brief introduction to the story behind The Great Elephan
+ t Migration\,introducing children to the importance of wildlife conservati
+ on and the ways humans and animals can coexist.\n\nAfter crafting\, contin
+ ue the adventure with brunch at Café Q\, where families can enjoy Journey
+  to Kerala - a refreshing\, kid-friendly mocktail inspired by the elephant
+ s' homeland\, featuring coconut water\, mango\, ginger\, lime\, curry leav
+ es\, and sparkling club soda.\n\n*This event is complimentary and reserved
+  for members\, plus their children aged 6+. Children may remain in the 'Ho
+ use\, attended by a parent until 4:00PM. Please ensure you select the corr
+ ect number of children's tickets when registering\, so we may account for 
+ supplies. Adults do not require registration. If you have a larger family 
+ (3+ kids) please email happening@thequin.com should you need an additional
+  seat. As we anticipate a waitlist\, please be mindful of other families b
+ y making any necessary cancellations at least 48-hours in advance.
+URL:https://members.thequinhouse.com/events/198914
+CATEGORIES:The Arts
+END:VEVENT
+BEGIN:VEVENT
 UID:quin-event-196059@thequinhouse.com
 DTSTAMP:20260824T183000Z
 DTSTART;TZID=America/New_York:20260824T183000
@@ -231,7 +324,7 @@ DTEND;TZID=America/New_York:20260824T210000
 SUMMARY:Serendipity Dinner
 LOCATION:The Muse
 DESCRIPTION:Category: Member Mixer\nPrice: $100.00 per person\nAvailability
- : 11 spots left\nStatus: Available\nEvent URL: https://members.thequinhous
+ : 10 spots left\nStatus: Available\nEvent URL: https://members.thequinhous
  e.com/events/196059\n\nJoin The ‘Quin House Director of Membership\, Lis
  a Flores\, for an evening of meaningful connections over a thoughtfully cu
  rated three-course dinner. Enjoy expertly paired wines as you engage with 
@@ -245,6 +338,44 @@ DESCRIPTION:Category: Member Mixer\nPrice: $100.00 per person\nAvailability
  dinner service.
 URL:https://members.thequinhouse.com/events/196059
 CATEGORIES:Member Mixer
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-198251@thequinhouse.com
+DTSTAMP:20260825T150000Z
+DTSTART;TZID=America/New_York:20260825T150000
+DTEND;TZID=America/New_York:20260825T154500
+SUMMARY:Art Tour: The Great Elephant Migration
+LOCATION:Meet in The Lobby
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 40 spots left\nS
+ tatus: futureSale\nEvent URL: https://members.thequinhouse.com/events/1982
+ 51\n\nJoin The 'Quin's art collection curator\, Kate Chertavian\, for a g
+ uided walking tour of The Great Elephant Migration along the historic Com
+ monwealth Avenue Mall. Explore the stories behind the life-size elephant s
+ culptures while discovering the artists\, the project's global conservatio
+ n mission\, and the collaborative effort that brought this extraordinary p
+ ublic art installation to Boston.\n\n*This event is complimentary and rese
+ rved for members\, plus one registered guest.
+URL:https://members.thequinhouse.com/events/198251
+CATEGORIES:The Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-198252@thequinhouse.com
+DTSTAMP:20260825T160000Z
+DTSTART;TZID=America/New_York:20260825T160000
+DTEND;TZID=America/New_York:20260825T164500
+SUMMARY:Art Tour: The Great Elephant Migration
+LOCATION:Meet in The Lobby
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 40 spots left\nS
+ tatus: futureSale\nEvent URL: https://members.thequinhouse.com/events/1982
+ 52\n\nJoin The 'Quin's art collection curator\, Kate Chertavian\, for a g
+ uided walking tour of The Great Elephant Migration along the historic Co
+ mmonwealth Avenue Mall. Explore the stories behind the life-size elephant 
+ sculptures while discovering the artists\, the project's global conservati
+ on mission\, and the collaborative effort that brought this extraordinary 
+ public art installation to Boston.\n\n*This event is complimentary and res
+ erved for members\, plus one registered guest.
+URL:https://members.thequinhouse.com/events/198252
+CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-196063@thequinhouse.com
@@ -292,7 +423,7 @@ DTSTART;TZID=America/New_York:20260827T173000
 DTEND;TZID=America/New_York:20260827T193000
 SUMMARY:Member Mixer: Common Ground
 LOCATION:Scottie's
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 67 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 62 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  98000\n\nMeaningful conversations begin with a single question.\n\nGather 
  with fellow members for an evening of engaging conversation inspired by a 
@@ -309,13 +440,51 @@ URL:https://members.thequinhouse.com/events/198000
 CATEGORIES:Member Mixer
 END:VEVENT
 BEGIN:VEVENT
+UID:quin-event-198254@thequinhouse.com
+DTSTAMP:20260828T110000Z
+DTSTART;TZID=America/New_York:20260828T110000
+DTEND;TZID=America/New_York:20260828T114500
+SUMMARY:Art Tour: The Great Elephant Migration
+LOCATION:Meet in The Lobby
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 40 spots left\nS
+ tatus: futureSale\nEvent URL: https://members.thequinhouse.com/events/1982
+ 54\n\nJoin The 'Quin's art collection curator\, Kate Chertavian\, for a g
+ uided walking tour of The Great Elephant Migration along the historic Com
+ monwealth Avenue Mall. Explore the stories behind the life-size elephant s
+ culptures while discovering the artists\, the project's global conservatio
+ n mission\, and the collaborative effort that brought this extraordinary p
+ ublic art installation to Boston.\n\n*This event is complimentary and rese
+ rved for members\, plus one registered guest.
+URL:https://members.thequinhouse.com/events/198254
+CATEGORIES:The Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-198255@thequinhouse.com
+DTSTAMP:20260828T120000Z
+DTSTART;TZID=America/New_York:20260828T120000
+DTEND;TZID=America/New_York:20260828T124500
+SUMMARY:Art Tour: The Great Elephant Migration
+LOCATION:Meet in The Lobby
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 40 spots left\nS
+ tatus: futureSale\nEvent URL: https://members.thequinhouse.com/events/1982
+ 55\n\nJoin The 'Quin's art collection curator\, Kate Chertavian\, for a gu
+ ided walking tour of The Great Elephant Migration along the historic Com
+ monwealth Avenue Mall. Explore the stories behind the life-size elephant s
+ culptures while discovering the artists\, the project's global conservatio
+ n mission\, and the collaborative effort that brought this extraordinary p
+ ublic art installation to Boston.\n\n*This event is complimentary and rese
+ rved for members\, plus one registered guest.
+URL:https://members.thequinhouse.com/events/198255
+CATEGORIES:The Arts
+END:VEVENT
+BEGIN:VEVENT
 UID:quin-event-198803@thequinhouse.com
 DTSTAMP:20260901T170000Z
 DTSTART;TZID=America/New_York:20260901T170000
 DTEND;TZID=America/New_York:20260901T180000
 SUMMARY:Member Mingle
 LOCATION:Lunasol
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 45 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 44 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  98803\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in the ambiant reserved space of Lunasol. This is your opportunity to co
@@ -328,5 +497,36 @@ DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 45 spots lef
  erages will be available for purchase.
 URL:https://members.thequinhouse.com/events/198803
 CATEGORIES:Member Mixer
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-198808@thequinhouse.com
+DTSTAMP:20260901T190000Z
+DTSTART;TZID=America/New_York:20260901T190000
+DTEND;TZID=America/New_York:20260901T203000
+SUMMARY:'Quin Chat: Survival Mode & What It's Costing You
+LOCATION:Scottie's
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 80 spots lef
+ t\nStatus: futureSale\nEvent URL: https://members.thequinhouse.com/events/
+ 198808\n\n7:00PM Reception\, 7:30PM Discussion\nIn a world that celebrates
+  constant achievement\, many founders and executives spend more time in su
+ rvival mode than they realize. The cost can show up in their clarity\, dec
+ ision-making\, relationships\, health\, and ultimately\, how they lead.\n\
+ nJoin internationally recognized keynote speaker\, leadership advisor\, an
+ d bestselling author Unni Turrettini for an illuminating evening exploring
+  what happens when pressure becomes your default state\, why even highly s
+ uccessful people can get stuck there\, and how your internal state affects
+  the way you think\, work\, and make decisions.\n\nDrawing from her resear
+ ch and global career spanning law\, finance\, and leadership development\,
+  Unni will share practical insights into recognizing your own survival mod
+ e patterns and shifting into a state where you can think more clearly\, ma
+ ke better decisions\, and perform under pressure without it taking such a 
+ personal toll.\n\nFollowing the discussion\, members are invited to partic
+ ipate in an interactive Q&A and book signing of Unni’s newest release\,�
+ �Soulware: A High Achiever’s Guide to Divine Connection in the Age of AI
+ .\n\nThis event is complimentary and reserved for members only. Compliment
+ ary lite bites and refreshments will be served\, and copies of Soulware wi
+ ll be available for purchase.
+URL:https://members.thequinhouse.com/events/198808
+CATEGORIES:‘Quin Chat
 END:VEVENT
 END:VCALENDAR
