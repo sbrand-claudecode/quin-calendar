@@ -45,35 +45,13 @@ URL:https://members.thequinhouse.com/events/196895
 CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
-UID:quin-event-176000@thequinhouse.com
-DTSTAMP:20260810T183000Z
-DTSTART;TZID=America/New_York:20260810T183000
-DTEND;TZID=America/New_York:20260810T210000
-SUMMARY:Serendipity Dinner 
-LOCATION:The Muse
-DESCRIPTION:Category: Member Mixer\nPrice: Free / Included\nStatus: Waitlis
- t Only\nEvent URL: https://members.thequinhouse.com/events/176000\n\nJoin 
- The ‘Quin House Managing Director\, Matthias Kiehm\, for an evening of m
- eaningful connections over a thoughtfully curated three-course dinner. Enj
- oy expertly paired wines as you engage with fellow members\, guided by con
- versation prompts designed to inspire deeper\, more memorable exchanges. T
- his unique experience offers the perfect blend of great company\, engaging
-  dialogue\, and a menu crafted to delight the senses.\n\n*Tickets are $100
-  per person\, plus tax\, and are reserved for members only. Cancellations 
- within 72 hours of the event\, or failure to attend\, will be charged in f
- ull. Please inform us of any dietary needs or restrictions by emailing hap
- pening@thequin.com at least 72 hours before dinner service.
-URL:https://members.thequinhouse.com/events/176000
-CATEGORIES:Member Mixer
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-196061@thequinhouse.com
 DTSTAMP:20260811T170000Z
 DTSTART;TZID=America/New_York:20260811T170000
 DTEND;TZID=America/New_York:20260811T180000
 SUMMARY:Member Mingle
 LOCATION:Lunasol
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 8 spots left
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 9 spots left
  \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/19
  6061\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set 
  in the ambiant reserved space of Lunasol. This is your opportunity to con
@@ -261,7 +239,7 @@ DTSTART;TZID=America/New_York:20260822T124500
 DTEND;TZID=America/New_York:20260822T140000
 SUMMARY:Kid's Clubhouse: Make Way for Elephants | Session II
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 14 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 11 spots left\nS
  tatus: Available\nEvent URL: https://members.thequinhouse.com/events/19880
  6\n\nCelebrate the arrival of The Great Elephant Migration in Boston with 
  a hands-on family crafting experience inspired by one of the world's most 
@@ -384,7 +362,7 @@ DTSTART;TZID=America/New_York:20260825T170000
 DTEND;TZID=America/New_York:20260825T180000
 SUMMARY:Member Mingle
 LOCATION:Lunasol
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 18 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 17 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  96063\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in the ambiant reserved space of Lunasol. This is your opportunity to co
@@ -423,7 +401,7 @@ DTSTART;TZID=America/New_York:20260827T173000
 DTEND;TZID=America/New_York:20260827T193000
 SUMMARY:Member Mixer: Common Ground
 LOCATION:Scottie's
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 25 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 20 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  98000\n\nMeaningful conversations begin with a single question.\n\nGather 
  with fellow members for an evening of engaging conversation inspired by a 
@@ -484,7 +462,7 @@ DTSTART;TZID=America/New_York:20260901T170000
 DTEND;TZID=America/New_York:20260901T180000
 SUMMARY:Member Mingle
 LOCATION:Lunasol
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 36 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 35 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  98803\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in the ambiant reserved space of Lunasol. This is your opportunity to co
