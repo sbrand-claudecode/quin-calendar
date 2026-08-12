@@ -45,27 +45,6 @@ URL:https://members.thequinhouse.com/events/196895
 CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
-UID:quin-event-196061@thequinhouse.com
-DTSTAMP:20260811T170000Z
-DTSTART;TZID=America/New_York:20260811T170000
-DTEND;TZID=America/New_York:20260811T180000
-SUMMARY:Member Mingle
-LOCATION:Lunasol
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 11 spots lef
- t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
- 96061\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
-  in the ambiant reserved space of Lunasol. This is your opportunity to co
- nnect with fellow members\, exchange ideas\, and cultivate meaningful rela
- tionships.\n\nWhether you're sparking new collaborations\, sharing insight
- s\, or simply enjoying great conversation\, the Member Mingle is the perfe
- ct way to engage with our dynamic community. Don’t miss the chance to co
- nnect\, inspire\, and be inspired.\n\n*This event is complimentary and res
- erved for members only. Complimentary light bites will be served\, and bev
- erages will be available for purchase.
-URL:https://members.thequinhouse.com/events/196061
-CATEGORIES:Member Mixer
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-197304@thequinhouse.com
 DTSTAMP:20260811T200000Z
 DTSTART;TZID=America/New_York:20260811T200000
@@ -137,7 +116,7 @@ DTSTART;TZID=America/New_York:20260818T170000
 DTEND;TZID=America/New_York:20260818T180000
 SUMMARY:Member Mingle
 LOCATION:Lunasol
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 19 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 18 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  96062\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in the ambiant reserved space of Lunasol. This is your opportunity to co
@@ -270,7 +249,7 @@ DTSTART;TZID=America/New_York:20260822T143000
 DTEND;TZID=America/New_York:20260822T151500
 SUMMARY:Kid's Clubhouse: Make Way for Elephants | Session III
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 13 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 11 spots left\nS
  tatus: Available\nEvent URL: https://members.thequinhouse.com/events/19891
  4\n\nCelebrate the arrival of The Great Elephant Migration in Boston with 
  a hands-on family crafting experience inspired by one of the world's most 
@@ -362,7 +341,7 @@ DTSTART;TZID=America/New_York:20260825T170000
 DTEND;TZID=America/New_York:20260825T180000
 SUMMARY:Member Mingle
 LOCATION:Lunasol
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 17 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 16 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  96063\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in the ambiant reserved space of Lunasol. This is your opportunity to co
@@ -401,7 +380,7 @@ DTSTART;TZID=America/New_York:20260827T173000
 DTEND;TZID=America/New_York:20260827T193000
 SUMMARY:Member Mixer: Common Ground
 LOCATION:Scottie's
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 17 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 16 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  98000\n\nMeaningful conversations begin with a single question.\n\nGather 
  with fellow members for an evening of engaging conversation inspired by a 
