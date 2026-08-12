@@ -45,31 +45,6 @@ URL:https://members.thequinhouse.com/events/196895
 CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
-UID:quin-event-197304@thequinhouse.com
-DTSTAMP:20260811T200000Z
-DTSTART;TZID=America/New_York:20260811T200000
-DTEND;TZID=America/New_York:20260811T210000
-SUMMARY:Rooftop Rendezvous: Citadelle Gin
-LOCATION:The Sky Deck
-DESCRIPTION:Category: Food & Beverage\nPrice: Free / Included\nStatus: unli
- mited\nEvent URL: https://members.thequinhouse.com/events/197304\n\nThis A
- ugust\, we invite you to discover a month-long celebration of exceptional 
- cocktails in partnership with Citadelle Gin\, the acclaimed French gin ren
- owned for its balance\, elegance\, and craftsmanship.\n\nTo celebrate the 
- collaboration\, join us for a celebratory rooftop rendezvous featuring two
-  signature serves available throughout the month: the impeccably chilled F
- reezer Door Martini and the timeless French 75. Each cocktail showcases Ci
- tadelle Gin's distinctive botanical character while offering a refined int
- erpretation of two enduring classics\, complemented by premium caviar from
-  Caviar Nantucket\, served atop perfectly crisp potato chips for a timeles
- s pairing.\n\nSip an ice-cold cocktail as the sun sets over the Boston sky
- line\, indulge in an elegant pairing of gin and caviar\, and savor the sea
- son from one of The 'Quin's most spectacular vantage points.\n\n*This even
- t is complimentary and reserved for members only.
-URL:https://members.thequinhouse.com/events/197304
-CATEGORIES:Food & Beverage
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-197305@thequinhouse.com
 DTSTAMP:20260813T180000Z
 DTSTART;TZID=America/New_York:20260813T180000
@@ -380,7 +355,7 @@ DTSTART;TZID=America/New_York:20260827T173000
 DTEND;TZID=America/New_York:20260827T193000
 SUMMARY:Member Mixer: Common Ground
 LOCATION:Scottie's
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 16 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 15 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  98000\n\nMeaningful conversations begin with a single question.\n\nGather 
  with fellow members for an evening of engaging conversation inspired by a 
