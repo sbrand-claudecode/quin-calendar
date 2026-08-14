@@ -73,7 +73,7 @@ DTSTART;TZID=America/New_York:20260818T170000
 DTEND;TZID=America/New_York:20260818T180000
 SUMMARY:Member Mingle
 LOCATION:Lunasol
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 13 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 14 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  96062\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in the ambiant reserved space of Lunasol. This is your opportunity to co
@@ -298,7 +298,7 @@ DTSTART;TZID=America/New_York:20260825T170000
 DTEND;TZID=America/New_York:20260825T180000
 SUMMARY:Member Mingle
 LOCATION:Lunasol
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 16 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 15 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  96063\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in the ambiant reserved space of Lunasol. This is your opportunity to co
@@ -337,19 +337,19 @@ DTSTART;TZID=America/New_York:20260827T173000
 DTEND;TZID=America/New_York:20260827T193000
 SUMMARY:Member Mixer: Common Ground
 LOCATION:Scottie's
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 1 spot left\
- nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/198
- 000\n\nMeaningful conversations begin with a single question.\n\nGather wi
- th fellow members for an evening of engaging conversation inspired by a th
- oughtfully curated series of prompts designed to spark laughter\, curiosit
- y\, and unexpected connections.\n\nThroughout the evening\, members will r
- otate among tables\, exchange stories\, explore new perspectives\, and dis
- cover common ground with members you may not have met before. Each convers
- ation offers a fresh opportunity to connect\, leaving you with new acquain
- tances\, memorable insights\, and the kind of dialogue that lingers long a
- fter the evening comes to a close.\n\n*This event is complimentary and res
- erved for members only. Complimentary light bites will be served with beve
- rage available to purchase.
+DESCRIPTION:Category: Member Mixer\nPrice: Free / Included\nStatus: unlimit
+ ed\nEvent URL: https://members.thequinhouse.com/events/198000\n\nMeaningfu
+ l conversations begin with a single question.\n\nGather with fellow member
+ s for an evening of engaging conversation inspired by a thoughtfully curat
+ ed series of prompts designed to spark laughter\, curiosity\, and unexpect
+ ed connections.\n\nThroughout the evening\, members will rotate among tabl
+ es\, exchange stories\, explore new perspectives\, and discover common gro
+ und with members you may not have met before. Each conversation offers a f
+ resh opportunity to connect\, leaving you with new acquaintances\, memorab
+ le insights\, and the kind of dialogue that lingers long after the evening
+  comes to a close.\n\n*This event is complimentary and reserved for member
+ s only. Complimentary light bites will be served with beverage available t
+ o purchase.
 URL:https://members.thequinhouse.com/events/198000
 CATEGORIES:Member Mixer
 END:VEVENT
@@ -398,7 +398,7 @@ DTSTART;TZID=America/New_York:20260901T170000
 DTEND;TZID=America/New_York:20260901T180000
 SUMMARY:Member Mingle
 LOCATION:Lunasol
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 30 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 29 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  98803\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in the ambiant reserved space of Lunasol. This is your opportunity to co
