@@ -51,7 +51,7 @@ DTSTART;TZID=America/New_York:20260818T170000
 DTEND;TZID=America/New_York:20260818T180000
 SUMMARY:Member Mingle
 LOCATION:Lunasol
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 11 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 10 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  96062\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in the ambiant reserved space of Lunasol. This is your opportunity to co
@@ -73,7 +73,7 @@ DTEND;TZID=America/New_York:20260820T140000
 SUMMARY: Serendipity Lunch: Back in Session 
 LOCATION:The Terrace
 DESCRIPTION:Category: Member Mixer\nPrice: $80.00 per person\nAvailability:
-  11 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
+  10 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
  .com/events/196057\n\nContinuing the Curated Connections extension of the 
  Serendipity series\, join us for a special brunch celebrating the educator
  s in our community as they prepare for the start of a new school year—a 
@@ -188,27 +188,27 @@ DTSTART;TZID=America/New_York:20260822T143000
 DTEND;TZID=America/New_York:20260822T151500
 SUMMARY:Kid's Clubhouse: Make Way for Elephants | Session III
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 2 spots left\nSt
- atus: Available\nEvent URL: https://members.thequinhouse.com/events/198914
- \n\nCelebrate the arrival of The Great Elephant Migration in Boston with a
-  hands-on family crafting experience inspired by one of the world's most m
- eaningful public art initiatives.\n\nLed by children's book author Wendy R
- ouillard of Barnaby's Books & Toys\, young creators will build their own e
- lephant habitats using a variety of nature-inspired materials. Each sessio
- n begins with a brief introduction to the story behind The Great Elephant 
- Migration\,introducing children to the importance of wildlife conservation
-  and the ways humans and animals can coexist.\n\nAfter crafting\, continue
-  the adventure with brunch at Café Q\, where families can enjoy Journey t
- o Kerala - a refreshing\, kid-friendly mocktail inspired by the elephants'
-  homeland\, featuring coconut water\, mango\, ginger\, lime\, curry leaves
- \, and sparkling club soda.\n\n*This event is complimentary and reserved f
- or members\, plus their children aged 6+. Children may remain in the 'Hous
- e\, attended by a parent until 4:00PM. Please ensure you select the correc
- t number of children's tickets when registering\, so we may account for su
- pplies. Adults do not require registration. If you have a larger family (3
- + kids) please email happening@thequin.com should you need an additional s
- eat. As we anticipate a waitlist\, please be mindful of other families by 
- making any necessary cancellations at least 48-hours in advance.
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 1 spot left\nSta
+ tus: Available\nEvent URL: https://members.thequinhouse.com/events/198914\
+ n\nCelebrate the arrival of The Great Elephant Migration in Boston with a 
+ hands-on family crafting experience inspired by one of the world's most me
+ aningful public art initiatives.\n\nLed by children's book author Wendy Ro
+ uillard of Barnaby's Books & Toys\, young creators will build their own el
+ ephant habitats using a variety of nature-inspired materials. Each session
+  begins with a brief introduction to the story behind The Great Elephant M
+ igration\,introducing children to the importance of wildlife conservation 
+ and the ways humans and animals can coexist.\n\nAfter crafting\, continue 
+ the adventure with brunch at Café Q\, where families can enjoy Journey to
+  Kerala - a refreshing\, kid-friendly mocktail inspired by the elephants' 
+ homeland\, featuring coconut water\, mango\, ginger\, lime\, curry leaves\
+ , and sparkling club soda.\n\n*This event is complimentary and reserved fo
+ r members\, plus their children aged 6+. Children may remain in the 'House
+ \, attended by a parent until 4:00PM. Please ensure you select the correct
+  number of children's tickets when registering\, so we may account for sup
+ plies. Adults do not require registration. If you have a larger family (3+
+  kids) please email happening@thequin.com should you need an additional se
+ at. As we anticipate a waitlist\, please be mindful of other families by m
+ aking any necessary cancellations at least 48-hours in advance.
 URL:https://members.thequinhouse.com/events/198914
 CATEGORIES:The Arts
 END:VEVENT
@@ -220,18 +220,18 @@ DTEND;TZID=America/New_York:20260824T210000
 SUMMARY:Serendipity Dinner
 LOCATION:The Muse
 DESCRIPTION:Category: Member Mixer\nPrice: $100.00 per person\nAvailability
- : 10 spots left\nStatus: Available\nEvent URL: https://members.thequinhous
- e.com/events/196059\n\nJoin The ‘Quin House Director of Membership\, Lis
- a Flores\, for an evening of meaningful connections over a thoughtfully cu
- rated three-course dinner. Enjoy expertly paired wines as you engage with 
- fellow members\, guided by conversation prompts designed to inspire deeper
- \, more memorable exchanges. This unique experience offers the perfect ble
- nd of great company\, engaging dialogue\, and a menu crafted to delight th
- e senses.\n\n*Tickets are $100 per person\, plus tax\, and are reserved fo
- r members only. Cancellations within 72 hours of the event\, or failure to
-  attend\, will be charged in full. Please inform us of any dietary needs o
- r restrictions by emailing happening@thequin.com at least 72 hours before 
- dinner service.
+ : 9 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
+ .com/events/196059\n\nJoin The ‘Quin House Director of Membership\, Lisa
+  Flores\, for an evening of meaningful connections over a thoughtfully cur
+ ated three-course dinner. Enjoy expertly paired wines as you engage with f
+ ellow members\, guided by conversation prompts designed to inspire deeper\
+ , more memorable exchanges. This unique experience offers the perfect blen
+ d of great company\, engaging dialogue\, and a menu crafted to delight the
+  senses.\n\n*Tickets are $100 per person\, plus tax\, and are reserved for
+  members only. Cancellations within 72 hours of the event\, or failure to 
+ attend\, will be charged in full. Please inform us of any dietary needs or
+  restrictions by emailing happening@thequin.com at least 72 hours before d
+ inner service.
 URL:https://members.thequinhouse.com/events/196059
 CATEGORIES:Member Mixer
 END:VEVENT
@@ -508,7 +508,7 @@ DTEND;TZID=America/New_York:20260914T210000
 SUMMARY:Serendipity Dinner 
 LOCATION:The Muse
 DESCRIPTION:Category: Member Mixer\nPrice: $100.00 per person\nAvailability
- : 18 spots left\nStatus: Available\nEvent URL: https://members.thequinhous
+ : 17 spots left\nStatus: Available\nEvent URL: https://members.thequinhous
  e.com/events/176001\n\nJoin The ‘Quin House Managing Director\, Matthias
   Kiehm\, for an evening of meaningful connections over a thoughtfully cura
  ted three-course dinner. Enjoy expertly paired wines as you engage with fe
