@@ -45,35 +45,13 @@ URL:https://members.thequinhouse.com/events/196895
 CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
-UID:quin-event-180153@thequinhouse.com
-DTSTAMP:20260814T173000Z
-DTSTART;TZID=America/New_York:20260814T173000
-DTEND;TZID=America/New_York:20260814T200000
-SUMMARY:Summer Concert Series: Chris Stapleton 
-LOCATION:Fenway Park
-DESCRIPTION:Category: The Arts\nPrice: $607.48 per person\nStatus: soldOut\
- nEvent URL: https://members.thequinhouse.com/events/180153\n\nThe ‘Quin�
- ��s Summer Concert Series concludes with Chris Stapleton’s All American 
- Road Show\, joined by special guests Zach Top and Allen Stone.\n\nIn partn
- ership with the Foundation To Be Named Later\, members will experience a p
- rivate party from Fenway’s Pavilion Decks A & B\, complete with complime
- ntary food\, beer\, wine\, and hard seltzers\, all set against panoramic v
- iews of the show.\n\n*Tickets are $650 each and reflect a charitable donat
- ion to The Foundation To Be Named Later. Tickets are non-refundable and no
- n-transferable. Members may purchase up to two tickets and are required to
-  accompany their guests ages 16+. Pavilion Decks A & B are open space with
-  no assigned seating. All shows are rain or shine.
-URL:https://members.thequinhouse.com/events/180153
-CATEGORIES:The Arts
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-196062@thequinhouse.com
 DTSTAMP:20260818T170000Z
 DTSTART;TZID=America/New_York:20260818T170000
 DTEND;TZID=America/New_York:20260818T180000
 SUMMARY:Member Mingle
 LOCATION:Lunasol
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 14 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 13 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  96062\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in the ambiant reserved space of Lunasol. This is your opportunity to co
@@ -148,27 +126,27 @@ DTSTART;TZID=America/New_York:20260822T100000
 DTEND;TZID=America/New_York:20260822T111500
 SUMMARY:Kid's Clubhouse: Make Way for Elephants | Session I
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 4 spots left\nSt
- atus: Available\nEvent URL: https://members.thequinhouse.com/events/198805
- \n\nCelebrate the arrival of The Great Elephant Migration in Boston with a
-  hands-on family crafting experience inspired by one of the world's most m
- eaningful public art initiatives.\n\nLed by children's book author Wendy R
- ouillard of Barnaby's Books & Toys\, young creators will build their own e
- lephant habitats using a variety of nature-inspired materials. Each sessio
- n begins with a brief introduction to the story behind The Great Elephant 
- Migration\,introducing children to the importance of wildlife conservation
-  and the ways humans and animals can coexist.\n\nAfter crafting\, continue
-  the adventure with brunch at Café Q\, where families can enjoy Journey t
- o Kerala - a refreshing\, kid-friendly mocktail inspired by the elephants'
-  homeland\, featuring coconut water\, mango\, ginger\, lime\, curry leaves
- \, and sparkling club soda.\n\n*This event is complimentary and reserved f
- or members\, plus their children aged 6+. Children may remain in the 'Hous
- e\, attended by a parent until 4:00PM. Please ensure you select the correc
- t number of children's tickets when registering\, so we may account for su
- pplies. Adults do not require registration. If you have a larger family (3
- + kids) please email happening@thequin.com should you need an additional s
- eat. As we anticipate a waitlist\, please be mindful of other families by 
- making any necessary cancellations at least 48-hours in advance.
+DESCRIPTION:Category: The Arts\nPrice: Free / Included\nStatus: Waitlist On
+ ly\nEvent URL: https://members.thequinhouse.com/events/198805\n\nCelebrate
+  the arrival of The Great Elephant Migration in Boston with a hands-on fam
+ ily crafting experience inspired by one of the world's most meaningful pub
+ lic art initiatives.\n\nLed by children's book author Wendy Rouillard of B
+ arnaby's Books & Toys\, young creators will build their own elephant habit
+ ats using a variety of nature-inspired materials. Each session begins with
+  a brief introduction to the story behind The Great Elephant Migration\,in
+ troducing children to the importance of wildlife conservation and the ways
+  humans and animals can coexist.\n\nAfter crafting\, continue the adventur
+ e with brunch at Café Q\, where families can enjoy Journey to Kerala - a 
+ refreshing\, kid-friendly mocktail inspired by the elephants' homeland\, f
+ eaturing coconut water\, mango\, ginger\, lime\, curry leaves\, and sparkl
+ ing club soda.\n\n*This event is complimentary and reserved for members\, 
+ plus their children aged 6+. Children may remain in the 'House\, attended 
+ by a parent until 4:00PM. Please ensure you select the correct number of c
+ hildren's tickets when registering\, so we may account for supplies. Adult
+ s do not require registration. If you have a larger family (3+ kids) pleas
+ e email happening@thequin.com should you need an additional seat. As we an
+ ticipate a waitlist\, please be mindful of other families by making any ne
+ cessary cancellations at least 48-hours in advance.
 URL:https://members.thequinhouse.com/events/198805
 CATEGORIES:The Arts
 END:VEVENT
@@ -179,8 +157,39 @@ DTSTART;TZID=America/New_York:20260822T124500
 DTEND;TZID=America/New_York:20260822T140000
 SUMMARY:Kid's Clubhouse: Make Way for Elephants | Session II
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 7 spots left\nSt
- atus: Available\nEvent URL: https://members.thequinhouse.com/events/198806
+DESCRIPTION:Category: The Arts\nPrice: Free / Included\nStatus: Waitlist On
+ ly\nEvent URL: https://members.thequinhouse.com/events/198806\n\nCelebrate
+  the arrival of The Great Elephant Migration in Boston with a hands-on fam
+ ily crafting experience inspired by one of the world's most meaningful pub
+ lic art initiatives.\n\nLed by children's book author Wendy Rouillard of B
+ arnaby's Books & Toys\, young creators will build their own elephant habit
+ ats using a variety of nature-inspired materials. Each session begins with
+  a brief introduction to the story behind The Great Elephant Migration\,in
+ troducing children to the importance of wildlife conservation and the ways
+  humans and animals can coexist.\n\nAfter crafting\, continue the adventur
+ e with brunch at Café Q\, where families can enjoy Journey to Kerala - a 
+ refreshing\, kid-friendly mocktail inspired by the elephants' homeland\, f
+ eaturing coconut water\, mango\, ginger\, lime\, curry leaves\, and sparkl
+ ing club soda.\n\n*This event is complimentary and reserved for members\, 
+ plus their children aged 6+. Children may remain in the 'House\, attended 
+ by a parent until 4:00PM. Please ensure you select the correct number of c
+ hildren's tickets when registering\, so we may account for supplies. Adult
+ s do not require registration. If you have a larger family (3+ kids) pleas
+ e email happening@thequin.com should you need an additional seat. As we an
+ ticipate a waitlist\, please be mindful of other families by making any ne
+ cessary cancellations at least 48-hours in advance.
+URL:https://members.thequinhouse.com/events/198806
+CATEGORIES:The Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-198914@thequinhouse.com
+DTSTAMP:20260822T143000Z
+DTSTART;TZID=America/New_York:20260822T143000
+DTEND;TZID=America/New_York:20260822T151500
+SUMMARY:Kid's Clubhouse: Make Way for Elephants | Session III
+LOCATION:Scottie's
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 6 spots left\nSt
+ atus: Available\nEvent URL: https://members.thequinhouse.com/events/198914
  \n\nCelebrate the arrival of The Great Elephant Migration in Boston with a
   hands-on family crafting experience inspired by one of the world's most m
  eaningful public art initiatives.\n\nLed by children's book author Wendy R
@@ -200,37 +209,6 @@ DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 7 spots left\nSt
  + kids) please email happening@thequin.com should you need an additional s
  eat. As we anticipate a waitlist\, please be mindful of other families by 
  making any necessary cancellations at least 48-hours in advance.
-URL:https://members.thequinhouse.com/events/198806
-CATEGORIES:The Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:quin-event-198914@thequinhouse.com
-DTSTAMP:20260822T143000Z
-DTSTART;TZID=America/New_York:20260822T143000
-DTEND;TZID=America/New_York:20260822T151500
-SUMMARY:Kid's Clubhouse: Make Way for Elephants | Session III
-LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 13 spots left\nS
- tatus: Available\nEvent URL: https://members.thequinhouse.com/events/19891
- 4\n\nCelebrate the arrival of The Great Elephant Migration in Boston with 
- a hands-on family crafting experience inspired by one of the world's most 
- meaningful public art initiatives.\n\nLed by children's book author Wendy 
- Rouillard of Barnaby's Books & Toys\, young creators will build their own 
- elephant habitats using a variety of nature-inspired materials. Each sessi
- on begins with a brief introduction to the story behind The Great Elephant
-  Migration\,introducing children to the importance of wildlife conservatio
- n and the ways humans and animals can coexist.\n\nAfter crafting\, continu
- e the adventure with brunch at Café Q\, where families can enjoy Journey 
- to Kerala - a refreshing\, kid-friendly mocktail inspired by the elephants
- ' homeland\, featuring coconut water\, mango\, ginger\, lime\, curry leave
- s\, and sparkling club soda.\n\n*This event is complimentary and reserved 
- for members\, plus their children aged 6+. Children may remain in the 'Hou
- se\, attended by a parent until 4:00PM. Please ensure you select the corre
- ct number of children's tickets when registering\, so we may account for s
- upplies. Adults do not require registration. If you have a larger family (
- 3+ kids) please email happening@thequin.com should you need an additional 
- seat. As we anticipate a waitlist\, please be mindful of other families by
-  making any necessary cancellations at least 48-hours in advance.
 URL:https://members.thequinhouse.com/events/198914
 CATEGORIES:The Arts
 END:VEVENT
