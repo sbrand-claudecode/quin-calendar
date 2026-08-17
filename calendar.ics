@@ -51,7 +51,7 @@ DTSTART;TZID=America/New_York:20260818T170000
 DTEND;TZID=America/New_York:20260818T180000
 SUMMARY:Member Mingle
 LOCATION:Lunasol
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 6 spots left
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 4 spots left
  \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/19
  6062\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set 
  in the ambiant reserved space of Lunasol. This is your opportunity to con
@@ -220,7 +220,7 @@ DTEND;TZID=America/New_York:20260824T210000
 SUMMARY:Serendipity Dinner
 LOCATION:The Muse
 DESCRIPTION:Category: Member Mixer\nPrice: $100.00 per person\nAvailability
- : 9 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
+ : 8 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
  .com/events/196059\n\nJoin The ‘Quin House Director of Membership\, Lisa
   Flores\, for an evening of meaningful connections over a thoughtfully cur
  ated three-course dinner. Enjoy expertly paired wines as you engage with f
@@ -280,7 +280,7 @@ DTSTART;TZID=America/New_York:20260825T170000
 DTEND;TZID=America/New_York:20260825T180000
 SUMMARY:Member Mingle
 LOCATION:Lunasol
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 13 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 11 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  96063\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in the ambiant reserved space of Lunasol. This is your opportunity to co
@@ -450,23 +450,23 @@ DTSTART;TZID=America/New_York:20260910T180000
 DTEND;TZID=America/New_York:20260910T193000
 SUMMARY:'Quin Chat: The Art of Coexistence
 LOCATION:The Reading Room
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 100 spots le
- ft\nStatus: futureSale\nEvent URL: https://members.thequinhouse.com/events
- /199491\n\n6:00PM Reception\, 6:30PM Reception\nWhat does it mean for huma
- ns and wildlife to thrive together in an increasingly interconnected world
- ? Coinciding with the arrival of The Great Elephant Migration in Boston\
- , this 'Quin Chat brings together visionary voices at the forefront of con
- servation\, research\, and environmental storytelling for an evening of co
- mpelling conversation.\n\nModerated by 'Quin Co-Founder and philanthropist
- \, Sandy Edgerley\, together with Founder of The Great Elephant Migration\
- , Ruth Ganesh and leading scholar of human-wildlife coexistence\, Dr. Tars
- h Thekaekara\, the discussion will explore the ideas driving one of the wo
- rld's most ambitious conservation initiatives.\n\nFrom restoring critical 
- habitats and protecting biodiversity to reimagining the relationship betwe
- en people and the natural world\, look forward to a conversation that exam
- ines how innovation\, collaboration\, and community are reshaping the futu
- re of conservation.\n\n*This event is complimentary and reserved for membe
- rs only. Complimentary light bites and refreshments will be served.
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 15 spots lef
+ t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
+ 99491\n\n6:00PM Reception\, 6:30PM Reception\nWhat does it mean for humans
+  and wildlife to thrive together in an increasingly interconnected world? 
+ Coinciding with the arrival of The Great Elephant Migration in Boston\, 
+ this 'Quin Chat brings together visionary voices at the forefront of conse
+ rvation\, research\, and environmental storytelling for an evening of comp
+ elling conversation.\n\nModerated by 'Quin Co-Founder and philanthropist\,
+  Sandy Edgerley\, together with Founder of The Great Elephant Migration\, 
+ Ruth Ganesh and leading scholar of human-wildlife coexistence\, Dr. Tarsh 
+ Thekaekara\, the discussion will explore the ideas driving one of the worl
+ d's most ambitious conservation initiatives.\n\nFrom restoring critical ha
+ bitats and protecting biodiversity to reimagining the relationship between
+  people and the natural world\, look forward to a conversation that examin
+ es how innovation\, collaboration\, and community are reshaping the future
+  of conservation.\n\n*This event is complimentary and reserved for members
+  only. Complimentary light bites and refreshments will be served.
 URL:https://members.thequinhouse.com/events/199491
 CATEGORIES:‘Quin Chat
 END:VEVENT
@@ -477,26 +477,26 @@ DTSTART;TZID=America/New_York:20260914T170000
 DTEND;TZID=America/New_York:20260914T190000
 SUMMARY:Earthshot Innovation Challenge Pitch Competition 
 LOCATION:The Pub
-DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nAvailability: 80 sp
- ots left\nStatus: futureSale\nEvent URL: https://members.thequinhouse.com/
- events/199492\n\n5:00PM Reception\, 5:30PM Program\nBefore the spotlight t
- urns to the annual Earthshot Innovation Challenge Award Ceremony at the Jo
- hn F. Kennedy Presidential Library this winter\, The 'Quin Impact Fund inv
- ites members to an exclusive first look at the next generation of climate 
- innovation.\n\nDuring this special preview\, Earthshot Innovation Challeng
- e semi-finalists will present their breakthrough concepts\, sharing bold i
- deas designed to address some of the world's most pressing environmental c
- hallenges. Members will hear each pitch\, engage with the ideas\, and cast
-  their votes in real time to select the solution they wish to propel into 
- the challenge finals\, securing at least $25\,000 in grant funding\, and r
- aising their chances to be awarded the top prize of $100\,000.\n\nThis exc
- lusive event offers a unique opportunity to experience the innovation proc
- ess firsthand while helping elevate promising solutions before they take t
- he stage at the formal competition. Be among the first to discover the vis
- ionary entrepreneurs shaping a more sustainable future - and play a role i
- n recognizing the ideas with the greatest potential to create lasting impa
- ct.\n\n*This event is complimentary and reserved for members only. Compli
- mentary light bites and refreshments will be served.
+DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nAvailability: 11 sp
+ ots left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/e
+ vents/199492\n\n5:00PM Reception\, 5:30PM Program\nBefore the spotlight tu
+ rns to the annual Earthshot Innovation Challenge Award Ceremony at the Joh
+ n F. Kennedy Presidential Library this winter\, The 'Quin Impact Fund invi
+ tes members to an exclusive first look at the next generation of climate i
+ nnovation.\n\nDuring this special preview\, Earthshot Innovation Challenge
+  semi-finalists will present their breakthrough concepts\, sharing bold id
+ eas designed to address some of the world's most pressing environmental ch
+ allenges. Members will hear each pitch\, engage with the ideas\, and cast 
+ their votes in real time to select the solution they wish to propel into t
+ he challenge finals\, securing at least $25\,000 in grant funding\, and ra
+ ising their chances to be awarded the top prize of $100\,000.\n\nThis excl
+ usive event offers a unique opportunity to experience the innovation proce
+ ss firsthand while helping elevate promising solutions before they take th
+ e stage at the formal competition. Be among the first to discover the visi
+ onary entrepreneurs shaping a more sustainable future - and play a role in
+  recognizing the ideas with the greatest potential to create lasting impac
+ t.\n\n*This event is complimentary and reserved for members only. Complim
+ entary light bites and refreshments will be served.
 URL:https://members.thequinhouse.com/events/199492
 CATEGORIES:‘Quin Impact Fund
 END:VEVENT
@@ -529,25 +529,25 @@ DTSTART;TZID=America/New_York:20260915T190000
 DTEND;TZID=America/New_York:20260915T200000
 SUMMARY:Author's Circle Book Club: "Damaged Goods" With Paul Scheufele
 LOCATION:The Muse
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 60 spots left\nS
- tatus: futureSale\nEvent URL: https://members.thequinhouse.com/events/1994
- 93\n\nThis September\, join us for a thoughtful discussion on Damaged Good
- s\, a compelling work of literary fiction that explores family\, loss\, an
- d the unexpected ways grief can reshape our lives. When Brendan O'Shay inh
- erits custody of his late sister's frozen eggs\, he and his family are for
- ced to confront difficult questions about love\, legacy\, and what it trul
- y means to honor someone's memory.\n\nSet against the backdrop of the 2008
-  financial crisis in New England\, Damaged Goods is an emotionally resonan
- t novel that examines the delicate balance between ambition and compassion
- . Rich with moral complexity and unforgettable characters\, it is an ideal
-  choice for readers who enjoy thought-provoking stories that spark meaning
- ful conversation.\n\nJoined by the author himself\, Paul Scheufele\, and i
- n conversation with Wendy Dodson\, owner of Hummingbird Book\, the evening
-  will explore the novel’s inspirations\, themes\, and enduring questions
- . Members will have the opportunity to engage directly with the author in 
- an intimate conversation that brings the story vividly to life.\n\n*This e
- vent is complimentary and reserved for members only. Complimentary light b
- ites and refreshments will be served.
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 26 spots left\nS
+ tatus: Available\nEvent URL: https://members.thequinhouse.com/events/19949
+ 3\n\nThis September\, join us for a thoughtful discussion on Damaged Goods
+ \, a compelling work of literary fiction that explores family\, loss\, and
+  the unexpected ways grief can reshape our lives. When Brendan O'Shay inhe
+ rits custody of his late sister's frozen eggs\, he and his family are forc
+ ed to confront difficult questions about love\, legacy\, and what it truly
+  means to honor someone's memory.\n\nSet against the backdrop of the 2008 
+ financial crisis in New England\, Damaged Goods is an emotionally resonant
+  novel that examines the delicate balance between ambition and compassion.
+  Rich with moral complexity and unforgettable characters\, it is an ideal 
+ choice for readers who enjoy thought-provoking stories that spark meaningf
+ ul conversation.\n\nJoined by the author himself\, Paul Scheufele\, and in
+  conversation with Wendy Dodson\, owner of Hummingbird Book\, the evening 
+ will explore the novel’s inspirations\, themes\, and enduring questions.
+  Members will have the opportunity to engage directly with the author in a
+ n intimate conversation that brings the story vividly to life.\n\n*This ev
+ ent is complimentary and reserved for members only. Complimentary light bi
+ tes and refreshments will be served.
 URL:https://members.thequinhouse.com/events/199493
 CATEGORIES:The Arts
 END:VEVENT
