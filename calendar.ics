@@ -83,20 +83,19 @@ DTSTART;TZID=America/New_York:20260820T180000
 DTEND;TZID=America/New_York:20260820T200000
 SUMMARY:Member Meet Up: Night Shift Brewery Esplanade
 LOCATION:Offsite: Night Shift Brewery Esplanade
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 2 spots left
- \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/19
- 7999\n\nJoin fellow members for an early summer evening at Night Shift Bre
- wery on the Esplanade\, a lively outdoor beer garden set along the Charles
-  River.\n\nThis casual gathering offers an easy setting to connect\, unwin
- d\, and enjoy a curated selection of beers\, hard seltzers\, wines\, and n
- on-alcoholic options. Whether catching up with familiar faces or meeting s
- omeone new\, the atmosphere is designed to be social\, welcoming\, and eff
- ortlessly enjoyable.\n\nDogs are welcome so feel free to bring your four-l
- egged companion along for the evening.\n\n*This event is complimentary and
-  reserved for members only. Each member will receive two complimentary dri
- nks\, followed by a cash bar. Food will be available for purchase. We kin
- dly ask that all cancellations be made at least 24 hours prior to the star
- t of the event.
+DESCRIPTION:Category: Member Mixer\nPrice: Free / Included\nStatus: unlimit
+ ed\nEvent URL: https://members.thequinhouse.com/events/197999\n\nJoin fell
+ ow members for an early summer evening at Night Shift Brewery on the Espla
+ nade\, a lively outdoor beer garden set along the Charles River.\n\nThis c
+ asual gathering offers an easy setting to connect\, unwind\, and enjoy a c
+ urated selection of beers\, hard seltzers\, wines\, and non-alcoholic opti
+ ons. Whether catching up with familiar faces or meeting someone new\, the 
+ atmosphere is designed to be social\, welcoming\, and effortlessly enjoyab
+ le.\n\nDogs are welcome so feel free to bring your four-legged companion a
+ long for the evening.\n\n*This event is complimentary and reserved for mem
+ bers only. Each member will receive two complimentary drinks\, followed by
+  a cash bar. Food will be available for purchase. We kindly ask that all 
+ cancellations be made at least 24 hours prior to the start of the event.
 URL:https://members.thequinhouse.com/events/197999
 CATEGORIES:Member Mixer
 END:VEVENT
@@ -367,7 +366,7 @@ DTSTART;TZID=America/New_York:20260901T170000
 DTEND;TZID=America/New_York:20260901T180000
 SUMMARY:Member Mingle
 LOCATION:Lunasol
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 23 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 22 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  98803\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in the ambiant reserved space of Lunasol. This is your opportunity to co
@@ -520,7 +519,7 @@ DTSTART;TZID=America/New_York:20260915T190000
 DTEND;TZID=America/New_York:20260915T200000
 SUMMARY:Author's Circle Book Club: "Damaged Goods" With Paul Scheufele
 LOCATION:The Muse
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 5 spots left\nSt
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 3 spots left\nSt
  atus: Available\nEvent URL: https://members.thequinhouse.com/events/199493
  \n\nThis September\, join us for a thoughtful discussion on Damaged Goods\
  , a compelling work of literary fiction that explores family\, loss\, and 
