@@ -23,4 +23,63 @@ DTSTART:19701101T020000
 RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:quin-event-199491@thequinhouse.com
+DTSTAMP:20260910T180000Z
+DTSTART;TZID=America/New_York:20260910T180000
+DTEND;TZID=America/New_York:20260910T193000
+SUMMARY:'Quin Chat: The Art of Coexistence
+LOCATION:The Reading Room
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nStatus: You are on Waitlis
+ t\nEvent URL: https://members.thequinhouse.com/events/199491\n\n6:00PM Rec
+ eption\, 6:30PM Discussion\nWhat does it mean for humans and wildlife to 
+ thrive together in an increasingly interconnected world? Coinciding with t
+ he arrival of The Great Elephant Migration in Boston\, this 'Quin Chat b
+ rings together visionary voices at the forefront of conservation\, researc
+ h\, and environmental storytelling for an evening of compelling conversati
+ on.\n\nModerated by 'Quin Co-Founder and philanthropist\, Sandy Edgerley\,
+  together with Founder of The Great Elephant Migration\, Ruth Ganesh and l
+ eading scholar of human-wildlife coexistence\, Dr. Tarsh Thekaekara\, the 
+ discussion will explore the ideas driving one of the world's most ambitiou
+ s conservation initiatives.\n\nFrom restoring critical habitats and protec
+ ting biodiversity to reimagining the relationship between people and the n
+ atural world\, look forward to a conversation that examines how innovation
+ \, collaboration\, and community are reshaping the future of conservation.
+ \n\n*This event is complimentary and reserved for members only. Complimen
+ tary light bites and refreshments will be served. We kindly ask that all 
+ cancellations be made at least 24 hours prior to the start of the event.
+URL:https://members.thequinhouse.com/events/199491
+CATEGORIES:‘Quin Chat
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-199492@thequinhouse.com
+DTSTAMP:20260914T170000Z
+DTSTART;TZID=America/New_York:20260914T170000
+DTEND;TZID=America/New_York:20260914T190000
+SUMMARY:Earthshot Innovation Challenge Pitch Competition 
+LOCATION:The Pub
+DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nStatus: You are on 
+ Waitlist\nEvent URL: https://members.thequinhouse.com/events/199492\n\n5:0
+ 0PM Reception\, 5:30PM Program\nBefore the spotlight turns to the annual E
+ arthshot Innovation Challenge Award Ceremony at the John F. Kennedy Presid
+ ential Library this winter\, The 'Quin Impact Fund invites members to an e
+ xclusive first look at the next generation of climate innovation.\n\nDurin
+ g this special preview\, Earthshot Innovation Challenge semi-finalists wil
+ l present their breakthrough concepts\, sharing bold ideas designed to add
+ ress some of the world's most pressing environmental challenges. Members w
+ ill hear each pitch\, engage with the ideas\, and cast their votes in real
+  time to select the solution they wish to propel into the challenge finals
+ \, securing at least $25\,000 in grant funding\, and raising their chances
+  to be awarded the top prize of $100\,000.\n\nThis exclusive event offers 
+ a unique opportunity to experience the innovation process firsthand while 
+ helping elevate promising solutions before they take the stage at the form
+ al competition. Be among the first to discover the visionary entrepreneurs
+  shaping a more sustainable future - and play a role in recognizing the id
+ eas with the greatest potential to create lasting impact.\n\n*This event i
+ s complimentary and reserved for members only. Complimentary light bites 
+ and refreshments will be served. We kindly ask that all cancellations be 
+ made at least 24 hours prior to the start of the event.
+URL:https://members.thequinhouse.com/events/199492
+CATEGORIES:‘Quin Impact Fund
+END:VEVENT
 END:VCALENDAR

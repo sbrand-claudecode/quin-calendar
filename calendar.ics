@@ -45,27 +45,6 @@ URL:https://members.thequinhouse.com/events/196895
 CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
-UID:quin-event-196062@thequinhouse.com
-DTSTAMP:20260818T170000Z
-DTSTART;TZID=America/New_York:20260818T170000
-DTEND;TZID=America/New_York:20260818T180000
-SUMMARY:Member Mingle
-LOCATION:Lunasol
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 6 spots left
- \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/19
- 6062\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set 
- in the ambiant reserved space of Lunasol. This is your opportunity to con
- nect with fellow members\, exchange ideas\, and cultivate meaningful relat
- ionships.\n\nWhether you're sparking new collaborations\, sharing insights
- \, or simply enjoying great conversation\, the Member Mingle is the perfec
- t way to engage with our dynamic community. Don’t miss the chance to con
- nect\, inspire\, and be inspired.\n\n*This event is complimentary and rese
- rved for members only. Complimentary light bites will be served\, and beve
- rages will be available for purchase.
-URL:https://members.thequinhouse.com/events/196062
-CATEGORIES:Member Mixer
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-196057@thequinhouse.com
 DTSTAMP:20260820T120000Z
 DTSTART;TZID=America/New_York:20260820T120000
@@ -104,18 +83,20 @@ DTSTART;TZID=America/New_York:20260820T180000
 DTEND;TZID=America/New_York:20260820T200000
 SUMMARY:Member Meet Up: Night Shift Brewery Esplanade
 LOCATION:Offsite: Night Shift Brewery Esplanade
-DESCRIPTION:Category: Member Mixer\nPrice: Free / Included\nStatus: unlimit
- ed\nEvent URL: https://members.thequinhouse.com/events/197999\n\nJoin fell
- ow members for an early summer evening at Night Shift Brewery on the Espla
- nade\, a lively outdoor beer garden set along the Charles River.\n\nThis c
- asual gathering offers an easy setting to connect\, unwind\, and enjoy a c
- urated selection of beers\, hard seltzers\, wines\, and non-alcoholic opti
- ons. Whether catching up with familiar faces or meeting someone new\, the 
- atmosphere is designed to be social\, welcoming\, and effortlessly enjoyab
- le.\n\nDogs are welcome so feel free to bring your four-legged companion a
- long for the evening.\n\n*This event is complimentary and reserved for mem
- bers only. Each member will receive two complimentary drinks\, followed by
-  a cash bar. Food will be available for purchase.
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 3 spots left
+ \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/19
+ 7999\n\nJoin fellow members for an early summer evening at Night Shift Bre
+ wery on the Esplanade\, a lively outdoor beer garden set along the Charles
+  River.\n\nThis casual gathering offers an easy setting to connect\, unwin
+ d\, and enjoy a curated selection of beers\, hard seltzers\, wines\, and n
+ on-alcoholic options. Whether catching up with familiar faces or meeting s
+ omeone new\, the atmosphere is designed to be social\, welcoming\, and eff
+ ortlessly enjoyable.\n\nDogs are welcome so feel free to bring your four-l
+ egged companion along for the evening.\n\n*This event is complimentary and
+  reserved for members only. Each member will receive two complimentary dri
+ nks\, followed by a cash bar. Food will be available for purchase. We kin
+ dly ask that all cancellations be made at least 24 hours prior to the star
+ t of the event.
 URL:https://members.thequinhouse.com/events/197999
 CATEGORIES:Member Mixer
 END:VEVENT
@@ -250,7 +231,8 @@ DESCRIPTION:Category: The Arts\nPrice: Free / Included\nStatus: Waitlist On
   discovering the artists\, the project's global conservation mission\, and
   the collaborative effort that brought this extraordinary public art insta
  llation to Boston.\n\n*This event is complimentary and reserved for member
- s\, plus one registered guest.
+ s\, plus one registered guest. We kindly ask that all cancellations be ma
+ de at least 24 hours prior to the start of the event.
 URL:https://members.thequinhouse.com/events/198251
 CATEGORIES:The Arts
 END:VEVENT
@@ -269,7 +251,8 @@ DESCRIPTION:Category: The Arts\nPrice: Free / Included\nStatus: Waitlist On
  e discovering the artists\, the project's global conservation mission\, an
  d the collaborative effort that brought this extraordinary public art inst
  allation to Boston.\n\n*This event is complimentary and reserved for membe
- rs\, plus one registered guest.
+ rs\, plus one registered guest. We kindly ask that all cancellations be m
+ ade at least 24 hours prior to the start of the event.
 URL:https://members.thequinhouse.com/events/198252
 CATEGORIES:The Arts
 END:VEVENT
@@ -280,17 +263,18 @@ DTSTART;TZID=America/New_York:20260825T170000
 DTEND;TZID=America/New_York:20260825T180000
 SUMMARY:Member Mingle
 LOCATION:Lunasol
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 10 spots lef
- t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
- 96063\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
-  in the ambiant reserved space of Lunasol. This is your opportunity to co
- nnect with fellow members\, exchange ideas\, and cultivate meaningful rela
- tionships.\n\nWhether you're sparking new collaborations\, sharing insight
- s\, or simply enjoying great conversation\, the Member Mingle is the perfe
- ct way to engage with our dynamic community. Don’t miss the chance to co
- nnect\, inspire\, and be inspired.\n\n*This event is complimentary and res
- erved for members only. Complimentary light bites will be served\, and bev
- erages will be available for purchase.
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 8 spots left
+ \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/19
+ 6063\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set 
+ in the ambiant reserved space of Lunasol. This is your opportunity to con
+ nect with fellow members\, exchange ideas\, and cultivate meaningful relat
+ ionships.\n\nWhether you're sparking new collaborations\, sharing insights
+ \, or simply enjoying great conversation\, the Member Mingle is the perfec
+ t way to engage with our dynamic community. Don’t miss the chance to con
+ nect\, inspire\, and be inspired.\n\n*This event is complimentary and rese
+ rved for members only. Complimentary light bites will be served\, and beve
+ rages will be available for purchase. We kindly ask that all cancellation
+ s be made at least 24 hours prior to the start of the event.
 URL:https://members.thequinhouse.com/events/196063
 CATEGORIES:Member Mixer
 END:VEVENT
@@ -319,19 +303,20 @@ DTSTART;TZID=America/New_York:20260827T173000
 DTEND;TZID=America/New_York:20260827T193000
 SUMMARY:Member Mixer: Common Ground
 LOCATION:Scottie's
-DESCRIPTION:Category: Member Mixer\nPrice: Free / Included\nStatus: unlimit
- ed\nEvent URL: https://members.thequinhouse.com/events/198000\n\nMeaningfu
- l conversations begin with a single question.\n\nGather with fellow member
- s for an evening of engaging conversation inspired by a thoughtfully curat
- ed series of prompts designed to spark laughter\, curiosity\, and unexpect
- ed connections.\n\nThroughout the evening\, members will rotate among tabl
- es\, exchange stories\, explore new perspectives\, and discover common gro
- und with members you may not have met before. Each conversation offers a f
- resh opportunity to connect\, leaving you with new acquaintances\, memorab
- le insights\, and the kind of dialogue that lingers long after the evening
-  comes to a close.\n\n*This event is complimentary and reserved for member
- s only. Complimentary light bites will be served with beverage available t
- o purchase.
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nStatus: Waitlist Only\nEve
+ nt URL: https://members.thequinhouse.com/events/198000\n\nMeaningful conve
+ rsations begin with a single question.\n\nGather with fellow members for a
+ n evening of engaging conversation inspired by a thoughtfully curated seri
+ es of prompts designed to spark laughter\, curiosity\, and unexpected conn
+ ections.\n\nThroughout the evening\, members will rotate among tables\, ex
+ change stories\, explore new perspectives\, and discover common ground wit
+ h members you may not have met before. Each conversation offers a fresh op
+ portunity to connect\, leaving you with new acquaintances\, memorable insi
+ ghts\, and the kind of dialogue that lingers long after the evening comes 
+ to a close.\n\n*This event is complimentary and reserved for members only.
+  Complimentary light bites will be served with beverage available to purch
+ ase. We kindly ask that all cancellations be made at least 24 hours prior
+  to the start of the event.
 URL:https://members.thequinhouse.com/events/198000
 CATEGORIES:Member Mixer
 END:VEVENT
@@ -350,7 +335,8 @@ DESCRIPTION:Category: The Arts\nPrice: Free / Included\nStatus: Waitlist On
   discovering the artists\, the project's global conservation mission\, and
   the collaborative effort that brought this extraordinary public art insta
  llation to Boston.\n\n*This event is complimentary and reserved for member
- s\, plus one registered guest.
+ s\, plus one registered guest. We kindly ask that all cancellations be ma
+ de at least 24 hours prior to the start of the event.
 URL:https://members.thequinhouse.com/events/198254
 CATEGORIES:The Arts
 END:VEVENT
@@ -369,7 +355,8 @@ DESCRIPTION:Category: The Arts\nPrice: Free / Included\nStatus: Waitlist On
   discovering the artists\, the project's global conservation mission\, and
   the collaborative effort that brought this extraordinary public art insta
  llation to Boston.\n\n*This event is complimentary and reserved for member
- s\, plus one registered guest.
+ s\, plus one registered guest. We kindly ask that all cancellations be ma
+ de at least 24 hours prior to the start of the event.
 URL:https://members.thequinhouse.com/events/198255
 CATEGORIES:The Arts
 END:VEVENT
@@ -390,7 +377,8 @@ DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 24 spots lef
  ct way to engage with our dynamic community. Don’t miss the chance to co
  nnect\, inspire\, and be inspired.\n\n*This event is complimentary and res
  erved for members only. Complimentary light bites will be served\, and bev
- erages will be available for purchase.
+ erages will be available for purchase. We kindly ask that all cancellatio
+ ns be made at least 24 hours prior to the start of the event.
 URL:https://members.thequinhouse.com/events/198803
 CATEGORIES:Member Mixer
 END:VEVENT
@@ -401,27 +389,28 @@ DTSTART;TZID=America/New_York:20260901T190000
 DTEND;TZID=America/New_York:20260901T203000
 SUMMARY:'Quin Chat: Survival Mode & What It's Costing You
 LOCATION:Scottie's
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free / Included\nStatus: unlimit
- ed\nEvent URL: https://members.thequinhouse.com/events/198808\n\n7:00PM Re
- ception\, 7:30PM Discussion\nIn a world that celebrates constant achieveme
- nt\, many founders and executives spend more time in survival mode than th
- ey realize. The cost can show up in their clarity\, decision-making\, rela
- tionships\, health\, and ultimately\, how they lead.\n\nJoin international
- ly recognized keynote speaker\, leadership advisor\, and bestselling autho
- r Unni Turrettini for an illuminating evening exploring what happens when 
- pressure becomes your default state\, why even highly successful people ca
- n get stuck there\, and how your internal state affects the way you think\
- , work\, and make decisions.\n\nDrawing from her research and global caree
- r spanning law\, finance\, and leadership development\, Unni will share pr
- actical insights into recognizing your own survival mode patterns and shif
- ting into a state where you can think more clearly\, make better decisions
- \, and perform under pressure without it taking such a personal toll.\n\nF
- ollowing the discussion\, members are invited to participate in an interac
- tive Q&A and book signing of Unni’s newest release\, Soulware: A High A
- chiever’s Guide to Divine Connection in the Age of AI.\n\nThis event is 
- complimentary and reserved for members only. Complimentary lite bites and 
- refreshments will be served\, and copies of Soulware will be available for
-  purchase.
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nStatus: Waitlist Only\nEve
+ nt URL: https://members.thequinhouse.com/events/198808\n\n7:00PM Reception
+ \, 7:30PM Discussion\nIn a world that celebrates constant achievement\, ma
+ ny founders and executives spend more time in survival mode than they real
+ ize. The cost can show up in their clarity\, decision-making\, relationshi
+ ps\, health\, and ultimately\, how they lead.\n\nJoin internationally reco
+ gnized keynote speaker\, leadership advisor\, and bestselling author Unni 
+ Turrettini for an illuminating evening exploring what happens when pressur
+ e becomes your default state\, why even highly successful people can get s
+ tuck there\, and how your internal state affects the way you think\, work\
+ , and make decisions.\n\nDrawing from her research and global career spann
+ ing law\, finance\, and leadership development\, Unni will share practical
+  insights into recognizing your own survival mode patterns and shifting in
+ to a state where you can think more clearly\, make better decisions\, and 
+ perform under pressure without it taking such a personal toll.\n\nFollowin
+ g the discussion\, members are invited to participate in an interactive Q&
+ A and book signing of Unni’s newest release\, Soulware: A High Achiever
+ ’s Guide to Divine Connection in the Age of AI.\n\nThis event is complim
+ entary and reserved for members only. Complimentary lite bites and refresh
+ ments will be served\, and copies of Soulware will be available for purcha
+ se. We kindly ask that all cancellations be made at least 24 hours prior 
+ to the start of the event.
 URL:https://members.thequinhouse.com/events/198808
 CATEGORIES:‘Quin Chat
 END:VEVENT
@@ -450,23 +439,24 @@ DTSTART;TZID=America/New_York:20260910T180000
 DTEND;TZID=America/New_York:20260910T193000
 SUMMARY:'Quin Chat: The Art of Coexistence
 LOCATION:The Reading Room
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free / Included\nStatus: unlimit
- ed\nEvent URL: https://members.thequinhouse.com/events/199491\n\n6:00PM Re
- ception\, 6:30PM Reception\nWhat does it mean for humans and wildlife to t
- hrive together in an increasingly interconnected world? Coinciding with th
- e arrival of The Great Elephant Migration in Boston\, this 'Quin Chat br
- ings together visionary voices at the forefront of conservation\, research
- \, and environmental storytelling for an evening of compelling conversatio
- n.\n\nModerated by 'Quin Co-Founder and philanthropist\, Sandy Edgerley\, 
- together with Founder of The Great Elephant Migration\, Ruth Ganesh and le
- ading scholar of human-wildlife coexistence\, Dr. Tarsh Thekaekara\, the d
- iscussion will explore the ideas driving one of the world's most ambitious
-  conservation initiatives.\n\nFrom restoring critical habitats and protect
- ing biodiversity to reimagining the relationship between people and the na
- tural world\, look forward to a conversation that examines how innovation\
- , collaboration\, and community are reshaping the future of conservation.\
- n\n*This event is complimentary and reserved for members only. Compliment
- ary light bites and refreshments will be served.
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nStatus: You are on Waitlis
+ t\nEvent URL: https://members.thequinhouse.com/events/199491\n\n6:00PM Rec
+ eption\, 6:30PM Discussion\nWhat does it mean for humans and wildlife to 
+ thrive together in an increasingly interconnected world? Coinciding with t
+ he arrival of The Great Elephant Migration in Boston\, this 'Quin Chat b
+ rings together visionary voices at the forefront of conservation\, researc
+ h\, and environmental storytelling for an evening of compelling conversati
+ on.\n\nModerated by 'Quin Co-Founder and philanthropist\, Sandy Edgerley\,
+  together with Founder of The Great Elephant Migration\, Ruth Ganesh and l
+ eading scholar of human-wildlife coexistence\, Dr. Tarsh Thekaekara\, the 
+ discussion will explore the ideas driving one of the world's most ambitiou
+ s conservation initiatives.\n\nFrom restoring critical habitats and protec
+ ting biodiversity to reimagining the relationship between people and the n
+ atural world\, look forward to a conversation that examines how innovation
+ \, collaboration\, and community are reshaping the future of conservation.
+ \n\n*This event is complimentary and reserved for members only. Complimen
+ tary light bites and refreshments will be served. We kindly ask that all 
+ cancellations be made at least 24 hours prior to the start of the event.
 URL:https://members.thequinhouse.com/events/199491
 CATEGORIES:‘Quin Chat
 END:VEVENT
@@ -477,26 +467,27 @@ DTSTART;TZID=America/New_York:20260914T170000
 DTEND;TZID=America/New_York:20260914T190000
 SUMMARY:Earthshot Innovation Challenge Pitch Competition 
 LOCATION:The Pub
-DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free / Included\nStatus: 
- unlimited\nEvent URL: https://members.thequinhouse.com/events/199492\n\n5:
- 00PM Reception\, 5:30PM Program\nBefore the spotlight turns to the annual 
- Earthshot Innovation Challenge Award Ceremony at the John F. Kennedy Presi
- dential Library this winter\, The 'Quin Impact Fund invites members to an 
- exclusive first look at the next generation of climate innovation.\n\nDuri
- ng this special preview\, Earthshot Innovation Challenge semi-finalists wi
- ll present their breakthrough concepts\, sharing bold ideas designed to ad
- dress some of the world's most pressing environmental challenges. Members 
- will hear each pitch\, engage with the ideas\, and cast their votes in rea
- l time to select the solution they wish to propel into the challenge final
- s\, securing at least $25\,000 in grant funding\, and raising their chance
- s to be awarded the top prize of $100\,000.\n\nThis exclusive event offers
-  a unique opportunity to experience the innovation process firsthand while
-  helping elevate promising solutions before they take the stage at the for
- mal competition. Be among the first to discover the visionary entrepreneur
- s shaping a more sustainable future - and play a role in recognizing the i
- deas with the greatest potential to create lasting impact.\n\n*This event 
- is complimentary and reserved for members only. Complimentary light bites
-  and refreshments will be served.
+DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nStatus: You are on 
+ Waitlist\nEvent URL: https://members.thequinhouse.com/events/199492\n\n5:0
+ 0PM Reception\, 5:30PM Program\nBefore the spotlight turns to the annual E
+ arthshot Innovation Challenge Award Ceremony at the John F. Kennedy Presid
+ ential Library this winter\, The 'Quin Impact Fund invites members to an e
+ xclusive first look at the next generation of climate innovation.\n\nDurin
+ g this special preview\, Earthshot Innovation Challenge semi-finalists wil
+ l present their breakthrough concepts\, sharing bold ideas designed to add
+ ress some of the world's most pressing environmental challenges. Members w
+ ill hear each pitch\, engage with the ideas\, and cast their votes in real
+  time to select the solution they wish to propel into the challenge finals
+ \, securing at least $25\,000 in grant funding\, and raising their chances
+  to be awarded the top prize of $100\,000.\n\nThis exclusive event offers 
+ a unique opportunity to experience the innovation process firsthand while 
+ helping elevate promising solutions before they take the stage at the form
+ al competition. Be among the first to discover the visionary entrepreneurs
+  shaping a more sustainable future - and play a role in recognizing the id
+ eas with the greatest potential to create lasting impact.\n\n*This event i
+ s complimentary and reserved for members only. Complimentary light bites 
+ and refreshments will be served. We kindly ask that all cancellations be 
+ made at least 24 hours prior to the start of the event.
 URL:https://members.thequinhouse.com/events/199492
 CATEGORIES:‘Quin Impact Fund
 END:VEVENT
@@ -529,26 +520,50 @@ DTSTART;TZID=America/New_York:20260915T190000
 DTEND;TZID=America/New_York:20260915T200000
 SUMMARY:Author's Circle Book Club: "Damaged Goods" With Paul Scheufele
 LOCATION:The Muse
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 17 spots left\nS
- tatus: Available\nEvent URL: https://members.thequinhouse.com/events/19949
- 3\n\nThis September\, join us for a thoughtful discussion on Damaged Goods
- \, a compelling work of literary fiction that explores family\, loss\, and
-  the unexpected ways grief can reshape our lives. When Brendan O'Shay inhe
- rits custody of his late sister's frozen eggs\, he and his family are forc
- ed to confront difficult questions about love\, legacy\, and what it truly
-  means to honor someone's memory.\n\nSet against the backdrop of the 2008 
- financial crisis in New England\, Damaged Goods is an emotionally resonant
-  novel that examines the delicate balance between ambition and compassion.
-  Rich with moral complexity and unforgettable characters\, it is an ideal 
- choice for readers who enjoy thought-provoking stories that spark meaningf
- ul conversation.\n\nJoined by the author himself\, Paul Scheufele\, and in
-  conversation with Wendy Dodson\, owner of Hummingbird Book\, the evening 
- will explore the novel’s inspirations\, themes\, and enduring questions.
-  Members will have the opportunity to engage directly with the author in a
- n intimate conversation that brings the story vividly to life.\n\n*This ev
- ent is complimentary and reserved for members only. Complimentary light bi
- tes and refreshments will be served.
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 7 spots left\nSt
+ atus: Available\nEvent URL: https://members.thequinhouse.com/events/199493
+ \n\nThis September\, join us for a thoughtful discussion on Damaged Goods\
+ , a compelling work of literary fiction that explores family\, loss\, and 
+ the unexpected ways grief can reshape our lives. When Brendan O'Shay inher
+ its custody of his late sister's frozen eggs\, he and his family are force
+ d to confront difficult questions about love\, legacy\, and what it truly 
+ means to honor someone's memory.\n\nSet against the backdrop of the 2008 f
+ inancial crisis in New England\, Damaged Goods is an emotionally resonant 
+ novel that examines the delicate balance between ambition and compassion. 
+ Rich with moral complexity and unforgettable characters\, it is an ideal c
+ hoice for readers who enjoy thought-provoking stories that spark meaningfu
+ l conversation.\n\nJoined by the author himself\, Paul Scheufele\, and in 
+ conversation with Wendy Dodson\, owner of Hummingbird Book\, the evening w
+ ill explore the novel’s inspirations\, themes\, and enduring questions. 
+ Members will have the opportunity to engage directly with the author in an
+  intimate conversation that brings the story vividly to life.\n\n*This eve
+ nt is complimentary and reserved for members only. Complimentary light bit
+ es and refreshments will be served. We kindly ask that all cancellations 
+ be made at least 24 hours prior to the start of the event.
 URL:https://members.thequinhouse.com/events/199493
 CATEGORIES:The Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-195306@thequinhouse.com
+DTSTAMP:20261112T180000Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:5th Anniversary 'House Celebration: A Night of Gathering & Impact
+LOCATION:Offsite: MGM Music Hall
+DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free / Included\nStatus: 
+ Available\nTime: 6 PM – 11 PM\nEvent URL: https://members.thequinhouse.c
+ om/events/195306\n\nIn celebration of The 'Quin's fifth anniversary\, we i
+ nvite members to save the date for an extraordinary evening at MGM Music H
+ all at Fenway. Bringing together the leaders\, creators\, innovators\, and
+  rising stars shaping Boston's future\, the evening will feature world-cla
+ ss performances by EGOT-winning\, multi-platinum artist and producer John 
+ Legend and the Grammy Award-winning Gipsy Kings featuring Nicolas Reyes.\n
+ \nAll ticket proceeds will support the philanthropic work of The 'Quin Imp
+ act Fund. A formal invitation\, including details on presale sponsored lou
+ nge seating and general ticket sales\, will be shared in the coming weeks.
+ \n\n*Please note that The ‘Quin House will close at 3:00PM on this date 
+ to ensure access to this celebration for the entire ‘Quin House Team.
+URL:https://members.thequinhouse.com/events/195306
+CATEGORIES:‘Quin Impact Fund
 END:VEVENT
 END:VCALENDAR
