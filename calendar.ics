@@ -145,7 +145,7 @@ DTEND;TZID=America/New_York:20260824T210000
 SUMMARY:Serendipity Dinner
 LOCATION:The Muse
 DESCRIPTION:Category: Member Mixer\nPrice: $100.00 per person\nAvailability
- : 7 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
+ : 6 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
  .com/events/196059\n\nJoin The ‘Quin House Director of Membership\, Lisa
   Flores\, for an evening of meaningful connections over a thoughtfully cur
  ated three-course dinner. Enjoy expertly paired wines as you engage with f
@@ -265,6 +265,32 @@ URL:https://members.thequinhouse.com/events/198000
 CATEGORIES:Member Mixer
 END:VEVENT
 BEGIN:VEVENT
+UID:quin-event-199856@thequinhouse.com
+DTSTAMP:20260827T183000Z
+DTSTART;TZID=America/New_York:20260827T183000
+DTEND;TZID=America/New_York:20260827T203000
+SUMMARY:Private Screening: "Tony" 
+LOCATION:Offsite: Boston Common Theater
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 45 spots left\nS
+ tatus: Available\nEvent URL: https://members.thequinhouse.com/events/19985
+ 6\n\n6:30PM Doors Open\, 7:00PM Screening \nJoin us for a ‘Quin-exclusi
+ ve private screening of Tony\, the story of 19-year-old Anthony Bourdain w
+ ho travels to Provincetown and stumbles into the chaotic\, intoxicating wo
+ rld of a restaurant kitchen\, setting off a summer that will shape the cou
+ rse of his life.\n\nThrown into a world of colorful characters\, late nigh
+ ts\, hard work\, and reckless camaraderie\, Tony begins to discover a sens
+ e of purpose and belonging he never expected. What starts as a summer job 
+ becomes a formative coming-of-age experience\, awakening his fascination w
+ ith food\, kitchen culture\, and the people who inhabit it—and laying th
+ e foundation for the chef\, writer\, and storyteller he would eventually b
+ ecome.\n\n*This event is complimentary and reserved for members\, plus one
+  registered guest. Food and beverage will be available for purchase at nea
+ rby concessions. We kindly ask that all cancellations be made at least 24 
+ hours prior to the start of the event.
+URL:https://members.thequinhouse.com/events/199856
+CATEGORIES:The Arts
+END:VEVENT
+BEGIN:VEVENT
 UID:quin-event-198254@thequinhouse.com
 DTSTAMP:20260828T110000Z
 DTSTART;TZID=America/New_York:20260828T110000
@@ -311,7 +337,7 @@ DTSTART;TZID=America/New_York:20260901T170000
 DTEND;TZID=America/New_York:20260901T180000
 SUMMARY:Member Mingle
 LOCATION:Lunasol
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 18 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 17 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  98803\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in the ambiant reserved space of Lunasol. This is your opportunity to co
@@ -333,30 +359,51 @@ DTSTART;TZID=America/New_York:20260901T190000
 DTEND;TZID=America/New_York:20260901T203000
 SUMMARY:'Quin Chat: Survival Mode & What It's Costing You
 LOCATION:Scottie's
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nStatus: Waitlist Only\nEve
- nt URL: https://members.thequinhouse.com/events/198808\n\n7:00PM Reception
- \, 7:30PM Discussion\nIn a world that celebrates constant achievement\, ma
- ny founders and executives spend more time in survival mode than they real
- ize. The cost can show up in their clarity\, decision-making\, relationshi
- ps\, health\, and ultimately\, how they lead.\n\nJoin internationally reco
- gnized keynote speaker\, leadership advisor\, and bestselling author Unni 
- Turrettini for an illuminating evening exploring what happens when pressur
- e becomes your default state\, why even highly successful people can get s
- tuck there\, and how your internal state affects the way you think\, work\
- , and make decisions.\n\nDrawing from her research and global career spann
- ing law\, finance\, and leadership development\, Unni will share practical
-  insights into recognizing your own survival mode patterns and shifting in
- to a state where you can think more clearly\, make better decisions\, and 
- perform under pressure without it taking such a personal toll.\n\nFollowin
- g the discussion\, members are invited to participate in an interactive Q&
- A and book signing of Unni’s newest release\, Soulware: A High Achiever
- ’s Guide to Divine Connection in the Age of AI.\n\nThis event is complim
- entary and reserved for members only. Complimentary lite bites and refresh
- ments will be served\, and copies of Soulware will be available for purcha
- se. We kindly ask that all cancellations be made at least 24 hours prior 
- to the start of the event.
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free / Included\nStatus: unlimit
+ ed\nEvent URL: https://members.thequinhouse.com/events/198808\n\n7:00PM Re
+ ception\, 7:30PM Discussion\nIn a world that celebrates constant achieveme
+ nt\, many founders and executives spend more time in survival mode than th
+ ey realize. The cost can show up in their clarity\, decision-making\, rela
+ tionships\, health\, and ultimately\, how they lead.\n\nJoin international
+ ly recognized keynote speaker\, leadership advisor\, and bestselling autho
+ r Unni Turrettini for an illuminating evening exploring what happens when 
+ pressure becomes your default state\, why even highly successful people ca
+ n get stuck there\, and how your internal state affects the way you think\
+ , work\, and make decisions.\n\nDrawing from her research and global caree
+ r spanning law\, finance\, and leadership development\, Unni will share pr
+ actical insights into recognizing your own survival mode patterns and shif
+ ting into a state where you can think more clearly\, make better decisions
+ \, and perform under pressure without it taking such a personal toll.\n\nF
+ ollowing the discussion\, members are invited to participate in an interac
+ tive Q&A and book signing of Unni’s newest release\, Soulware: A High A
+ chiever’s Guide to Divine Connection in the Age of AI.\n\nThis event is 
+ complimentary and reserved for members only. Complimentary lite bites and 
+ refreshments will be served\, and copies of Soulware will be available for
+  purchase. We kindly ask that all cancellations be made at least 24 hours
+  prior to the start of the event.
 URL:https://members.thequinhouse.com/events/198808
 CATEGORIES:‘Quin Chat
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-200520@thequinhouse.com
+DTSTAMP:20260908T170000Z
+DTSTART;TZID=America/New_York:20260908T170000
+DTEND;TZID=America/New_York:20260908T183000
+SUMMARY:Member Mingle
+LOCATION:The Living Room
+DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
+ e\nAvailability: 40 spots left\nStatus: Available\nEvent URL: https://memb
+ ers.thequinhouse.com/events/200520\n\nJoin us for our weekly Member Mingle
+ \, an inclusive gathering set in an ambiant reserved space. This is your o
+ pportunity to connect with fellow members\, exchange ideas\, and cultivate
+  meaningful relationships.\n\nWhether you're sparking new collaborations\,
+  sharing insights\, or simply enjoying great conversation\, the Member Min
+ gle is the perfect way to engage with our dynamic community. Don’t miss 
+ the chance to connect\, inspire\, and be inspired!\n\n*This event is compl
+ imentary and reserved for members only. Complimentary light bites will be 
+ served\, and beverages will be available for purchase.
+URL:https://members.thequinhouse.com/events/200520
+CATEGORIES:Member Mixer,Survey - Membership Mingle
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-176375@thequinhouse.com
@@ -375,6 +422,60 @@ DESCRIPTION:Category: The Arts\nPrice: Free / Included\nStatus: Available\n
  is first come\, first served.
 URL:https://members.thequinhouse.com/events/176375
 CATEGORIES:The Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-199496@thequinhouse.com
+DTSTAMP:20260910T100000Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:Mahjong Open Play 
+LOCATION:Bondo
+DESCRIPTION:Category: Sports & Games\nPrice: Free\nAvailability: 40 spots l
+ eft\nStatus: futureSale\nTime: 10 AM – 2 PM\nEvent URL: https://members.
+ thequinhouse.com/events/199496\n\nHave a love for the game\, the strategy\
+ , and the social ritual of Mahjong? Join us in Bondo for an open play afte
+ rnoon designed for members with a sound knowledge of Mahjong gameplay and 
+ an appetite for spirited competition and connection.\n\nSettle in for a fe
+ w rounds\, meet fellow players\, and enjoy an afternoon centered around th
+ e game. While food will not be served during play\, we invite members to c
+ ontinue the afternoon over lunch at Café Q or Lunasol. The perfect way to
+  turn a few games into an afternoon of conversation and connection.\n\n*Th
+ is event is complimentary and reserved for members only. Mahjong mats\, ti
+ les\, shufflers\, and racks will be provided\; however\, members are encou
+ raged to bring their own current National Mah Jongg League scorecard. We k
+ indly ask that all cancellations be made at least 24 hours prior to the st
+ art of the event.
+URL:https://members.thequinhouse.com/events/199496
+CATEGORIES:Sports & Games
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-199857@thequinhouse.com
+DTSTAMP:20260910T173000Z
+DTSTART;TZID=America/New_York:20260910T173000
+DTEND;TZID=America/New_York:20260910T200000
+SUMMARY:Member Meetup: The Boston Public Library 
+LOCATION:Offsite: Boston Public Library
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 60 spots lef
+ t\nStatus: futureSale\nEvent URL: https://members.thequinhouse.com/events/
+ 199857\n\nExperience the Boston Public Library through an evening that bri
+ ngs together the revolutionary power of the printed word and the enduring 
+ ambition of one of America’s great civic landmarks.\n\nBegin with a priv
+ ate viewing of Declarations: Printing a New Nation at the Leventhal Map & 
+ Education Center. For the first time\, eight rare printings of the Declara
+ tion of Independence are presented together\,illuminating how the news of 
+ American independence spread across the nation in the summer of 1776. With
+  the exhibit closing on September 13th\, this is a final opportunity to ex
+ perience these documents side by side.\n\nThe evening continues with a wel
+ come reception of drinks and light bites\, followed by a private guided to
+ ur of the historic McKim Building. Welcomed by Boston Public Library Presi
+ dent\, David Leonard\, and Boston Public Library Fund Executive Director\,
+  Paula Sakey\, members will explore the art\, architecture\, and legacy of
+  America’s first large free municipal library and get an inside look at 
+ what’s next for one of Boston’s most treasured spaces.\n\n*This event 
+ is complimentary and reserved for members only. We kindly ask that all can
+ cellations be made at least 24 hours prior to the start of the event.
+URL:https://members.thequinhouse.com/events/199857
+CATEGORIES:Member Mixer
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-199491@thequinhouse.com
@@ -458,6 +559,29 @@ URL:https://members.thequinhouse.com/events/176001
 CATEGORIES:Member Mixer
 END:VEVENT
 BEGIN:VEVENT
+UID:quin-event-200521@thequinhouse.com
+DTSTAMP:20260915T170000Z
+DTSTART;TZID=America/New_York:20260915T170000
+DTEND;TZID=America/New_York:20260915T183000
+SUMMARY:Member Mingle
+LOCATION:The Living Room
+DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
+ e\nAvailability: 40 spots left\nStatus: Available\nEvent URL: https://memb
+ ers.thequinhouse.com/events/200521\n\nJoin us for our weekly Member Mingle
+ \, an inclusive gathering set in an ambiant reserved space. This is your o
+ pportunity to connect with fellow members\, exchange ideas\, and cultivate
+  meaningful relationships.\n\nWhether you're sparking new collaborations\,
+  sharing insights\, or simply enjoying great conversation\, the Member Min
+ gle is the perfect way to engage with our dynamic community. Don’t miss 
+ the chance to connect\, inspire\, and be inspired!\n\n*This event is compl
+ imentary and reserved for members only. Complimentary light bites will be 
+ served\, and beverages will be available for purchase. We kindly ask that
+  all cancellations be made at least 24 hours prior to the start of the eve
+ nt.
+URL:https://members.thequinhouse.com/events/200521
+CATEGORIES:Member Mixer,Survey - Membership Mingle
+END:VEVENT
+BEGIN:VEVENT
 UID:quin-event-199493@thequinhouse.com
 DTSTAMP:20260915T190000Z
 DTSTART;TZID=America/New_York:20260915T190000
@@ -486,6 +610,103 @@ DESCRIPTION:Category: The Arts\nPrice: Free / Included\nStatus: unlimited\n
  24 hours prior to the start of the event.
 URL:https://members.thequinhouse.com/events/199493
 CATEGORIES:The Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-200335@thequinhouse.com
+DTSTAMP:20260917T170000Z
+DTSTART;TZID=America/New_York:20260917T170000
+DTEND;TZID=America/New_York:20260917T183000
+SUMMARY:Author Talk: "Driven" With Architect Patrick Ahearn 
+LOCATION:Scottie's
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 90 spots left\nS
+ tatus: futureSale\nEvent URL: https://members.thequinhouse.com/events/2003
+ 35\n\n5:00PM Reception\, 5:30PM Discussion\nJoin award-winning classical a
+ rchitect and impassioned car collector Patrick Ahearn for an exclusive pre
+ -launch discussion of his forthcoming book\, Driven: The Road to Iconic De
+ sign. At the intersection of his two greatest passions\, architecture and 
+ automobiles\, Driven explores Ahearn’s lifelong pursuit of the extraordi
+ nary through bespoke carriage houses that distinguish many of his legacy p
+ roperties and classic cars that have influenced his design purview.\n\nThr
+ ough more than a dozen signature projects\, Ahearn reveals carriage houses
+  that function as elegant entertaining spaces\, guest retreats\, anglers�
+ � lounges\, collector’s galleries\, and more. Cars of significance are w
+ oven within the narrative and photographed against the backdrop of Ahearn�
+ ��s homes\, creating a compelling dialogue between forms of excellence.\n\
+ nFeaturing captivating photography and personal narrative\, Driven is both
+  a celebration of historically inspired architecture and a reflection on A
+ hearn’s remarkable design journey. Members will hear firsthand about the
+  experiences\, influences\, automobiles\, and philosophy that have shaped 
+ his career and fueled his enduring pursuit of iconic design\n\n*This event
+  is complimentary and reserved for members only. Complimentary light bites
+  and refreshments will be served. We kindly ask that all cancellations be 
+ made at least 24 hours prior to the start of the event.
+URL:https://members.thequinhouse.com/events/200335
+CATEGORIES:The Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-200523@thequinhouse.com
+DTSTAMP:20260921T180000Z
+DTSTART;TZID=America/New_York:20260921T180000
+DTEND;TZID=America/New_York:20260921T200000
+SUMMARY:Board Game Night 
+LOCATION:The Living Room
+DESCRIPTION:Category: Sports & Games\nPrice: Free\nAvailability: 36 spots l
+ eft\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events
+ /200523\n\nBring your sharpest wit\, channel your competitive charm\, and 
+ roll the dice for an evening of strategy\, luck\, and a touch of mischief.
+  Hosted in The Living Room\, pick from one of our timeless classics or mod
+ ern marvels and let the games begin!\n\n*This event is complimentary and r
+ eserved for members\, plus one registered guest.  Food and cocktails from
+  The Living Room menu will be available for purchase. We kindly ask that 
+ all cancellations be made at least 24 hours prior to the start of the even
+ t.
+URL:https://members.thequinhouse.com/events/200523
+CATEGORIES:Sports & Games
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-200524@thequinhouse.com
+DTSTAMP:20260921T180000Z
+DTSTART;TZID=America/New_York:20260921T180000
+DTEND;TZID=America/New_York:20260921T210000
+SUMMARY:Community Table
+LOCATION:Café Q
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 12 spots lef
+ t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/2
+ 00524\n\nStart your week in good company with the Café Q Community dinner
+  table for members-only. Set aside for those looking to expand their socia
+ l circle over a shared meal\, this gathering is all about good food\, live
+ ly conversation\, and meaningful connections. Pull up a chair\, and savor 
+ the experience—because nothing brings people together quite like a great
+  meal.\n\n*This event is reserved for members only. An advance charge of $
+ 24 per member contributes to communal appetizers available upon seating. M
+ embers are responsible for à la carte entrées\, desserts\, and beverages
+ \, plus taxes and fees. Cancellations made within 24 hours of the event\, 
+ or failure to attend will be subject to the Café Q's surcharge policy.
+URL:https://members.thequinhouse.com/events/200524
+CATEGORIES:Member Mixer
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-200522@thequinhouse.com
+DTSTAMP:20260922T170000Z
+DTSTART;TZID=America/New_York:20260922T170000
+DTEND;TZID=America/New_York:20260922T183000
+SUMMARY:Member Mingle
+LOCATION:The Living Room
+DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
+ e\nAvailability: 39 spots left\nStatus: Available\nEvent URL: https://memb
+ ers.thequinhouse.com/events/200522\n\nJoin us for our weekly Member Mingle
+ \, an inclusive gathering set in an ambiant reserved space. This is your o
+ pportunity to connect with fellow members\, exchange ideas\, and cultivate
+  meaningful relationships.\n\nWhether you're sparking new collaborations\,
+  sharing insights\, or simply enjoying great conversation\, the Member Min
+ gle is the perfect way to engage with our dynamic community. Don’t miss 
+ the chance to connect\, inspire\, and be inspired!\n\n*This event is compl
+ imentary and reserved for members only. Complimentary light bites will be 
+ served\, and beverages will be available for purchase. We kindly ask that
+  all cancellations be made at least 24 hours prior to the start of the eve
+ nt.
+URL:https://members.thequinhouse.com/events/200522
+CATEGORIES:Member Mixer,Survey - Membership Mingle
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-195306@thequinhouse.com
