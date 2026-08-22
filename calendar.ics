@@ -144,19 +144,18 @@ DTSTART;TZID=America/New_York:20260824T183000
 DTEND;TZID=America/New_York:20260824T210000
 SUMMARY:Serendipity Dinner
 LOCATION:The Muse
-DESCRIPTION:Category: Member Mixer\nPrice: $100.00 per person\nAvailability
- : 6 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
- .com/events/196059\n\nJoin The ‘Quin House Director of Membership\, Lisa
-  Flores\, for an evening of meaningful connections over a thoughtfully cur
- ated three-course dinner. Enjoy expertly paired wines as you engage with f
- ellow members\, guided by conversation prompts designed to inspire deeper\
- , more memorable exchanges. This unique experience offers the perfect blen
- d of great company\, engaging dialogue\, and a menu crafted to delight the
-  senses.\n\n*Tickets are $100 per person\, plus tax\, and are reserved for
-  members only. Cancellations within 72 hours of the event\, or failure to 
- attend\, will be charged in full. Please inform us of any dietary needs or
-  restrictions by emailing happening@thequin.com at least 72 hours before d
- inner service.
+DESCRIPTION:Category: Member Mixer\nPrice: $100.00 per person\nStatus: Wait
+ list Only\nEvent URL: https://members.thequinhouse.com/events/196059\n\nJo
+ in The ‘Quin House Director of Membership\, Lisa Flores\, for an evening
+  of meaningful connections over a thoughtfully curated three-course dinner
+ . Enjoy expertly paired wines as you engage with fellow members\, guided b
+ y conversation prompts designed to inspire deeper\, more memorable exchang
+ es. This unique experience offers the perfect blend of great company\, eng
+ aging dialogue\, and a menu crafted to delight the senses.\n\n*Tickets are
+  $100 per person\, plus tax\, and are reserved for members only. Cancellat
+ ions within 72 hours of the event\, or failure to attend\, will be charged
+  in full. Please inform us of any dietary needs or restrictions by emailin
+ g happening@thequin.com at least 72 hours before dinner service.
 URL:https://members.thequinhouse.com/events/196059
 CATEGORIES:Member Mixer
 END:VEVENT
@@ -207,7 +206,7 @@ DTSTART;TZID=America/New_York:20260825T170000
 DTEND;TZID=America/New_York:20260825T180000
 SUMMARY:Member Mingle
 LOCATION:Lunasol
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 6 spots left
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 5 spots left
  \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/19
  6063\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set 
  in the ambiant reserved space of Lunasol. This is your opportunity to con
@@ -247,20 +246,20 @@ DTSTART;TZID=America/New_York:20260827T173000
 DTEND;TZID=America/New_York:20260827T193000
 SUMMARY:Member Mixer: Common Ground
 LOCATION:Scottie's
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nStatus: Waitlist Only\nEve
- nt URL: https://members.thequinhouse.com/events/198000\n\nMeaningful conve
- rsations begin with a single question.\n\nGather with fellow members for a
- n evening of engaging conversation inspired by a thoughtfully curated seri
- es of prompts designed to spark laughter\, curiosity\, and unexpected conn
- ections.\n\nThroughout the evening\, members will rotate among tables\, ex
- change stories\, explore new perspectives\, and discover common ground wit
- h members you may not have met before. Each conversation offers a fresh op
- portunity to connect\, leaving you with new acquaintances\, memorable insi
- ghts\, and the kind of dialogue that lingers long after the evening comes 
- to a close.\n\n*This event is complimentary and reserved for members only.
-  Complimentary light bites will be served with beverage available to purch
- ase. We kindly ask that all cancellations be made at least 24 hours prior
-  to the start of the event.
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 1 spot left\
+ nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/198
+ 000\n\nMeaningful conversations begin with a single question.\n\nGather wi
+ th fellow members for an evening of engaging conversation inspired by a th
+ oughtfully curated series of prompts designed to spark laughter\, curiosit
+ y\, and unexpected connections.\n\nThroughout the evening\, members will r
+ otate among tables\, exchange stories\, explore new perspectives\, and dis
+ cover common ground with members you may not have met before. Each convers
+ ation offers a fresh opportunity to connect\, leaving you with new acquain
+ tances\, memorable insights\, and the kind of dialogue that lingers long a
+ fter the evening comes to a close.\n\n*This event is complimentary and res
+ erved for members only. Complimentary light bites will be served with beve
+ rage available to purchase. We kindly ask that all cancellations be made 
+ at least 24 hours prior to the start of the event.
 URL:https://members.thequinhouse.com/events/198000
 CATEGORIES:Member Mixer
 END:VEVENT
@@ -271,22 +270,22 @@ DTSTART;TZID=America/New_York:20260827T183000
 DTEND;TZID=America/New_York:20260827T203000
 SUMMARY:Private Screening: "Tony" 
 LOCATION:Offsite: Boston Common Theater
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 45 spots left\nS
- tatus: Available\nEvent URL: https://members.thequinhouse.com/events/19985
- 6\n\n6:30PM Doors Open\, 7:00PM Screening \nJoin us for a ‘Quin-exclusi
- ve private screening of Tony\, the story of 19-year-old Anthony Bourdain w
- ho travels to Provincetown and stumbles into the chaotic\, intoxicating wo
- rld of a restaurant kitchen\, setting off a summer that will shape the cou
- rse of his life.\n\nThrown into a world of colorful characters\, late nigh
- ts\, hard work\, and reckless camaraderie\, Tony begins to discover a sens
- e of purpose and belonging he never expected. What starts as a summer job 
- becomes a formative coming-of-age experience\, awakening his fascination w
- ith food\, kitchen culture\, and the people who inhabit it—and laying th
- e foundation for the chef\, writer\, and storyteller he would eventually b
- ecome.\n\n*This event is complimentary and reserved for members\, plus one
-  registered guest. Food and beverage will be available for purchase at nea
- rby concessions. We kindly ask that all cancellations be made at least 24 
- hours prior to the start of the event.
+DESCRIPTION:Category: The Arts\nPrice: Free / Included\nStatus: Waitlist On
+ ly\nEvent URL: https://members.thequinhouse.com/events/199856\n\n6:30PM Do
+ ors Open\, 7:00PM Screening \nJoin us for a ‘Quin-exclusive private scr
+ eening of Tony\, the story of 19-year-old Anthony Bourdain who travels to 
+ Provincetown and stumbles into the chaotic\, intoxicating world of a resta
+ urant kitchen\, setting off a summer that will shape the course of his lif
+ e.\n\nThrown into a world of colorful characters\, late nights\, hard work
+ \, and reckless camaraderie\, Tony begins to discover a sense of purpose a
+ nd belonging he never expected. What starts as a summer job becomes a form
+ ative coming-of-age experience\, awakening his fascination with food\, kit
+ chen culture\, and the people who inhabit it—and laying the foundation f
+ or the chef\, writer\, and storyteller he would eventually become.\n\n*Thi
+ s event is complimentary and reserved for members\, plus one registered gu
+ est. Food and beverage will be available for purchase at nearby concession
+ s. We kindly ask that all cancellations be made at least 24 hours prior to
+  the start of the event.
 URL:https://members.thequinhouse.com/events/199856
 CATEGORIES:The Arts
 END:VEVENT
@@ -337,7 +336,7 @@ DTSTART;TZID=America/New_York:20260901T170000
 DTEND;TZID=America/New_York:20260901T180000
 SUMMARY:Member Mingle
 LOCATION:Lunasol
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 17 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 15 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  98803\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set
   in the ambiant reserved space of Lunasol. This is your opportunity to co
@@ -392,7 +391,7 @@ DTEND;TZID=America/New_York:20260908T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 40 spots left\nStatus: Available\nEvent URL: https://memb
+ e\nAvailability: 38 spots left\nStatus: Available\nEvent URL: https://memb
  ers.thequinhouse.com/events/200520\n\nJoin us for our weekly Member Mingle
  \, an inclusive gathering set in an ambiant reserved space. This is your o
  pportunity to connect with fellow members\, exchange ideas\, and cultivate
@@ -484,24 +483,25 @@ DTSTART;TZID=America/New_York:20260910T180000
 DTEND;TZID=America/New_York:20260910T193000
 SUMMARY:'Quin Chat: The Art of Coexistence
 LOCATION:The Reading Room
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nStatus: You are on Waitlis
- t\nEvent URL: https://members.thequinhouse.com/events/199491\n\n6:00PM Rec
- eption\, 6:30PM Discussion\nWhat does it mean for humans and wildlife to 
- thrive together in an increasingly interconnected world? Coinciding with t
- he arrival of The Great Elephant Migration in Boston\, this 'Quin Chat b
- rings together visionary voices at the forefront of conservation\, researc
- h\, and environmental storytelling for an evening of compelling conversati
- on.\n\nModerated by 'Quin Co-Founder and philanthropist\, Sandy Edgerley\,
-  together with Founder of The Great Elephant Migration\, Ruth Ganesh and l
- eading scholar of human-wildlife coexistence\, Dr. Tarsh Thekaekara\, the 
- discussion will explore the ideas driving one of the world's most ambitiou
- s conservation initiatives.\n\nFrom restoring critical habitats and protec
- ting biodiversity to reimagining the relationship between people and the n
- atural world\, look forward to a conversation that examines how innovation
- \, collaboration\, and community are reshaping the future of conservation.
- \n\n*This event is complimentary and reserved for members only. Complimen
- tary light bites and refreshments will be served. We kindly ask that all 
- cancellations be made at least 24 hours prior to the start of the event.
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free / Included\nStatus: You are
+  on Waitlist\nEvent URL: https://members.thequinhouse.com/events/199491\n\
+ n6:00PM Reception\, 6:30PM Discussion\nWhat does it mean for humans and w
+ ildlife to thrive together in an increasingly interconnected world? Coinci
+ ding with the arrival of The Great Elephant Migration in Boston\, this '
+ Quin Chat brings together visionary voices at the forefront of conservatio
+ n\, research\, and environmental storytelling for an evening of compelling
+  conversation.\n\nModerated by 'Quin Co-Founder and philanthropist\, Sandy
+  Edgerley\, together with Founder of The Great Elephant Migration\, Ruth G
+ anesh and leading scholar of human-wildlife coexistence\, Dr. Tarsh Thekae
+ kara\, the discussion will explore the ideas driving one of the world's mo
+ st ambitious conservation initiatives.\n\nFrom restoring critical habitats
+  and protecting biodiversity to reimagining the relationship between peopl
+ e and the natural world\, look forward to a conversation that examines how
+  innovation\, collaboration\, and community are reshaping the future of co
+ nservation.\n\n*This event is complimentary and reserved for members only
+ . Complimentary light bites and refreshments will be served. We kindly as
+ k that all cancellations be made at least 24 hours prior to the start of t
+ he event.
 URL:https://members.thequinhouse.com/events/199491
 CATEGORIES:‘Quin Chat
 END:VEVENT
@@ -544,7 +544,7 @@ DTEND;TZID=America/New_York:20260914T210000
 SUMMARY:Serendipity Dinner 
 LOCATION:The Muse
 DESCRIPTION:Category: Member Mixer\nPrice: $100.00 per person\nAvailability
- : 14 spots left\nStatus: Available\nEvent URL: https://members.thequinhous
+ : 13 spots left\nStatus: Available\nEvent URL: https://members.thequinhous
  e.com/events/176001\n\nJoin The ‘Quin House Managing Director\, Matthias
   Kiehm\, for an evening of meaningful connections over a thoughtfully cura
  ted three-course dinner. Enjoy expertly paired wines as you engage with fe
@@ -566,7 +566,7 @@ DTEND;TZID=America/New_York:20260915T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 40 spots left\nStatus: Available\nEvent URL: https://memb
+ e\nAvailability: 35 spots left\nStatus: Available\nEvent URL: https://memb
  ers.thequinhouse.com/events/200521\n\nJoin us for our weekly Member Mingle
  \, an inclusive gathering set in an ambiant reserved space. This is your o
  pportunity to connect with fellow members\, exchange ideas\, and cultivate
@@ -650,7 +650,7 @@ DTSTART;TZID=America/New_York:20260921T180000
 DTEND;TZID=America/New_York:20260921T200000
 SUMMARY:Board Game Night 
 LOCATION:The Living Room
-DESCRIPTION:Category: Sports & Games\nPrice: Free\nAvailability: 36 spots l
+DESCRIPTION:Category: Sports & Games\nPrice: Free\nAvailability: 24 spots l
  eft\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events
  /200523\n\nBring your sharpest wit\, channel your competitive charm\, and 
  roll the dice for an evening of strategy\, luck\, and a touch of mischief.
@@ -670,7 +670,7 @@ DTSTART;TZID=America/New_York:20260921T180000
 DTEND;TZID=America/New_York:20260921T210000
 SUMMARY:Community Table
 LOCATION:Café Q
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 12 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 10 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/2
  00524\n\nStart your week in good company with the Café Q Community dinner
   table for members-only. Set aside for those looking to expand their socia
@@ -693,7 +693,7 @@ DTEND;TZID=America/New_York:20260922T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 39 spots left\nStatus: Available\nEvent URL: https://memb
+ e\nAvailability: 36 spots left\nStatus: Available\nEvent URL: https://memb
  ers.thequinhouse.com/events/200522\n\nJoin us for our weekly Member Mingle
  \, an inclusive gathering set in an ambiant reserved space. This is your o
  pportunity to connect with fellow members\, exchange ideas\, and cultivate
