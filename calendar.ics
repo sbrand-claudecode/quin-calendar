@@ -45,68 +45,6 @@ URL:https://members.thequinhouse.com/events/196895
 CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
-UID:quin-event-198805@thequinhouse.com
-DTSTAMP:20260822T100000Z
-DTSTART;TZID=America/New_York:20260822T100000
-DTEND;TZID=America/New_York:20260822T111500
-SUMMARY:Kid's Clubhouse: Make Way for Elephants | Session I
-LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free / Included\nStatus: Waitlist On
- ly\nEvent URL: https://members.thequinhouse.com/events/198805\n\nCelebrate
-  the arrival of The Great Elephant Migration in Boston with a hands-on fam
- ily crafting experience inspired by one of the world's most meaningful pub
- lic art initiatives.\n\nLed by children's book author Wendy Rouillard of B
- arnaby's Books & Toys\, young creators will build their own elephant habit
- ats using a variety of nature-inspired materials. Each session begins with
-  a brief introduction to the story behind The Great Elephant Migration\,in
- troducing children to the importance of wildlife conservation and the ways
-  humans and animals can coexist.\n\nAfter crafting\, continue the adventur
- e with brunch at Café Q\, where families can enjoy Journey to Kerala - a 
- refreshing\, kid-friendly mocktail inspired by the elephants' homeland\, f
- eaturing coconut water\, mango\, ginger\, lime\, curry leaves\, and sparkl
- ing club soda.\n\n*This event is complimentary and reserved for members\, 
- plus their children aged 6+. Children may remain in the 'House\, attended 
- by a parent until 4:00PM. Please ensure you select the correct number of c
- hildren's tickets when registering\, so we may account for supplies. Adult
- s do not require registration. If you have a larger family (3+ kids) pleas
- e email happening@thequin.com should you need an additional seat. As we an
- ticipate a waitlist\, please be mindful of other families by making any ne
- cessary cancellations at least 48-hours in advance.
-URL:https://members.thequinhouse.com/events/198805
-CATEGORIES:The Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:quin-event-198806@thequinhouse.com
-DTSTAMP:20260822T124500Z
-DTSTART;TZID=America/New_York:20260822T124500
-DTEND;TZID=America/New_York:20260822T140000
-SUMMARY:Kid's Clubhouse: Make Way for Elephants | Session II
-LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free / Included\nStatus: Waitlist On
- ly\nEvent URL: https://members.thequinhouse.com/events/198806\n\nCelebrate
-  the arrival of The Great Elephant Migration in Boston with a hands-on fam
- ily crafting experience inspired by one of the world's most meaningful pub
- lic art initiatives.\n\nLed by children's book author Wendy Rouillard of B
- arnaby's Books & Toys\, young creators will build their own elephant habit
- ats using a variety of nature-inspired materials. Each session begins with
-  a brief introduction to the story behind The Great Elephant Migration\,in
- troducing children to the importance of wildlife conservation and the ways
-  humans and animals can coexist.\n\nAfter crafting\, continue the adventur
- e with brunch at Café Q\, where families can enjoy Journey to Kerala - a 
- refreshing\, kid-friendly mocktail inspired by the elephants' homeland\, f
- eaturing coconut water\, mango\, ginger\, lime\, curry leaves\, and sparkl
- ing club soda.\n\n*This event is complimentary and reserved for members\, 
- plus their children aged 6+. Children may remain in the 'House\, attended 
- by a parent until 4:00PM. Please ensure you select the correct number of c
- hildren's tickets when registering\, so we may account for supplies. Adult
- s do not require registration. If you have a larger family (3+ kids) pleas
- e email happening@thequin.com should you need an additional seat. As we an
- ticipate a waitlist\, please be mindful of other families by making any ne
- cessary cancellations at least 48-hours in advance.
-URL:https://members.thequinhouse.com/events/198806
-CATEGORIES:The Arts
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-198914@thequinhouse.com
 DTSTAMP:20260822T143000Z
 DTSTART;TZID=America/New_York:20260822T143000
@@ -144,18 +82,18 @@ DTSTART;TZID=America/New_York:20260824T183000
 DTEND;TZID=America/New_York:20260824T210000
 SUMMARY:Serendipity Dinner
 LOCATION:The Muse
-DESCRIPTION:Category: Member Mixer\nPrice: $100.00 per person\nStatus: Wait
- list Only\nEvent URL: https://members.thequinhouse.com/events/196059\n\nJo
- in The ‘Quin House Director of Membership\, Lisa Flores\, for an evening
-  of meaningful connections over a thoughtfully curated three-course dinner
- . Enjoy expertly paired wines as you engage with fellow members\, guided b
- y conversation prompts designed to inspire deeper\, more memorable exchang
- es. This unique experience offers the perfect blend of great company\, eng
- aging dialogue\, and a menu crafted to delight the senses.\n\n*Tickets are
-  $100 per person\, plus tax\, and are reserved for members only. Cancellat
- ions within 72 hours of the event\, or failure to attend\, will be charged
-  in full. Please inform us of any dietary needs or restrictions by emailin
- g happening@thequin.com at least 72 hours before dinner service.
+DESCRIPTION:Category: Member Mixer\nPrice: Free / Included\nStatus: Waitlis
+ t Only\nEvent URL: https://members.thequinhouse.com/events/196059\n\nJoin 
+ The ‘Quin House Director of Membership\, Lisa Flores\, for an evening of
+  meaningful connections over a thoughtfully curated three-course dinner. E
+ njoy expertly paired wines as you engage with fellow members\, guided by c
+ onversation prompts designed to inspire deeper\, more memorable exchanges.
+  This unique experience offers the perfect blend of great company\, engagi
+ ng dialogue\, and a menu crafted to delight the senses.\n\n*Tickets are $1
+ 00 per person\, plus tax\, and are reserved for members only. Cancellation
+ s within 72 hours of the event\, or failure to attend\, will be charged in
+  full. Please inform us of any dietary needs or restrictions by emailing h
+ appening@thequin.com at least 72 hours before dinner service.
 URL:https://members.thequinhouse.com/events/196059
 CATEGORIES:Member Mixer
 END:VEVENT
@@ -206,7 +144,7 @@ DTSTART;TZID=America/New_York:20260825T170000
 DTEND;TZID=America/New_York:20260825T180000
 SUMMARY:Member Mingle
 LOCATION:Lunasol
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 5 spots left
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 4 spots left
  \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/19
  6063\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set 
  in the ambiant reserved space of Lunasol. This is your opportunity to con
@@ -246,20 +184,20 @@ DTSTART;TZID=America/New_York:20260827T173000
 DTEND;TZID=America/New_York:20260827T193000
 SUMMARY:Member Mixer: Common Ground
 LOCATION:Scottie's
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 1 spot left\
- nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/198
- 000\n\nMeaningful conversations begin with a single question.\n\nGather wi
- th fellow members for an evening of engaging conversation inspired by a th
- oughtfully curated series of prompts designed to spark laughter\, curiosit
- y\, and unexpected connections.\n\nThroughout the evening\, members will r
- otate among tables\, exchange stories\, explore new perspectives\, and dis
- cover common ground with members you may not have met before. Each convers
- ation offers a fresh opportunity to connect\, leaving you with new acquain
- tances\, memorable insights\, and the kind of dialogue that lingers long a
- fter the evening comes to a close.\n\n*This event is complimentary and res
- erved for members only. Complimentary light bites will be served with beve
- rage available to purchase. We kindly ask that all cancellations be made 
- at least 24 hours prior to the start of the event.
+DESCRIPTION:Category: Member Mixer\nPrice: Free / Included\nStatus: unlimit
+ ed\nEvent URL: https://members.thequinhouse.com/events/198000\n\nMeaningfu
+ l conversations begin with a single question.\n\nGather with fellow member
+ s for an evening of engaging conversation inspired by a thoughtfully curat
+ ed series of prompts designed to spark laughter\, curiosity\, and unexpect
+ ed connections.\n\nThroughout the evening\, members will rotate among tabl
+ es\, exchange stories\, explore new perspectives\, and discover common gro
+ und with members you may not have met before. Each conversation offers a f
+ resh opportunity to connect\, leaving you with new acquaintances\, memorab
+ le insights\, and the kind of dialogue that lingers long after the evening
+  comes to a close.\n\n*This event is complimentary and reserved for member
+ s only. Complimentary light bites will be served with beverage available t
+ o purchase. We kindly ask that all cancellations be made at least 24 hour
+ s prior to the start of the event.
 URL:https://members.thequinhouse.com/events/198000
 CATEGORIES:Member Mixer
 END:VEVENT
@@ -650,7 +588,7 @@ DTSTART;TZID=America/New_York:20260921T180000
 DTEND;TZID=America/New_York:20260921T200000
 SUMMARY:Board Game Night 
 LOCATION:The Living Room
-DESCRIPTION:Category: Sports & Games\nPrice: Free\nAvailability: 23 spots l
+DESCRIPTION:Category: Sports & Games\nPrice: Free\nAvailability: 19 spots l
  eft\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events
  /200523\n\nBring your sharpest wit\, channel your competitive charm\, and 
  roll the dice for an evening of strategy\, luck\, and a touch of mischief.
