@@ -45,28 +45,6 @@ URL:https://members.thequinhouse.com/events/196895
 CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
-UID:quin-event-196059@thequinhouse.com
-DTSTAMP:20260824T183000Z
-DTSTART;TZID=America/New_York:20260824T183000
-DTEND;TZID=America/New_York:20260824T210000
-SUMMARY:Serendipity Dinner
-LOCATION:The Muse
-DESCRIPTION:Category: Member Mixer\nPrice: Free / Included\nStatus: Waitlis
- t Only\nEvent URL: https://members.thequinhouse.com/events/196059\n\nJoin 
- The ‘Quin House Director of Membership\, Lisa Flores\, for an evening of
-  meaningful connections over a thoughtfully curated three-course dinner. E
- njoy expertly paired wines as you engage with fellow members\, guided by c
- onversation prompts designed to inspire deeper\, more memorable exchanges.
-  This unique experience offers the perfect blend of great company\, engagi
- ng dialogue\, and a menu crafted to delight the senses.\n\n*Tickets are $1
- 00 per person\, plus tax\, and are reserved for members only. Cancellation
- s within 72 hours of the event\, or failure to attend\, will be charged in
-  full. Please inform us of any dietary needs or restrictions by emailing h
- appening@thequin.com at least 72 hours before dinner service.
-URL:https://members.thequinhouse.com/events/196059
-CATEGORIES:Member Mixer
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-198251@thequinhouse.com
 DTSTAMP:20260825T150000Z
 DTSTART;TZID=America/New_York:20260825T150000
@@ -298,7 +276,7 @@ DTEND;TZID=America/New_York:20260908T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 34 spots left\nStatus: Available\nEvent URL: https://memb
+ e\nAvailability: 33 spots left\nStatus: Available\nEvent URL: https://memb
  ers.thequinhouse.com/events/200520\n\nJoin us for our weekly Member Mingle
  \, an inclusive gathering set in an ambiant reserved space. This is your o
  pportunity to connect with fellow members\, exchange ideas\, and cultivate
@@ -524,28 +502,28 @@ DTSTART;TZID=America/New_York:20260917T170000
 DTEND;TZID=America/New_York:20260917T183000
 SUMMARY:Author Talk: "Driven" With Architect Patrick Ahearn 
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 5 spots left\nSt
- atus: Available\nEvent URL: https://members.thequinhouse.com/events/200335
- \n\n5:00PM Reception\, 5:30PM Discussion\nJoin award-winning classical arc
- hitect and impassioned car collector Patrick Ahearn for an exclusive pre-l
- aunch discussion of his forthcoming book\, Driven: The Road to Iconic Desi
- gn. At the intersection of his two greatest passions\, architecture and au
- tomobiles\, Driven explores Ahearn’s lifelong pursuit of the extraordina
- ry through bespoke carriage houses that distinguish many of his legacy pro
- perties and classic cars that have influenced his design purview.\n\nThrou
- gh more than a dozen signature projects\, Ahearn reveals carriage houses t
- hat function as elegant entertaining spaces\, guest retreats\, anglers’ 
- lounges\, collector’s galleries\, and more. Cars of significance are wov
- en within the narrative and photographed against the backdrop of Ahearn’
- s homes\, creating a compelling dialogue between forms of excellence.\n\nF
- eaturing captivating photography and personal narrative\, Driven is both a
-  celebration of historically inspired architecture and a reflection on Ahe
- arn’s remarkable design journey. Members will hear firsthand about the e
- xperiences\, influences\, automobiles\, and philosophy that have shaped hi
- s career and fueled his enduring pursuit of iconic design\n\n*This event i
- s complimentary and reserved for members only. Complimentary light bites a
- nd refreshments will be served. We kindly ask that all cancellations be ma
- de at least 24 hours prior to the start of the event.
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 1 spot left\nSta
+ tus: Available\nEvent URL: https://members.thequinhouse.com/events/200335\
+ n\n5:00PM Reception\, 5:30PM Discussion\nJoin award-winning classical arch
+ itect and impassioned car collector Patrick Ahearn for an exclusive pre-la
+ unch discussion of his forthcoming book\, Driven: The Road to Iconic Desig
+ n. At the intersection of his two greatest passions\, architecture and aut
+ omobiles\, Driven explores Ahearn’s lifelong pursuit of the extraordinar
+ y through bespoke carriage houses that distinguish many of his legacy prop
+ erties and classic cars that have influenced his design purview.\n\nThroug
+ h more than a dozen signature projects\, Ahearn reveals carriage houses th
+ at function as elegant entertaining spaces\, guest retreats\, anglers’ l
+ ounges\, collector’s galleries\, and more. Cars of significance are wove
+ n within the narrative and photographed against the backdrop of Ahearn’s
+  homes\, creating a compelling dialogue between forms of excellence.\n\nFe
+ aturing captivating photography and personal narrative\, Driven is both a 
+ celebration of historically inspired architecture and a reflection on Ahea
+ rn’s remarkable design journey. Members will hear firsthand about the ex
+ periences\, influences\, automobiles\, and philosophy that have shaped his
+  career and fueled his enduring pursuit of iconic design\n\n*This event is
+  complimentary and reserved for members only. Complimentary light bites an
+ d refreshments will be served. We kindly ask that all cancellations be mad
+ e at least 24 hours prior to the start of the event.
 URL:https://members.thequinhouse.com/events/200335
 CATEGORIES:The Arts
 END:VEVENT
