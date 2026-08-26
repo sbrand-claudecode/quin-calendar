@@ -45,68 +45,6 @@ URL:https://members.thequinhouse.com/events/196895
 CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
-UID:quin-event-198251@thequinhouse.com
-DTSTAMP:20260825T150000Z
-DTSTART;TZID=America/New_York:20260825T150000
-DTEND;TZID=America/New_York:20260825T154500
-SUMMARY:Art Tour: The Great Elephant Migration
-LOCATION:Meet in The Lobby
-DESCRIPTION:Category: The Arts\nPrice: Free / Included\nStatus: Waitlist On
- ly\nEvent URL: https://members.thequinhouse.com/events/198251\n\nJoin The 
- 'Quin's art collection curator\, Kate Chertavian\, for a guided walking t
- our of The Great Elephant Migration along the historic Commonwealth Avenu
- e Mall. Explore the stories behind the life-size elephant sculptures while
-  discovering the artists\, the project's global conservation mission\, and
-  the collaborative effort that brought this extraordinary public art insta
- llation to Boston.\n\n*This event is complimentary and reserved for member
- s\, plus one registered guest. We kindly ask that all cancellations be ma
- de at least 24 hours prior to the start of the event.
-URL:https://members.thequinhouse.com/events/198251
-CATEGORIES:The Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:quin-event-198252@thequinhouse.com
-DTSTAMP:20260825T160000Z
-DTSTART;TZID=America/New_York:20260825T160000
-DTEND;TZID=America/New_York:20260825T164500
-SUMMARY:Art Tour: The Great Elephant Migration
-LOCATION:Meet in The Lobby
-DESCRIPTION:Category: The Arts\nPrice: Free / Included\nStatus: Waitlist On
- ly\nEvent URL: https://members.thequinhouse.com/events/198252\n\nJoin The 
- 'Quin's art collection curator\, Kate Chertavian\, for a guided walking t
- our of The Great Elephant Migration along the historic Commonwealth Aven
- ue Mall. Explore the stories behind the life-size elephant sculptures whil
- e discovering the artists\, the project's global conservation mission\, an
- d the collaborative effort that brought this extraordinary public art inst
- allation to Boston.\n\n*This event is complimentary and reserved for membe
- rs\, plus one registered guest. We kindly ask that all cancellations be m
- ade at least 24 hours prior to the start of the event.
-URL:https://members.thequinhouse.com/events/198252
-CATEGORIES:The Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:quin-event-196063@thequinhouse.com
-DTSTAMP:20260825T170000Z
-DTSTART;TZID=America/New_York:20260825T170000
-DTEND;TZID=America/New_York:20260825T180000
-SUMMARY:Member Mingle
-LOCATION:Lunasol
-DESCRIPTION:Category: Member Mixer\nPrice: Free / Included\nStatus: unlimit
- ed\nEvent URL: https://members.thequinhouse.com/events/196063\n\nJoin us f
- or our weekly Member Mingle\, an inclusive gathering set in the ambiant r
- eserved space of Lunasol. This is your opportunity to connect with fellow 
- members\, exchange ideas\, and cultivate meaningful relationships.\n\nWhet
- her you're sparking new collaborations\, sharing insights\, or simply enjo
- ying great conversation\, the Member Mingle is the perfect way to engage w
- ith our dynamic community. Don’t miss the chance to connect\, inspire\, 
- and be inspired.\n\n*This event is complimentary and reserved for members 
- only. Complimentary light bites will be served\, and beverages will be ava
- ilable for purchase. We kindly ask that all cancellations be made at leas
- t 24 hours prior to the start of the event.
-URL:https://members.thequinhouse.com/events/196063
-CATEGORIES:Member Mixer
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-176374@thequinhouse.com
 DTSTAMP:20260826T180000Z
 DTSTART;TZID=America/New_York:20260826T180000
@@ -276,7 +214,7 @@ DTEND;TZID=America/New_York:20260908T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 33 spots left\nStatus: Available\nEvent URL: https://memb
+ e\nAvailability: 32 spots left\nStatus: Available\nEvent URL: https://memb
  ers.thequinhouse.com/events/200520\n\nJoin us for our weekly Member Mingle
  \, an inclusive gathering set in an ambiant reserved space. This is your o
  pportunity to connect with fellow members\, exchange ideas\, and cultivate
