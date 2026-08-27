@@ -74,7 +74,7 @@ DTSTAMP:20260827T183000Z
 DTSTART;TZID=America/New_York:20260827T183000
 DTEND;TZID=America/New_York:20260827T203000
 SUMMARY:Private Screening: "Tony" 
-LOCATION:Offsite: Boston Common Theater
+LOCATION:Offsite: AMC Boston Common Theater
 DESCRIPTION:Category: The Arts\nPrice: Free / Included\nStatus: Waitlist On
  ly\nEvent URL: https://members.thequinhouse.com/events/199856\n\n6:30PM Do
  ors Open\, 7:00PM Screening \nJoin us for a ‘Quin-exclusive private scr
@@ -473,7 +473,7 @@ DTSTART;TZID=America/New_York:20260921T180000
 DTEND;TZID=America/New_York:20260921T210000
 SUMMARY:Community Table
 LOCATION:Café Q
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 7 spots left
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 5 spots left
  \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/20
  0524\n\nStart your week in good company with the Café Q Community dinner 
  table for members-only. Set aside for those looking to expand their social
