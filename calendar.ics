@@ -45,46 +45,6 @@ URL:https://members.thequinhouse.com/events/196895
 CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
-UID:quin-event-198254@thequinhouse.com
-DTSTAMP:20260828T110000Z
-DTSTART;TZID=America/New_York:20260828T110000
-DTEND;TZID=America/New_York:20260828T114500
-SUMMARY:Art Tour: The Great Elephant Migration
-LOCATION:Meet in The Lobby
-DESCRIPTION:Category: The Arts\nPrice: Free / Included\nStatus: Waitlist On
- ly\nEvent URL: https://members.thequinhouse.com/events/198254\n\nJoin The 
- 'Quin's art collection curator\, Kate Chertavian\, for a guided walking t
- our of The Great Elephant Migration along the historic Commonwealth Avenu
- e Mall. Explore the stories behind the life-size elephant sculptures while
-  discovering the artists\, the project's global conservation mission\, and
-  the collaborative effort that brought this extraordinary public art insta
- llation to Boston.\n\n*This event is complimentary and reserved for member
- s\, plus one registered guest. We kindly ask that all cancellations be ma
- de at least 24 hours prior to the start of the event.
-URL:https://members.thequinhouse.com/events/198254
-CATEGORIES:The Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:quin-event-198255@thequinhouse.com
-DTSTAMP:20260828T120000Z
-DTSTART;TZID=America/New_York:20260828T120000
-DTEND;TZID=America/New_York:20260828T124500
-SUMMARY:Art Tour: The Great Elephant Migration
-LOCATION:Meet in The Lobby
-DESCRIPTION:Category: The Arts\nPrice: Free / Included\nStatus: Waitlist On
- ly\nEvent URL: https://members.thequinhouse.com/events/198255\n\nJoin The 
- 'Quin's art collection curator\, Kate Chertavian\, for a guided walking to
- ur of The Great Elephant Migration along the historic Commonwealth Avenu
- e Mall. Explore the stories behind the life-size elephant sculptures while
-  discovering the artists\, the project's global conservation mission\, and
-  the collaborative effort that brought this extraordinary public art insta
- llation to Boston.\n\n*This event is complimentary and reserved for member
- s\, plus one registered guest. We kindly ask that all cancellations be ma
- de at least 24 hours prior to the start of the event.
-URL:https://members.thequinhouse.com/events/198255
-CATEGORIES:The Arts
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-198803@thequinhouse.com
 DTSTAMP:20260901T170000Z
 DTSTART;TZID=America/New_York:20260901T170000
@@ -146,7 +106,7 @@ DTEND;TZID=America/New_York:20260908T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 27 spots left\nStatus: Available\nEvent URL: https://memb
+ e\nAvailability: 26 spots left\nStatus: Available\nEvent URL: https://memb
  ers.thequinhouse.com/events/200520\n\nJoin us for our weekly Member Mingle
  \, an inclusive gathering set in an ambiant reserved space. This is your o
  pportunity to connect with fellow members\, exchange ideas\, and cultivate
@@ -492,7 +452,7 @@ DTEND;VALUE=DATE:20261208
 SUMMARY:'Venture: European Holiday Markets
 LOCATION:Offsite: Strasbourg\, Nuremberg\, Vienna\, and Munich
 DESCRIPTION:Category: ‘Venture - Travel\nPrice: $9552.94 per person\nAvai
- lability: 15 spots left\nStatus: Available\nTime: 3 PM – 12 PM\nEvent UR
+ lability: 13 spots left\nStatus: Available\nTime: 3 PM – 12 PM\nEvent UR
  L: https://members.thequinhouse.com/events/200238\n\nFrom the storybook st
  reets of Strasbourg to the grand boulevards of Vienna\, 'Venture welcomes 
  members to experience Europe's most enchanting holiday season. Journey thr
