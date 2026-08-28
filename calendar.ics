@@ -45,56 +45,6 @@ URL:https://members.thequinhouse.com/events/196895
 CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
-UID:quin-event-198000@thequinhouse.com
-DTSTAMP:20260827T173000Z
-DTSTART;TZID=America/New_York:20260827T173000
-DTEND;TZID=America/New_York:20260827T193000
-SUMMARY:Member Mixer: Common Ground
-LOCATION:Scottie's
-DESCRIPTION:Category: Member Mixer\nPrice: Free / Included\nStatus: unlimit
- ed\nEvent URL: https://members.thequinhouse.com/events/198000\n\nMeaningfu
- l conversations begin with a single question.\n\nGather with fellow member
- s for an evening of engaging conversation inspired by a thoughtfully curat
- ed series of prompts designed to spark laughter\, curiosity\, and unexpect
- ed connections.\n\nThroughout the evening\, members will rotate among tabl
- es\, exchange stories\, explore new perspectives\, and discover common gro
- und with members you may not have met before. Each conversation offers a f
- resh opportunity to connect\, leaving you with new acquaintances\, memorab
- le insights\, and the kind of dialogue that lingers long after the evening
-  comes to a close.\n\n*This event is complimentary and reserved for member
- s only. Complimentary light bites will be served with beverage available t
- o purchase. We kindly ask that all cancellations be made at least 24 hour
- s prior to the start of the event.
-URL:https://members.thequinhouse.com/events/198000
-CATEGORIES:Member Mixer
-END:VEVENT
-BEGIN:VEVENT
-UID:quin-event-199856@thequinhouse.com
-DTSTAMP:20260827T183000Z
-DTSTART;TZID=America/New_York:20260827T183000
-DTEND;TZID=America/New_York:20260827T203000
-SUMMARY:Private Screening: "Tony" 
-LOCATION:Offsite: AMC Boston Common Theater
-DESCRIPTION:Category: The Arts\nPrice: Free / Included\nStatus: Waitlist On
- ly\nEvent URL: https://members.thequinhouse.com/events/199856\n\n6:30PM Do
- ors Open\, 7:00PM Screening \nJoin us for a ‘Quin-exclusive private scr
- eening of Tony\, the story of 19-year-old Anthony Bourdain who travels to 
- Provincetown and stumbles into the chaotic\, intoxicating world of a resta
- urant kitchen\, setting off a summer that will shape the course of his lif
- e.\n\nThrown into a world of colorful characters\, late nights\, hard work
- \, and reckless camaraderie\, Tony begins to discover a sense of purpose a
- nd belonging he never expected. What starts as a summer job becomes a form
- ative coming-of-age experience\, awakening his fascination with food\, kit
- chen culture\, and the people who inhabit it—and laying the foundation f
- or the chef\, writer\, and storyteller he would eventually become.\n\n*Thi
- s event is complimentary and reserved for members\, plus one registered gu
- est. Food and beverage will be available for purchase at nearby concession
- s. We kindly ask that all cancellations be made at least 24 hours prior to
-  the start of the event.
-URL:https://members.thequinhouse.com/events/199856
-CATEGORIES:The Arts
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-198254@thequinhouse.com
 DTSTAMP:20260828T110000Z
 DTSTART;TZID=America/New_York:20260828T110000
@@ -141,7 +91,7 @@ DTSTART;TZID=America/New_York:20260901T170000
 DTEND;TZID=America/New_York:20260901T180000
 SUMMARY:Member Mingle
 LOCATION:Lunasol
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 7 spots left
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 5 spots left
  \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/19
  8803\n\nJoin us for our weekly Member Mingle\, an inclusive gathering set 
  in the ambiant reserved space of Lunasol. This is your opportunity to con
@@ -196,7 +146,7 @@ DTEND;TZID=America/New_York:20260908T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 28 spots left\nStatus: Available\nEvent URL: https://memb
+ e\nAvailability: 27 spots left\nStatus: Available\nEvent URL: https://memb
  ers.thequinhouse.com/events/200520\n\nJoin us for our weekly Member Mingle
  \, an inclusive gathering set in an ambiant reserved space. This is your o
  pportunity to connect with fellow members\, exchange ideas\, and cultivate
@@ -370,7 +320,7 @@ DTEND;TZID=America/New_York:20260915T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 25 spots left\nStatus: Available\nEvent URL: https://memb
+ e\nAvailability: 24 spots left\nStatus: Available\nEvent URL: https://memb
  ers.thequinhouse.com/events/200521\n\nJoin us for our weekly Member Mingle
  \, an inclusive gathering set in an ambiant reserved space. This is your o
  pportunity to connect with fellow members\, exchange ideas\, and cultivate
@@ -533,5 +483,47 @@ DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free / Included\nStatus:
  to ensure access to this celebration for the entire ‘Quin House Team.
 URL:https://members.thequinhouse.com/events/195306
 CATEGORIES:‘Quin Impact Fund
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-200238@thequinhouse.com
+DTSTAMP:20261203T150000Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261208
+SUMMARY:'Venture: European Holiday Markets
+LOCATION:Offsite: Strasbourg\, Nuremberg\, Vienna\, and Munich
+DESCRIPTION:Category: ‘Venture - Travel\nPrice: $9552.94 per person\nAvai
+ lability: 15 spots left\nStatus: Available\nTime: 3 PM – 12 PM\nEvent UR
+ L: https://members.thequinhouse.com/events/200238\n\nFrom the storybook st
+ reets of Strasbourg to the grand boulevards of Vienna\, 'Venture welcomes 
+ members to experience Europe's most enchanting holiday season. Journey thr
+ ough the heart of Europe’s holiday season with five nights across Strasb
+ ourg\, Nuremberg\, Vienna\, and Munich. Explore storied Christmas markets 
+ and historic city centers\, savor regional cuisine from Alsatian winstubs 
+ to Bavarian beer halls\, and settle into a collection of luxury hotels alo
+ ng the way. Thoughtfully paced with curated dining\, festive experiences\,
+  and time to explore at leisure\, the journey brings together the traditio
+ ns\, flavors\, and convivial spirit that make the season unforgettable.\n\
+ nBeyond the itinerary\, look forward to exploring each of the curated dest
+ inations together with fellow 'Quin members - a spectacular component of t
+ he trip that makes it truly unique.\n\nIncluded in the price are five nigh
+ ts' accommodations at a curated collection of luxury hotels\, including La
+  Cour du Corbeau in Strasbourg\, the Leonardo Hotel in Nuremberg\, the Par
+ k Hyatt Vienna\, and a Rocco Forte hotel in Munich. The package also inclu
+ des all scheduled dining experiences and curated activities\, luxury motor
+ coach transportation between destinations\, and all applicable taxes and g
+ ratuities. International airfare\, airport transfers\, travel insurance\, 
+ and personal expenses are not included.\n\nSingle Occupancy | $6\,950\n\nD
+ ouble Occupancy | $10\,150\n\n*Reservations are non-refundable and non-tra
+ nsferable in order to guarantee accommodations during the high season. Pa
+ yment is due in full at the time of booking. To ensure the best possible 
+ experience for all attendees\, we kindly ask that members inform us in adv
+ ance of any physical limitations\, mobility considerations\, or accessibil
+ ity needs we should be aware of. All members will also be asked to sign Th
+ e 'Quin's standard liability agreement in advance of travel and minimum in
+ terest must be met to ensure the trip will proceed as planned. Please not
+ e that the trip is contingent upon full subscription and will proceed only
+  if the required number of reservations is secured.
+URL:https://members.thequinhouse.com/events/200238
+CATEGORIES:‘Venture - Travel
 END:VEVENT
 END:VCALENDAR
