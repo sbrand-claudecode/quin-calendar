@@ -24,60 +24,6 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:quin-event-198803@thequinhouse.com
-DTSTAMP:20260901T170000Z
-DTSTART;TZID=America/New_York:20260901T170000
-DTEND;TZID=America/New_York:20260901T180000
-SUMMARY:Member Mingle
-LOCATION:Lunasol
-DESCRIPTION:Category: Member Mixer\nPrice: Free / Included\nStatus: unlimit
- ed\nEvent URL: https://members.thequinhouse.com/events/198803\n\nJoin us f
- or our weekly Member Mingle\, an inclusive gathering set in the ambiant r
- eserved space of Lunasol. This is your opportunity to connect with fellow 
- members\, exchange ideas\, and cultivate meaningful relationships.\n\nWhet
- her you're sparking new collaborations\, sharing insights\, or simply enjo
- ying great conversation\, the Member Mingle is the perfect way to engage w
- ith our dynamic community. Don’t miss the chance to connect\, inspire\, 
- and be inspired.\n\n*This event is complimentary and reserved for members 
- only. Complimentary light bites will be served\, and beverages will be ava
- ilable for purchase. We kindly ask that all cancellations be made at leas
- t 24 hours prior to the start of the event.
-URL:https://members.thequinhouse.com/events/198803
-CATEGORIES:Member Mixer
-END:VEVENT
-BEGIN:VEVENT
-UID:quin-event-198808@thequinhouse.com
-DTSTAMP:20260901T190000Z
-DTSTART;TZID=America/New_York:20260901T190000
-DTEND;TZID=America/New_York:20260901T203000
-SUMMARY:'Quin Chat: Survival Mode & What It's Costing You
-LOCATION:Scottie's
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free / Included\nStatus: You are
-  on Waitlist\nEvent URL: https://members.thequinhouse.com/events/198808\n\
- n7:00PM Reception\, 7:30PM Discussion\nIn a world that celebrates constant
-  achievement\, many founders and executives spend more time in survival mo
- de than they realize. The cost can show up in their clarity\, decision-mak
- ing\, relationships\, health\, and ultimately\, how they lead.\n\nJoin int
- ernationally recognized keynote speaker\, leadership advisor\, and bestsel
- ling author Unni Turrettini for an illuminating evening exploring what hap
- pens when pressure becomes your default state\, why even highly successful
-  people can get stuck there\, and how your internal state affects the way 
- you think\, work\, and make decisions.\n\nDrawing from her research and gl
- obal career spanning law\, finance\, and leadership development\, Unni wil
- l share practical insights into recognizing your own survival mode pattern
- s and shifting into a state where you can think more clearly\, make better
-  decisions\, and perform under pressure without it taking such a personal 
- toll.\n\nFollowing the discussion\, members are invited to participate in 
- an interactive Q&A and book signing of Unni’s newest release\, Soulware
- : A High Achiever’s Guide to Divine Connection in the Age of AI.\n\nThis
-  event is complimentary and reserved for members only. Complimentary lite 
- bites and refreshments will be served\, and copies of Soulware will be ava
- ilable for purchase. We kindly ask that all cancellations be made at leas
- t 24 hours prior to the start of the event.
-URL:https://members.thequinhouse.com/events/198808
-CATEGORIES:‘Quin Chat
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-200520@thequinhouse.com
 DTSTAMP:20260908T170000Z
 DTSTART;TZID=America/New_York:20260908T170000
@@ -236,18 +182,18 @@ DTSTART;TZID=America/New_York:20260914T183000
 DTEND;TZID=America/New_York:20260914T210000
 SUMMARY:Serendipity Dinner 
 LOCATION:The Muse
-DESCRIPTION:Category: Member Mixer\nPrice: $100.00 per person\nAvailability
- : 1 spot left\nStatus: Available\nEvent URL: https://members.thequinhouse.
- com/events/176001\n\nJoin The ‘Quin House Managing Director\, Matthias K
- iehm\, for an evening of meaningful connections over a thoughtfully curate
- d three-course dinner. Enjoy expertly paired wines as you engage with fell
- ow members\, guided by conversation prompts designed to inspire deeper\, m
- ore memorable exchanges. This unique experience offers the perfect blend o
- f great company\, engaging dialogue\, and a menu crafted to delight the se
- nses.\n\n*Tickets are $100 per person and are reserved for members only. C
- ancellations within 72 hours of the event\, or failure to attend\, will be
-  charged in full. Please inform us of any dietary needs or restrictions by
-  emailing happening@thequin.com at least 72 hours before dinner service.
+DESCRIPTION:Category: Member Mixer\nPrice: Free / Included\nStatus: Waitlis
+ t Only\nEvent URL: https://members.thequinhouse.com/events/176001\n\nJoin 
+ The ‘Quin House Managing Director\, Matthias Kiehm\, for an evening of m
+ eaningful connections over a thoughtfully curated three-course dinner. Enj
+ oy expertly paired wines as you engage with fellow members\, guided by con
+ versation prompts designed to inspire deeper\, more memorable exchanges. T
+ his unique experience offers the perfect blend of great company\, engaging
+  dialogue\, and a menu crafted to delight the senses.\n\n*Tickets are $100
+  per person and are reserved for members only. Cancellations within 72 hou
+ rs of the event\, or failure to attend\, will be charged in full. Please i
+ nform us of any dietary needs or restrictions by emailing happening@thequi
+ n.com at least 72 hours before dinner service.
 URL:https://members.thequinhouse.com/events/176001
 CATEGORIES:Member Mixer
 END:VEVENT
@@ -414,7 +360,7 @@ DTEND;TZID=America/New_York:20260919T140000
 SUMMARY: Serendipity Brunch: The 50-Plus Edition
 LOCATION:The Terrace
 DESCRIPTION:Category: Member Mixer\, Food & Beverage\nPrice: $65.00 per per
- son\nAvailability: 13 spots left\nStatus: Available\nEvent URL: https://me
+ son\nAvailability: 11 spots left\nStatus: Available\nEvent URL: https://me
  mbers.thequinhouse.com/events/199238\n\nStep into a lively Saturday brunch
   designed for members in their 50s and beyond—where meaningful connectio
  ns come naturally and conversation flows as effortlessly as the mimosas. T
@@ -533,7 +479,7 @@ DTEND;TZID=America/New_York:20260922T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 25 spots left\nStatus: Available\nEvent URL: https://memb
+ e\nAvailability: 24 spots left\nStatus: Available\nEvent URL: https://memb
  ers.thequinhouse.com/events/200522\n\nJoin us for our weekly Member Mingle
  \, an inclusive gathering set in an ambiant reserved space. This is your o
  pportunity to connect with fellow members\, exchange ideas\, and cultivate
@@ -555,7 +501,7 @@ DTSTART;TZID=America/New_York:20260922T170000
 DTEND;TZID=America/New_York:20260922T183000
 SUMMARY:Author Talk: "The Cruelest Game" by Matthew Futterman
 LOCATION:The Pub
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 19 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 16 spots left\nS
  tatus: Available\nEvent URL: https://members.thequinhouse.com/events/20134
  8\n\nCelebrate an unforgettable summer of tennis with an inside look at th
  e game beyond center court. Join acclaimed sports journalist and bestselli
