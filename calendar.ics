@@ -24,6 +24,27 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:quin-event-202313@thequinhouse.com
+DTSTAMP:20260907T173000Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+SUMMARY:Omakase Tasting
+LOCATION:Bondo
+DESCRIPTION:Category: Food & Beverage\nPrice: Free / Included\nStatus: Avai
+ lable\nTime: 5:30 PM – 10 PM\nEvent URL: https://members.thequinhouse.co
+ m/events/202313\n\n$98 per person | Sake & Wine Pairing +$45\nBondo invite
+ s members to discover its new Omakase Tasting Menu—a thoughtfully curate
+ d culinary journey guided by the chef and rooted in the tradition of entru
+ sting each course to the kitchen.\n\nUnfolding over a progression of caref
+ ully composed dishes\, the menu showcases seasonal ingredients\, refined t
+ echnique\, and the creativity of Bondo’s culinary team. Members may enjo
+ y the tasting on its own or enhance the evening with an optional sake and 
+ wine pairing\, thoughtfully selected to complement each course. Full-table
+  participation is required.\n\nMake a Reservation.
+URL:https://members.thequinhouse.com/events/202313
+CATEGORIES:Food & Beverage
+END:VEVENT
+BEGIN:VEVENT
 UID:quin-event-200520@thequinhouse.com
 DTSTAMP:20260908T170000Z
 DTSTART;TZID=America/New_York:20260908T170000
@@ -123,26 +144,47 @@ DTEND;TZID=America/New_York:20260910T193000
 SUMMARY:'Quin Chat: The Art of Coexistence
 LOCATION:The Reading Room
 DESCRIPTION:Category: ‘Quin Chat\nPrice: Free / Included\nStatus: You are
-  on Waitlist\nEvent URL: https://members.thequinhouse.com/events/199491\n\
- n6:00PM Reception\, 6:30PM Discussion\nWhat does it mean for humans and w
- ildlife to thrive together in an increasingly interconnected world? Coinci
- ding with the arrival of The Great Elephant Migration in Boston\, this '
- Quin Chat brings together visionary voices at the forefront of conservatio
- n\, research\, and environmental storytelling for an evening of compelling
-  conversation.\n\nModerated by 'Quin Co-Founder and philanthropist\, Sandy
-  Edgerley\, together with Founder of The Great Elephant Migration\, Ruth G
- anesh and leading scholar of human-wildlife coexistence\, Dr. Tarsh Thekae
- kara\, the discussion will explore the ideas driving one of the world's mo
- st ambitious conservation initiatives.\n\nFrom restoring critical habitats
-  and protecting biodiversity to reimagining the relationship between peopl
- e and the natural world\, look forward to a conversation that examines how
-  innovation\, collaboration\, and community are reshaping the future of co
- nservation.\n\n*This event is complimentary and reserved for members only
- . Complimentary light bites and refreshments will be served. We kindly as
- k that all cancellations be made at least 24 hours prior to the start of t
- he event.
+  Confirmed\nEvent URL: https://members.thequinhouse.com/events/199491\n\n6
+ :00PM Reception\, 6:30PM Discussion\nWhat does it mean for humans and wil
+ dlife to thrive together in an increasingly interconnected world? Coincidi
+ ng with the arrival of The Great Elephant Migration in Boston\, this 'Qu
+ in Chat brings together visionary voices at the forefront of conservation\
+ , research\, and environmental storytelling for an evening of compelling c
+ onversation.\n\nModerated by 'Quin Co-Founder and philanthropist\, Sandy E
+ dgerley\, together with Founder of The Great Elephant Migration\, Ruth Gan
+ esh and leading scholar of human-wildlife coexistence\, Dr. Tarsh Thekaeka
+ ra\, the discussion will explore the ideas driving one of the world's most
+  ambitious conservation initiatives.\n\nFrom restoring critical habitats a
+ nd protecting biodiversity to reimagining the relationship between people 
+ and the natural world\, look forward to a conversation that examines how i
+ nnovation\, collaboration\, and community are reshaping the future of cons
+ ervation.\n\n*This event is complimentary and reserved for members only. 
+ Complimentary light bites and refreshments will be served. We kindly ask 
+ that all cancellations be made at least 24 hours prior to the start of the
+  event.
 URL:https://members.thequinhouse.com/events/199491
 CATEGORIES:‘Quin Chat
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-201623@thequinhouse.com
+DTSTAMP:20260911T100000Z
+DTSTART;TZID=America/New_York:20260911T100000
+DTEND;TZID=America/New_York:20260911T110000
+SUMMARY:Art Tour: Celebrating Hispanic Artists
+LOCATION:Meet in The Lobby
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 40 spots left\nS
+ tatus: Available\nEvent URL: https://members.thequinhouse.com/events/20162
+ 3\n\nIn celebration of Hispanic Heritage Month beginning on September 15th
+ \, join The ’Quin’s art collection curator\, Kate Chertavian for an 
+ art tour highlighting Hispanic artists. Explore works by Hispanic and Lat
+ in American artists\, including Fernando Botero\, Antonio Seguí\, José T
+ ola\, and others throughout the ‘House\, while discovering the stories\
+ , cultural influences\, and creative perspectives behind their work.\n\n*T
+ his event is complimentary and reserved for members\, plus one registered
+  guest. We kindly ask that all cancellations be made at least 24 hours pr
+ ior to the start of the event.
+URL:https://members.thequinhouse.com/events/201623
+CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-199492@thequinhouse.com
@@ -290,7 +332,7 @@ DTEND;TZID=America/New_York:20260917T203000
 SUMMARY: Wines of South America with Amanda Barnes
 LOCATION:Lunasol
 DESCRIPTION:Category: Food & Beverage\nPrice: $95.00 per person\nAvailabili
- ty: 5 spots left\nStatus: Available\nEvent URL: https://members.thequinhou
+ ty: 4 spots left\nStatus: Available\nEvent URL: https://members.thequinhou
  se.com/events/201263\n\nIn celebration of Hispanic Heritage Month\, enjoy
   an immersive dinner exploring flavor\, culture\, and story alongside Mas
  ter of Wine\, Amanda Barnes. Author of the acclaimed The South America Win
@@ -315,7 +357,7 @@ DTSTART;TZID=America/New_York:20260918T173000
 DTEND;TZID=America/New_York:20260918T193000
 SUMMARY:Member Mixer: Play The Part
 LOCATION:Scottie's
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 11 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 10 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/1
  99858\n\nJoin us for a playful twist on a classic as charades takes center
   stage. Gather with fellow members for an evening of clever clues\, quick 
@@ -419,7 +461,7 @@ DTSTART;TZID=America/New_York:20260919T140000
 DTEND;TZID=America/New_York:20260919T170000
 SUMMARY:A Taste of 'Qktoberfest
 LOCATION:The Pub
-DESCRIPTION:Category: Food & Beverage\nPrice: Free\nAvailability: 27 spots 
+DESCRIPTION:Category: Food & Beverage\nPrice: Free\nAvailability: 56 spots 
  left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/event
  s/201471\n\nOktoberfest returns to The ’Quin. Join us in The Pub as we r
  aise a stein to the opening of the world’s most celebrated beer festival
@@ -509,7 +551,7 @@ DTSTART;TZID=America/New_York:20260922T170000
 DTEND;TZID=America/New_York:20260922T183000
 SUMMARY:Author Talk: "The Cruelest Game" by Matthew Futterman
 LOCATION:The Pub
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 5 spots left\nSt
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 4 spots left\nSt
  atus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/event
  s/201348\n\nCelebrate an unforgettable summer of tennis with an inside loo
  k at the game beyond center court. Join acclaimed sports journalist and be
@@ -533,6 +575,60 @@ DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 5 spots left\nSt
  cancellations be made at least 24 hours prior to the start of the event.
 URL:https://members.thequinhouse.com/events/201348
 CATEGORIES:The Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-202196@thequinhouse.com
+DTSTAMP:20260923T150000Z
+DTSTART;TZID=America/New_York:20260923T150000
+DTEND;TZID=America/New_York:20260923T170000
+SUMMARY:Pub Table Bridge
+LOCATION:The Pub
+DESCRIPTION:Category: Sports & Games\nPrice: Free\nAvailability: 32 spots l
+ eft\nStatus: futureSale\nEvent URL: https://members.thequinhouse.com/event
+ s/202196\n\nPull up a chair for Pub Table Bridge\, a relaxed afternoon of 
+ cards\, conversation\, and friendly competition among fellow members and g
+ uests. With an open-play format and an easygoing pace\, the afternoon is d
+ esigned for those who enjoy the strategy and social ritual of bridge - wit
+ hout the formality of tournament play.\n\nBest suited to members with a wo
+ rking knowledge of the game\, the afternoon invites you to settle in for a
+  few hands\, reconnect with familiar faces\, and meet new ones across the 
+ table. \n\n*This event is complimentary and reserved for members\, plus o
+ ne registered guest. Beverages will be available for purchase throughout t
+ he afternoon and food will be available for purchase after 4:00PM. We kind
+ ly ask that all cancellations be made at least 24 hours prior to the start
+  of the event.
+URL:https://members.thequinhouse.com/events/202196
+CATEGORIES:Sports & Games
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-202316@thequinhouse.com
+DTSTAMP:20260923T170000Z
+DTSTART;TZID=America/New_York:20260923T170000
+DTEND;TZID=America/New_York:20260923T183000
+SUMMARY:'Quin Chat: Boston\, Our Global Home 
+LOCATION:The Muse
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 60 spots lef
+ t\nStatus: futureSale\nEvent URL: https://members.thequinhouse.com/events/
+ 202316\n\n5:00PM Reception\, 5:30PM Discussion \nWhat makes Boston a trul
+ y global city? From the FIFA World Cup and America’s 250th anniversary t
+ o the arrival of ships from around the world for Sail Boston\, the city co
+ ntinues to take center stage. Yet Boston’s international reach extends 
+ far beyond these marquee moments. Recently named the best U.S. city for fo
+ reign multinationals by The Financial Times and Nikkei\, Boston is home
+  to more than 50 foreign and honorary consulates\, with one in four resi
+ dents being born abroad. Across our universities\, hospitals\, businesses
+ \, cultural institutions\, and diverse communities\, Boston’s connection
+ s span the globe.\n\nFor this ’Quin Chat\, join James Reginald Colimon\,
+  Director of Global Affairs for the City of Boston\, and Mary Yntema\, Exe
+ cutive Director of the Boston Committee on Foreign Relations and Past Pres
+ ident & CEO of WorldBoston\, Inc.\, for a timely conversation exploring ho
+ w Boston became the global hub it is today - and what that means for the p
+ eople who call it home.\n\n*This event is complimentary and reserved for m
+ embers only. Complimentary light bites and refreshments will be served. We
+  kindly ask that all cancellations be made at least 24 hours prior to the 
+ start of the event.
+URL:https://members.thequinhouse.com/events/202316
+CATEGORIES:‘Quin Chat
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-199505@thequinhouse.com
