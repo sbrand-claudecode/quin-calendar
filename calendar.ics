@@ -172,17 +172,17 @@ DTSTART;TZID=America/New_York:20260911T100000
 DTEND;TZID=America/New_York:20260911T110000
 SUMMARY:Art Tour: Celebrating Hispanic Artists
 LOCATION:Meet in The Lobby
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 9 spots left\nSt
- atus: Available\nEvent URL: https://members.thequinhouse.com/events/201623
- \n\nIn celebration of Hispanic Heritage Month beginning on September 15th\
- , join The ’Quin’s art collection curator\, Kate Chertavian for an a
- rt tour highlighting Hispanic artists. Explore works by Hispanic and Lati
- n American artists\, including Fernando Botero\, Antonio Seguí\, José To
- la\, and others throughout the ‘House\, while discovering the stories\,
-  cultural influences\, and creative perspectives behind their work.\n\n*Th
- is event is complimentary and reserved for members\, plus one registered 
- guest. We kindly ask that all cancellations be made at least 24 hours pri
- or to the start of the event.
+DESCRIPTION:Category: The Arts\nPrice: Free / Included\nStatus: Waitlist On
+ ly\nEvent URL: https://members.thequinhouse.com/events/201623\n\nIn celebr
+ ation of Hispanic Heritage Month beginning on September 15th\, join The �
+ ��Quin’s art collection curator\, Kate Chertavian for an art tour highl
+ ighting Hispanic artists. Explore works by Hispanic and Latin American ar
+ tists\, including Fernando Botero\, Antonio Seguí\, José Tola\, and othe
+ rs throughout the ‘House\, while discovering the stories\, cultural inf
+ luences\, and creative perspectives behind their work.\n\n*This event is c
+ omplimentary and reserved for members\, plus one registered guest. We ki
+ ndly ask that all cancellations be made at least 24 hours prior to the sta
+ rt of the event.
 URL:https://members.thequinhouse.com/events/201623
 CATEGORIES:The Arts
 END:VEVENT
@@ -247,7 +247,7 @@ DTEND;TZID=America/New_York:20260915T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 16 spots left\nStatus: Available\nEvent URL: https://memb
+ e\nAvailability: 15 spots left\nStatus: Available\nEvent URL: https://memb
  ers.thequinhouse.com/events/200521\n\nJoin us for our weekly Member Mingle
  \, an inclusive gathering set in an ambiant reserved space. This is your o
  pportunity to connect with fellow members\, exchange ideas\, and cultivate
@@ -357,7 +357,7 @@ DTSTART;TZID=America/New_York:20260918T173000
 DTEND;TZID=America/New_York:20260918T193000
 SUMMARY:Member Mixer: Play The Part
 LOCATION:Scottie's
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 8 spots left
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 9 spots left
  \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/19
  9858\n\nJoin us for a playful twist on a classic as charades takes center 
  stage. Gather with fellow members for an evening of clever clues\, quick t
