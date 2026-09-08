@@ -24,27 +24,6 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:quin-event-202313@thequinhouse.com
-DTSTAMP:20260907T173000Z
-DTSTART;VALUE=DATE:20260907
-DTEND;VALUE=DATE:20260908
-SUMMARY:Omakase Tasting
-LOCATION:Bondo
-DESCRIPTION:Category: Food & Beverage\nPrice: Free / Included\nStatus: Avai
- lable\nTime: 5:30 PM – 10 PM\nEvent URL: https://members.thequinhouse.co
- m/events/202313\n\n$98 per person | Sake & Wine Pairing +$45\nBondo invite
- s members to discover its new Omakase Tasting Menu—a thoughtfully curate
- d culinary journey guided by the chef and rooted in the tradition of entru
- sting each course to the kitchen.\n\nUnfolding over a progression of caref
- ully composed dishes\, the menu showcases seasonal ingredients\, refined t
- echnique\, and the creativity of Bondo’s culinary team. Members may enjo
- y the tasting on its own or enhance the evening with an optional sake and 
- wine pairing\, thoughtfully selected to complement each course. Full-table
-  participation is required.\n\nMake a Reservation.
-URL:https://members.thequinhouse.com/events/202313
-CATEGORIES:Food & Beverage
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-200520@thequinhouse.com
 DTSTAMP:20260908T170000Z
 DTSTART;TZID=America/New_York:20260908T170000
