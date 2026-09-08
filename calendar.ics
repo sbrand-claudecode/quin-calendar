@@ -31,7 +31,7 @@ DTEND;TZID=America/New_York:20260908T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 11 spots left\nStatus: Available\nEvent URL: https://memb
+ e\nAvailability: 14 spots left\nStatus: Available\nEvent URL: https://memb
  ers.thequinhouse.com/events/200520\n\nJoin us for our weekly Member Mingle
  \, an inclusive gathering set in an ambiant reserved space. This is your o
  pportunity to connect with fellow members\, exchange ideas\, and cultivate
@@ -63,26 +63,46 @@ URL:https://members.thequinhouse.com/events/176375
 CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
+UID:quin-event-203029@thequinhouse.com
+DTSTAMP:20260909T202000Z
+DTSTART;TZID=America/New_York:20260909T202000
+DTEND;TZID=America/New_York:20260909T223000
+SUMMARY:Watch Party: Patriots vs Seahawks NFL Kick-Off
+LOCATION:The Pub
+DESCRIPTION:Category: Sports & Games\nPrice: Free / Included\nStatus: Avail
+ able\nEvent URL: https://members.thequinhouse.com/events/203029\n\nThe New
+  England Patriots are back under the lights as they head to Seattle for a 
+ highly anticipated rematch against the reigning Super Bowl champion Seahaw
+ ks. Seven months after the two teams met on football’s biggest stage\, t
+ he Patriots return looking to settle the score and start the new season wi
+ th a statement.\n\nCatch every play on the big screen at The Pub\, with ga
+ me-day favorites from the menu and beer on tap throughout the night. Cravi
+ ng a little team spirit? Settle in with fellow members\, cheer on New Engl
+ and\, and kick off the season with a rematch worth staying up for.
+URL:https://members.thequinhouse.com/events/203029
+CATEGORIES:Sports & Games
+END:VEVENT
+BEGIN:VEVENT
 UID:quin-event-199496@thequinhouse.com
 DTSTAMP:20260910T100000Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Mahjong Open Play 
 LOCATION:Bondo
-DESCRIPTION:Category: Sports & Games\nPrice: Free / Included\nStatus: unlim
- ited\nTime: 10 AM – 2 PM\nEvent URL: https://members.thequinhouse.com/ev
- ents/199496\n\nHave a love for the game\, the strategy\, and the social ri
- tual of Mahjong? Join us in Bondo for an open play afternoon designed for 
- members with a sound knowledge of Mahjong gameplay and an appetite for spi
- rited competition and connection.\n\nSettle in for a few rounds\, meet fel
- low players\, and enjoy an afternoon centered around the game. While food 
- will not be served during play\, we invite members to continue the afterno
- on over lunch at Café Q or Lunasol. The perfect way to turn a few games i
- nto an afternoon of conversation and connection.\n\n*This event is complim
- entary and reserved for members only. Mahjong mats\, tiles\, shufflers\, a
- nd racks will be provided\; however\, members are encouraged to bring thei
- r own current National Mah Jongg League scorecard. We kindly ask that all 
- cancellations be made at least 24 hours prior to the start of the event.
+DESCRIPTION:Category: Sports & Games\nPrice: Free\nStatus: Waitlist Only\nT
+ ime: 10 AM – 2 PM\nEvent URL: https://members.thequinhouse.com/events/19
+ 9496\n\nHave a love for the game\, the strategy\, and the social ritual of
+  Mahjong? Join us in Bondo for an open play afternoon designed for members
+  with a sound knowledge of Mahjong gameplay and an appetite for spirited c
+ ompetition and connection.\n\nSettle in for a few rounds\, meet fellow pla
+ yers\, and enjoy an afternoon centered around the game. While food will no
+ t be served during play\, we invite members to continue the afternoon over
+  lunch at Café Q or Lunasol. The perfect way to turn a few games into an 
+ afternoon of conversation and connection.\n\n*This event is complimentary 
+ and reserved for members only. Mahjong mats\, tiles\, shufflers\, and rack
+ s will be provided\; however\, members are encouraged to bring their own c
+ urrent National Mah Jongg League scorecard. We kindly ask that all cancell
+ ations be made at least 24 hours prior to the start of the event.
 URL:https://members.thequinhouse.com/events/199496
 CATEGORIES:Sports & Games
 END:VEVENT
@@ -122,25 +142,25 @@ DTSTART;TZID=America/New_York:20260910T180000
 DTEND;TZID=America/New_York:20260910T193000
 SUMMARY:'Quin Chat: The Art of Coexistence
 LOCATION:The Reading Room
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free / Included\nStatus: You are
-  Confirmed\nEvent URL: https://members.thequinhouse.com/events/199491\n\n6
- :00PM Reception\, 6:30PM Discussion\nWhat does it mean for humans and wil
- dlife to thrive together in an increasingly interconnected world? Coincidi
- ng with the arrival of The Great Elephant Migration in Boston\, this 'Qu
- in Chat brings together visionary voices at the forefront of conservation\
- , research\, and environmental storytelling for an evening of compelling c
- onversation.\n\nModerated by 'Quin Co-Founder and philanthropist\, Sandy E
- dgerley\, together with Founder of The Great Elephant Migration\, Ruth Gan
- esh and leading scholar of human-wildlife coexistence\, Dr. Tarsh Thekaeka
- ra\, the discussion will explore the ideas driving one of the world's most
-  ambitious conservation initiatives.\n\nFrom restoring critical habitats a
- nd protecting biodiversity to reimagining the relationship between people 
- and the natural world\, look forward to a conversation that examines how i
- nnovation\, collaboration\, and community are reshaping the future of cons
- ervation.\n\n*This event is complimentary and reserved for members only. 
- Complimentary light bites and refreshments will be served. We kindly ask 
- that all cancellations be made at least 24 hours prior to the start of the
-  event.
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 1 spot left\
+ nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/ev
+ ents/199491\n\n6:00PM Reception\, 6:30PM Discussion\nWhat does it mean fo
+ r humans and wildlife to thrive together in an increasingly interconnected
+  world? Coinciding with the arrival of The Great Elephant Migration in B
+ oston\, this 'Quin Chat brings together visionary voices at the forefront 
+ of conservation\, research\, and environmental storytelling for an evening
+  of compelling conversation.\n\nModerated by 'Quin Co-Founder and philanth
+ ropist\, Sandy Edgerley\, together with Founder of The Great Elephant Migr
+ ation\, Ruth Ganesh and leading scholar of human-wildlife coexistence\, Dr
+ . Tarsh Thekaekara\, the discussion will explore the ideas driving one of 
+ the world's most ambitious conservation initiatives.\n\nFrom restoring cri
+ tical habitats and protecting biodiversity to reimagining the relationship
+  between people and the natural world\, look forward to a conversation tha
+ t examines how innovation\, collaboration\, and community are reshaping th
+ e future of conservation.\n\n*This event is complimentary and reserved for
+  members only. Complimentary light bites and refreshments will be served.
+  We kindly ask that all cancellations be made at least 24 hours prior to 
+ the start of the event.
 URL:https://members.thequinhouse.com/events/199491
 CATEGORIES:‘Quin Chat
 END:VEVENT
@@ -172,27 +192,27 @@ DTSTART;TZID=America/New_York:20260914T170000
 DTEND;TZID=America/New_York:20260914T190000
 SUMMARY:Earthshot Innovation Challenge Pitch Competition 
 LOCATION:The Pub
-DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free / Included\nStatus: 
- You are on Waitlist\nEvent URL: https://members.thequinhouse.com/events/19
- 9492\n\n5:00PM Reception\, 5:30PM Program\nBefore the spotlight turns to t
- he annual Earthshot Innovation Challenge Award Ceremony at the John F. Ken
- nedy Presidential Library this winter\, The 'Quin Impact Fund invites memb
- ers to an exclusive first look at the next generation of climate innovatio
- n.\n\nDuring this special preview\, Earthshot Innovation Challenge semi-fi
- nalists will present their breakthrough concepts\, sharing bold ideas desi
- gned to address some of the world's most pressing environmental challenges
- . Members will hear each pitch\, engage with the ideas\, and cast their vo
- tes in real time to select the solution they wish to propel into the chall
- enge finals\, securing at least $25\,000 in grant funding\, and raising th
- eir chances to be awarded the top prize of $100\,000.\n\nThis exclusive ev
- ent offers a unique opportunity to experience the innovation process first
- hand while helping elevate promising solutions before they take the stage 
- at the formal competition. Be among the first to discover the visionary en
- trepreneurs shaping a more sustainable future - and play a role in recogni
- zing the ideas with the greatest potential to create lasting impact.\n\n*T
- his event is complimentary and reserved for members only. Complimentary l
- ight bites and refreshments will be served. We kindly ask that all cancel
- lations be made at least 24 hours prior to the start of the event.
+DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nStatus: You are Con
+ firmed\nEvent URL: https://members.thequinhouse.com/events/199492\n\n5:00P
+ M Reception\, 5:30PM Program\nBefore the spotlight turns to the annual Ear
+ thshot Innovation Challenge Award Ceremony at the John F. Kennedy Presiden
+ tial Library this winter\, The 'Quin Impact Fund invites members to an exc
+ lusive first look at the next generation of climate innovation.\n\nDuring 
+ this special preview\, Earthshot Innovation Challenge semi-finalists will 
+ present their breakthrough concepts\, sharing bold ideas designed to addre
+ ss some of the world's most pressing environmental challenges. Members wil
+ l hear each pitch\, engage with the ideas\, and cast their votes in real t
+ ime to select the solution they wish to propel into the challenge finals\,
+  securing at least $25\,000 in grant funding\, and raising their chances t
+ o be awarded the top prize of $100\,000.\n\nThis exclusive event offers a 
+ unique opportunity to experience the innovation process firsthand while he
+ lping elevate promising solutions before they take the stage at the formal
+  competition. Be among the first to discover the visionary entrepreneurs s
+ haping a more sustainable future - and play a role in recognizing the idea
+ s with the greatest potential to create lasting impact.\n\n*This event is 
+ complimentary and reserved for members only. Complimentary light bites an
+ d refreshments will be served. We kindly ask that all cancellations be ma
+ de at least 24 hours prior to the start of the event.
 URL:https://members.thequinhouse.com/events/199492
 CATEGORIES:‘Quin Impact Fund
 END:VEVENT
@@ -380,7 +400,7 @@ DTEND;TZID=America/New_York:20260919T140000
 SUMMARY: Serendipity Brunch: The 50-Plus Edition
 LOCATION:The Terrace
 DESCRIPTION:Category: Member Mixer\, Food & Beverage\nPrice: $65.00 per per
- son\nAvailability: 6 spots left\nStatus: Available\nEvent URL: https://mem
+ son\nAvailability: 4 spots left\nStatus: Available\nEvent URL: https://mem
  bers.thequinhouse.com/events/199238\n\nStep into a lively Saturday brunch 
  designed for members in their 50s and beyond—where meaningful connection
  s come naturally and conversation flows as effortlessly as the mimosas. Th
@@ -507,7 +527,7 @@ DTEND;TZID=America/New_York:20260922T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 19 spots left\nStatus: Available\nEvent URL: https://memb
+ e\nAvailability: 18 spots left\nStatus: Available\nEvent URL: https://memb
  ers.thequinhouse.com/events/200522\n\nJoin us for our weekly Member Mingle
  \, an inclusive gathering set in an ambiant reserved space. This is your o
  pportunity to connect with fellow members\, exchange ideas\, and cultivate
@@ -561,7 +581,7 @@ DTSTART;TZID=America/New_York:20260923T150000
 DTEND;TZID=America/New_York:20260923T170000
 SUMMARY:Pub Table Bridge
 LOCATION:The Pub
-DESCRIPTION:Category: Sports & Games\nPrice: Free\nAvailability: 20 spots l
+DESCRIPTION:Category: Sports & Games\nPrice: Free\nAvailability: 16 spots l
  eft\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events
  /202196\n\nPull up a chair for Pub Table Bridge\, a relaxed afternoon of c
  ards\, conversation\, and friendly competition among fellow members and gu
@@ -585,26 +605,26 @@ DTSTART;TZID=America/New_York:20260923T170000
 DTEND;TZID=America/New_York:20260923T183000
 SUMMARY:'Quin Chat: Boston\, Our Global Home 
 LOCATION:The Muse
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 23 spots lef
- t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/2
- 02316\n\n5:00PM Reception\, 5:30PM Discussion \nWhat makes Boston a truly
-  global city? From the FIFA World Cup and America’s 250th anniversary to
-  the arrival of ships from around the world for Sail Boston\, the city con
- tinues to take center stage. Yet Boston’s international reach extends f
- ar beyond these marquee moments. Recently named the best U.S. city for for
- eign multinationals by The Financial Times and Nikkei\, Boston is home 
- to more than 50 foreign and honorary consulates\, with one in four resid
- ents being born abroad. Across our universities\, hospitals\, businesses\
- , cultural institutions\, and diverse communities\, Boston’s connections
-  span the globe.\n\nFor this ’Quin Chat\, join James Reginald Colimon\, 
- Director of Global Affairs for the City of Boston\, and Mary Yntema\, Exec
- utive Director of the Boston Committee on Foreign Relations and Past Presi
- dent & CEO of WorldBoston\, Inc.\, for a timely conversation exploring how
-  Boston became the global hub it is today - and what that means for the pe
- ople who call it home.\n\n*This event is complimentary and reserved for me
- mbers only. Complimentary light bites and refreshments will be served. We 
- kindly ask that all cancellations be made at least 24 hours prior to the s
- tart of the event.
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 6 spots left
+ \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/20
+ 2316\n\n5:00PM Reception\, 5:30PM Discussion \nWhat makes Boston a truly 
+ global city? From the FIFA World Cup and America’s 250th anniversary to 
+ the arrival of ships from around the world for Sail Boston\, the city cont
+ inues to take center stage. Yet Boston’s international reach extends fa
+ r beyond these marquee moments. Recently named the best U.S. city for fore
+ ign multinationals by The Financial Times and Nikkei\, Boston is home t
+ o more than 50 foreign and honorary consulates\, with one in four reside
+ nts being born abroad. Across our universities\, hospitals\, businesses\,
+  cultural institutions\, and diverse communities\, Boston’s connections 
+ span the globe.\n\nFor this ’Quin Chat\, join James Reginald Colimon\, D
+ irector of Global Affairs for the City of Boston\, and Mary Yntema\, Execu
+ tive Director of the Boston Committee on Foreign Relations and Past Presid
+ ent & CEO of WorldBoston\, Inc.\, for a timely conversation exploring how 
+ Boston became the global hub it is today - and what that means for the peo
+ ple who call it home.\n\n*This event is complimentary and reserved for mem
+ bers only. Complimentary light bites and refreshments will be served. We k
+ indly ask that all cancellations be made at least 24 hours prior to the st
+ art of the event.
 URL:https://members.thequinhouse.com/events/202316
 CATEGORIES:‘Quin Chat
 END:VEVENT
