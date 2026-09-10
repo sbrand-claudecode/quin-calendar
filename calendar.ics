@@ -24,26 +24,6 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:quin-event-203029@thequinhouse.com
-DTSTAMP:20260909T202000Z
-DTSTART;TZID=America/New_York:20260909T202000
-DTEND;TZID=America/New_York:20260909T223000
-SUMMARY:Watch Party: Patriots vs Seahawks NFL Kick-Off
-LOCATION:The Pub
-DESCRIPTION:Category: Sports & Games\nPrice: Free / Included\nStatus: Avail
- able\nEvent URL: https://members.thequinhouse.com/events/203029\n\nThe New
-  England Patriots are back under the lights as they head to Seattle for a 
- highly anticipated rematch against the reigning Super Bowl champion Seahaw
- ks. Seven months after the two teams met on football’s biggest stage\, t
- he Patriots return looking to settle the score and start the new season wi
- th a statement.\n\nCatch every play on the big screen at The Pub\, with ga
- me-day favorites from the menu and beer on tap throughout the night. Cravi
- ng a little team spirit? Settle in with fellow members\, cheer on New Engl
- and\, and kick off the season with a rematch worth staying up for.
-URL:https://members.thequinhouse.com/events/203029
-CATEGORIES:Sports & Games
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-199496@thequinhouse.com
 DTSTAMP:20260910T100000Z
 DTSTART;VALUE=DATE:20260910
@@ -208,7 +188,7 @@ DTEND;TZID=America/New_York:20260915T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 13 spots left\nStatus: Available\nEvent URL: https://memb
+ e\nAvailability: 12 spots left\nStatus: Available\nEvent URL: https://memb
  ers.thequinhouse.com/events/200521\n\nJoin us for our weekly Member Mingle
  \, an inclusive gathering set in an ambiant reserved space. This is your o
  pportunity to connect with fellow members\, exchange ideas\, and cultivate
