@@ -24,24 +24,6 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:quin-event-176375@thequinhouse.com
-DTSTAMP:20260909T180000Z
-DTSTART;TZID=America/New_York:20260909T180000
-DTEND;TZID=America/New_York:20260909T210000
-SUMMARY:Live Music: Bob Richardson 
-LOCATION:The Reading Room
-DESCRIPTION:Category: The Arts\nPrice: Free / Included\nStatus: Available\n
- Event URL: https://members.thequinhouse.com/events/176375\n\nAdored for hi
- s signature style and smile\, Bob Richardson returns to the 'House for ano
- ther spectacular piano and vocal performance live from the Reading Room. R
- ichardson\, a composer\, arranger\, vocalist and former educator will char
- m the audience with requests all night long.\n\n*Please note that this eve
- nt is complimentary and reserved for members\, plus three guests. Seating 
- is first come\, first served.
-URL:https://members.thequinhouse.com/events/176375
-CATEGORIES:The Arts
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-203029@thequinhouse.com
 DTSTAMP:20260909T202000Z
 DTSTART;TZID=America/New_York:20260909T202000
@@ -248,7 +230,7 @@ DTSTART;TZID=America/New_York:20260915T190000
 DTEND;TZID=America/New_York:20260915T200000
 SUMMARY:Author's Circle Book Club: "Damaged Goods" With Paul Scheufele
 LOCATION:The Muse
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 7 spots left\nSt
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 8 spots left\nSt
  atus: Available\nEvent URL: https://members.thequinhouse.com/events/199493
  \n\nThis September\, join us for a thoughtful discussion on Damaged Goods\
  , a compelling work of literary fiction that explores family\, loss\, and 
