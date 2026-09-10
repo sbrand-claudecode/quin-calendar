@@ -24,30 +24,6 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:quin-event-199496@thequinhouse.com
-DTSTAMP:20260910T100000Z
-DTSTART;VALUE=DATE:20260910
-DTEND;VALUE=DATE:20260911
-SUMMARY:Mahjong Open Play 
-LOCATION:Bondo
-DESCRIPTION:Category: Sports & Games\nPrice: Free\nStatus: Waitlist Only\nT
- ime: 10 AM – 2 PM\nEvent URL: https://members.thequinhouse.com/events/19
- 9496\n\nHave a love for the game\, the strategy\, and the social ritual of
-  Mahjong? Join us in Bondo for an open play afternoon designed for members
-  with a sound knowledge of Mahjong gameplay and an appetite for spirited c
- ompetition and connection.\n\nSettle in for a few rounds\, meet fellow pla
- yers\, and enjoy an afternoon centered around the game. While food will no
- t be served during play\, we invite members to continue the afternoon over
-  lunch at Café Q or Lunasol. The perfect way to turn a few games into an 
- afternoon of conversation and connection.\n\n*This event is complimentary 
- and reserved for members only. Mahjong mats\, tiles\, shufflers\, and rack
- s will be provided\; however\, members are encouraged to bring their own c
- urrent National Mah Jongg League scorecard. We kindly ask that all cancell
- ations be made at least 24 hours prior to the start of the event.
-URL:https://members.thequinhouse.com/events/199496
-CATEGORIES:Sports & Games
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-199857@thequinhouse.com
 DTSTAMP:20260910T173000Z
 DTSTART;TZID=America/New_York:20260910T173000
@@ -83,26 +59,26 @@ DTSTART;TZID=America/New_York:20260910T180000
 DTEND;TZID=America/New_York:20260910T193000
 SUMMARY:'Quin Chat: The Art of Coexistence
 LOCATION:The Reading Room
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 1 spot left\
- nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/ev
- ents/199491\n\n6:00PM Reception\, 6:30PM Discussion\nWhat does it mean fo
- r humans and wildlife to thrive together in an increasingly interconnected
-  world? Coinciding with the arrival of The Great Elephant Migration in B
- oston\, this 'Quin Chat brings together visionary voices at the forefront 
- of conservation\, research\, and environmental storytelling for an evening
-  of compelling conversation.\n\nModerated by 'Quin Co-Founder and philanth
- ropist\, Sandy Edgerley\, together with Founder of The Great Elephant Migr
- ation\, Ruth Ganesh\, leading scholar of human-wildlife coexistence\, Dr. 
- Tarsh Thekaekara\, and author of The Elephant Jungle: A Story of Conserva
- tion and Coexistence\, Nitin Sekar. the discussion will explore the ideas
-  driving one of the world's most ambitious conservation initiatives.\n\nFr
- om restoring critical habitats and protecting biodiversity to reimagining 
- the relationship between people and the natural world\, look forward to a 
- conversation that examines how innovation\, collaboration\, and community 
- are reshaping the future of conservation.\n\n*This event is complimentary 
- and reserved for members only. Complimentary light bites and refreshments
-  will be served. We kindly ask that all cancellations be made at least 24
-  hours prior to the start of the event.
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free / Included\nStatus: You are
+  Confirmed\nEvent URL: https://members.thequinhouse.com/events/199491\n\n6
+ :00PM Reception\, 6:30PM Discussion\nWhat does it mean for humans and wil
+ dlife to thrive together in an increasingly interconnected world? Coincidi
+ ng with the arrival of The Great Elephant Migration in Boston\, this 'Qu
+ in Chat brings together visionary voices at the forefront of conservation\
+ , research\, and environmental storytelling for an evening of compelling c
+ onversation.\n\nModerated by 'Quin Co-Founder and philanthropist\, Sandy E
+ dgerley\, together with Founder of The Great Elephant Migration\, Ruth Gan
+ esh\, leading scholar of human-wildlife coexistence\, Dr. Tarsh Thekaekara
+ \, and author of The Elephant Jungle: A Story of Conservation and Coexist
+ ence\, Nitin Sekar. the discussion will explore the ideas driving one of 
+ the world's most ambitious conservation initiatives.\n\nFrom restoring cri
+ tical habitats and protecting biodiversity to reimagining the relationship
+  between people and the natural world\, look forward to a conversation tha
+ t examines how innovation\, collaboration\, and community are reshaping th
+ e future of conservation.\n\n*This event is complimentary and reserved for
+  members only. Complimentary light bites and refreshments will be served.
+  We kindly ask that all cancellations be made at least 24 hours prior to 
+ the start of the event.
 URL:https://members.thequinhouse.com/events/199491
 CATEGORIES:‘Quin Chat
 END:VEVENT
@@ -188,7 +164,7 @@ DTEND;TZID=America/New_York:20260915T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 12 spots left\nStatus: Available\nEvent URL: https://memb
+ e\nAvailability: 11 spots left\nStatus: Available\nEvent URL: https://memb
  ers.thequinhouse.com/events/200521\n\nJoin us for our weekly Member Mingle
  \, an inclusive gathering set in an ambiant reserved space. This is your o
  pportunity to connect with fellow members\, exchange ideas\, and cultivate
@@ -210,7 +186,7 @@ DTSTART;TZID=America/New_York:20260915T190000
 DTEND;TZID=America/New_York:20260915T200000
 SUMMARY:Author's Circle Book Club: "Damaged Goods" With Paul Scheufele
 LOCATION:The Muse
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 8 spots left\nSt
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 7 spots left\nSt
  atus: Available\nEvent URL: https://members.thequinhouse.com/events/199493
  \n\nThis September\, join us for a thoughtful discussion on Damaged Goods\
  , a compelling work of literary fiction that explores family\, loss\, and 
@@ -297,21 +273,21 @@ DTSTART;TZID=America/New_York:20260918T173000
 DTEND;TZID=America/New_York:20260918T193000
 SUMMARY:Member Mixer: Play The Part
 LOCATION:Scottie's
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 2 spots left
- \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/19
- 9858\n\nJoin us for a playful twist on a classic as charades takes center 
- stage. Gather with fellow members for an evening of clever clues\, quick t
- hinking\, a little friendly competition\, and plenty of laughs along the w
- ay. Teams will put their creativity to the test through a series of themed
-  rounds\, working together to decipher each performance before time runs o
- ut.\n\nWhether you are a seasoned charades champion or have not played in 
- years\, the evening is designed to be lighthearted\, social\, and easy to 
- jump into. Come ready to guess\, act\, and connect as you team up with fam
- iliar faces and meet a few new ones along the way. No acting experience re
- quired - just a willingness to have a little fun.\n\n*This event is compli
- mentary and reserved for members only. Complimentary light bites and refre
- shments will be served. We kindly ask that all cancellations be made at le
- ast 24 hours prior to the start of the event.
+DESCRIPTION:Category: Member Mixer\nPrice: Free / Included\nStatus: unlimit
+ ed\nEvent URL: https://members.thequinhouse.com/events/199858\n\nJoin us f
+ or a playful twist on a classic as charades takes center stage. Gather wit
+ h fellow members for an evening of clever clues\, quick thinking\, a littl
+ e friendly competition\, and plenty of laughs along the way. Teams will pu
+ t their creativity to the test through a series of themed rounds\, working
+  together to decipher each performance before time runs out.\n\nWhether yo
+ u are a seasoned charades champion or have not played in years\, the eveni
+ ng is designed to be lighthearted\, social\, and easy to jump into. Come r
+ eady to guess\, act\, and connect as you team up with familiar faces and m
+ eet a few new ones along the way. No acting experience required - just a w
+ illingness to have a little fun.\n\n*This event is complimentary and reser
+ ved for members only. Complimentary light bites and refreshments will be s
+ erved. We kindly ask that all cancellations be made at least 24 hours prio
+ r to the start of the event.
 URL:https://members.thequinhouse.com/events/199858
 CATEGORIES:Member Mixer
 END:VEVENT
