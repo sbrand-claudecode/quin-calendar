@@ -24,27 +24,6 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:quin-event-201623@thequinhouse.com
-DTSTAMP:20260911T100000Z
-DTSTART;TZID=America/New_York:20260911T100000
-DTEND;TZID=America/New_York:20260911T110000
-SUMMARY:Art Tour: Celebrating Hispanic Artists
-LOCATION:Meet in The Lobby
-DESCRIPTION:Category: The Arts\nPrice: Free / Included\nStatus: Waitlist On
- ly\nEvent URL: https://members.thequinhouse.com/events/201623\n\nIn celebr
- ation of Hispanic Heritage Month beginning on September 15th\, join The �
- ��Quin’s art collection curator\, Kate Chertavian for an art tour highl
- ighting Hispanic artists. Explore works by Hispanic and Latin American ar
- tists\, including Fernando Botero\, Antonio Seguí\, José Tola\, and othe
- rs throughout the ‘House\, while discovering the stories\, cultural inf
- luences\, and creative perspectives behind their work.\n\n*This event is c
- omplimentary and reserved for members\, plus one registered guest. We ki
- ndly ask that all cancellations be made at least 24 hours prior to the sta
- rt of the event.
-URL:https://members.thequinhouse.com/events/201623
-CATEGORIES:The Arts
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-199492@thequinhouse.com
 DTSTAMP:20260914T170000Z
 DTSTART;TZID=America/New_York:20260914T170000
@@ -127,7 +106,7 @@ DTSTART;TZID=America/New_York:20260915T190000
 DTEND;TZID=America/New_York:20260915T200000
 SUMMARY:Author's Circle Book Club: "Damaged Goods" With Paul Scheufele
 LOCATION:The Muse
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 7 spots left\nSt
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 6 spots left\nSt
  atus: Available\nEvent URL: https://members.thequinhouse.com/events/199493
  \n\nThis September\, join us for a thoughtful discussion on Damaged Goods\
  , a compelling work of literary fiction that explores family\, loss\, and 
