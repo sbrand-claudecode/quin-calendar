@@ -30,7 +30,7 @@ DTSTART;TZID=America/New_York:20260914T170000
 DTEND;TZID=America/New_York:20260914T190000
 SUMMARY:Earthshot Innovation Challenge Pitch Competition 
 LOCATION:The Pub
-DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nAvailability: 22 sp
+DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nAvailability: 21 sp
  ots left\nStatus: You are Confirmed\nEvent URL: https://members.thequinhou
  se.com/events/199492\n\n5:00PM Reception\, 5:30PM Program\nBefore the spot
  light turns to the annual Earthshot Innovation Challenge Award Ceremony at
@@ -85,7 +85,7 @@ DTEND;TZID=America/New_York:20260915T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 11 spots left\nStatus: Available\nEvent URL: https://memb
+ e\nAvailability: 10 spots left\nStatus: Available\nEvent URL: https://memb
  ers.thequinhouse.com/events/200521\n\nJoin us for our weekly Member Mingle
  \, an inclusive gathering set in an ambiant reserved space. This is your o
  pportunity to connect with fellow members\, exchange ideas\, and cultivate
@@ -136,29 +136,29 @@ DTSTAMP:20260917T170000Z
 DTSTART;TZID=America/New_York:20260917T170000
 DTEND;TZID=America/New_York:20260917T183000
 SUMMARY:Author Talk: "Driven" With Architect Patrick Ahearn 
-LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 11 spots left\nS
- tatus: Available\nEvent URL: https://members.thequinhouse.com/events/20033
- 5\n\n5:00PM Reception\, 5:30PM Discussion\nJoin award-winning classical ar
- chitect and impassioned car collector Patrick Ahearn for an exclusive pre-
- launch discussion of his forthcoming book\, Driven: The Road to Iconic Des
- ign. At the intersection of his two greatest passions\, architecture and a
- utomobiles\, Driven explores Ahearn’s lifelong pursuit of the extraordin
- ary through bespoke carriage houses that distinguish many of his legacy pr
- operties and classic cars that have influenced his design purview.\n\nThro
- ugh more than a dozen signature projects\, Ahearn reveals carriage houses 
- that function as elegant entertaining spaces\, guest retreats\, anglers’
-  lounges\, collector’s galleries\, and more. Cars of significance are wo
- ven within the narrative and photographed against the backdrop of Ahearn�
- �s homes\, creating a compelling dialogue between forms of excellence.\n\n
- Featuring captivating photography and personal narrative\, Driven is both 
- a celebration of historically inspired architecture and a reflection on Ah
- earn’s remarkable design journey. Members will hear firsthand about the 
- experiences\, influences\, automobiles\, and philosophy that have shaped h
- is career and fueled his enduring pursuit of iconic design\n\n*This event 
- is complimentary and reserved for members only. Complimentary light bites 
- and refreshments will be served. We kindly ask that all cancellations be m
- ade at least 24 hours prior to the start of the event.
+LOCATION:Reading Room
+DESCRIPTION:Category: The Arts\nPrice: Free\nStatus: Waitlist Only\nEvent U
+ RL: https://members.thequinhouse.com/events/200335\n\n5:00PM Reception\, 5
+ :30PM Discussion\nJoin award-winning classical architect and impassioned c
+ ar collector Patrick Ahearn for an exclusive pre-launch discussion of his 
+ forthcoming book\, Driven: The Road to Iconic Design. At the intersection 
+ of his two greatest passions\, architecture and automobiles\, Driven explo
+ res Ahearn’s lifelong pursuit of the extraordinary through bespoke carri
+ age houses that distinguish many of his legacy properties and classic cars
+  that have influenced his design purview.\n\nThrough more than a dozen sig
+ nature projects\, Ahearn reveals carriage houses that function as elegant 
+ entertaining spaces\, guest retreats\, anglers’ lounges\, collector’s 
+ galleries\, and more. Cars of significance are woven within the narrative 
+ and photographed against the backdrop of Ahearn’s homes\, creating a com
+ pelling dialogue between forms of excellence.\n\nFeaturing captivating pho
+ tography and personal narrative\, Driven is both a celebration of historic
+ ally inspired architecture and a reflection on Ahearn’s remarkable desig
+ n journey. Members will hear firsthand about the experiences\, influences\
+ , automobiles\, and philosophy that have shaped his career and fueled his 
+ enduring pursuit of iconic design\n\n*This event is complimentary and rese
+ rved for members only. Complimentary light bites and refreshments will be 
+ served. We kindly ask that all cancellations be made at least 24 hours pri
+ or to the start of the event.
 URL:https://members.thequinhouse.com/events/200335
 CATEGORIES:The Arts
 END:VEVENT
@@ -366,7 +366,7 @@ DTEND;TZID=America/New_York:20260922T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 15 spots left\nStatus: Available\nEvent URL: https://memb
+ e\nAvailability: 12 spots left\nStatus: Available\nEvent URL: https://memb
  ers.thequinhouse.com/events/200522\n\nJoin us for our weekly Member Mingle
  \, an inclusive gathering set in an ambiant reserved space. This is your o
  pportunity to connect with fellow members\, exchange ideas\, and cultivate
@@ -420,7 +420,7 @@ DTSTART;TZID=America/New_York:20260923T150000
 DTEND;TZID=America/New_York:20260923T170000
 SUMMARY:Pub Table Bridge
 LOCATION:The Pub
-DESCRIPTION:Category: Sports & Games\nPrice: Free\nAvailability: 12 spots l
+DESCRIPTION:Category: Sports & Games\nPrice: Free\nAvailability: 10 spots l
  eft\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events
  /202196\n\nPull up a chair for Pub Table Bridge\, a relaxed afternoon of c
  ards\, conversation\, and friendly competition among fellow members and gu
@@ -494,23 +494,23 @@ DTSTART;TZID=America/New_York:20260925T180000
 DTEND;TZID=America/New_York:20260925T193000
 SUMMARY:'Quin Chat\; Behind the Curtain - To Kill a Mockingbird
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 100 spots left\n
- Status: You are on Waitlist\nEvent URL: https://members.thequinhouse.com/e
- vents/203290\n\n6:00PM Reception\, 6:30PM Discussion\nExperience a behind
- -the-curtain look as The Huntington Theatre Company prepares to present t
- he first regional production of Aaron Sorkin’s acclaimed adaptation of 
- To Kill a Mockingbird. Artistic Director and Director of the production\, 
- Loretta Greco joins fellow members of the production to explore the art an
- d complexity of bringing Harper Lee’s enduring classic to the stage\, r
- evealing what audiences rarely see: the journey from script to stage\, the
-  artistic decisions made along the way\, and the collaboration required to
-  bring a production of this scale to life. Together\, they will consider 
- the delicate balance between honoring a story that has resonated for gener
- ations and embracing the creative freedom and fresh perspective that come 
- with a new interpretation.\n\n*This event is complimentary and reserved fo
- r members only. Complimentary light bites and refreshments will be served.
-  We kindly ask that all cancellations be made at least 24 hours prior to t
- he start of the event.
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 9 spots left\nSt
+ atus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/event
+ s/203290\n\n6:00PM Reception\, 6:30PM Discussion\nExperience a behind-the
+ -curtain look as The Huntington Theatre Company prepares to present the f
+ irst regional production of Aaron Sorkin’s acclaimed adaptation of To K
+ ill a Mockingbird. Artistic Director and Director of the production\, Lore
+ tta Greco joins fellow members of the production to explore the art and co
+ mplexity of bringing Harper Lee’s enduring classic to the stage\, revea
+ ling what audiences rarely see: the journey from script to stage\, the art
+ istic decisions made along the way\, and the collaboration required to bri
+ ng a production of this scale to life. Together\, they will consider the 
+ delicate balance between honoring a story that has resonated for generatio
+ ns and embracing the creative freedom and fresh perspective that come with
+  a new interpretation.\n\n*This event is complimentary and reserved for me
+ mbers only. Complimentary light bites and refreshments will be served. We 
+ kindly ask that all cancellations be made at least 24 hours prior to the s
+ tart of the event.
 URL:https://members.thequinhouse.com/events/203290
 CATEGORIES:The Arts
 END:VEVENT
@@ -539,7 +539,7 @@ DTEND;TZID=America/New_York:20260926T140000
 SUMMARY:Serendipity Brunch
 LOCATION:Lunasol
 DESCRIPTION:Category: Member Mixer\nPrice: $65.00 per person\nAvailability:
-  18 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
+  15 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
  .com/events/199239\n\nJoin us for a Serendipity Saturday Brunch that invit
  es members to enjoy great conversation\, in good company. Set in Lunasol\,
   the afternoon unfolds with an easy rhythm—a thoughtful menu\, enthusia
@@ -563,26 +563,26 @@ DTSTART;TZID=America/New_York:20260927T164500
 DTEND;TZID=America/New_York:20260927T193000
 SUMMARY:Sunday Screening: "Pretty Dirty"
 LOCATION:The Muse
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 60 spots left\nS
- tatus: Waitlist Only\nEvent URL: https://members.thequinhouse.com/events/2
- 03291\n\n4:45PM Doors Open\, 5:00PM Screening\, 7:15PM Q&A\nGlamorous\, pr
- ovocative\, and unapologetically unflinching\, Marilyn Minter has spent ne
- arly five decades pushing the boundaries of contemporary art. In this Sund
- ay Screening\, filmmaker Amanda Benchley turns the lens on the trailblazi
- ng feminist artist - moving between biography\, studio practice\, and cult
- ural history - to trace Minter’s rise through New York’s art world\,
-  the controversies her work sparked within feminist discourse\, and the en
- during influence of her lush\, subversive imagery. Fast-paced\, stylish\,
-  and punctuated by notable cameos\, the film offers an intimate portra
- it of an artistwho has continually challenged convention while embracing p
- leasure\, beauty\, and desire as forms of power.\n\nFollowing the screenin
- g\, members are invited to stay for an intimate talkback with visionary fi
- lmmaker Amanda Benchley and Marilyn Minter herself. Together\, they will 
- pull back the curtain on the making of the film\, Minter’s extraordinar
- y career\, and the ideas and experiences that have shaped both her art and
-  the film.\n\n*This event is complimentary and reserved for members only. 
- Theatre fare and refreshments will be served. We kindly ask that all cance
- llations be made at least 24 hours prior to the start of the event.
+DESCRIPTION:Category: The Arts\nPrice: Free\nStatus: Waitlist Only\nEvent U
+ RL: https://members.thequinhouse.com/events/203291\n\n4:45PM Doors Open\, 
+ 5:00PM Screening\, 7:15PM Q&A\nGlamorous\, provocative\, and unapologetica
+ lly unflinching\, Marilyn Minter has spent nearly five decades pushing the
+  boundaries of contemporary art. In this Sunday Screening\, filmmaker Aman
+ da Benchley turns the lens on the trailblazing feminist artist - moving b
+ etween biography\, studio practice\, and cultural history - to trace Min
+ ter’s rise through New York’s art world\, the controversies her work s
+ parked within feminist discourse\, and the enduring influence of her lush\
+ , subversive imagery. Fast-paced\, stylish\, and punctuated by notable 
+ cameos\, the film offers an intimate portrait of an artistwho has contin
+ ually challenged convention while embracing pleasure\, beauty\, and desire
+  as forms of power.\n\nFollowing the screening\, members are invited to st
+ ay for an intimate talkback with visionary filmmaker Amanda Benchley and M
+ arilyn Minter herself. Together\, they will pull back the curtain on the
+  making of the film\, Minter’s extraordinary career\, and the ideas and 
+ experiences that have shaped both her art and the film.\n\n*This event is 
+ complimentary and reserved for members only. Theatre fare and refreshments
+  will be served. We kindly ask that all cancellations be made at least 24 
+ hours prior to the start of the event.
 URL:https://members.thequinhouse.com/events/203291
 CATEGORIES:The Arts
 END:VEVENT
@@ -594,7 +594,7 @@ DTEND;TZID=America/New_York:20260928T210000
 SUMMARY:Serendipity Dinner - The 40's Social
 LOCATION:The Muse
 DESCRIPTION:Category: Member Mixer\nPrice: $100.00 per person\nAvailability
- : 16 spots left\nStatus: Available\nEvent URL: https://members.thequinhous
+ : 13 spots left\nStatus: Available\nEvent URL: https://members.thequinhous
  e.com/events/203329\n\nStep into a lively evening designed for members in 
  their 40s\, where meaningful connections come naturally and conversation f
  lows as effortlessly as the wine. This Serendipity Dinner invites you to g
@@ -619,21 +619,21 @@ DTSTART;TZID=America/New_York:20260928T190000
 DTEND;TZID=America/New_York:20260928T203000
 SUMMARY:'Quin Chat: Equity in Breast Cancer Care
 LOCATION:Scottie's
-DESCRIPTION:Category: Health & Wellness\nPrice: Free\nAvailability: 110 spo
- ts left\nStatus: Waitlist Only\nEvent URL: https://members.thequinhouse.co
- m/events/203298\n\n7:00PM Reception\, 7:30PM Discussion\n\nPresident\, CEO
- \, and founder of Gretta Enterprises\, and breast cancer survivor\, Gretta
-  Monahan joins Meredith Mendelson\, Executive Director of The Ellie Fund
- \; and Dr. Rachel Freedman\, MD\, MPH\, medical oncologist and clinical re
- searcher at Dana Farber Cancer Institute\, for a discussion informed by l
- ived experience\, patient advocacy\, emotion and practical support\, and m
- edicine. Personal\, thoughtful\, and refreshingly candid\, the conversati
- on moves beyond awareness to consider what it really means to show up - fo
- r ourselves\, for the people we love\, and for communities navigating brea
- st cancer every day.\n\n*This event is complimentary and reserved for memb
- ers only. Complimentary light bites and refreshments will be served. We ki
- ndly ask that all cancellations be made at least 24 hours prior to the sta
- rt of the event.
+DESCRIPTION:Category: Health & Wellness\nPrice: Free\nAvailability: 61 spot
+ s left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/eve
+ nts/203298\n\n7:00PM Reception\, 7:30PM Discussion\n\nPresident\, CEO\, an
+ d founder of Gretta Enterprises\, and breast cancer survivor\, Gretta Mona
+ han joins Meredith Mendelson\, Executive Director of The Ellie Fund\; an
+ d Dr. Rachel Freedman\, MD\, MPH\, medical oncologist and clinical researc
+ her at Dana Farber Cancer Institute\, for a discussion informed by lived 
+ experience\, patient advocacy\, emotion and practical support\, and medici
+ ne. Personal\, thoughtful\, and refreshingly candid\, the conversation mo
+ ves beyond awareness to consider what it really means to show up - for our
+ selves\, for the people we love\, and for communities navigating breast ca
+ ncer every day.\n\n*This event is complimentary and reserved for members o
+ nly. Complimentary light bites and refreshments will be served. We kindly 
+ ask that all cancellations be made at least 24 hours prior to the start of
+  the event.
 URL:https://members.thequinhouse.com/events/203298
 CATEGORIES:Health & Wellness
 END:VEVENT
@@ -644,33 +644,33 @@ DTSTART;TZID=America/New_York:20260929T130000
 DTEND;TZID=America/New_York:20260929T150000
 SUMMARY:90 Minutes of Innovation
 LOCATION:The Pub
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 140 spots le
- ft\nStatus: You are on Waitlist\nEvent URL: https://members.thequinhouse.c
- om/events/203300\n\n1:00PM Program\, 2:30PM Networking\nWhat does it take 
- to challenge convention\, build what doesn’t yet exist\, and turn ambiti
- ous ideas into meaningful change? In the latest edition of 90 Minutes of I
- nnovation\, John Werner - venture capitalist\, MIT lecturer\, and Forbes A
- I columnist - sits down with Lauren Kuntz\, PhD\, Head of Market Analysis
-  at ENGIE\, Gaiascope co-founder\, and founder of the Women’s Greatest A
- thlete.\n\nWith degrees in Physics and Mechanical Engineering from MIT and
-  a PhD in Climate Science from Harvard\, Kuntz co-founded the Y Combinato
- r-backed energy forecasting startup Gaiascope\, using AI to advance renewa
- ble energy markets before its 2025 acquisition by ENGIE.\n\nKuntz has brou
- ght that same drive to the world of sport. A world-record holder in the 2
- 0-event double decathlon and three-time All-American\, she founded World�
- ��s Greatest Athlete in 2024 and the Women’s Decathlon World Championshi
- ps to challenge one of track and field’s longstanding disparities: wh
- ile men have competed in the Olympic decathalon since 1912\, women never h
- ave. Now\, she is helping build the case for the women’s decathlon to f
- inally earn its place at the Olympic Games.\n\nTogether\, Werner and Kuntz
-  will explore what it means to pursue ideas before there is a roadmap\, ch
- allenge deeply established systems\, and build something entirely new. Fr
- om rethinking the power grid to reimagining who gets to compete on the wor
- ld’s biggest stage\, expect a wide-ranging conversation about seeing wha
- t could be—and having the nerve to build it. \n\n*This event is complim
- entary and reserved for members only. Complimentary light bites and refr
- eshments will be served. We kindly ask that all cancellations be made at l
- east 24 hours prior to the start of the event.
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 106 spots le
+ ft\nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com
+ /events/203300\n\n1:00PM Program\, 2:30PM Networking\nWhat does it take to
+  challenge convention\, build what doesn’t yet exist\, and turn ambitiou
+ s ideas into meaningful change? In the latest edition of 90 Minutes of Inn
+ ovation\, John Werner - venture capitalist\, MIT lecturer\, and Forbes AI 
+ columnist - sits down with Lauren Kuntz\, PhD\, Head of Market Analysis a
+ t ENGIE\, Gaiascope co-founder\, and founder of the Women’s Greatest Ath
+ lete.\n\nWith degrees in Physics and Mechanical Engineering from MIT and a
+  PhD in Climate Science from Harvard\, Kuntz co-founded the Y Combinator-
+ backed energy forecasting startup Gaiascope\, using AI to advance renewabl
+ e energy markets before its 2025 acquisition by ENGIE.\n\nKuntz has brough
+ t that same drive to the world of sport. A world-record holder in the 20-
+ event double decathlon and three-time All-American\, she founded World’
+ s Greatest Athlete in 2024 and the Women’s Decathlon World Championships
+  to challenge one of track and field’s longstanding disparities: whil
+ e men have competed in the Olympic decathalon since 1912\, women never hav
+ e. Now\, she is helping build the case for the women’s decathlon to fin
+ ally earn its place at the Olympic Games.\n\nTogether\, Werner and Kuntz w
+ ill explore what it means to pursue ideas before there is a roadmap\, chal
+ lenge deeply established systems\, and build something entirely new. From
+  rethinking the power grid to reimagining who gets to compete on the world
+ ’s biggest stage\, expect a wide-ranging conversation about seeing what 
+ could be—and having the nerve to build it. \n\n*This event is complimen
+ tary and reserved for members only. Complimentary light bites and refres
+ hments will be served. We kindly ask that all cancellations be made at lea
+ st 24 hours prior to the start of the event.
 URL:https://members.thequinhouse.com/events/203300
 CATEGORIES:‘Quin Chat
 END:VEVENT
@@ -701,7 +701,7 @@ BEGIN:VEVENT
 UID:quin-event-200238@thequinhouse.com
 DTSTAMP:20261203T150000Z
 DTSTART;VALUE=DATE:20261203
-DTEND;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
 SUMMARY:'Venture: European Holiday Markets
 LOCATION:Offsite: Strasbourg\, Nuremberg\, Vienna\, and Munich
 DESCRIPTION:Category: ‘Venture - Travel\nPrice: $10150.00 per person\nAva
