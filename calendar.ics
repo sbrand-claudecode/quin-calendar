@@ -24,59 +24,6 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:quin-event-199492@thequinhouse.com
-DTSTAMP:20260914T170000Z
-DTSTART;TZID=America/New_York:20260914T170000
-DTEND;TZID=America/New_York:20260914T190000
-SUMMARY:Earthshot Innovation Challenge Pitch Competition 
-LOCATION:The Pub
-DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free / Included\nStatus: 
- You are Confirmed\nEvent URL: https://members.thequinhouse.com/events/1994
- 92\n\n5:00PM Reception\, 5:30PM Program\nBefore the spotlight turns to the
-  annual Earthshot Innovation Challenge Award Ceremony at the John F. Kenne
- dy Presidential Library this winter\, The 'Quin Impact Fund invites member
- s to an exclusive first look at the next generation of climate innovation.
- \n\nDuring this special preview\, Earthshot Innovation Challenge semi-fina
- lists will present their breakthrough concepts\, sharing bold ideas design
- ed to address some of the world's most pressing environmental challenges. 
- Members will hear each pitch\, engage with the ideas\, and cast their vote
- s in real time to select the solution they wish to propel into the challen
- ge finals\, securing at least $25\,000 in grant funding\, and raising thei
- r chances to be awarded the top prize of $100\,000.\n\nThis exclusive even
- t offers a unique opportunity to experience the innovation process firstha
- nd while helping elevate promising solutions before they take the stage at
-  the formal competition. Be among the first to discover the visionary entr
- epreneurs shaping a more sustainable future - and play a role in recognizi
- ng the ideas with the greatest potential to create lasting impact.\n\n*Thi
- s event is complimentary and reserved for members only. Complimentary lig
- ht bites and refreshments will be served. We kindly ask that all cancella
- tions be made at least 24 hours prior to the start of the event.
-URL:https://members.thequinhouse.com/events/199492
-CATEGORIES:‘Quin Impact Fund
-END:VEVENT
-BEGIN:VEVENT
-UID:quin-event-176001@thequinhouse.com
-DTSTAMP:20260914T183000Z
-DTSTART;TZID=America/New_York:20260914T183000
-DTEND;TZID=America/New_York:20260914T210000
-SUMMARY:Serendipity Dinner 
-LOCATION:The Muse
-DESCRIPTION:Category: Member Mixer\nPrice: Free / Included\nStatus: Waitlis
- t Only\nEvent URL: https://members.thequinhouse.com/events/176001\n\nJoin 
- The ‘Quin House Managing Director\, Matthias Kiehm\, for an evening of m
- eaningful connections over a thoughtfully curated three-course dinner. Enj
- oy expertly paired wines as you engage with fellow members\, guided by con
- versation prompts designed to inspire deeper\, more memorable exchanges. T
- his unique experience offers the perfect blend of great company\, engaging
-  dialogue\, and a menu crafted to delight the senses.\n\n*Tickets are $100
-  per person and are reserved for members only. Cancellations within 72 hou
- rs of the event\, or failure to attend\, will be charged in full. Please i
- nform us of any dietary needs or restrictions by emailing happening@thequi
- n.com at least 72 hours before dinner service.
-URL:https://members.thequinhouse.com/events/176001
-CATEGORIES:Member Mixer
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-200521@thequinhouse.com
 DTSTAMP:20260915T170000Z
 DTSTART;TZID=America/New_York:20260915T170000
@@ -84,18 +31,18 @@ DTEND;TZID=America/New_York:20260915T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 9 spots left\nStatus: Available\nEvent URL: https://membe
- rs.thequinhouse.com/events/200521\n\nJoin us for our weekly Member Mingle\
- , an inclusive gathering set in an ambiant reserved space. This is your op
- portunity to connect with fellow members\, exchange ideas\, and cultivate 
- meaningful relationships.\n\nWhether you're sparking new collaborations\, 
- sharing insights\, or simply enjoying great conversation\, the Member Ming
- le is the perfect way to engage with our dynamic community. Don’t miss t
- he chance to connect\, inspire\, and be inspired!\n\n*This event is compli
- mentary and reserved for members only. Complimentary light bites will be s
- erved\, and beverages will be available for purchase. We kindly ask that 
- all cancellations be made at least 24 hours prior to the start of the even
- t.
+ e\nAvailability: 10 spots left\nStatus: Available\nEvent URL: https://memb
+ ers.thequinhouse.com/events/200521\n\nJoin us for our weekly Member Mingle
+ \, an inclusive gathering set in an ambiant reserved space. This is your o
+ pportunity to connect with fellow members\, exchange ideas\, and cultivate
+  meaningful relationships.\n\nWhether you're sparking new collaborations\,
+  sharing insights\, or simply enjoying great conversation\, the Member Min
+ gle is the perfect way to engage with our dynamic community. Don’t miss 
+ the chance to connect\, inspire\, and be inspired!\n\n*This event is compl
+ imentary and reserved for members only. Complimentary light bites will be 
+ served\, and beverages will be available for purchase. We kindly ask that
+  all cancellations be made at least 24 hours prior to the start of the eve
+ nt.
 URL:https://members.thequinhouse.com/events/200521
 CATEGORIES:Member Mixer,Survey - Membership Mingle
 END:VEVENT
@@ -136,28 +83,28 @@ DTSTART;TZID=America/New_York:20260917T170000
 DTEND;TZID=America/New_York:20260917T183000
 SUMMARY:Author Talk: "Driven" With Architect Patrick Ahearn 
 LOCATION:Reading Room
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 1 spot left\nSta
- tus: Available\nEvent URL: https://members.thequinhouse.com/events/200335\
- n\n5:00PM Reception\, 5:30PM Discussion\nJoin award-winning classical arch
- itect and impassioned car collector Patrick Ahearn for an exclusive pre-la
- unch discussion of his forthcoming book\, Driven: The Road to Iconic Desig
- n. At the intersection of his two greatest passions\, architecture and aut
- omobiles\, Driven explores Ahearn’s lifelong pursuit of the extraordinar
- y through bespoke carriage houses that distinguish many of his legacy prop
- erties and classic cars that have influenced his design purview.\n\nThroug
- h more than a dozen signature projects\, Ahearn reveals carriage houses th
- at function as elegant entertaining spaces\, guest retreats\, anglers’ l
- ounges\, collector’s galleries\, and more. Cars of significance are wove
- n within the narrative and photographed against the backdrop of Ahearn’s
-  homes\, creating a compelling dialogue between forms of excellence.\n\nFe
- aturing captivating photography and personal narrative\, Driven is both a 
- celebration of historically inspired architecture and a reflection on Ahea
- rn’s remarkable design journey. Members will hear firsthand about the ex
- periences\, influences\, automobiles\, and philosophy that have shaped his
-  career and fueled his enduring pursuit of iconic design\n\n*This event is
-  complimentary and reserved for members only. Complimentary light bites an
- d refreshments will be served. We kindly ask that all cancellations be mad
- e at least 24 hours prior to the start of the event.
+DESCRIPTION:Category: The Arts\nPrice: Free\nStatus: Waitlist Only\nEvent U
+ RL: https://members.thequinhouse.com/events/200335\n\n5:00PM Reception\, 5
+ :30PM Discussion\nJoin award-winning classical architect and impassioned c
+ ar collector Patrick Ahearn for an exclusive pre-launch discussion of his 
+ forthcoming book\, Driven: The Road to Iconic Design. At the intersection 
+ of his two greatest passions\, architecture and automobiles\, Driven explo
+ res Ahearn’s lifelong pursuit of the extraordinary through bespoke carri
+ age houses that distinguish many of his legacy properties and classic cars
+  that have influenced his design purview.\n\nThrough more than a dozen sig
+ nature projects\, Ahearn reveals carriage houses that function as elegant 
+ entertaining spaces\, guest retreats\, anglers’ lounges\, collector’s 
+ galleries\, and more. Cars of significance are woven within the narrative 
+ and photographed against the backdrop of Ahearn’s homes\, creating a com
+ pelling dialogue between forms of excellence.\n\nFeaturing captivating pho
+ tography and personal narrative\, Driven is both a celebration of historic
+ ally inspired architecture and a reflection on Ahearn’s remarkable desig
+ n journey. Members will hear firsthand about the experiences\, influences\
+ , automobiles\, and philosophy that have shaped his career and fueled his 
+ enduring pursuit of iconic design\n\n*This event is complimentary and rese
+ rved for members only. Complimentary light bites and refreshments will be 
+ served. We kindly ask that all cancellations be made at least 24 hours pri
+ or to the start of the event.
 URL:https://members.thequinhouse.com/events/200335
 CATEGORIES:The Arts
 END:VEVENT
@@ -365,18 +312,18 @@ DTEND;TZID=America/New_York:20260922T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 10 spots left\nStatus: Available\nEvent URL: https://memb
- ers.thequinhouse.com/events/200522\n\nJoin us for our weekly Member Mingle
- \, an inclusive gathering set in an ambiant reserved space. This is your o
- pportunity to connect with fellow members\, exchange ideas\, and cultivate
-  meaningful relationships.\n\nWhether you're sparking new collaborations\,
-  sharing insights\, or simply enjoying great conversation\, the Member Min
- gle is the perfect way to engage with our dynamic community. Don’t miss 
- the chance to connect\, inspire\, and be inspired!\n\n*This event is compl
- imentary and reserved for members only. Complimentary light bites will be 
- served\, and beverages will be available for purchase. We kindly ask that
-  all cancellations be made at least 24 hours prior to the start of the eve
- nt.
+ e\nAvailability: 9 spots left\nStatus: Available\nEvent URL: https://membe
+ rs.thequinhouse.com/events/200522\n\nJoin us for our weekly Member Mingle\
+ , an inclusive gathering set in an ambiant reserved space. This is your op
+ portunity to connect with fellow members\, exchange ideas\, and cultivate 
+ meaningful relationships.\n\nWhether you're sparking new collaborations\, 
+ sharing insights\, or simply enjoying great conversation\, the Member Ming
+ le is the perfect way to engage with our dynamic community. Don’t miss t
+ he chance to connect\, inspire\, and be inspired!\n\n*This event is compli
+ mentary and reserved for members only. Complimentary light bites will be s
+ erved\, and beverages will be available for purchase. We kindly ask that 
+ all cancellations be made at least 24 hours prior to the start of the even
+ t.
 URL:https://members.thequinhouse.com/events/200522
 CATEGORIES:Member Mixer,Survey - Membership Mingle
 END:VEVENT
@@ -493,23 +440,23 @@ DTSTART;TZID=America/New_York:20260925T180000
 DTEND;TZID=America/New_York:20260925T193000
 SUMMARY:'Quin Chat\; Behind the Curtain - To Kill a Mockingbird
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 7 spots left\nSt
- atus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/event
- s/203290\n\n6:00PM Reception\, 6:30PM Discussion\nExperience a behind-the
- -curtain look as The Huntington Theatre Company prepares to present the f
- irst regional production of Aaron Sorkin’s acclaimed adaptation of To K
- ill a Mockingbird. Artistic Director and Director of the production\, Lore
- tta Greco joins fellow members of the production to explore the art and co
- mplexity of bringing Harper Lee’s enduring classic to the stage\, revea
- ling what audiences rarely see: the journey from script to stage\, the art
- istic decisions made along the way\, and the collaboration required to bri
- ng a production of this scale to life. Together\, they will consider the 
- delicate balance between honoring a story that has resonated for generatio
- ns and embracing the creative freedom and fresh perspective that come with
-  a new interpretation.\n\n*This event is complimentary and reserved for me
- mbers only. Complimentary light bites and refreshments will be served. We 
- kindly ask that all cancellations be made at least 24 hours prior to the s
- tart of the event.
+DESCRIPTION:Category: The Arts\nPrice: Free / Included\nStatus: You are Con
+ firmed\nEvent URL: https://members.thequinhouse.com/events/203290\n\n6:00P
+ M Reception\, 6:30PM Discussion\nExperience a behind-the-curtain look as
+  The Huntington Theatre Company prepares to present the first regional pro
+ duction of Aaron Sorkin’s acclaimed adaptation of To Kill a Mockingbird
+ . Artistic Director and Director of the production\, Loretta Greco joins f
+ ellow members of the production to explore the art and complexity of bring
+ ing Harper Lee’s enduring classic to the stage\, revealing what audienc
+ es rarely see: the journey from script to stage\, the artistic decisions m
+ ade along the way\, and the collaboration required to bring a production o
+ f this scale to life. Together\, they will consider the delicate balance 
+ between honoring a story that has resonated for generations and embracing 
+ the creative freedom and fresh perspective that come with a new interpreta
+ tion.\n\n*This event is complimentary and reserved for members only. Compl
+ imentary light bites and refreshments will be served. We kindly ask that a
+ ll cancellations be made at least 24 hours prior to the start of the event
+ .
 URL:https://members.thequinhouse.com/events/203290
 CATEGORIES:The Arts
 END:VEVENT
@@ -538,7 +485,7 @@ DTEND;TZID=America/New_York:20260926T140000
 SUMMARY:Serendipity Brunch
 LOCATION:Lunasol
 DESCRIPTION:Category: Member Mixer\nPrice: $65.00 per person\nAvailability:
-  15 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
+  14 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
  .com/events/199239\n\nJoin us for a Serendipity Saturday Brunch that invit
  es members to enjoy great conversation\, in good company. Set in Lunasol\,
   the afternoon unfolds with an easy rhythm—a thoughtful menu\, enthusia
@@ -593,7 +540,7 @@ DTEND;TZID=America/New_York:20260928T210000
 SUMMARY:Serendipity Dinner - The 40's Social
 LOCATION:The Muse
 DESCRIPTION:Category: Member Mixer\nPrice: $100.00 per person\nAvailability
- : 13 spots left\nStatus: Available\nEvent URL: https://members.thequinhous
+ : 11 spots left\nStatus: Available\nEvent URL: https://members.thequinhous
  e.com/events/203329\n\nStep into a lively evening designed for members in 
  their 40s\, where meaningful connections come naturally and conversation f
  lows as effortlessly as the wine. This Serendipity Dinner invites you to g
@@ -618,7 +565,7 @@ DTSTART;TZID=America/New_York:20260928T190000
 DTEND;TZID=America/New_York:20260928T203000
 SUMMARY:'Quin Chat: Equity in Breast Cancer Care
 LOCATION:Scottie's
-DESCRIPTION:Category: Health & Wellness\nPrice: Free\nAvailability: 61 spot
+DESCRIPTION:Category: Health & Wellness\nPrice: Free\nAvailability: 62 spot
  s left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/eve
  nts/203298\n\n7:00PM Reception\, 7:30PM Discussion\n\nPresident\, CEO\, an
  d founder of Gretta Enterprises\, and breast cancer survivor\, Gretta Mona
@@ -643,7 +590,7 @@ DTSTART;TZID=America/New_York:20260929T130000
 DTEND;TZID=America/New_York:20260929T150000
 SUMMARY:90 Minutes of Innovation
 LOCATION:The Pub
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 72 spots lef
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 71 spots lef
  t\nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/
  events/203300\n\n1:00PM Program\, 2:30PM Networking\nWhat does it take to 
  challenge convention\, build what doesn’t yet exist\, and turn ambitious
@@ -680,7 +627,7 @@ DTSTART;TZID=America/New_York:20260929T180000
 DTEND;TZID=America/New_York:20260929T190000
 SUMMARY:Stand Up Comedy: Orlando Baxter | 6:00PM Show
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 111 spots left\n
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 106 spots left\n
  Status: Available\nEvent URL: https://members.thequinhouse.com/events/2036
  08\n\nOrlando Baxter brings his sharp\, deeply relatable comedy to The ’
  House for an evening of stand-up inspired by family\, relationships\, work
@@ -707,7 +654,7 @@ DTSTART;TZID=America/New_York:20260929T200000
 DTEND;TZID=America/New_York:20260929T210000
 SUMMARY:Stand Up Comedy: Orlando Baxter | 8:00PM Show
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 111 spots left\n
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 101 spots left\n
  Status: Available\nEvent URL: https://members.thequinhouse.com/events/2036
  07\n\nOrlando Baxter brings his sharp\, deeply relatable comedy to The ’
  House for an evening of stand-up inspired by family\, relationships\, work

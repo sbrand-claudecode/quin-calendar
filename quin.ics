@@ -24,37 +24,6 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:quin-event-199492@thequinhouse.com
-DTSTAMP:20260914T170000Z
-DTSTART;TZID=America/New_York:20260914T170000
-DTEND;TZID=America/New_York:20260914T190000
-SUMMARY:Earthshot Innovation Challenge Pitch Competition 
-LOCATION:The Pub
-DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free / Included\nStatus: 
- You are Confirmed\nEvent URL: https://members.thequinhouse.com/events/1994
- 92\n\n5:00PM Reception\, 5:30PM Program\nBefore the spotlight turns to the
-  annual Earthshot Innovation Challenge Award Ceremony at the John F. Kenne
- dy Presidential Library this winter\, The 'Quin Impact Fund invites member
- s to an exclusive first look at the next generation of climate innovation.
- \n\nDuring this special preview\, Earthshot Innovation Challenge semi-fina
- lists will present their breakthrough concepts\, sharing bold ideas design
- ed to address some of the world's most pressing environmental challenges. 
- Members will hear each pitch\, engage with the ideas\, and cast their vote
- s in real time to select the solution they wish to propel into the challen
- ge finals\, securing at least $25\,000 in grant funding\, and raising thei
- r chances to be awarded the top prize of $100\,000.\n\nThis exclusive even
- t offers a unique opportunity to experience the innovation process firstha
- nd while helping elevate promising solutions before they take the stage at
-  the formal competition. Be among the first to discover the visionary entr
- epreneurs shaping a more sustainable future - and play a role in recognizi
- ng the ideas with the greatest potential to create lasting impact.\n\n*Thi
- s event is complimentary and reserved for members only. Complimentary lig
- ht bites and refreshments will be served. We kindly ask that all cancella
- tions be made at least 24 hours prior to the start of the event.
-URL:https://members.thequinhouse.com/events/199492
-CATEGORIES:‘Quin Impact Fund
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-201347@thequinhouse.com
 DTSTAMP:20260919T140000Z
 DTSTART;TZID=America/New_York:20260919T140000
@@ -122,23 +91,23 @@ DTSTART;TZID=America/New_York:20260925T180000
 DTEND;TZID=America/New_York:20260925T193000
 SUMMARY:'Quin Chat\; Behind the Curtain - To Kill a Mockingbird
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 7 spots left\nSt
- atus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/event
- s/203290\n\n6:00PM Reception\, 6:30PM Discussion\nExperience a behind-the
- -curtain look as The Huntington Theatre Company prepares to present the f
- irst regional production of Aaron Sorkin’s acclaimed adaptation of To K
- ill a Mockingbird. Artistic Director and Director of the production\, Lore
- tta Greco joins fellow members of the production to explore the art and co
- mplexity of bringing Harper Lee’s enduring classic to the stage\, revea
- ling what audiences rarely see: the journey from script to stage\, the art
- istic decisions made along the way\, and the collaboration required to bri
- ng a production of this scale to life. Together\, they will consider the 
- delicate balance between honoring a story that has resonated for generatio
- ns and embracing the creative freedom and fresh perspective that come with
-  a new interpretation.\n\n*This event is complimentary and reserved for me
- mbers only. Complimentary light bites and refreshments will be served. We 
- kindly ask that all cancellations be made at least 24 hours prior to the s
- tart of the event.
+DESCRIPTION:Category: The Arts\nPrice: Free / Included\nStatus: You are Con
+ firmed\nEvent URL: https://members.thequinhouse.com/events/203290\n\n6:00P
+ M Reception\, 6:30PM Discussion\nExperience a behind-the-curtain look as
+  The Huntington Theatre Company prepares to present the first regional pro
+ duction of Aaron Sorkin’s acclaimed adaptation of To Kill a Mockingbird
+ . Artistic Director and Director of the production\, Loretta Greco joins f
+ ellow members of the production to explore the art and complexity of bring
+ ing Harper Lee’s enduring classic to the stage\, revealing what audienc
+ es rarely see: the journey from script to stage\, the artistic decisions m
+ ade along the way\, and the collaboration required to bring a production o
+ f this scale to life. Together\, they will consider the delicate balance 
+ between honoring a story that has resonated for generations and embracing 
+ the creative freedom and fresh perspective that come with a new interpreta
+ tion.\n\n*This event is complimentary and reserved for members only. Compl
+ imentary light bites and refreshments will be served. We kindly ask that a
+ ll cancellations be made at least 24 hours prior to the start of the event
+ .
 URL:https://members.thequinhouse.com/events/203290
 CATEGORIES:The Arts
 END:VEVENT
@@ -149,7 +118,7 @@ DTSTART;TZID=America/New_York:20260929T130000
 DTEND;TZID=America/New_York:20260929T150000
 SUMMARY:90 Minutes of Innovation
 LOCATION:The Pub
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 72 spots lef
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 71 spots lef
  t\nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/
  events/203300\n\n1:00PM Program\, 2:30PM Networking\nWhat does it take to 
  challenge convention\, build what doesn’t yet exist\, and turn ambitious
