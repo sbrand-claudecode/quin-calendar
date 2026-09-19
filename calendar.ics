@@ -24,42 +24,12 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:quin-event-199238@thequinhouse.com
-DTSTAMP:20260919T120000Z
-DTSTART;TZID=America/New_York:20260919T120000
-DTEND;TZID=America/New_York:20260919T140000
-SUMMARY: Serendipity Brunch: The 50-Plus Edition
-LOCATION:The Terrace
-DESCRIPTION:Category: Member Mixer\, Food & Beverage\nPrice: $65.00 per per
- son\nStatus: Waitlist Only\nEvent URL: https://members.thequinhouse.com/ev
- ents/199238\n\nStep into a lively Saturday brunch designed for members in 
- their 50s and beyond—where meaningful connections come naturally and con
- versation flows as effortlessly as the mimosas. This edition of Serendipit
- y Brunch invites you to gather in The Terrace for a relaxed yet engaging s
- tart to the day alongside fellow members at a similar stage of life.\n\nTh
- e experience unfolds at an easy\, social pace: a thoughtfully curated\, fa
- mily-style menu paired with subtle conversation prompts designed to spark 
- connection and keep dialogue flowing. Enjoy a table of pastries\, fresh fr
- uit\, and parfaits to begin\, followed by your choice of entrée and gener
- ous sides\, with Bloody Marys and mimosas available throughout.\n\nWhether
-  you’re looking to expand your social circle\, make a new friend\, or si
- mply enjoy meeting someone unexpected\, it’s a refined\, convivial take 
- on brunch at The ’House—welcoming\, engaging\, and designed for great 
- conversation\, new connections\, and a little serendipity.\n\n*Tickets are
-  $65 per person\, plus tax\, and are reserved for members only. Cancellati
- ons within 72 hours of the event\, or failure to attend\, will be charged 
- in full. Please inform us of any dietary needs or restrictions by emailing
-  happening@thequin.com at least 72 hours prior to the event.
-URL:https://members.thequinhouse.com/events/199238
-CATEGORIES:Member Mixer,Food & Beverage
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-201347@thequinhouse.com
 DTSTAMP:20260919T140000Z
 DTSTART;TZID=America/New_York:20260919T140000
 DTEND;TZID=America/New_York:20260919T170000
 SUMMARY:The Social Set: Padel & Pickleball 
-DESCRIPTION:Category: Sports & Games\nPrice: Free\nAvailability: 5 spots le
+DESCRIPTION:Category: Sports & Games\nPrice: Free\nAvailability: 8 spots le
  ft\nStatus: You are on Waitlist\nEvent URL: https://members.thequinhouse.c
  om/events/201347\n\n2:00PM Pro-Led Instruction\, 2:30PM Open Play\, 4:00PM
   - Recovery and Member Mingling\n\nJoin us for an offsite afternoon of pla
@@ -179,7 +149,7 @@ DTSTART;TZID=America/New_York:20260922T170000
 DTEND;TZID=America/New_York:20260922T183000
 SUMMARY:Author Talk: "The Cruelest Game" by Matthew Futterman
 LOCATION:The Pub
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 23 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 24 spots left\nS
  tatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/even
  ts/201348\n\nCelebrate an unforgettable summer of tennis with an inside lo
  ok at the game beyond center court. Join acclaimed sports journalist and b
