@@ -24,25 +24,6 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:quin-event-201377@thequinhouse.com
-DTSTAMP:20260918T200000Z
-DTSTART;VALUE=DATE:20260918
-DTEND;VALUE=DATE:20260920
-SUMMARY:80's Night
-LOCATION:Scottie's
-DESCRIPTION:Category: Food & Beverage\nPrice: Free / Included\nStatus: Avai
- lable\nTime: 8 PM – 1 AM\nEvent URL: https://members.thequinhouse.com/ev
- ents/201377\n\nTurn back the clock and step into Scottie’s for a night i
- nspired by the unforgettable sounds of the ’80s. From iconic pop anthems
-  and new wave favorites to rock classics and dance-floor hits\, DJ Deja w
- ill be spinning the songs that defined a decade.\n\nMake it a night at th
- e ‘House and dine with us in Café Q\, Lunasol\, or Bondo before headi
- ng to Scottie’s for a nightcap and an evening of nostalgic ’80s energ
- y.
-URL:https://members.thequinhouse.com/events/201377
-CATEGORIES:Food & Beverage
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-199238@thequinhouse.com
 DTSTAMP:20260919T120000Z
 DTSTART;TZID=America/New_York:20260919T120000
@@ -472,7 +453,7 @@ DTSTART;TZID=America/New_York:20260929T130000
 DTEND;TZID=America/New_York:20260929T150000
 SUMMARY:90 Minutes of Innovation
 LOCATION:The Pub
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 55 spots lef
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 54 spots lef
  t\nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/
  events/203300\n\n1:00PM Program\, 2:30PM Networking\nWhat does it take to 
  challenge convention\, build what doesn’t yet exist\, and turn ambitious
