@@ -24,61 +24,6 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:quin-event-201347@thequinhouse.com
-DTSTAMP:20260919T140000Z
-DTSTART;TZID=America/New_York:20260919T140000
-DTEND;TZID=America/New_York:20260919T170000
-SUMMARY:The Social Set: Padel & Pickleball 
-DESCRIPTION:Category: Sports & Games\nPrice: Free\nAvailability: 8 spots le
- ft\nStatus: You are on Waitlist\nEvent URL: https://members.thequinhouse.c
- om/events/201347\n\n2:00PM Pro-Led Instruction\, 2:30PM Open Play\, 4:00PM
-  - Recovery and Member Mingling\n\nJoin us for an offsite afternoon of pla
- y as The 'Quin House takes over the courts at Ballers in the Seaport. Whet
- her you're picking up the racquet for the first time\, or have tried the s
- port and would like to learn more\, members are invited to experience two
-  of today’s most exciting racquet sports\, pickleball and padel\, in a l
- ively\, social setting.\n\nThe afternoon will begin with professional inst
- ructors Johny Mario\, Ballers Head Pickleball Pro\, and Leo Justus\, Gener
- al Manager and Padel Pro\, giving members guidance before moving into rota
- ting play and friendly matches across both sports\, guided by the Ballers 
- team. Members will have the opportunity to rotate between pickleball and p
- adel courts to experience both racquet sports with pros and members. Post 
- play\, members can stick around to mix\, mingle\, and enjoy food and drink
- s for purchase at the Ballers food trucks and bar. After play\, members a
- re welcome to stick around to mix\, mingle\, and enjoy food and drinks ava
- ilable for purchase from the Ballers food trucks and bar.\n\n*This event i
- s complimentary and reserved for members only. We kindly ask that all canc
- ellations be made at least 48 hours prior to the start of the event.
-URL:https://members.thequinhouse.com/events/201347
-CATEGORIES:Sports & Games
-END:VEVENT
-BEGIN:VEVENT
-UID:quin-event-201471@thequinhouse.com
-DTSTAMP:20260919T140000Z
-DTSTART;TZID=America/New_York:20260919T140000
-DTEND;TZID=America/New_York:20260919T170000
-SUMMARY:A Taste of 'Qktoberfest
-LOCATION:The Pub
-DESCRIPTION:Category: Food & Beverage\nPrice: Free\nAvailability: 36 spots 
- left\nStatus: Waitlist Only\nEvent URL: https://members.thequinhouse.com/e
- vents/201471\n\nOktoberfest returns to The ’Quin. Join us in The Pub as 
- we raise a stein to the opening of the world’s most celebrated beer fest
- ival. Settle in for a spirited afternoon inspired by the traditions of Mun
- ich\, complete with live music\, plenty of good cheer\, and a festive atmo
- sphere made for gathering with fellow members.\n\nMembers will enjoy a com
- plimentary Pub pretzel\, along with Bavarian fare and traditional beer ava
- ilable for purchase à la carte\, bringing a taste of Oktoberfest to The P
- ub. Whether you are joining for a stein\, staying for the music\, or makin
- g an afternoon of it with friends\, expect a lively celebration of one of 
- fall’s most beloved traditions.\n\nTraditional attire is warmly encourag
- ed\, good cheer is essential\, and a spirited Prost! is all but guaranteed
- .\n\n*This event is complimentary and reserved for members\, plus one regi
- stered guest. We kindly ask that all cancellations be made at least 24 ho
- urs prior to the start of the event.
-URL:https://members.thequinhouse.com/events/201471
-CATEGORIES:Food & Beverage
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-200523@thequinhouse.com
 DTSTAMP:20260921T180000Z
 DTSTART;TZID=America/New_York:20260921T180000
@@ -127,18 +72,18 @@ DTEND;TZID=America/New_York:20260922T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 1 spot left\nStatus: Waitlist Only\nEvent URL: https://me
- mbers.thequinhouse.com/events/200522\n\nJoin us for our weekly Member Ming
- le\, an inclusive gathering set in an ambiant reserved space. This is your
-  opportunity to connect with fellow members\, exchange ideas\, and cultiva
- te meaningful relationships.\n\nWhether you're sparking new collaborations
- \, sharing insights\, or simply enjoying great conversation\, the Member M
- ingle is the perfect way to engage with our dynamic community. Don’t mis
- s the chance to connect\, inspire\, and be inspired!\n\n*This event is com
- plimentary and reserved for members only. Complimentary light bites will b
- e served\, and beverages will be available for purchase. We kindly ask th
- at all cancellations be made at least 24 hours prior to the start of the e
- vent.
+ e\nAvailability: 3 spots left\nStatus: Waitlist Only\nEvent URL: https://m
+ embers.thequinhouse.com/events/200522\n\nJoin us for our weekly Member Min
+ gle\, an inclusive gathering set in an ambiant reserved space. This is you
+ r opportunity to connect with fellow members\, exchange ideas\, and cultiv
+ ate meaningful relationships.\n\nWhether you're sparking new collaboration
+ s\, sharing insights\, or simply enjoying great conversation\, the Member 
+ Mingle is the perfect way to engage with our dynamic community. Don’t mi
+ ss the chance to connect\, inspire\, and be inspired!\n\n*This event is co
+ mplimentary and reserved for members only. Complimentary light bites will 
+ be served\, and beverages will be available for purchase. We kindly ask t
+ hat all cancellations be made at least 24 hours prior to the start of the 
+ event.
 URL:https://members.thequinhouse.com/events/200522
 CATEGORIES:Member Mixer,Survey - Membership Mingle
 END:VEVENT
@@ -149,7 +94,7 @@ DTSTART;TZID=America/New_York:20260922T170000
 DTEND;TZID=America/New_York:20260922T183000
 SUMMARY:Author Talk: "The Cruelest Game" by Matthew Futterman
 LOCATION:The Pub
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 24 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 26 spots left\nS
  tatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/even
  ts/201348\n\nCelebrate an unforgettable summer of tennis with an inside lo
  ok at the game beyond center court. Join acclaimed sports journalist and b
@@ -423,7 +368,7 @@ DTSTART;TZID=America/New_York:20260929T130000
 DTEND;TZID=America/New_York:20260929T150000
 SUMMARY:90 Minutes of Innovation
 LOCATION:The Pub
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 54 spots lef
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 53 spots lef
  t\nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/
  events/203300\n\n1:00PM Program\, 2:30PM Networking\nWhat does it take to 
  challenge convention\, build what doesn’t yet exist\, and turn ambitious
@@ -619,7 +564,7 @@ DTSTART;TZID=America/New_York:20261005T110000
 DTEND;TZID=America/New_York:20261005T120000
 SUMMARY:Art Tour: The Core Collection 
 LOCATION:Meet in The Lobby
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 36 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 35 spots left\nS
  tatus: Available\nEvent URL: https://members.thequinhouse.com/events/20362
  6\n\nJoin The 'Quin’s art collection curator Kate Chertavian for an art 
  tour focused on the Core Collection. The discussion will begin in Bondo wi
