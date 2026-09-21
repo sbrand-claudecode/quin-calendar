@@ -119,6 +119,32 @@ URL:https://members.thequinhouse.com/events/203300
 CATEGORIES:‘Quin Chat
 END:VEVENT
 BEGIN:VEVENT
+UID:quin-event-203607@thequinhouse.com
+DTSTAMP:20260929T200000Z
+DTSTART;TZID=America/New_York:20260929T200000
+DTEND;TZID=America/New_York:20260929T210000
+SUMMARY:Stand Up Comedy: Orlando Baxter | 8:00PM Show
+LOCATION:Scottie's
+DESCRIPTION:Category: The Arts\nPrice: Free\nStatus: You are on Waitlist\nE
+ vent URL: https://members.thequinhouse.com/events/203607\n\nOrlando Baxter
+  brings his sharp\, deeply relatable comedy to The ’House for an evening
+  of stand-up inspired by family\, relationships\, work\, and the everyday 
+ absurdities of life. A former public high school teacher\, Orlando spent 1
+ 2 years in the classroom—an experience that continues to shape his quick
+  wit\, natural storytelling\, and unmistakable point of view.\n\nSince tra
+ ding lesson plans for the stage\, Orlando has entertained audiences around
+  the world\, appeared on Conan\, and earned more than five million views 
+ for his comedy special\, Glorified Baby Sitter.\n\nEnjoy a pre-show cockt
+ ail from the cash bar before settling in for the performance. Seating is f
+ irst come\, first served.\n\nMake a night of it with a burger and beer in 
+ The Pub before the show. Dining walk-ins are welcome.\n\n*This event is av
+ ailable for members and up to one registered guest. Complimentary light b
+ ites and refreshments will be served. We kindly ask that all cancellations
+  be made at least 24 hours prior to the start of the event.
+URL:https://members.thequinhouse.com/events/203607
+CATEGORIES:The Arts
+END:VEVENT
+BEGIN:VEVENT
 UID:quin-event-202989@thequinhouse.com
 DTSTAMP:20261024T200000Z
 DTSTART;VALUE=DATE:20261024
