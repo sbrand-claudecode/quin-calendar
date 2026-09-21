@@ -30,16 +30,15 @@ DTSTART;TZID=America/New_York:20260921T180000
 DTEND;TZID=America/New_York:20260921T200000
 SUMMARY:Board Game Night 
 LOCATION:The Living Room
-DESCRIPTION:Category: Sports & Games\nPrice: Free\nAvailability: 1 spot lef
- t\nStatus: Waitlist Only\nEvent URL: https://members.thequinhouse.com/even
- ts/200523\n\nBring your sharpest wit\, channel your competitive charm\, an
- d roll the dice for an evening of strategy\, luck\, and a touch of mischie
- f. Hosted in The Living Room\, pick from one of our timeless classics or m
- odern marvels and let the games begin!\n\n*This event is complimentary and
-  reserved for members\, plus one registered guest.  Food and cocktails fr
- om The Living Room menu will be available for purchase. We kindly ask tha
- t all cancellations be made at least 24 hours prior to the start of the ev
- ent.
+DESCRIPTION:Category: Sports & Games\nPrice: Free\nStatus: Waitlist Only\nE
+ vent URL: https://members.thequinhouse.com/events/200523\n\nBring your sha
+ rpest wit\, channel your competitive charm\, and roll the dice for an even
+ ing of strategy\, luck\, and a touch of mischief. Hosted in The Living Roo
+ m\, pick from one of our timeless classics or modern marvels and let the g
+ ames begin!\n\n*This event is complimentary and reserved for members\, plu
+ s one registered guest.  Food and cocktails from The Living Room menu wil
+ l be available for purchase. We kindly ask that all cancellations be made
+  at least 24 hours prior to the start of the event.
 URL:https://members.thequinhouse.com/events/200523
 CATEGORIES:Sports & Games
 END:VEVENT
@@ -95,7 +94,7 @@ DTSTART;TZID=America/New_York:20260922T170000
 DTEND;TZID=America/New_York:20260922T183000
 SUMMARY:Author Talk: "The Cruelest Game" by Matthew Futterman
 LOCATION:The Pub
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 36 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 11 spots left\nS
  tatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/even
  ts/201348\n\nCelebrate an unforgettable summer of tennis with an inside lo
  ok at the game beyond center court. Join acclaimed sports journalist and b
@@ -151,26 +150,25 @@ DTSTART;TZID=America/New_York:20260923T170000
 DTEND;TZID=America/New_York:20260923T183000
 SUMMARY:'Quin Chat: Boston\, Our Global Home 
 LOCATION:The Muse
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 32 spots lef
- t\nStatus: Waitlist Only\nEvent URL: https://members.thequinhouse.com/even
- ts/202316\n\n5:00PM Reception\, 5:30PM Discussion \nWhat makes Boston a t
- ruly global city? From the FIFA World Cup and America’s 250th anniversar
- y to the arrival of ships from around the world for Sail Boston\, the city
-  continues to take center stage. Yet Boston’s international reach exten
- ds far beyond these marquee moments. Recently named the best U.S. city for
-  foreign multinationals by The Financial Times and Nikkei\, Boston is h
- ome to more than 50 foreign and honorary consulates\, with one in four r
- esidents being born abroad. Across our universities\, hospitals\, busines
- ses\, cultural institutions\, and diverse communities\, Boston’s connect
- ions span the globe.\n\nFor this ’Quin Chat\, join James Reginald Colimo
- n\, Director of Global Affairs for the City of Boston\, and Mary Yntema\, 
- Executive Director of the Boston Committee on Foreign Relations and Past P
- resident & CEO of WorldBoston\, Inc.\, for a timely conversation exploring
-  how Boston became the global hub it is today - and what that means for th
- e people who call it home.\n\n*This event is complimentary and reserved fo
- r members only. Complimentary light bites and refreshments will be served.
-  We kindly ask that all cancellations be made at least 24 hours prior to t
- he start of the event.
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nStatus: Waitlist Only\nEve
+ nt URL: https://members.thequinhouse.com/events/202316\n\n5:00PM Reception
+ \, 5:30PM Discussion \nWhat makes Boston a truly global city? From the FI
+ FA World Cup and America’s 250th anniversary to the arrival of ships fro
+ m around the world for Sail Boston\, the city continues to take center sta
+ ge. Yet Boston’s international reach extends far beyond these marquee m
+ oments. Recently named the best U.S. city for foreign multinationals by T
+ he Financial Times and Nikkei\, Boston is home to more than 50 foreign 
+ and honorary consulates\, with one in four residents being born abroad. 
+ Across our universities\, hospitals\, businesses\, cultural institutions\,
+  and diverse communities\, Boston’s connections span the globe.\n\nFor t
+ his ’Quin Chat\, join James Reginald Colimon\, Director of Global Affair
+ s for the City of Boston\, and Mary Yntema\, Executive Director of the Bos
+ ton Committee on Foreign Relations and Past President & CEO of WorldBoston
+ \, Inc.\, for a timely conversation exploring how Boston became the global
+  hub it is today - and what that means for the people who call it home.\n\
+ n*This event is complimentary and reserved for members only. Complimentary
+  light bites and refreshments will be served. We kindly ask that all cance
+ llations be made at least 24 hours prior to the start of the event.
 URL:https://members.thequinhouse.com/events/202316
 CATEGORIES:‘Quin Chat
 END:VEVENT
@@ -344,7 +342,7 @@ DTSTART;TZID=America/New_York:20260928T190000
 DTEND;TZID=America/New_York:20260928T203000
 SUMMARY:'Quin Chat: Equity in Breast Cancer Care
 LOCATION:Scottie's
-DESCRIPTION:Category: Health & Wellness\nPrice: Free\nAvailability: 47 spot
+DESCRIPTION:Category: Health & Wellness\nPrice: Free\nAvailability: 48 spot
  s left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/eve
  nts/203298\n\n7:00PM Reception\, 7:30PM Discussion\n\nPresident\, CEO\, an
  d founder of Gretta Enterprises\, and breast cancer survivor\, Gretta Mona
@@ -501,7 +499,7 @@ DTSTART;TZID=America/New_York:20260930T183000
 DTEND;TZID=America/New_York:20260930T200000
 SUMMARY:'Quin Chat: How Hip-Hop Built an Empire
 LOCATION:The Muse
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 21 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 20 spots left\nS
  tatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/even
  ts/203633\n\n6:30PM Reception\, 7:00PM Discussion\n\nWhat is it about hip-
  hop that has transformed generations of artists into some of the world’s
@@ -532,7 +530,7 @@ DTSTART;TZID=America/New_York:20261002T173000
 DTEND;TZID=America/New_York:20261002T190000
 SUMMARY:The Root of Wellbeing with Wildsmith Skin 
 LOCATION:The Terrace
-DESCRIPTION:Category: Health & Wellness\nPrice: Free\nAvailability: 13 spot
+DESCRIPTION:Category: Health & Wellness\nPrice: Free\nAvailability: 10 spot
  s left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/eve
  nts/203637\n\n5:30PM Reception\, 6:00PM Discussion\n\nDiscover the root of
   wellbeing with Wildsmith Skin and an intimate\, immersive evening explori
@@ -565,7 +563,7 @@ DTSTART;TZID=America/New_York:20261005T110000
 DTEND;TZID=America/New_York:20261005T120000
 SUMMARY:Art Tour: The Core Collection 
 LOCATION:Meet in The Lobby
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 18 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 16 spots left\nS
  tatus: Available\nEvent URL: https://members.thequinhouse.com/events/20362
  6\n\nJoin The 'Quin’s art collection curator Kate Chertavian for an art 
  tour focused on the Core Collection. The discussion will begin in Bondo wi
@@ -609,7 +607,7 @@ DTSTART;TZID=America/New_York:20261005T183000
 DTEND;TZID=America/New_York:20261005T200000
 SUMMARY:'Quin Chat: Latinas Leading Business
 LOCATION:Scotties
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 98 spots lef
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 96 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/2
  03636\n\n6:30PM Reception\, 7:00PM Discussion\n\nIn celebration of Hispan
  ic Heritage Month\, join us for a ’Quin Chat that shines a light on the 
@@ -689,7 +687,7 @@ DTEND;TZID=America/New_York:20261013T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 34 spots left\nStatus: Available\nEvent URL: https://memb
+ e\nAvailability: 33 spots left\nStatus: Available\nEvent URL: https://memb
  ers.thequinhouse.com/events/205199\n\nJoin us for our weekly Member Mingle
  \, an inclusive gathering set in an ambiant reserved space. This is your o
  pportunity to connect with fellow members\, exchange ideas\, and cultivate
@@ -711,7 +709,7 @@ DTSTART;TZID=America/New_York:20261013T190000
 DTEND;TZID=America/New_York:20261013T200000
 SUMMARY:Author's Circle Book Club: "Safekeeping" by Claudia Hinz
 LOCATION:The Muse
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 43 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 37 spots left\nS
  tatus: Available\nEvent URL: https://members.thequinhouse.com/events/20362
  9\n\nThis October\, settle into the season with Safekeeping by Claudia Hin
  z\, a sweeping and deeply moving novel about family\, memory\, and the sec
@@ -761,7 +759,7 @@ DTEND;TZID=America/New_York:20261020T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 36 spots left\nStatus: Available\nEvent URL: https://memb
+ e\nAvailability: 35 spots left\nStatus: Available\nEvent URL: https://memb
  ers.thequinhouse.com/events/205202\n\nJoin us for our weekly Member Mingle
  \, an inclusive gathering set in an ambiant reserved space. This is your o
  pportunity to connect with fellow members\, exchange ideas\, and cultivate
