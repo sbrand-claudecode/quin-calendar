@@ -30,15 +30,16 @@ DTSTART;TZID=America/New_York:20260921T180000
 DTEND;TZID=America/New_York:20260921T200000
 SUMMARY:Board Game Night 
 LOCATION:The Living Room
-DESCRIPTION:Category: Sports & Games\nPrice: Free\nStatus: Waitlist Only\nE
- vent URL: https://members.thequinhouse.com/events/200523\n\nBring your sha
- rpest wit\, channel your competitive charm\, and roll the dice for an even
- ing of strategy\, luck\, and a touch of mischief. Hosted in The Living Roo
- m\, pick from one of our timeless classics or modern marvels and let the g
- ames begin!\n\n*This event is complimentary and reserved for members\, plu
- s one registered guest.  Food and cocktails from The Living Room menu wil
- l be available for purchase. We kindly ask that all cancellations be made
-  at least 24 hours prior to the start of the event.
+DESCRIPTION:Category: Sports & Games\nPrice: Free\nAvailability: 1 spot lef
+ t\nStatus: Waitlist Only\nEvent URL: https://members.thequinhouse.com/even
+ ts/200523\n\nBring your sharpest wit\, channel your competitive charm\, an
+ d roll the dice for an evening of strategy\, luck\, and a touch of mischie
+ f. Hosted in The Living Room\, pick from one of our timeless classics or m
+ odern marvels and let the games begin!\n\n*This event is complimentary and
+  reserved for members\, plus one registered guest.  Food and cocktails fr
+ om The Living Room menu will be available for purchase. We kindly ask tha
+ t all cancellations be made at least 24 hours prior to the start of the ev
+ ent.
 URL:https://members.thequinhouse.com/events/200523
 CATEGORIES:Sports & Games
 END:VEVENT
@@ -49,18 +50,18 @@ DTSTART;TZID=America/New_York:20260921T180000
 DTEND;TZID=America/New_York:20260921T210000
 SUMMARY:Community Table
 LOCATION:Café Q
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 5 spots left
- \nStatus: Waitlist Only\nEvent URL: https://members.thequinhouse.com/event
- s/200524\n\nStart your week in good company with the Café Q Community din
- ner table for members-only. Set aside for those looking to expand their so
- cial circle over a shared meal\, this gathering is all about good food\, l
- ively conversation\, and meaningful connections. Pull up a chair\, and sav
- or the experience—because nothing brings people together quite like a gr
- eat meal.\n\n*This event is reserved for members only. An advance charge o
- f $24 per member contributes to communal appetizers available upon seating
- . Members are responsible for à la carte entrées\, desserts\, and bevera
- ges\, plus taxes and fees. Cancellations made within 24 hours of the event
- \, or failure to attend will be subject to the Café Q's surcharge policy.
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 3 spots left
+ \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/20
+ 0524\n\nStart your week in good company with the Café Q Community dinner 
+ table for members-only. Set aside for those looking to expand their social
+  circle over a shared meal\, this gathering is all about good food\, livel
+ y conversation\, and meaningful connections. Pull up a chair\, and savor t
+ he experience—because nothing brings people together quite like a great 
+ meal.\n\n*This event is reserved for members only. An advance charge of $2
+ 4 per member contributes to communal appetizers available upon seating. Me
+ mbers are responsible for à la carte entrées\, desserts\, and beverages\
+ , plus taxes and fees. Cancellations made within 24 hours of the event\, o
+ r failure to attend will be subject to the Café Q's surcharge policy.
 URL:https://members.thequinhouse.com/events/200524
 CATEGORIES:Member Mixer
 END:VEVENT
@@ -72,18 +73,18 @@ DTEND;TZID=America/New_York:20260922T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 5 spots left\nStatus: Waitlist Only\nEvent URL: https://m
- embers.thequinhouse.com/events/200522\n\nJoin us for our weekly Member Min
- gle\, an inclusive gathering set in an ambiant reserved space. This is you
- r opportunity to connect with fellow members\, exchange ideas\, and cultiv
- ate meaningful relationships.\n\nWhether you're sparking new collaboration
- s\, sharing insights\, or simply enjoying great conversation\, the Member 
- Mingle is the perfect way to engage with our dynamic community. Don’t mi
- ss the chance to connect\, inspire\, and be inspired!\n\n*This event is co
- mplimentary and reserved for members only. Complimentary light bites will 
- be served\, and beverages will be available for purchase. We kindly ask t
- hat all cancellations be made at least 24 hours prior to the start of the 
- event.
+ e\nAvailability: 5 spots left\nStatus: Available\nEvent URL: https://membe
+ rs.thequinhouse.com/events/200522\n\nJoin us for our weekly Member Mingle\
+ , an inclusive gathering set in an ambiant reserved space. This is your op
+ portunity to connect with fellow members\, exchange ideas\, and cultivate 
+ meaningful relationships.\n\nWhether you're sparking new collaborations\, 
+ sharing insights\, or simply enjoying great conversation\, the Member Ming
+ le is the perfect way to engage with our dynamic community. Don’t miss t
+ he chance to connect\, inspire\, and be inspired!\n\n*This event is compli
+ mentary and reserved for members only. Complimentary light bites will be s
+ erved\, and beverages will be available for purchase. We kindly ask that 
+ all cancellations be made at least 24 hours prior to the start of the even
+ t.
 URL:https://members.thequinhouse.com/events/200522
 CATEGORIES:Member Mixer,Survey - Membership Mingle
 END:VEVENT
@@ -94,7 +95,7 @@ DTSTART;TZID=America/New_York:20260922T170000
 DTEND;TZID=America/New_York:20260922T183000
 SUMMARY:Author Talk: "The Cruelest Game" by Matthew Futterman
 LOCATION:The Pub
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 34 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 36 spots left\nS
  tatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/even
  ts/201348\n\nCelebrate an unforgettable summer of tennis with an inside lo
  ok at the game beyond center court. Join acclaimed sports journalist and b
@@ -126,7 +127,7 @@ DTSTART;TZID=America/New_York:20260923T150000
 DTEND;TZID=America/New_York:20260923T170000
 SUMMARY:Pub Table Bridge
 LOCATION:The Pub
-DESCRIPTION:Category: Sports & Games\nPrice: Free\nAvailability: 4 spots le
+DESCRIPTION:Category: Sports & Games\nPrice: Free\nAvailability: 6 spots le
  ft\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/
  202196\n\nPull up a chair for Pub Table Bridge\, a relaxed afternoon of ca
  rds\, conversation\, and friendly competition among fellow members and gue
@@ -150,7 +151,7 @@ DTSTART;TZID=America/New_York:20260923T170000
 DTEND;TZID=America/New_York:20260923T183000
 SUMMARY:'Quin Chat: Boston\, Our Global Home 
 LOCATION:The Muse
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 30 spots lef
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 32 spots lef
  t\nStatus: Waitlist Only\nEvent URL: https://members.thequinhouse.com/even
  ts/202316\n\n5:00PM Reception\, 5:30PM Discussion \nWhat makes Boston a t
  ruly global city? From the FIFA World Cup and America’s 250th anniversar
@@ -263,7 +264,7 @@ DTEND;TZID=America/New_York:20260926T140000
 SUMMARY:Serendipity Brunch
 LOCATION:Lunasol
 DESCRIPTION:Category: Member Mixer\nPrice: $65.00 per person\nAvailability:
-  11 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
+  10 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
  .com/events/199239\n\nJoin us for a Serendipity Saturday Brunch that invit
  es members to enjoy great conversation\, in good company. Set in Lunasol\,
   the afternoon unfolds with an easy rhythm—a thoughtful menu\, enthusia
@@ -368,7 +369,7 @@ DTSTART;TZID=America/New_York:20260929T130000
 DTEND;TZID=America/New_York:20260929T150000
 SUMMARY:90 Minutes of Innovation
 LOCATION:The Pub
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 52 spots lef
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 48 spots lef
  t\nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/
  events/203300\n\n1:00PM Program\, 2:30PM Networking\nWhat does it take to 
  challenge convention\, build what doesn’t yet exist\, and turn ambitious
@@ -406,7 +407,7 @@ DTEND;TZID=America/New_York:20260929T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 35 spots left\nStatus: Available\nEvent URL: https://memb
+ e\nAvailability: 34 spots left\nStatus: Available\nEvent URL: https://memb
  ers.thequinhouse.com/events/205197\n\nJoin us for our weekly Member Mingle
  \, an inclusive gathering set in an ambiant reserved space. This is your o
  pportunity to connect with fellow members\, exchange ideas\, and cultivate
@@ -500,27 +501,27 @@ DTSTART;TZID=America/New_York:20260930T183000
 DTEND;TZID=America/New_York:20260930T200000
 SUMMARY:'Quin Chat: How Hip-Hop Built an Empire
 LOCATION:The Muse
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 70 spots left\nS
- tatus: futureSale\nEvent URL: https://members.thequinhouse.com/events/2036
- 33\n\n6:30PM Reception\, 7:00PM Discussion\n\nWhat is it about hip-hop tha
- t has transformed generations of artists into some of the world’s most i
- nfluential entrepreneurs\, tastemakers\, and cultural forces? Join us for 
- a ’Quin Chat exploring the evolution of the hip-hop artist from performe
- r to mogul - and how a genre born from creative expression has become a po
- werful engine for business\, innovation\, and cultural influence. From fas
- hion and record labels to food and beverage\, technology\, media\, and bey
- ond\, the conversation will examine how artists have built expansive ecosy
- stems around their creativity while reshaping the industries they enter. 
- \n\nNeil Martinez Belkin\, New York Times bestselling author\, will be j
- oined in conversation by Boston native Dart Adams\, an acclaimed journalis
- t\, historian\, researcher\, lecturer\, and author. Together\, they will 
- explore the entrepreneurial mindset behind hip-hop’s most influential fi
- gures\, the relationship between cultural credibility and commercial succe
- ss\, and how the genre continues to redefine what it means to be an artist
- \, and a mogul\, today.\n\n*This event is complimentary and reserved for m
- embers only. Complimentary light bites and refreshments will be served. We
-  kindly ask that all cancellations be made at least 24 hours prior to the 
- start of the event.
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 21 spots left\nS
+ tatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/even
+ ts/203633\n\n6:30PM Reception\, 7:00PM Discussion\n\nWhat is it about hip-
+ hop that has transformed generations of artists into some of the world’s
+  most influential entrepreneurs\, tastemakers\, and cultural forces? Join 
+ us for a ’Quin Chat exploring the evolution of the hip-hop artist from p
+ erformer to mogul - and how a genre born from creative expression has beco
+ me a powerful engine for business\, innovation\, and cultural influence. F
+ rom fashion and record labels to food and beverage\, technology\, media\, 
+ and beyond\, the conversation will examine how artists have built expansiv
+ e ecosystems around their creativity while reshaping the industries they e
+ nter. \n\nNeil Martinez Belkin\, New York Times bestselling author\, wi
+ ll be joined in conversation by Boston native Dart Adams\, an acclaimed jo
+ urnalist\, historian\, researcher\, lecturer\, and author. Together\, the
+ y will explore the entrepreneurial mindset behind hip-hop’s most influen
+ tial figures\, the relationship between cultural credibility and commercia
+ l success\, and how the genre continues to redefine what it means to be an
+  artist\, and a mogul\, today.\n\n*This event is complimentary and reserve
+ d for members only. Complimentary light bites and refreshments will be ser
+ ved. We kindly ask that all cancellations be made at least 24 hours prior 
+ to the start of the event.
 URL:https://members.thequinhouse.com/events/203633
 CATEGORIES:The Arts
 END:VEVENT
@@ -531,29 +532,29 @@ DTSTART;TZID=America/New_York:20261002T173000
 DTEND;TZID=America/New_York:20261002T190000
 SUMMARY:The Root of Wellbeing with Wildsmith Skin 
 LOCATION:The Terrace
-DESCRIPTION:Category: Health & Wellness\nPrice: Free\nAvailability: 50 spot
- s left\nStatus: futureSale\nEvent URL: https://members.thequinhouse.com/ev
- ents/203637\n\n5:30PM Reception\, 6:00PM Discussion\n\nDiscover the root o
- f wellbeing with Wildsmith Skin and an intimate\, immersive evening explor
- ing the powerful role botanicals can play in how we sleep\, restore\, and 
- feel each day. Led by Haley Carr\, Vice President of Operations & Training
-  at Wildsmith Skin\, the conversation will explore the foundations of well
- being and the importance of our circadian rhythm in supporting sleep quali
- ty\, gut and skin health\, relaxation\, and mental focus.\n\nWith more tha
- n 20 years of experience across the luxury spa\, wellness\, and hospitalit
- y industries\, Haley brings together expertise in aromatherapy\, skin heal
- th\, therapeutic touch\, and holistic wellbeing. Throughout the evening\, 
- members will discover the science and traditions behind Wildsmith’s bota
- nical ingredients while experiencing a selection of the brand’s products
-  firsthand through their textures\, scents\, and formulations.\n\nThe expe
- rience extends beyond the conversation to dedicated one on one time with H
- aley\, offering each member personalized wellbeing guidance tailored to th
- eir lifestyle\, daily routine\, and individual needs. Leave with a deeper 
- understanding of your own wellness rituals—and simple\, achievable ways 
- to incorporate botanicals and thoughtful practices into everyday life.\n\n
- *This event is complimentary and reserved for members only. Complimentary 
- light bites and refreshments will be served. We kindly ask that all cancel
- lations be made at least 24 hours prior to the start of the event.
+DESCRIPTION:Category: Health & Wellness\nPrice: Free\nAvailability: 13 spot
+ s left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/eve
+ nts/203637\n\n5:30PM Reception\, 6:00PM Discussion\n\nDiscover the root of
+  wellbeing with Wildsmith Skin and an intimate\, immersive evening explori
+ ng the powerful role botanicals can play in how we sleep\, restore\, and f
+ eel each day. Led by Haley Carr\, Vice President of Operations & Training 
+ at Wildsmith Skin\, the conversation will explore the foundations of wellb
+ eing and the importance of our circadian rhythm in supporting sleep qualit
+ y\, gut and skin health\, relaxation\, and mental focus.\n\nWith more than
+  20 years of experience across the luxury spa\, wellness\, and hospitality
+  industries\, Haley brings together expertise in aromatherapy\, skin healt
+ h\, therapeutic touch\, and holistic wellbeing. Throughout the evening\, m
+ embers will discover the science and traditions behind Wildsmith’s botan
+ ical ingredients while experiencing a selection of the brand’s products 
+ firsthand through their textures\, scents\, and formulations.\n\nThe exper
+ ience extends beyond the conversation to dedicated one on one time with Ha
+ ley\, offering each member personalized wellbeing guidance tailored to the
+ ir lifestyle\, daily routine\, and individual needs. Leave with a deeper u
+ nderstanding of your own wellness rituals—and simple\, achievable ways t
+ o incorporate botanicals and thoughtful practices into everyday life.\n\n*
+ This event is complimentary and reserved for members only. Complimentary l
+ ight bites and refreshments will be served. We kindly ask that all cancell
+ ations be made at least 24 hours prior to the start of the event.
 URL:https://members.thequinhouse.com/events/203637
 CATEGORIES:Health & Wellness
 END:VEVENT
@@ -564,7 +565,7 @@ DTSTART;TZID=America/New_York:20261005T110000
 DTEND;TZID=America/New_York:20261005T120000
 SUMMARY:Art Tour: The Core Collection 
 LOCATION:Meet in The Lobby
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 25 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 18 spots left\nS
  tatus: Available\nEvent URL: https://members.thequinhouse.com/events/20362
  6\n\nJoin The 'Quin’s art collection curator Kate Chertavian for an art 
  tour focused on the Core Collection. The discussion will begin in Bondo wi
@@ -587,7 +588,7 @@ DTEND;TZID=America/New_York:20261005T210000
 SUMMARY:Serendipity Dinner 
 LOCATION:The Muse
 DESCRIPTION:Category: Member Mixer\nPrice: $100.00 per person\nAvailability
- : 13 spots left\nStatus: Available\nEvent URL: https://members.thequinhous
+ : 12 spots left\nStatus: Available\nEvent URL: https://members.thequinhous
  e.com/events/176002\n\nJoin The ‘Quin House Managing Director\, Matthias
   Kiehm\, for an evening of meaningful connections over a thoughtfully cura
  ted three-course dinner. Enjoy expertly paired wines as you engage with fe
@@ -608,30 +609,30 @@ DTSTART;TZID=America/New_York:20261005T183000
 DTEND;TZID=America/New_York:20261005T200000
 SUMMARY:'Quin Chat: Latinas Leading Business
 LOCATION:Scotties
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 110 spots le
- ft\nStatus: futureSale\nEvent URL: https://members.thequinhouse.com/events
- /203636\n\n6:30PM Reception\, 7:00PM Discussion\n\nIn celebration of Hisp
- anic Heritage Month\, join us for a ’Quin Chat that shines a light on th
- e growing influence of Latinas shaping America’s economic future. Drawi
- ng from a new national study focused on U.S. Latinas\, the conversation 
- will explore their expanding  economic power\, leadership\, and impact—
- and why this generation of leaders represents a force poised to shape the
-  future of business and the broader U.S. economy.\n\nThe research began in
-  2025\, when the Latino Donor Collaborative\, Hispanics in Philanthropy\, 
- and We Are ALX - grant recipient of The 'Quin Impact Fund - a joined force
- s to envision a national study capturing the economic contributions and po
- tential of U.S. Latinas. Moderated by Nathalie Rayes\, former U.S. Ambassa
- dor to Croatia and civic leader\, the conversation brings together three o
- f the original thought partners behind the study: Eneida Roman\, President
-  and CEO of We Are ALX and a nationally recognized advocate for advancing 
- women and Latinos\; Ana Marie Argilagos\, former President & CEO of Hispan
- ics in Philanthropy\; and Ana Valdez\, President & CEO of the Latino Donor
-  Collaborative. Together\, they will share the story behind the research\,
-  and consider what the rising influence of Latinas means for business\, le
- adership\, and philanthropy.\n\n*This event is complimentary and reserved 
- for members only. Complimentary light bites and refreshments will be serv
- ed. We kindly ask that all cancellations be made at least 24 hours prior t
- o the start of the event.
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 98 spots lef
+ t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/2
+ 03636\n\n6:30PM Reception\, 7:00PM Discussion\n\nIn celebration of Hispan
+ ic Heritage Month\, join us for a ’Quin Chat that shines a light on the 
+ growing influence of Latinas shaping America’s economic future. Drawing
+  from a new national study focused on U.S. Latinas\, the conversation wi
+ ll explore their expanding  economic power\, leadership\, and impact—an
+ d why this generation of leaders represents a force poised to shape the f
+ uture of business and the broader U.S. economy.\n\nThe research began in 2
+ 025\, when the Latino Donor Collaborative\, Hispanics in Philanthropy\, an
+ d We Are ALX - grant recipient of The 'Quin Impact Fund - a joined forces 
+ to envision a national study capturing the economic contributions and pote
+ ntial of U.S. Latinas. Moderated by Nathalie Rayes\, former U.S. Ambassado
+ r to Croatia and civic leader\, the conversation brings together three of 
+ the original thought partners behind the study: Eneida Roman\, President a
+ nd CEO of We Are ALX and a nationally recognized advocate for advancing wo
+ men and Latinos\; Ana Marie Argilagos\, former President & CEO of Hispanic
+ s in Philanthropy\; and Ana Valdez\, President & CEO of the Latino Donor C
+ ollaborative. Together\, they will share the story behind the research\, a
+ nd consider what the rising influence of Latinas means for business\, lead
+ ership\, and philanthropy.\n\n*This event is complimentary and reserved fo
+ r members only. Complimentary light bites and refreshments will be served
+ . We kindly ask that all cancellations be made at least 24 hours prior to 
+ the start of the event.
 URL:https://members.thequinhouse.com/events/203636
 CATEGORIES:‘Quin Chat
 END:VEVENT
@@ -643,7 +644,7 @@ DTEND;TZID=America/New_York:20261006T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 33 spots left\nStatus: Available\nEvent URL: https://memb
+ e\nAvailability: 30 spots left\nStatus: Available\nEvent URL: https://memb
  ers.thequinhouse.com/events/205198\n\nJoin us for our weekly Member Mingle
  \, an inclusive gathering set in an ambiant reserved space. This is your o
  pportunity to connect with fellow members\, exchange ideas\, and cultivate
@@ -665,18 +666,18 @@ DTSTART;TZID=America/New_York:20261012T180000
 DTEND;TZID=America/New_York:20261012T210000
 SUMMARY:Community Table
 LOCATION:Café Q
-DESCRIPTION:Category: Food & Beverage\nPrice: Free\nAvailability: 10 spots 
- left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/event
- s/205200\n\nEase into the week around the table with the return of Café Q
- ’s Community Table. Designed for members looking to meet new faces and m
- ake new connections\, the evening brings together good food and engaging c
- onversation in a relaxed\, convivial setting. Take a seat\, share a meal\,
-  and see where the conversation leads.\n\n*This event is reserved for memb
- ers only. An advance charge of $24 per member contributes to communal appe
- tizers available upon seating. Members are responsible for à la carte ent
- rées\, desserts\, and beverages\, plus taxes and fees. Cancellations made
-  within 24 hours of the event\, or failure to attend will be subject to th
- e Café Q's surcharge policy.
+DESCRIPTION:Category: Food & Beverage\nPrice: Free\nAvailability: 9 spots l
+ eft\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events
+ /205200\n\nEase into the week around the table with the return of Café Q�
+ ��s Community Table. Designed for members looking to meet new faces and ma
+ ke new connections\, the evening brings together good food and engaging co
+ nversation in a relaxed\, convivial setting. Take a seat\, share a meal\, 
+ and see where the conversation leads.\n\n*This event is reserved for membe
+ rs only. An advance charge of $24 per member contributes to communal appet
+ izers available upon seating. Members are responsible for à la carte entr
+ ées\, desserts\, and beverages\, plus taxes and fees. Cancellations made 
+ within 24 hours of the event\, or failure to attend will be subject to the
+  Café Q's surcharge policy.
 URL:https://members.thequinhouse.com/events/205200
 CATEGORIES:Food & Beverage
 END:VEVENT
@@ -688,7 +689,7 @@ DTEND;TZID=America/New_York:20261013T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 35 spots left\nStatus: Available\nEvent URL: https://memb
+ e\nAvailability: 34 spots left\nStatus: Available\nEvent URL: https://memb
  ers.thequinhouse.com/events/205199\n\nJoin us for our weekly Member Mingle
  \, an inclusive gathering set in an ambiant reserved space. This is your o
  pportunity to connect with fellow members\, exchange ideas\, and cultivate
@@ -710,27 +711,27 @@ DTSTART;TZID=America/New_York:20261013T190000
 DTEND;TZID=America/New_York:20261013T200000
 SUMMARY:Author's Circle Book Club: "Safekeeping" by Claudia Hinz
 LOCATION:The Muse
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 60 spots left\nS
- tatus: futureSale\nEvent URL: https://members.thequinhouse.com/events/2036
- 29\n\nThis October\, settle into the season with Safekeeping by Claudia Hi
- nz\, a sweeping and deeply moving novel about family\, memory\, and the se
- crets we carry across generations. Set against the rugged beauty of Northe
- rn California\, the story follows the intertwined lives of three women as 
- long-held truths begin to surface\, revealing the complicated bonds betwee
- n mothers and daughters and the choices that shape a family over time.\n\n
- Atmospheric and richly layered\, Safekeeping explores belonging\, resilien
- ce\, and the ways our past continues to shape the present. With its evocat
- ive setting and intimate exploration of family relationships\, it is a fit
- ting fall read—and an ideal choice for readers drawn to thoughtful\, cha
- racter-driven stories that linger long after the final page.\n\nJoined by 
- author Claudia Hinz\, the evening will offer a closer look at the inspirat
- ion behind Safekeeping\, its characters\, and the themes woven throughout 
- the novel. Members will have the opportunity to hear directly from Hinz an
- d explore the story through an intimate conversation that brings the book 
- - and the world within it - to life.\n\n*This event is complimentary and r
- eserved for members only. Complimentary light bites and refreshments will 
- be served.We kindly ask that all cancellations be made at least 24 hours p
- rior to the start of the event.
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 43 spots left\nS
+ tatus: Available\nEvent URL: https://members.thequinhouse.com/events/20362
+ 9\n\nThis October\, settle into the season with Safekeeping by Claudia Hin
+ z\, a sweeping and deeply moving novel about family\, memory\, and the sec
+ rets we carry across generations. Set against the rugged beauty of Norther
+ n California\, the story follows the intertwined lives of three women as l
+ ong-held truths begin to surface\, revealing the complicated bonds between
+  mothers and daughters and the choices that shape a family over time.\n\nA
+ tmospheric and richly layered\, Safekeeping explores belonging\, resilienc
+ e\, and the ways our past continues to shape the present. With its evocati
+ ve setting and intimate exploration of family relationships\, it is a fitt
+ ing fall read—and an ideal choice for readers drawn to thoughtful\, char
+ acter-driven stories that linger long after the final page.\n\nJoined by a
+ uthor Claudia Hinz\, the evening will offer a closer look at the inspirati
+ on behind Safekeeping\, its characters\, and the themes woven throughout t
+ he novel. Members will have the opportunity to hear directly from Hinz and
+  explore the story through an intimate conversation that brings the book -
+  and the world within it - to life.\n\n*This event is complimentary and re
+ served for members only. Complimentary light bites and refreshments will b
+ e served.We kindly ask that all cancellations be made at least 24 hours pr
+ ior to the start of the event.
 URL:https://members.thequinhouse.com/events/203629
 CATEGORIES:The Arts
 END:VEVENT
@@ -760,7 +761,7 @@ DTEND;TZID=America/New_York:20261020T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 37 spots left\nStatus: Available\nEvent URL: https://memb
+ e\nAvailability: 36 spots left\nStatus: Available\nEvent URL: https://memb
  ers.thequinhouse.com/events/205202\n\nJoin us for our weekly Member Mingle
  \, an inclusive gathering set in an ambiant reserved space. This is your o
  pportunity to connect with fellow members\, exchange ideas\, and cultivate
@@ -843,51 +844,51 @@ DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261026
 SUMMARY:Black Widow: Web of Deceit | Saturday Night
 LOCATION:217 Commonwealth Mansion
-DESCRIPTION:Category: Holiday\nPrice: $295.00 per person\nStatus: You are C
- onfirmed\nTime: 8 PM – 1 AM\nEvent URL: https://members.thequinhouse.com
- /events/202989\n\nSlip into the camouflage of costume for an evening under
-  the ethereal shadows of lacy silk couture…\n\nYou're cordially invited 
- to The ‘Quin’s Annual Halloween Soirée an elegant and entangled tick
- eted affair. \n\nUnder the flicker of flame\, the ‘House will captivate
-  with indulgent buffets\, enchanting performances\, and the deceivingly t
- ranslucent jeweled veil - of the spider’s web.\n\nEnsnared? Fall victi
- m.\n\nIn the shadowed corners of the ‘House\, become entangled in buffet
- s of culinary bites\, live-action stations\, passed delicacies\, and venom
- ous cocktails. A dangerous game of hide-and-seek\, spiral the Grand Stairc
- ase lured by live musical performances\, shadowed portraitists\, acrobats\
- , and other-worldly talents...\n\nPerilous vibes take center stage in \n\
- nBondo \n\nwith a Headline DJ Performance from \n\n10:00PM - Midnight\n\
- nIn the spirit of Halloween\, swarm the ‘House.\n\nCreative black tie\, 
- cocktail attire\, or a cleverly crafted costume is essential.  \n\nTicket
- s are exclusively available for purchase through the Member App & Portal b
- eginning September 16th at 10:00AM. Tickets for members and their guests a
- re $295* each. To best accommodate members' varying preferences\, we are 
- delighted to extend a limited allocation of up to 1 guest ticket per membe
- r for Saturday evening's affair.\n\n*Taxes and beverages are not included
-  in the ticket price. Beverages will be available for purchase through our
-  masterful team of mixologists. \n\n_____________________________________
- _________________\n\nPlease be aware of these important notices:\n\nCANCEL
- LATION POLICY\nKindly note that tickets are non-refundable and nontransfer
- able once assigned.\n\nENTRY\nAll Member and guest tickets purchased\, are
-  linked to the Member’s profile through the App and Portal and are requi
- red for verification and entry on these evenings.\n\nGUEST POLICY\nFollowi
- ng the regular Member Policy\, Members must arrive and remain with their g
- uest(s) at all times. Guests must be age 21+. We strongly encourage review
-  of the Members’ Policy to ensure that you and your guest(s) are aware o
- f Club rules.\n\nVALET SERVICES\nValet services will be suspended on the e
- venings of October 23 & 24. Please plan ahead to secure rideshare services
-  or park at the nearest garage in Back Bay. Metered street parking is limi
- ted but also available.\n\nNO PHOTO POLICY\nPlease be aware that we will o
- ffer a photo opportunity on these evenings\; however\, the regular Photo P
- olicy will otherwise be in effect and enforced. Those who do not comply wi
- th the Privacy Agreement will be asked to leave the Clubhouse in keeping w
- ith the standards.\n\nThe ’Quin House has contracted professional photog
- raphers and videographers to capture this event. Any photos or videos dist
- ributed through ’Quin public channels will be edited to conceal the iden
- tities of participating Members and their guest(s). Photos or videos that 
- reveal Members will only be used in Member communication with the authoriz
- ation of those captured.\n\nQuestions? Please contact us at halloween@the
- quin.com.
+DESCRIPTION:Category: Holiday\nPrice: $295.00 per person\nAvailability: 2 s
+ pots left\nStatus: You are Confirmed\nTime: 8 PM – 1 AM\nEvent URL: http
+ s://members.thequinhouse.com/events/202989\n\nSlip into the camouflage of 
+ costume for an evening under the ethereal shadows of lacy silk couture…\
+ n\nYou're cordially invited to The ‘Quin’s Annual Halloween Soirée a
+ n elegant and entangled ticketed affair. \n\nUnder the flicker of flame\,
+  the ‘House will captivate with indulgent buffets\, enchanting performa
+ nces\, and the deceivingly translucent jeweled veil - of the spider’s w
+ eb.\n\nEnsnared? Fall victim.\n\nIn the shadowed corners of the ‘House\
+ , become entangled in buffets of culinary bites\, live-action stations\, p
+ assed delicacies\, and venomous cocktails. A dangerous game of hide-and-se
+ ek\, spiral the Grand Staircase lured by live musical performances\, shado
+ wed portraitists\, acrobats\, and other-worldly talents...\n\nPerilous vib
+ es take center stage in \n\nBondo \n\nwith a Headline DJ Performance fro
+ m \n\n10:00PM - Midnight\n\nIn the spirit of Halloween\, swarm the ‘Hou
+ se.\n\nCreative black tie\, cocktail attire\, or a cleverly crafted costum
+ e is essential.  \n\nTickets are exclusively available for purchase throu
+ gh the Member App & Portal beginning September 16th at 10:00AM. Tickets fo
+ r members and their guests are $295* each. To best accommodate members' v
+ arying preferences\, we are delighted to extend a limited allocation of up
+  to 1 guest ticket per member for Saturday evening's affair.\n\n*Taxes an
+ d beverages are not included in the ticket price. Beverages will be availa
+ ble for purchase through our masterful team of mixologists. \n\n_________
+ _____________________________________________\n\nPlease be aware of these 
+ important notices:\n\nCANCELLATION POLICY\nKindly note that tickets are no
+ n-refundable and nontransferable once assigned.\n\nENTRY\nAll Member and g
+ uest tickets purchased\, are linked to the Member’s profile through the 
+ App and Portal and are required for verification and entry on these evenin
+ gs.\n\nGUEST POLICY\nFollowing the regular Member Policy\, Members must ar
+ rive and remain with their guest(s) at all times. Guests must be age 21+. 
+ We strongly encourage review of the Members’ Policy to ensure that you a
+ nd your guest(s) are aware of Club rules.\n\nVALET SERVICES\nValet service
+ s will be suspended on the evenings of October 23 & 24. Please plan ahead 
+ to secure rideshare services or park at the nearest garage in Back Bay. Me
+ tered street parking is limited but also available.\n\nNO PHOTO POLICY\nPl
+ ease be aware that we will offer a photo opportunity on these evenings\; h
+ owever\, the regular Photo Policy will otherwise be in effect and enforced
+ . Those who do not comply with the Privacy Agreement will be asked to leav
+ e the Clubhouse in keeping with the standards.\n\nThe ’Quin House has co
+ ntracted professional photographers and videographers to capture this even
+ t. Any photos or videos distributed through ’Quin public channels will b
+ e edited to conceal the identities of participating Members and their gues
+ t(s). Photos or videos that reveal Members will only be used in Member com
+ munication with the authorization of those captured.\n\nQuestions? Please 
+ contact us at halloween@thequin.com.
 URL:https://members.thequinhouse.com/events/202989
 CATEGORIES:Holiday
 END:VEVENT
