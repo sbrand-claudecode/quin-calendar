@@ -24,47 +24,6 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:quin-event-200523@thequinhouse.com
-DTSTAMP:20260921T180000Z
-DTSTART;TZID=America/New_York:20260921T180000
-DTEND;TZID=America/New_York:20260921T200000
-SUMMARY:Board Game Night 
-LOCATION:The Living Room
-DESCRIPTION:Category: Sports & Games\nPrice: Free\nStatus: Waitlist Only\nE
- vent URL: https://members.thequinhouse.com/events/200523\n\nBring your sha
- rpest wit\, channel your competitive charm\, and roll the dice for an even
- ing of strategy\, luck\, and a touch of mischief. Hosted in The Living Roo
- m\, pick from one of our timeless classics or modern marvels and let the g
- ames begin!\n\n*This event is complimentary and reserved for members\, plu
- s one registered guest.  Food and cocktails from The Living Room menu wil
- l be available for purchase. We kindly ask that all cancellations be made
-  at least 24 hours prior to the start of the event.
-URL:https://members.thequinhouse.com/events/200523
-CATEGORIES:Sports & Games
-END:VEVENT
-BEGIN:VEVENT
-UID:quin-event-200524@thequinhouse.com
-DTSTAMP:20260921T180000Z
-DTSTART;TZID=America/New_York:20260921T180000
-DTEND;TZID=America/New_York:20260921T210000
-SUMMARY:Community Table
-LOCATION:Café Q
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 3 spots left
- \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/20
- 0524\n\nStart your week in good company with the Café Q Community dinner 
- table for members-only. Set aside for those looking to expand their social
-  circle over a shared meal\, this gathering is all about good food\, livel
- y conversation\, and meaningful connections. Pull up a chair\, and savor t
- he experience—because nothing brings people together quite like a great 
- meal.\n\n*This event is reserved for members only. An advance charge of $2
- 4 per member contributes to communal appetizers available upon seating. Me
- mbers are responsible for à la carte entrées\, desserts\, and beverages\
- , plus taxes and fees. Cancellations made within 24 hours of the event\, o
- r failure to attend will be subject to the Café Q's surcharge policy.
-URL:https://members.thequinhouse.com/events/200524
-CATEGORIES:Member Mixer
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-200522@thequinhouse.com
 DTSTAMP:20260922T170000Z
 DTSTART;TZID=America/New_York:20260922T170000
@@ -72,7 +31,7 @@ DTEND;TZID=America/New_York:20260922T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 5 spots left\nStatus: Available\nEvent URL: https://membe
+ e\nAvailability: 6 spots left\nStatus: Available\nEvent URL: https://membe
  rs.thequinhouse.com/events/200522\n\nJoin us for our weekly Member Mingle\
  , an inclusive gathering set in an ambiant reserved space. This is your op
  portunity to connect with fellow members\, exchange ideas\, and cultivate 
@@ -94,7 +53,7 @@ DTSTART;TZID=America/New_York:20260922T170000
 DTEND;TZID=America/New_York:20260922T183000
 SUMMARY:Author Talk: "The Cruelest Game" by Matthew Futterman
 LOCATION:The Pub
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 11 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 17 spots left\nS
  tatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/even
  ts/201348\n\nCelebrate an unforgettable summer of tennis with an inside lo
  ok at the game beyond center court. Join acclaimed sports journalist and b
@@ -342,7 +301,7 @@ DTSTART;TZID=America/New_York:20260928T190000
 DTEND;TZID=America/New_York:20260928T203000
 SUMMARY:'Quin Chat: Equity in Breast Cancer Care
 LOCATION:Scottie's
-DESCRIPTION:Category: Health & Wellness\nPrice: Free\nAvailability: 48 spot
+DESCRIPTION:Category: Health & Wellness\nPrice: Free\nAvailability: 49 spot
  s left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/eve
  nts/203298\n\n7:00PM Reception\, 7:30PM Discussion\n\nPresident\, CEO\, an
  d founder of Gretta Enterprises\, and breast cancer survivor\, Gretta Mona
@@ -499,7 +458,7 @@ DTSTART;TZID=America/New_York:20260930T183000
 DTEND;TZID=America/New_York:20260930T200000
 SUMMARY:'Quin Chat: How Hip-Hop Built an Empire
 LOCATION:The Muse
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 20 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 17 spots left\nS
  tatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/even
  ts/203633\n\n6:30PM Reception\, 7:00PM Discussion\n\nWhat is it about hip-
  hop that has transformed generations of artists into some of the world’s
@@ -530,29 +489,29 @@ DTSTART;TZID=America/New_York:20261002T173000
 DTEND;TZID=America/New_York:20261002T190000
 SUMMARY:The Root of Wellbeing with Wildsmith Skin 
 LOCATION:The Terrace
-DESCRIPTION:Category: Health & Wellness\nPrice: Free\nAvailability: 10 spot
- s left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/eve
- nts/203637\n\n5:30PM Reception\, 6:00PM Discussion\n\nDiscover the root of
-  wellbeing with Wildsmith Skin and an intimate\, immersive evening explori
- ng the powerful role botanicals can play in how we sleep\, restore\, and f
- eel each day. Led by Haley Carr\, Vice President of Operations & Training 
- at Wildsmith Skin\, the conversation will explore the foundations of wellb
- eing and the importance of our circadian rhythm in supporting sleep qualit
- y\, gut and skin health\, relaxation\, and mental focus.\n\nWith more than
-  20 years of experience across the luxury spa\, wellness\, and hospitality
-  industries\, Haley brings together expertise in aromatherapy\, skin healt
- h\, therapeutic touch\, and holistic wellbeing. Throughout the evening\, m
- embers will discover the science and traditions behind Wildsmith’s botan
- ical ingredients while experiencing a selection of the brand’s products 
- firsthand through their textures\, scents\, and formulations.\n\nThe exper
- ience extends beyond the conversation to dedicated one on one time with Ha
- ley\, offering each member personalized wellbeing guidance tailored to the
- ir lifestyle\, daily routine\, and individual needs. Leave with a deeper u
- nderstanding of your own wellness rituals—and simple\, achievable ways t
- o incorporate botanicals and thoughtful practices into everyday life.\n\n*
- This event is complimentary and reserved for members only. Complimentary l
- ight bites and refreshments will be served. We kindly ask that all cancell
- ations be made at least 24 hours prior to the start of the event.
+DESCRIPTION:Category: Health & Wellness\nPrice: Free\nAvailability: 7 spots
+  left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/even
+ ts/203637\n\n5:30PM Reception\, 6:00PM Discussion\n\nDiscover the root of 
+ wellbeing with Wildsmith Skin and an intimate\, immersive evening explorin
+ g the powerful role botanicals can play in how we sleep\, restore\, and fe
+ el each day. Led by Haley Carr\, Vice President of Operations & Training a
+ t Wildsmith Skin\, the conversation will explore the foundations of wellbe
+ ing and the importance of our circadian rhythm in supporting sleep quality
+ \, gut and skin health\, relaxation\, and mental focus.\n\nWith more than 
+ 20 years of experience across the luxury spa\, wellness\, and hospitality 
+ industries\, Haley brings together expertise in aromatherapy\, skin health
+ \, therapeutic touch\, and holistic wellbeing. Throughout the evening\, me
+ mbers will discover the science and traditions behind Wildsmith’s botani
+ cal ingredients while experiencing a selection of the brand’s products f
+ irsthand through their textures\, scents\, and formulations.\n\nThe experi
+ ence extends beyond the conversation to dedicated one on one time with Hal
+ ey\, offering each member personalized wellbeing guidance tailored to thei
+ r lifestyle\, daily routine\, and individual needs. Leave with a deeper un
+ derstanding of your own wellness rituals—and simple\, achievable ways to
+  incorporate botanicals and thoughtful practices into everyday life.\n\n*T
+ his event is complimentary and reserved for members only. Complimentary li
+ ght bites and refreshments will be served. We kindly ask that all cancella
+ tions be made at least 24 hours prior to the start of the event.
 URL:https://members.thequinhouse.com/events/203637
 CATEGORIES:Health & Wellness
 END:VEVENT
@@ -563,7 +522,7 @@ DTSTART;TZID=America/New_York:20261005T110000
 DTEND;TZID=America/New_York:20261005T120000
 SUMMARY:Art Tour: The Core Collection 
 LOCATION:Meet in The Lobby
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 16 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 14 spots left\nS
  tatus: Available\nEvent URL: https://members.thequinhouse.com/events/20362
  6\n\nJoin The 'Quin’s art collection curator Kate Chertavian for an art 
  tour focused on the Core Collection. The discussion will begin in Bondo wi
@@ -607,7 +566,7 @@ DTSTART;TZID=America/New_York:20261005T183000
 DTEND;TZID=America/New_York:20261005T200000
 SUMMARY:'Quin Chat: Latinas Leading Business
 LOCATION:Scotties
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 96 spots lef
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 95 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/2
  03636\n\n6:30PM Reception\, 7:00PM Discussion\n\nIn celebration of Hispan
  ic Heritage Month\, join us for a ’Quin Chat that shines a light on the 
@@ -709,7 +668,7 @@ DTSTART;TZID=America/New_York:20261013T190000
 DTEND;TZID=America/New_York:20261013T200000
 SUMMARY:Author's Circle Book Club: "Safekeeping" by Claudia Hinz
 LOCATION:The Muse
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 37 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 34 spots left\nS
  tatus: Available\nEvent URL: https://members.thequinhouse.com/events/20362
  9\n\nThis October\, settle into the season with Safekeeping by Claudia Hin
  z\, a sweeping and deeply moving novel about family\, memory\, and the sec
@@ -803,35 +762,29 @@ DESCRIPTION:Category: Holiday\nPrice: $295.00 per person\nStatus: Waitlist
  ed to extend a limited allocation of up to 3 guest tickets per member for 
  Friday evening's affair.\n\n*Taxes and beverages are not included in the t
  icket price. Beverages will be available for purchase through our masterfu
- l team of mixologists. \n\nAt this time\, member tickets are still availa
- ble for the Friday\, October 23rd party\, however guest tickets are fully
-  committed in our best efforts to reserve as many tickets as possible for
-  interested members. Should we have the opportunity to offer an extended a
- mount of guest tickets once all members are accounted for\, we will begin 
- offering these to members who have submitted their names to the guest wait
- list. Please CLICK HERE to submit a request to the Guest Ticket Waitlist.
-  \n\n______________________________________________________\n\nPlease be 
- aware of these important notices:\n\nCANCELLATION POLICY\n Kindly note tha
- t tickets are non-refundable and nontransferable once assigned.\n\nENTRY\n
-  All Member and guest tickets purchased\, are linked to the Member’s pro
- file through the App and Portal and are required for verification and entr
- y on these evenings.\n\nGUEST POLICY\n Following the regular Member Policy
- \, Members must arrive and remain with their guest(s) at all times. Guests
-  must be age 21+. We strongly encourage review of the Members’ Policy to
-  ensure that you and your guest(s) are aware of Club rules.\n\nVALET SERVI
- CES\n Valet services will be suspended on the evenings of October 23 & 24.
-  Please plan ahead to secure rideshare services or park at the nearest gar
- age in Back Bay. Metered street parking is limited but also available.\n\n
- NO PHOTO POLICY\n Please be aware that we will offer a photo opportunity o
- n these evenings\; however\, the regular Photo Policy will otherwise be in
-  effect and enforced. Those who do not comply with the Privacy Agreement w
- ill be asked to leave the Clubhouse in keeping with the standards.\n\nThe 
- ’Quin House has contracted professional photographers and videographers 
- to capture this event. Any photos or videos distributed through ’Quin pu
- blic channels will be edited to conceal the identities of participating Me
- mbers and their guest(s). Photos or videos that reveal Members will only b
- e used in Member communication with the authorization of those captured.\n
- \nQuestions? Please contact us at halloween@thequin.com.
+ l team of mixologists. \n\n______________________________________________
+ ________\n\nPlease be aware of these important notices:\n\nCANCELLATION PO
+ LICY\n Kindly note that tickets are non-refundable and nontransferable onc
+ e assigned.\n\nENTRY\n All Member and guest tickets purchased\, are linked
+  to the Member’s profile through the App and Portal and are required for
+  verification and entry on these evenings.\n\nGUEST POLICY\n Following the
+  regular Member Policy\, Members must arrive and remain with their guest(s
+ ) at all times. Guests must be age 21+. We strongly encourage review of th
+ e Members’ Policy to ensure that you and your guest(s) are aware of Club
+  rules.\n\nVALET SERVICES\n Valet services will be suspended on the evenin
+ gs of October 23 & 24. Please plan ahead to secure rideshare services or p
+ ark at the nearest garage in Back Bay. Metered street parking is limited b
+ ut also available.\n\nNO PHOTO POLICY\n Please be aware that we will offer
+  a photo opportunity on these evenings\; however\, the regular Photo Polic
+ y will otherwise be in effect and enforced. Those who do not comply with t
+ he Privacy Agreement will be asked to leave the Clubhouse in keeping with 
+ the standards.\n\nThe ’Quin House has contracted professional photograph
+ ers and videographers to capture this event. Any photos or videos distribu
+ ted through ’Quin public channels will be edited to conceal the identiti
+ es of participating Members and their guest(s). Photos or videos that reve
+ al Members will only be used in Member communication with the authorizatio
+ n of those captured.\n\nQuestions? Please contact us at halloween@thequin.
+ com.
 URL:https://members.thequinhouse.com/events/202982
 CATEGORIES:Holiday
 END:VEVENT
@@ -842,51 +795,51 @@ DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261026
 SUMMARY:Black Widow: Web of Deceit | Saturday Night
 LOCATION:217 Commonwealth Mansion
-DESCRIPTION:Category: Holiday\nPrice: $295.00 per person\nAvailability: 2 s
- pots left\nStatus: You are Confirmed\nTime: 8 PM – 1 AM\nEvent URL: http
- s://members.thequinhouse.com/events/202989\n\nSlip into the camouflage of 
- costume for an evening under the ethereal shadows of lacy silk couture…\
- n\nYou're cordially invited to The ‘Quin’s Annual Halloween Soirée a
- n elegant and entangled ticketed affair. \n\nUnder the flicker of flame\,
-  the ‘House will captivate with indulgent buffets\, enchanting performa
- nces\, and the deceivingly translucent jeweled veil - of the spider’s w
- eb.\n\nEnsnared? Fall victim.\n\nIn the shadowed corners of the ‘House\
- , become entangled in buffets of culinary bites\, live-action stations\, p
- assed delicacies\, and venomous cocktails. A dangerous game of hide-and-se
- ek\, spiral the Grand Staircase lured by live musical performances\, shado
- wed portraitists\, acrobats\, and other-worldly talents...\n\nPerilous vib
- es take center stage in \n\nBondo \n\nwith a Headline DJ Performance fro
- m \n\n10:00PM - Midnight\n\nIn the spirit of Halloween\, swarm the ‘Hou
- se.\n\nCreative black tie\, cocktail attire\, or a cleverly crafted costum
- e is essential.  \n\nTickets are exclusively available for purchase throu
- gh the Member App & Portal beginning September 16th at 10:00AM. Tickets fo
- r members and their guests are $295* each. To best accommodate members' v
- arying preferences\, we are delighted to extend a limited allocation of up
-  to 1 guest ticket per member for Saturday evening's affair.\n\n*Taxes an
- d beverages are not included in the ticket price. Beverages will be availa
- ble for purchase through our masterful team of mixologists. \n\n_________
- _____________________________________________\n\nPlease be aware of these 
- important notices:\n\nCANCELLATION POLICY\nKindly note that tickets are no
- n-refundable and nontransferable once assigned.\n\nENTRY\nAll Member and g
- uest tickets purchased\, are linked to the Member’s profile through the 
- App and Portal and are required for verification and entry on these evenin
- gs.\n\nGUEST POLICY\nFollowing the regular Member Policy\, Members must ar
- rive and remain with their guest(s) at all times. Guests must be age 21+. 
- We strongly encourage review of the Members’ Policy to ensure that you a
- nd your guest(s) are aware of Club rules.\n\nVALET SERVICES\nValet service
- s will be suspended on the evenings of October 23 & 24. Please plan ahead 
- to secure rideshare services or park at the nearest garage in Back Bay. Me
- tered street parking is limited but also available.\n\nNO PHOTO POLICY\nPl
- ease be aware that we will offer a photo opportunity on these evenings\; h
- owever\, the regular Photo Policy will otherwise be in effect and enforced
- . Those who do not comply with the Privacy Agreement will be asked to leav
- e the Clubhouse in keeping with the standards.\n\nThe ’Quin House has co
- ntracted professional photographers and videographers to capture this even
- t. Any photos or videos distributed through ’Quin public channels will b
- e edited to conceal the identities of participating Members and their gues
- t(s). Photos or videos that reveal Members will only be used in Member com
- munication with the authorization of those captured.\n\nQuestions? Please 
- contact us at halloween@thequin.com.
+DESCRIPTION:Category: Holiday\nPrice: $295.00 per person\nStatus: You are C
+ onfirmed\nTime: 8 PM – 1 AM\nEvent URL: https://members.thequinhouse.com
+ /events/202989\n\nSlip into the camouflage of costume for an evening under
+  the ethereal shadows of lacy silk couture…\n\nYou're cordially invited 
+ to The ‘Quin’s Annual Halloween Soirée an elegant and entangled tick
+ eted affair. \n\nUnder the flicker of flame\, the ‘House will captivate
+  with indulgent buffets\, enchanting performances\, and the deceivingly t
+ ranslucent jeweled veil - of the spider’s web.\n\nEnsnared? Fall victi
+ m.\n\nIn the shadowed corners of the ‘House\, become entangled in buffet
+ s of culinary bites\, live-action stations\, passed delicacies\, and venom
+ ous cocktails. A dangerous game of hide-and-seek\, spiral the Grand Stairc
+ ase lured by live musical performances\, shadowed portraitists\, acrobats\
+ , and other-worldly talents...\n\nPerilous vibes take center stage in \n\
+ nBondo \n\nwith a Headline DJ Performance from \n\n10:00PM - Midnight\n\
+ nIn the spirit of Halloween\, swarm the ‘House.\n\nCreative black tie\, 
+ cocktail attire\, or a cleverly crafted costume is essential.  \n\nTicket
+ s are exclusively available for purchase through the Member App & Portal b
+ eginning September 16th at 10:00AM. Tickets for members and their guests a
+ re $295* each. To best accommodate members' varying preferences\, we are 
+ delighted to extend a limited allocation of up to 1 guest ticket per membe
+ r for Saturday evening's affair.\n\n*Taxes and beverages are not included
+  in the ticket price. Beverages will be available for purchase through our
+  masterful team of mixologists. \n\n_____________________________________
+ _________________\n\nPlease be aware of these important notices:\n\nCANCEL
+ LATION POLICY\nKindly note that tickets are non-refundable and nontransfer
+ able once assigned.\n\nENTRY\nAll Member and guest tickets purchased\, are
+  linked to the Member’s profile through the App and Portal and are requi
+ red for verification and entry on these evenings.\n\nGUEST POLICY\nFollowi
+ ng the regular Member Policy\, Members must arrive and remain with their g
+ uest(s) at all times. Guests must be age 21+. We strongly encourage review
+  of the Members’ Policy to ensure that you and your guest(s) are aware o
+ f Club rules.\n\nVALET SERVICES\nValet services will be suspended on the e
+ venings of October 23 & 24. Please plan ahead to secure rideshare services
+  or park at the nearest garage in Back Bay. Metered street parking is limi
+ ted but also available.\n\nNO PHOTO POLICY\nPlease be aware that we will o
+ ffer a photo opportunity on these evenings\; however\, the regular Photo P
+ olicy will otherwise be in effect and enforced. Those who do not comply wi
+ th the Privacy Agreement will be asked to leave the Clubhouse in keeping w
+ ith the standards.\n\nThe ’Quin House has contracted professional photog
+ raphers and videographers to capture this event. Any photos or videos dist
+ ributed through ’Quin public channels will be edited to conceal the iden
+ tities of participating Members and their guest(s). Photos or videos that 
+ reveal Members will only be used in Member communication with the authoriz
+ ation of those captured.\n\nQuestions? Please contact us at halloween@the
+ quin.com.
 URL:https://members.thequinhouse.com/events/202989
 CATEGORIES:Holiday
 END:VEVENT
