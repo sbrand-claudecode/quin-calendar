@@ -24,61 +24,6 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:quin-event-200522@thequinhouse.com
-DTSTAMP:20260922T170000Z
-DTSTART;TZID=America/New_York:20260922T170000
-DTEND;TZID=America/New_York:20260922T183000
-SUMMARY:Member Mingle
-LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 11 spots left\nStatus: Available\nEvent URL: https://memb
- ers.thequinhouse.com/events/200522\n\nJoin us for our weekly Member Mingle
- \, an inclusive gathering set in an ambiant reserved space. This is your o
- pportunity to connect with fellow members\, exchange ideas\, and cultivate
-  meaningful relationships.\n\nWhether you're sparking new collaborations\,
-  sharing insights\, or simply enjoying great conversation\, the Member Min
- gle is the perfect way to engage with our dynamic community. Don’t miss 
- the chance to connect\, inspire\, and be inspired!\n\n*This event is compl
- imentary and reserved for members only. Complimentary light bites will be 
- served\, and beverages will be available for purchase. We kindly ask that
-  all cancellations be made at least 24 hours prior to the start of the eve
- nt.
-URL:https://members.thequinhouse.com/events/200522
-CATEGORIES:Member Mixer,Survey - Membership Mingle
-END:VEVENT
-BEGIN:VEVENT
-UID:quin-event-201348@thequinhouse.com
-DTSTAMP:20260922T170000Z
-DTSTART;TZID=America/New_York:20260922T170000
-DTEND;TZID=America/New_York:20260922T183000
-SUMMARY:Author Talk: "The Cruelest Game" by Matthew Futterman
-LOCATION:The Pub
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 24 spots left\nS
- tatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/even
- ts/201348\n\nCelebrate an unforgettable summer of tennis with an inside lo
- ok at the game beyond center court. Join acclaimed sports journalist and b
- estselling author Matthew Futterman for his first Boston appearance on the
-  book tour for The Cruelest Game\, an illuminating exploration of the ambi
- tion\, resilience\, and sacrifice required to succeed at the highest level
- s of professional tennis. Through remarkable access and previously untold 
- stories\, Futterman pulls back the curtain on the sport to examine the imm
- ense pressures facing established champions and the next generation of pla
- yers competing for their place among tennis’s elite.\n\nJoining Futterma
- n in conversation are former world No. 7 tennis player and Olympic silver 
- medalist\, Tim Mayotte\, and The New Yorker staff writer\, Louisa Thomas\,
-  who pens the publication’s Sporting Scene column. Together\, they will 
- bring perspectives from the court and the press box to a wide-ranging conv
- ersation about professional tennis at a pivotal moment. As familiar legend
- s make way for a new generation of stars\, the evening will explore the ch
- anging landscape of the sport\, the realities behind its most celebrated v
- ictories\, and the personal price of pursuing greatness on the world stage
- . \n\n*This event is complimentary and reserved for members only. Complim
- entary light bites and refreshments will be served. We kindly ask that all
-  cancellations be made at least 24 hours prior to the start of the event.
-URL:https://members.thequinhouse.com/events/201348
-CATEGORIES:The Arts
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-202196@thequinhouse.com
 DTSTAMP:20260923T150000Z
 DTSTART;TZID=America/New_York:20260923T150000
@@ -221,20 +166,19 @@ DTEND;TZID=America/New_York:20260926T140000
 SUMMARY:Serendipity Brunch
 LOCATION:Lunasol
 DESCRIPTION:Category: Member Mixer\nPrice: $65.00 per person\nAvailability:
-  10 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
- .com/events/199239\n\nJoin us for a Serendipity Saturday Brunch that invit
- es members to enjoy great conversation\, in good company. Set in Lunasol\,
-  the afternoon unfolds with an easy rhythm—a thoughtful menu\, enthusia
- stic members\, and a curated card deck of conversation prompts to inspire 
- connections.\n\nBrunch will be served family-style\, featuring pastries\, 
- fruit\, and parfaits to begin\, followed by a choice of entrée and genero
- us sides. Mimosas and Bloody Marys will be available throughout.\n\nSpend 
- the day at The 'House—unhurried\, social\, and effortlessly enjoyable.\
- n\n*Tickets are $65 per person\, plus tax\, and are reserved for members o
- nly. Cancellations within 48 hours of the event\, or failure to attend\, w
- ill be charged in full. Please inform us of any dietary needs or restricti
- ons by emailing happening@thequin.com at least 72 hours prior to the event
- .
+  9 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse.
+ com/events/199239\n\nJoin us for a Serendipity Saturday Brunch that invite
+ s members to enjoy great conversation\, in good company. Set in Lunasol\, 
+ the afternoon unfolds with an easy rhythm—a thoughtful menu\, enthusias
+ tic members\, and a curated card deck of conversation prompts to inspire c
+ onnections.\n\nBrunch will be served family-style\, featuring pastries\, f
+ ruit\, and parfaits to begin\, followed by a choice of entrée and generou
+ s sides. Mimosas and Bloody Marys will be available throughout.\n\nSpend t
+ he day at The 'House—unhurried\, social\, and effortlessly enjoyable.\n
+ \n*Tickets are $65 per person\, plus tax\, and are reserved for members on
+ ly. Cancellations within 48 hours of the event\, or failure to attend\, wi
+ ll be charged in full. Please inform us of any dietary needs or restrictio
+ ns by emailing happening@thequin.com at least 72 hours prior to the event.
 URL:https://members.thequinhouse.com/events/199239
 CATEGORIES:Member Mixer
 END:VEVENT
@@ -320,7 +264,7 @@ DTSTART;TZID=America/New_York:20260928T190000
 DTEND;TZID=America/New_York:20260928T203000
 SUMMARY:'Quin Chat: Equity in Breast Cancer Care
 LOCATION:Scottie's
-DESCRIPTION:Category: Health & Wellness\nPrice: Free\nAvailability: 50 spot
+DESCRIPTION:Category: Health & Wellness\nPrice: Free\nAvailability: 48 spot
  s left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/eve
  nts/203298\n\n7:00PM Reception\, 7:30PM Discussion\n\nPresident\, CEO\, an
  d founder of Gretta Enterprises\, and breast cancer survivor\, Gretta Mona
@@ -477,27 +421,27 @@ DTSTART;TZID=America/New_York:20260930T183000
 DTEND;TZID=America/New_York:20260930T200000
 SUMMARY:'Quin Chat: How Hip-Hop Built an Empire
 LOCATION:The Muse
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 13 spots left\nS
- tatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/even
- ts/203633\n\n6:30PM Reception\, 7:00PM Discussion\n\nWhat is it about hip-
- hop that has transformed generations of artists into some of the world’s
-  most influential entrepreneurs\, tastemakers\, and cultural forces? Join 
- us for a ’Quin Chat exploring the evolution of the hip-hop artist from p
- erformer to mogul - and how a genre born from creative expression has beco
- me a powerful engine for business\, innovation\, and cultural influence. F
- rom fashion and record labels to food and beverage\, technology\, media\, 
- and beyond\, the conversation will examine how artists have built expansiv
- e ecosystems around their creativity while reshaping the industries they e
- nter. \n\nNeil Martinez Belkin\, New York Times bestselling author\, wi
- ll be joined in conversation by Boston native Dart Adams\, an acclaimed jo
- urnalist\, historian\, researcher\, lecturer\, and author. Together\, the
- y will explore the entrepreneurial mindset behind hip-hop’s most influen
- tial figures\, the relationship between cultural credibility and commercia
- l success\, and how the genre continues to redefine what it means to be an
-  artist\, and a mogul\, today.\n\n*This event is complimentary and reserve
- d for members only. Complimentary light bites and refreshments will be ser
- ved. We kindly ask that all cancellations be made at least 24 hours prior 
- to the start of the event.
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 3 spots left\nSt
+ atus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/event
+ s/203633\n\n6:30PM Reception\, 7:00PM Discussion\n\nWhat is it about hip-h
+ op that has transformed generations of artists into some of the world’s 
+ most influential entrepreneurs\, tastemakers\, and cultural forces? Join u
+ s for a ’Quin Chat exploring the evolution of the hip-hop artist from pe
+ rformer to mogul - and how a genre born from creative expression has becom
+ e a powerful engine for business\, innovation\, and cultural influence. Fr
+ om fashion and record labels to food and beverage\, technology\, media\, a
+ nd beyond\, the conversation will examine how artists have built expansive
+  ecosystems around their creativity while reshaping the industries they en
+ ter. \n\nNeil Martinez Belkin\, New York Times bestselling author\, wil
+ l be joined in conversation by Boston native Dart Adams\, an acclaimed jou
+ rnalist\, historian\, researcher\, lecturer\, and author. Together\, they
+  will explore the entrepreneurial mindset behind hip-hop’s most influent
+ ial figures\, the relationship between cultural credibility and commercial
+  success\, and how the genre continues to redefine what it means to be an 
+ artist\, and a mogul\, today.\n\n*This event is complimentary and reserved
+  for members only. Complimentary light bites and refreshments will be serv
+ ed. We kindly ask that all cancellations be made at least 24 hours prior t
+ o the start of the event.
 URL:https://members.thequinhouse.com/events/203633
 CATEGORIES:The Arts
 END:VEVENT
@@ -508,29 +452,29 @@ DTSTART;TZID=America/New_York:20261002T173000
 DTEND;TZID=America/New_York:20261002T190000
 SUMMARY:The Root of Wellbeing with Wildsmith Skin 
 LOCATION:The Terrace
-DESCRIPTION:Category: Health & Wellness\nPrice: Free\nAvailability: 3 spots
-  left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/even
- ts/203637\n\n5:30PM Reception\, 6:00PM Discussion\n\nDiscover the root of 
- wellbeing with Wildsmith Skin and an intimate\, immersive evening explorin
- g the powerful role botanicals can play in how we sleep\, restore\, and fe
- el each day. Led by Haley Carr\, Vice President of Operations & Training a
- t Wildsmith Skin\, the conversation will explore the foundations of wellbe
- ing and the importance of our circadian rhythm in supporting sleep quality
- \, gut and skin health\, relaxation\, and mental focus.\n\nWith more than 
- 20 years of experience across the luxury spa\, wellness\, and hospitality 
- industries\, Haley brings together expertise in aromatherapy\, skin health
- \, therapeutic touch\, and holistic wellbeing. Throughout the evening\, me
- mbers will discover the science and traditions behind Wildsmith’s botani
- cal ingredients while experiencing a selection of the brand’s products f
- irsthand through their textures\, scents\, and formulations.\n\nThe experi
- ence extends beyond the conversation to dedicated one on one time with Hal
- ey\, offering each member personalized wellbeing guidance tailored to thei
- r lifestyle\, daily routine\, and individual needs. Leave with a deeper un
- derstanding of your own wellness rituals—and simple\, achievable ways to
-  incorporate botanicals and thoughtful practices into everyday life.\n\n*T
- his event is complimentary and reserved for members only. Complimentary li
- ght bites and refreshments will be served. We kindly ask that all cancella
- tions be made at least 24 hours prior to the start of the event.
+DESCRIPTION:Category: Health & Wellness\nPrice: Free\nStatus: Waitlist Only
+ \nEvent URL: https://members.thequinhouse.com/events/203637\n\n5:30PM Rece
+ ption\, 6:00PM Discussion\n\nDiscover the root of wellbeing with Wildsmith
+  Skin and an intimate\, immersive evening exploring the powerful role bota
+ nicals can play in how we sleep\, restore\, and feel each day. Led by Hale
+ y Carr\, Vice President of Operations & Training at Wildsmith Skin\, the c
+ onversation will explore the foundations of wellbeing and the importance o
+ f our circadian rhythm in supporting sleep quality\, gut and skin health\,
+  relaxation\, and mental focus.\n\nWith more than 20 years of experience a
+ cross the luxury spa\, wellness\, and hospitality industries\, Haley bring
+ s together expertise in aromatherapy\, skin health\, therapeutic touch\, a
+ nd holistic wellbeing. Throughout the evening\, members will discover the 
+ science and traditions behind Wildsmith’s botanical ingredients while ex
+ periencing a selection of the brand’s products firsthand through their t
+ extures\, scents\, and formulations.\n\nThe experience extends beyond the 
+ conversation to dedicated one on one time with Haley\, offering each membe
+ r personalized wellbeing guidance tailored to their lifestyle\, daily rout
+ ine\, and individual needs. Leave with a deeper understanding of your own 
+ wellness rituals—and simple\, achievable ways to incorporate botanicals 
+ and thoughtful practices into everyday life.\n\n*This event is complimenta
+ ry and reserved for members only. Complimentary light bites and refreshmen
+ ts will be served. We kindly ask that all cancellations be made at least 2
+ 4 hours prior to the start of the event.
 URL:https://members.thequinhouse.com/events/203637
 CATEGORIES:Health & Wellness
 END:VEVENT
@@ -541,18 +485,18 @@ DTSTART;TZID=America/New_York:20261005T110000
 DTEND;TZID=America/New_York:20261005T120000
 SUMMARY:Art Tour: The Core Collection 
 LOCATION:Meet in The Lobby
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 11 spots left\nS
- tatus: Available\nEvent URL: https://members.thequinhouse.com/events/20362
- 6\n\nJoin The 'Quin’s art collection curator Kate Chertavian for an art 
- tour focused on the Core Collection. The discussion will begin in Bondo wi
- th Donald Lipski's spectacular statement chandelier and Christopher Wool's
-  monumental silkscreens and will continue with a thematic exploration of w
- orks on the grand staircase. With insight into the collaborative process o
- f creating this incredible collection\, the tour will conclude in the lobb
- y with artists such as Julie Mehretu\, Andy Warhol\, Cy Twombly\, and Clau
- de Monet.\n\n*This event is complimentary and reserved for members\, plus 
- one guest. We kindly ask that all cancellations be made at least 24 hours 
- prior to the start of the event.
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 6 spots left\nSt
+ atus: Available\nEvent URL: https://members.thequinhouse.com/events/203626
+ \n\nJoin The 'Quin’s art collection curator Kate Chertavian for an art t
+ our focused on the Core Collection. The discussion will begin in Bondo wit
+ h Donald Lipski's spectacular statement chandelier and Christopher Wool's 
+ monumental silkscreens and will continue with a thematic exploration of wo
+ rks on the grand staircase. With insight into the collaborative process of
+  creating this incredible collection\, the tour will conclude in the lobby
+  with artists such as Julie Mehretu\, Andy Warhol\, Cy Twombly\, and Claud
+ e Monet.\n\n*This event is complimentary and reserved for members\, plus o
+ ne guest. We kindly ask that all cancellations be made at least 24 hours p
+ rior to the start of the event.
 URL:https://members.thequinhouse.com/events/203626
 CATEGORIES:The Arts
 END:VEVENT
@@ -585,7 +529,7 @@ DTSTART;TZID=America/New_York:20261005T183000
 DTEND;TZID=America/New_York:20261005T200000
 SUMMARY:'Quin Chat: Latinas Leading Business
 LOCATION:Scotties
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 93 spots lef
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 92 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/2
  03636\n\n6:30PM Reception\, 7:00PM Discussion\n\nIn celebration of Hispan
  ic Heritage Month\, join us for a ’Quin Chat that shines a light on the 
@@ -687,7 +631,7 @@ DTSTART;TZID=America/New_York:20261013T190000
 DTEND;TZID=America/New_York:20261013T200000
 SUMMARY:Author's Circle Book Club: "Safekeeping" by Claudia Hinz
 LOCATION:The Muse
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 26 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 25 spots left\nS
  tatus: Available\nEvent URL: https://members.thequinhouse.com/events/20362
  9\n\nThis October\, settle into the season with Safekeeping by Claudia Hin
  z\, a sweeping and deeply moving novel about family\, memory\, and the sec
@@ -814,7 +758,7 @@ DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261026
 SUMMARY:Black Widow: Web of Deceit | Saturday Night
 LOCATION:217 Commonwealth Mansion
-DESCRIPTION:Category: Holiday\nPrice: $295.00 per person\nAvailability: 2 s
+DESCRIPTION:Category: Holiday\nPrice: $295.00 per person\nAvailability: 3 s
  pots left\nStatus: You are Confirmed\nTime: 8 PM – 1 AM\nEvent URL: http
  s://members.thequinhouse.com/events/202989\n\nSlip into the camouflage of 
  costume for an evening under the ethereal shadows of lacy silk couture…\

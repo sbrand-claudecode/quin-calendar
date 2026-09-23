@@ -24,38 +24,6 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:quin-event-201348@thequinhouse.com
-DTSTAMP:20260922T170000Z
-DTSTART;TZID=America/New_York:20260922T170000
-DTEND;TZID=America/New_York:20260922T183000
-SUMMARY:Author Talk: "The Cruelest Game" by Matthew Futterman
-LOCATION:The Pub
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 24 spots left\nS
- tatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/even
- ts/201348\n\nCelebrate an unforgettable summer of tennis with an inside lo
- ok at the game beyond center court. Join acclaimed sports journalist and b
- estselling author Matthew Futterman for his first Boston appearance on the
-  book tour for The Cruelest Game\, an illuminating exploration of the ambi
- tion\, resilience\, and sacrifice required to succeed at the highest level
- s of professional tennis. Through remarkable access and previously untold 
- stories\, Futterman pulls back the curtain on the sport to examine the imm
- ense pressures facing established champions and the next generation of pla
- yers competing for their place among tennis’s elite.\n\nJoining Futterma
- n in conversation are former world No. 7 tennis player and Olympic silver 
- medalist\, Tim Mayotte\, and The New Yorker staff writer\, Louisa Thomas\,
-  who pens the publication’s Sporting Scene column. Together\, they will 
- bring perspectives from the court and the press box to a wide-ranging conv
- ersation about professional tennis at a pivotal moment. As familiar legend
- s make way for a new generation of stars\, the evening will explore the ch
- anging landscape of the sport\, the realities behind its most celebrated v
- ictories\, and the personal price of pursuing greatness on the world stage
- . \n\n*This event is complimentary and reserved for members only. Complim
- entary light bites and refreshments will be served. We kindly ask that all
-  cancellations be made at least 24 hours prior to the start of the event.
-URL:https://members.thequinhouse.com/events/201348
-CATEGORIES:The Arts
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-203290@thequinhouse.com
 DTSTAMP:20260925T180000Z
 DTSTART;TZID=America/New_York:20260925T180000
@@ -151,27 +119,27 @@ DTSTART;TZID=America/New_York:20260930T183000
 DTEND;TZID=America/New_York:20260930T200000
 SUMMARY:'Quin Chat: How Hip-Hop Built an Empire
 LOCATION:The Muse
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 13 spots left\nS
- tatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/even
- ts/203633\n\n6:30PM Reception\, 7:00PM Discussion\n\nWhat is it about hip-
- hop that has transformed generations of artists into some of the world’s
-  most influential entrepreneurs\, tastemakers\, and cultural forces? Join 
- us for a ’Quin Chat exploring the evolution of the hip-hop artist from p
- erformer to mogul - and how a genre born from creative expression has beco
- me a powerful engine for business\, innovation\, and cultural influence. F
- rom fashion and record labels to food and beverage\, technology\, media\, 
- and beyond\, the conversation will examine how artists have built expansiv
- e ecosystems around their creativity while reshaping the industries they e
- nter. \n\nNeil Martinez Belkin\, New York Times bestselling author\, wi
- ll be joined in conversation by Boston native Dart Adams\, an acclaimed jo
- urnalist\, historian\, researcher\, lecturer\, and author. Together\, the
- y will explore the entrepreneurial mindset behind hip-hop’s most influen
- tial figures\, the relationship between cultural credibility and commercia
- l success\, and how the genre continues to redefine what it means to be an
-  artist\, and a mogul\, today.\n\n*This event is complimentary and reserve
- d for members only. Complimentary light bites and refreshments will be ser
- ved. We kindly ask that all cancellations be made at least 24 hours prior 
- to the start of the event.
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 3 spots left\nSt
+ atus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/event
+ s/203633\n\n6:30PM Reception\, 7:00PM Discussion\n\nWhat is it about hip-h
+ op that has transformed generations of artists into some of the world’s 
+ most influential entrepreneurs\, tastemakers\, and cultural forces? Join u
+ s for a ’Quin Chat exploring the evolution of the hip-hop artist from pe
+ rformer to mogul - and how a genre born from creative expression has becom
+ e a powerful engine for business\, innovation\, and cultural influence. Fr
+ om fashion and record labels to food and beverage\, technology\, media\, a
+ nd beyond\, the conversation will examine how artists have built expansive
+  ecosystems around their creativity while reshaping the industries they en
+ ter. \n\nNeil Martinez Belkin\, New York Times bestselling author\, wil
+ l be joined in conversation by Boston native Dart Adams\, an acclaimed jou
+ rnalist\, historian\, researcher\, lecturer\, and author. Together\, they
+  will explore the entrepreneurial mindset behind hip-hop’s most influent
+ ial figures\, the relationship between cultural credibility and commercial
+  success\, and how the genre continues to redefine what it means to be an 
+ artist\, and a mogul\, today.\n\n*This event is complimentary and reserved
+  for members only. Complimentary light bites and refreshments will be serv
+ ed. We kindly ask that all cancellations be made at least 24 hours prior t
+ o the start of the event.
 URL:https://members.thequinhouse.com/events/203633
 CATEGORIES:The Arts
 END:VEVENT
@@ -182,7 +150,7 @@ DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261026
 SUMMARY:Black Widow: Web of Deceit | Saturday Night
 LOCATION:217 Commonwealth Mansion
-DESCRIPTION:Category: Holiday\nPrice: $295.00 per person\nAvailability: 2 s
+DESCRIPTION:Category: Holiday\nPrice: $295.00 per person\nAvailability: 3 s
  pots left\nStatus: You are Confirmed\nTime: 8 PM – 1 AM\nEvent URL: http
  s://members.thequinhouse.com/events/202989\n\nSlip into the camouflage of 
  costume for an evening under the ethereal shadows of lacy silk couture…\
