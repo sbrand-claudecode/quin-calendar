@@ -30,7 +30,7 @@ DTSTART;TZID=America/New_York:20260925T180000
 DTEND;TZID=America/New_York:20260925T193000
 SUMMARY:'Quin Chat\; Behind the Curtain - To Kill a Mockingbird
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 4 spots left\nSt
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 6 spots left\nSt
  atus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/event
  s/203290\n\n6:00PM Reception\, 6:30PM Discussion\nExperience a behind-the
  -curtain look as The Huntington Theatre Company prepares to present the f
@@ -137,26 +137,26 @@ DTSTART;TZID=America/New_York:20260927T164500
 DTEND;TZID=America/New_York:20260927T193000
 SUMMARY:Sunday Screening: "Pretty Dirty"
 LOCATION:The Muse
-DESCRIPTION:Category: The Arts\nPrice: Free\nStatus: Waitlist Only\nEvent U
- RL: https://members.thequinhouse.com/events/203291\n\n4:45PM Doors Open\, 
- 5:00PM Screening\, 7:15PM Q&A\nGlamorous\, provocative\, and unapologetica
- lly unflinching\, Marilyn Minter has spent nearly five decades pushing the
-  boundaries of contemporary art. In this Sunday Screening\, filmmaker Aman
- da Benchley turns the lens on the trailblazing feminist artist - moving b
- etween biography\, studio practice\, and cultural history - to trace Min
- ter’s rise through New York’s art world\, the controversies her work s
- parked within feminist discourse\, and the enduring influence of her lush\
- , subversive imagery. Fast-paced\, stylish\, and punctuated by notable 
- cameos\, the film offers an intimate portrait of an artistwho has contin
- ually challenged convention while embracing pleasure\, beauty\, and desire
-  as forms of power.\n\nFollowing the screening\, members are invited to st
- ay for an intimate talkback with visionary filmmaker Amanda Benchley and M
- arilyn Minter herself. Together\, they will pull back the curtain on the
-  making of the film\, Minter’s extraordinary career\, and the ideas and 
- experiences that have shaped both her art and the film.\n\n*This event is 
- complimentary and reserved for members only. Theatre fare and refreshments
-  will be served. We kindly ask that all cancellations be made at least 24 
- hours prior to the start of the event.
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 1 spot left\nSta
+ tus: Available\nEvent URL: https://members.thequinhouse.com/events/203291\
+ n\n4:45PM Doors Open\, 5:00PM Screening\, 7:15PM Q&A\nGlamorous\, provocat
+ ive\, and unapologetically unflinching\, Marilyn Minter has spent nearly f
+ ive decades pushing the boundaries of contemporary art. In this Sunday Scr
+ eening\, filmmaker Amanda Benchley turns the lens on the trailblazing fem
+ inist artist - moving between biography\, studio practice\, and cultural h
+ istory - to trace Minter’s rise through New York’s art world\, the c
+ ontroversies her work sparked within feminist discourse\, and the enduring
+  influence of her lush\, subversive imagery. Fast-paced\, stylish\, and 
+ punctuated by notable cameos\, the film offers an intimate portrait of 
+ an artistwho has continually challenged convention while embracing pleasur
+ e\, beauty\, and desire as forms of power.\n\nFollowing the screening\, me
+ mbers are invited to stay for an intimate talkback with visionary filmmake
+ r Amanda Benchley and Marilyn Minter herself. Together\, they will pull b
+ ack the curtain on the making of the film\, Minter’s extraordinary care
+ er\, and the ideas and experiences that have shaped both her art and the f
+ ilm.\n\n*This event is complimentary and reserved for members only. Theatr
+ e fare and refreshments will be served. We kindly ask that all cancellatio
+ ns be made at least 24 hours prior to the start of the event.
 URL:https://members.thequinhouse.com/events/203291
 CATEGORIES:The Arts
 END:VEVENT
@@ -168,7 +168,7 @@ DTEND;TZID=America/New_York:20260928T210000
 SUMMARY:Serendipity Dinner - The 40's Social
 LOCATION:The Muse
 DESCRIPTION:Category: Member Mixer\nPrice: $100.00 per person\nAvailability
- : 3 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
+ : 4 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
  .com/events/203329\n\nStep into a lively evening designed for members in t
  heir 40s\, where meaningful connections come naturally and conversation fl
  ows as effortlessly as the wine. This Serendipity Dinner invites you to ga
@@ -193,7 +193,7 @@ DTSTART;TZID=America/New_York:20260928T190000
 DTEND;TZID=America/New_York:20260928T203000
 SUMMARY:'Quin Chat: Equity in Breast Cancer Care
 LOCATION:Scottie's
-DESCRIPTION:Category: Health & Wellness\nPrice: Free\nAvailability: 46 spot
+DESCRIPTION:Category: Health & Wellness\nPrice: Free\nAvailability: 47 spot
  s left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/eve
  nts/203298\n\n7:00PM Reception\, 7:30PM Discussion\n\nPresident\, CEO\, an
  d founder of Gretta Enterprises\, and breast cancer survivor\, Gretta Mona
@@ -508,6 +508,29 @@ URL:https://members.thequinhouse.com/events/205198
 CATEGORIES:Member Mixer,Survey - Membership Mingle
 END:VEVENT
 BEGIN:VEVENT
+UID:quin-event-205641@thequinhouse.com
+DTSTAMP:20261010T200000Z
+DTSTART;TZID=America/New_York:20261010T200000
+DTEND;TZID=America/New_York:20261010T223000
+SUMMARY:'Quin Suite: Celtics vs. 76ers 
+LOCATION:Offsite - TD Garden
+DESCRIPTION:Category: Sports & Games\nPrice: $349.00 per person\nAvailabili
+ ty: 1 spot left\nStatus: Available\nEvent URL: https://members.thequinhous
+ e.com/events/205641\n\nGet an early look at the season ahead from The ’Q
+ uin Suite (#524) at TD Garden as the Celtics take on the Philadelphia 76er
+ s in preseason action.\n\nAll suite ticket options include incredible view
+ s of the on-court action and light gameday bites and an assortment of refr
+ eshments including wine\, beer and seltzer. Are you game?\n\n*A pair of 'Q
+ uin suite seats is available for $738 total ($369 per ticket). Individual 
+ suite tickets are available for bar stool / standing access only\, offered
+  at a reduced price of $349 per ticket. Suite tickets are non-refundable a
+ nd are non-transferable. Members may purchase tickets for up to 3 guests a
+ nd are required to accompany them at all times. The suite is limited to th
+ ose ages 16+ as a courtesy to fellow members.
+URL:https://members.thequinhouse.com/events/205641
+CATEGORIES:Sports & Games
+END:VEVENT
+BEGIN:VEVENT
 UID:quin-event-205200@thequinhouse.com
 DTSTAMP:20261012T180000Z
 DTSTART;TZID=America/New_York:20261012T180000
@@ -559,7 +582,7 @@ DTSTART;TZID=America/New_York:20261013T190000
 DTEND;TZID=America/New_York:20261013T200000
 SUMMARY:Author's Circle Book Club: "Safekeeping" by Claudia Hinz
 LOCATION:The Muse
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 23 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 22 spots left\nS
  tatus: Available\nEvent URL: https://members.thequinhouse.com/events/20362
  9\n\nThis October\, settle into the season with Safekeeping by Claudia Hin
  z\, a sweeping and deeply moving novel about family\, memory\, and the sec
@@ -686,51 +709,51 @@ DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261026
 SUMMARY:Black Widow: Web of Deceit | Saturday Night
 LOCATION:217 Commonwealth Mansion
-DESCRIPTION:Category: Holiday\nPrice: $295.00 per person\nStatus: You are C
- onfirmed\nTime: 8 PM – 1 AM\nEvent URL: https://members.thequinhouse.com
- /events/202989\n\nSlip into the camouflage of costume for an evening under
-  the ethereal shadows of lacy silk couture…\n\nYou're cordially invited 
- to The ‘Quin’s Annual Halloween Soirée an elegant and entangled tick
- eted affair. \n\nUnder the flicker of flame\, the ‘House will captivate
-  with indulgent buffets\, enchanting performances\, and the deceivingly t
- ranslucent jeweled veil - of the spider’s web.\n\nEnsnared? Fall victi
- m.\n\nIn the shadowed corners of the ‘House\, become entangled in buffet
- s of culinary bites\, live-action stations\, passed delicacies\, and venom
- ous cocktails. A dangerous game of hide-and-seek\, spiral the Grand Stairc
- ase lured by live musical performances\, shadowed portraitists\, acrobats\
- , and other-worldly talents...\n\nPerilous vibes take center stage in \n\
- nBondo \n\nwith a Headline DJ Performance from \n\n10:00PM - Midnight\n\
- nIn the spirit of Halloween\, swarm the ‘House.\n\nCreative black tie\, 
- cocktail attire\, or a cleverly crafted costume is essential.  \n\nTicket
- s are exclusively available for purchase through the Member App & Portal b
- eginning September 16th at 10:00AM. Tickets for members and their guests a
- re $295* each. To best accommodate members' varying preferences\, we are 
- delighted to extend a limited allocation of up to 1 guest ticket per membe
- r for Saturday evening's affair.\n\n*Taxes and beverages are not included
-  in the ticket price. Beverages will be available for purchase through our
-  masterful team of mixologists. \n\n_____________________________________
- _________________\n\nPlease be aware of these important notices:\n\nCANCEL
- LATION POLICY\nKindly note that tickets are non-refundable and nontransfer
- able once assigned.\n\nENTRY\nAll Member and guest tickets purchased\, are
-  linked to the Member’s profile through the App and Portal and are requi
- red for verification and entry on these evenings.\n\nGUEST POLICY\nFollowi
- ng the regular Member Policy\, Members must arrive and remain with their g
- uest(s) at all times. Guests must be age 21+. We strongly encourage review
-  of the Members’ Policy to ensure that you and your guest(s) are aware o
- f Club rules.\n\nVALET SERVICES\nValet services will be suspended on the e
- venings of October 23 & 24. Please plan ahead to secure rideshare services
-  or park at the nearest garage in Back Bay. Metered street parking is limi
- ted but also available.\n\nNO PHOTO POLICY\nPlease be aware that we will o
- ffer a photo opportunity on these evenings\; however\, the regular Photo P
- olicy will otherwise be in effect and enforced. Those who do not comply wi
- th the Privacy Agreement will be asked to leave the Clubhouse in keeping w
- ith the standards.\n\nThe ’Quin House has contracted professional photog
- raphers and videographers to capture this event. Any photos or videos dist
- ributed through ’Quin public channels will be edited to conceal the iden
- tities of participating Members and their guest(s). Photos or videos that 
- reveal Members will only be used in Member communication with the authoriz
- ation of those captured.\n\nQuestions? Please contact us at halloween@the
- quin.com.
+DESCRIPTION:Category: Holiday\nPrice: $295.00 per person\nAvailability: 1 s
+ pot left\nStatus: You are Confirmed\nTime: 8 PM – 1 AM\nEvent URL: https
+ ://members.thequinhouse.com/events/202989\n\nSlip into the camouflage of c
+ ostume for an evening under the ethereal shadows of lacy silk couture…\n
+ \nYou're cordially invited to The ‘Quin’s Annual Halloween Soirée an
+  elegant and entangled ticketed affair. \n\nUnder the flicker of flame\, 
+ the ‘House will captivate with indulgent buffets\, enchanting performan
+ ces\, and the deceivingly translucent jeweled veil - of the spider’s we
+ b.\n\nEnsnared? Fall victim.\n\nIn the shadowed corners of the ‘House\,
+  become entangled in buffets of culinary bites\, live-action stations\, pa
+ ssed delicacies\, and venomous cocktails. A dangerous game of hide-and-see
+ k\, spiral the Grand Staircase lured by live musical performances\, shadow
+ ed portraitists\, acrobats\, and other-worldly talents...\n\nPerilous vibe
+ s take center stage in \n\nBondo \n\nwith a Headline DJ Performance from
+  \n\n10:00PM - Midnight\n\nIn the spirit of Halloween\, swarm the ‘Hous
+ e.\n\nCreative black tie\, cocktail attire\, or a cleverly crafted costume
+  is essential.  \n\nTickets are exclusively available for purchase throug
+ h the Member App & Portal beginning September 16th at 10:00AM. Tickets for
+  members and their guests are $295* each. To best accommodate members' va
+ rying preferences\, we are delighted to extend a limited allocation of up 
+ to 1 guest ticket per member for Saturday evening's affair.\n\n*Taxes and
+  beverages are not included in the ticket price. Beverages will be availab
+ le for purchase through our masterful team of mixologists. \n\n__________
+ ____________________________________________\n\nPlease be aware of these i
+ mportant notices:\n\nCANCELLATION POLICY\nKindly note that tickets are non
+ -refundable and nontransferable once assigned.\n\nENTRY\nAll Member and gu
+ est tickets purchased\, are linked to the Member’s profile through the A
+ pp and Portal and are required for verification and entry on these evening
+ s.\n\nGUEST POLICY\nFollowing the regular Member Policy\, Members must arr
+ ive and remain with their guest(s) at all times. Guests must be age 21+. W
+ e strongly encourage review of the Members’ Policy to ensure that you an
+ d your guest(s) are aware of Club rules.\n\nVALET SERVICES\nValet services
+  will be suspended on the evenings of October 23 & 24. Please plan ahead t
+ o secure rideshare services or park at the nearest garage in Back Bay. Met
+ ered street parking is limited but also available.\n\nNO PHOTO POLICY\nPle
+ ase be aware that we will offer a photo opportunity on these evenings\; ho
+ wever\, the regular Photo Policy will otherwise be in effect and enforced.
+  Those who do not comply with the Privacy Agreement will be asked to leave
+  the Clubhouse in keeping with the standards.\n\nThe ’Quin House has con
+ tracted professional photographers and videographers to capture this event
+ . Any photos or videos distributed through ’Quin public channels will be
+  edited to conceal the identities of participating Members and their guest
+ (s). Photos or videos that reveal Members will only be used in Member comm
+ unication with the authorization of those captured.\n\nQuestions? Please c
+ ontact us at halloween@thequin.com.
 URL:https://members.thequinhouse.com/events/202989
 CATEGORIES:Holiday
 END:VEVENT
