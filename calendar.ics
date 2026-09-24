@@ -24,101 +24,29 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:quin-event-202196@thequinhouse.com
-DTSTAMP:20260923T150000Z
-DTSTART;TZID=America/New_York:20260923T150000
-DTEND;TZID=America/New_York:20260923T170000
-SUMMARY:Pub Table Bridge
-LOCATION:The Pub
-DESCRIPTION:Category: Sports & Games\nPrice: Free\nAvailability: 10 spots l
- eft\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events
- /202196\n\nPull up a chair for Pub Table Bridge\, a relaxed afternoon of c
- ards\, conversation\, and friendly competition among fellow members and gu
- ests. With an open-play format and an easygoing pace\, the afternoon is de
- signed for those who enjoy the strategy and social ritual of bridge - with
- out the formality of tournament play.\n\nBest suited to members with a wor
- king knowledge of the game\, the afternoon invites you to settle in for a 
- few hands\, reconnect with familiar faces\, and meet new ones across the t
- able. \n\n*This event is complimentary and reserved for members\, plus on
- e registered guest. Beverages will be available for purchase throughout th
- e afternoon and food will be available for purchase after 4:00PM. We kindl
- y ask that all cancellations be made at least 24 hours prior to the start 
- of the event.
-URL:https://members.thequinhouse.com/events/202196
-CATEGORIES:Sports & Games
-END:VEVENT
-BEGIN:VEVENT
-UID:quin-event-202316@thequinhouse.com
-DTSTAMP:20260923T170000Z
-DTSTART;TZID=America/New_York:20260923T170000
-DTEND;TZID=America/New_York:20260923T183000
-SUMMARY:'Quin Chat: Boston\, Our Global Home 
-LOCATION:The Muse
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nStatus: Waitlist Only\nEve
- nt URL: https://members.thequinhouse.com/events/202316\n\n5:00PM Reception
- \, 5:30PM Discussion \nWhat makes Boston a truly global city? From the FI
- FA World Cup and America’s 250th anniversary to the arrival of ships fro
- m around the world for Sail Boston\, the city continues to take center sta
- ge. Yet Boston’s international reach extends far beyond these marquee m
- oments. Recently named the best U.S. city for foreign multinationals by T
- he Financial Times and Nikkei\, Boston is home to more than 50 foreign 
- and honorary consulates\, with one in four residents being born abroad. 
- Across our universities\, hospitals\, businesses\, cultural institutions\,
-  and diverse communities\, Boston’s connections span the globe.\n\nFor t
- his ’Quin Chat\, join James Reginald Colimon\, Director of Global Affair
- s for the City of Boston\, and Mary Yntema\, Executive Director of the Bos
- ton Committee on Foreign Relations and Past President & CEO of WorldBoston
- \, Inc.\, for a timely conversation exploring how Boston became the global
-  hub it is today - and what that means for the people who call it home.\n\
- n*This event is complimentary and reserved for members only. Complimentary
-  light bites and refreshments will be served. We kindly ask that all cance
- llations be made at least 24 hours prior to the start of the event.
-URL:https://members.thequinhouse.com/events/202316
-CATEGORIES:‘Quin Chat
-END:VEVENT
-BEGIN:VEVENT
-UID:quin-event-201624@thequinhouse.com
-DTSTAMP:20260923T180000Z
-DTSTART;TZID=America/New_York:20260923T180000
-DTEND;TZID=America/New_York:20260923T210000
-SUMMARY:Live Music: Bill Banfield 
-LOCATION:The Reading Room
-DESCRIPTION:Category: The Arts\nPrice: Free / Included\nStatus: Available\n
- Event URL: https://members.thequinhouse.com/events/201624\n\nSpend the eve
- ning with acclaimed guitarist and composer Bill Banfield\, whose distincti
- ve sound brings together jazz\, classical\, and contemporary influences. S
- ettle in for a polished live performance showcasing his artistry\, versati
- lity\, and singular approach to the guitar.\n\nEnjoy the music with a sign
- ature cocktail from Little Bar\, and let the evening’s artistry set the 
- tone for a memorable night at the ’House.\n\n*Please note this event is 
- reserved for members\, plus three guests. Seating is first come\, first se
- rved.
-URL:https://members.thequinhouse.com/events/201624
-CATEGORIES:The Arts
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-203290@thequinhouse.com
 DTSTAMP:20260925T180000Z
 DTSTART;TZID=America/New_York:20260925T180000
 DTEND;TZID=America/New_York:20260925T193000
 SUMMARY:'Quin Chat\; Behind the Curtain - To Kill a Mockingbird
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nStatus: You are Confirmed\nEve
- nt URL: https://members.thequinhouse.com/events/203290\n\n6:00PM Reception
- \, 6:30PM Discussion\nExperience a behind-the-curtain look as The Huntin
- gton Theatre Company prepares to present the first regional production of 
- Aaron Sorkin’s acclaimed adaptation of To Kill a Mockingbird. Artistic 
- Director and Director of the production\, Loretta Greco joins fellow membe
- rs of the production to explore the art and complexity of bringing Harper 
- Lee’s enduring classic to the stage\, revealing what audiences rarely s
- ee: the journey from script to stage\, the artistic decisions made along t
- he way\, and the collaboration required to bring a production of this scal
- e to life. Together\, they will consider the delicate balance between hon
- oring a story that has resonated for generations and embracing the creativ
- e freedom and fresh perspective that come with a new interpretation.\n\n*T
- his event is complimentary and reserved for members only. Complimentary li
- ght bites and refreshments will be served. We kindly ask that all cancella
- tions be made at least 24 hours prior to the start of the event.
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 1 spot left\nSta
+ tus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/events
+ /203290\n\n6:00PM Reception\, 6:30PM Discussion\nExperience a behind-the-
+ curtain look as The Huntington Theatre Company prepares to present the fi
+ rst regional production of Aaron Sorkin’s acclaimed adaptation of To Ki
+ ll a Mockingbird. Artistic Director and Director of the production\, Loret
+ ta Greco joins fellow members of the production to explore the art and com
+ plexity of bringing Harper Lee’s enduring classic to the stage\, reveal
+ ing what audiences rarely see: the journey from script to stage\, the arti
+ stic decisions made along the way\, and the collaboration required to brin
+ g a production of this scale to life. Together\, they will consider the d
+ elicate balance between honoring a story that has resonated for generation
+ s and embracing the creative freedom and fresh perspective that come with 
+ a new interpretation.\n\n*This event is complimentary and reserved for mem
+ bers only. Complimentary light bites and refreshments will be served. We k
+ indly ask that all cancellations be made at least 24 hours prior to the st
+ art of the event.
 URL:https://members.thequinhouse.com/events/203290
 CATEGORIES:The Arts
 END:VEVENT
@@ -185,13 +113,13 @@ CATEGORIES:Member Mixer
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-205634@thequinhouse.com
-DTSTAMP:20260926T200000Z
+DTSTAMP:20260926T210000Z
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260928
 SUMMARY:90's Night
 LOCATION:Scottie's
 DESCRIPTION:Category: Food & Beverage\nPrice: Free / Included\nStatus: Avai
- lable\nTime: 8 PM – 1 AM\nEvent URL: https://members.thequinhouse.com/ev
+ lable\nTime: 9 PM – 1 AM\nEvent URL: https://members.thequinhouse.com/ev
  ents/205634\n\nTurn back the clock and step into Scottie’s for a night i
  nspired by the unforgettable sounds of the ’90s. From iconic pop anthems
   and new wave favorites to rock classics and dance-floor hits\, DJ Deja wi
@@ -265,7 +193,7 @@ DTSTART;TZID=America/New_York:20260928T190000
 DTEND;TZID=America/New_York:20260928T203000
 SUMMARY:'Quin Chat: Equity in Breast Cancer Care
 LOCATION:Scottie's
-DESCRIPTION:Category: Health & Wellness\nPrice: Free\nAvailability: 47 spot
+DESCRIPTION:Category: Health & Wellness\nPrice: Free\nAvailability: 46 spot
  s left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/eve
  nts/203298\n\n7:00PM Reception\, 7:30PM Discussion\n\nPresident\, CEO\, an
  d founder of Gretta Enterprises\, and breast cancer survivor\, Gretta Mona
@@ -485,7 +413,7 @@ DTSTART;TZID=America/New_York:20261005T110000
 DTEND;TZID=America/New_York:20261005T120000
 SUMMARY:Art Tour: The Core Collection 
 LOCATION:Meet in The Lobby
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 5 spots left\nSt
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 3 spots left\nSt
  atus: Available\nEvent URL: https://members.thequinhouse.com/events/203626
  \n\nJoin The 'Quin’s art collection curator Kate Chertavian for an art t
  our focused on the Core Collection. The discussion will begin in Bondo wit
