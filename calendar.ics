@@ -30,7 +30,7 @@ DTSTART;TZID=America/New_York:20260925T180000
 DTEND;TZID=America/New_York:20260925T193000
 SUMMARY:'Quin Chat\; Behind the Curtain - To Kill a Mockingbird
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 11 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 15 spots left\nS
  tatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/even
  ts/203290\n\n6:00PM Reception\, 6:30PM Discussion\nExperience a behind-th
  e-curtain look as The Huntington Theatre Company prepares to present the 
@@ -167,7 +167,7 @@ DTEND;TZID=America/New_York:20260928T210000
 SUMMARY:Serendipity Dinner - The 40's Social
 LOCATION:The Muse
 DESCRIPTION:Category: Member Mixer\nPrice: $100.00 per person\nAvailability
- : 4 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
+ : 3 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
  .com/events/203329\n\nStep into a lively evening designed for members in t
  heir 40s\, where meaningful connections come naturally and conversation fl
  ows as effortlessly as the wine. This Serendipity Dinner invites you to ga
@@ -217,7 +217,7 @@ DTSTART;TZID=America/New_York:20260929T130000
 DTEND;TZID=America/New_York:20260929T150000
 SUMMARY:90 Minutes of Innovation
 LOCATION:The Pub
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 46 spots lef
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 48 spots lef
  t\nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/
  events/203300\n\n1:00PM Program\, 2:30PM Networking\nWhat does it take to 
  challenge convention\, build what doesn’t yet exist\, and turn ambitious
@@ -373,6 +373,51 @@ URL:https://members.thequinhouse.com/events/203633
 CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
+UID:quin-event-205636@thequinhouse.com
+DTSTAMP:20261001T190000Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261004
+SUMMARY:Dessert Trolley 
+LOCATION:The Reading Room
+DESCRIPTION:Category: Food & Beverage\nPrice: Free / Included\nStatus: Avai
+ lable\nTime: 7 PM – 10 PM\nEvent URL: https://members.thequinhouse.com/e
+ vents/205636\n\nEnd the evening with a nightcap in The Reading Room\, wher
+ e The ’Quin’s pastry team presents a beautifully curated dessert troll
+ ey in celebration of Hispanic Heritage Month—an elegant showcase of belo
+ ved sweets and flavors inspired by traditions from across Latin America.\n
+ \nDiscover an assortment of indulgent treats\, from silky flan and delicat
+ e alfajores to buttery Mexican wedding cookies\, alongside a rotating sele
+ ction of confections thoughtfully crafted for the occasion. Familiar flavo
+ rs and time-honored favorites come together with The ’Quin’s signature
+  touch\, offering something tempting with every pass of the cart.\n\nWith 
+ tableside service and a touch of ceremony\, it’s a sweet celebration of 
+ heritage\, tradition\, and the simple pleasure of ending the evening with 
+ dessert.
+URL:https://members.thequinhouse.com/events/205636
+CATEGORIES:Food & Beverage
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-205635@thequinhouse.com
+DTSTAMP:20261002T170000Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261101
+SUMMARY:Taste of Crete
+LOCATION:Café Q
+DESCRIPTION:Category: Food & Beverage\nPrice: Free / Included\nStatus: Avai
+ lable\nTime: 5 PM – 9 PM\nEvent URL: https://members.thequinhouse.com/ev
+ ents/205635\n\nThis October\, Café Q invites members to experience A Tast
+ e of Crete\, a limited-time menu inspired by the sun-soaked flavors and vi
+ brant culinary traditions of Greece’s largest island.\n\nAvailable exclu
+ sively during dinner service\, this thoughtfully curated menu celebrates t
+ he fresh\, uncomplicated spirit of Cretan cuisine—think fresh-caught sea
+ food\, seasonal vegetables\, fragrant herbs\, local cheeses\, and exceptio
+ nal olive oils\, all rooted in the island’s connection to land and sea. 
+ Pair your meal with a crisp Greek white and settle in for a taste of the M
+ editerranean\, no passport required.
+URL:https://members.thequinhouse.com/events/205635
+CATEGORIES:Food & Beverage
+END:VEVENT
+BEGIN:VEVENT
 UID:quin-event-203637@thequinhouse.com
 DTSTAMP:20261002T173000Z
 DTSTART;TZID=America/New_York:20261002T173000
@@ -412,18 +457,18 @@ DTSTART;TZID=America/New_York:20261005T110000
 DTEND;TZID=America/New_York:20261005T120000
 SUMMARY:Art Tour: The Core Collection 
 LOCATION:Meet in The Lobby
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 2 spots left\nSt
- atus: Available\nEvent URL: https://members.thequinhouse.com/events/203626
- \n\nJoin The 'Quin’s art collection curator Kate Chertavian for an art t
- our focused on the Core Collection. The discussion will begin in Bondo wit
- h Donald Lipski's spectacular statement chandelier and Christopher Wool's 
- monumental silkscreens and will continue with a thematic exploration of wo
- rks on the grand staircase. With insight into the collaborative process of
-  creating this incredible collection\, the tour will conclude in the lobby
-  with artists such as Julie Mehretu\, Andy Warhol\, Cy Twombly\, and Claud
- e Monet.\n\n*This event is complimentary and reserved for members\, plus o
- ne guest. We kindly ask that all cancellations be made at least 24 hours p
- rior to the start of the event.
+DESCRIPTION:Category: The Arts\nPrice: Free\nStatus: Waitlist Only\nEvent U
+ RL: https://members.thequinhouse.com/events/203626\n\nJoin The 'Quin’s a
+ rt collection curator Kate Chertavian for an art tour focused on the Core 
+ Collection. The discussion will begin in Bondo with Donald Lipski's specta
+ cular statement chandelier and Christopher Wool's monumental silkscreens a
+ nd will continue with a thematic exploration of works on the grand stairca
+ se. With insight into the collaborative process of creating this incredibl
+ e collection\, the tour will conclude in the lobby with artists such as Ju
+ lie Mehretu\, Andy Warhol\, Cy Twombly\, and Claude Monet.\n\n*This event 
+ is complimentary and reserved for members\, plus one guest. We kindly ask 
+ that all cancellations be made at least 24 hours prior to the start of the
+  event.
 URL:https://members.thequinhouse.com/events/203626
 CATEGORIES:The Arts
 END:VEVENT
@@ -484,6 +529,44 @@ URL:https://members.thequinhouse.com/events/203636
 CATEGORIES:‘Quin Chat
 END:VEVENT
 BEGIN:VEVENT
+UID:quin-event-205637@thequinhouse.com
+DTSTAMP:20261006T123000Z
+DTSTART;TZID=America/New_York:20261006T123000
+DTEND;TZID=America/New_York:20261006T143000
+SUMMARY:90 Minutes of Innovation: The Future of Medicine
+LOCATION:The Pub
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 120 spots le
+ ft\nStatus: futureSale\nEvent URL: https://members.thequinhouse.com/events
+ /205637\n\n12:30PM Program\, 2:00PM Networking\nWhat will it take to accel
+ erate the next generation of medical breakthroughs—and rethink how disco
+ veries make their way from the lab to the people who need them? In the lat
+ est edition of 90 Minutes of Innovation\, John Werner\, venture capitalist
+ \, MIT lecturer\, and Forbes AI columnist\, and Alexander Wissner-Gross\, 
+ research scientist and entrepreneur\, sit down with Peter Kolchinsky\, PhD
+ \, Founder and Managing Partner of RA Capital Management and author of The
+  Great American Drug Deal\, for a conversation at the intersection of scie
+ nce\, technology\, investment\, and healthcare.\n\nWith a PhD in Virology 
+ from Harvard University\, Kolchinsky has spent decades investing in compan
+ ies developing drugs\, medical devices\, diagnostics\, and research tools\
+ , while advocating for approaches that make medicines more affordable with
+ out sacrificing the innovation behind tomorrow’s breakthroughs. Through 
+ his work with RA Capital and No Patient Left Behind\, he has become a lead
+ ing voice in conversations surrounding biotechnology\, drug development\, 
+ affordability\, and the incentives that shape the future of medicine.\n\nT
+ ogether\, Werner\, Wissner-Gross\, and Kolchinsky will explore how artific
+ ial intelligence and emerging technologies could accelerate scientific dis
+ covery\, reshape the development of new treatments\, and transform the bro
+ ader healthcare landscape. From getting promising discoveries to patients 
+ faster to balancing affordability with continued investment in innovation\
+ , expect a wide-ranging conversation about what’s possible when science\
+ , technology\, and new ways of thinking converge.\n\n*This event is compli
+ mentary and reserved for members only. Complimentary light bites and refre
+ shments will be served. We kindly ask that all cancellations be made at le
+ ast 24 hours prior to the start of the event.
+URL:https://members.thequinhouse.com/events/205637
+CATEGORIES:‘Quin Chat
+END:VEVENT
+BEGIN:VEVENT
 UID:quin-event-205198@thequinhouse.com
 DTSTAMP:20261006T170000Z
 DTSTART;TZID=America/New_York:20261006T170000
@@ -505,6 +588,169 @@ DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
  nt.
 URL:https://members.thequinhouse.com/events/205198
 CATEGORIES:Member Mixer,Survey - Membership Mingle
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-205638@thequinhouse.com
+DTSTAMP:20261006T173000Z
+DTSTART;TZID=America/New_York:20261006T173000
+DTEND;TZID=America/New_York:20261006T190000
+SUMMARY:'Quin Chat: Decoding Gut Health
+LOCATION:Scottie's
+DESCRIPTION:Category: Health & Wellness\nPrice: Free\nAvailability: 110 spo
+ ts left\nStatus: futureSale\nEvent URL: https://members.thequinhouse.com/e
+ vents/205638\n\n5:30PM Reception\, 6:00PM Discussion \nIn an oversaturate
+ d health and wellness landscape shaped by trends\, social media\, and an e
+ ver-growing marketplace\, how do we separate fact from fiction when it com
+ es to gut health? Join us for a ’Quin Chat exploring the science of the 
+ gut microbiome and its connection to digestion\, immunity\, metabolism\, a
+ nd overall well-being. Together\, our panelists will unpack what the resea
+ rch really tells us about probiotics\, prebiotics\, fermented foods\, fibe
+ r\, microbiome testing\, and personalized nutrition.\n\nThe conversation b
+ rings together leading voices at the intersection of medicine\, microbiome
+  research\, and emerging technology: Dr. Lynne B. Ahn\, MD\, gastroenterol
+ ogist and Founder and Medical Director of Ahn Point Wellness\; John Capodi
+ lupo\, Co-Founder and former CTO of WHOOP and Co-Founder and CPO of Throne
+ \; Dr. Brantley Hall\, PhD\, Co-Founder of Ventoscity\; and Dr. Chethan Ra
+ mprasad\, MS\, MS\, gastroenterologist at Beth Israel Deaconess Medical Ce
+ nter and faculty member at Harvard Medical School. From AI and wearable te
+ chnology to digital biomarkers and new approaches to monitoring digestive 
+ health\, they will explore what’s proven\, what is promising\, and what 
+ the future of gut health may hold.\n\n*This event is complimentary and res
+ erved for members only. Complimentary light bites and refreshments will be
+  served.We kindly ask that all cancellations be made at least 24 hours pri
+ or to the start of the event.
+URL:https://members.thequinhouse.com/events/205638
+CATEGORIES:Health & Wellness
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-206195@thequinhouse.com
+DTSTAMP:20261007T170000Z
+DTSTART;TZID=America/New_York:20261007T170000
+DTEND;TZID=America/New_York:20261007T183000
+SUMMARY:'Quin Chat: The Communities Changing Healthcare
+LOCATION:The Muse
+DESCRIPTION:Category: Health & Wellness\nPrice: Free\nAvailability: 80 spot
+ s left\nStatus: futureSale\nEvent URL: https://members.thequinhouse.com/ev
+ ents/206195\n\n5:00PM Reception\, 5:30PM Discussion\n\nWhat if some of the
+  most consequential ideas in American healthcare are not coming out of res
+ earch labs or Silicon Valley—but from the communities that have been qui
+ etly reimagining access to care for decades?\n\nJoin us for a timely conve
+ rsation exploring the evolution of community health centers: how a movemen
+ t born from the pursuit of more equitable\, community-driven care became a
+ n essential part of the healthcare landscape—and what its next chapter c
+ ould look like.\n\nDr. Michael Curry\, Esq.\, President & CEO of the Massa
+ chusetts League of Community Health Centers\, will be joined by Dr. Thomas
+  Ward\, historian\, Dean of the School of Arts and Sciences at Farmingdale
+  State College\, and author of Out in the Rural\, and Dr. James Hunt\, Jr.
+ \, former CEO of the Massachusetts League and author of If You’ve Seen O
+ ne\, a new book chronicling the health center movement.\n\nTogether\, the 
+ panel will look beyond the traditional healthcare model to explore how com
+ munity health centers have evolved around the people they serve\, the forc
+ es reshaping their work today\, and what decades of community-based care c
+ an teach us about building a healthier\, more equitable future.\n\n*This e
+ vent is complimentary and reserved for members only. Complimentary light b
+ ites and refreshments will be served. We kindly ask that all cancellations
+  be made at least 24 hours prior to the start of the event.
+URL:https://members.thequinhouse.com/events/206195
+CATEGORIES:Health & Wellness
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-205639@thequinhouse.com
+DTSTAMP:20261007T180000Z
+DTSTART;TZID=America/New_York:20261007T180000
+DTEND;TZID=America/New_York:20261007T210000
+SUMMARY:Invited Dress Preview: To Kill a Mockingbird 
+LOCATION:The Huntington Theatre
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 100 spots left\n
+ Status: futureSale\nEvent URL: https://members.thequinhouse.com/events/205
+ 639\n\n6:00PM Reception & Gallery Viewing\, 7:00PM Curtain\n\nGo behind th
+ e curtain for an exclusive first look at The Huntington Theatre’s To Kil
+ l a Mockingbird. The evening begins with a privae reception in The Maso St
+ udio\, where members will enjoy an immersive introduction to the productio
+ n’s inspiration and explore key set pieces that bring its world to life.
+  Following the reception\, members will be guided into the main theatre fo
+ r a closed final dress rehearsal.\n\nExperience the energy and anticipatio
+ n of the days leading up to opening night as the cast and creative team re
+ fine scenes\, work through director’s notes\, adjust pacing\, revisit li
+ ne readings\, and put the finishing touches on the performance. It’s an 
+ intimate look at the artistry\, collaboration\, and precision that happen 
+ behind the curtain before the house lights go down.\n\n*This event is comp
+ limentary and reserved for members only. Complimentary light bites and bev
+ erages will be served. We kindly ask that all cancellations be made at lea
+ st 24 hours prior to the start of the event.
+URL:https://members.thequinhouse.com/events/205639
+CATEGORIES:The Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-205640@thequinhouse.com
+DTSTAMP:20261008T170000Z
+DTSTART;TZID=America/New_York:20261008T170000
+DTEND;TZID=America/New_York:20261008T183000
+SUMMARY:'Quin Chat: Front Row to Boston Sports
+LOCATION:The Pub
+DESCRIPTION:Category: Sports & Games\nPrice: Free\nAvailability: 150 spots 
+ left\nStatus: futureSale\nEvent URL: https://members.thequinhouse.com/even
+ ts/205640\n\n5:00PM Reception 5:30PM Discussion\n\nCalling all Boston spor
+ ts fans! Join us for an evening of legendary stories\, unforgettable momen
+ ts\, and plenty of perspective from the people who had a front-row seat to
+  it all. Taking their growing local sports podcast\, The Front Row to Bost
+ on Sports\, to the stage at The ’Quin\, Bob Lobel\, former sportscaster 
+ for WBZ-TV\, Bob Ryan\, sportswriter formerly with The Boston Globe\, and 
+ Mike Lynch\, WCVB sports anchor\, come together to look back on the teams\
+ , personalities\, triumphs\, and heartbreaks that have defined generations
+  of Boston sports.\n\nCollectively\, the panel has spent decades covering 
+ the Celtics\, Patriots\, Red Sox\, and Bruins from press boxes\, sidelines
+ \, studios\, locker rooms\, and championship celebrations. From Larry Bird
+ ’s Celtics and unforgettable seasons at Fenway to the rise of the Patrio
+ ts and countless moments on the ice at the Garden\, they will share the st
+ ories behind the headlines—and perhaps a few that never made it into pri
+ nt or onto the air.\n\nExpect an evening filled with candid memories\, liv
+ ely debate\, and the unmistakable passion that comes with talking sports i
+ n Boston. Whether you have followed these teams for decades or simply love
+  a great sports story\, consider this your seat in the front row.\n\n*This
+  event is complimentary and reserved for members only. Complimentary light
+  bites and beverages will be served. We kindly ask that all cancellations 
+ be made at least 24 hours prior to the start of the event.
+URL:https://members.thequinhouse.com/events/205640
+CATEGORIES:Sports & Games
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-206163@thequinhouse.com
+DTSTAMP:20261009T183000Z
+DTSTART;TZID=America/New_York:20261009T183000
+DTEND;TZID=America/New_York:20261009T200000
+SUMMARY:'Quin Chat: CTE's Lasting Impact on the NFL 
+LOCATION:The Muse
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 68 spots lef
+ t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/2
+ 06163\n\n6:30PM Reception\, 7:00PM Discussion\n\nWhat does the latest scie
+ nce reveal about the lasting impact of contact sports on the brain - and h
+ ow can that knowledge help protect the next generation of athletes? Join u
+ s for a timely ’Quin Chat with Chris Nowinski\, PhD\, and Daniel Daneshv
+ ar\, MD\, PhD\, lead authors of a landmark study recently published in the
+  British Medical Journal. Examining former NFL players who died between 20
+ 16 and 2021\, the research proved that at least one in four had the brain 
+ disease chronic traumatic encephalopathy (CTE) - a finding that made globa
+ l headlines and raises urgent questions about the future of football and o
+ ther contact sports. Together\, Dr. Nowinski and Dr. Daneshvar will unpack
+  the study’s most consequential findings\, evolving questions\, and what
+  science is revealing about the neurological effects of repeated head impa
+ cts.\n\nA former Harvard football player and WWE wrestler whose career was
+  cut short by concussions\, Dr. Nowinski is the co-founder of the Concussi
+ on & CTE Foundation and the Boston University CTE Center Brain Bank. Dr. D
+ aneshvar is Chair of Physical Medicine and Rehabilitation at Mass General 
+ Brigham and Harvard Medical School\, Chief of Brain Injury Rehabilitation 
+ at Spaulding Rehabilitation\, and Director of the HealthSpan Lab. The even
+ ing will be moderated by Nell Scovell\, a former Boston Globe sports journ
+ alist\, “Lean In” co-author\, and TV writer (“The Simpsons\,” “C
+ oach\,” creator\, “Sabrina the Teenage Witch.”) and the discussion w
+ ill offer a candid look at what the science tells us now—and where playe
+ rs\, families\, and the sports community go from here.\n\n*This event is c
+ omplimentary and reserved for members only. Complimentary light bites and 
+ refreshments will be served. We kindly ask that all cancellations be made 
+ at least 24 hours prior to the start of the event.
+URL:https://members.thequinhouse.com/events/206163
+CATEGORIES:‘Quin Chat
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-205641@thequinhouse.com
@@ -631,7 +877,7 @@ DTEND;TZID=America/New_York:20261020T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 34 spots left\nStatus: Available\nEvent URL: https://memb
+ e\nAvailability: 33 spots left\nStatus: Available\nEvent URL: https://memb
  ers.thequinhouse.com/events/205202\n\nJoin us for our weekly Member Mingle
  \, an inclusive gathering set in an ambiant reserved space. This is your o
  pportunity to connect with fellow members\, exchange ideas\, and cultivate
