@@ -24,47 +24,6 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:quin-event-199505@thequinhouse.com
-DTSTAMP:20260926T113000Z
-DTSTART;TZID=America/New_York:20260926T113000
-DTEND;TZID=America/New_York:20260926T143000
-SUMMARY:Jazz Brunch
-LOCATION:Café Q
-DESCRIPTION:Category: Food & Beverage\nPrice: Free / Included\nStatus: Avai
- lable\nEvent URL: https://members.thequinhouse.com/events/199505\n\nReserv
- ations from 10:30AM - 3:00PM | Live Music from 11:30AM - 2:30PM\nRise\, sh
- ine and come hungry for Café Q's á la carte weekend brunch menu featurin
- g tableside entertainment by a Jazz duo. Following the club's usual policy
- \, children ages 6+ are welcome to attend when accompanied by a parent.\n\
- nMake a Reservation.
-URL:https://members.thequinhouse.com/events/199505
-CATEGORIES:Food & Beverage
-END:VEVENT
-BEGIN:VEVENT
-UID:quin-event-199239@thequinhouse.com
-DTSTAMP:20260926T120000Z
-DTSTART;TZID=America/New_York:20260926T120000
-DTEND;TZID=America/New_York:20260926T140000
-SUMMARY:Serendipity Brunch
-LOCATION:Lunasol
-DESCRIPTION:Category: Member Mixer\nPrice: $65.00 per person\nStatus: Waitl
- ist Only\nEvent URL: https://members.thequinhouse.com/events/199239\n\nJoi
- n us for a Serendipity Saturday Brunch that invites members to enjoy great
-  conversation\, in good company. Set in Lunasol\, the afternoon unfolds w
- ith an easy rhythm—a thoughtful menu\, enthusiastic members\, and a cura
- ted card deck of conversation prompts to inspire connections.\n\nBrunch wi
- ll be served family-style\, featuring pastries\, fruit\, and parfaits to b
- egin\, followed by a choice of entrée and generous sides. Mimosas and Blo
- ody Marys will be available throughout.\n\nSpend the day at The 'House—
- unhurried\, social\, and effortlessly enjoyable.\n\n*Tickets are $65 per p
- erson\, plus tax\, and are reserved for members only. Cancellations within
-  48 hours of the event\, or failure to attend\, will be charged in full. P
- lease inform us of any dietary needs or restrictions by emailing happening
- @thequin.com at least 72 hours prior to the event.
-URL:https://members.thequinhouse.com/events/199239
-CATEGORIES:Member Mixer
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-205634@thequinhouse.com
 DTSTAMP:20260926T210000Z
 DTSTART;VALUE=DATE:20260926
@@ -146,7 +105,7 @@ DTSTART;TZID=America/New_York:20260928T190000
 DTEND;TZID=America/New_York:20260928T203000
 SUMMARY:'Quin Chat: Equity in Breast Cancer Care
 LOCATION:Scottie's
-DESCRIPTION:Category: Health & Wellness\nPrice: Free\nAvailability: 43 spot
+DESCRIPTION:Category: Health & Wellness\nPrice: Free\nAvailability: 44 spot
  s left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/eve
  nts/203298\n\n7:00PM Reception\, 7:30PM Discussion\n\nPresident\, CEO\, an
  d founder of Gretta Enterprises\, and breast cancer survivor\, Gretta Mona
@@ -171,7 +130,7 @@ DTSTART;TZID=America/New_York:20260929T130000
 DTEND;TZID=America/New_York:20260929T150000
 SUMMARY:90 Minutes of Innovation
 LOCATION:The Pub
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 46 spots lef
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 49 spots lef
  t\nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/
  events/203300\n\n1:00PM Program\, 2:30PM Networking\nWhat does it take to 
  challenge convention\, build what doesn’t yet exist\, and turn ambitious
@@ -209,7 +168,7 @@ DTEND;TZID=America/New_York:20260929T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 26 spots left\nStatus: Available\nEvent URL: https://memb
+ e\nAvailability: 25 spots left\nStatus: Available\nEvent URL: https://memb
  ers.thequinhouse.com/events/205197\n\nJoin us for our weekly Member Mingle
  \, an inclusive gathering set in an ambiant reserved space. This is your o
  pportunity to connect with fellow members\, exchange ideas\, and cultivate
@@ -455,7 +414,7 @@ DTSTART;TZID=America/New_York:20261005T183000
 DTEND;TZID=America/New_York:20261005T200000
 SUMMARY:'Quin Chat: Latinas Leading Business
 LOCATION:Scotties
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 87 spots lef
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 86 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/2
  03636\n\n6:30PM Reception\, 7:00PM Discussion\n\nIn celebration of Hispan
  ic Heritage Month\, join us for a ’Quin Chat that shines a light on the 
@@ -675,7 +634,7 @@ DTSTART;TZID=America/New_York:20261009T183000
 DTEND;TZID=America/New_York:20261009T200000
 SUMMARY:'Quin Chat: CTE's Lasting Impact on the NFL 
 LOCATION:The Muse
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 68 spots lef
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 67 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/2
  06163\n\n6:30PM Reception\, 7:00PM Discussion\n\nWhat does the latest scie
  nce reveal about the lasting impact of contact sports on the brain - and h
