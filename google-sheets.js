@@ -29,13 +29,27 @@ async function getServiceAccountToken(sa) {
     }),
   });
   if (!res.ok) {
-    throw new Error(`Google service-account auth failed: HTTP ${res.status}`);
+    throw new Error(`Google service-account auth failed: HTTP ${res.status} — ${await googleReason(res)}`);
   }
   const data = await res.json();
   return { token: data.access_token, expiresAt: Date.now() + (data.expires_in || 3600) * 1000 };
 }
 
-function createSheetClient({ serviceAccountJson, spreadsheetId, tab }) {
+// Google's own error text (e.g. "Google Sheets API has not been used in project
+// ... or it is disabled", "This operation is not supported for this document").
+async function googleReason(res) {
+  try {
+    const data = await res.json();
+    return (data.error && (data.error.message || data.error.status)) || data.error_description || '';
+  } catch {
+    return '';
+  }
+}
+
+function createSheetClient({ serviceAccountJson, spreadsheetId: idOrUrl, tab }) {
+  // Accept either the bare ID or the full docs.google.com URL.
+  const idMatch = /\/spreadsheets\/d\/([A-Za-z0-9_-]+)/.exec(idOrUrl);
+  const spreadsheetId = idMatch ? idMatch[1] : idOrUrl;
   let sa;
   try {
     sa = JSON.parse(serviceAccountJson);
@@ -61,7 +75,8 @@ function createSheetClient({ serviceAccountJson, spreadsheetId, tab }) {
       headers: await authHeaders(),
     });
     if (!res.ok) {
-      throw new Error(`Sheet read failed: HTTP ${res.status} (is the sheet shared with ${sa.client_email}, and is the tab named '${tab}'?)`);
+      throw new Error(`Sheet read failed: HTTP ${res.status} — ${await googleReason(res)} ` +
+        `(is the sheet a native Google Sheet shared with ${sa.client_email}, with a tab named '${tab}'?)`);
     }
     const data = await res.json();
     return data.values || [];
@@ -75,7 +90,7 @@ function createSheetClient({ serviceAccountJson, spreadsheetId, tab }) {
       body: JSON.stringify({ values }),
     });
     if (!res.ok) {
-      throw new Error(`Sheet write failed: HTTP ${res.status} (does ${sa.client_email} have Editor access?)`);
+      throw new Error(`Sheet write failed: HTTP ${res.status} — ${await googleReason(res)} (does ${sa.client_email} have Editor access?)`);
     }
   }
 
