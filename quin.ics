@@ -30,7 +30,7 @@ DTSTART;TZID=America/New_York:20260929T130000
 DTEND;TZID=America/New_York:20260929T150000
 SUMMARY:90 Minutes of Innovation
 LOCATION:The Pub
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 54 spots lef
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 52 spots lef
  t\nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/
  events/203300\n\n1:00PM Program\, 2:30PM Networking\nWhat does it take to 
  challenge convention\, build what doesn’t yet exist\, and turn ambitious
@@ -67,22 +67,23 @@ DTSTART;TZID=America/New_York:20260929T200000
 DTEND;TZID=America/New_York:20260929T210000
 SUMMARY:Stand Up Comedy: Orlando Baxter | 8:00PM Show
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nStatus: You are on Waitlist\nE
- vent URL: https://members.thequinhouse.com/events/203607\n\nOrlando Baxter
-  brings his sharp\, deeply relatable comedy to The ’House for an evening
-  of stand-up inspired by family\, relationships\, work\, and the everyday 
- absurdities of life. A former public high school teacher\, Orlando spent 1
- 2 years in the classroom—an experience that continues to shape his quick
-  wit\, natural storytelling\, and unmistakable point of view.\n\nSince tra
- ding lesson plans for the stage\, Orlando has entertained audiences around
-  the world\, appeared on Conan\, and earned more than five million views 
- for his comedy special\, Glorified Baby Sitter.\n\nEnjoy a pre-show cockt
- ail from the cash bar before settling in for the performance. Seating is f
- irst come\, first served.\n\nMake a night of it with a burger and beer in 
- The Pub before the show. Dining walk-ins are welcome.\n\n*This event is av
- ailable for members and up to one registered guest. Complimentary light b
- ites and refreshments will be served. We kindly ask that all cancellations
-  be made at least 24 hours prior to the start of the event.
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 10 spots left\nS
+ tatus: You are on Waitlist\nEvent URL: https://members.thequinhouse.com/ev
+ ents/203607\n\nOrlando Baxter brings his sharp\, deeply relatable comedy t
+ o The ’House for an evening of stand-up inspired by family\, relationshi
+ ps\, work\, and the everyday absurdities of life. A former public high sch
+ ool teacher\, Orlando spent 12 years in the classroom—an experience that
+  continues to shape his quick wit\, natural storytelling\, and unmistakabl
+ e point of view.\n\nSince trading lesson plans for the stage\, Orlando has
+  entertained audiences around the world\, appeared on Conan\, and earned 
+ more than five million views for his comedy special\, Glorified Baby Sitt
+ er.\n\nEnjoy a pre-show cocktail from the cash bar before settling in for 
+ the performance. Seating is first come\, first served.\n\nMake a night of 
+ it with a burger and beer in The Pub before the show. Dining walk-ins are 
+ welcome.\n\n*This event is available for members and up to one registered 
+ guest. Complimentary light bites and refreshments will be served. We kind
+ ly ask that all cancellations be made at least 24 hours prior to the start
+  of the event.
 URL:https://members.thequinhouse.com/events/203607
 CATEGORIES:The Arts
 END:VEVENT
@@ -93,7 +94,7 @@ DTSTART;TZID=America/New_York:20260930T183000
 DTEND;TZID=America/New_York:20260930T200000
 SUMMARY:'Quin Chat: How Hip-Hop Built an Empire
 LOCATION:The Muse
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 4 spots left\nSt
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 5 spots left\nSt
  atus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/event
  s/203633\n\n6:30PM Reception\, 7:00PM Discussion\n\nWhat is it about hip-h
  op that has transformed generations of artists into some of the world’s 
@@ -118,57 +119,84 @@ URL:https://members.thequinhouse.com/events/203633
 CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
+UID:quin-event-205639@thequinhouse.com
+DTSTAMP:20261007T180000Z
+DTSTART;TZID=America/New_York:20261007T180000
+DTEND;TZID=America/New_York:20261007T210000
+SUMMARY:Invited Dress Preview: To Kill a Mockingbird 
+LOCATION:The Huntington Theatre
+DESCRIPTION:Category: The Arts\nPrice: Free\nStatus: You are on Waitlist\nE
+ vent URL: https://members.thequinhouse.com/events/205639\n\n6:00PM Recepti
+ on & Gallery Viewing\, 7:00PM Curtain\n\nGo behind the curtain for an excl
+ usive first look at The Huntington Theatre’s To Kill a Mockingbird. The 
+ evening begins with a privae reception in The Maso Studio\, where members 
+ will enjoy an immersive introduction to the production’s inspiration and
+  explore key set pieces that bring its world to life. Following the recept
+ ion\, members will be guided into the main theatre for a closed final dres
+ s rehearsal.\n\nExperience the energy and anticipation of the days leading
+  up to opening night as the cast and creative team refine scenes\, work th
+ rough director’s notes\, adjust pacing\, revisit line readings\, and put
+  the finishing touches on the performance. It’s an intimate look at the 
+ artistry\, collaboration\, and precision that happen behind the curtain be
+ fore the house lights go down.\n\n*This event is complimentary and reserve
+ d for members only. Complimentary light bites and beverages will be served
+ . We kindly ask that all cancellations be made at least 24 hours prior to 
+ the start of the event.
+URL:https://members.thequinhouse.com/events/205639
+CATEGORIES:The Arts
+END:VEVENT
+BEGIN:VEVENT
 UID:quin-event-202989@thequinhouse.com
 DTSTAMP:20261024T200000Z
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261026
 SUMMARY:Black Widow: Web of Deceit | Saturday Night
 LOCATION:217 Commonwealth Mansion
-DESCRIPTION:Category: Holiday\nPrice: $295.00 per person\nAvailability: 2 s
- pots left\nStatus: You are Confirmed\nTime: 8 PM – 1 AM\nEvent URL: http
- s://members.thequinhouse.com/events/202989\n\nSlip into the camouflage of 
- costume for an evening under the ethereal shadows of lacy silk couture…\
- n\nYou're cordially invited to The ‘Quin’s Annual Halloween Soirée a
- n elegant and entangled ticketed affair. \n\nUnder the flicker of flame\,
-  the ‘House will captivate with indulgent buffets\, enchanting performa
- nces\, and the deceivingly translucent jeweled veil - of the spider’s w
- eb.\n\nEnsnared? Fall victim.\n\nIn the shadowed corners of the ‘House\
- , become entangled in buffets of culinary bites\, live-action stations\, p
- assed delicacies\, and venomous cocktails. A dangerous game of hide-and-se
- ek\, spiral the Grand Staircase lured by live musical performances\, shado
- wed portraitists\, acrobats\, and other-worldly talents...\n\nPerilous vib
- es take center stage in \n\nBondo \n\nwith a Headline DJ Performance fro
- m \n\n10:00PM - Midnight\n\nIn the spirit of Halloween\, swarm the ‘Hou
- se.\n\nCreative black tie\, cocktail attire\, or a cleverly crafted costum
- e is essential.  \n\nTickets are exclusively available for purchase throu
- gh the Member App & Portal beginning September 16th at 10:00AM. Tickets fo
- r members and their guests are $295* each. To best accommodate members' v
- arying preferences\, we are delighted to extend a limited allocation of up
-  to 1 guest ticket per member for Saturday evening's affair.\n\n*Taxes an
- d beverages are not included in the ticket price. Beverages will be availa
- ble for purchase through our masterful team of mixologists. \n\n_________
- _____________________________________________\n\nPlease be aware of these 
- important notices:\n\nCANCELLATION POLICY\nKindly note that tickets are no
- n-refundable and nontransferable once assigned.\n\nENTRY\nAll Member and g
- uest tickets purchased\, are linked to the Member’s profile through the 
- App and Portal and are required for verification and entry on these evenin
- gs.\n\nGUEST POLICY\nFollowing the regular Member Policy\, Members must ar
- rive and remain with their guest(s) at all times. Guests must be age 21+. 
- We strongly encourage review of the Members’ Policy to ensure that you a
- nd your guest(s) are aware of Club rules.\n\nVALET SERVICES\nValet service
- s will be suspended on the evenings of October 23 & 24. Please plan ahead 
- to secure rideshare services or park at the nearest garage in Back Bay. Me
- tered street parking is limited but also available.\n\nNO PHOTO POLICY\nPl
- ease be aware that we will offer a photo opportunity on these evenings\; h
- owever\, the regular Photo Policy will otherwise be in effect and enforced
- . Those who do not comply with the Privacy Agreement will be asked to leav
- e the Clubhouse in keeping with the standards.\n\nThe ’Quin House has co
- ntracted professional photographers and videographers to capture this even
- t. Any photos or videos distributed through ’Quin public channels will b
- e edited to conceal the identities of participating Members and their gues
- t(s). Photos or videos that reveal Members will only be used in Member com
- munication with the authorization of those captured.\n\nQuestions? Please 
- contact us at halloween@thequin.com.
+DESCRIPTION:Category: Holiday\nPrice: $295.00 per person\nStatus: You are C
+ onfirmed\nTime: 8 PM – 1 AM\nEvent URL: https://members.thequinhouse.com
+ /events/202989\n\nSlip into the camouflage of costume for an evening under
+  the ethereal shadows of lacy silk couture…\n\nYou're cordially invited 
+ to The ‘Quin’s Annual Halloween Soirée an elegant and entangled tick
+ eted affair. \n\nUnder the flicker of flame\, the ‘House will captivate
+  with indulgent buffets\, enchanting performances\, and the deceivingly t
+ ranslucent jeweled veil - of the spider’s web.\n\nEnsnared? Fall victi
+ m.\n\nIn the shadowed corners of the ‘House\, become entangled in buffet
+ s of culinary bites\, live-action stations\, passed delicacies\, and venom
+ ous cocktails. A dangerous game of hide-and-seek\, spiral the Grand Stairc
+ ase lured by live musical performances\, shadowed portraitists\, acrobats\
+ , and other-worldly talents...\n\nPerilous vibes take center stage in \n\
+ nBondo \n\nwith a Headline DJ Performance from \n\n10:00PM - Midnight\n\
+ nIn the spirit of Halloween\, swarm the ‘House.\n\nCreative black tie\, 
+ cocktail attire\, or a cleverly crafted costume is essential.  \n\nTicket
+ s are exclusively available for purchase through the Member App & Portal b
+ eginning September 16th at 10:00AM. Tickets for members and their guests a
+ re $295* each. To best accommodate members' varying preferences\, we are 
+ delighted to extend a limited allocation of up to 1 guest ticket per membe
+ r for Saturday evening's affair.\n\n*Taxes and beverages are not included
+  in the ticket price. Beverages will be available for purchase through our
+  masterful team of mixologists. \n\n_____________________________________
+ _________________\n\nPlease be aware of these important notices:\n\nCANCEL
+ LATION POLICY\nKindly note that tickets are non-refundable and nontransfer
+ able once assigned.\n\nENTRY\nAll Member and guest tickets purchased\, are
+  linked to the Member’s profile through the App and Portal and are requi
+ red for verification and entry on these evenings.\n\nGUEST POLICY\nFollowi
+ ng the regular Member Policy\, Members must arrive and remain with their g
+ uest(s) at all times. Guests must be age 21+. We strongly encourage review
+  of the Members’ Policy to ensure that you and your guest(s) are aware o
+ f Club rules.\n\nVALET SERVICES\nValet services will be suspended on the e
+ venings of October 23 & 24. Please plan ahead to secure rideshare services
+  or park at the nearest garage in Back Bay. Metered street parking is limi
+ ted but also available.\n\nNO PHOTO POLICY\nPlease be aware that we will o
+ ffer a photo opportunity on these evenings\; however\, the regular Photo P
+ olicy will otherwise be in effect and enforced. Those who do not comply wi
+ th the Privacy Agreement will be asked to leave the Clubhouse in keeping w
+ ith the standards.\n\nThe ’Quin House has contracted professional photog
+ raphers and videographers to capture this event. Any photos or videos dist
+ ributed through ’Quin public channels will be edited to conceal the iden
+ tities of participating Members and their guest(s). Photos or videos that 
+ reveal Members will only be used in Member communication with the authoriz
+ ation of those captured.\n\nQuestions? Please contact us at halloween@the
+ quin.com.
 URL:https://members.thequinhouse.com/events/202989
 CATEGORIES:Holiday
 END:VEVENT
