@@ -81,7 +81,7 @@ DTSTART;TZID=America/New_York:20260929T130000
 DTEND;TZID=America/New_York:20260929T150000
 SUMMARY:90 Minutes of Innovation
 LOCATION:The Pub
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 52 spots lef
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 55 spots lef
  t\nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/
  events/203300\n\n1:00PM Program\, 2:30PM Networking\nWhat does it take to 
  challenge convention\, build what doesn’t yet exist\, and turn ambitious
@@ -119,7 +119,7 @@ DTEND;TZID=America/New_York:20260929T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 19 spots left\nStatus: Available\nEvent URL: https://memb
+ e\nAvailability: 20 spots left\nStatus: Available\nEvent URL: https://memb
  ers.thequinhouse.com/events/205197\n\nJoin us for our weekly Member Mingle
  \, an inclusive gathering set in an ambiant reserved space. This is your o
  pportunity to connect with fellow members\, exchange ideas\, and cultivate
@@ -188,7 +188,7 @@ DTSTART;TZID=America/New_York:20260929T200000
 DTEND;TZID=America/New_York:20260929T210000
 SUMMARY:Stand Up Comedy: Orlando Baxter | 8:00PM Show
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 10 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 12 spots left\nS
  tatus: You are on Waitlist\nEvent URL: https://members.thequinhouse.com/ev
  ents/203607\n\nOrlando Baxter brings his sharp\, deeply relatable comedy t
  o The ’House for an evening of stand-up inspired by family\, relationshi
@@ -463,29 +463,29 @@ DTSTART;TZID=America/New_York:20261006T173000
 DTEND;TZID=America/New_York:20261006T190000
 SUMMARY:'Quin Chat: Decoding Gut Health
 LOCATION:Scottie's
-DESCRIPTION:Category: Health & Wellness\nPrice: Free\nAvailability: 2 spots
-  left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/even
- ts/205638\n\n5:30PM Reception\, 6:00PM Discussion \nIn an oversaturated h
- ealth and wellness landscape shaped by trends\, social media\, and an ever
- -growing marketplace\, how do we separate fact from fiction when it comes 
- to gut health? Join us for a ’Quin Chat exploring the science of the gut
-  microbiome and its connection to digestion\, immunity\, metabolism\, and 
- overall well-being. Together\, our panelists will unpack what the research
-  really tells us about probiotics\, prebiotics\, fermented foods\, fiber\,
-  microbiome testing\, and personalized nutrition.\n\nThe conversation brin
- gs together leading voices at the intersection of medicine\, microbiome re
- search\, and emerging technology: Dr. Lynne B. Ahn\, MD\, gastroenterologi
- st and Founder and Medical Director of Ahn Point Wellness\; John Capodilup
- o\, Co-Founder and former CTO of WHOOP and Co-Founder and CPO of Throne\; 
- Dr. Brantley Hall\, PhD\, Co-Founder of Ventoscity\; and Dr. Chethan Rampr
- asad\, MS\, MS\, gastroenterologist at Beth Israel Deaconess Medical Cente
- r and faculty member at Harvard Medical School. From AI and wearable techn
- ology to digital biomarkers and new approaches to monitoring digestive hea
- lth\, they will explore what’s proven\, what is promising\, and what the
-  future of gut health may hold.\n\n*This event is complimentary and reserv
- ed for members only. Complimentary light bites and refreshments will be se
- rved.We kindly ask that all cancellations be made at least 24 hours prior 
- to the start of the event.
+DESCRIPTION:Category: Health & Wellness\nPrice: Free\nStatus: Waitlist Only
+ \nEvent URL: https://members.thequinhouse.com/events/205638\n\n5:30PM Rece
+ ption\, 6:00PM Discussion \nIn an oversaturated health and wellness lands
+ cape shaped by trends\, social media\, and an ever-growing marketplace\, h
+ ow do we separate fact from fiction when it comes to gut health? Join us f
+ or a ’Quin Chat exploring the science of the gut microbiome and its conn
+ ection to digestion\, immunity\, metabolism\, and overall well-being. Toge
+ ther\, our panelists will unpack what the research really tells us about p
+ robiotics\, prebiotics\, fermented foods\, fiber\, microbiome testing\, an
+ d personalized nutrition.\n\nThe conversation brings together leading voic
+ es at the intersection of medicine\, microbiome research\, and emerging te
+ chnology: Dr. Lynne B. Ahn\, MD\, gastroenterologist and Founder and Medic
+ al Director of Ahn Point Wellness\; John Capodilupo\, Co-Founder and forme
+ r CTO of WHOOP and Co-Founder and CPO of Throne\; Dr. Brantley Hall\, PhD\
+ , Co-Founder of Ventoscity\; and Dr. Chethan Ramprasad\, MS\, MS\, gastroe
+ nterologist at Beth Israel Deaconess Medical Center and faculty member at 
+ Harvard Medical School. From AI and wearable technology to digital biomark
+ ers and new approaches to monitoring digestive health\, they will explore 
+ what’s proven\, what is promising\, and what the future of gut health ma
+ y hold.\n\n*This event is complimentary and reserved for members only. Com
+ plimentary light bites and refreshments will be served.We kindly ask that 
+ all cancellations be made at least 24 hours prior to the start of the even
+ t.
 URL:https://members.thequinhouse.com/events/205638
 CATEGORIES:Health & Wellness
 END:VEVENT
@@ -672,7 +672,7 @@ DTEND;TZID=America/New_York:20261013T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 29 spots left\nStatus: Available\nEvent URL: https://memb
+ e\nAvailability: 28 spots left\nStatus: Available\nEvent URL: https://memb
  ers.thequinhouse.com/events/205199\n\nJoin us for our weekly Member Mingle
  \, an inclusive gathering set in an ambiant reserved space. This is your o
  pportunity to connect with fellow members\, exchange ideas\, and cultivate
@@ -694,7 +694,7 @@ DTSTART;TZID=America/New_York:20261013T190000
 DTEND;TZID=America/New_York:20261013T200000
 SUMMARY:Author's Circle Book Club: "Safekeeping" by Claudia Hinz
 LOCATION:The Muse
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 15 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 13 spots left\nS
  tatus: Available\nEvent URL: https://members.thequinhouse.com/events/20362
  9\n\nThis October\, settle into the season with Safekeeping by Claudia Hin
  z\, a sweeping and deeply moving novel about family\, memory\, and the sec
@@ -766,51 +766,50 @@ DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261025
 SUMMARY:Black Widow: Web of Deceit | Friday Night
 LOCATION:217 Commonwealth Mansion
-DESCRIPTION:Category: Holiday\nPrice: $295.00 per person\nStatus: Waitlist 
- Only\nTime: 8 PM – 1 AM\nEvent URL: https://members.thequinhouse.com/eve
- nts/202982\n\nSlip into the camouflage of costume for an evening under the
-  ethereal shadows of lacy silk couture…\n\nYou're cordially invited to T
- he ‘Quin’s Annual Halloween Soirée an elegant and entangled ticketed 
- affair. \n\nUnder the flicker of flame\, the ‘House will captivate with
-  indulgent buffets\, enchanting performances\, and the deceivingly translu
- cent jeweled veil - of the spider’s web.\n\nEnsnared? Fall victim.\n\nI
- n the shadowed corners of the ‘House\, become entangled in buffets of cu
- linary bites\, live-action stations\, passed delicacies\, and venomous coc
- ktails. A dangerous game of hide-and-seek\, spiral the Grand Staircase lur
- ed by live musical performances\, shadowed portraitists\, acrobats\, and o
- ther-worldly talents...\n\nPerilous vibes take center stage in \n\nBondo�
- �\n\nwith a Headline DJ Performance from \n\n10:00PM - Midnight\n\nIn the
-  spirit of Halloween\, swarm the ‘House.\n\nCreative black tie\, cocktai
- l attire\, or a cleverly crafted costume is essential.  \n\nTickets are e
- xclusively available for purchase through the Member App & Portal beginnin
- g September 16th at 10:00AM. Tickets for members and their guests are $295
- * each. To best accommodate members' varying preferences\, we are delight
- ed to extend a limited allocation of up to 3 guest tickets per member for 
- Friday evening's affair.\n\n*Taxes and beverages are not included in the t
- icket price. Beverages will be available for purchase through our masterfu
- l team of mixologists. \n\n______________________________________________
- ________\n\nPlease be aware of these important notices:\n\nCANCELLATION PO
- LICY\n Kindly note that tickets are non-refundable and nontransferable onc
- e assigned.\n\nENTRY\n All Member and guest tickets purchased\, are linked
-  to the Member’s profile through the App and Portal and are required for
-  verification and entry on these evenings.\n\nGUEST POLICY\n Following the
-  regular Member Policy\, Members must arrive and remain with their guest(s
- ) at all times. Guests must be age 21+. We strongly encourage review of th
- e Members’ Policy to ensure that you and your guest(s) are aware of Club
-  rules.\n\nVALET SERVICES\n Valet services will be suspended on the evenin
- gs of October 23 & 24. Please plan ahead to secure rideshare services or p
- ark at the nearest garage in Back Bay. Metered street parking is limited b
- ut also available.\n\nNO PHOTO POLICY\n Please be aware that we will offer
-  a photo opportunity on these evenings\; however\, the regular Photo Polic
- y will otherwise be in effect and enforced. Those who do not comply with t
- he Privacy Agreement will be asked to leave the Clubhouse in keeping with 
- the standards.\n\nThe ’Quin House has contracted professional photograph
- ers and videographers to capture this event. Any photos or videos distribu
- ted through ’Quin public channels will be edited to conceal the identiti
- es of participating Members and their guest(s). Photos or videos that reve
- al Members will only be used in Member communication with the authorizatio
- n of those captured.\n\nQuestions? Please contact us at halloween@thequin.
- com.
+DESCRIPTION:Category: Holiday\nPrice: $295.00 per person\nStatus: Available
+ \nTime: 8 PM – 1 AM\nEvent URL: https://members.thequinhouse.com/events/
+ 202982\n\nSlip into the camouflage of costume for an evening under the eth
+ ereal shadows of lacy silk couture…\n\nYou're cordially invited to The �
+ ��Quin’s Annual Halloween Soirée an elegant and entangled ticketed affa
+ ir. \n\nUnder the flicker of flame\, the ‘House will captivate with ind
+ ulgent buffets\, enchanting performances\, and the deceivingly translucent
+  jeweled veil - of the spider’s web.\n\nEnsnared? Fall victim.\n\nIn th
+ e shadowed corners of the ‘House\, become entangled in buffets of culina
+ ry bites\, live-action stations\, passed delicacies\, and venomous cocktai
+ ls. A dangerous game of hide-and-seek\, spiral the Grand Staircase lured b
+ y live musical performances\, shadowed portraitists\, acrobats\, and other
+ -worldly talents...\n\nPerilous vibes take center stage in \n\nBondo \n\
+ nwith a Headline DJ Performance from \n\n10:00PM - Midnight\n\nIn the spi
+ rit of Halloween\, swarm the ‘House.\n\nCreative black tie\, cocktail at
+ tire\, or a cleverly crafted costume is essential.  \n\nTickets are exclu
+ sively available for purchase through the Member App & Portal beginning Se
+ ptember 16th at 10:00AM. Tickets for members and their guests are $295* ea
+ ch. To best accommodate members' varying preferences\, we are delighted t
+ o extend a limited allocation of up to 3 guest tickets per member for Frid
+ ay evening's affair.\n\n*Taxes and beverages are not included in the ticke
+ t price. Beverages will be available for purchase through our masterful te
+ am of mixologists. \n\n__________________________________________________
+ ____\n\nPlease be aware of these important notices:\n\nCANCELLATION POLICY
+ \n Kindly note that tickets are non-refundable and nontransferable once as
+ signed.\n\nENTRY\n All Member and guest tickets purchased\, are linked to 
+ the Member’s profile through the App and Portal and are required for ver
+ ification and entry on these evenings.\n\nGUEST POLICY\n Following the reg
+ ular Member Policy\, Members must arrive and remain with their guest(s) at
+  all times. Guests must be age 21+. We strongly encourage review of the Me
+ mbers’ Policy to ensure that you and your guest(s) are aware of Club rul
+ es.\n\nVALET SERVICES\n Valet services will be suspended on the evenings o
+ f October 23 & 24. Please plan ahead to secure rideshare services or park 
+ at the nearest garage in Back Bay. Metered street parking is limited but a
+ lso available.\n\nNO PHOTO POLICY\n Please be aware that we will offer a p
+ hoto opportunity on these evenings\; however\, the regular Photo Policy wi
+ ll otherwise be in effect and enforced. Those who do not comply with the P
+ rivacy Agreement will be asked to leave the Clubhouse in keeping with the 
+ standards.\n\nThe ’Quin House has contracted professional photographers 
+ and videographers to capture this event. Any photos or videos distributed 
+ through ’Quin public channels will be edited to conceal the identities o
+ f participating Members and their guest(s). Photos or videos that reveal M
+ embers will only be used in Member communication with the authorization of
+  those captured.\n\nQuestions? Please contact us at halloween@thequin.com.
 URL:https://members.thequinhouse.com/events/202982
 CATEGORIES:Holiday
 END:VEVENT
