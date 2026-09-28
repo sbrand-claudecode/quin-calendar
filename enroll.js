@@ -521,7 +521,13 @@ async function enrollRow(ctx, r) {
   plan = added.plan;
 
   const co = await quin('GET', '/api/checkout', ctx.token);
-  const totalDue = co.ok ? money(findKey(co.data, 'total_due')) : null;
+  let totalDue = co.ok ? money(findKey(co.data, 'total_due')) : null;
+  if (totalDue === null) {
+    // /api/checkout returned no total_due on an empty cart (dry run 9/28);
+    // the cart itself carries one, so fall back to it.
+    const cartNow = await quin('GET', '/api/cart', ctx.token);
+    if (cartNow.ok) totalDue = money(findKey(cartNow.data, 'total_due'));
+  }
   if (totalDue === null) {
     return { outcome: 'failed', detail: `couldn't read the checkout total (${errText(co)}) — tickets are in your cart; finish in the Quin app NOW` };
   }
