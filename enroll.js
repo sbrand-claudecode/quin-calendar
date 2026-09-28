@@ -459,6 +459,7 @@ async function addToCart(ctx, r, plan) {
 
 async function dryRunReport(ctx, r, detail) {
   const plan = planTickets(detail, r.requested);
+  const opensAt = saleOpensAt(detail); // plan.opensAt is unset when the plan is a skip/error
   const cart = await quin('GET', '/api/cart', ctx.token);
   const co = await quin('GET', '/api/checkout', ctx.token);
   const tickets = listTickets(detail).map((t) =>
@@ -470,7 +471,7 @@ async function dryRunReport(ctx, r, detail) {
     (plan.notes.length ? ` (${plan.notes.join('; ')})` : '');
   return [
     `registered already: ${detail.registered === true ? 'yes' : 'no'}; you asked for ${r.requested}`,
-    `opens: ${plan.opensAt ? formatOpens(plan.opensAt) : 'no on_sale time'}`,
+    `opens: ${opensAt ? formatOpens(opensAt) : 'no on_sale time'}`,
     `tickets: ${tickets.join(' | ') || 'none'}`,
     `would add: ${planText}`,
     `cart: ${cart.ok ? cartContents(cart.data).summary : errText(cart)}`,
