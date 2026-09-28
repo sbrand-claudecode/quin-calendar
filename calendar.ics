@@ -24,36 +24,6 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:quin-event-203291@thequinhouse.com
-DTSTAMP:20260927T164500Z
-DTSTART;TZID=America/New_York:20260927T164500
-DTEND;TZID=America/New_York:20260927T193000
-SUMMARY:Sunday Screening: "Pretty Dirty"
-LOCATION:The Muse
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 12 spots left\nS
- tatus: Available\nEvent URL: https://members.thequinhouse.com/events/20329
- 1\n\n4:45PM Doors Open\, 5:00PM Screening\, 7:15PM Q&A\nGlamorous\, provoc
- ative\, and unapologetically unflinching\, Marilyn Minter has spent nearly
-  five decades pushing the boundaries of contemporary art. In this Sunday S
- creening\, filmmaker Amanda Benchley turns the lens on the trailblazing f
- eminist artist - moving between biography\, studio practice\, and cultural
-  history - to trace Minter’s rise through New York’s art world\, the
-  controversies her work sparked within feminist discourse\, and the enduri
- ng influence of her lush\, subversive imagery. Fast-paced\, stylish\, and
-  punctuated by notable cameos\, the film offers an intimate portrait o
- f an artistwho has continually challenged convention while embracing pleas
- ure\, beauty\, and desire as forms of power.\n\nFollowing the screening\, 
- members are invited to stay for an intimate talkback with visionary filmma
- ker Amanda Benchley and Marilyn Minter herself. Together\, they will pull
-  back the curtain on the making of the film\, Minter’s extraordinary ca
- reer\, and the ideas and experiences that have shaped both her art and the
-  film.\n\n*This event is complimentary and reserved for members only. Thea
- tre fare and refreshments will be served. We kindly ask that all cancellat
- ions be made at least 24 hours prior to the start of the event.
-URL:https://members.thequinhouse.com/events/203291
-CATEGORIES:The Arts
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-203329@thequinhouse.com
 DTSTAMP:20260928T183000Z
 DTSTART;TZID=America/New_York:20260928T183000
@@ -61,21 +31,21 @@ DTEND;TZID=America/New_York:20260928T210000
 SUMMARY:Serendipity Dinner - The 40's Social
 LOCATION:The Muse
 DESCRIPTION:Category: Member Mixer\nPrice: $100.00 per person\nAvailability
- : 3 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
- .com/events/203329\n\nStep into a lively evening designed for members in t
- heir 40s\, where meaningful connections come naturally and conversation fl
- ows as effortlessly as the wine. This Serendipity Dinner invites you to ga
- ther in The Muse for a relaxed yet refined evening alongside fellow member
- s.\n\nThe experience unfolds over a thoughtfully curated three-course menu
-  with paired wines\, complemented by subtle conversation prompts designed 
- to spark connection and keep the dialogue flowing from the first pour thro
- ugh the final course.\n\nIt’s a convivial take on dinner at The ’House
- —welcoming\, engaging\, and created for those who appreciate exceptional
-  food\, spirited conversation\, and even better company.\n\n*Tickets are $
- 100 per person\, plus tax\, and are reserved for members only. Cancellatio
- ns within 48 hours of the event\, or failure to attend\, will be charged i
- n full. Please inform us of any dietary needs or restrictions by emailing 
- happening@thequin.com at least 72 hours prior to the event.
+ : 1 spot left\nStatus: Available\nEvent URL: https://members.thequinhouse.
+ com/events/203329\n\nStep into a lively evening designed for members in th
+ eir 40s\, where meaningful connections come naturally and conversation flo
+ ws as effortlessly as the wine. This Serendipity Dinner invites you to gat
+ her in The Muse for a relaxed yet refined evening alongside fellow members
+ .\n\nThe experience unfolds over a thoughtfully curated three-course menu 
+ with paired wines\, complemented by subtle conversation prompts designed t
+ o spark connection and keep the dialogue flowing from the first pour throu
+ gh the final course.\n\nIt’s a convivial take on dinner at The ’House�
+ ��welcoming\, engaging\, and created for those who appreciate exceptional 
+ food\, spirited conversation\, and even better company.\n\n*Tickets are $1
+ 00 per person\, plus tax\, and are reserved for members only. Cancellation
+ s within 48 hours of the event\, or failure to attend\, will be charged in
+  full. Please inform us of any dietary needs or restrictions by emailing h
+ appening@thequin.com at least 72 hours prior to the event.
 URL:https://members.thequinhouse.com/events/203329
 CATEGORIES:Member Mixer
 END:VEVENT
@@ -86,7 +56,7 @@ DTSTART;TZID=America/New_York:20260928T190000
 DTEND;TZID=America/New_York:20260928T203000
 SUMMARY:'Quin Chat: Equity in Breast Cancer Care
 LOCATION:Scottie's
-DESCRIPTION:Category: Health & Wellness\nPrice: Free\nAvailability: 45 spot
+DESCRIPTION:Category: Health & Wellness\nPrice: Free\nAvailability: 48 spot
  s left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/eve
  nts/203298\n\n7:00PM Reception\, 7:30PM Discussion\n\nPresident\, CEO\, an
  d founder of Gretta Enterprises\, and breast cancer survivor\, Gretta Mona
@@ -111,7 +81,7 @@ DTSTART;TZID=America/New_York:20260929T130000
 DTEND;TZID=America/New_York:20260929T150000
 SUMMARY:90 Minutes of Innovation
 LOCATION:The Pub
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 51 spots lef
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 53 spots lef
  t\nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/
  events/203300\n\n1:00PM Program\, 2:30PM Networking\nWhat does it take to 
  challenge convention\, build what doesn’t yet exist\, and turn ambitious
@@ -243,7 +213,7 @@ DTSTART;TZID=America/New_York:20260930T183000
 DTEND;TZID=America/New_York:20260930T200000
 SUMMARY:'Quin Chat: How Hip-Hop Built an Empire
 LOCATION:The Muse
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 2 spots left\nSt
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 4 spots left\nSt
  atus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/event
  s/203633\n\n6:30PM Reception\, 7:00PM Discussion\n\nWhat is it about hip-h
  op that has transformed generations of artists into some of the world’s 
@@ -616,7 +586,7 @@ DTSTART;TZID=America/New_York:20261009T183000
 DTEND;TZID=America/New_York:20261009T200000
 SUMMARY:'Quin Chat: CTE's Lasting Impact on the NFL 
 LOCATION:The Muse
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 63 spots lef
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 62 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/2
  06163\n\n6:30PM Reception\, 7:00PM Discussion\n\nWhat does the latest scie
  nce reveal about the lasting impact of contact sports on the brain - and h
