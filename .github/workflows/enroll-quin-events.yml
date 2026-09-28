@@ -1,0 +1,114 @@
+name: Quin Event Enrollment
+
+# Registers Steve for the Quin events listed in his Google Sheet the moment
+# tickets go on sale. Design notes: QUIN-ENROLLMENT-HANDOFF.md.
+#
+# GitHub's free-tier scheduler fires late or skips, so a cheap `check` job runs
+# every 15 minutes (reads the sheet only — no Quin token spent). When a pending
+# event opens within 75 minutes, it starts the `enroll` job, which sleeps until
+# the ticket's exact on_sale time. About five checks land inside every 75-minute
+# window, so a few late or skipped runs don't matter. While one enroll run is
+# armed, later checks see it and stand down.
+#
+# PUBLIC REPO: Actions logs are world-readable. The scripts log sheet row
+# numbers and counts only — never event names/ids or tokens.
+
+on:
+  # DISABLED until manual runs pass (CLAUDE.md: Scheduled Workflow Safety).
+  # Minutes :05/:20/:35/:50 avoid the top-of-hour congestion that delays cron most.
+  # schedule:
+  #   - cron: '5,20,35,50 * * * *'
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Dry run: read-only, report what would happen (uncheck for a live enrollment)'
+        type: boolean
+        default: true
+      row:
+        description: 'Sheet row number to process now (blank = every pending row that is due)'
+        type: string
+        default: ''
+
+permissions:
+  contents: write   # commit the Monday-note marker (.enroll-monday-note)
+  actions: read     # check job: is another enrollment run already armed?
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    outputs:
+      go: ${{ steps.check.outputs.go }}
+      monday_note: ${{ steps.check.outputs.monday_note }}
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      # Built-ins only — no npm install needed.
+      - name: Check the sheet
+        id: check
+        env:
+          GOOGLE_SERVICE_ACCOUNT_JSON: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_JSON }}
+          QUIN_SHEET_ID: ${{ secrets.QUIN_SHEET_ID }}
+          QUIN_SHEET_TAB: ${{ vars.QUIN_SHEET_TAB }}
+          HC_PING_URL: ${{ secrets.HC_PING_URL }}
+          GITHUB_TOKEN: ${{ github.token }}
+        run: node enroll.js check
+
+  enroll:
+    needs: check
+    if: needs.check.outputs.go == 'true'
+    runs-on: ubuntu-latest
+    # Up to ~80 min asleep before an opening, plus retries and checkout.
+    timeout-minutes: 110
+    # Shares the single-use Quin refresh token with update-calendar.yml —
+    # the two must never spend it at the same time.
+    concurrency:
+      group: quin-auth
+      cancel-in-progress: false
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        env:
+          PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD: '1'
+        run: npm install
+
+      - name: Enroll
+        env:
+          GOOGLE_SERVICE_ACCOUNT_JSON: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_JSON }}
+          QUIN_SHEET_ID: ${{ secrets.QUIN_SHEET_ID }}
+          QUIN_SHEET_TAB: ${{ vars.QUIN_SHEET_TAB }}
+          QUIN_REFRESH_TOKEN: ${{ secrets.QUIN_REFRESH_TOKEN }}
+          REPO_SECRETS_PAT: ${{ secrets.REPO_SECRETS_PAT }}
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          GMAIL_USER: ${{ secrets.QUIN_EMAIL }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          HC_PING_URL: ${{ secrets.HC_PING_URL }}
+          DRY_RUN: ${{ inputs.dry_run && '1' || '' }}
+          TARGET_ROW: ${{ inputs.row }}
+          MONDAY_NOTE: ${{ needs.check.outputs.monday_note }}
+        run: node enroll.js run
+
+      - name: Record Monday note marker
+        if: always()
+        run: |
+          if git diff --quiet -- .enroll-monday-note 2>/dev/null && ! git ls-files --others --exclude-standard | grep -qx '.enroll-monday-note'; then
+            echo "No marker change."; exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add .enroll-monday-note
+          git commit -m "chore: record quin enrollment Monday note $(cat .enroll-monday-note)"
+          git push || (git pull --rebase && git push) || echo "Push failed; next Monday check may send a duplicate note."

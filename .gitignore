@@ -1,3 +1,7 @@
 node_modules/
 public/
 .env
+.DS_Store
+# Google service account keys — never commit
+quin-calendar-project-*.json
+*service-account*.json

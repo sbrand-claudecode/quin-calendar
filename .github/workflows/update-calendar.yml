@@ -12,6 +12,11 @@ permissions:
 jobs:
   update:
     runs-on: ubuntu-latest
+    # Shares the single-use Quin refresh token with enroll-quin-events.yml —
+    # the two must never spend it at the same time.
+    concurrency:
+      group: quin-auth
+      cancel-in-progress: false
 
     steps:
       - name: Checkout repo
