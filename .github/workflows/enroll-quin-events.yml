@@ -14,10 +14,12 @@ name: Quin Event Enrollment
 # numbers and counts only — never event names/ids or tokens.
 
 on:
-  # DISABLED until manual runs pass (CLAUDE.md: Scheduled Workflow Safety).
+  # Enabled 2026-09-28 after dry, live (free) and paid-skip manual runs passed.
+  # If this starts misbehaving, comment it out again BEFORE debugging
+  # (CLAUDE.md: Scheduled Workflow Safety).
   # Minutes :05/:20/:35/:50 avoid the top-of-hour congestion that delays cron most.
-  # schedule:
-  #   - cron: '5,20,35,50 * * * *'
+  schedule:
+    - cron: '5,20,35,50 * * * *'
   workflow_dispatch:
     inputs:
       dry_run:
