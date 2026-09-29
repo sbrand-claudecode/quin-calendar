@@ -33,8 +33,10 @@ const WORKFLOW_FILE = 'enroll-quin-events.yml';
 // Sheet layout mirrors quin_events.xlsx: header on row 3, data from row 4.
 // Event rows are recognised by an /events/<id> URL in column B, so the title,
 // instructions and "Status key" rows are ignored automatically.
-const COL = { name: 0, url: 1, guests: 2, active: 3, status: 4, notes: 5, opens: 6 };
-const READ_RANGE = 'A1:G500';
+// Column H "Max $ per ticket" is Steve's per-event spending authorization;
+// blank means free events only.
+const COL = { name: 0, url: 1, guests: 2, active: 3, status: 4, notes: 5, opens: 6, maxPerTicket: 7 };
+const READ_RANGE = 'A1:H500';
 const ON_SALE_NOW = 'on sale now';
 const SHEET_STATUS = { enrolled: 'Enrolled', already: 'Enrolled', skipped: 'Skipped', failed: 'Failed' };
 const OUTCOME_LABEL = {
@@ -44,6 +46,9 @@ const OUTCOME_LABEL = {
 
 const env = process.env;
 const DRY_RUN = env.DRY_RUN === '1' || env.DRY_RUN === 'true';
+// Master switch for paid checkout (repo variable). Off unless exactly "true";
+// even when on, a row pays only if column H authorizes the price.
+const PAID_ENABLED = (env.QUIN_ALLOW_PAID || '').trim().toLowerCase() === 'true';
 const TARGET_ROW = parseInt(env.TARGET_ROW || '', 10) || null;
 // cron-job.org starts runs through the workflow_dispatch API (GitHub's own
 // scheduler ran ~4% of slots on 9/28–29) and marks them source=cron-job;
@@ -144,12 +149,16 @@ function parseRows(values) {
     const m = /\/events\/(\d+)/.exec(cell(COL.url));
     if (!m) return;
     const requested = parseInt(cell(COL.guests), 10);
+    // "$100", "100", "$1,250.00" → number; blank or unparseable → null (free only).
+    const maxText = cell(COL.maxPerTicket).replace(/[$,\s]/g, '');
+    const maxPerTicket = /^\d+(\.\d+)?$/.test(maxText) ? Number(maxText) : null;
     rows.push({
       row: i + 1,
       name: cell(COL.name) || `event ${m[1]}`,
       eventId: m[1],
       // "Number of Guests (incl. yourself)"; blank or nonsense means just you.
       requested: Number.isFinite(requested) && requested >= 1 ? requested : 1,
+      maxPerTicket,
       active: /^y/i.test(cell(COL.active)),
       status: cell(COL.status),
       opensText: cell(COL.opens),
@@ -277,7 +286,8 @@ async function quin(method, apiPath, token, body) {
 function errText(r) {
   if (r.networkError) return `no response (${r.networkError})`;
   const d = r.data || {};
-  const msg = d.message || d.error_description || d.error || d.title;
+  const err = d.error && typeof d.error === 'object' ? (d.error.title || d.error.message || d.error.code) : d.error;
+  const msg = d.message || d.error_description || err || d.title;
   return `HTTP ${r.status}${msg ? `: ${String(msg).slice(0, 200)}` : ''}`;
 }
 
@@ -369,9 +379,18 @@ function ticketLimit(t, saleOpen) {
   return caps.length ? Math.min(...caps) : Infinity;
 }
 
+// Why a paid ticket can't be bought automatically, or null if it can:
+// the master switch must be on AND the price must be within column H.
+function paidBlocker(price, maxPerTicket) {
+  if (!PAID_ENABLED) return 'paid checkout is switched off (repo variable QUIN_ALLOW_PAID)';
+  if (maxPerTicket === null || maxPerTicket === undefined) return 'no spending limit in column H ("Max $ per ticket")';
+  if (price > maxPerTicket) return `that's above your $${maxPerTicket} per-ticket limit in column H`;
+  return null;
+}
+
 // Party size rule (Steve): blank = 1; if the site allows fewer than asked,
 // take the largest number it does allow.
-function planTickets(detail, requested) {
+function planTickets(detail, requested, maxPerTicket = null) {
   const tickets = listTickets(detail);
   if (!tickets.length) return { error: 'the event lists no tickets' };
   const member = selectMemberTicket(tickets);
@@ -382,8 +401,9 @@ function planTickets(detail, requested) {
   const saleOpen = !opensAt || opensAt.getTime() <= Date.now();
   const offSale = member.off_sale ? new Date(member.off_sale) : null;
   if (offSale && !isNaN(offSale) && offSale.getTime() < Date.now()) return { error: 'ticket sales have closed' };
-  if (ticketPrice(member) > 0) {
-    return { skip: `your ticket costs $${ticketPrice(member)} and paid checkout isn't set up yet — register manually` };
+  const memberBlocker = ticketPrice(member) > 0 ? paidBlocker(ticketPrice(member), maxPerTicket) : null;
+  if (memberBlocker) {
+    return { skip: `your ticket costs $${ticketPrice(member)} and ${memberBlocker} — register manually` };
   }
   const memberLimit = ticketLimit(member, saleOpen);
   if (memberLimit < 1) return { error: 'sold out (waitlist not supported yet)' };
@@ -400,8 +420,9 @@ function planTickets(detail, requested) {
     const guestQty = Math.max(0, Math.min(requested - 1, ticketLimit(guest, saleOpen)));
     allowed = 1 + guestQty;
     lines.push({ ticket: member, qty: 1 });
-    if (guestQty > 0 && ticketPrice(guest) > 0) {
-      notes.push(`guest tickets cost $${ticketPrice(guest)} each and paid checkout isn't set up yet — add ${guestQty} guest(s) manually`);
+    const guestBlocker = ticketPrice(guest) > 0 ? paidBlocker(ticketPrice(guest), maxPerTicket) : null;
+    if (guestQty > 0 && guestBlocker) {
+      notes.push(`guest tickets cost $${ticketPrice(guest)} each and ${guestBlocker} — add ${guestQty} guest(s) manually`);
     } else if (guestQty > 0) {
       lines.push({ ticket: guest, qty: guestQty });
     }
@@ -414,7 +435,50 @@ function planTickets(detail, requested) {
     }
   }
   const party = lines.reduce((n, l) => n + l.qty, 0);
-  return { lines, party, notes, opensAt };
+  const expectedTotal = lines.reduce((sum, l) => sum + ticketPrice(l.ticket) * l.qty, 0);
+  // Spending limit = column H × tickets actually booked (Steve: no tax or fees on events).
+  const limit = expectedTotal > 0 ? maxPerTicket * party : 0;
+  return { lines, party, notes, opensAt, expectedTotal, limit };
+}
+
+// ---------- payment (saved default card) ----------
+//
+// Shape taken from Quin's own checkout code (Checkout / CreditCardSelect /
+// usePaymentEndpoint chunks, read 2026-09-29): saved cards come from
+// GET /api/account/wallet ({cards: [...], banks: [...]}), and a card payment is
+// POST /api/checkout/process {billing: [{id, type: "creditcard", amount,
+// billingDetails}]}. If the bank demands 3-D Secure the response carries
+// action.code "3ds_auth_required"; that needs a browser, so we stop there.
+
+function cardExpired(card) {
+  const month = Number(card.expMonth);
+  const year = Number(card.expYear);
+  if (!month || !year) return false;
+  const fullYear = year < 100 ? 2000 + year : year;
+  return Date.UTC(fullYear, month, 1) <= Date.now(); // valid through the end of its expiry month
+}
+
+const cardLabel = (card) => `${card.brand || 'card'} •••• ${card.lastFour || '????'}`;
+
+async function defaultCard(ctx) {
+  const res = await quin('GET', '/api/account/wallet', ctx.token);
+  if (!res.ok || !res.data) return { error: `couldn't load your saved cards (${errText(res)})` };
+  const all = Array.isArray(res.data.cards) ? res.data.cards : [];
+  const usable = all.filter((c) => c && c.id != null && (c.status || 'active') === 'active' &&
+    (c.paymentType || 'creditcard') === 'creditcard' && !cardExpired(c));
+  const card = usable.find((c) => c.default) || (usable.length === 1 ? usable[0] : null);
+  if (card) return { card };
+  if (!usable.length) {
+    const expired = all.filter((c) => c && cardExpired(c)).map(cardLabel);
+    return { error: expired.length ? `your saved card has expired (${expired.join(', ')}) — update it in the Quin app` : 'no saved card on file' };
+  }
+  return { error: `you have ${usable.length} saved cards and none is marked default — set a default in the Quin app` };
+}
+
+// The site sends the card id as a number (Number.parseInt); keep it as-is if it isn't numeric.
+function cardIdForBilling(card) {
+  const n = Number.parseInt(`${card.id}`, 10);
+  return Number.isFinite(n) && String(n) === String(card.id).trim() ? n : card.id;
 }
 
 // ---------- enrollment ----------
@@ -449,7 +513,7 @@ async function addToCart(ctx, r, plan) {
         // Still refused: availability may have changed (sold out, fewer guest spots).
         const ev = await quin('GET', `/api/events/${r.eventId}`, ctx.token);
         if (ev.ok && ev.data) {
-          const replanned = planTickets(ev.data, r.requested);
+          const replanned = planTickets(ev.data, r.requested, r.maxPerTicket);
           if (replanned.error || replanned.skip) return { error: replanned.error || replanned.skip, partial: i > 0 };
           current = replanned;
         }
@@ -461,7 +525,7 @@ async function addToCart(ctx, r, plan) {
 }
 
 async function dryRunReport(ctx, r, detail) {
-  const plan = planTickets(detail, r.requested);
+  const plan = planTickets(detail, r.requested, r.maxPerTicket);
   const opensAt = saleOpensAt(detail); // plan.opensAt is unset when the plan is a skip/error
   const cart = await quin('GET', '/api/cart', ctx.token);
   const co = await quin('GET', '/api/checkout', ctx.token);
@@ -472,11 +536,19 @@ async function dryRunReport(ctx, r, detail) {
   if (plan.error || plan.skip) planText = plan.error || plan.skip;
   else planText = plan.lines.map((l) => `${l.qty} × "${ticketName(l.ticket)}"`).join(' + ') +
     (plan.notes.length ? ` (${plan.notes.join('; ')})` : '');
+  let payText = `no charge planned; column H limit: ${r.maxPerTicket === null ? 'blank' : `$${r.maxPerTicket}`} per ticket; paid checkout switch: ${PAID_ENABLED ? 'ON' : 'off'}`;
+  if (!plan.error && !plan.skip && plan.expectedTotal > 0) {
+    const w = await defaultCard(ctx);
+    payText = w.error
+      ? `would NOT pay: ${w.error}`
+      : `would pay $${plan.expectedTotal} of your $${plan.limit} limit with ${cardLabel(w.card)} (default card)`;
+  }
   return [
     `registered already: ${detail.registered === true ? 'yes' : 'no'}; you asked for ${r.requested}`,
     `opens: ${opensAt ? formatOpens(opensAt) : 'no on_sale time'}`,
     `tickets: ${tickets.join(' | ') || 'none'}`,
     `would add: ${planText}`,
+    `payment: ${payText}`,
     `cart: ${cart.ok ? cartContents(cart.data).summary : errText(cart)}`,
     `checkout: ${co.ok ? `total_due ${money(findKey(co.data, 'total_due')) ?? 'n/a'}` : errText(co)}`,
   ].join('\n    ');
@@ -494,11 +566,19 @@ async function enrollRow(ctx, r) {
   if (DRY_RUN) return { outcome: 'dry-run', detail: await dryRunReport(ctx, r, ev.data) };
   if (ev.data.registered === true) return { outcome: 'already', detail: 'you were already registered' };
 
-  let plan = planTickets(ev.data, r.requested);
+  let plan = planTickets(ev.data, r.requested, r.maxPerTicket);
   if (plan.error) return { outcome: 'failed', detail: plan.error };
   if (plan.skip) return { outcome: 'skipped', detail: plan.skip };
   if (plan.opensAt && plan.opensAt.getTime() - Date.now() > PRE_OPEN_MS + MINUTE) {
     return { outcome: 'later', keepPending: true, newOpens: plan.opensAt, detail: `the open time moved to ${human(plan.opensAt)}; I'll re-arm for it` };
+  }
+
+  // Paid: find the card now (before opening) so 10:00:00 isn't spent on it.
+  let card = null;
+  if (plan.expectedTotal > 0) {
+    const w = await defaultCard(ctx);
+    if (w.error) return { outcome: 'failed', detail: `this event costs $${plan.expectedTotal} but ${w.error} — register manually` };
+    card = w.card;
   }
 
   const cart = await quin('GET', '/api/cart', ctx.token);
@@ -535,25 +615,38 @@ async function enrollRow(ctx, r) {
   if (totalDue === null) {
     return { outcome: 'failed', detail: `couldn't read the checkout total (${errText(co)}) — tickets are in your cart; finish in the Quin app NOW` };
   }
-  if (totalDue !== 0) {
-    return { outcome: 'failed', detail: `checkout total is $${totalDue}, expected $0 — didn't pay; tickets are in your cart; finish in the Quin app NOW` };
+  if (totalDue > 0 && !card) {
+    return { outcome: 'failed', detail: `checkout total is $${totalDue} but these tickets looked free — didn't pay; the tickets are in your cart, so pay in the Quin app NOW if you still want them` };
   }
+  // Steve's authorization: never pay more than column H × tickets booked.
+  if (totalDue > 0 && totalDue > plan.limit + 0.005) {
+    return { outcome: 'failed', detail: `checkout total is $${totalDue}, over your $${plan.limit} limit — didn't pay; the tickets are in your cart, so pay in the Quin app NOW if you still want them` };
+  }
+  const billing = totalDue > 0
+    ? [{ id: cardIdForBilling(card), type: 'creditcard', amount: Math.round(totalDue * 100) / 100, billingDetails: card.billingDetails || {} }]
+    : [];
 
-  // NEVER retry this call: after a lost response a retry could buy twice.
+  // NEVER retry this call: after a lost response a retry could buy (and charge) twice.
   // Whatever happens, re-check `registered` instead.
-  const proc = await quin('POST', '/api/checkout/process', ctx.token, { billing: [] });
+  const proc = await quin('POST', '/api/checkout/process', ctx.token, { billing });
   const order = proc.ok ? findKey(proc.data, 'order') : null;
+  const action = proc.data && proc.data.action;
   const verify = await quin('GET', `/api/events/${r.eventId}`, ctx.token);
   const registered = verify.ok && verify.data && verify.data.registered === true;
   const orderText = order && order.id ? `order #${order.id}` : 'no order # returned';
-  const summary = [orderText, `${plan.party} ticket${plan.party === 1 ? '' : 's'}`, ...plan.notes].join('; ');
+  const paidText = totalDue > 0 ? `paid $${totalDue} with ${cardLabel(card)}` : null;
+  const summary = [orderText, `${plan.party} ticket${plan.party === 1 ? '' : 's'}`, paidText, ...plan.notes].filter(Boolean).join('; ');
   if (registered) return { outcome: 'enrolled', detail: summary };
   if (order && order.status === 'completed') {
     return { outcome: 'enrolled', detail: `${summary} (Quin hasn't shown the registration yet — double-check the app)` };
   }
+  if (action && action.code === '3ds_auth_required') {
+    return { outcome: 'failed', detail: 'your bank asked to verify the card (3-D Secure), which only works in the app — nothing was charged by me; the tickets are in your cart, so pay in the Quin app NOW' };
+  }
   return {
     outcome: 'failed',
-    detail: `checkout ${proc.ok ? 'returned OK' : `failed (${errText(proc)})`} but Quin doesn't show you registered — check the app NOW`,
+    // A decline comes back as HTTP 200 with success:false, so check both.
+    detail: `checkout ${proc.ok && !(proc.data && proc.data.success === false) ? 'returned OK' : `failed (${errText(proc)})`} but Quin doesn't show you registered — check the app NOW`,
   };
 }
 

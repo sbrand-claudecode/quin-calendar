@@ -113,6 +113,8 @@ jobs:
           TARGET_ROW: ${{ inputs.row }}
           TRIGGER_SOURCE: ${{ inputs.source }}
           MONDAY_NOTE: ${{ needs.check.outputs.monday_note }}
+          # Paid-checkout master switch (Settings → Variables). Anything but "true" = off.
+          QUIN_ALLOW_PAID: ${{ vars.QUIN_ALLOW_PAID }}
         run: node enroll.js run
 
       - name: Record Monday note marker
