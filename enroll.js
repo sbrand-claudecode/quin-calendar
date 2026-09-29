@@ -447,8 +447,28 @@ function planTickets(detail, requested, maxPerTicket = null) {
 // usePaymentEndpoint chunks, read 2026-09-29): saved cards come from
 // GET /api/account/wallet ({cards: [...], banks: [...]}), and a card payment is
 // POST /api/checkout/process {billing: [{id, type: "creditcard", amount,
-// billingDetails}]}. If the bank demands 3-D Secure the response carries
+// billing_details}]}. If the bank demands 3-D Secure the response carries
 // action.code "3ds_auth_required"; that needs a browser, so we stop there.
+//
+// The site's code uses camelCase, but its API client converts every request
+// body to snake_case and every response to camelCase (snakecase-keys /
+// camelcase-keys in the main bundle). The server itself speaks snake_case, so
+// raw wallet cards carry last_four / exp_month / exp_year / billing_details.
+
+function normalizeCard(c) {
+  return {
+    id: c.id,
+    isDefault: c.default === true || c.is_default === true,
+    status: c.status || 'active',
+    paymentType: c.payment_type || c.paymentType || 'creditcard',
+    brand: c.brand,
+    lastFour: c.last_four ?? c.lastFour ?? c.last4,
+    expMonth: c.exp_month ?? c.expMonth,
+    expYear: c.exp_year ?? c.expYear,
+    billingDetails: c.billing_details ?? c.billingDetails ?? {},
+    fieldNames: Object.keys(c).join(', '), // names only — for the dry-run report if a field is missing
+  };
+}
 
 function cardExpired(card) {
   const month = Number(card.expMonth);
@@ -458,18 +478,24 @@ function cardExpired(card) {
   return Date.UTC(fullYear, month, 1) <= Date.now(); // valid through the end of its expiry month
 }
 
-const cardLabel = (card) => `${card.brand || 'card'} •••• ${card.lastFour || '????'}`;
+const cardLabel = (card) => `${card.brand || 'card'} •••• ${card.lastFour || '????'}` +
+  (card.expMonth && card.expYear ? ` exp ${String(card.expMonth).padStart(2, '0')}/${String(card.expYear).slice(-2)}` : '');
+const cardRole = (card) => (card.isDefault ? 'default card' : 'your only saved card');
 
 async function defaultCard(ctx) {
   const res = await quin('GET', '/api/account/wallet', ctx.token);
   if (!res.ok || !res.data) return { error: `couldn't load your saved cards (${errText(res)})` };
-  const all = Array.isArray(res.data.cards) ? res.data.cards : [];
-  const usable = all.filter((c) => c && c.id != null && (c.status || 'active') === 'active' &&
-    (c.paymentType || 'creditcard') === 'creditcard' && !cardExpired(c));
-  const card = usable.find((c) => c.default) || (usable.length === 1 ? usable[0] : null);
+  const all = (Array.isArray(res.data.cards) ? res.data.cards : []).filter((c) => c && c.id != null).map(normalizeCard);
+  const usable = all.filter((c) => c.status === 'active' && c.paymentType === 'creditcard' && !cardExpired(c));
+  // Never silently switch cards: if a default exists but can't be used, stop.
+  const marked = all.find((c) => c.isDefault);
+  if (marked && !usable.includes(marked)) {
+    return { error: `your default card (${cardLabel(marked)}) ${cardExpired(marked) ? 'has expired' : 'is not active'} — update it in the Quin app` };
+  }
+  const card = marked || (usable.length === 1 ? usable[0] : null);
   if (card) return { card };
   if (!usable.length) {
-    const expired = all.filter((c) => c && cardExpired(c)).map(cardLabel);
+    const expired = all.filter(cardExpired).map(cardLabel);
     return { error: expired.length ? `your saved card has expired (${expired.join(', ')}) — update it in the Quin app` : 'no saved card on file' };
   }
   return { error: `you have ${usable.length} saved cards and none is marked default — set a default in the Quin app` };
@@ -541,7 +567,8 @@ async function dryRunReport(ctx, r, detail) {
     const w = await defaultCard(ctx);
     payText = w.error
       ? `would NOT pay: ${w.error}`
-      : `would pay $${plan.expectedTotal} of your $${plan.limit} limit with ${cardLabel(w.card)} (default card)`;
+      : `would pay $${plan.expectedTotal} of your $${plan.limit} limit with ${cardLabel(w.card)} (${cardRole(w.card)})` +
+        (w.card.lastFour && w.card.expMonth ? '' : ` [card field names: ${w.card.fieldNames}]`);
   }
   return [
     `registered already: ${detail.registered === true ? 'yes' : 'no'}; you asked for ${r.requested}`,
@@ -623,7 +650,7 @@ async function enrollRow(ctx, r) {
     return { outcome: 'failed', detail: `checkout total is $${totalDue}, over your $${plan.limit} limit — didn't pay; the tickets are in your cart, so pay in the Quin app NOW if you still want them` };
   }
   const billing = totalDue > 0
-    ? [{ id: cardIdForBilling(card), type: 'creditcard', amount: Math.round(totalDue * 100) / 100, billingDetails: card.billingDetails || {} }]
+    ? [{ id: cardIdForBilling(card), type: 'creditcard', amount: Math.round(totalDue * 100) / 100, billing_details: card.billingDetails }]
     : [];
 
   // NEVER retry this call: after a lost response a retry could buy (and charge) twice.
