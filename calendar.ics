@@ -24,64 +24,13 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:quin-event-203329@thequinhouse.com
-DTSTAMP:20260928T183000Z
-DTSTART;TZID=America/New_York:20260928T183000
-DTEND;TZID=America/New_York:20260928T210000
-SUMMARY:Serendipity Dinner - The 40's Social
-LOCATION:The Muse
-DESCRIPTION:Category: Member Mixer\nPrice: $100.00 per person\nStatus: Wait
- list Only\nEvent URL: https://members.thequinhouse.com/events/203329\n\nSt
- ep into a lively evening designed for members in their 40s\, where meaning
- ful connections come naturally and conversation flows as effortlessly as t
- he wine. This Serendipity Dinner invites you to gather in The Muse for a r
- elaxed yet refined evening alongside fellow members.\n\nThe experience unf
- olds over a thoughtfully curated three-course menu with paired wines\, com
- plemented by subtle conversation prompts designed to spark connection and 
- keep the dialogue flowing from the first pour through the final course.\n\
- nIt’s a convivial take on dinner at The ’House—welcoming\, engaging\
- , and created for those who appreciate exceptional food\, spirited convers
- ation\, and even better company.\n\n*Tickets are $100 per person\, plus ta
- x\, and are reserved for members only. Cancellations within 48 hours of th
- e event\, or failure to attend\, will be charged in full. Please inform us
-  of any dietary needs or restrictions by emailing happening@thequin.com at
-  least 72 hours prior to the event.
-URL:https://members.thequinhouse.com/events/203329
-CATEGORIES:Member Mixer
-END:VEVENT
-BEGIN:VEVENT
-UID:quin-event-203298@thequinhouse.com
-DTSTAMP:20260928T190000Z
-DTSTART;TZID=America/New_York:20260928T190000
-DTEND;TZID=America/New_York:20260928T203000
-SUMMARY:'Quin Chat: Equity in Breast Cancer Care
-LOCATION:Scottie's
-DESCRIPTION:Category: Health & Wellness\nPrice: Free\nAvailability: 52 spot
- s left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/eve
- nts/203298\n\n7:00PM Reception\, 7:30PM Discussion\n\nPresident\, CEO\, an
- d founder of Gretta Enterprises\, and breast cancer survivor\, Gretta Mona
- han joins Meredith Mendelson\, Executive Director of The Ellie Fund\; an
- d Dr. Rachel Freedman\, MD\, MPH\, medical oncologist and clinical researc
- her at Dana Farber Cancer Institute\, for a discussion informed by lived 
- experience\, patient advocacy\, emotion and practical support\, and medici
- ne. Personal\, thoughtful\, and refreshingly candid\, the conversation mo
- ves beyond awareness to consider what it really means to show up - for our
- selves\, for the people we love\, and for communities navigating breast ca
- ncer every day.\n\n*This event is complimentary and reserved for members o
- nly. Complimentary light bites and refreshments will be served. We kindly 
- ask that all cancellations be made at least 24 hours prior to the start of
-  the event.
-URL:https://members.thequinhouse.com/events/203298
-CATEGORIES:Health & Wellness
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-203300@thequinhouse.com
 DTSTAMP:20260929T130000Z
 DTSTART;TZID=America/New_York:20260929T130000
 DTEND;TZID=America/New_York:20260929T150000
 SUMMARY:90 Minutes of Innovation
 LOCATION:The Pub
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 55 spots lef
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 54 spots lef
  t\nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/
  events/203300\n\n1:00PM Program\, 2:30PM Networking\nWhat does it take to 
  challenge convention\, build what doesn’t yet exist\, and turn ambitious
@@ -119,7 +68,7 @@ DTEND;TZID=America/New_York:20260929T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 20 spots left\nStatus: Available\nEvent URL: https://memb
+ e\nAvailability: 19 spots left\nStatus: Available\nEvent URL: https://memb
  ers.thequinhouse.com/events/205197\n\nJoin us for our weekly Member Mingle
  \, an inclusive gathering set in an ambiant reserved space. This is your o
  pportunity to connect with fellow members\, exchange ideas\, and cultivate
@@ -141,7 +90,7 @@ DTSTART;TZID=America/New_York:20260929T180000
 DTEND;TZID=America/New_York:20260929T190000
 SUMMARY:Stand Up Comedy: Orlando Baxter | 6:00PM Show
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 6 spots left\nSt
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 7 spots left\nSt
  atus: Waitlist Only\nEvent URL: https://members.thequinhouse.com/events/20
  3608\n\nOrlando Baxter brings his sharp\, deeply relatable comedy to The �
  ��House for an evening of stand-up inspired by family\, relationships\, wo
@@ -188,7 +137,7 @@ DTSTART;TZID=America/New_York:20260929T200000
 DTEND;TZID=America/New_York:20260929T210000
 SUMMARY:Stand Up Comedy: Orlando Baxter | 8:00PM Show
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 12 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 16 spots left\nS
  tatus: You are on Waitlist\nEvent URL: https://members.thequinhouse.com/ev
  ents/203607\n\nOrlando Baxter brings his sharp\, deeply relatable comedy t
  o The ’House for an evening of stand-up inspired by family\, relationshi
@@ -402,7 +351,7 @@ DTSTART;TZID=America/New_York:20261006T123000
 DTEND;TZID=America/New_York:20261006T143000
 SUMMARY:90 Minutes of Innovation: The Future of Medicine
 LOCATION:The Pub
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 36 spots lef
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 26 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/2
  05637\n\n12:30PM Program\, 2:00PM Networking\nWhat will it take to acceler
  ate the next generation of medical breakthroughs—and rethink how discove
@@ -496,7 +445,7 @@ DTSTART;TZID=America/New_York:20261007T170000
 DTEND;TZID=America/New_York:20261007T183000
 SUMMARY:'Quin Chat: The Communities Changing Healthcare
 LOCATION:The Muse
-DESCRIPTION:Category: Health & Wellness\nPrice: Free\nAvailability: 50 spot
+DESCRIPTION:Category: Health & Wellness\nPrice: Free\nAvailability: 49 spot
  s left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/eve
  nts/206195\n\n5:00PM Reception\, 5:30PM Discussion\n\nWhat if some of the 
  most consequential ideas in American healthcare are not coming out of rese
@@ -555,7 +504,7 @@ DTSTART;TZID=America/New_York:20261008T170000
 DTEND;TZID=America/New_York:20261008T183000
 SUMMARY:'Quin Chat: Front Row to Boston Sports
 LOCATION:The Pub
-DESCRIPTION:Category: Sports & Games\nPrice: Free\nAvailability: 125 spots 
+DESCRIPTION:Category: Sports & Games\nPrice: Free\nAvailability: 123 spots 
  left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/event
  s/205640\n\n5:00PM Reception 5:30PM Discussion\n\nCalling all Boston sport
  s fans! Join us for an evening of legendary stories\, unforgettable moment
@@ -694,7 +643,7 @@ DTSTART;TZID=America/New_York:20261013T190000
 DTEND;TZID=America/New_York:20261013T200000
 SUMMARY:Author's Circle Book Club: "Safekeeping" by Claudia Hinz
 LOCATION:The Muse
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 13 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 12 spots left\nS
  tatus: Available\nEvent URL: https://members.thequinhouse.com/events/20362
  9\n\nThis October\, settle into the season with Safekeeping by Claudia Hin
  z\, a sweeping and deeply moving novel about family\, memory\, and the sec
@@ -744,7 +693,7 @@ DTEND;TZID=America/New_York:20261020T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 32 spots left\nStatus: Available\nEvent URL: https://memb
+ e\nAvailability: 31 spots left\nStatus: Available\nEvent URL: https://memb
  ers.thequinhouse.com/events/205202\n\nJoin us for our weekly Member Mingle
  \, an inclusive gathering set in an ambiant reserved space. This is your o
  pportunity to connect with fellow members\, exchange ideas\, and cultivate
