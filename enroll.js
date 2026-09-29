@@ -45,7 +45,10 @@ const OUTCOME_LABEL = {
 const env = process.env;
 const DRY_RUN = env.DRY_RUN === '1' || env.DRY_RUN === 'true';
 const TARGET_ROW = parseInt(env.TARGET_ROW || '', 10) || null;
-const IS_MANUAL = env.GITHUB_EVENT_NAME === 'workflow_dispatch';
+// cron-job.org starts runs through the workflow_dispatch API (GitHub's own
+// scheduler ran ~4% of slots on 9/28–29) and marks them source=cron-job;
+// those must behave exactly like scheduled runs, not like manual ones.
+const IS_MANUAL = env.GITHUB_EVENT_NAME === 'workflow_dispatch' && env.TRIGGER_SOURCE !== 'cron-job';
 const JOB_START = Date.now();
 
 // ---------- time (all human-facing times are America/New_York) ----------

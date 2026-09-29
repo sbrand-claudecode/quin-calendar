@@ -10,6 +10,11 @@ name: Quin Event Enrollment
 # window, so a few late or skipped runs don't matter. While one enroll run is
 # armed, later checks see it and stand down.
 #
+# In practice GitHub's scheduler ran only ~4% of slots (about one every 6.5h,
+# 9/28–29), so cron-job.org is the primary trigger: every 15 min it calls the
+# workflow_dispatch API with inputs {"source": "cron-job"}. The schedule below
+# stays as a backup.
+#
 # PUBLIC REPO: Actions logs are world-readable. The scripts log sheet row
 # numbers and counts only — never event names/ids or tokens.
 
@@ -30,6 +35,10 @@ on:
         description: 'Sheet row number to process now (blank = every pending row that is due)'
         type: string
         default: ''
+      source:
+        description: 'Leave as "manual". cron-job.org sends "cron-job" so its runs behave like scheduled ones.'
+        type: string
+        default: 'manual'
 
 permissions:
   contents: write   # commit the Monday-note marker (.enroll-monday-note)
@@ -60,6 +69,7 @@ jobs:
           QUIN_SHEET_TAB: ${{ vars.QUIN_SHEET_TAB }}
           HC_PING_URL: ${{ secrets.HC_PING_URL }}
           GITHUB_TOKEN: ${{ github.token }}
+          TRIGGER_SOURCE: ${{ inputs.source }}
         run: node enroll.js check
 
   enroll:
@@ -98,8 +108,10 @@ jobs:
           GMAIL_USER: ${{ secrets.QUIN_EMAIL }}
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
           HC_PING_URL: ${{ secrets.HC_PING_URL }}
-          DRY_RUN: ${{ inputs.dry_run && '1' || '' }}
+          # cron-job.org runs are always live, whatever dry_run's default is.
+          DRY_RUN: ${{ inputs.source != 'cron-job' && inputs.dry_run && '1' || '' }}
           TARGET_ROW: ${{ inputs.row }}
+          TRIGGER_SOURCE: ${{ inputs.source }}
           MONDAY_NOTE: ${{ needs.check.outputs.monday_note }}
         run: node enroll.js run
 
