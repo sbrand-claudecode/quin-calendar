@@ -24,50 +24,13 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:quin-event-203300@thequinhouse.com
-DTSTAMP:20260929T130000Z
-DTSTART;TZID=America/New_York:20260929T130000
-DTEND;TZID=America/New_York:20260929T150000
-SUMMARY:90 Minutes of Innovation
-LOCATION:The Pub
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 54 spots lef
- t\nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/
- events/203300\n\n1:00PM Program\, 2:30PM Networking\nWhat does it take to 
- challenge convention\, build what doesn’t yet exist\, and turn ambitious
-  ideas into meaningful change? In the latest edition of 90 Minutes of Inno
- vation\, John Werner - venture capitalist\, MIT lecturer\, and Forbes AI c
- olumnist - sits down with Lauren Kuntz\, PhD\, Head of Market Analysis at
-  ENGIE\, Gaiascope co-founder\, and founder of the Women’s Greatest Athl
- ete.\n\nWith degrees in Physics and Mechanical Engineering from MIT and a 
- PhD in Climate Science from Harvard\, Kuntz co-founded the Y Combinator-b
- acked energy forecasting startup Gaiascope\, using AI to advance renewable
-  energy markets before its 2025 acquisition by ENGIE.\n\nKuntz has brought
-  that same drive to the world of sport. A world-record holder in the 20-e
- vent double decathlon and three-time All-American\, she founded World’s
-  Greatest Athlete in 2024 and the Women’s Decathlon World Championships�
- �to challenge one of track and field’s longstanding disparities: while
-  men have competed in the Olympic decathalon since 1912\, women never have
- . Now\, she is helping build the case for the women’s decathlon to fina
- lly earn its place at the Olympic Games.\n\nTogether\, Werner and Kuntz wi
- ll explore what it means to pursue ideas before there is a roadmap\, chall
- enge deeply established systems\, and build something entirely new. From 
- rethinking the power grid to reimagining who gets to compete on the world�
- ��s biggest stage\, expect a wide-ranging conversation about seeing what c
- ould be—and having the nerve to build it. \n\n*This event is compliment
- ary and reserved for members only. Complimentary light bites and refresh
- ments will be served. We kindly ask that all cancellations be made at leas
- t 24 hours prior to the start of the event.
-URL:https://members.thequinhouse.com/events/203300
-CATEGORIES:‘Quin Chat
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-203607@thequinhouse.com
 DTSTAMP:20260929T200000Z
 DTSTART;TZID=America/New_York:20260929T200000
 DTEND;TZID=America/New_York:20260929T210000
 SUMMARY:Stand Up Comedy: Orlando Baxter | 8:00PM Show
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 24 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 29 spots left\nS
  tatus: You are on Waitlist\nEvent URL: https://members.thequinhouse.com/ev
  ents/203607\n\nOrlando Baxter brings his sharp\, deeply relatable comedy t
  o The ’House for an evening of stand-up inspired by family\, relationshi

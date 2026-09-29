@@ -24,43 +24,6 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:quin-event-203300@thequinhouse.com
-DTSTAMP:20260929T130000Z
-DTSTART;TZID=America/New_York:20260929T130000
-DTEND;TZID=America/New_York:20260929T150000
-SUMMARY:90 Minutes of Innovation
-LOCATION:The Pub
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 54 spots lef
- t\nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/
- events/203300\n\n1:00PM Program\, 2:30PM Networking\nWhat does it take to 
- challenge convention\, build what doesn’t yet exist\, and turn ambitious
-  ideas into meaningful change? In the latest edition of 90 Minutes of Inno
- vation\, John Werner - venture capitalist\, MIT lecturer\, and Forbes AI c
- olumnist - sits down with Lauren Kuntz\, PhD\, Head of Market Analysis at
-  ENGIE\, Gaiascope co-founder\, and founder of the Women’s Greatest Athl
- ete.\n\nWith degrees in Physics and Mechanical Engineering from MIT and a 
- PhD in Climate Science from Harvard\, Kuntz co-founded the Y Combinator-b
- acked energy forecasting startup Gaiascope\, using AI to advance renewable
-  energy markets before its 2025 acquisition by ENGIE.\n\nKuntz has brought
-  that same drive to the world of sport. A world-record holder in the 20-e
- vent double decathlon and three-time All-American\, she founded World’s
-  Greatest Athlete in 2024 and the Women’s Decathlon World Championships�
- �to challenge one of track and field’s longstanding disparities: while
-  men have competed in the Olympic decathalon since 1912\, women never have
- . Now\, she is helping build the case for the women’s decathlon to fina
- lly earn its place at the Olympic Games.\n\nTogether\, Werner and Kuntz wi
- ll explore what it means to pursue ideas before there is a roadmap\, chall
- enge deeply established systems\, and build something entirely new. From 
- rethinking the power grid to reimagining who gets to compete on the world�
- ��s biggest stage\, expect a wide-ranging conversation about seeing what c
- ould be—and having the nerve to build it. \n\n*This event is compliment
- ary and reserved for members only. Complimentary light bites and refresh
- ments will be served. We kindly ask that all cancellations be made at leas
- t 24 hours prior to the start of the event.
-URL:https://members.thequinhouse.com/events/203300
-CATEGORIES:‘Quin Chat
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-205197@thequinhouse.com
 DTSTAMP:20260929T170000Z
 DTSTART;TZID=America/New_York:20260929T170000
@@ -68,7 +31,7 @@ DTEND;TZID=America/New_York:20260929T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 19 spots left\nStatus: Available\nEvent URL: https://memb
+ e\nAvailability: 20 spots left\nStatus: Available\nEvent URL: https://memb
  ers.thequinhouse.com/events/205197\n\nJoin us for our weekly Member Mingle
  \, an inclusive gathering set in an ambiant reserved space. This is your o
  pportunity to connect with fellow members\, exchange ideas\, and cultivate
@@ -90,7 +53,7 @@ DTSTART;TZID=America/New_York:20260929T180000
 DTEND;TZID=America/New_York:20260929T190000
 SUMMARY:Stand Up Comedy: Orlando Baxter | 6:00PM Show
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 10 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 12 spots left\nS
  tatus: Waitlist Only\nEvent URL: https://members.thequinhouse.com/events/2
  03608\n\nOrlando Baxter brings his sharp\, deeply relatable comedy to The 
  ’House for an evening of stand-up inspired by family\, relationships\, w
@@ -137,7 +100,7 @@ DTSTART;TZID=America/New_York:20260929T200000
 DTEND;TZID=America/New_York:20260929T210000
 SUMMARY:Stand Up Comedy: Orlando Baxter | 8:00PM Show
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 24 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 29 spots left\nS
  tatus: You are on Waitlist\nEvent URL: https://members.thequinhouse.com/ev
  ents/203607\n\nOrlando Baxter brings his sharp\, deeply relatable comedy t
  o The ’House for an evening of stand-up inspired by family\, relationshi
@@ -346,39 +309,39 @@ CATEGORIES:‘Quin Chat
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-205637@thequinhouse.com
-DTSTAMP:20261006T123000Z
-DTSTART;TZID=America/New_York:20261006T123000
-DTEND;TZID=America/New_York:20261006T143000
+DTSTAMP:20261006T120000Z
+DTSTART;TZID=America/New_York:20261006T120000
+DTEND;TZID=America/New_York:20261006T133000
 SUMMARY:90 Minutes of Innovation: The Future of Medicine
 LOCATION:The Pub
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 5 spots left
- \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/20
- 5637\n\n12:30PM Program\, 2:00PM Networking\nWhat will it take to accelera
- te the next generation of medical breakthroughs—and rethink how discover
- ies make their way from the lab to the people who need them? In the latest
-  edition of 90 Minutes of Innovation\, John Werner\, venture capitalist\, 
- MIT lecturer\, and Forbes AI columnist\, and Alexander Wissner-Gross\, res
- earch scientist and entrepreneur\, sit down with Peter Kolchinsky\, PhD\, 
- Founder and Managing Partner of RA Capital Management and author of The Gr
- eat American Drug Deal\, for a conversation at the intersection of science
- \, technology\, investment\, and healthcare.\n\nWith a PhD in Virology fro
- m Harvard University\, Kolchinsky has spent decades investing in companies
-  developing drugs\, medical devices\, diagnostics\, and research tools\, w
- hile advocating for approaches that make medicines more affordable without
-  sacrificing the innovation behind tomorrow’s breakthroughs. Through his
-  work with RA Capital and No Patient Left Behind\, he has become a leading
-  voice in conversations surrounding biotechnology\, drug development\, aff
- ordability\, and the incentives that shape the future of medicine.\n\nToge
- ther\, Werner\, Wissner-Gross\, and Kolchinsky will explore how artificial
-  intelligence and emerging technologies could accelerate scientific discov
- ery\, reshape the development of new treatments\, and transform the broade
- r healthcare landscape. From getting promising discoveries to patients fas
- ter to balancing affordability with continued investment in innovation\, e
- xpect a wide-ranging conversation about what’s possible when science\, t
- echnology\, and new ways of thinking converge.\n\n*This event is complimen
- tary and reserved for members only. Complimentary light bites and refreshm
- ents will be served. We kindly ask that all cancellations be made at least
-  24 hours prior to the start of the event.
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nStatus: Waitlist Only\nEve
+ nt URL: https://members.thequinhouse.com/events/205637\n\n12:00PM  - 1:30
+ PM Program\nWhat will it take to accelerate the next generation of medical
+  breakthroughs—and rethink how discoveries make their way from the lab t
+ o the people who need them? In the latest edition of 90 Minutes of Innovat
+ ion\, John Werner\, venture capitalist\, MIT lecturer\, and Forbes AI colu
+ mnist\, and Alexander Wissner-Gross\, research scientist and entrepreneur\
+ , sit down with Peter Kolchinsky\, PhD\, Founder and Managing Partner of R
+ A Capital Management and author of The Great American Drug Deal\, for a co
+ nversation at the intersection of science\, technology\, investment\, and 
+ healthcare.\n\nWith a PhD in Virology from Harvard University\, Kolchinsky
+  has spent decades investing in companies developing drugs\, medical devic
+ es\, diagnostics\, and research tools\, while advocating for approaches th
+ at make medicines more affordable without sacrificing the innovation behin
+ d tomorrow’s breakthroughs. Through his work with RA Capital and No Pati
+ ent Left Behind\, he has become a leading voice in conversations surroundi
+ ng biotechnology\, drug development\, affordability\, and the incentives t
+ hat shape the future of medicine.\n\nTogether\, Werner\, Wissner-Gross\, a
+ nd Kolchinsky will explore how artificial intelligence and emerging techno
+ logies could accelerate scientific discovery\, reshape the development of 
+ new treatments\, and transform the broader healthcare landscape. From gett
+ ing promising discoveries to patients faster to balancing affordability wi
+ th continued investment in innovation\, expect a wide-ranging conversation
+  about what’s possible when science\, technology\, and new ways of think
+ ing converge.\n\n*This event is complimentary and reserved for members onl
+ y. Complimentary light bites and refreshments will be served. We kindly as
+ k that all cancellations be made at least 24 hours prior to the start of t
+ he event.
 URL:https://members.thequinhouse.com/events/205637
 CATEGORIES:‘Quin Chat
 END:VEVENT
@@ -504,7 +467,7 @@ DTSTART;TZID=America/New_York:20261008T170000
 DTEND;TZID=America/New_York:20261008T183000
 SUMMARY:'Quin Chat: Front Row to Boston Sports
 LOCATION:The Pub
-DESCRIPTION:Category: Sports & Games\nPrice: Free\nAvailability: 57 spots l
+DESCRIPTION:Category: Sports & Games\nPrice: Free\nAvailability: 58 spots l
  eft\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events
  /205640\n\n5:00PM Reception 5:30PM Discussion\n\nCalling all Boston sports
   fans! Join us for an evening of legendary stories\, unforgettable moments
@@ -623,7 +586,7 @@ DTSTART;TZID=America/New_York:20261012T180000
 DTEND;TZID=America/New_York:20261012T210000
 SUMMARY:Community Table
 LOCATION:Café Q
-DESCRIPTION:Category: Food & Beverage\nPrice: Free\nAvailability: 5 spots l
+DESCRIPTION:Category: Food & Beverage\nPrice: Free\nAvailability: 4 spots l
  eft\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events
  /205200\n\nEase into the week around the table with the return of Café Q�
  ��s Community Table. Designed for members looking to meet new faces and ma
