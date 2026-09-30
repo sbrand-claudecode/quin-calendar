@@ -24,40 +24,13 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:quin-event-203607@thequinhouse.com
-DTSTAMP:20260929T200000Z
-DTSTART;TZID=America/New_York:20260929T200000
-DTEND;TZID=America/New_York:20260929T210000
-SUMMARY:Stand Up Comedy: Orlando Baxter | 8:00PM Show
-LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 29 spots left\nS
- tatus: You are on Waitlist\nEvent URL: https://members.thequinhouse.com/ev
- ents/203607\n\nOrlando Baxter brings his sharp\, deeply relatable comedy t
- o The ’House for an evening of stand-up inspired by family\, relationshi
- ps\, work\, and the everyday absurdities of life. A former public high sch
- ool teacher\, Orlando spent 12 years in the classroom—an experience that
-  continues to shape his quick wit\, natural storytelling\, and unmistakabl
- e point of view.\n\nSince trading lesson plans for the stage\, Orlando has
-  entertained audiences around the world\, appeared on Conan\, and earned 
- more than five million views for his comedy special\, Glorified Baby Sitt
- er.\n\nEnjoy a pre-show cocktail from the cash bar before settling in for 
- the performance. Seating is first come\, first served.\n\nMake a night of 
- it with a burger and beer in The Pub before the show. Dining walk-ins are 
- welcome.\n\n*This event is available for members and up to one registered 
- guest. Complimentary light bites and refreshments will be served. We kind
- ly ask that all cancellations be made at least 24 hours prior to the start
-  of the event.
-URL:https://members.thequinhouse.com/events/203607
-CATEGORIES:The Arts
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-203633@thequinhouse.com
 DTSTAMP:20260930T183000Z
 DTSTART;TZID=America/New_York:20260930T183000
 DTEND;TZID=America/New_York:20260930T200000
 SUMMARY:'Quin Chat: How Hip-Hop Built an Empire
 LOCATION:The Muse
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 11 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 13 spots left\nS
  tatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/even
  ts/203633\n\n6:30PM Reception\, 7:00PM Discussion\n\nWhat is it about hip-
  hop that has transformed generations of artists into some of the world’s

@@ -24,110 +24,13 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:quin-event-205197@thequinhouse.com
-DTSTAMP:20260929T170000Z
-DTSTART;TZID=America/New_York:20260929T170000
-DTEND;TZID=America/New_York:20260929T183000
-SUMMARY:Member Mingle
-LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 20 spots left\nStatus: Available\nEvent URL: https://memb
- ers.thequinhouse.com/events/205197\n\nJoin us for our weekly Member Mingle
- \, an inclusive gathering set in an ambiant reserved space. This is your o
- pportunity to connect with fellow members\, exchange ideas\, and cultivate
-  meaningful relationships.\n\nWhether you're sparking new collaborations\,
-  sharing insights\, or simply enjoying great conversation\, the Member Min
- gle is the perfect way to engage with our dynamic community. Don’t miss 
- the chance to connect\, inspire\, and be inspired!\n\n*This event is compl
- imentary and reserved for members only. Complimentary light bites will be 
- served\, and beverages will be available for purchase. We kindly ask that
-  all cancellations be made at least 24 hours prior to the start of the eve
- nt.
-URL:https://members.thequinhouse.com/events/205197
-CATEGORIES:Member Mixer,Survey - Membership Mingle
-END:VEVENT
-BEGIN:VEVENT
-UID:quin-event-203608@thequinhouse.com
-DTSTAMP:20260929T180000Z
-DTSTART;TZID=America/New_York:20260929T180000
-DTEND;TZID=America/New_York:20260929T190000
-SUMMARY:Stand Up Comedy: Orlando Baxter | 6:00PM Show
-LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 12 spots left\nS
- tatus: Waitlist Only\nEvent URL: https://members.thequinhouse.com/events/2
- 03608\n\nOrlando Baxter brings his sharp\, deeply relatable comedy to The 
- ’House for an evening of stand-up inspired by family\, relationships\, w
- ork\, and the everyday absurdities of life. A former public high school te
- acher\, Orlando spent 12 years in the classroom—an experience that conti
- nues to shape his quick wit\, natural storytelling\, and unmistakable poin
- t of view.\n\nSince trading lesson plans for the stage\, Orlando has enter
- tained audiences around the world\, appeared on Conan\, and earned more th
- an five million views for his comedy special\, Glorified Baby Sitter.\n\nE
- njoy a pre-show cocktail from the cash bar before settling in for the perf
- ormance. Seating is first come\, first served.\n\nMake a night of it with 
- a burger and beer in The Pub before the show. Dining walk-ins are welcome.
- \n\n*This event is available for members and up to one registered guest. C
- omplimentary light bites and refreshments will be served. We kindly ask th
- at all cancellations be made at least 24 hours prior to the start of the e
- vent.
-URL:https://members.thequinhouse.com/events/203608
-CATEGORIES:The Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:quin-event-203044@thequinhouse.com
-DTSTAMP:20260929T200000Z
-DTSTART;TZID=America/New_York:20260929T200000
-DTEND;TZID=America/New_York:20260929T220000
-SUMMARY:Watch Party: Bruins vs Rangers
-LOCATION:The Pub
-DESCRIPTION:Category: Sports & Games\nPrice: Free / Included\nStatus: Avail
- able\nEvent URL: https://members.thequinhouse.com/events/203044\n\nThe Bos
- ton Bruins are back on the ice as they open the NHL season with a marquee 
- matchup against the New York Rangers. Two Original Six rivals go head-to-h
- ead to set the tone for the season ahead\, bringing one of hockey’s most
-  storied rivalries back into the spotlight.\n\nCatch every goal\, save\, a
- nd hit on the big screen at The Pub\, with game-day favorites from the men
- u and beer on tap throughout the night. Settle in with fellow members\, ch
- eer on the B’s\, and kick off hockey season with a rivalry matchup worth
- y of opening night.
-URL:https://members.thequinhouse.com/events/203044
-CATEGORIES:Sports & Games
-END:VEVENT
-BEGIN:VEVENT
-UID:quin-event-203607@thequinhouse.com
-DTSTAMP:20260929T200000Z
-DTSTART;TZID=America/New_York:20260929T200000
-DTEND;TZID=America/New_York:20260929T210000
-SUMMARY:Stand Up Comedy: Orlando Baxter | 8:00PM Show
-LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 29 spots left\nS
- tatus: You are on Waitlist\nEvent URL: https://members.thequinhouse.com/ev
- ents/203607\n\nOrlando Baxter brings his sharp\, deeply relatable comedy t
- o The ’House for an evening of stand-up inspired by family\, relationshi
- ps\, work\, and the everyday absurdities of life. A former public high sch
- ool teacher\, Orlando spent 12 years in the classroom—an experience that
-  continues to shape his quick wit\, natural storytelling\, and unmistakabl
- e point of view.\n\nSince trading lesson plans for the stage\, Orlando has
-  entertained audiences around the world\, appeared on Conan\, and earned 
- more than five million views for his comedy special\, Glorified Baby Sitt
- er.\n\nEnjoy a pre-show cocktail from the cash bar before settling in for 
- the performance. Seating is first come\, first served.\n\nMake a night of 
- it with a burger and beer in The Pub before the show. Dining walk-ins are 
- welcome.\n\n*This event is available for members and up to one registered 
- guest. Complimentary light bites and refreshments will be served. We kind
- ly ask that all cancellations be made at least 24 hours prior to the start
-  of the event.
-URL:https://members.thequinhouse.com/events/203607
-CATEGORIES:The Arts
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-203633@thequinhouse.com
 DTSTAMP:20260930T183000Z
 DTSTART;TZID=America/New_York:20260930T183000
 DTEND;TZID=America/New_York:20260930T200000
 SUMMARY:'Quin Chat: How Hip-Hop Built an Empire
 LOCATION:The Muse
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 11 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 13 spots left\nS
  tatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/even
  ts/203633\n\n6:30PM Reception\, 7:00PM Discussion\n\nWhat is it about hip-
  hop that has transformed generations of artists into some of the world’s
@@ -280,7 +183,7 @@ DTSTART;TZID=America/New_York:20261005T183000
 DTEND;TZID=America/New_York:20261005T200000
 SUMMARY:'Quin Chat: Latinas Leading Business
 LOCATION:Scotties
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 85 spots lef
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 86 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/2
  03636\n\n6:30PM Reception\, 7:00PM Discussion\n\nIn celebration of Hispan
  ic Heritage Month\, join us for a ’Quin Chat that shines a light on the 
@@ -353,7 +256,7 @@ DTEND;TZID=America/New_York:20261006T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 20 spots left\nStatus: Available\nEvent URL: https://memb
+ e\nAvailability: 19 spots left\nStatus: Available\nEvent URL: https://memb
  ers.thequinhouse.com/events/205198\n\nJoin us for our weekly Member Mingle
  \, an inclusive gathering set in an ambiant reserved space. This is your o
  pportunity to connect with fellow members\, exchange ideas\, and cultivate
@@ -408,7 +311,7 @@ DTSTART;TZID=America/New_York:20261007T170000
 DTEND;TZID=America/New_York:20261007T183000
 SUMMARY:'Quin Chat: The Communities Changing Healthcare
 LOCATION:The Muse
-DESCRIPTION:Category: Health & Wellness\nPrice: Free\nAvailability: 42 spot
+DESCRIPTION:Category: Health & Wellness\nPrice: Free\nAvailability: 40 spot
  s left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/eve
  nts/206195\n\n5:00PM Reception\, 5:30PM Discussion\n\nWhat if some of the 
  most consequential ideas in American healthcare are not coming out of rese
@@ -631,7 +534,7 @@ DTSTART;TZID=America/New_York:20261013T190000
 DTEND;TZID=America/New_York:20261013T200000
 SUMMARY:Author's Circle Book Club: "Safekeeping" by Claudia Hinz
 LOCATION:The Muse
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 12 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 11 spots left\nS
  tatus: Available\nEvent URL: https://members.thequinhouse.com/events/20362
  9\n\nThis October\, settle into the season with Safekeeping by Claudia Hin
  z\, a sweeping and deeply moving novel about family\, memory\, and the sec
@@ -681,7 +584,7 @@ DTEND;TZID=America/New_York:20261020T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 32 spots left\nStatus: Available\nEvent URL: https://memb
+ e\nAvailability: 31 spots left\nStatus: Available\nEvent URL: https://memb
  ers.thequinhouse.com/events/205202\n\nJoin us for our weekly Member Mingle
  \, an inclusive gathering set in an ambiant reserved space. This is your o
  pportunity to connect with fellow members\, exchange ideas\, and cultivate
