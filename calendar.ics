@@ -108,18 +108,18 @@ DTSTART;TZID=America/New_York:20261005T110000
 DTEND;TZID=America/New_York:20261005T120000
 SUMMARY:Art Tour: The Core Collection 
 LOCATION:Meet in The Lobby
-DESCRIPTION:Category: The Arts\nPrice: Free\nStatus: Waitlist Only\nEvent U
- RL: https://members.thequinhouse.com/events/203626\n\nJoin The 'Quin’s a
- rt collection curator Kate Chertavian for an art tour focused on the Core 
- Collection. The discussion will begin in Bondo with Donald Lipski's specta
- cular statement chandelier and Christopher Wool's monumental silkscreens a
- nd will continue with a thematic exploration of works on the grand stairca
- se. With insight into the collaborative process of creating this incredibl
- e collection\, the tour will conclude in the lobby with artists such as Ju
- lie Mehretu\, Andy Warhol\, Cy Twombly\, and Claude Monet.\n\n*This event 
- is complimentary and reserved for members\, plus one guest. We kindly ask 
- that all cancellations be made at least 24 hours prior to the start of the
-  event.
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 1 spot left\nSta
+ tus: Waitlist Only\nEvent URL: https://members.thequinhouse.com/events/203
+ 626\n\nJoin The 'Quin’s art collection curator Kate Chertavian for an ar
+ t tour focused on the Core Collection. The discussion will begin in Bondo 
+ with Donald Lipski's spectacular statement chandelier and Christopher Wool
+ 's monumental silkscreens and will continue with a thematic exploration of
+  works on the grand staircase. With insight into the collaborative process
+  of creating this incredible collection\, the tour will conclude in the lo
+ bby with artists such as Julie Mehretu\, Andy Warhol\, Cy Twombly\, and Cl
+ aude Monet.\n\n*This event is complimentary and reserved for members\, plu
+ s one guest. We kindly ask that all cancellations be made at least 24 hour
+ s prior to the start of the event.
 URL:https://members.thequinhouse.com/events/203626
 CATEGORIES:The Arts
 END:VEVENT
@@ -215,6 +215,42 @@ DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nStatus: You are on Waitlis
  dly ask that all cancellations be made at least 24 hours prior to the star
  t of the event.
 URL:https://members.thequinhouse.com/events/205637
+CATEGORIES:‘Quin Chat
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-207308@thequinhouse.com
+DTSTAMP:20261006T140000Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+SUMMARY:TEDxBoston: Unlocking Longevity at WHOOP
+LOCATION:Offsite - WHOOP Headquarters
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 45 spots lef
+ t\nStatus: Available\nTime: 2 PM – 6 PM\nEvent URL: https://members.theq
+ uinhouse.com/events/207308\n\nWhat does it mean to live not only longer\, 
+ but better? Join us at WHOOP Headquarters in Kenmore Square where a select
+  number of seats have been reserved exclusively for ‘Quin members at TED
+ xBoston: Unlocking Longevity. Bringing together leading voices across scie
+ nce\, medicine\, technology\, and biotechnology\, the afternoon will explo
+ re the research\, ideas\, and innovations shaping the future of human heal
+ th and longevity.\n\nAcross seventeen short-form talks presented in three 
+ blocks\, experts will explore the research and innovation shaping the futu
+ re of longevity\, spanning epigenetic reprogramming\, GLP-1s and metabolic
+  health\, immune aging\, women’s longevity\, artificial intelligence\, a
+ nd the continuous data transforming prevention into daily practice. The th
+ roughline: rigor over hype\, and research with the potential to reach the 
+ clinic.\n\nFeatured speakers include Peter Kolchinsky\, Managing Partner o
+ f RA Capital Management and founder of No Patient Left Behind\; Andrew Bra
+ ck\, Program Manager at ARPA-H\; Dr. Saranya Wyles\, Medical Director at M
+ ayo Clinic\; Alexandra Drane of ARCHANGELS\; J. Sawalla Guseh of Mass Gene
+ ral Brigham\; Kayla Barnes-Lentz of Ammortal\; Alexander (AJ) Blood of AIw
+ ithCare\; and more.\n\nSpend the afternoon at the forefront of the longevi
+ ty conversation\, with a closer look at the research\, technologies\, and 
+ ideas that could shape not simply how long we live\, but how well.\n\n*Thi
+ s event is complimentary and reserved for members only. Please be aware th
+ at members attending this event will need to sign a WHOOP NDA at arrival.�
+ �We kindly ask that all cancellations be made at least 24 hours prior to t
+ he start of the event.
+URL:https://members.thequinhouse.com/events/207308
 CATEGORIES:‘Quin Chat
 END:VEVENT
 BEGIN:VEVENT
@@ -384,6 +420,30 @@ URL:https://members.thequinhouse.com/events/206217
 CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
+UID:quin-event-207462@thequinhouse.com
+DTSTAMP:20261009T160000Z
+DTSTART;TZID=America/New_York:20261009T160000
+DTEND;TZID=America/New_York:20261009T180000
+SUMMARY:Member Meet Up: Night Shift Brewery 
+LOCATION:Offsite: Night Shift Brewery Esplanade
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 70 spots lef
+ t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/2
+ 07462\n\nJoin fellow members for an early autumn evening at Night Shift B
+ rewery on the Esplanade\, a lively outdoor beer garden set along the Charl
+ es River.\n\nThis casual gathering offers an easy setting to connect\, unw
+ ind\, and enjoy a curated selection of beers\, hard seltzers\, wines\, and
+  non-alcoholic options. Whether catching up with familiar faces or meeting
+  someone new\, the atmosphere is designed to be social\, welcoming\, and e
+ ffortlessly enjoyable.\n\nDogs are welcome so feel free to bring your four
+ -legged companion along for the evening.\n\n*This event is complimentary a
+ nd reserved for members only. Each member will receive two complimentary d
+ rinks\, followed by a cash bar. Food will be available for purchase. We k
+ indly ask that all cancellations be made at least 24 hours prior to the st
+ art of the event.
+URL:https://members.thequinhouse.com/events/207462
+CATEGORIES:Member Mixer
+END:VEVENT
+BEGIN:VEVENT
 UID:quin-event-206163@thequinhouse.com
 DTSTAMP:20261009T183000Z
 DTSTART;TZID=America/New_York:20261009T183000
@@ -428,23 +488,23 @@ DTSTART;TZID=America/New_York:20261010T120000
 DTEND;TZID=America/New_York:20261010T140000
 SUMMARY:Serendipity Brunch
 LOCATION:Lunasol
-DESCRIPTION:Category: Food & Beverage\nPrice: $65.00 per person\nAvailabili
- ty: 17 spots left\nStatus: Available\nEvent URL: https://members.thequinho
- use.com/events/206203\n\nJoin us for a Serendipity Saturday Brunch that in
- vites members to enjoy great conversation\, in good company. Set in Lunaso
- l\, the afternoon unfolds with an easy rhythm—a thoughtful menu\, enthu
- siastic members\, and a curated card deck of conversation prompts to inspi
- re connections.\n\nBrunch will be served family-style\, featuring pastries
- \, fruit\, and parfaits to begin\, followed by a choice of entrée and gen
- erous sides. Mimosas and Bloody Marys will be available throughout.\n\nSpe
- nd the day at The 'House—unhurried\, social\, and effortlessly enjoyabl
- e.\n\n*Tickets are $65 per person\, plus tax\, and are reserved for member
- s only. Cancellations within 48 hours of the event\, or failure to attend\
- , will be charged in full. Please inform us of any dietary needs or restri
- ctions by emailing happening@thequin.com at least 72 hours prior to the ev
- ent.
+DESCRIPTION:Category: Food & Beverage\, Member Mixer\nPrice: $65.00 per per
+ son\nAvailability: 17 spots left\nStatus: Available\nEvent URL: https://me
+ mbers.thequinhouse.com/events/206203\n\nJoin us for a Serendipity Saturday
+  Brunch that invites members to enjoy great conversation\, in good company
+ . Set in Lunasol\, the afternoon unfolds with an easy rhythm—a thoughtf
+ ul menu\, enthusiastic members\, and a curated card deck of conversation p
+ rompts to inspire connections.\n\nBrunch will be served family-style\, fea
+ turing pastries\, fruit\, and parfaits to begin\, followed by a choice of 
+ entrée and generous sides. Mimosas and Bloody Marys will be available thr
+ oughout.\n\nSpend the day at The 'House—unhurried\, social\, and effort
+ lessly enjoyable.\n\n*Tickets are $65 per person\, plus tax\, and are rese
+ rved for members only. Cancellations within 48 hours of the event\, or fai
+ lure to attend\, will be charged in full. Please inform us of any dietary 
+ needs or restrictions by emailing happening@thequin.com at least 72 hours 
+ prior to the event.
 URL:https://members.thequinhouse.com/events/206203
-CATEGORIES:Food & Beverage
+CATEGORIES:Food & Beverage,Member Mixer
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-205641@thequinhouse.com
@@ -499,7 +559,7 @@ DTEND;TZID=America/New_York:20261013T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 24 spots left\nStatus: Available\nEvent URL: https://memb
+ e\nAvailability: 23 spots left\nStatus: Available\nEvent URL: https://memb
  ers.thequinhouse.com/events/205199\n\nJoin us for our weekly Member Mingle
  \, an inclusive gathering set in an ambiant reserved space. This is your o
  pportunity to connect with fellow members\, exchange ideas\, and cultivate
@@ -570,26 +630,27 @@ DTSTART;TZID=America/New_York:20261019T183000
 DTEND;TZID=America/New_York:20261019T210000
 SUMMARY:Serendipity Dinner: The Under 40 Table
 LOCATION:The Muse
-DESCRIPTION:Category: Food & Beverage\nPrice: $100.00 per person\nAvailabil
- ity: 17 spots left\nStatus: Available\nEvent URL: https://members.thequinh
- ouse.com/events/206205\n\nStep into a lively evening designed for members 
- aged under 40\, where new connections come naturally and conversation carr
- ies easily around the table. This Serendipity Dinner invites you to gather
-  in The Muse for a relaxed\, yet refined dinner\, with fellow members at a
-  similar stage of life.\n\nThe evening unfolds over a thoughtfully curated
-  dinner\, complemented by subtle conversation prompts designed to spark co
- nnection\, uncover shared interests\, and keep the dialogue flowing throug
- hout the evening.\n\nWhether you are newer to The ‘House\, or simply loo
- king to broaden your circle\, consider this an invitation to settle in\, s
- hare a table\, and get to know fellow members you may not otherwise have t
- he chance to meet. Come for dinner\, stay for the conversation\, and leave
-  with a few new connections—and perhaps a little serendipity.\n\n*Ticket
- s are $100 per person\, plus tax\, and are reserved for members only. Canc
- ellations within 72 hours of the event\, or failure to attend\, will be ch
- arged in full. Please inform us of any dietary needs or restrictions by em
- ailing happenings@thequin.com at least 72 hours before dinner service.
+DESCRIPTION:Category: Food & Beverage\, Member Mixer\nPrice: $100.00 per pe
+ rson\nAvailability: 17 spots left\nStatus: Available\nEvent URL: https://m
+ embers.thequinhouse.com/events/206205\n\nStep into a lively evening design
+ ed for members aged under 40\, where new connections come naturally and co
+ nversation carries easily around the table. This Serendipity Dinner invite
+ s you to gather in The Muse for a relaxed\, yet refined dinner\, with fell
+ ow members at a similar stage of life.\n\nThe evening unfolds over a thoug
+ htfully curated dinner\, complemented by subtle conversation prompts desig
+ ned to spark connection\, uncover shared interests\, and keep the dialogue
+  flowing throughout the evening.\n\nWhether you are newer to The ‘House\
+ , or simply looking to broaden your circle\, consider this an invitation t
+ o settle in\, share a table\, and get to know fellow members you may not o
+ therwise have the chance to meet. Come for dinner\, stay for the conversat
+ ion\, and leave with a few new connections—and perhaps a little serendip
+ ity.\n\n*Tickets are $100 per person\, plus tax\, and are reserved for mem
+ bers only. Cancellations within 72 hours of the event\, or failure to atte
+ nd\, will be charged in full. Please inform us of any dietary needs or res
+ trictions by emailing happenings@thequin.com at least 72 hours before dinn
+ er service.
 URL:https://members.thequinhouse.com/events/206205
-CATEGORIES:Food & Beverage
+CATEGORIES:Food & Beverage,Member Mixer
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-205202@thequinhouse.com
@@ -613,6 +674,30 @@ DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
  nt.
 URL:https://members.thequinhouse.com/events/205202
 CATEGORIES:Member Mixer,Survey - Membership Mingle
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-205642@thequinhouse.com
+DTSTAMP:20261023T190000Z
+DTSTART;TZID=America/New_York:20261023T190000
+DTEND;TZID=America/New_York:20261023T213000
+SUMMARY:'Quin Suite: Celtics vs. Knicks
+LOCATION:Offsite - TD Garden
+DESCRIPTION:Category: Sports & Games\nPrice: $475.00 per person\nAvailabili
+ ty: 3 spots left\nStatus: Available\nEvent URL: https://members.thequinhou
+ se.com/events/205642\n\nOne of basketball’s classic rivalries takes cent
+ er court at TD Garden. Join fellow members in The ’Quin Suite (#524) as 
+ the Celtics face off against the New York Knicks for an exciting regular-s
+ eason matchup.\n\nAll suite ticket options include incredible views of the
+  on-court action and light gameday bites and an assortment of refreshment
+ s including wine\, beer and seltzer. Are you game?\n\n*A pair of 'Quin sui
+ te seats is available for $995 total ($497.50 per ticket). Individual suit
+ e tickets are available for bar stool / standing access only\, offered at 
+ a reduced price of $475 per ticket. Suite tickets are non-refundable and a
+ re non-transferable. Members may purchase tickets for up to 3 guests and a
+ re required to accompany them at all times. The suite is limited to those 
+ ages 16+ as a courtesy to fellow members.
+URL:https://members.thequinhouse.com/events/205642
+CATEGORIES:Sports & Games
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-202982@thequinhouse.com
@@ -771,6 +856,54 @@ URL:https://members.thequinhouse.com/events/205203
 CATEGORIES:Member Mixer,Survey - Membership Mingle
 END:VEVENT
 BEGIN:VEVENT
+UID:quin-event-207102@thequinhouse.com
+DTSTAMP:20261027T193000Z
+DTSTART;TZID=America/New_York:20261027T193000
+DTEND;TZID=America/New_York:20261027T220000
+SUMMARY:'Quin Suite: Celtics vs. Nets
+LOCATION:Offsite - TD Garden
+DESCRIPTION:Category: Sports & Games\nPrice: $475.00 per person\nAvailabili
+ ty: 5 spots left\nStatus: Available\nEvent URL: https://members.thequinhou
+ se.com/events/207102\n\nThe Celtics take home court for another electric n
+ ight at TD Garden. Join fellow members in The ’Quin Suite (#524) as the 
+ Celtics face off against the Brooklyn Nets for an exciting regular-season
+  matchup.\n\nAll suite ticket options include incredible views of the on-c
+ ourt action and light gameday bites and an assortment of refreshments inc
+ luding wine\, beer and seltzer. Are you game?\n\n*A pair of 'Quin suite se
+ ats is available for $995 total ($497.50 per ticket). Individual suite ti
+ ckets are available for bar stool / standing access only\, offered at a re
+ duced price of $475 per ticket. Suite tickets are non-refundable and are 
+ non-transferable. Members may purchase tickets for up to 3 guests and are 
+ required to accompany them at all times. The suite is limited to those age
+ s 16+ as a courtesy to fellow members.
+URL:https://members.thequinhouse.com/events/207102
+CATEGORIES:Sports & Games
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-207105@thequinhouse.com
+DTSTAMP:20261030T193000Z
+DTSTART;TZID=America/New_York:20261030T193000
+DTEND;TZID=America/New_York:20261030T220000
+SUMMARY:'Quin Suite: Celtics vs. Bulls
+LOCATION:Offsite - TD Garden
+DESCRIPTION:Category: Sports & Games\nPrice: $475.00 per person\nAvailabili
+ ty: 5 spots left\nStatus: Available\nEvent URL: https://members.thequinhou
+ se.com/events/207105\n\nGet closer to the action as the Celtics return to 
+ the parquet at TD Garden. Join fellow members in The ’Quin Suite (#524)
+  as the Celtics face off against the Chicago Bulls for an exciting regula
+ r-season matchup.\n\nAll suite ticket options include incredible views of 
+ the on-court action and light gameday bites and an assortment of refreshm
+ ents including wine\, beer and seltzer. Are you game?\n\n*A pair of 'Quin 
+ suite seats is available for $995 total ($497.50 per ticket). Individual 
+ suite tickets are available for bar stool / standing access only\, offered
+  at a reduced price of $475 per ticket. Suite tickets are non-refundable 
+ and are non-transferable. Members may purchase tickets for up to 3 guests 
+ and are required to accompany them at all times. The suite is limited to t
+ hose ages 16+ as a courtesy to fellow members.
+URL:https://members.thequinhouse.com/events/207105
+CATEGORIES:Sports & Games
+END:VEVENT
+BEGIN:VEVENT
 UID:quin-event-195306@thequinhouse.com
 DTSTAMP:20261112T180000Z
 DTSTART;VALUE=DATE:20261112
@@ -792,6 +925,54 @@ DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free / Included\nStatus:
  to ensure access to this celebration for the entire ‘Quin House Team.
 URL:https://members.thequinhouse.com/events/195306
 CATEGORIES:‘Quin Impact Fund
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-207106@thequinhouse.com
+DTSTAMP:20261116T190000Z
+DTSTART;TZID=America/New_York:20261116T190000
+DTEND;TZID=America/New_York:20261116T213000
+SUMMARY:'Quin Suite: Celtics vs. Magic
+LOCATION:Offsite - TD Garden
+DESCRIPTION:Category: Sports & Games\nPrice: $475.00 per person\nAvailabili
+ ty: 5 spots left\nStatus: Available\nEvent URL: https://members.thequinhou
+ se.com/events/207106\n\nAnother night of Celtics basketball awaits at TD G
+ arden. Join fellow members in The ’Quin Suite (#524) as the Celtics face
+  off against the Orlando Magic for an exciting regular-season matchup.\n
+ \nAll suite ticket options include incredible views of the on-court action
+  and light gameday bites and an assortment of refreshments including wine
+ \, beer and seltzer. Are you game?\n\n*A pair of 'Quin suite seats is avai
+ lable for $995 total ($497.50 per ticket). Individual suite tickets are a
+ vailable for bar stool / standing access only\, offered at a reduced price
+  of $475 per ticket. Suite tickets are non-refundable and are non-transfe
+ rable. Members may purchase tickets for up to 3 guests and are required to
+  accompany them at all times. The suite is limited to those ages 16+ as a 
+ courtesy to fellow members.
+URL:https://members.thequinhouse.com/events/207106
+CATEGORIES:Sports & Games
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-207108@thequinhouse.com
+DTSTAMP:20261202T193000Z
+DTSTART;TZID=America/New_York:20261202T193000
+DTEND;TZID=America/New_York:20261202T220000
+SUMMARY:'Quin Suite: Celtics vs. Hornets
+LOCATION:Offsite - TD Garden
+DESCRIPTION:Category: Sports & Games\nPrice: $475.00 per person\nAvailabili
+ ty: 5 spots left\nStatus: Available\nEvent URL: https://members.thequinhou
+ se.com/events/207108\n\nSettle in for a night of Celtics basketball from o
+ ne of the best vantage points in the Garden. Join fellow members in The �
+ �Quin Suite (#524) as the Celtics face off against the Charlotte Hornets 
+ for an exciting regular-season matchup.\n\nAll suite ticket options includ
+ e incredible views of the on-court action and light gameday bites and an 
+ assortment of refreshments including wine\, beer and seltzer. Are you game
+ ?\n\n*A pair of 'Quin suite seats is available for $995 total ($497.50 pe
+ r ticket). Individual suite tickets are available for bar stool / standing
+  access only\, offered at a reduced price of $475 per ticket. Suite ticke
+ ts are non-refundable and are non-transferable. Members may purchase ticke
+ ts for up to 3 guests and are required to accompany them at all times. The
+  suite is limited to those ages 16+ as a courtesy to fellow members.
+URL:https://members.thequinhouse.com/events/207108
+CATEGORIES:Sports & Games
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-200238@thequinhouse.com
@@ -835,5 +1016,53 @@ DESCRIPTION:Category: ‘Venture - Travel\nPrice: $10150.00 per person\nAva
  will proceed as planned.
 URL:https://members.thequinhouse.com/events/200238
 CATEGORIES:‘Venture - Travel
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-207109@thequinhouse.com
+DTSTAMP:20261216T190000Z
+DTSTART;TZID=America/New_York:20261216T190000
+DTEND;TZID=America/New_York:20261216T213000
+SUMMARY:'Quin Suite: Celtics vs. Wizards
+LOCATION:Offsite - TD Garden
+DESCRIPTION:Category: Sports & Games\nPrice: $475.00 per person\nAvailabili
+ ty: 5 spots left\nStatus: Available\nEvent URL: https://members.thequinhou
+ se.com/events/207109\n\nExperience the energy of a Celtics game night as B
+ oston welcomes Washington to TD Garden. Join fellow members in The ’Qui
+ n Suite (#524) as the Celtics face off against the Washington Wizards for
+  an exciting regular-season matchup.\n\nAll suite ticket options include i
+ ncredible views of the on-court action and light gameday bites and an ass
+ ortment of refreshments including wine\, beer and seltzer. Are you game?\n
+ \n*A pair of 'Quin suite seats is available for $995 total ($497.50 per t
+ icket). Individual suite tickets are available for bar stool / standing ac
+ cess only\, offered at a reduced price of $475 per ticket. Suite tickets 
+ are non-refundable and are non-transferable. Members may purchase tickets 
+ for up to 3 guests and are required to accompany them at all times. The su
+ ite is limited to those ages 16+ as a courtesy to fellow members.
+URL:https://members.thequinhouse.com/events/207109
+CATEGORIES:Sports & Games
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-207110@thequinhouse.com
+DTSTAMP:20261223T193000Z
+DTSTART;TZID=America/New_York:20261223T193000
+DTEND;TZID=America/New_York:20261223T220000
+SUMMARY:'Quin Suite: Celtics vs. Trail Blazers
+LOCATION:Offsite - TD Garden
+DESCRIPTION:Category: Sports & Games\nPrice: $475.00 per person\nAvailabili
+ ty: 5 spots left\nStatus: Available\nEvent URL: https://members.thequinhou
+ se.com/events/207110\n\nSpend an evening at the Garden as the Celtics take
+  the court against Portland. Join fellow members in The ’Quin Suite (#52
+ 4) as the Celtics face off against the Portland Trailblazers for an exci
+ ting regular-season matchup.\n\nAll suite ticket options include incredibl
+ e views of the on-court action and light gameday bites and an assortment 
+ of refreshments including wine\, beer and seltzer. Are you game?\n\n*A pai
+ r of 'Quin suite seats is available for $995 total ($497.50 per ticket). 
+ Individual suite tickets are available for bar stool / standing access onl
+ y\, offered at a reduced price of $475 per ticket. Suite tickets are non-
+ refundable and are non-transferable. Members may purchase tickets for up t
+ o 3 guests and are required to accompany them at all times. The suite is l
+ imited to those ages 16+ as a courtesy to fellow members.
+URL:https://members.thequinhouse.com/events/207110
+CATEGORIES:Sports & Games
 END:VEVENT
 END:VCALENDAR
