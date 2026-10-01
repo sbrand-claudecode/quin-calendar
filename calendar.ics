@@ -131,7 +131,7 @@ DTEND;TZID=America/New_York:20261005T210000
 SUMMARY:Serendipity Dinner 
 LOCATION:The Muse
 DESCRIPTION:Category: Member Mixer\nPrice: $100.00 per person\nAvailability
- : 9 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
+ : 6 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
  .com/events/176002\n\nJoin The ‘Quin House Managing Director\, Matthias 
  Kiehm\, for an evening of meaningful connections over a thoughtfully curat
  ed three-course dinner. Enjoy expertly paired wines as you engage with fel
@@ -186,34 +186,34 @@ DTSTART;TZID=America/New_York:20261006T120000
 DTEND;TZID=America/New_York:20261006T133000
 SUMMARY:90 Minutes of Innovation: The Future of Medicine
 LOCATION:The Pub
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 1 spot left\
- nStatus: You are on Waitlist\nEvent URL: https://members.thequinhouse.com/
- events/205637\n\n12:00PM  - 1:30PM Program\nWhat will it take to accelera
- te the next generation of medical breakthroughs—and rethink how discover
- ies make their way from the lab to the people who need them? In the latest
-  edition of 90 Minutes of Innovation\, John Werner\, venture capitalist\, 
- MIT lecturer\, and Forbes AI columnist\, and Alexander Wissner-Gross\, res
- earch scientist and entrepreneur\, sit down with Peter Kolchinsky\, PhD\, 
- Founder and Managing Partner of RA Capital Management and author of The Gr
- eat American Drug Deal\, for a conversation at the intersection of science
- \, technology\, investment\, and healthcare.\n\nWith a PhD in Virology fro
- m Harvard University\, Kolchinsky has spent decades investing in companies
-  developing drugs\, medical devices\, diagnostics\, and research tools\, w
- hile advocating for approaches that make medicines more affordable without
-  sacrificing the innovation behind tomorrow’s breakthroughs. Through his
-  work with RA Capital and No Patient Left Behind\, he has become a leading
-  voice in conversations surrounding biotechnology\, drug development\, aff
- ordability\, and the incentives that shape the future of medicine.\n\nToge
- ther\, Werner\, Wissner-Gross\, and Kolchinsky will explore how artificial
-  intelligence and emerging technologies could accelerate scientific discov
- ery\, reshape the development of new treatments\, and transform the broade
- r healthcare landscape. From getting promising discoveries to patients fas
- ter to balancing affordability with continued investment in innovation\, e
- xpect a wide-ranging conversation about what’s possible when science\, t
- echnology\, and new ways of thinking converge.\n\n*This event is complimen
- tary and reserved for members only. Complimentary light bites and refreshm
- ents will be served. We kindly ask that all cancellations be made at least
-  24 hours prior to the start of the event.
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nStatus: You are on Waitlis
+ t\nEvent URL: https://members.thequinhouse.com/events/205637\n\n12:00PM  
+ - 1:30PM Program\nWhat will it take to accelerate the next generation of m
+ edical breakthroughs—and rethink how discoveries make their way from the
+  lab to the people who need them? In the latest edition of 90 Minutes of I
+ nnovation\, John Werner\, venture capitalist\, MIT lecturer\, and Forbes A
+ I columnist\, and Alexander Wissner-Gross\, research scientist and entrepr
+ eneur\, sit down with Peter Kolchinsky\, PhD\, Founder and Managing Partne
+ r of RA Capital Management and author of The Great American Drug Deal\, fo
+ r a conversation at the intersection of science\, technology\, investment\
+ , and healthcare.\n\nWith a PhD in Virology from Harvard University\, Kolc
+ hinsky has spent decades investing in companies developing drugs\, medical
+  devices\, diagnostics\, and research tools\, while advocating for approac
+ hes that make medicines more affordable without sacrificing the innovation
+  behind tomorrow’s breakthroughs. Through his work with RA Capital and N
+ o Patient Left Behind\, he has become a leading voice in conversations sur
+ rounding biotechnology\, drug development\, affordability\, and the incent
+ ives that shape the future of medicine.\n\nTogether\, Werner\, Wissner-Gro
+ ss\, and Kolchinsky will explore how artificial intelligence and emerging 
+ technologies could accelerate scientific discovery\, reshape the developme
+ nt of new treatments\, and transform the broader healthcare landscape. Fro
+ m getting promising discoveries to patients faster to balancing affordabil
+ ity with continued investment in innovation\, expect a wide-ranging conver
+ sation about what’s possible when science\, technology\, and new ways of
+  thinking converge.\n\n*This event is complimentary and reserved for membe
+ rs only. Complimentary light bites and refreshments will be served. We kin
+ dly ask that all cancellations be made at least 24 hours prior to the star
+ t of the event.
 URL:https://members.thequinhouse.com/events/205637
 CATEGORIES:‘Quin Chat
 END:VEVENT
@@ -225,7 +225,7 @@ DTEND;TZID=America/New_York:20261006T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 17 spots left\nStatus: Available\nEvent URL: https://memb
+ e\nAvailability: 16 spots left\nStatus: Available\nEvent URL: https://memb
  ers.thequinhouse.com/events/205198\n\nJoin us for our weekly Member Mingle
  \, an inclusive gathering set in an ambiant reserved space. This is your o
  pportunity to connect with fellow members\, exchange ideas\, and cultivate
@@ -339,7 +339,7 @@ DTSTART;TZID=America/New_York:20261008T170000
 DTEND;TZID=America/New_York:20261008T183000
 SUMMARY:'Quin Chat: Front Row to Boston Sports
 LOCATION:The Pub
-DESCRIPTION:Category: Sports & Games\nPrice: Free\nAvailability: 52 spots l
+DESCRIPTION:Category: Sports & Games\nPrice: Free\nAvailability: 50 spots l
  eft\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events
  /205640\n\n5:00PM Reception 5:30PM Discussion\n\nCalling all Boston sports
   fans! Join us for an evening of legendary stories\, unforgettable moments
@@ -390,7 +390,7 @@ DTSTART;TZID=America/New_York:20261009T183000
 DTEND;TZID=America/New_York:20261009T200000
 SUMMARY:'Quin Chat: CTE's Lasting Impact on the NFL 
 LOCATION:The Muse
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 42 spots lef
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 39 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/2
  06163\n\n6:30PM Reception\, 7:00PM Discussion\n\nWhat does the latest scie
  nce reveal about the lasting impact of contact sports on the brain - and h
@@ -476,18 +476,18 @@ DTSTART;TZID=America/New_York:20261012T180000
 DTEND;TZID=America/New_York:20261012T210000
 SUMMARY:Community Table
 LOCATION:Café Q
-DESCRIPTION:Category: Food & Beverage\nPrice: Free\nAvailability: 4 spots l
- eft\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events
- /205200\n\nEase into the week around the table with the return of Café Q�
- ��s Community Table. Designed for members looking to meet new faces and ma
- ke new connections\, the evening brings together good food and engaging co
- nversation in a relaxed\, convivial setting. Take a seat\, share a meal\, 
- and see where the conversation leads.\n\n*This event is reserved for membe
- rs only. An advance charge of $24 per member contributes to communal appet
- izers available upon seating. Members are responsible for à la carte entr
- ées\, desserts\, and beverages\, plus taxes and fees. Cancellations made 
- within 24 hours of the event\, or failure to attend will be subject to the
-  Café Q's surcharge policy.
+DESCRIPTION:Category: Food & Beverage\nPrice: Free\nAvailability: 1 spot le
+ ft\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/
+ 205200\n\nEase into the week around the table with the return of Café Q�
+ �s Community Table. Designed for members looking to meet new faces and mak
+ e new connections\, the evening brings together good food and engaging con
+ versation in a relaxed\, convivial setting. Take a seat\, share a meal\, a
+ nd see where the conversation leads.\n\n*This event is reserved for member
+ s only. An advance charge of $24 per member contributes to communal appeti
+ zers available upon seating. Members are responsible for à la carte entr�
+ �es\, desserts\, and beverages\, plus taxes and fees. Cancellations made w
+ ithin 24 hours of the event\, or failure to attend will be subject to the 
+ Café Q's surcharge policy.
 URL:https://members.thequinhouse.com/events/205200
 CATEGORIES:Food & Beverage
 END:VEVENT
@@ -499,7 +499,7 @@ DTEND;TZID=America/New_York:20261013T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 26 spots left\nStatus: Available\nEvent URL: https://memb
+ e\nAvailability: 24 spots left\nStatus: Available\nEvent URL: https://memb
  ers.thequinhouse.com/events/205199\n\nJoin us for our weekly Member Mingle
  \, an inclusive gathering set in an ambiant reserved space. This is your o
  pportunity to connect with fellow members\, exchange ideas\, and cultivate
@@ -521,7 +521,7 @@ DTSTART;TZID=America/New_York:20261013T190000
 DTEND;TZID=America/New_York:20261013T200000
 SUMMARY:Author's Circle Book Club: "Safekeeping" by Claudia Hinz
 LOCATION:The Muse
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 9 spots left\nSt
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 8 spots left\nSt
  atus: Available\nEvent URL: https://members.thequinhouse.com/events/203629
  \n\nThis October\, settle into the season with Safekeeping by Claudia Hinz
  \, a sweeping and deeply moving novel about family\, memory\, and the secr
@@ -599,7 +599,7 @@ DTEND;TZID=America/New_York:20261020T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 31 spots left\nStatus: Available\nEvent URL: https://memb
+ e\nAvailability: 29 spots left\nStatus: Available\nEvent URL: https://memb
  ers.thequinhouse.com/events/205202\n\nJoin us for our weekly Member Mingle
  \, an inclusive gathering set in an ambiant reserved space. This is your o
  pportunity to connect with fellow members\, exchange ideas\, and cultivate
@@ -754,7 +754,7 @@ DTEND;TZID=America/New_York:20261027T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 39 spots left\nStatus: Available\nEvent URL: https://memb
+ e\nAvailability: 37 spots left\nStatus: Available\nEvent URL: https://memb
  ers.thequinhouse.com/events/205203\n\nEase into the week in good company a
  t our weekly Member Mingle\, a relaxed gathering in The Living Room design
  ed to bring members together. Settle in\, enjoy a selection of charcuterie
