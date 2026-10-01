@@ -24,37 +24,6 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:quin-event-203633@thequinhouse.com
-DTSTAMP:20260930T183000Z
-DTSTART;TZID=America/New_York:20260930T183000
-DTEND;TZID=America/New_York:20260930T200000
-SUMMARY:'Quin Chat: How Hip-Hop Built an Empire
-LOCATION:The Muse
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 16 spots left\nS
- tatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/even
- ts/203633\n\n6:30PM Reception\, 7:00PM Discussion\n\nWhat is it about hip-
- hop that has transformed generations of artists into some of the world’s
-  most influential entrepreneurs\, tastemakers\, and cultural forces? Join 
- us for a ’Quin Chat exploring the evolution of the hip-hop artist from p
- erformer to mogul - and how a genre born from creative expression has beco
- me a powerful engine for business\, innovation\, and cultural influence. F
- rom fashion and record labels to food and beverage\, technology\, media\, 
- and beyond\, the conversation will examine how artists have built expansiv
- e ecosystems around their creativity while reshaping the industries they e
- nter. \n\nNeil Martinez Belkin\, New York Times bestselling author\, wi
- ll be joined in conversation by Boston native Dart Adams\, an acclaimed jo
- urnalist\, historian\, researcher\, lecturer\, and author. Together\, the
- y will explore the entrepreneurial mindset behind hip-hop’s most influen
- tial figures\, the relationship between cultural credibility and commercia
- l success\, and how the genre continues to redefine what it means to be an
-  artist\, and a mogul\, today.\n\n*This event is complimentary and reserve
- d for members only. Complimentary light bites and refreshments will be ser
- ved. We kindly ask that all cancellations be made at least 24 hours prior 
- to the start of the event.
-URL:https://members.thequinhouse.com/events/203633
-CATEGORIES:The Arts
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-205637@thequinhouse.com
 DTSTAMP:20261006T120000Z
 DTSTART;TZID=America/New_York:20261006T120000

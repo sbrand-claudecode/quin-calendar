@@ -24,37 +24,6 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:quin-event-203633@thequinhouse.com
-DTSTAMP:20260930T183000Z
-DTSTART;TZID=America/New_York:20260930T183000
-DTEND;TZID=America/New_York:20260930T200000
-SUMMARY:'Quin Chat: How Hip-Hop Built an Empire
-LOCATION:The Muse
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 16 spots left\nS
- tatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/even
- ts/203633\n\n6:30PM Reception\, 7:00PM Discussion\n\nWhat is it about hip-
- hop that has transformed generations of artists into some of the world’s
-  most influential entrepreneurs\, tastemakers\, and cultural forces? Join 
- us for a ’Quin Chat exploring the evolution of the hip-hop artist from p
- erformer to mogul - and how a genre born from creative expression has beco
- me a powerful engine for business\, innovation\, and cultural influence. F
- rom fashion and record labels to food and beverage\, technology\, media\, 
- and beyond\, the conversation will examine how artists have built expansiv
- e ecosystems around their creativity while reshaping the industries they e
- nter. \n\nNeil Martinez Belkin\, New York Times bestselling author\, wi
- ll be joined in conversation by Boston native Dart Adams\, an acclaimed jo
- urnalist\, historian\, researcher\, lecturer\, and author. Together\, the
- y will explore the entrepreneurial mindset behind hip-hop’s most influen
- tial figures\, the relationship between cultural credibility and commercia
- l success\, and how the genre continues to redefine what it means to be an
-  artist\, and a mogul\, today.\n\n*This event is complimentary and reserve
- d for members only. Complimentary light bites and refreshments will be ser
- ved. We kindly ask that all cancellations be made at least 24 hours prior 
- to the start of the event.
-URL:https://members.thequinhouse.com/events/203633
-CATEGORIES:The Arts
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-205636@thequinhouse.com
 DTSTAMP:20261001T190000Z
 DTSTART;VALUE=DATE:20261001
@@ -256,7 +225,7 @@ DTEND;TZID=America/New_York:20261006T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 19 spots left\nStatus: Available\nEvent URL: https://memb
+ e\nAvailability: 17 spots left\nStatus: Available\nEvent URL: https://memb
  ers.thequinhouse.com/events/205198\n\nJoin us for our weekly Member Mingle
  \, an inclusive gathering set in an ambiant reserved space. This is your o
  pportunity to connect with fellow members\, exchange ideas\, and cultivate
@@ -311,7 +280,7 @@ DTSTART;TZID=America/New_York:20261007T170000
 DTEND;TZID=America/New_York:20261007T183000
 SUMMARY:'Quin Chat: The Communities Changing Healthcare
 LOCATION:The Muse
-DESCRIPTION:Category: Health & Wellness\nPrice: Free\nAvailability: 35 spot
+DESCRIPTION:Category: Health & Wellness\nPrice: Free\nAvailability: 34 spot
  s left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/eve
  nts/206195\n\n5:00PM Reception\, 5:30PM Discussion\n\nWhat if some of the 
  most consequential ideas in American healthcare are not coming out of rese
@@ -370,7 +339,7 @@ DTSTART;TZID=America/New_York:20261008T170000
 DTEND;TZID=America/New_York:20261008T183000
 SUMMARY:'Quin Chat: Front Row to Boston Sports
 LOCATION:The Pub
-DESCRIPTION:Category: Sports & Games\nPrice: Free\nAvailability: 54 spots l
+DESCRIPTION:Category: Sports & Games\nPrice: Free\nAvailability: 52 spots l
  eft\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events
  /205640\n\n5:00PM Reception 5:30PM Discussion\n\nCalling all Boston sports
   fans! Join us for an evening of legendary stories\, unforgettable moments
@@ -530,7 +499,7 @@ DTEND;TZID=America/New_York:20261013T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 27 spots left\nStatus: Available\nEvent URL: https://memb
+ e\nAvailability: 26 spots left\nStatus: Available\nEvent URL: https://memb
  ers.thequinhouse.com/events/205199\n\nJoin us for our weekly Member Mingle
  \, an inclusive gathering set in an ambiant reserved space. This is your o
  pportunity to connect with fellow members\, exchange ideas\, and cultivate
@@ -602,7 +571,7 @@ DTEND;TZID=America/New_York:20261019T210000
 SUMMARY:Serendipity Dinner: The Under 40 Table
 LOCATION:The Muse
 DESCRIPTION:Category: Food & Beverage\nPrice: $100.00 per person\nAvailabil
- ity: 18 spots left\nStatus: Available\nEvent URL: https://members.thequinh
+ ity: 17 spots left\nStatus: Available\nEvent URL: https://members.thequinh
  ouse.com/events/206205\n\nStep into a lively evening designed for members 
  aged under 40\, where new connections come naturally and conversation carr
  ies easily around the table. This Serendipity Dinner invites you to gather
