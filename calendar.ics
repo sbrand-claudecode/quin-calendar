@@ -131,7 +131,7 @@ DTEND;TZID=America/New_York:20261005T210000
 SUMMARY:Serendipity Dinner 
 LOCATION:The Muse
 DESCRIPTION:Category: Member Mixer\nPrice: $100.00 per person\nAvailability
- : 6 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
+ : 5 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
  .com/events/176002\n\nJoin The ‘Quin House Managing Director\, Matthias 
  Kiehm\, for an evening of meaningful connections over a thoughtfully curat
  ed three-course dinner. Enjoy expertly paired wines as you engage with fel
@@ -224,7 +224,7 @@ DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
 SUMMARY:TEDxBoston: Unlocking Longevity at WHOOP
 LOCATION:Offsite - WHOOP Headquarters
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 35 spots lef
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 32 spots lef
  t\nStatus: Available\nTime: 2 PM – 6 PM\nEvent URL: https://members.theq
  uinhouse.com/events/207308\n\nWhat does it mean to live not only longer\, 
  but better? Join us at WHOOP Headquarters in Kenmore Square where a select
@@ -283,29 +283,29 @@ DTSTART;TZID=America/New_York:20261006T173000
 DTEND;TZID=America/New_York:20261006T190000
 SUMMARY:'Quin Chat: Decoding Gut Health
 LOCATION:Scottie's
-DESCRIPTION:Category: Health & Wellness\nPrice: Free\nAvailability: 1 spot 
- left\nStatus: Waitlist Only\nEvent URL: https://members.thequinhouse.com/e
- vents/205638\n\n5:30PM Reception\, 6:00PM Discussion \nIn an oversaturate
- d health and wellness landscape shaped by trends\, social media\, and an e
- ver-growing marketplace\, how do we separate fact from fiction when it com
- es to gut health? Join us for a ’Quin Chat exploring the science of the 
- gut microbiome and its connection to digestion\, immunity\, metabolism\, a
- nd overall well-being. Together\, our panelists will unpack what the resea
- rch really tells us about probiotics\, prebiotics\, fermented foods\, fibe
- r\, microbiome testing\, and personalized nutrition.\n\nThe conversation b
- rings together leading voices at the intersection of medicine\, microbiome
-  research\, and emerging technology: Dr. Lynne B. Ahn\, MD\, gastroenterol
- ogist and Founder and Medical Director of Ahn Point Wellness\; John Capodi
- lupo\, Co-Founder and former CTO of WHOOP and Co-Founder and CPO of Throne
- \; Dr. Brantley Hall\, PhD\, Co-Founder of Ventoscity\; and Dr. Chethan Ra
- mprasad\, MS\, MS\, gastroenterologist at Beth Israel Deaconess Medical Ce
- nter and faculty member at Harvard Medical School. From AI and wearable te
- chnology to digital biomarkers and new approaches to monitoring digestive 
- health\, they will explore what’s proven\, what is promising\, and what 
- the future of gut health may hold.\n\n*This event is complimentary and res
- erved for members only. Complimentary light bites and refreshments will be
-  served.We kindly ask that all cancellations be made at least 24 hours pri
- or to the start of the event.
+DESCRIPTION:Category: Health & Wellness\nPrice: Free\nStatus: Waitlist Only
+ \nEvent URL: https://members.thequinhouse.com/events/205638\n\n5:30PM Rece
+ ption\, 6:00PM Discussion \nIn an oversaturated health and wellness lands
+ cape shaped by trends\, social media\, and an ever-growing marketplace\, h
+ ow do we separate fact from fiction when it comes to gut health? Join us f
+ or a ’Quin Chat exploring the science of the gut microbiome and its conn
+ ection to digestion\, immunity\, metabolism\, and overall well-being. Toge
+ ther\, our panelists will unpack what the research really tells us about p
+ robiotics\, prebiotics\, fermented foods\, fiber\, microbiome testing\, an
+ d personalized nutrition.\n\nThe conversation brings together leading voic
+ es at the intersection of medicine\, microbiome research\, and emerging te
+ chnology: Dr. Lynne B. Ahn\, MD\, gastroenterologist and Founder and Medic
+ al Director of Ahn Point Wellness\; John Capodilupo\, Co-Founder and forme
+ r CTO of WHOOP and Co-Founder and CPO of Throne\; Dr. Brantley Hall\, PhD\
+ , Co-Founder of Ventoscity\; and Dr. Chethan Ramprasad\, MS\, MS\, gastroe
+ nterologist at Beth Israel Deaconess Medical Center and faculty member at 
+ Harvard Medical School. From AI and wearable technology to digital biomark
+ ers and new approaches to monitoring digestive health\, they will explore 
+ what’s proven\, what is promising\, and what the future of gut health ma
+ y hold.\n\n*This event is complimentary and reserved for members only. Com
+ plimentary light bites and refreshments will be served.We kindly ask that 
+ all cancellations be made at least 24 hours prior to the start of the even
+ t.
 URL:https://members.thequinhouse.com/events/205638
 CATEGORIES:Health & Wellness
 END:VEVENT
@@ -316,7 +316,7 @@ DTSTART;TZID=America/New_York:20261007T170000
 DTEND;TZID=America/New_York:20261007T183000
 SUMMARY:'Quin Chat: The Communities Changing Healthcare
 LOCATION:The Muse
-DESCRIPTION:Category: Health & Wellness\nPrice: Free\nAvailability: 33 spot
+DESCRIPTION:Category: Health & Wellness\nPrice: Free\nAvailability: 32 spot
  s left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/eve
  nts/206195\n\n5:00PM Reception\, 5:30PM Discussion\n\nWhat if some of the 
  most consequential ideas in American healthcare are not coming out of rese
@@ -426,7 +426,7 @@ DTSTART;TZID=America/New_York:20261009T160000
 DTEND;TZID=America/New_York:20261009T180000
 SUMMARY:Member Meet Up: Night Shift Brewery 
 LOCATION:Offsite: Night Shift Brewery Esplanade
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 66 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 63 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/2
  07462\n\nJoin fellow members for an early autumn evening at Night Shift B
  rewery on the Esplanade\, a lively outdoor beer garden set along the Charl
