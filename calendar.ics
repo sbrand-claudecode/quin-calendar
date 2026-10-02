@@ -108,18 +108,18 @@ DTSTART;TZID=America/New_York:20261005T110000
 DTEND;TZID=America/New_York:20261005T120000
 SUMMARY:Art Tour: The Core Collection 
 LOCATION:Meet in The Lobby
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 1 spot left\nSta
- tus: Waitlist Only\nEvent URL: https://members.thequinhouse.com/events/203
- 626\n\nJoin The 'Quin’s art collection curator Kate Chertavian for an ar
- t tour focused on the Core Collection. The discussion will begin in Bondo 
- with Donald Lipski's spectacular statement chandelier and Christopher Wool
- 's monumental silkscreens and will continue with a thematic exploration of
-  works on the grand staircase. With insight into the collaborative process
-  of creating this incredible collection\, the tour will conclude in the lo
- bby with artists such as Julie Mehretu\, Andy Warhol\, Cy Twombly\, and Cl
- aude Monet.\n\n*This event is complimentary and reserved for members\, plu
- s one guest. We kindly ask that all cancellations be made at least 24 hour
- s prior to the start of the event.
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 2 spots left\nSt
+ atus: Waitlist Only\nEvent URL: https://members.thequinhouse.com/events/20
+ 3626\n\nJoin The 'Quin’s art collection curator Kate Chertavian for an a
+ rt tour focused on the Core Collection. The discussion will begin in Bondo
+  with Donald Lipski's spectacular statement chandelier and Christopher Woo
+ l's monumental silkscreens and will continue with a thematic exploration o
+ f works on the grand staircase. With insight into the collaborative proces
+ s of creating this incredible collection\, the tour will conclude in the l
+ obby with artists such as Julie Mehretu\, Andy Warhol\, Cy Twombly\, and C
+ laude Monet.\n\n*This event is complimentary and reserved for members\, pl
+ us one guest. We kindly ask that all cancellations be made at least 24 hou
+ rs prior to the start of the event.
 URL:https://members.thequinhouse.com/events/203626
 CATEGORIES:The Arts
 END:VEVENT
@@ -131,7 +131,7 @@ DTEND;TZID=America/New_York:20261005T210000
 SUMMARY:Serendipity Dinner 
 LOCATION:The Muse
 DESCRIPTION:Category: Member Mixer\nPrice: $100.00 per person\nAvailability
- : 5 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
+ : 6 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
  .com/events/176002\n\nJoin The ‘Quin House Managing Director\, Matthias 
  Kiehm\, for an evening of meaningful connections over a thoughtfully curat
  ed three-course dinner. Enjoy expertly paired wines as you engage with fel
@@ -224,7 +224,7 @@ DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
 SUMMARY:TEDxBoston: Unlocking Longevity at WHOOP
 LOCATION:Offsite - WHOOP Headquarters
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 32 spots lef
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 25 spots lef
  t\nStatus: Available\nTime: 2 PM – 6 PM\nEvent URL: https://members.theq
  uinhouse.com/events/207308\n\nWhat does it mean to live not only longer\, 
  but better? Join us at WHOOP Headquarters in Kenmore Square where a select
@@ -316,7 +316,7 @@ DTSTART;TZID=America/New_York:20261007T170000
 DTEND;TZID=America/New_York:20261007T183000
 SUMMARY:'Quin Chat: The Communities Changing Healthcare
 LOCATION:The Muse
-DESCRIPTION:Category: Health & Wellness\nPrice: Free\nAvailability: 32 spot
+DESCRIPTION:Category: Health & Wellness\nPrice: Free\nAvailability: 31 spot
  s left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/eve
  nts/206195\n\n5:00PM Reception\, 5:30PM Discussion\n\nWhat if some of the 
  most consequential ideas in American healthcare are not coming out of rese
@@ -375,7 +375,7 @@ DTSTART;TZID=America/New_York:20261008T170000
 DTEND;TZID=America/New_York:20261008T183000
 SUMMARY:'Quin Chat: Front Row to Boston Sports
 LOCATION:The Pub
-DESCRIPTION:Category: Sports & Games\nPrice: Free\nAvailability: 49 spots l
+DESCRIPTION:Category: Sports & Games\nPrice: Free\nAvailability: 48 spots l
  eft\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events
  /205640\n\n5:00PM Reception 5:30PM Discussion\n\nCalling all Boston sports
   fans! Join us for an evening of legendary stories\, unforgettable moments
@@ -426,7 +426,7 @@ DTSTART;TZID=America/New_York:20261009T160000
 DTEND;TZID=America/New_York:20261009T180000
 SUMMARY:Member Meet Up: Night Shift Brewery 
 LOCATION:Offsite: Night Shift Brewery Esplanade
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 63 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 59 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/2
  07462\n\nJoin fellow members for an early autumn evening at Night Shift B
  rewery on the Esplanade\, a lively outdoor beer garden set along the Charl
@@ -505,6 +505,36 @@ DESCRIPTION:Category: Food & Beverage\, Member Mixer\nPrice: $65.00 per per
  prior to the event.
 URL:https://members.thequinhouse.com/events/206203
 CATEGORIES:Food & Beverage,Member Mixer
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-206904@thequinhouse.com
+DTSTAMP:20261010T140000Z
+DTSTART;TZID=America/New_York:20261010T140000
+DTEND;TZID=America/New_York:20261010T170000
+SUMMARY:The Social Set: Padel & Pickleball 
+LOCATION:Offsite: 25 Pier 4 Blvd.\, Boston
+DESCRIPTION:Category: Sports & Games\nPrice: Free\nAvailability: 60 spots l
+ eft\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events
+ /206904\n\n2:00PM Pro-Led Instruction\, 2:30PM Open Play\, 4:00PM - Recove
+ ry and Member Mingling\n\nJoin us for an offsite afternoon of play as The 
+ 'Quin House takes over the courts at Ballers in the Seaport. Whether you'r
+ e picking up the racquet for the first time\, or have tried the sport and 
+ would like to learn more\, members are invited to experience two of today
+ ’s most exciting racquet sports\, pickleball and padel\, in a lively\, s
+ ocial setting.\n\nThe afternoon will begin with professional instructors 
+ Mike Millet for pickleball and Colin Lamusta for padel\, giving members gu
+ idance before moving into rotating play and friendly matches across both s
+ ports\, guided by the Ballers team. Members will have the opportunity to r
+ otate between pickleball and padel courts to experience both racquet sport
+ s with pros and members. Post play\, members can stick around to mix\, min
+ gle\, and enjoy food and drinks for purchase at the Ballers food trucks an
+ d bar. After play\, members are welcome to stick around to mix\, mingle\,
+  and enjoy food and drinks available for purchase from the Ballers food tr
+ ucks and bar.\n\n*This event is complimentary and reserved for members onl
+ y. We kindly ask that all cancellations be made at least 48 hours prior to
+  the start of the event.
+URL:https://members.thequinhouse.com/events/206904
+CATEGORIES:Sports & Games
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-205641@thequinhouse.com
@@ -606,6 +636,76 @@ URL:https://members.thequinhouse.com/events/203629
 CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
+UID:quin-event-206905@thequinhouse.com
+DTSTAMP:20261013T190000Z
+DTSTART;TZID=America/New_York:20261013T190000
+DTEND;TZID=America/New_York:20261013T203000
+SUMMARY:'Quin Chat: Modern Parenting - Navigating Teen Mental Health Togeth
+ er
+LOCATION:Scottie's
+DESCRIPTION:Category: Health & Wellness\nPrice: Free\nAvailability: 110 spo
+ ts left\nStatus: futureSale\nEvent URL: https://members.thequinhouse.com/e
+ vents/206905\n\n7:00PM Reception\, 7:30PM Discussion\n\nWhat is simply par
+ t of being a teenager—and when does it warrant a closer look? Join us fo
+ r an expert-led ’Quin Chat exploring the mental health and well-being of
+  today’s teenagers and how parents can better understand and support the
+ m through these formative years. At a time marked by significant physical\
+ , emotional\, and social change - and amplified by social media\, constant
+  connectivity\, academic pressures\, and an increasingly digital world - o
+ ur panel will explore what constitutes typical teenage behavior\, signs th
+ at may warrant greater attention\, and how parents can approach difficult 
+ conversations and offer meaningful support.\n\nModerated by Kimberlyn Lear
+ y\, PhD\, MPA\, associate professor of psychology at the Harvard Medical S
+ chool and Senior Advisor at McLean Hospital\, the conversation will bring 
+ together adolescent mental health and pediatric experts Cecil Webster\, MD
+ \, psychiatrist\, psychoanalyst\, and CEO of Webster Clinic\; Jacqueline B
+ uchanan\, MD\, psychiatrist at Webster Clinic\; and Essential Pediatrics C
+ o-Founders Brenda Anders Pring\, MD\, and Christina Nordt\, MD. Together\,
+  they will offer expert perspective on changing moods\, growing independen
+ ce\, anxiety\, social pressures\, technology\, and the evolving parent-tee
+ n relationship—with practical guidance for helping teenagers navigate it
+  all.\n\n*This event is complimentary and reserved for members only. Compl
+ imentary light bites and refreshments will be served. We kindly ask that a
+ ll cancellations be made at least 24 hours prior to the start of the event
+ .
+URL:https://members.thequinhouse.com/events/206905
+CATEGORIES:Health & Wellness
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-206907@thequinhouse.com
+DTSTAMP:20261014T170000Z
+DTSTART;TZID=America/New_York:20261014T170000
+DTEND;TZID=America/New_York:20261014T183000
+SUMMARY:'Quin Chat: From Head Of The Charles to Los Angeles 2028 
+LOCATION:The Pub
+DESCRIPTION:Category: Sports & Games\nPrice: Free\nAvailability: 150 spots 
+ left\nStatus: futureSale\nEvent URL: https://members.thequinhouse.com/even
+ ts/206907\n\n5:00PM Discussion\, 5:30PM Reception\n\nAs the rowing world t
+ urns its attention to Boston for one of the sport’s most celebrated week
+ ends\, join us for a timely ’Quin Chat with NBC10 Boston Host Hannah Don
+ nelly and two-time Olympic rower and Massachusetts native\, Kristi Wagner.
+  Fresh off competing at the World Rowing Championships\, Wagner will share
+  an inside look at her experience on the international stage\, the trainin
+ g and determination required to compete among the world’s best\, and wha
+ t comes next as she sets her sights on earning another Olympic berth for t
+ he Los Angeles 2028 Olympic Games.\n\nTogether\, Donnelly and Wagner will 
+ dive into the excitement surrounding this year’s Head Of The Charles Reg
+ atta\, where Wagner will once again take to the water\, and explore what m
+ akes the iconic race such a defining moment for Boston and the global rowi
+ ng community. Their conversation will also take a broader look at the stat
+ e of U.S. women’s rowing\, the athletes and momentum shaping its future\
+ , and the road ahead as the sport builds toward Los Angeles in 2028. From 
+ racing on the Charles to competing on the world’s biggest stage\, the ev
+ ening offers a rare glimpse into the life of an elite athlete and the ambi
+ tion\, preparation\, and perseverance behind the pursuit of Olympic excell
+ ence.\n\n*This event is complimentary and reserved for members only. Compl
+ imentary light bites and refreshments will be served. We kindly ask that a
+ ll cancellations be made at least 24 hours prior to the start of the event
+ .
+URL:https://members.thequinhouse.com/events/206907
+CATEGORIES:Sports & Games
+END:VEVENT
+BEGIN:VEVENT
 UID:quin-event-176376@thequinhouse.com
 DTSTAMP:20261014T180000Z
 DTSTART;TZID=America/New_York:20261014T180000
@@ -622,6 +722,77 @@ DESCRIPTION:Category: The Arts\nPrice: Free / Included\nStatus: Available\n
  is first come\, first served.
 URL:https://members.thequinhouse.com/events/176376
 CATEGORIES:The Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-206906@thequinhouse.com
+DTSTAMP:20261014T180000Z
+DTSTART;TZID=America/New_York:20261014T180000
+DTEND;TZID=America/New_York:20261014T193000
+SUMMARY:Author Talk: "Starting Over with John and Yoko" with Roger Farringt
+ on and Kenneth Womack
+LOCATION:Scottie's
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 110 spots left\n
+ Status: futureSale\nEvent URL: https://members.thequinhouse.com/events/206
+ 906\n\n6:00PM Reception\, 6:30PM Discussion\n\nFresh off the book’s laun
+ ch in New York City\, join us for Boston’s exclusive first look at “St
+ arting Over with John and Yoko”\, featuring Boston-based photographer Ro
+ ger Farrington and renowned Beatles historian and author Kenneth Womack. T
+ he book transports readers back to August 7th\, 1980\, when John Lennon an
+ d Yoko Ono returned to the recording studio after a five-year absence to b
+ egin work on what would become “Double Fantasy”. Farrington\, then an 
+ up-and-coming photographer\, was given the assignment of a lifetime: captu
+ re the image that would announce Lennon’s return to music. Just four mon
+ ths later\, Lennon’s assassination would transform those photographs int
+ o a poignant record of one of music history’s final chapters.\n\nIn conv
+ ersation\, Farrington and Womack will take members inside Manhattan’s Hi
+ t Factory and behind the images from that extraordinary day\, sharing the 
+ stories and circumstances surrounding a moment few could have known would 
+ become so significant. Featuring the complete collection of Farrington’s
+  photographs from the session for the first time\, “Starting Over with J
+ ohn and Yoko” also offers a fascinating glimpse into celebrity photograp
+ hy in the pre-digital era. Drawing on Farrington’s decades photographing
+  some of the world’s most recognizable figures and Womack’s extensive 
+ scholarship on the Beatles and John Lennon\, the conversation will explore
+  photography\, music\, memory\, and the enduring cultural legacy of Lennon
+  and Ono.\n\n*This event is complimentary and reserved for members only. C
+ omplimentary light bites and refreshments will be served. We kindly ask th
+ at all cancellations be made at least 24 hours prior to the start of the e
+ vent.
+URL:https://members.thequinhouse.com/events/206906
+CATEGORIES:The Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-206909@thequinhouse.com
+DTSTAMP:20261017T080000Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261019
+SUMMARY:Ticket Lottery: Head of the Charles Regatta 
+LOCATION:Offsite: Cambridge Boat Club
+DESCRIPTION:Category: Sports & Games\nPrice: Free / Included\nStatus: Avail
+ able\nTime: 8 AM – 5 PM\nEvent URL: https://members.thequinhouse.com/eve
+ nts/206909\n\nEnter the ticket lottery for an opportunity to indulge in an
+  unforgettable weekend of luxury from the Head of the Charles. ‘Quin mem
+ bers will be hosted in an elegant two-tiered Directors’ Lounge - the fla
+ gship hospitality destination of the event. Located adjacent to Regatta He
+ adquarters at the Cambridge Boat Club\, the Directors’ Lounge offers swe
+ eping views of the Eliot Bridge the revered final bridge of the race cours
+ e.\n\nIn the Directors’ Lounge\, your day will feature a gourmet\, local
+ ly sourced breakfast and lunch\, afternoon snacks and tea\, and a complime
+ ntary bar serving beer\, wine\, spirits\, and non-alcoholic beverages. Enj
+ oy exclusive programming and premium gifting. This is your front row seat 
+ to the action\, with comfort\, hospitality\, and access unlike anything el
+ se at The Head of the Charles.\n\n*This event is reserved for members only
+ \, with tickets offered in pairs at $350 per pair ($175 per person). Ticke
+ ts include access to the Director’s Lounge\, as well as food and beverag
+ e throughout the experience. This year\, tickets will be allocated throug
+ h a lottery. Members interested in attending are invited to enter the lott
+ ery for the opportunity to purchase a pair of tickets. By entering the lot
+ tery\, members authorize The ’Quin House to charge the payment method on
+  file for $350 should they be selected. The lottery will remain open throu
+ gh Wednesday\, October 7th\, with selected members being notified on Thurs
+ day\, October 8th. \n\nEnter the Lottery for Saturday or Sunday Tickets
+URL:https://members.thequinhouse.com/events/206909
+CATEGORIES:Sports & Games
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-206205@thequinhouse.com
@@ -755,6 +926,87 @@ URL:https://members.thequinhouse.com/events/202982
 CATEGORIES:Holiday
 END:VEVENT
 BEGIN:VEVENT
+UID:quin-event-206911@thequinhouse.com
+DTSTAMP:20261024T090000Z
+DTSTART;TZID=America/New_York:20261024T090000
+DTEND;TZID=America/New_York:20261024T100000
+SUMMARY:Kid's Clubhouse: Trick-or-Treat Family Day | Session I
+LOCATION:Bondo
+DESCRIPTION:Category: Holiday\nPrice: Free\nAvailability: 45 spots left\nSt
+ atus: futureSale\nEvent URL: https://members.thequinhouse.com/events/20691
+ 1\n\nShimmy into your spookiest costumes and join us for a fun-filled day 
+ of trick-or-treating in the transformed Web of Wonders\, a family-friendly
+  affair for members! Equipped with a map\, kids will navigate the labyrint
+ h of floors collecting treats and enjoying activities throughout. They wil
+ l be allowed to unleash their creativity at craft stations in Bondo\, then
+  roam on over to The Terrace to enjoy glitter tattoos and a festive profes
+ sional photo moment. Make a day of it and reserve our regular family brunc
+ h in Café Q prior to or following the event. \n\n*Children ages 6+ are
+  welcome when accompanied by a member parent. Please secure one ticket per
+  child in your party to account for supplies\; adults do not require regis
+ tration. Families with three or more children are asked to email happening
+ @thequin.com.Each ticket grants one child full access to trick-or-treating
+ \, a tote bag keepsake for their goodies\, and includes all activities dur
+ ing the selected session. We kindly ask that all cancellations be made at 
+ least 48 hours prior to the start of the event.
+URL:https://members.thequinhouse.com/events/206911
+CATEGORIES:Holiday
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-206912@thequinhouse.com
+DTSTAMP:20261024T110000Z
+DTSTART;TZID=America/New_York:20261024T110000
+DTEND;TZID=America/New_York:20261024T120000
+SUMMARY:Kid's Clubhouse: Trick-or-Treat Family Day | Session II
+LOCATION:Bondo
+DESCRIPTION:Category: Holiday\nPrice: Free\nAvailability: 45 spots left\nSt
+ atus: futureSale\nEvent URL: https://members.thequinhouse.com/events/20691
+ 2\n\nShimmy into your spookiest costumes and join us for a fun-filled day 
+ of trick-or-treating in the transformed Web of Wonders\, a family-friendly
+  affair for members! Equipped with a map\, kids will navigate the labyrint
+ h of floors collecting treats and enjoying activities throughout. They wil
+ l be allowed to unleash their creativity at craft stations in Bondo\, then
+  roam on over to The Terrace to enjoy glitter tattoos and a festive profes
+ sional photo moment. Make a day of it and reserve our regular family brunc
+ h in Café Q prior to or following the event. \n\n*Children ages 6+ are
+  welcome when accompanied by a member parent. Please secure one ticket per
+  child in your party to account for supplies\; adults do not require regis
+ tration. Families with three or more children are asked to email happening
+ @thequin.com.Each ticket grants one child full access to trick-or-treating
+ \, a tote bag keepsake for their goodies\, and includes all activities dur
+ ing the selected session. We kindly ask that all cancellations be made at 
+ least 48 hours prior to the start of the event.
+URL:https://members.thequinhouse.com/events/206912
+CATEGORIES:Holiday
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-206913@thequinhouse.com
+DTSTAMP:20261024T133000Z
+DTSTART;TZID=America/New_York:20261024T133000
+DTEND;TZID=America/New_York:20261024T143000
+SUMMARY:Kid's Clubhouse: Trick-or-Treat Family Day | Session III
+LOCATION:Bondo
+DESCRIPTION:Category: Holiday\nPrice: Free\nAvailability: 45 spots left\nSt
+ atus: futureSale\nEvent URL: https://members.thequinhouse.com/events/20691
+ 3\n\nShimmy into your spookiest costumes and join us for a fun-filled day 
+ of trick-or-treating in the transformed Web of Wonders\, a family-friendly
+  affair for members! Equipped with a map\, kids will navigate the labyrint
+ h of floors collecting treats and enjoying activities throughout. They wil
+ l be allowed to unleash their creativity at craft stations in Bondo\, then
+  roam on over to The Terrace to enjoy glitter tattoos and a festive profes
+ sional photo moment. Make a day of it and reserve our regular family brunc
+ h in Café Q prior to or following the event. \n\n*Children ages 6+ are
+  welcome when accompanied by a member parent. Please secure one ticket per
+  child in your party to account for supplies\; adults do not require regis
+ tration. Families with three or more children are asked to email happening
+ @thequin.com.Each ticket grants one child full access to trick-or-treating
+ \, a tote bag keepsake for their goodies\, and includes all activities dur
+ ing the selected session. We kindly ask that all cancellations be made at 
+ least 48 hours prior to the start of the event.
+URL:https://members.thequinhouse.com/events/206913
+CATEGORIES:Holiday
+END:VEVENT
+BEGIN:VEVENT
 UID:quin-event-202989@thequinhouse.com
 DTSTAMP:20261024T200000Z
 DTSTART;VALUE=DATE:20261024
@@ -856,6 +1108,26 @@ URL:https://members.thequinhouse.com/events/205203
 CATEGORIES:Member Mixer,Survey - Membership Mingle
 END:VEVENT
 BEGIN:VEVENT
+UID:quin-event-206915@thequinhouse.com
+DTSTAMP:20261027T180000Z
+DTSTART;TZID=America/New_York:20261027T180000
+DTEND;TZID=America/New_York:20261027T190000
+SUMMARY:Improv Comedy | 6:00PM Show
+LOCATION:Scottie's
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 120 spots left\n
+ Status: Available\nEvent URL: https://members.thequinhouse.com/events/2069
+ 15\n\nBoston’s best return to the 'House! Improv comedians are ready to 
+ keep you laughing with spontaneous sketches\, quick wit\, and audience-ins
+ pired moments. Join us for a cocktail from the cash bar beginning at 5:30p
+ m\, then snag your seat and enjoy a show packed with energy from beginning
+  to end. Seating is first come\, first serve\n\nMake it a night with a pre
+ -show burger and a beer from the Pub. Dining walk-ins are welcome! \n\n*Th
+ is event complimentary and available for registered members and up to one 
+ registered guest.
+URL:https://members.thequinhouse.com/events/206915
+CATEGORIES:The Arts
+END:VEVENT
+BEGIN:VEVENT
 UID:quin-event-207102@thequinhouse.com
 DTSTAMP:20261027T193000Z
 DTSTART;TZID=America/New_York:20261027T193000
@@ -880,6 +1152,46 @@ URL:https://members.thequinhouse.com/events/207102
 CATEGORIES:Sports & Games
 END:VEVENT
 BEGIN:VEVENT
+UID:quin-event-206914@thequinhouse.com
+DTSTAMP:20261027T200000Z
+DTSTART;TZID=America/New_York:20261027T200000
+DTEND;TZID=America/New_York:20261027T210000
+SUMMARY:Improv Comedy | 8:00PM Show
+LOCATION:Scottie's
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 108 spots left\n
+ Status: Available\nEvent URL: https://members.thequinhouse.com/events/2069
+ 14\n\nBoston’s best return to the 'House! Improv comedians are ready to 
+ keep you laughing with spontaneous sketches\, quick wit\, and audience-ins
+ pired moments. Join us for a cocktail from the cash bar beginning at 7:30p
+ m\, then snag your seat and enjoy a show packed with energy from beginning
+  to end. Seating is first come\, first serve\n\nMake it a night with a pre
+ -show burger and a beer from the Pub. Dining walk-ins are welcome! \n\n*Th
+ is event complimentary and available for registered members and up to one 
+ registered guest.
+URL:https://members.thequinhouse.com/events/206914
+CATEGORIES:The Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-206823@thequinhouse.com
+DTSTAMP:20261028T180000Z
+DTSTART;TZID=America/New_York:20261028T180000
+DTEND;TZID=America/New_York:20261028T210000
+SUMMARY:Live Music: Carlos Odria 
+LOCATION:The Reading Room
+DESCRIPTION:Category: The Arts\nPrice: Free / Included\nStatus: Available\n
+ Event URL: https://members.thequinhouse.com/events/206823\n\nPeruvian-born
+  guitarist Carlos Odria brings his distinctive sound to The ’House for a
+ n evening of live music blending jazz with rhythms from across Latin Ameri
+ ca and beyond. Moving effortlessly between bossa nova\, Afro-Peruvian fest
+ ejo\, rumba flamenco\, and Afro-Caribbean influences\, Odria pairs remarka
+ ble technique with an improvisational style rooted in the rich tradition o
+ f American jazz.\n\n*Please note that this event is complimentary and rese
+ rved for members\, plus three guests. Seating is first come\, first served
+ .
+URL:https://members.thequinhouse.com/events/206823
+CATEGORIES:The Arts
+END:VEVENT
+BEGIN:VEVENT
 UID:quin-event-207105@thequinhouse.com
 DTSTAMP:20261030T193000Z
 DTSTART;TZID=America/New_York:20261030T193000
@@ -902,6 +1214,35 @@ DESCRIPTION:Category: Sports & Games\nPrice: $475.00 per person\nAvailabili
  hose ages 16+ as a courtesy to fellow members.
 URL:https://members.thequinhouse.com/events/207105
 CATEGORIES:Sports & Games
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-206204@thequinhouse.com
+DTSTAMP:20261031T120000Z
+DTSTART;TZID=America/New_York:20261031T120000
+DTEND;TZID=America/New_York:20261031T140000
+SUMMARY:Serendipity Brunch: All Hallows’ Eve Affair
+LOCATION:Lunasol
+DESCRIPTION:Category: Member Mixer\nPrice: $65.00 per person\nAvailability:
+  18 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
+ .com/events/206204\n\nJoin us for a spirited edition of Serendipity Brunch
+ \, hosted by The ’Quin’s Membership Team. This Halloween\, members are
+  invited to gather in Lunasol for meaningful conversation\, great company\
+ , and a little festive fun. Come as you are—or embrace the occasion and 
+ arrive in costume—as you connect with fellow members over a curated card
+  deck of conversation prompts to inspire connections.\n\nBrunch will showc
+ ase a seasonal selection of chef-crafted entrées\, such as classic Eggs B
+ enedict or a light egg white frittata\, served alongside family-style favo
+ rites and complemented by classic brunch cocktails\, including mimosas and
+ \, of course\, Bloody Marys.\n\nSettle in for an unhurried afternoon at Th
+ e ’House filled with good food\, new connections\, and just the right am
+ ount of Halloween mischief. Costumes are encouraged\, conversation comes n
+ aturally\, and a little serendipity is always on the menu.\n\n*Tickets are
+  $65 per person\, plus tax\, and are reserved for members only. Cancellati
+ ons within 72 hours of the event\, or failure to attend\, will be charged 
+ in full. Please inform us of any dietary needs or restrictions by emailing
+  happening@thequin.com at least 72 hours prior to the event.
+URL:https://members.thequinhouse.com/events/206204
+CATEGORIES:Member Mixer
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-195306@thequinhouse.com
