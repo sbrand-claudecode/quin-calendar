@@ -24,44 +24,6 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:quin-event-205637@thequinhouse.com
-DTSTAMP:20261006T120000Z
-DTSTART;TZID=America/New_York:20261006T120000
-DTEND;TZID=America/New_York:20261006T133000
-SUMMARY:90 Minutes of Innovation: The Future of Medicine
-LOCATION:The Pub
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nStatus: You are on Waitlis
- t\nEvent URL: https://members.thequinhouse.com/events/205637\n\n12:00PM  
- - 1:30PM Program\nWhat will it take to accelerate the next generation of m
- edical breakthroughs—and rethink how discoveries make their way from the
-  lab to the people who need them? In the latest edition of 90 Minutes of I
- nnovation\, John Werner\, venture capitalist\, MIT lecturer\, and Forbes A
- I columnist\, and Alexander Wissner-Gross\, research scientist and entrepr
- eneur\, sit down with Peter Kolchinsky\, PhD\, Founder and Managing Partne
- r of RA Capital Management and author of The Great American Drug Deal\, fo
- r a conversation at the intersection of science\, technology\, investment\
- , and healthcare.\n\nWith a PhD in Virology from Harvard University\, Kolc
- hinsky has spent decades investing in companies developing drugs\, medical
-  devices\, diagnostics\, and research tools\, while advocating for approac
- hes that make medicines more affordable without sacrificing the innovation
-  behind tomorrow’s breakthroughs. Through his work with RA Capital and N
- o Patient Left Behind\, he has become a leading voice in conversations sur
- rounding biotechnology\, drug development\, affordability\, and the incent
- ives that shape the future of medicine.\n\nTogether\, Werner\, Wissner-Gro
- ss\, and Kolchinsky will explore how artificial intelligence and emerging 
- technologies could accelerate scientific discovery\, reshape the developme
- nt of new treatments\, and transform the broader healthcare landscape. Fro
- m getting promising discoveries to patients faster to balancing affordabil
- ity with continued investment in innovation\, expect a wide-ranging conver
- sation about what’s possible when science\, technology\, and new ways of
-  thinking converge.\n\n*This event is complimentary and reserved for membe
- rs only. Complimentary light bites and refreshments will be served. We kin
- dly ask that all cancellations be made at least 24 hours prior to the star
- t of the event.
-URL:https://members.thequinhouse.com/events/205637
-CATEGORIES:‘Quin Chat
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-205639@thequinhouse.com
 DTSTAMP:20261007T180000Z
 DTSTART;TZID=America/New_York:20261007T180000
@@ -87,6 +49,39 @@ DESCRIPTION:Category: The Arts\nPrice: Free\nStatus: You are on Waitlist\nE
  the start of the event.
 URL:https://members.thequinhouse.com/events/205639
 CATEGORIES:The Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-205640@thequinhouse.com
+DTSTAMP:20261008T170000Z
+DTSTART;TZID=America/New_York:20261008T170000
+DTEND;TZID=America/New_York:20261008T183000
+SUMMARY:'Quin Chat: Front Row to Boston Sports
+LOCATION:The Pub
+DESCRIPTION:Category: Sports & Games\nPrice: Free\nAvailability: 45 spots l
+ eft\nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.co
+ m/events/205640\n\n5:00PM Reception 5:30PM Discussion\n\nCalling all Bosto
+ n sports fans! Join us for an evening of legendary stories\, unforgettable
+  moments\, and plenty of perspective from the people who had a front-row s
+ eat to it all. Taking their growing local sports podcast\, The Front Row t
+ o Boston Sports\, to the stage at The ’Quin\, Bob Lobel\, former sportsc
+ aster for WBZ-TV\, Bob Ryan\, sportswriter formerly with The Boston Globe\
+ , and Mike Lynch\, WCVB sports anchor\, come together to look back on the 
+ teams\, personalities\, triumphs\, and heartbreaks that have defined gener
+ ations of Boston sports.\n\nCollectively\, the panel has spent decades cov
+ ering the Celtics\, Patriots\, Red Sox\, and Bruins from press boxes\, sid
+ elines\, studios\, locker rooms\, and championship celebrations. From Larr
+ y Bird’s Celtics and unforgettable seasons at Fenway to the rise of the 
+ Patriots and countless moments on the ice at the Garden\, they will share 
+ the stories behind the headlines—and perhaps a few that never made it in
+ to print or onto the air.\n\nExpect an evening filled with candid memories
+ \, lively debate\, and the unmistakable passion that comes with talking sp
+ orts in Boston. Whether you have followed these teams for decades or simpl
+ y love a great sports story\, consider this your seat in the front row.\n\
+ n*This event is complimentary and reserved for members only. Complimentary
+  light bites and beverages will be served. We kindly ask that all cancella
+ tions be made at least 24 hours prior to the start of the event.
+URL:https://members.thequinhouse.com/events/205640
+CATEGORIES:Sports & Games
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-202989@thequinhouse.com

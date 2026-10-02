@@ -131,7 +131,7 @@ DTEND;TZID=America/New_York:20261005T210000
 SUMMARY:Serendipity Dinner 
 LOCATION:The Muse
 DESCRIPTION:Category: Member Mixer\nPrice: $100.00 per person\nAvailability
- : 6 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
+ : 3 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
  .com/events/176002\n\nJoin The ‘Quin House Managing Director\, Matthias 
  Kiehm\, for an evening of meaningful connections over a thoughtfully curat
  ed three-course dinner. Enjoy expertly paired wines as you engage with fel
@@ -186,34 +186,34 @@ DTSTART;TZID=America/New_York:20261006T120000
 DTEND;TZID=America/New_York:20261006T133000
 SUMMARY:90 Minutes of Innovation: The Future of Medicine
 LOCATION:The Pub
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nStatus: You are on Waitlis
- t\nEvent URL: https://members.thequinhouse.com/events/205637\n\n12:00PM  
- - 1:30PM Program\nWhat will it take to accelerate the next generation of m
- edical breakthroughs—and rethink how discoveries make their way from the
-  lab to the people who need them? In the latest edition of 90 Minutes of I
- nnovation\, John Werner\, venture capitalist\, MIT lecturer\, and Forbes A
- I columnist\, and Alexander Wissner-Gross\, research scientist and entrepr
- eneur\, sit down with Peter Kolchinsky\, PhD\, Founder and Managing Partne
- r of RA Capital Management and author of The Great American Drug Deal\, fo
- r a conversation at the intersection of science\, technology\, investment\
- , and healthcare.\n\nWith a PhD in Virology from Harvard University\, Kolc
- hinsky has spent decades investing in companies developing drugs\, medical
-  devices\, diagnostics\, and research tools\, while advocating for approac
- hes that make medicines more affordable without sacrificing the innovation
-  behind tomorrow’s breakthroughs. Through his work with RA Capital and N
- o Patient Left Behind\, he has become a leading voice in conversations sur
- rounding biotechnology\, drug development\, affordability\, and the incent
- ives that shape the future of medicine.\n\nTogether\, Werner\, Wissner-Gro
- ss\, and Kolchinsky will explore how artificial intelligence and emerging 
- technologies could accelerate scientific discovery\, reshape the developme
- nt of new treatments\, and transform the broader healthcare landscape. Fro
- m getting promising discoveries to patients faster to balancing affordabil
- ity with continued investment in innovation\, expect a wide-ranging conver
- sation about what’s possible when science\, technology\, and new ways of
-  thinking converge.\n\n*This event is complimentary and reserved for membe
- rs only. Complimentary light bites and refreshments will be served. We kin
- dly ask that all cancellations be made at least 24 hours prior to the star
- t of the event.
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nStatus: Waitlist Only\nEve
+ nt URL: https://members.thequinhouse.com/events/205637\n\n12:00PM  - 1:30
+ PM Program\nWhat will it take to accelerate the next generation of medical
+  breakthroughs—and rethink how discoveries make their way from the lab t
+ o the people who need them? In the latest edition of 90 Minutes of Innovat
+ ion\, John Werner\, venture capitalist\, MIT lecturer\, and Forbes AI colu
+ mnist\, and Alexander Wissner-Gross\, research scientist and entrepreneur\
+ , sit down with Peter Kolchinsky\, PhD\, Founder and Managing Partner of R
+ A Capital Management and author of The Great American Drug Deal\, for a co
+ nversation at the intersection of science\, technology\, investment\, and 
+ healthcare.\n\nWith a PhD in Virology from Harvard University\, Kolchinsky
+  has spent decades investing in companies developing drugs\, medical devic
+ es\, diagnostics\, and research tools\, while advocating for approaches th
+ at make medicines more affordable without sacrificing the innovation behin
+ d tomorrow’s breakthroughs. Through his work with RA Capital and No Pati
+ ent Left Behind\, he has become a leading voice in conversations surroundi
+ ng biotechnology\, drug development\, affordability\, and the incentives t
+ hat shape the future of medicine.\n\nTogether\, Werner\, Wissner-Gross\, a
+ nd Kolchinsky will explore how artificial intelligence and emerging techno
+ logies could accelerate scientific discovery\, reshape the development of 
+ new treatments\, and transform the broader healthcare landscape. From gett
+ ing promising discoveries to patients faster to balancing affordability wi
+ th continued investment in innovation\, expect a wide-ranging conversation
+  about what’s possible when science\, technology\, and new ways of think
+ ing converge.\n\n*This event is complimentary and reserved for members onl
+ y. Complimentary light bites and refreshments will be served. We kindly as
+ k that all cancellations be made at least 24 hours prior to the start of t
+ he event.
 URL:https://members.thequinhouse.com/events/205637
 CATEGORIES:‘Quin Chat
 END:VEVENT
@@ -224,7 +224,7 @@ DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
 SUMMARY:TEDxBoston: Unlocking Longevity at WHOOP
 LOCATION:Offsite - WHOOP Headquarters
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 25 spots lef
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 20 spots lef
  t\nStatus: Available\nTime: 2 PM – 6 PM\nEvent URL: https://members.theq
  uinhouse.com/events/207308\n\nWhat does it mean to live not only longer\, 
  but better? Join us at WHOOP Headquarters in Kenmore Square where a select
@@ -261,7 +261,7 @@ DTEND;TZID=America/New_York:20261006T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 16 spots left\nStatus: Available\nEvent URL: https://memb
+ e\nAvailability: 15 spots left\nStatus: Available\nEvent URL: https://memb
  ers.thequinhouse.com/events/205198\n\nJoin us for our weekly Member Mingle
  \, an inclusive gathering set in an ambiant reserved space. This is your o
  pportunity to connect with fellow members\, exchange ideas\, and cultivate
@@ -316,7 +316,7 @@ DTSTART;TZID=America/New_York:20261007T170000
 DTEND;TZID=America/New_York:20261007T183000
 SUMMARY:'Quin Chat: The Communities Changing Healthcare
 LOCATION:The Muse
-DESCRIPTION:Category: Health & Wellness\nPrice: Free\nAvailability: 31 spot
+DESCRIPTION:Category: Health & Wellness\nPrice: Free\nAvailability: 30 spot
  s left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/eve
  nts/206195\n\n5:00PM Reception\, 5:30PM Discussion\n\nWhat if some of the 
  most consequential ideas in American healthcare are not coming out of rese
@@ -375,29 +375,29 @@ DTSTART;TZID=America/New_York:20261008T170000
 DTEND;TZID=America/New_York:20261008T183000
 SUMMARY:'Quin Chat: Front Row to Boston Sports
 LOCATION:The Pub
-DESCRIPTION:Category: Sports & Games\nPrice: Free\nAvailability: 48 spots l
- eft\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events
- /205640\n\n5:00PM Reception 5:30PM Discussion\n\nCalling all Boston sports
-  fans! Join us for an evening of legendary stories\, unforgettable moments
- \, and plenty of perspective from the people who had a front-row seat to i
- t all. Taking their growing local sports podcast\, The Front Row to Boston
-  Sports\, to the stage at The ’Quin\, Bob Lobel\, former sportscaster fo
- r WBZ-TV\, Bob Ryan\, sportswriter formerly with The Boston Globe\, and Mi
- ke Lynch\, WCVB sports anchor\, come together to look back on the teams\, 
- personalities\, triumphs\, and heartbreaks that have defined generations o
- f Boston sports.\n\nCollectively\, the panel has spent decades covering th
- e Celtics\, Patriots\, Red Sox\, and Bruins from press boxes\, sidelines\,
-  studios\, locker rooms\, and championship celebrations. From Larry Bird�
- �s Celtics and unforgettable seasons at Fenway to the rise of the Patriots
-  and countless moments on the ice at the Garden\, they will share the stor
- ies behind the headlines—and perhaps a few that never made it into print
-  or onto the air.\n\nExpect an evening filled with candid memories\, livel
- y debate\, and the unmistakable passion that comes with talking sports in 
- Boston. Whether you have followed these teams for decades or simply love a
-  great sports story\, consider this your seat in the front row.\n\n*This e
- vent is complimentary and reserved for members only. Complimentary light b
- ites and beverages will be served. We kindly ask that all cancellations be
-  made at least 24 hours prior to the start of the event.
+DESCRIPTION:Category: Sports & Games\nPrice: Free\nAvailability: 45 spots l
+ eft\nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.co
+ m/events/205640\n\n5:00PM Reception 5:30PM Discussion\n\nCalling all Bosto
+ n sports fans! Join us for an evening of legendary stories\, unforgettable
+  moments\, and plenty of perspective from the people who had a front-row s
+ eat to it all. Taking their growing local sports podcast\, The Front Row t
+ o Boston Sports\, to the stage at The ’Quin\, Bob Lobel\, former sportsc
+ aster for WBZ-TV\, Bob Ryan\, sportswriter formerly with The Boston Globe\
+ , and Mike Lynch\, WCVB sports anchor\, come together to look back on the 
+ teams\, personalities\, triumphs\, and heartbreaks that have defined gener
+ ations of Boston sports.\n\nCollectively\, the panel has spent decades cov
+ ering the Celtics\, Patriots\, Red Sox\, and Bruins from press boxes\, sid
+ elines\, studios\, locker rooms\, and championship celebrations. From Larr
+ y Bird’s Celtics and unforgettable seasons at Fenway to the rise of the 
+ Patriots and countless moments on the ice at the Garden\, they will share 
+ the stories behind the headlines—and perhaps a few that never made it in
+ to print or onto the air.\n\nExpect an evening filled with candid memories
+ \, lively debate\, and the unmistakable passion that comes with talking sp
+ orts in Boston. Whether you have followed these teams for decades or simpl
+ y love a great sports story\, consider this your seat in the front row.\n\
+ n*This event is complimentary and reserved for members only. Complimentary
+  light bites and beverages will be served. We kindly ask that all cancella
+ tions be made at least 24 hours prior to the start of the event.
 URL:https://members.thequinhouse.com/events/205640
 CATEGORIES:Sports & Games
 END:VEVENT
@@ -426,7 +426,7 @@ DTSTART;TZID=America/New_York:20261009T160000
 DTEND;TZID=America/New_York:20261009T180000
 SUMMARY:Member Meet Up: Night Shift Brewery 
 LOCATION:Offsite: Night Shift Brewery Esplanade
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 59 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 51 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/2
  07462\n\nJoin fellow members for an early autumn evening at Night Shift B
  rewery on the Esplanade\, a lively outdoor beer garden set along the Charl
@@ -450,7 +450,7 @@ DTSTART;TZID=America/New_York:20261009T183000
 DTEND;TZID=America/New_York:20261009T200000
 SUMMARY:'Quin Chat: CTE's Lasting Impact on the NFL 
 LOCATION:The Muse
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 39 spots lef
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 16 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/2
  06163\n\n6:30PM Reception\, 7:00PM Discussion\n\nWhat does the latest scie
  nce reveal about the lasting impact of contact sports on the brain - and h
@@ -513,7 +513,7 @@ DTSTART;TZID=America/New_York:20261010T140000
 DTEND;TZID=America/New_York:20261010T170000
 SUMMARY:The Social Set: Padel & Pickleball 
 LOCATION:Offsite: 25 Pier 4 Blvd.\, Boston
-DESCRIPTION:Category: Sports & Games\nPrice: Free\nAvailability: 60 spots l
+DESCRIPTION:Category: Sports & Games\nPrice: Free\nAvailability: 37 spots l
  eft\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events
  /206904\n\n2:00PM Pro-Led Instruction\, 2:30PM Open Play\, 4:00PM - Recove
  ry and Member Mingling\n\nJoin us for an offsite afternoon of play as The 
@@ -543,19 +543,19 @@ DTSTART;TZID=America/New_York:20261010T200000
 DTEND;TZID=America/New_York:20261010T223000
 SUMMARY:'Quin Suite: Celtics vs. 76ers 
 LOCATION:Offsite - TD Garden
-DESCRIPTION:Category: Sports & Games\nPrice: $349.00 per person\nStatus: so
- ldOut\nEvent URL: https://members.thequinhouse.com/events/205641\n\nGet an
-  early look at the season ahead from The ’Quin Suite (#524) at TD Garden
-  as the Celtics take on the Philadelphia 76ers in preseason action.\n\nAll
-  suite ticket options include incredible views of the on-court action and 
- light gameday bites and an assortment of refreshments including wine\, bee
- r and seltzer. Are you game?\n\n*A pair of 'Quin suite seats is available 
- for $738 total ($369 per ticket). Individual suite tickets are available f
- or bar stool / standing access only\, offered at a reduced price of $349 p
- er ticket. Suite tickets are non-refundable and are non-transferable. Memb
- ers may purchase tickets for up to 3 guests and are required to accompany 
- them at all times. The suite is limited to those ages 16+ as a courtesy to
-  fellow members.
+DESCRIPTION:Category: Sports & Games\nPrice: $349.00 per person\nStatus: Av
+ ailable\nEvent URL: https://members.thequinhouse.com/events/205641\n\nGet 
+ an early look at the season ahead from The ’Quin Suite (#524) at TD Gard
+ en as the Celtics take on the Philadelphia 76ers in preseason action.\n\nA
+ ll suite ticket options include incredible views of the on-court action an
+ d light gameday bites and an assortment of refreshments including wine\, b
+ eer and seltzer. Are you game?\n\n*A pair of 'Quin suite seats is availabl
+ e for $738 total ($369 per ticket). Individual suite tickets are available
+  for bar stool / standing access only\, offered at a reduced price of $349
+  per ticket. Suite tickets are non-refundable and are non-transferable. Me
+ mbers may purchase tickets for up to 3 guests and are required to accompan
+ y them at all times. The suite is limited to those ages 16+ as a courtesy 
+ to fellow members.
 URL:https://members.thequinhouse.com/events/205641
 CATEGORIES:Sports & Games
 END:VEVENT
@@ -566,18 +566,18 @@ DTSTART;TZID=America/New_York:20261012T180000
 DTEND;TZID=America/New_York:20261012T210000
 SUMMARY:Community Table
 LOCATION:Café Q
-DESCRIPTION:Category: Food & Beverage\nPrice: Free\nAvailability: 1 spot le
- ft\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/
- 205200\n\nEase into the week around the table with the return of Café Q�
- �s Community Table. Designed for members looking to meet new faces and mak
- e new connections\, the evening brings together good food and engaging con
- versation in a relaxed\, convivial setting. Take a seat\, share a meal\, a
- nd see where the conversation leads.\n\n*This event is reserved for member
- s only. An advance charge of $24 per member contributes to communal appeti
- zers available upon seating. Members are responsible for à la carte entr�
- �es\, desserts\, and beverages\, plus taxes and fees. Cancellations made w
- ithin 24 hours of the event\, or failure to attend will be subject to the 
- Café Q's surcharge policy.
+DESCRIPTION:Category: Food & Beverage\nPrice: Free\nStatus: Waitlist Only\n
+ Event URL: https://members.thequinhouse.com/events/205200\n\nEase into the
+  week around the table with the return of Café Q’s Community Table. Des
+ igned for members looking to meet new faces and make new connections\, the
+  evening brings together good food and engaging conversation in a relaxed\
+ , convivial setting. Take a seat\, share a meal\, and see where the conver
+ sation leads.\n\n*This event is reserved for members only. An advance char
+ ge of $24 per member contributes to communal appetizers available upon sea
+ ting. Members are responsible for à la carte entrées\, desserts\, and be
+ verages\, plus taxes and fees. Cancellations made within 24 hours of the e
+ vent\, or failure to attend will be subject to the Café Q's surcharge pol
+ icy.
 URL:https://members.thequinhouse.com/events/205200
 CATEGORIES:Food & Beverage
 END:VEVENT
@@ -611,7 +611,7 @@ DTSTART;TZID=America/New_York:20261013T190000
 DTEND;TZID=America/New_York:20261013T200000
 SUMMARY:Author's Circle Book Club: "Safekeeping" by Claudia Hinz
 LOCATION:The Muse
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 8 spots left\nSt
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 6 spots left\nSt
  atus: Available\nEvent URL: https://members.thequinhouse.com/events/203629
  \n\nThis October\, settle into the season with Safekeeping by Claudia Hinz
  \, a sweeping and deeply moving novel about family\, memory\, and the secr
@@ -1091,7 +1091,7 @@ DTEND;TZID=America/New_York:20261027T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 36 spots left\nStatus: Available\nEvent URL: https://memb
+ e\nAvailability: 35 spots left\nStatus: Available\nEvent URL: https://memb
  ers.thequinhouse.com/events/205203\n\nEase into the week in good company a
  t our weekly Member Mingle\, a relaxed gathering in The Living Room design
  ed to bring members together. Settle in\, enjoy a selection of charcuterie
@@ -1114,7 +1114,7 @@ DTSTART;TZID=America/New_York:20261027T180000
 DTEND;TZID=America/New_York:20261027T190000
 SUMMARY:Improv Comedy | 6:00PM Show
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 120 spots left\n
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 112 spots left\n
  Status: Available\nEvent URL: https://members.thequinhouse.com/events/2069
  15\n\nBoston’s best return to the 'House! Improv comedians are ready to 
  keep you laughing with spontaneous sketches\, quick wit\, and audience-ins
@@ -1158,7 +1158,7 @@ DTSTART;TZID=America/New_York:20261027T200000
 DTEND;TZID=America/New_York:20261027T210000
 SUMMARY:Improv Comedy | 8:00PM Show
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 108 spots left\n
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 100 spots left\n
  Status: Available\nEvent URL: https://members.thequinhouse.com/events/2069
  14\n\nBoston’s best return to the 'House! Improv comedians are ready to 
  keep you laughing with spontaneous sketches\, quick wit\, and audience-ins
