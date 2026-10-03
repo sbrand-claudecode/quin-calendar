@@ -69,39 +69,6 @@ URL:https://members.thequinhouse.com/events/205635
 CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
-UID:quin-event-203637@thequinhouse.com
-DTSTAMP:20261002T173000Z
-DTSTART;TZID=America/New_York:20261002T173000
-DTEND;TZID=America/New_York:20261002T190000
-SUMMARY:The Root of Wellbeing with Wildsmith Skin 
-LOCATION:The Terrace
-DESCRIPTION:Category: Health & Wellness\nPrice: Free\nStatus: Waitlist Only
- \nEvent URL: https://members.thequinhouse.com/events/203637\n\n5:30PM Rece
- ption\, 6:00PM Discussion\n\nDiscover the root of wellbeing with Wildsmith
-  Skin and an intimate\, immersive evening exploring the powerful role bota
- nicals can play in how we sleep\, restore\, and feel each day. Led by Hale
- y Carr\, Vice President of Operations & Training at Wildsmith Skin\, the c
- onversation will explore the foundations of wellbeing and the importance o
- f our circadian rhythm in supporting sleep quality\, gut and skin health\,
-  relaxation\, and mental focus.\n\nWith more than 20 years of experience a
- cross the luxury spa\, wellness\, and hospitality industries\, Haley bring
- s together expertise in aromatherapy\, skin health\, therapeutic touch\, a
- nd holistic wellbeing. Throughout the evening\, members will discover the 
- science and traditions behind Wildsmith’s botanical ingredients while ex
- periencing a selection of the brand’s products firsthand through their t
- extures\, scents\, and formulations.\n\nThe experience extends beyond the 
- conversation to dedicated one on one time with Haley\, offering each membe
- r personalized wellbeing guidance tailored to their lifestyle\, daily rout
- ine\, and individual needs. Leave with a deeper understanding of your own 
- wellness rituals—and simple\, achievable ways to incorporate botanicals 
- and thoughtful practices into everyday life.\n\n*This event is complimenta
- ry and reserved for members only. Complimentary light bites and refreshmen
- ts will be served. We kindly ask that all cancellations be made at least 2
- 4 hours prior to the start of the event.
-URL:https://members.thequinhouse.com/events/203637
-CATEGORIES:Health & Wellness
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-203626@thequinhouse.com
 DTSTAMP:20261005T110000Z
 DTSTART;TZID=America/New_York:20261005T110000
@@ -131,17 +98,17 @@ DTEND;TZID=America/New_York:20261005T210000
 SUMMARY:Serendipity Dinner 
 LOCATION:The Muse
 DESCRIPTION:Category: Member Mixer\nPrice: $100.00 per person\nAvailability
- : 3 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
- .com/events/176002\n\nJoin The ‘Quin House Managing Director\, Matthias 
- Kiehm\, for an evening of meaningful connections over a thoughtfully curat
- ed three-course dinner. Enjoy expertly paired wines as you engage with fel
- low members\, guided by conversation prompts designed to inspire deeper\, 
- more memorable exchanges. This unique experience offers the perfect blend 
- of great company\, engaging dialogue\, and a menu crafted to delight the s
- enses.\n\n*Tickets are $100 per person and are reserved for members only. 
- Cancellations within 72 hours of the event\, or failure to attend\, will b
- e charged in full. Please inform us of any dietary needs or restrictions b
- y emailing happening@thequin.com at least 72 hours before dinner service.
+ : 1 spot left\nStatus: Available\nEvent URL: https://members.thequinhouse.
+ com/events/176002\n\nJoin The ‘Quin House Managing Director\, Matthias K
+ iehm\, for an evening of meaningful connections over a thoughtfully curate
+ d three-course dinner. Enjoy expertly paired wines as you engage with fell
+ ow members\, guided by conversation prompts designed to inspire deeper\, m
+ ore memorable exchanges. This unique experience offers the perfect blend o
+ f great company\, engaging dialogue\, and a menu crafted to delight the se
+ nses.\n\n*Tickets are $100 per person and are reserved for members only. C
+ ancellations within 72 hours of the event\, or failure to attend\, will be
+  charged in full. Please inform us of any dietary needs or restrictions by
+  emailing happening@thequin.com at least 72 hours before dinner service.
 URL:https://members.thequinhouse.com/events/176002
 CATEGORIES:Member Mixer
 END:VEVENT
@@ -224,7 +191,7 @@ DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
 SUMMARY:TEDxBoston: Unlocking Longevity at WHOOP
 LOCATION:Offsite - WHOOP Headquarters
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 20 spots lef
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 15 spots lef
  t\nStatus: Available\nTime: 2 PM – 6 PM\nEvent URL: https://members.theq
  uinhouse.com/events/207308\n\nWhat does it mean to live not only longer\, 
  but better? Join us at WHOOP Headquarters in Kenmore Square where a select
@@ -261,7 +228,7 @@ DTEND;TZID=America/New_York:20261006T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 15 spots left\nStatus: Available\nEvent URL: https://memb
+ e\nAvailability: 14 spots left\nStatus: Available\nEvent URL: https://memb
  ers.thequinhouse.com/events/205198\n\nJoin us for our weekly Member Mingle
  \, an inclusive gathering set in an ambiant reserved space. This is your o
  pportunity to connect with fellow members\, exchange ideas\, and cultivate
@@ -316,7 +283,7 @@ DTSTART;TZID=America/New_York:20261007T170000
 DTEND;TZID=America/New_York:20261007T183000
 SUMMARY:'Quin Chat: The Communities Changing Healthcare
 LOCATION:The Muse
-DESCRIPTION:Category: Health & Wellness\nPrice: Free\nAvailability: 30 spot
+DESCRIPTION:Category: Health & Wellness\nPrice: Free\nAvailability: 29 spot
  s left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/eve
  nts/206195\n\n5:00PM Reception\, 5:30PM Discussion\n\nWhat if some of the 
  most consequential ideas in American healthcare are not coming out of rese
@@ -426,7 +393,7 @@ DTSTART;TZID=America/New_York:20261009T160000
 DTEND;TZID=America/New_York:20261009T180000
 SUMMARY:Member Meet Up: Night Shift Brewery 
 LOCATION:Offsite: Night Shift Brewery Esplanade
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 51 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 49 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/2
  07462\n\nJoin fellow members for an early autumn evening at Night Shift B
  rewery on the Esplanade\, a lively outdoor beer garden set along the Charl
@@ -450,7 +417,7 @@ DTSTART;TZID=America/New_York:20261009T183000
 DTEND;TZID=America/New_York:20261009T200000
 SUMMARY:'Quin Chat: CTE's Lasting Impact on the NFL 
 LOCATION:The Muse
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 16 spots lef
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 14 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/2
  06163\n\n6:30PM Reception\, 7:00PM Discussion\n\nWhat does the latest scie
  nce reveal about the lasting impact of contact sports on the brain - and h
@@ -513,7 +480,7 @@ DTSTART;TZID=America/New_York:20261010T140000
 DTEND;TZID=America/New_York:20261010T170000
 SUMMARY:The Social Set: Padel & Pickleball 
 LOCATION:Offsite: 25 Pier 4 Blvd.\, Boston
-DESCRIPTION:Category: Sports & Games\nPrice: Free\nAvailability: 37 spots l
+DESCRIPTION:Category: Sports & Games\nPrice: Free\nAvailability: 27 spots l
  eft\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events
  /206904\n\n2:00PM Pro-Led Instruction\, 2:30PM Open Play\, 4:00PM - Recove
  ry and Member Mingling\n\nJoin us for an offsite afternoon of play as The 
@@ -589,7 +556,7 @@ DTEND;TZID=America/New_York:20261013T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 22 spots left\nStatus: Available\nEvent URL: https://memb
+ e\nAvailability: 21 spots left\nStatus: Available\nEvent URL: https://memb
  ers.thequinhouse.com/events/205199\n\nJoin us for our weekly Member Mingle
  \, an inclusive gathering set in an ambiant reserved space. This is your o
  pportunity to connect with fellow members\, exchange ideas\, and cultivate
@@ -831,7 +798,7 @@ DTEND;TZID=America/New_York:20261020T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 29 spots left\nStatus: Available\nEvent URL: https://memb
+ e\nAvailability: 28 spots left\nStatus: Available\nEvent URL: https://memb
  ers.thequinhouse.com/events/205202\n\nJoin us for our weekly Member Mingle
  \, an inclusive gathering set in an ambiant reserved space. This is your o
  pportunity to connect with fellow members\, exchange ideas\, and cultivate
@@ -1068,7 +1035,7 @@ DTSTART;TZID=America/New_York:20261026T180000
 DTEND;TZID=America/New_York:20261026T210000
 SUMMARY:Community Table
 LOCATION:Café Q
-DESCRIPTION:Category: Food & Beverage\nPrice: Free\nAvailability: 11 spots 
+DESCRIPTION:Category: Food & Beverage\nPrice: Free\nAvailability: 10 spots 
  left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/event
  s/205201\n\nStart your week in good company with the Café Q Community din
  ner table for members-only. Set aside for those looking to expand their so
@@ -1091,7 +1058,7 @@ DTEND;TZID=America/New_York:20261027T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 35 spots left\nStatus: Available\nEvent URL: https://memb
+ e\nAvailability: 34 spots left\nStatus: Available\nEvent URL: https://memb
  ers.thequinhouse.com/events/205203\n\nEase into the week in good company a
  t our weekly Member Mingle\, a relaxed gathering in The Living Room design
  ed to bring members together. Settle in\, enjoy a selection of charcuterie
@@ -1114,7 +1081,7 @@ DTSTART;TZID=America/New_York:20261027T180000
 DTEND;TZID=America/New_York:20261027T190000
 SUMMARY:Improv Comedy | 6:00PM Show
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 112 spots left\n
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 110 spots left\n
  Status: Available\nEvent URL: https://members.thequinhouse.com/events/2069
  15\n\nBoston’s best return to the 'House! Improv comedians are ready to 
  keep you laughing with spontaneous sketches\, quick wit\, and audience-ins
