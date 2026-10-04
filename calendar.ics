@@ -24,30 +24,6 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:quin-event-205636@thequinhouse.com
-DTSTAMP:20261001T190000Z
-DTSTART;VALUE=DATE:20261001
-DTEND;VALUE=DATE:20261004
-SUMMARY:Dessert Trolley 
-LOCATION:The Reading Room
-DESCRIPTION:Category: Food & Beverage\nPrice: Free / Included\nStatus: Avai
- lable\nTime: 7 PM – 10 PM\nEvent URL: https://members.thequinhouse.com/e
- vents/205636\n\nEnd the evening with a nightcap in The Reading Room\, wher
- e The ’Quin’s pastry team presents a beautifully curated dessert troll
- ey in celebration of Hispanic Heritage Month—an elegant showcase of belo
- ved sweets and flavors inspired by traditions from across Latin America.\n
- \nDiscover an assortment of indulgent treats\, from silky flan and delicat
- e alfajores to buttery Mexican wedding cookies\, alongside a rotating sele
- ction of confections thoughtfully crafted for the occasion. Familiar flavo
- rs and time-honored favorites come together with The ’Quin’s signature
-  touch\, offering something tempting with every pass of the cart.\n\nWith 
- tableside service and a touch of ceremony\, it’s a sweet celebration of 
- heritage\, tradition\, and the simple pleasure of ending the evening with 
- dessert.
-URL:https://members.thequinhouse.com/events/205636
-CATEGORIES:Food & Beverage
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-205635@thequinhouse.com
 DTSTAMP:20261002T170000Z
 DTSTART;VALUE=DATE:20261002
@@ -119,7 +95,7 @@ DTSTART;TZID=America/New_York:20261005T183000
 DTEND;TZID=America/New_York:20261005T200000
 SUMMARY:'Quin Chat: Latinas Leading Business
 LOCATION:Scotties
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 85 spots lef
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 84 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/2
  03636\n\n6:30PM Reception\, 7:00PM Discussion\n\nIn celebration of Hispan
  ic Heritage Month\, join us for a ’Quin Chat that shines a light on the 
@@ -191,7 +167,7 @@ DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
 SUMMARY:TEDxBoston: Unlocking Longevity at WHOOP
 LOCATION:Offsite - WHOOP Headquarters
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 11 spots lef
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 13 spots lef
  t\nStatus: Available\nTime: 2 PM – 6 PM\nEvent URL: https://members.theq
  uinhouse.com/events/207308\n\nWhat does it mean to live not only longer\, 
  but better? Join us at WHOOP Headquarters in Kenmore Square where a select
@@ -228,7 +204,7 @@ DTEND;TZID=America/New_York:20261006T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 14 spots left\nStatus: Available\nEvent URL: https://memb
+ e\nAvailability: 13 spots left\nStatus: Available\nEvent URL: https://memb
  ers.thequinhouse.com/events/205198\n\nJoin us for our weekly Member Mingle
  \, an inclusive gathering set in an ambiant reserved space. This is your o
  pportunity to connect with fellow members\, exchange ideas\, and cultivate
@@ -250,29 +226,29 @@ DTSTART;TZID=America/New_York:20261006T173000
 DTEND;TZID=America/New_York:20261006T190000
 SUMMARY:'Quin Chat: Decoding Gut Health
 LOCATION:Scottie's
-DESCRIPTION:Category: Health & Wellness\nPrice: Free\nStatus: Waitlist Only
- \nEvent URL: https://members.thequinhouse.com/events/205638\n\n5:30PM Rece
- ption\, 6:00PM Discussion \nIn an oversaturated health and wellness lands
- cape shaped by trends\, social media\, and an ever-growing marketplace\, h
- ow do we separate fact from fiction when it comes to gut health? Join us f
- or a ’Quin Chat exploring the science of the gut microbiome and its conn
- ection to digestion\, immunity\, metabolism\, and overall well-being. Toge
- ther\, our panelists will unpack what the research really tells us about p
- robiotics\, prebiotics\, fermented foods\, fiber\, microbiome testing\, an
- d personalized nutrition.\n\nThe conversation brings together leading voic
- es at the intersection of medicine\, microbiome research\, and emerging te
- chnology: Dr. Lynne B. Ahn\, MD\, gastroenterologist and Founder and Medic
- al Director of Ahn Point Wellness\; John Capodilupo\, Co-Founder and forme
- r CTO of WHOOP and Co-Founder and CPO of Throne\; Dr. Brantley Hall\, PhD\
- , Co-Founder of Ventoscity\; and Dr. Chethan Ramprasad\, MS\, MS\, gastroe
- nterologist at Beth Israel Deaconess Medical Center and faculty member at 
- Harvard Medical School. From AI and wearable technology to digital biomark
- ers and new approaches to monitoring digestive health\, they will explore 
- what’s proven\, what is promising\, and what the future of gut health ma
- y hold.\n\n*This event is complimentary and reserved for members only. Com
- plimentary light bites and refreshments will be served.We kindly ask that 
- all cancellations be made at least 24 hours prior to the start of the even
- t.
+DESCRIPTION:Category: Health & Wellness\nPrice: Free\nAvailability: 1 spot 
+ left\nStatus: Waitlist Only\nEvent URL: https://members.thequinhouse.com/e
+ vents/205638\n\n5:30PM Reception\, 6:00PM Discussion \nIn an oversaturate
+ d health and wellness landscape shaped by trends\, social media\, and an e
+ ver-growing marketplace\, how do we separate fact from fiction when it com
+ es to gut health? Join us for a ’Quin Chat exploring the science of the 
+ gut microbiome and its connection to digestion\, immunity\, metabolism\, a
+ nd overall well-being. Together\, our panelists will unpack what the resea
+ rch really tells us about probiotics\, prebiotics\, fermented foods\, fibe
+ r\, microbiome testing\, and personalized nutrition.\n\nThe conversation b
+ rings together leading voices at the intersection of medicine\, microbiome
+  research\, and emerging technology: Dr. Lynne B. Ahn\, MD\, gastroenterol
+ ogist and Founder and Medical Director of Ahn Point Wellness\; John Capodi
+ lupo\, Co-Founder and former CTO of WHOOP and Co-Founder and CPO of Throne
+ \; Dr. Brantley Hall\, PhD\, Co-Founder of Ventoscity\; and Dr. Chethan Ra
+ mprasad\, MS\, MS\, gastroenterologist at Beth Israel Deaconess Medical Ce
+ nter and faculty member at Harvard Medical School. From AI and wearable te
+ chnology to digital biomarkers and new approaches to monitoring digestive 
+ health\, they will explore what’s proven\, what is promising\, and what 
+ the future of gut health may hold.\n\n*This event is complimentary and res
+ erved for members only. Complimentary light bites and refreshments will be
+  served.We kindly ask that all cancellations be made at least 24 hours pri
+ or to the start of the event.
 URL:https://members.thequinhouse.com/events/205638
 CATEGORIES:Health & Wellness
 END:VEVENT
@@ -342,7 +318,7 @@ DTSTART;TZID=America/New_York:20261008T170000
 DTEND;TZID=America/New_York:20261008T183000
 SUMMARY:'Quin Chat: Front Row to Boston Sports
 LOCATION:The Pub
-DESCRIPTION:Category: Sports & Games\nPrice: Free\nAvailability: 43 spots l
+DESCRIPTION:Category: Sports & Games\nPrice: Free\nAvailability: 42 spots l
  eft\nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.co
  m/events/205640\n\n5:00PM Reception 5:30PM Discussion\n\nCalling all Bosto
  n sports fans! Join us for an evening of legendary stories\, unforgettable
@@ -393,7 +369,7 @@ DTSTART;TZID=America/New_York:20261009T160000
 DTEND;TZID=America/New_York:20261009T180000
 SUMMARY:Member Meet Up: Night Shift Brewery 
 LOCATION:Offsite: Night Shift Brewery Esplanade
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 44 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 41 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/2
  07462\n\nJoin fellow members for an early autumn evening at Night Shift B
  rewery on the Esplanade\, a lively outdoor beer garden set along the Charl
@@ -456,7 +432,7 @@ DTEND;TZID=America/New_York:20261010T140000
 SUMMARY:Serendipity Brunch
 LOCATION:Lunasol
 DESCRIPTION:Category: Food & Beverage\, Member Mixer\nPrice: $65.00 per per
- son\nAvailability: 17 spots left\nStatus: Available\nEvent URL: https://me
+ son\nAvailability: 16 spots left\nStatus: Available\nEvent URL: https://me
  mbers.thequinhouse.com/events/206203\n\nJoin us for a Serendipity Saturday
   Brunch that invites members to enjoy great conversation\, in good company
  . Set in Lunasol\, the afternoon unfolds with an easy rhythm—a thoughtf
@@ -480,7 +456,7 @@ DTSTART;TZID=America/New_York:20261010T140000
 DTEND;TZID=America/New_York:20261010T170000
 SUMMARY:The Social Set: Padel & Pickleball 
 LOCATION:Offsite: 25 Pier 4 Blvd.\, Boston
-DESCRIPTION:Category: Sports & Games\nPrice: Free\nAvailability: 18 spots l
+DESCRIPTION:Category: Sports & Games\nPrice: Free\nAvailability: 15 spots l
  eft\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events
  /206904\n\n2:00PM Pro-Led Instruction\, 2:30PM Open Play\, 4:00PM - Recove
  ry and Member Mingling\n\nJoin us for an offsite afternoon of play as The 
@@ -556,7 +532,7 @@ DTEND;TZID=America/New_York:20261013T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 19 spots left\nStatus: Available\nEvent URL: https://memb
+ e\nAvailability: 18 spots left\nStatus: Available\nEvent URL: https://memb
  ers.thequinhouse.com/events/205199\n\nJoin us for our weekly Member Mingle
  \, an inclusive gathering set in an ambiant reserved space. This is your o
  pportunity to connect with fellow members\, exchange ideas\, and cultivate
@@ -798,7 +774,7 @@ DTEND;TZID=America/New_York:20261020T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 28 spots left\nStatus: Available\nEvent URL: https://memb
+ e\nAvailability: 27 spots left\nStatus: Available\nEvent URL: https://memb
  ers.thequinhouse.com/events/205202\n\nJoin us for our weekly Member Mingle
  \, an inclusive gathering set in an ambiant reserved space. This is your o
  pportunity to connect with fellow members\, exchange ideas\, and cultivate
@@ -1058,7 +1034,7 @@ DTEND;TZID=America/New_York:20261027T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 34 spots left\nStatus: Available\nEvent URL: https://memb
+ e\nAvailability: 33 spots left\nStatus: Available\nEvent URL: https://memb
  ers.thequinhouse.com/events/205203\n\nEase into the week in good company a
  t our weekly Member Mingle\, a relaxed gathering in The Living Room design
  ed to bring members together. Settle in\, enjoy a selection of charcuterie
@@ -1081,7 +1057,7 @@ DTSTART;TZID=America/New_York:20261027T180000
 DTEND;TZID=America/New_York:20261027T190000
 SUMMARY:Improv Comedy | 6:00PM Show
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 104 spots left\n
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 102 spots left\n
  Status: Available\nEvent URL: https://members.thequinhouse.com/events/2069
  15\n\nBoston’s best return to the 'House! Improv comedians are ready to 
  keep you laughing with spontaneous sketches\, quick wit\, and audience-ins
