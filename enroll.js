@@ -52,8 +52,11 @@ const PAID_ENABLED = (env.QUIN_ALLOW_PAID || '').trim().toLowerCase() === 'true'
 const TARGET_ROW = parseInt(env.TARGET_ROW || '', 10) || null;
 // cron-job.org starts runs through the workflow_dispatch API (GitHub's own
 // scheduler ran ~4% of slots on 9/28–29) and marks them source=cron-job;
-// those must behave exactly like scheduled runs, not like manual ones.
-const IS_MANUAL = env.GITHUB_EVENT_NAME === 'workflow_dispatch' && env.TRIGGER_SOURCE !== 'cron-job';
+// a login-refused retry (see retryShortly) marks itself source=retry. Both
+// must behave exactly like scheduled runs, not like manual ones.
+const IS_RETRY = env.TRIGGER_SOURCE === 'retry';
+const IS_MANUAL = env.GITHUB_EVENT_NAME === 'workflow_dispatch' && env.TRIGGER_SOURCE !== 'cron-job' && !IS_RETRY;
+const RETRY_DELAY_MS = 60 * 1000;
 const JOB_START = Date.now();
 
 // ---------- time (all human-facing times are America/New_York) ----------
@@ -848,7 +851,9 @@ async function checkMode() {
   const due = work.filter((r) => r.opensAt && r.opensAt.getTime() - now.getTime() <= ARM_WINDOW_MS);
   const openedToday = rows.some((r) => r.active && r.opensAt && r.opensAt.getTime() > 0 && etDate(r.opensAt) === today);
   const mondayNote = monday && hhmm >= MONDAY_NOTE_AFTER && readMarker() !== today && !openedToday;
-  const armed = (needLookup.length || due.length) ? await anotherRunActive() : false;
+  // A retry is started by the failing run just before it exits, so that run
+  // may still show as in progress — don't let it block its own retry.
+  const armed = (needLookup.length || due.length) && !IS_RETRY ? await anotherRunActive() : false;
   const go = IS_MANUAL || mondayNote || ((needLookup.length > 0 || due.length > 0) && !armed);
 
   console.log(`check: ${work.length} pending row(s); ${needLookup.length} need an open-time lookup; ` +
@@ -865,12 +870,51 @@ async function main() {
   throw new Error('usage: node enroll.js check|run');
 }
 
+// The calendar and this job share one single-use refresh token. On 2026-10-05
+// an enroll job that started 11s after the calendar saved a new token was still
+// handed the old, spent one by GitHub. A fresh run a minute later reads the
+// new value, so retry once (never from a retry, never for manual runs).
+async function retryShortly() {
+  const token = env.GITHUB_TOKEN;
+  const repo = env.GITHUB_REPOSITORY;
+  if (!token || !repo) throw new Error('GITHUB_TOKEN / GITHUB_REPOSITORY not available');
+  await ntfy('Quin login refused — retrying',
+    'The saved Quin login was refused (most likely the calendar had just refreshed it). ' +
+    "A fresh run starts in a minute. You only need to act if an urgent 'crashed' alert follows.",
+    { priority: 2, tags: ['repeat'] });
+  await sleep(RETRY_DELAY_MS);
+  const res = await fetch(`https://api.github.com/repos/${repo}/actions/workflows/${WORKFLOW_FILE}/dispatches`, {
+    method: 'POST',
+    headers: { Authorization: `Bearer ${token}`, Accept: 'application/vnd.github+json', 'Content-Type': 'application/json' },
+    body: JSON.stringify({ ref: env.GITHUB_REF_NAME || 'main', inputs: { source: 'retry', dry_run: 'false' } }),
+    signal: AbortSignal.timeout(15000),
+  });
+  if (!res.ok) throw new Error(`starting the retry run failed: HTTP ${res.status}`);
+  console.log('Quin login refused; started one retry run.');
+}
+
 main().catch(async (e) => {
-  console.error(`enroll.js ${process.argv[2] || ''} failed: ${e.message}`);
-  if (process.argv[2] === 'run') {
-    await ntfy('Quin enrollment crashed', `${e.message}\n\nIf an event is opening soon, register manually.`, {
-      priority: 5, tags: ['rotating_light'],
-    });
+  const mode = process.argv[2] || '';
+  console.error(`enroll.js ${mode} failed: ${e.message}`);
+  if (mode !== 'run') {
+    process.exitCode = 1;
+    return;
   }
+  const loginRefused = /^Token refresh failed: HTTP 4\d\d/.test(e.message);
+  if (loginRefused && !IS_MANUAL && !IS_RETRY) {
+    try {
+      await retryShortly();
+      return; // the retry run takes over; exit cleanly
+    } catch (err) {
+      console.error(`Retry not started: ${err.message}`);
+    }
+  }
+  const hint = loginRefused
+    ? "\n\nQuin refused the saved login" + (IS_RETRY ? ' twice' : '') +
+      ". If it keeps happening, re-seed QUIN_REFRESH_TOKEN from Safari's localStorage 'pv.refresh'."
+    : '';
+  await ntfy('Quin enrollment crashed', `${e.message}${hint}\n\nIf an event is opening soon, register manually.`, {
+    priority: 5, tags: ['rotating_light'],
+  });
   process.exitCode = 1;
 });

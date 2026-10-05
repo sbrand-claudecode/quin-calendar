@@ -36,13 +36,13 @@ on:
         type: string
         default: ''
       source:
-        description: 'Leave as "manual". cron-job.org sends "cron-job" so its runs behave like scheduled ones.'
+        description: 'Leave as "manual". cron-job.org sends "cron-job" and login retries send "retry"; both behave like scheduled runs.'
         type: string
         default: 'manual'
 
 permissions:
   contents: write   # commit the Monday-note marker (.enroll-monday-note)
-  actions: read     # check job: is another enrollment run already armed?
+  actions: write    # check: is another run armed? enroll: start one retry if the Quin login is refused
 
 jobs:
   check:
@@ -108,8 +108,9 @@ jobs:
           GMAIL_USER: ${{ secrets.QUIN_EMAIL }}
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
           HC_PING_URL: ${{ secrets.HC_PING_URL }}
-          # cron-job.org runs are always live, whatever dry_run's default is.
-          DRY_RUN: ${{ inputs.source != 'cron-job' && inputs.dry_run && '1' || '' }}
+          # cron-job.org and retry runs are always live, whatever dry_run's default is.
+          DRY_RUN: ${{ inputs.source != 'cron-job' && inputs.source != 'retry' && inputs.dry_run && '1' || '' }}
+          GITHUB_TOKEN: ${{ github.token }}
           TARGET_ROW: ${{ inputs.row }}
           TRIGGER_SOURCE: ${{ inputs.source }}
           MONDAY_NOTE: ${{ needs.check.outputs.monday_note }}
