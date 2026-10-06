@@ -45,62 +45,6 @@ URL:https://members.thequinhouse.com/events/205635
 CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
-UID:quin-event-176002@thequinhouse.com
-DTSTAMP:20261005T183000Z
-DTSTART;TZID=America/New_York:20261005T183000
-DTEND;TZID=America/New_York:20261005T210000
-SUMMARY:Serendipity Dinner 
-LOCATION:The Muse
-DESCRIPTION:Category: Member Mixer\nPrice: $100.00 per person\nStatus: Wait
- list Only\nEvent URL: https://members.thequinhouse.com/events/176002\n\nJo
- in The ‘Quin House Managing Director\, Matthias Kiehm\, for an evening o
- f meaningful connections over a thoughtfully curated three-course dinner. 
- Enjoy expertly paired wines as you engage with fellow members\, guided by 
- conversation prompts designed to inspire deeper\, more memorable exchanges
- . This unique experience offers the perfect blend of great company\, engag
- ing dialogue\, and a menu crafted to delight the senses.\n\n*Tickets are $
- 100 per person and are reserved for members only. Cancellations within 72 
- hours of the event\, or failure to attend\, will be charged in full. Pleas
- e inform us of any dietary needs or restrictions by emailing happening@the
- quin.com at least 72 hours before dinner service.
-URL:https://members.thequinhouse.com/events/176002
-CATEGORIES:Member Mixer
-END:VEVENT
-BEGIN:VEVENT
-UID:quin-event-203636@thequinhouse.com
-DTSTAMP:20261005T183000Z
-DTSTART;TZID=America/New_York:20261005T183000
-DTEND;TZID=America/New_York:20261005T200000
-SUMMARY:'Quin Chat: Latinas Leading Business
-LOCATION:Scotties
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 79 spots lef
- t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/2
- 03636\n\n6:30PM Reception\, 7:00PM Discussion\n\nIn celebration of Hispan
- ic Heritage Month\, join us for a ’Quin Chat that shines a light on the 
- growing influence of Latinas shaping America’s economic future. Drawing
-  from a new national study focused on U.S. Latinas\, the conversation wi
- ll explore their expanding  economic power\, leadership\, and impact—an
- d why this generation of leaders represents a force poised to shape the f
- uture of business and the broader U.S. economy.\n\nThe research began in 2
- 025\, when the Latino Donor Collaborative\, Hispanics in Philanthropy\, an
- d We Are ALX - grant recipient of The 'Quin Impact Fund - a joined forces 
- to envision a national study capturing the economic contributions and pote
- ntial of U.S. Latinas. Moderated by Nathalie Rayes\, former U.S. Ambassado
- r to Croatia and civic leader\, the conversation brings together three of 
- the original thought partners behind the study: Eneida Roman\, President a
- nd CEO of We Are ALX and a nationally recognized advocate for advancing wo
- men and Latinos\; Ana Marie Argilagos\, former President & CEO of Hispanic
- s in Philanthropy\; and Ana Valdez\, President & CEO of the Latino Donor C
- ollaborative. Together\, they will share the story behind the research\, a
- nd consider what the rising influence of Latinas means for business\, lead
- ership\, and philanthropy.\n\n*This event is complimentary and reserved fo
- r members plus 3 registered guests. Complimentary light bites and refresh
- ments will be served. We kindly ask that all cancellations be made at leas
- t 24 hours prior to the start of the event.
-URL:https://members.thequinhouse.com/events/203636
-CATEGORIES:‘Quin Chat
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-205637@thequinhouse.com
 DTSTAMP:20261006T120000Z
 DTSTART;TZID=America/New_York:20261006T120000
@@ -346,7 +290,7 @@ DTSTART;TZID=America/New_York:20261009T160000
 DTEND;TZID=America/New_York:20261009T180000
 SUMMARY:Member Meet Up: Night Shift Brewery 
 LOCATION:Offsite: Night Shift Brewery Esplanade
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 32 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 31 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/2
  07462\n\nJoin fellow members for an early autumn evening at Night Shift B
  rewery on the Esplanade\, a lively outdoor beer garden set along the Charl
@@ -370,7 +314,7 @@ DTSTART;TZID=America/New_York:20261009T183000
 DTEND;TZID=America/New_York:20261009T200000
 SUMMARY:'Quin Chat: CTE's Lasting Impact on the NFL 
 LOCATION:The Muse
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 7 spots left
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 6 spots left
  \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/20
  6163\n\n6:30PM Reception\, 7:00PM Discussion\n\nWhat does the latest scien
  ce reveal about the lasting impact of contact sports on the brain - and ho
@@ -562,7 +506,7 @@ DTEND;TZID=America/New_York:20261013T203000
 SUMMARY:'Quin Chat: Modern Parenting - Navigating Teen Mental Health Togeth
  er
 LOCATION:Scottie's
-DESCRIPTION:Category: Health & Wellness\nPrice: Free\nAvailability: 76 spot
+DESCRIPTION:Category: Health & Wellness\nPrice: Free\nAvailability: 73 spot
  s left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/eve
  nts/206905\n\n7:00PM Reception\, 7:30PM Discussion\n\nWhat is simply part 
  of being a teenager—and when does it warrant a closer look? Join us for 
@@ -875,7 +819,7 @@ DTSTART;TZID=America/New_York:20261024T090000
 DTEND;TZID=America/New_York:20261024T100000
 SUMMARY:Kid's Clubhouse: Trick-or-Treat Family Day | Session I
 LOCATION:Bondo
-DESCRIPTION:Category: Holiday\nPrice: Free\nAvailability: 9 spots left\nSta
+DESCRIPTION:Category: Holiday\nPrice: Free\nAvailability: 5 spots left\nSta
  tus: Available\nEvent URL: https://members.thequinhouse.com/events/206911\
  n\nShimmy into your spookiest costumes and join us for a fun-filled day of
   trick-or-treating in the transformed Web of Wonders\, a family-friendly a
@@ -1011,7 +955,7 @@ DTSTART;TZID=America/New_York:20261026T180000
 DTEND;TZID=America/New_York:20261026T210000
 SUMMARY:Community Table
 LOCATION:Café Q
-DESCRIPTION:Category: Food & Beverage\nPrice: Free\nAvailability: 3 spots l
+DESCRIPTION:Category: Food & Beverage\nPrice: Free\nAvailability: 2 spots l
  eft\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events
  /205201\n\nStart your week in good company with the Café Q Community dinn
  er table for members-only. Set aside for those looking to expand their soc
