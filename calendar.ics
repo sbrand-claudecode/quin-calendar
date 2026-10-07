@@ -45,104 +45,13 @@ URL:https://members.thequinhouse.com/events/205635
 CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
-UID:quin-event-207308@thequinhouse.com
-DTSTAMP:20261006T140000Z
-DTSTART;VALUE=DATE:20261006
-DTEND;VALUE=DATE:20261007
-SUMMARY:TEDxBoston: Unlocking Longevity at WHOOP
-LOCATION:Offsite - WHOOP Headquarters
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nStatus: Waitlist Only\nTim
- e: 2 PM – 6 PM\nEvent URL: https://members.thequinhouse.com/events/20730
- 8\n\nWhat does it mean to live not only longer\, but better? Join us at WH
- OOP Headquarters in Kenmore Square where a select number of seats have bee
- n reserved exclusively for ‘Quin members at TEDxBoston: Unlocking Longev
- ity. Bringing together leading voices across science\, medicine\, technolo
- gy\, and biotechnology\, the afternoon will explore the research\, ideas\,
-  and innovations shaping the future of human health and longevity.\n\nAcro
- ss seventeen short-form talks presented in three blocks\, experts will exp
- lore the research and innovation shaping the future of longevity\, spannin
- g epigenetic reprogramming\, GLP-1s and metabolic health\, immune aging\, 
- women’s longevity\, artificial intelligence\, and the continuous data tr
- ansforming prevention into daily practice. The throughline: rigor over hyp
- e\, and research with the potential to reach the clinic.\n\nFeatured speak
- ers include Peter Kolchinsky\, Managing Partner of RA Capital Management a
- nd founder of No Patient Left Behind\; Andrew Brack\, Program Manager at A
- RPA-H\; Dr. Saranya Wyles\, Medical Director at Mayo Clinic\; Alexandra Dr
- ane of ARCHANGELS\; J. Sawalla Guseh of Mass General Brigham\; Kayla Barne
- s-Lentz of Ammortal\; Alexander (AJ) Blood of AIwithCare\; and more.\n\nSp
- end the afternoon at the forefront of the longevity conversation\, with a 
- closer look at the research\, technologies\, and ideas that could shape no
- t simply how long we live\, but how well.\n\n*This event is complimentary 
- and reserved for members only. Please be aware that members attending this
-  event will need to sign a WHOOP NDA at arrival. We kindly ask that all c
- ancellations be made at least 24 hours prior to the start of the event.
-URL:https://members.thequinhouse.com/events/207308
-CATEGORIES:‘Quin Chat
-END:VEVENT
-BEGIN:VEVENT
-UID:quin-event-205198@thequinhouse.com
-DTSTAMP:20261006T170000Z
-DTSTART;TZID=America/New_York:20261006T170000
-DTEND;TZID=America/New_York:20261006T183000
-SUMMARY:Member Mingle
-LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 12 spots left\nStatus: Available\nEvent URL: https://memb
- ers.thequinhouse.com/events/205198\n\nJoin us for our weekly Member Mingle
- \, an inclusive gathering set in an ambiant reserved space. This is your o
- pportunity to connect with fellow members\, exchange ideas\, and cultivate
-  meaningful relationships.\n\nWhether you're sparking new collaborations\,
-  sharing insights\, or simply enjoying great conversation\, the Member Min
- gle is the perfect way to engage with our dynamic community. Don’t miss 
- the chance to connect\, inspire\, and be inspired!\n\n*This event is compl
- imentary and reserved for members only. Complimentary light bites will be 
- served\, and beverages will be available for purchase. We kindly ask that
-  all cancellations be made at least 24 hours prior to the start of the eve
- nt.
-URL:https://members.thequinhouse.com/events/205198
-CATEGORIES:Member Mixer,Survey - Membership Mingle
-END:VEVENT
-BEGIN:VEVENT
-UID:quin-event-205638@thequinhouse.com
-DTSTAMP:20261006T173000Z
-DTSTART;TZID=America/New_York:20261006T173000
-DTEND;TZID=America/New_York:20261006T190000
-SUMMARY:'Quin Chat: Decoding Gut Health
-LOCATION:Scottie's
-DESCRIPTION:Category: Health & Wellness\nPrice: Free\nStatus: Waitlist Only
- \nEvent URL: https://members.thequinhouse.com/events/205638\n\n5:30PM Rece
- ption\, 6:00PM Discussion \nIn an oversaturated health and wellness lands
- cape shaped by trends\, social media\, and an ever-growing marketplace\, h
- ow do we separate fact from fiction when it comes to gut health? Join us f
- or a ’Quin Chat exploring the science of the gut microbiome and its conn
- ection to digestion\, immunity\, metabolism\, and overall well-being. Toge
- ther\, our panelists will unpack what the research really tells us about p
- robiotics\, prebiotics\, fermented foods\, fiber\, microbiome testing\, an
- d personalized nutrition.\n\nThe conversation brings together leading voic
- es at the intersection of medicine\, microbiome research\, and emerging te
- chnology: Dr. Lynne B. Ahn\, MD\, gastroenterologist and Founder and Medic
- al Director of Ahn Point Wellness\; John Capodilupo\, Co-Founder and forme
- r CTO of WHOOP and Co-Founder and CPO of Throne\; Dr. Brantley Hall\, PhD\
- , Co-Founder of Ventoscity\; and Dr. Chethan Ramprasad\, MS\, MS\, gastroe
- nterologist at Beth Israel Deaconess Medical Center and faculty member at 
- Harvard Medical School. From AI and wearable technology to digital biomark
- ers and new approaches to monitoring digestive health\, they will explore 
- what’s proven\, what is promising\, and what the future of gut health ma
- y hold.\n\n*This event is complimentary and reserved for members only. Com
- plimentary light bites and refreshments will be served.We kindly ask that 
- all cancellations be made at least 24 hours prior to the start of the even
- t.
-URL:https://members.thequinhouse.com/events/205638
-CATEGORIES:Health & Wellness
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-206195@thequinhouse.com
 DTSTAMP:20261007T170000Z
 DTSTART;TZID=America/New_York:20261007T170000
 DTEND;TZID=America/New_York:20261007T183000
 SUMMARY:'Quin Chat: The Communities Changing Healthcare
 LOCATION:The Muse
-DESCRIPTION:Category: Health & Wellness\nPrice: Free\nAvailability: 30 spot
+DESCRIPTION:Category: Health & Wellness\nPrice: Free\nAvailability: 31 spot
  s left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/eve
  nts/206195\n\n5:00PM Reception\, 5:30PM Discussion\n\nWhat if some of the 
  most consequential ideas in American healthcare are not coming out of rese
@@ -201,7 +110,7 @@ DTSTART;TZID=America/New_York:20261008T170000
 DTEND;TZID=America/New_York:20261008T183000
 SUMMARY:'Quin Chat: Front Row to Boston Sports
 LOCATION:The Pub
-DESCRIPTION:Category: Sports & Games\nPrice: Free\nAvailability: 47 spots l
+DESCRIPTION:Category: Sports & Games\nPrice: Free\nAvailability: 50 spots l
  eft\nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.co
  m/events/205640\n\n5:00PM Reception 5:30PM Discussion\n\nCalling all Bosto
  n sports fans! Join us for an evening of legendary stories\, unforgettable
@@ -276,7 +185,7 @@ DTSTART;TZID=America/New_York:20261009T183000
 DTEND;TZID=America/New_York:20261009T200000
 SUMMARY:'Quin Chat: CTE's Lasting Impact on the NFL 
 LOCATION:The Muse
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 5 spots left
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 7 spots left
  \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/20
  6163\n\n6:30PM Reception\, 7:00PM Discussion\n\nWhat does the latest scien
  ce reveal about the lasting impact of contact sports on the brain - and ho
@@ -414,7 +323,7 @@ DTEND;TZID=America/New_York:20261013T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 15 spots left\nStatus: Available\nEvent URL: https://memb
+ e\nAvailability: 14 spots left\nStatus: Available\nEvent URL: https://memb
  ers.thequinhouse.com/events/205199\n\nJoin us for our weekly Member Mingle
  \, an inclusive gathering set in an ambiant reserved space. This is your o
  pportunity to connect with fellow members\, exchange ideas\, and cultivate
@@ -436,7 +345,7 @@ DTSTART;TZID=America/New_York:20261013T190000
 DTEND;TZID=America/New_York:20261013T200000
 SUMMARY:Author's Circle Book Club: "Safekeeping" by Claudia Hinz
 LOCATION:The Muse
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 3 spots left\nSt
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 4 spots left\nSt
  atus: Available\nEvent URL: https://members.thequinhouse.com/events/203629
  \n\nThis October\, settle into the season with Safekeeping by Claudia Hinz
  \, a sweeping and deeply moving novel about family\, memory\, and the secr
@@ -917,18 +826,18 @@ DTSTART;TZID=America/New_York:20261026T180000
 DTEND;TZID=America/New_York:20261026T210000
 SUMMARY:Community Table
 LOCATION:Café Q
-DESCRIPTION:Category: Food & Beverage\nPrice: Free\nAvailability: 1 spot le
- ft\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/
- 205201\n\nStart your week in good company with the Café Q Community dinne
- r table for members-only. Set aside for those looking to expand their soci
- al circle over a shared meal\, this gathering is all about good food\, liv
- ely conversation\, and meaningful connections. Pull up a chair\, and savor
-  the experience—because nothing brings people together quite like a grea
- t meal.\n\n*This event is reserved for members only. An advance charge of 
- $24 per member contributes to communal appetizers available upon seating. 
- Members are responsible for à la carte entrées\, desserts\, and beverage
- s\, plus taxes and fees. Cancellations made within 24 hours of the event\,
-  or failure to attend will be subject to the Café Q's surcharge policy.
+DESCRIPTION:Category: Food & Beverage\nPrice: Free\nStatus: Waitlist Only\n
+ Event URL: https://members.thequinhouse.com/events/205201\n\nStart your we
+ ek in good company with the Café Q Community dinner table for members-onl
+ y. Set aside for those looking to expand their social circle over a shared
+  meal\, this gathering is all about good food\, lively conversation\, and 
+ meaningful connections. Pull up a chair\, and savor the experience—becau
+ se nothing brings people together quite like a great meal.\n\n*This event 
+ is reserved for members only. An advance charge of $24 per member contribu
+ tes to communal appetizers available upon seating. Members are responsible
+  for à la carte entrées\, desserts\, and beverages\, plus taxes and fees
+ . Cancellations made within 24 hours of the event\, or failure to attend w
+ ill be subject to the Café Q's surcharge policy.
 URL:https://members.thequinhouse.com/events/205201
 CATEGORIES:Food & Beverage
 END:VEVENT
@@ -963,7 +872,7 @@ DTSTART;TZID=America/New_York:20261027T180000
 DTEND;TZID=America/New_York:20261027T190000
 SUMMARY:Improv Comedy | 6:00PM Show
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 64 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 63 spots left\nS
  tatus: Available\nEvent URL: https://members.thequinhouse.com/events/20691
  5\n\nBoston’s best return to the 'House! Improv comedians are ready to k
  eep you laughing with spontaneous sketches\, quick wit\, and audience-insp
@@ -1264,7 +1173,7 @@ DTEND;TZID=America/New_York:20261223T220000
 SUMMARY:'Quin Suite: Celtics vs. Trail Blazers
 LOCATION:Offsite - TD Garden
 DESCRIPTION:Category: Sports & Games\nPrice: $475.00 per person\nAvailabili
- ty: 5 spots left\nStatus: Available\nEvent URL: https://members.thequinhou
+ ty: 4 spots left\nStatus: Available\nEvent URL: https://members.thequinhou
  se.com/events/207110\n\nSpend an evening at the Garden as the Celtics take
   the court against Portland. Join fellow members in The ’Quin Suite (#52
  4) as the Celtics face off against the Portland Trailblazers for an exci
