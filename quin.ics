@@ -24,46 +24,13 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:quin-event-205640@thequinhouse.com
-DTSTAMP:20261008T170000Z
-DTSTART;TZID=America/New_York:20261008T170000
-DTEND;TZID=America/New_York:20261008T183000
-SUMMARY:'Quin Chat: Front Row to Boston Sports
-LOCATION:The Pub
-DESCRIPTION:Category: Sports & Games\nPrice: Free\nAvailability: 58 spots l
- eft\nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.co
- m/events/205640\n\n5:00PM Reception 5:30PM Discussion\n\nCalling all Bosto
- n sports fans! Join us for an evening of legendary stories\, unforgettable
-  moments\, and plenty of perspective from the people who had a front-row s
- eat to it all. Taking their growing local sports podcast\, The Front Row t
- o Boston Sports\, to the stage at The ’Quin\, Bob Lobel\, former sportsc
- aster for WBZ-TV\, Bob Ryan\, sportswriter formerly with The Boston Globe\
- , and Mike Lynch\, WCVB sports anchor\, come together to look back on the 
- teams\, personalities\, triumphs\, and heartbreaks that have defined gener
- ations of Boston sports.\n\nCollectively\, the panel has spent decades cov
- ering the Celtics\, Patriots\, Red Sox\, and Bruins from press boxes\, sid
- elines\, studios\, locker rooms\, and championship celebrations. From Larr
- y Bird’s Celtics and unforgettable seasons at Fenway to the rise of the 
- Patriots and countless moments on the ice at the Garden\, they will share 
- the stories behind the headlines—and perhaps a few that never made it in
- to print or onto the air.\n\nExpect an evening filled with candid memories
- \, lively debate\, and the unmistakable passion that comes with talking sp
- orts in Boston. Whether you have followed these teams for decades or simpl
- y love a great sports story\, consider this your seat in the front row.\n\
- n*This event is complimentary and reserved for members only. Complimentary
-  light bites and beverages will be served. We kindly ask that all cancella
- tions be made at least 24 hours prior to the start of the event.
-URL:https://members.thequinhouse.com/events/205640
-CATEGORIES:Sports & Games
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-206907@thequinhouse.com
 DTSTAMP:20261014T170000Z
 DTSTART;TZID=America/New_York:20261014T170000
 DTEND;TZID=America/New_York:20261014T183000
 SUMMARY:'Quin Chat: From Head Of The Charles to Los Angeles 2028 
 LOCATION:The Pub
-DESCRIPTION:Category: Sports & Games\nPrice: Free\nAvailability: 105 spots 
+DESCRIPTION:Category: Sports & Games\nPrice: Free\nAvailability: 101 spots 
  left\nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.c
  om/events/206907\n\n5:00PM Reception\, 5:30PM Discussion\n\nAs the rowing
   world turns its attention to Boston for one of the sport’s most celebra
@@ -98,7 +65,7 @@ DTEND;TZID=America/New_York:20261014T193000
 SUMMARY:Author Talk: "Starting Over with John and Yoko" with Roger Farringt
  on and Kenneth Womack
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 52 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 50 spots left\nS
  tatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/even
  ts/206906\n\n6:00PM Reception\, 6:30PM Discussion\n\nFresh off the book’
  s launch in New York City\, join us for Boston’s exclusive first look at
