@@ -24,40 +24,13 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:quin-event-205639@thequinhouse.com
-DTSTAMP:20261007T180000Z
-DTSTART;TZID=America/New_York:20261007T180000
-DTEND;TZID=America/New_York:20261007T210000
-SUMMARY:Invited Dress Preview: To Kill a Mockingbird 
-LOCATION:The Huntington Theatre
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 1 spot left\nSta
- tus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/events
- /205639\n\n6:00PM Reception & Gallery Viewing\, 7:00PM Curtain\n\nGo behin
- d the curtain for an exclusive first look at The Huntington Theatre’s To
-  Kill a Mockingbird. The evening begins with a privae reception in The Mas
- o Studio\, where members will enjoy an immersive introduction to the produ
- ction’s inspiration and explore key set pieces that bring its world to l
- ife. Following the reception\, members will be guided into the main theatr
- e for a closed final dress rehearsal.\n\nExperience the energy and anticip
- ation of the days leading up to opening night as the cast and creative tea
- m refine scenes\, work through director’s notes\, adjust pacing\, revisi
- t line readings\, and put the finishing touches on the performance. It’s
-  an intimate look at the artistry\, collaboration\, and precision that hap
- pen behind the curtain before the house lights go down.\n\n*This event is 
- complimentary and reserved for members only. Complimentary light bites and
-  beverages will be served. We kindly ask that all cancellations be made at
-  least 24 hours prior to the start of the event.
-URL:https://members.thequinhouse.com/events/205639
-CATEGORIES:The Arts
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-205640@thequinhouse.com
 DTSTAMP:20261008T170000Z
 DTSTART;TZID=America/New_York:20261008T170000
 DTEND;TZID=America/New_York:20261008T183000
 SUMMARY:'Quin Chat: Front Row to Boston Sports
 LOCATION:The Pub
-DESCRIPTION:Category: Sports & Games\nPrice: Free\nAvailability: 53 spots l
+DESCRIPTION:Category: Sports & Games\nPrice: Free\nAvailability: 58 spots l
  eft\nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.co
  m/events/205640\n\n5:00PM Reception 5:30PM Discussion\n\nCalling all Bosto
  n sports fans! Join us for an evening of legendary stories\, unforgettable
