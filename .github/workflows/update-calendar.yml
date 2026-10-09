@@ -10,10 +10,11 @@ permissions:
   contents: write
 
 jobs:
-  # Stay out of the Monday enrollment window. On 2026-10-05 a (late) calendar
-  # run refreshed the shared Quin token at 8:52 ET and the enroll job that
-  # started 11s later was handed the old, already-spent one. Skipping one
-  # Monday-morning calendar update costs nothing (it runs every 6 hours).
+  # Stay out of the weekday-morning enrollment window. On 2026-10-05 a (late)
+  # calendar run refreshed the shared Quin token at 8:52 ET and the enroll job
+  # that started 11s later was handed the old, already-spent one. Openings are
+  # Mondays at 10:00, or Tuesday after a Monday holiday, so cover Mon–Fri;
+  # skipping a morning calendar update costs nothing (it runs every 6 hours).
   gate:
     runs-on: ubuntu-latest
     outputs:
@@ -21,10 +22,10 @@ jobs:
     steps:
       - id: gate
         run: |
-          DOW=$(TZ=America/New_York date +%u)   # 1 = Monday
+          DOW=$(TZ=America/New_York date +%u)   # 1 = Monday … 5 = Friday
           HM=$(TZ=America/New_York date +%H%M)
-          if [ "${{ github.event_name }}" = "schedule" ] && [ "$DOW" = "1" ] && [ "$HM" -ge 0800 ] && [ "$HM" -lt 1030 ]; then
-            echo "Monday $HM ET is inside the enrollment window (08:00–10:30) — skipping this calendar run."
+          if [ "${{ github.event_name }}" = "schedule" ] && [ "$DOW" -le 5 ] && [ "$HM" -ge 0800 ] && [ "$HM" -lt 1030 ]; then
+            echo "Weekday $HM ET is inside the enrollment window (08:00–10:30) — skipping this calendar run."
             echo "run=false" >> "$GITHUB_OUTPUT"
           else
             echo "run=true" >> "$GITHUB_OUTPUT"

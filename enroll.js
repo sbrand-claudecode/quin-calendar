@@ -23,8 +23,10 @@ const JOB_BUDGET_MS = 95 * MINUTE;       // stay under the workflow's timeout-mi
 const PRE_OPEN_MS = 2 * MINUTE;          // fresh token + cart check this long before opening
 const HEARTBEAT_MS = 10 * MINUTE;        // healthchecks.io ping interval while waiting
 const ADD_RETRY_WINDOW_MS = 3 * MINUTE;  // keep retrying add-to-cart this long
-const MONDAY_PING_START = '08:45';       // ET window in which check runs ping healthchecks
-const MONDAY_PING_END = '10:15';
+// ET window in which check runs ping healthchecks — every day, so that moving
+// the healthchecks.io schedule (normally Mondays) covers a holiday-shifted week.
+const PING_WINDOW_START = '08:45';
+const PING_WINDOW_END = '10:15';
 const MONDAY_NOTE_AFTER = '10:15';       // ET; "nothing opened today" note after this
 const PAT_WARN_DAYS = 30;
 const MARKER_FILE = path.join(__dirname, '.enroll-monday-note');
@@ -841,9 +843,10 @@ async function checkMode() {
   const monday = isMondayET(now);
   const today = etDate(now);
 
-  // A check landing in the Monday window proves GitHub's scheduler is alive;
-  // the healthchecks.io dead-man alert fires if none (and no armed run) pings.
-  if (monday && hhmm >= MONDAY_PING_START && hhmm <= MONDAY_PING_END) await pingHealthcheck();
+  // A check landing in the morning window proves the triggers are alive; the
+  // healthchecks.io dead-man alert fires if none (and no armed run) pings on
+  // the days its schedule expects (Steve moves it for holiday weeks).
+  if (hhmm >= PING_WINDOW_START && hhmm <= PING_WINDOW_END) await pingHealthcheck();
 
   const rows = parseRows(await sheetClient().read(READ_RANGE));
   const work = rows.filter((r) => r.active && isPending(r));
