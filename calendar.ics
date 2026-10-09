@@ -45,24 +45,6 @@ URL:https://members.thequinhouse.com/events/205635
 CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
-UID:quin-event-206217@thequinhouse.com
-DTSTAMP:20261008T180000Z
-DTSTART;TZID=America/New_York:20261008T180000
-DTEND;TZID=America/New_York:20261008T200000
-SUMMARY:The Scottie's Sessions: Live Jazz with Northstar
-LOCATION:Scottie's
-DESCRIPTION:Category: Food & Beverage\nPrice: Free / Included\nStatus: Avai
- lable\nEvent URL: https://members.thequinhouse.com/events/206217\n\nSlip i
- nto Scottie’s for an evening of live jazz with an unexpected edge as Nor
- th Star takes the stage. Featuring tap\, tenor saxophone\, piano\, and bas
- s\, the quartet brings a playful twist to classic jazz\, with tap joining 
- the ensemble as both movement and percussion.\n\nGrab a cocktail\, settle 
- in\, and let the evening unfold—one beat\, note\, and step at a time.\n\
- nReservations are not required.
-URL:https://members.thequinhouse.com/events/206217
-CATEGORIES:Food & Beverage
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-207462@thequinhouse.com
 DTSTAMP:20261009T160000Z
 DTSTART;TZID=America/New_York:20261009T160000
@@ -93,7 +75,7 @@ DTSTART;TZID=America/New_York:20261009T183000
 DTEND;TZID=America/New_York:20261009T200000
 SUMMARY:'Quin Chat: CTE's Lasting Impact on the NFL 
 LOCATION:The Muse
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 10 spots lef
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 13 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/2
  06163\n\n6:30PM Reception\, 7:00PM Discussion\n\nWhat does the latest scie
  nce reveal about the lasting impact of contact sports on the brain - and h
@@ -184,18 +166,18 @@ DTSTART;TZID=America/New_York:20261012T180000
 DTEND;TZID=America/New_York:20261012T210000
 SUMMARY:Community Table
 LOCATION:Café Q
-DESCRIPTION:Category: Food & Beverage\nPrice: Free\nAvailability: 1 spot le
- ft\nStatus: Waitlist Only\nEvent URL: https://members.thequinhouse.com/eve
- nts/205200\n\nEase into the week around the table with the return of Café
-  Q’s Community Table. Designed for members looking to meet new faces and
-  make new connections\, the evening brings together good food and engaging
-  conversation in a relaxed\, convivial setting. Take a seat\, share a meal
- \, and see where the conversation leads.\n\n*This event is reserved for me
- mbers only. An advance charge of $24 per member contributes to communal ap
- petizers available upon seating. Members are responsible for à la carte e
- ntrées\, desserts\, and beverages\, plus taxes and fees. Cancellations ma
- de within 24 hours of the event\, or failure to attend will be subject to 
- the Café Q's surcharge policy.
+DESCRIPTION:Category: Food & Beverage\nPrice: Free\nAvailability: 2 spots l
+ eft\nStatus: Waitlist Only\nEvent URL: https://members.thequinhouse.com/ev
+ ents/205200\n\nEase into the week around the table with the return of Caf�
+ � Q’s Community Table. Designed for members looking to meet new faces an
+ d make new connections\, the evening brings together good food and engagin
+ g conversation in a relaxed\, convivial setting. Take a seat\, share a mea
+ l\, and see where the conversation leads.\n\n*This event is reserved for m
+ embers only. An advance charge of $24 per member contributes to communal a
+ ppetizers available upon seating. Members are responsible for à la carte 
+ entrées\, desserts\, and beverages\, plus taxes and fees. Cancellations m
+ ade within 24 hours of the event\, or failure to attend will be subject to
+  the Café Q's surcharge policy.
 URL:https://members.thequinhouse.com/events/205200
 CATEGORIES:Food & Beverage
 END:VEVENT
@@ -207,18 +189,18 @@ DTEND;TZID=America/New_York:20261013T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 9 spots left\nStatus: Available\nEvent URL: https://membe
- rs.thequinhouse.com/events/205199\n\nJoin us for our weekly Member Mingle\
- , an inclusive gathering set in an ambiant reserved space. This is your op
- portunity to connect with fellow members\, exchange ideas\, and cultivate 
- meaningful relationships.\n\nWhether you're sparking new collaborations\, 
- sharing insights\, or simply enjoying great conversation\, the Member Ming
- le is the perfect way to engage with our dynamic community. Don’t miss t
- he chance to connect\, inspire\, and be inspired!\n\n*This event is compli
- mentary and reserved for members only. Complimentary light bites will be s
- erved\, and beverages will be available for purchase. We kindly ask that 
- all cancellations be made at least 24 hours prior to the start of the even
- t.
+ e\nAvailability: 10 spots left\nStatus: Available\nEvent URL: https://memb
+ ers.thequinhouse.com/events/205199\n\nJoin us for our weekly Member Mingle
+ \, an inclusive gathering set in an ambiant reserved space. This is your o
+ pportunity to connect with fellow members\, exchange ideas\, and cultivate
+  meaningful relationships.\n\nWhether you're sparking new collaborations\,
+  sharing insights\, or simply enjoying great conversation\, the Member Min
+ gle is the perfect way to engage with our dynamic community. Don’t miss 
+ the chance to connect\, inspire\, and be inspired!\n\n*This event is compl
+ imentary and reserved for members only. Complimentary light bites will be 
+ served\, and beverages will be available for purchase. We kindly ask that
+  all cancellations be made at least 24 hours prior to the start of the eve
+ nt.
 URL:https://members.thequinhouse.com/events/205199
 CATEGORIES:Member Mixer,Survey - Membership Mingle
 END:VEVENT
@@ -742,7 +724,7 @@ DTEND;TZID=America/New_York:20261027T220000
 SUMMARY:'Quin Suite: Celtics vs. Nets
 LOCATION:Offsite - TD Garden
 DESCRIPTION:Category: Sports & Games\nPrice: $475.00 per person\nAvailabili
- ty: 5 spots left\nStatus: Available\nEvent URL: https://members.thequinhou
+ ty: 4 spots left\nStatus: Available\nEvent URL: https://members.thequinhou
  se.com/events/207102\n\nThe Celtics take home court for another electric n
  ight at TD Garden. Join fellow members in The ’Quin Suite (#524) as the 
  Celtics face off against the Brooklyn Nets for an exciting regular-season
@@ -765,7 +747,7 @@ DTSTART;TZID=America/New_York:20261027T200000
 DTEND;TZID=America/New_York:20261027T210000
 SUMMARY:Improv Comedy | 8:00PM Show
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 68 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 66 spots left\nS
  tatus: Available\nEvent URL: https://members.thequinhouse.com/events/20691
  4\n\nBoston’s best return to the 'House! Improv comedians are ready to k
  eep you laughing with spontaneous sketches\, quick wit\, and audience-insp
@@ -907,7 +889,7 @@ DTEND;TZID=America/New_York:20261116T213000
 SUMMARY:'Quin Suite: Celtics vs. Magic
 LOCATION:Offsite - TD Garden
 DESCRIPTION:Category: Sports & Games\nPrice: $475.00 per person\nAvailabili
- ty: 3 spots left\nStatus: Available\nEvent URL: https://members.thequinhou
+ ty: 2 spots left\nStatus: Available\nEvent URL: https://members.thequinhou
  se.com/events/207106\n\nAnother night of Celtics basketball awaits at TD G
  arden. Join fellow members in The ’Quin Suite (#524) as the Celtics face
   off against the Orlando Magic for an exciting regular-season matchup.\n
