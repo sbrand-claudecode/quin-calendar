@@ -51,7 +51,7 @@ DTSTART;TZID=America/New_York:20261009T160000
 DTEND;TZID=America/New_York:20261009T180000
 SUMMARY:Member Meet Up: Night Shift Brewery 
 LOCATION:Offsite: Night Shift Brewery Esplanade
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 28 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 27 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/2
  07462\n\nJoin fellow members for an early autumn evening at Night Shift B
  rewery on the Esplanade\, a lively outdoor beer garden set along the Charl
@@ -75,7 +75,7 @@ DTSTART;TZID=America/New_York:20261009T183000
 DTEND;TZID=America/New_York:20261009T200000
 SUMMARY:'Quin Chat: CTE's Lasting Impact on the NFL 
 LOCATION:The Muse
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 13 spots lef
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 14 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/2
  06163\n\n6:30PM Reception\, 7:00PM Discussion\n\nWhat does the latest scie
  nce reveal about the lasting impact of contact sports on the brain - and h
@@ -113,26 +113,25 @@ DTSTART;TZID=America/New_York:20261010T140000
 DTEND;TZID=America/New_York:20261010T170000
 SUMMARY:The Social Set: Padel & Pickleball 
 LOCATION:Offsite: 25 Pier 4 Blvd.\, Boston
-DESCRIPTION:Category: Sports & Games\nPrice: Free\nAvailability: 1 spot lef
- t\nStatus: Waitlist Only\nEvent URL: https://members.thequinhouse.com/even
- ts/206904\n\n2:00PM Pro-Led Instruction\, 2:30PM Open Play\, 4:00PM - Reco
- very and Member Mingling\n\nJoin us for an offsite afternoon of play as Th
- e 'Quin House takes over the courts at Ballers in the Seaport. Whether you
- 're picking up the racquet for the first time\, or have tried the sport an
- d would like to learn more\, members are invited to experience two of tod
- ay’s most exciting racquet sports\, pickleball and padel\, in a lively\,
-  social setting.\n\nThe afternoon will begin with professional instructors
-  Mike Millet for pickleball and Colin Lamusta for padel\, giving members 
- guidance before moving into rotating play and friendly matches across both
-  sports\, guided by the Ballers team. Members will have the opportunity to
-  rotate between pickleball and padel courts to experience both racquet spo
- rts with pros and members. Post play\, members can stick around to mix\, m
- ingle\, and enjoy food and drinks for purchase at the Ballers food trucks 
- and bar. After play\, members are welcome to stick around to mix\, mingle
- \, and enjoy food and drinks available for purchase from the Ballers food 
- trucks and bar.\n\n*This event is complimentary and reserved for members o
- nly. We kindly ask that all cancellations be made at least 48 hours prior 
- to the start of the event.
+DESCRIPTION:Category: Sports & Games\nPrice: Free\nStatus: Waitlist Only\nE
+ vent URL: https://members.thequinhouse.com/events/206904\n\n2:00PM Pro-Led
+  Instruction\, 2:30PM Open Play\, 4:00PM - Recovery and Member Mingling\n\
+ nJoin us for an offsite afternoon of play as The 'Quin House takes over th
+ e courts at Ballers in the Seaport. Whether you're picking up the racquet 
+ for the first time\, or have tried the sport and would like to learn more\
+ , members are invited to experience two of today’s most exciting racque
+ t sports\, pickleball and padel\, in a lively\, social setting.\n\nThe aft
+ ernoon will begin with professional instructors Mike Millet for picklebal
+ l and Colin Lamusta for padel\, giving members guidance before moving into
+  rotating play and friendly matches across both sports\, guided by the Bal
+ lers team. Members will have the opportunity to rotate between pickleball 
+ and padel courts to experience both racquet sports with pros and members. 
+ Post play\, members can stick around to mix\, mingle\, and enjoy food and 
+ drinks for purchase at the Ballers food trucks and bar. After play\, memb
+ ers are welcome to stick around to mix\, mingle\, and enjoy food and drink
+ s available for purchase from the Ballers food trucks and bar.\n\n*This ev
+ ent is complimentary and reserved for members only. We kindly ask that all
+  cancellations be made at least 48 hours prior to the start of the event.
 URL:https://members.thequinhouse.com/events/206904
 CATEGORIES:Sports & Games
 END:VEVENT
@@ -166,7 +165,7 @@ DTSTART;TZID=America/New_York:20261012T180000
 DTEND;TZID=America/New_York:20261012T210000
 SUMMARY:Community Table
 LOCATION:Café Q
-DESCRIPTION:Category: Food & Beverage\nPrice: Free\nAvailability: 2 spots l
+DESCRIPTION:Category: Food & Beverage\nPrice: Free\nAvailability: 3 spots l
  eft\nStatus: Waitlist Only\nEvent URL: https://members.thequinhouse.com/ev
  ents/205200\n\nEase into the week around the table with the return of Caf�
  � Q’s Community Table. Designed for members looking to meet new faces an
@@ -211,7 +210,7 @@ DTSTART;TZID=America/New_York:20261013T190000
 DTEND;TZID=America/New_York:20261013T200000
 SUMMARY:Author's Circle Book Club: "Safekeeping" by Claudia Hinz
 LOCATION:The Muse
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 4 spots left\nSt
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 5 spots left\nSt
  atus: Available\nEvent URL: https://members.thequinhouse.com/events/203629
  \n\nThis October\, settle into the season with Safekeeping by Claudia Hinz
  \, a sweeping and deeply moving novel about family\, memory\, and the secr
@@ -277,7 +276,7 @@ DTSTART;TZID=America/New_York:20261014T170000
 DTEND;TZID=America/New_York:20261014T183000
 SUMMARY:'Quin Chat: From Head Of The Charles to Los Angeles 2028 
 LOCATION:The Pub
-DESCRIPTION:Category: Sports & Games\nPrice: Free\nAvailability: 101 spots 
+DESCRIPTION:Category: Sports & Games\nPrice: Free\nAvailability: 100 spots 
  left\nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.c
  om/events/206907\n\n5:00PM Reception\, 5:30PM Discussion\n\nAs the rowing
   world turns its attention to Boston for one of the sport’s most celebra
@@ -367,7 +366,7 @@ DTSTART;TZID=America/New_York:20261017T100000
 DTEND;TZID=America/New_York:20261017T120000
 SUMMARY:Hands On Impact: Cradles to Crayons
 LOCATION:Offsite - The Giving Factory
-DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nAvailability: 18 sp
+DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nAvailability: 14 sp
  ots left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/e
  vents/195628\n\nMake an impact with Cradles to Crayons through a hands-on 
  volunteer opportunity. Cradles to Crayons is a nonprofit committed to endi
