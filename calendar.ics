@@ -74,7 +74,7 @@ DTEND;TZID=America/New_York:20261013T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 6 spots left\nStatus: Available\nEvent URL: https://membe
+ e\nAvailability: 5 spots left\nStatus: Available\nEvent URL: https://membe
  rs.thequinhouse.com/events/205199\n\nJoin us for our weekly Member Mingle\
  , an inclusive gathering set in an ambiant reserved space. This is your op
  portunity to connect with fellow members\, exchange ideas\, and cultivate 
@@ -96,7 +96,7 @@ DTSTART;TZID=America/New_York:20261013T190000
 DTEND;TZID=America/New_York:20261013T200000
 SUMMARY:Author's Circle Book Club: "Safekeeping" by Claudia Hinz
 LOCATION:The Muse
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 12 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 14 spots left\nS
  tatus: Available\nEvent URL: https://members.thequinhouse.com/events/20362
  9\n\nThis October\, settle into the season with Safekeeping by Claudia Hin
  z\, a sweeping and deeply moving novel about family\, memory\, and the sec
@@ -128,7 +128,7 @@ DTEND;TZID=America/New_York:20261013T203000
 SUMMARY:'Quin Chat: Modern Parenting - Navigating Teen Mental Health Togeth
  er
 LOCATION:Scottie's
-DESCRIPTION:Category: Health & Wellness\nPrice: Free\nAvailability: 58 spot
+DESCRIPTION:Category: Health & Wellness\nPrice: Free\nAvailability: 59 spot
  s left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/eve
  nts/206905\n\n7:00PM Reception\, 7:30PM Discussion\n\nWhat is simply part 
  of being a teenager—and when does it warrant a closer look? Join us for 
@@ -310,24 +310,24 @@ DTEND;TZID=America/New_York:20261019T210000
 SUMMARY:Serendipity Dinner: The Under 40 Table
 LOCATION:The Muse
 DESCRIPTION:Category: Food & Beverage\, Member Mixer\nPrice: $100.00 per pe
- rson\nAvailability: 10 spots left\nStatus: Available\nEvent URL: https://m
- embers.thequinhouse.com/events/206205\n\nStep into a lively evening design
- ed for members aged under 40\, where new connections come naturally and co
- nversation carries easily around the table. This Serendipity Dinner invite
- s you to gather in The Muse for a relaxed\, yet refined dinner\, with fell
- ow members at a similar stage of life.\n\nThe evening unfolds over a thoug
- htfully curated dinner\, complemented by subtle conversation prompts desig
- ned to spark connection\, uncover shared interests\, and keep the dialogue
-  flowing throughout the evening.\n\nWhether you are newer to The ‘House\
- , or simply looking to broaden your circle\, consider this an invitation t
- o settle in\, share a table\, and get to know fellow members you may not o
- therwise have the chance to meet. Come for dinner\, stay for the conversat
- ion\, and leave with a few new connections—and perhaps a little serendip
- ity.\n\n*Tickets are $100 per person\, plus tax\, and are reserved for mem
- bers only. Cancellations within 72 hours of the event\, or failure to atte
- nd\, will be charged in full. Please inform us of any dietary needs or res
- trictions by emailing happenings@thequin.com at least 72 hours before dinn
- er service.
+ rson\nAvailability: 9 spots left\nStatus: Available\nEvent URL: https://me
+ mbers.thequinhouse.com/events/206205\n\nStep into a lively evening designe
+ d for members aged under 40\, where new connections come naturally and con
+ versation carries easily around the table. This Serendipity Dinner invites
+  you to gather in The Muse for a relaxed\, yet refined dinner\, with fello
+ w members at a similar stage of life.\n\nThe evening unfolds over a though
+ tfully curated dinner\, complemented by subtle conversation prompts design
+ ed to spark connection\, uncover shared interests\, and keep the dialogue 
+ flowing throughout the evening.\n\nWhether you are newer to The ‘House\,
+  or simply looking to broaden your circle\, consider this an invitation to
+  settle in\, share a table\, and get to know fellow members you may not ot
+ herwise have the chance to meet. Come for dinner\, stay for the conversati
+ on\, and leave with a few new connections—and perhaps a little serendipi
+ ty.\n\n*Tickets are $100 per person\, plus tax\, and are reserved for memb
+ ers only. Cancellations within 72 hours of the event\, or failure to atten
+ d\, will be charged in full. Please inform us of any dietary needs or rest
+ rictions by emailing happenings@thequin.com at least 72 hours before dinne
+ r service.
 URL:https://members.thequinhouse.com/events/206205
 CATEGORIES:Food & Beverage,Member Mixer
 END:VEVENT
@@ -620,7 +620,7 @@ DTSTART;TZID=America/New_York:20261027T180000
 DTEND;TZID=America/New_York:20261027T190000
 SUMMARY:Improv Comedy | 6:00PM Show
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 49 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 47 spots left\nS
  tatus: Available\nEvent URL: https://members.thequinhouse.com/events/20691
  5\n\nBoston’s best return to the 'House! Improv comedians are ready to k
  eep you laughing with spontaneous sketches\, quick wit\, and audience-insp
@@ -664,7 +664,7 @@ DTSTART;TZID=America/New_York:20261027T200000
 DTEND;TZID=America/New_York:20261027T210000
 SUMMARY:Improv Comedy | 8:00PM Show
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 56 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 54 spots left\nS
  tatus: Available\nEvent URL: https://members.thequinhouse.com/events/20691
  4\n\nBoston’s best return to the 'House! Improv comedians are ready to k
  eep you laughing with spontaneous sketches\, quick wit\, and audience-insp
@@ -868,7 +868,7 @@ DTEND;TZID=America/New_York:20261102T210000
 SUMMARY:Serendipity Dinner 
 LOCATION:The Muse
 DESCRIPTION:Category: Food & Beverage\nPrice: $100.00 per person\nAvailabil
- ity: 17 spots left\nStatus: Available\nEvent URL: https://members.thequinh
+ ity: 16 spots left\nStatus: Available\nEvent URL: https://members.thequinh
  ouse.com/events/176003\n\nJoin The ’Quin House Managing Director\, Matth
  ias Kiehm\, for an intimate evening centered around thoughtful conversatio
  n\, new connections\, and exceptional dining. Over a beautifully curated t
@@ -941,7 +941,7 @@ DTSTART;TZID=America/New_York:20261109T180000
 DTEND;TZID=America/New_York:20261109T210000
 SUMMARY:Community Table
 LOCATION:Café Q
-DESCRIPTION:Category: Food & Beverage\nPrice: Free\nAvailability: 7 spots l
+DESCRIPTION:Category: Food & Beverage\nPrice: Free\nAvailability: 6 spots l
  eft\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events
  /208335\n\nEase into the week around the table with the return of Café Q�
  ��s Community Table. Designed for members looking to meet new faces and ma
