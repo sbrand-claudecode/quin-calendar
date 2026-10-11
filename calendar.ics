@@ -45,29 +45,6 @@ URL:https://members.thequinhouse.com/events/205635
 CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
-UID:quin-event-205641@thequinhouse.com
-DTSTAMP:20261010T200000Z
-DTSTART;TZID=America/New_York:20261010T200000
-DTEND;TZID=America/New_York:20261010T223000
-SUMMARY:'Quin Suite: Celtics vs. 76ers 
-LOCATION:Offsite - TD Garden
-DESCRIPTION:Category: Sports & Games\nPrice: $349.00 per person\nStatus: so
- ldOut\nEvent URL: https://members.thequinhouse.com/events/205641\n\nGet an
-  early look at the season ahead from The ’Quin Suite (#524) at TD Garden
-  as the Celtics take on the Philadelphia 76ers in preseason action.\n\nAll
-  suite ticket options include incredible views of the on-court action and 
- light gameday bites and an assortment of refreshments including wine\, bee
- r and seltzer. Are you game?\n\n*A pair of 'Quin suite seats is available 
- for $738 total ($369 per ticket). Individual suite tickets are available f
- or bar stool / standing access only\, offered at a reduced price of $349 p
- er ticket. Suite tickets are non-refundable and are non-transferable. Memb
- ers may purchase tickets for up to 3 guests and are required to accompany 
- them at all times. The suite is limited to those ages 16+ as a courtesy to
-  fellow members.
-URL:https://members.thequinhouse.com/events/205641
-CATEGORIES:Sports & Games
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-205200@thequinhouse.com
 DTSTAMP:20261012T180000Z
 DTSTART;TZID=America/New_York:20261012T180000
@@ -97,7 +74,7 @@ DTEND;TZID=America/New_York:20261013T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 7 spots left\nStatus: Available\nEvent URL: https://membe
+ e\nAvailability: 6 spots left\nStatus: Available\nEvent URL: https://membe
  rs.thequinhouse.com/events/205199\n\nJoin us for our weekly Member Mingle\
  , an inclusive gathering set in an ambiant reserved space. This is your op
  portunity to connect with fellow members\, exchange ideas\, and cultivate 
@@ -119,7 +96,7 @@ DTSTART;TZID=America/New_York:20261013T190000
 DTEND;TZID=America/New_York:20261013T200000
 SUMMARY:Author's Circle Book Club: "Safekeeping" by Claudia Hinz
 LOCATION:The Muse
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 11 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 12 spots left\nS
  tatus: Available\nEvent URL: https://members.thequinhouse.com/events/20362
  9\n\nThis October\, settle into the season with Safekeeping by Claudia Hin
  z\, a sweeping and deeply moving novel about family\, memory\, and the sec
@@ -185,7 +162,7 @@ DTSTART;TZID=America/New_York:20261014T170000
 DTEND;TZID=America/New_York:20261014T183000
 SUMMARY:'Quin Chat: From Head Of The Charles to Los Angeles 2028 
 LOCATION:The Pub
-DESCRIPTION:Category: Sports & Games\nPrice: Free\nAvailability: 98 spots l
+DESCRIPTION:Category: Sports & Games\nPrice: Free\nAvailability: 97 spots l
  eft\nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.co
  m/events/206907\n\n5:00PM Reception\, 5:30PM Discussion\n\nAs the rowing 
  world turns its attention to Boston for one of the sport’s most celebrat
@@ -964,7 +941,7 @@ DTSTART;TZID=America/New_York:20261109T180000
 DTEND;TZID=America/New_York:20261109T210000
 SUMMARY:Community Table
 LOCATION:Café Q
-DESCRIPTION:Category: Food & Beverage\nPrice: Free\nAvailability: 8 spots l
+DESCRIPTION:Category: Food & Beverage\nPrice: Free\nAvailability: 7 spots l
  eft\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events
  /208335\n\nEase into the week around the table with the return of Café Q�
  ��s Community Table. Designed for members looking to meet new faces and ma
