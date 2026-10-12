@@ -51,18 +51,18 @@ DTSTART;TZID=America/New_York:20261012T180000
 DTEND;TZID=America/New_York:20261012T210000
 SUMMARY:Community Table
 LOCATION:Café Q
-DESCRIPTION:Category: Food & Beverage\nPrice: Free\nAvailability: 6 spots l
- eft\nStatus: Waitlist Only\nEvent URL: https://members.thequinhouse.com/ev
- ents/205200\n\nEase into the week around the table with the return of Caf�
- � Q’s Community Table. Designed for members looking to meet new faces an
- d make new connections\, the evening brings together good food and engagin
- g conversation in a relaxed\, convivial setting. Take a seat\, share a mea
- l\, and see where the conversation leads.\n\n*This event is reserved for m
- embers only. An advance charge of $24 per member contributes to communal a
- ppetizers available upon seating. Members are responsible for à la carte 
- entrées\, desserts\, and beverages\, plus taxes and fees. Cancellations m
- ade within 24 hours of the event\, or failure to attend will be subject to
-  the Café Q's surcharge policy.
+DESCRIPTION:Category: Food & Beverage\nPrice: Free\nStatus: Waitlist Only\n
+ Event URL: https://members.thequinhouse.com/events/205200\n\nEase into the
+  week around the table with the return of Café Q’s Community Table. Des
+ igned for members looking to meet new faces and make new connections\, the
+  evening brings together good food and engaging conversation in a relaxed\
+ , convivial setting. Take a seat\, share a meal\, and see where the conver
+ sation leads.\n\n*This event is reserved for members only. An advance char
+ ge of $24 per member contributes to communal appetizers available upon sea
+ ting. Members are responsible for à la carte entrées\, desserts\, and be
+ verages\, plus taxes and fees. Cancellations made within 24 hours of the e
+ vent\, or failure to attend will be subject to the Café Q's surcharge pol
+ icy.
 URL:https://members.thequinhouse.com/events/205200
 CATEGORIES:Food & Beverage
 END:VEVENT
@@ -74,7 +74,7 @@ DTEND;TZID=America/New_York:20261013T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 5 spots left\nStatus: Available\nEvent URL: https://membe
+ e\nAvailability: 6 spots left\nStatus: Available\nEvent URL: https://membe
  rs.thequinhouse.com/events/205199\n\nJoin us for our weekly Member Mingle\
  , an inclusive gathering set in an ambiant reserved space. This is your op
  portunity to connect with fellow members\, exchange ideas\, and cultivate 
@@ -96,7 +96,7 @@ DTSTART;TZID=America/New_York:20261013T190000
 DTEND;TZID=America/New_York:20261013T200000
 SUMMARY:Author's Circle Book Club: "Safekeeping" by Claudia Hinz
 LOCATION:The Muse
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 16 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 19 spots left\nS
  tatus: Available\nEvent URL: https://members.thequinhouse.com/events/20362
  9\n\nThis October\, settle into the season with Safekeeping by Claudia Hin
  z\, a sweeping and deeply moving novel about family\, memory\, and the sec
@@ -162,7 +162,7 @@ DTSTART;TZID=America/New_York:20261014T170000
 DTEND;TZID=America/New_York:20261014T183000
 SUMMARY:'Quin Chat: From Head Of The Charles to Los Angeles 2028 
 LOCATION:The Pub
-DESCRIPTION:Category: Sports & Games\nPrice: Free\nAvailability: 99 spots l
+DESCRIPTION:Category: Sports & Games\nPrice: Free\nAvailability: 97 spots l
  eft\nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.co
  m/events/206907\n\n5:00PM Reception\, 5:30PM Discussion\n\nAs the rowing 
  world turns its attention to Boston for one of the sport’s most celebrat
@@ -215,7 +215,7 @@ DTEND;TZID=America/New_York:20261014T193000
 SUMMARY:Author Talk: "Starting Over with John and Yoko" with Roger Farringt
  on and Kenneth Womack
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 46 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 42 spots left\nS
  tatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/even
  ts/206906\n\n6:00PM Reception\, 6:30PM Discussion\n\nFresh off the book’
  s launch in New York City\, join us for Boston’s exclusive first look at
@@ -339,7 +339,7 @@ DTEND;TZID=America/New_York:20261020T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 20 spots left\nStatus: Available\nEvent URL: https://memb
+ e\nAvailability: 19 spots left\nStatus: Available\nEvent URL: https://memb
  ers.thequinhouse.com/events/205202\n\nJoin us for our weekly Member Mingle
  \, an inclusive gathering set in an ambiant reserved space. This is your o
  pportunity to connect with fellow members\, exchange ideas\, and cultivate
@@ -597,7 +597,7 @@ DTEND;TZID=America/New_York:20261027T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 26 spots left\nStatus: Available\nEvent URL: https://memb
+ e\nAvailability: 24 spots left\nStatus: Available\nEvent URL: https://memb
  ers.thequinhouse.com/events/205203\n\nEase into the week in good company a
  t our weekly Member Mingle\, a relaxed gathering in The Living Room design
  ed to bring members together. Settle in\, enjoy a selection of charcuterie
@@ -620,7 +620,7 @@ DTSTART;TZID=America/New_York:20261027T180000
 DTEND;TZID=America/New_York:20261027T190000
 SUMMARY:Improv Comedy | 6:00PM Show
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 45 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 36 spots left\nS
  tatus: Available\nEvent URL: https://members.thequinhouse.com/events/20691
  5\n\nBoston’s best return to the 'House! Improv comedians are ready to k
  eep you laughing with spontaneous sketches\, quick wit\, and audience-insp
@@ -664,7 +664,7 @@ DTSTART;TZID=America/New_York:20261027T200000
 DTEND;TZID=America/New_York:20261027T210000
 SUMMARY:Improv Comedy | 8:00PM Show
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 52 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 46 spots left\nS
  tatus: Available\nEvent URL: https://members.thequinhouse.com/events/20691
  4\n\nBoston’s best return to the 'House! Improv comedians are ready to k
  eep you laughing with spontaneous sketches\, quick wit\, and audience-insp
@@ -839,24 +839,24 @@ DTEND;TZID=America/New_York:20261031T140000
 SUMMARY:Serendipity Brunch: All Hallows’ Eve Affair
 LOCATION:Lunasol
 DESCRIPTION:Category: Member Mixer\nPrice: $65.00 per person\nAvailability:
-  11 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
- .com/events/206204\n\nJoin us for a spirited edition of Serendipity Brunch
- \, hosted by The ’Quin’s Membership Team. This Halloween\, members are
-  invited to gather in Lunasol for meaningful conversation\, great company\
- , and a little festive fun. Come as you are—or embrace the occasion and 
- arrive in costume—as you connect with fellow members over a curated card
-  deck of conversation prompts to inspire connections.\n\nBrunch will showc
- ase a seasonal selection of chef-crafted entrées\, such as classic Eggs B
- enedict or a light egg white frittata\, served alongside family-style favo
- rites and complemented by classic brunch cocktails\, including mimosas and
- \, of course\, Bloody Marys.\n\nSettle in for an unhurried afternoon at Th
- e ’House filled with good food\, new connections\, and just the right am
- ount of Halloween mischief. Costumes are encouraged\, conversation comes n
- aturally\, and a little serendipity is always on the menu.\n\n*Tickets are
-  $65 per person\, plus tax\, and are reserved for members only. Cancellati
- ons within 72 hours of the event\, or failure to attend\, will be charged 
- in full. Please inform us of any dietary needs or restrictions by emailing
-  happening@thequin.com at least 72 hours prior to the event.
+  8 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse.
+ com/events/206204\n\nJoin us for a spirited edition of Serendipity Brunch\
+ , hosted by The ’Quin’s Membership Team. This Halloween\, members are 
+ invited to gather in Lunasol for meaningful conversation\, great company\,
+  and a little festive fun. Come as you are—or embrace the occasion and a
+ rrive in costume—as you connect with fellow members over a curated card 
+ deck of conversation prompts to inspire connections.\n\nBrunch will showca
+ se a seasonal selection of chef-crafted entrées\, such as classic Eggs Be
+ nedict or a light egg white frittata\, served alongside family-style favor
+ ites and complemented by classic brunch cocktails\, including mimosas and\
+ , of course\, Bloody Marys.\n\nSettle in for an unhurried afternoon at The
+  ’House filled with good food\, new connections\, and just the right amo
+ unt of Halloween mischief. Costumes are encouraged\, conversation comes na
+ turally\, and a little serendipity is always on the menu.\n\n*Tickets are 
+ $65 per person\, plus tax\, and are reserved for members only. Cancellatio
+ ns within 72 hours of the event\, or failure to attend\, will be charged i
+ n full. Please inform us of any dietary needs or restrictions by emailing 
+ happening@thequin.com at least 72 hours prior to the event.
 URL:https://members.thequinhouse.com/events/206204
 CATEGORIES:Member Mixer
 END:VEVENT
@@ -868,7 +868,7 @@ DTEND;TZID=America/New_York:20261102T210000
 SUMMARY:Serendipity Dinner 
 LOCATION:The Muse
 DESCRIPTION:Category: Food & Beverage\nPrice: $100.00 per person\nAvailabil
- ity: 16 spots left\nStatus: Available\nEvent URL: https://members.thequinh
+ ity: 15 spots left\nStatus: Available\nEvent URL: https://members.thequinh
  ouse.com/events/176003\n\nJoin The ’Quin House Managing Director\, Matth
  ias Kiehm\, for an intimate evening centered around thoughtful conversatio
  n\, new connections\, and exceptional dining. Over a beautifully curated t
@@ -893,7 +893,7 @@ DTEND;TZID=America/New_York:20261103T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 27 spots left\nStatus: Available\nEvent URL: https://memb
+ e\nAvailability: 26 spots left\nStatus: Available\nEvent URL: https://memb
  ers.thequinhouse.com/events/208333\n\nEase into the week in good company a
  t our weekly Member Mingle\, a relaxed gathering in The Living Room design
  ed to bring members together. Settle in\, enjoy a selection of charcuterie
@@ -941,7 +941,7 @@ DTSTART;TZID=America/New_York:20261109T180000
 DTEND;TZID=America/New_York:20261109T210000
 SUMMARY:Community Table
 LOCATION:Café Q
-DESCRIPTION:Category: Food & Beverage\nPrice: Free\nAvailability: 5 spots l
+DESCRIPTION:Category: Food & Beverage\nPrice: Free\nAvailability: 4 spots l
  eft\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events
  /208335\n\nEase into the week around the table with the return of Café Q�
  ��s Community Table. Designed for members looking to meet new faces and ma
