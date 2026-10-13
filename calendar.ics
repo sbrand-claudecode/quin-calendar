@@ -45,28 +45,6 @@ URL:https://members.thequinhouse.com/events/205635
 CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
-UID:quin-event-205200@thequinhouse.com
-DTSTAMP:20261012T180000Z
-DTSTART;TZID=America/New_York:20261012T180000
-DTEND;TZID=America/New_York:20261012T210000
-SUMMARY:Community Table
-LOCATION:Café Q
-DESCRIPTION:Category: Food & Beverage\nPrice: Free\nStatus: Waitlist Only\n
- Event URL: https://members.thequinhouse.com/events/205200\n\nEase into the
-  week around the table with the return of Café Q’s Community Table. Des
- igned for members looking to meet new faces and make new connections\, the
-  evening brings together good food and engaging conversation in a relaxed\
- , convivial setting. Take a seat\, share a meal\, and see where the conver
- sation leads.\n\n*This event is reserved for members only. An advance char
- ge of $24 per member contributes to communal appetizers available upon sea
- ting. Members are responsible for à la carte entrées\, desserts\, and be
- verages\, plus taxes and fees. Cancellations made within 24 hours of the e
- vent\, or failure to attend will be subject to the Café Q's surcharge pol
- icy.
-URL:https://members.thequinhouse.com/events/205200
-CATEGORIES:Food & Beverage
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-205199@thequinhouse.com
 DTSTAMP:20261013T170000Z
 DTSTART;TZID=America/New_York:20261013T170000
@@ -74,7 +52,7 @@ DTEND;TZID=America/New_York:20261013T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 6 spots left\nStatus: Available\nEvent URL: https://membe
+ e\nAvailability: 5 spots left\nStatus: Available\nEvent URL: https://membe
  rs.thequinhouse.com/events/205199\n\nJoin us for our weekly Member Mingle\
  , an inclusive gathering set in an ambiant reserved space. This is your op
  portunity to connect with fellow members\, exchange ideas\, and cultivate 
@@ -96,7 +74,7 @@ DTSTART;TZID=America/New_York:20261013T190000
 DTEND;TZID=America/New_York:20261013T200000
 SUMMARY:Author's Circle Book Club: "Safekeeping" by Claudia Hinz
 LOCATION:The Muse
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 19 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 18 spots left\nS
  tatus: Available\nEvent URL: https://members.thequinhouse.com/events/20362
  9\n\nThis October\, settle into the season with Safekeeping by Claudia Hin
  z\, a sweeping and deeply moving novel about family\, memory\, and the sec
@@ -620,7 +598,7 @@ DTSTART;TZID=America/New_York:20261027T180000
 DTEND;TZID=America/New_York:20261027T190000
 SUMMARY:Improv Comedy | 6:00PM Show
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 36 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 34 spots left\nS
  tatus: Available\nEvent URL: https://members.thequinhouse.com/events/20691
  5\n\nBoston’s best return to the 'House! Improv comedians are ready to k
  eep you laughing with spontaneous sketches\, quick wit\, and audience-insp
@@ -664,7 +642,7 @@ DTSTART;TZID=America/New_York:20261027T200000
 DTEND;TZID=America/New_York:20261027T210000
 SUMMARY:Improv Comedy | 8:00PM Show
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 46 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 44 spots left\nS
  tatus: Available\nEvent URL: https://members.thequinhouse.com/events/20691
  4\n\nBoston’s best return to the 'House! Improv comedians are ready to k
  eep you laughing with spontaneous sketches\, quick wit\, and audience-insp
@@ -941,7 +919,7 @@ DTSTART;TZID=America/New_York:20261109T180000
 DTEND;TZID=America/New_York:20261109T210000
 SUMMARY:Community Table
 LOCATION:Café Q
-DESCRIPTION:Category: Food & Beverage\nPrice: Free\nAvailability: 4 spots l
+DESCRIPTION:Category: Food & Beverage\nPrice: Free\nAvailability: 3 spots l
  eft\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events
  /208335\n\nEase into the week around the table with the return of Café Q�
  ��s Community Table. Designed for members looking to meet new faces and ma
