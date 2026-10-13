@@ -407,6 +407,10 @@ function planTickets(detail, requested, maxPerTicket = null) {
   if (!tickets.length) return { error: 'the event lists no tickets' };
   const member = selectMemberTicket(tickets);
   if (!member) {
+    const own = tickets.filter((t) => !isGuestTicket(t));
+    if (own.length && own.every(isCoupleTicket)) {
+      return { error: 'this event only offers Couple Member tickets (for couple memberships) — register manually' };
+    }
     return { error: `couldn't tell which ticket is yours: ${tickets.map((t) => `"${ticketName(t)}"`).join(', ')}` };
   }
   const opensAt = saleOpensAt(detail);
@@ -562,6 +566,12 @@ async function addToCart(ctx, r, plan) {
   return { plan: current };
 }
 
+function planSummary(plan) {
+  if (plan.error || plan.skip) return plan.error || plan.skip;
+  return plan.lines.map((l) => `${l.qty} × "${ticketName(l.ticket)}"`).join(' + ') +
+    (plan.notes.length ? ` (${plan.notes.join('; ')})` : '');
+}
+
 async function dryRunReport(ctx, r, detail) {
   const plan = planTickets(detail, r.requested, r.maxPerTicket);
   const opensAt = saleOpensAt(detail); // plan.opensAt is unset when the plan is a skip/error
@@ -570,10 +580,7 @@ async function dryRunReport(ctx, r, detail) {
   const tickets = listTickets(detail).map((t) =>
     `"${ticketName(t)}" $${ticketPrice(t)} (max ${t.max_qty ?? '—'}, available ${t.available_quantity ?? '—'}, ` +
     `on sale ${t.on_sale ? formatOpens(new Date(t.on_sale)) : '—'})`);
-  let planText;
-  if (plan.error || plan.skip) planText = plan.error || plan.skip;
-  else planText = plan.lines.map((l) => `${l.qty} × "${ticketName(l.ticket)}"`).join(' + ') +
-    (plan.notes.length ? ` (${plan.notes.join('; ')})` : '');
+  const planText = planSummary(plan);
   let payText = `no charge planned; column H limit: ${r.maxPerTicket === null ? 'blank' : `$${r.maxPerTicket}`} per ticket; paid checkout switch: ${PAID_ENABLED ? 'ON' : 'off'}`;
   if (!plan.error && !plan.skip && plan.expectedTotal > 0) {
     const w = await defaultCard(ctx);
@@ -691,10 +698,15 @@ async function enrollRow(ctx, r) {
 
 // Fetch each candidate's event: note already-registered rows, keep the Opens
 // column current, and return the rows opening soon enough for this run.
+// The first time a row is looked up (Opens still blank) it also plans the
+// purchase, and warns Steve right away if something needs his attention —
+// on 10/13 an unfamiliar ticket set only surfaced 2 minutes before opening.
 async function lookUpOpenings(ctx, sheet, candidates, results, handled) {
   const horizon = Math.min(Date.now() + ARM_WINDOW_MS + LOOKAHEAD_SLACK_MS, JOB_START + JOB_BUDGET_MS);
   const due = [];
+  const headsUp = [];
   for (const r of candidates) {
+    const firstLookup = !r.opensAt;
     const needsFetch = DRY_RUN || TARGET_ROW || !r.opensAt || r.opensAt.getTime() <= horizon;
     if (!needsFetch) continue;
     const res = await quin('GET', `/api/events/${r.eventId}`, ctx.token);
@@ -729,6 +741,19 @@ async function lookUpOpenings(ctx, sheet, candidates, results, handled) {
       handled.add(r.row);
       results.push({ r, outcome: 'later', detail: `opens ${human(r.opensAt)} — too far off for this run; the scheduled checks will arm for it` });
     }
+    // Rows opening in this run get the full report at enrollment time instead.
+    if (!DRY_RUN && firstLookup && r.opensAt.getTime() > horizon) {
+      const plan = planTickets(res.data, r.requested, r.maxPerTicket);
+      if (plan.error || plan.skip || plan.notes.length) headsUp.push({ r, plan });
+    }
+  }
+  if (headsUp.length) {
+    console.log(`Early warning for ${headsUp.length} row(s).`);
+    const body = headsUp.map(({ r, plan }) =>
+      `⚠️ ${r.name} (row ${r.row}) — opens ${human(r.opensAt)}\n    ${plan.error || plan.skip ? 'problem' : 'will buy'}: ${planSummary(plan)}`).join('\n\n') +
+      '\n\nNothing has been bought and the row stays Pending. Fix the row (column C or H), or plan to register by hand when it opens.';
+    await notifyBoth(`Quin: ${headsUp.length} new row${headsUp.length === 1 ? '' : 's'} need${headsUp.length === 1 ? 's' : ''} attention before opening`,
+      body, { priority: 4, tags: ['warning'] });
   }
   return due.sort((a, b) => a.opensAt - b.opensAt || a.row - b.row);
 }
