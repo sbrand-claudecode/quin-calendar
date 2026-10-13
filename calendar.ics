@@ -52,7 +52,7 @@ DTEND;TZID=America/New_York:20261013T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 5 spots left\nStatus: Available\nEvent URL: https://membe
+ e\nAvailability: 4 spots left\nStatus: Available\nEvent URL: https://membe
  rs.thequinhouse.com/events/205199\n\nJoin us for our weekly Member Mingle\
  , an inclusive gathering set in an ambiant reserved space. This is your op
  portunity to connect with fellow members\, exchange ideas\, and cultivate 
@@ -74,7 +74,7 @@ DTSTART;TZID=America/New_York:20261013T190000
 DTEND;TZID=America/New_York:20261013T200000
 SUMMARY:Author's Circle Book Club: "Safekeeping" by Claudia Hinz
 LOCATION:The Muse
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 18 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 20 spots left\nS
  tatus: Available\nEvent URL: https://members.thequinhouse.com/events/20362
  9\n\nThis October\, settle into the season with Safekeeping by Claudia Hin
  z\, a sweeping and deeply moving novel about family\, memory\, and the sec
@@ -106,7 +106,7 @@ DTEND;TZID=America/New_York:20261013T203000
 SUMMARY:'Quin Chat: Modern Parenting - Navigating Teen Mental Health Togeth
  er
 LOCATION:Scottie's
-DESCRIPTION:Category: Health & Wellness\nPrice: Free\nAvailability: 59 spot
+DESCRIPTION:Category: Health & Wellness\nPrice: Free\nAvailability: 64 spot
  s left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/eve
  nts/206905\n\n7:00PM Reception\, 7:30PM Discussion\n\nWhat is simply part 
  of being a teenager—and when does it warrant a closer look? Join us for 
@@ -140,30 +140,30 @@ DTSTART;TZID=America/New_York:20261014T170000
 DTEND;TZID=America/New_York:20261014T183000
 SUMMARY:'Quin Chat: From Head Of The Charles to Los Angeles 2028 
 LOCATION:The Pub
-DESCRIPTION:Category: Sports & Games\nPrice: Free\nAvailability: 97 spots l
- eft\nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.co
- m/events/206907\n\n5:00PM Reception\, 5:30PM Discussion\n\nAs the rowing 
- world turns its attention to Boston for one of the sport’s most celebrat
- ed weekends\, join us for a timely ’Quin Chat with NBC10 Boston Host Han
- nah Donnelly and two-time Olympic rower and Massachusetts native\, Kristi 
- Wagner. Fresh off competing at the World Rowing Championships\, Wagner wil
- l share an inside look at her experience on the international stage\, the 
- training and determination required to compete among the world’s best\, 
- and what comes next as she sets her sights on earning another Olympic bert
- h for the Los Angeles 2028 Olympic Games.\n\nTogether\, Donnelly and Wagne
- r will dive into the excitement surrounding this year’s Head Of The Char
- les Regatta\, where Wagner will once again take to the water\, and explore
-  what makes the iconic race such a defining moment for Boston and the glob
- al rowing community. Their conversation will also take a broader look at t
- he state of U.S. women’s rowing\, the athletes and momentum shaping its 
- future\, and the road ahead as the sport builds toward Los Angeles in 2028
- . From racing on the Charles to competing on the world’s biggest stage\,
-  the evening offers a rare glimpse into the life of an elite athlete and t
- he ambition\, preparation\, and perseverance behind the pursuit of Olympic
-  excellence.\n\n*This event is complimentary and reserved for members only
- . Complimentary light bites and refreshments will be served. We kindly ask
-  that all cancellations be made at least 24 hours prior to the start of th
- e event.
+DESCRIPTION:Category: Sports & Games\nPrice: Free\nAvailability: 101 spots 
+ left\nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.c
+ om/events/206907\n\n5:00PM Reception\, 5:30PM Discussion\n\nAs the rowing
+  world turns its attention to Boston for one of the sport’s most celebra
+ ted weekends\, join us for a timely ’Quin Chat with NBC10 Boston Host Ha
+ nnah Donnelly and two-time Olympic rower and Massachusetts native\, Kristi
+  Wagner. Fresh off competing at the World Rowing Championships\, Wagner wi
+ ll share an inside look at her experience on the international stage\, the
+  training and determination required to compete among the world’s best\,
+  and what comes next as she sets her sights on earning another Olympic ber
+ th for the Los Angeles 2028 Olympic Games.\n\nTogether\, Donnelly and Wagn
+ er will dive into the excitement surrounding this year’s Head Of The Cha
+ rles Regatta\, where Wagner will once again take to the water\, and explor
+ e what makes the iconic race such a defining moment for Boston and the glo
+ bal rowing community. Their conversation will also take a broader look at 
+ the state of U.S. women’s rowing\, the athletes and momentum shaping its
+  future\, and the road ahead as the sport builds toward Los Angeles in 202
+ 8. From racing on the Charles to competing on the world’s biggest stage\
+ , the evening offers a rare glimpse into the life of an elite athlete and 
+ the ambition\, preparation\, and perseverance behind the pursuit of Olympi
+ c excellence.\n\n*This event is complimentary and reserved for members onl
+ y. Complimentary light bites and refreshments will be served. We kindly as
+ k that all cancellations be made at least 24 hours prior to the start of t
+ he event.
 URL:https://members.thequinhouse.com/events/206907
 CATEGORIES:Sports & Games
 END:VEVENT
@@ -193,7 +193,7 @@ DTEND;TZID=America/New_York:20261014T193000
 SUMMARY:Author Talk: "Starting Over with John and Yoko" with Roger Farringt
  on and Kenneth Womack
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 42 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 43 spots left\nS
  tatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/even
  ts/206906\n\n6:00PM Reception\, 6:30PM Discussion\n\nFresh off the book’
  s launch in New York City\, join us for Boston’s exclusive first look at
@@ -263,20 +263,21 @@ DTSTART;TZID=America/New_York:20261017T100000
 DTEND;TZID=America/New_York:20261017T120000
 SUMMARY:Hands On Impact: Cradles to Crayons
 LOCATION:Offsite - The Giving Factory
-DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nStatus: Waitlist On
- ly\nEvent URL: https://members.thequinhouse.com/events/195628\n\nMake an i
- mpact with Cradles to Crayons through a hands-on volunteer opportunity. Cr
- adles to Crayons is a nonprofit committed to ending children’s clothing 
- insecurity in the U.S. Since 2002\, they have provided more than 6 million
-  packages of essentials - including clothing\, shoes\, diapers\, and schoo
- l supplies - to children across the country.\n\nAt the Cradles to Crayons 
- “Giving Factory\,” you will take part in sorting\, quality-checking\, 
- and packaging donations that go directly to children and families in need 
- - helping ensure every child can arrive at school feeling confident\, prep
- ared\, and valued.\n\n*This event is complimentary and reserved for member
- s\, plus one registered guest age 6+. Please wear comfortable clothing you
-  don’t mind getting dirty\, along with close-toed shoes. The warehouse i
- s not climate controlled\, so dress with the weather in mind.
+DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nAvailability: 7 spo
+ ts left\nStatus: Waitlist Only\nEvent URL: https://members.thequinhouse.co
+ m/events/195628\n\nMake an impact with Cradles to Crayons through a hands-
+ on volunteer opportunity. Cradles to Crayons is a nonprofit committed to e
+ nding children’s clothing insecurity in the U.S. Since 2002\, they have 
+ provided more than 6 million packages of essentials - including clothing\,
+  shoes\, diapers\, and school supplies - to children across the country.\n
+ \nAt the Cradles to Crayons “Giving Factory\,” you will take part in s
+ orting\, quality-checking\, and packaging donations that go directly to ch
+ ildren and families in need - helping ensure every child can arrive at sch
+ ool feeling confident\, prepared\, and valued.\n\n*This event is complimen
+ tary and reserved for members\, plus one registered guest age 6+. Please w
+ ear comfortable clothing you don’t mind getting dirty\, along with close
+ -toed shoes. The warehouse is not climate controlled\, so dress with the w
+ eather in mind.
 URL:https://members.thequinhouse.com/events/195628
 CATEGORIES:‘Quin Impact Fund
 END:VEVENT
@@ -288,7 +289,7 @@ DTEND;TZID=America/New_York:20261019T210000
 SUMMARY:Serendipity Dinner: The Under 40 Table
 LOCATION:The Muse
 DESCRIPTION:Category: Food & Beverage\, Member Mixer\nPrice: $100.00 per pe
- rson\nAvailability: 9 spots left\nStatus: Available\nEvent URL: https://me
+ rson\nAvailability: 4 spots left\nStatus: Available\nEvent URL: https://me
  mbers.thequinhouse.com/events/206205\n\nStep into a lively evening designe
  d for members aged under 40\, where new connections come naturally and con
  versation carries easily around the table. This Serendipity Dinner invites
@@ -417,23 +418,23 @@ DTSTART;TZID=America/New_York:20261024T090000
 DTEND;TZID=America/New_York:20261024T100000
 SUMMARY:Kid's Clubhouse: Trick-or-Treat Family Day | Session I
 LOCATION:Bondo
-DESCRIPTION:Category: Holiday\nPrice: Free\nStatus: Waitlist Only\nEvent UR
- L: https://members.thequinhouse.com/events/206911\n\nShimmy into your spoo
- kiest costumes and join us for a fun-filled day of trick-or-treating in th
- e transformed Web of Wonders\, a family-friendly affair for members! Equip
- ped with a map\, kids will navigate the labyrinth of floors collecting tre
- ats and enjoying activities throughout. They will be allowed to unleash th
- eir creativity at craft stations in Bondo\, then roam on over to The Terra
- ce to enjoy glitter tattoos and a festive professional photo moment. Make 
- a day of it and reserve our regular family brunch in Café Q prior to or
-  following the event. \n\n*Children ages 6+ are welcome when accompanied 
- by a member parent. Please secure one ticket per child in your party to ac
- count for supplies\; adults do not require registration. Families with thr
- ee or more children are asked to email happening@thequin.com.Each ticket g
- rants one child full access to trick-or-treating\, a tote bag keepsake for
-  their goodies\, and includes all activities during the selected session. 
- We kindly ask that all cancellations be made at least 48 hours prior to th
- e start of the event.
+DESCRIPTION:Category: Holiday\nPrice: Free\nAvailability: 2 spots left\nSta
+ tus: Waitlist Only\nEvent URL: https://members.thequinhouse.com/events/206
+ 911\n\nShimmy into your spookiest costumes and join us for a fun-filled da
+ y of trick-or-treating in the transformed Web of Wonders\, a family-friend
+ ly affair for members! Equipped with a map\, kids will navigate the labyri
+ nth of floors collecting treats and enjoying activities throughout. They w
+ ill be allowed to unleash their creativity at craft stations in Bondo\, th
+ en roam on over to The Terrace to enjoy glitter tattoos and a festive prof
+ essional photo moment. Make a day of it and reserve our regular family bru
+ nch in Café Q prior to or following the event. \n\n*Children ages 6+ a
+ re welcome when accompanied by a member parent. Please secure one ticket p
+ er child in your party to account for supplies\; adults do not require reg
+ istration. Families with three or more children are asked to email happeni
+ ng@thequin.com.Each ticket grants one child full access to trick-or-treati
+ ng\, a tote bag keepsake for their goodies\, and includes all activities d
+ uring the selected session. We kindly ask that all cancellations be made a
+ t least 48 hours prior to the start of the event.
 URL:https://members.thequinhouse.com/events/206911
 CATEGORIES:Holiday
 END:VEVENT
@@ -444,7 +445,7 @@ DTSTART;TZID=America/New_York:20261024T110000
 DTEND;TZID=America/New_York:20261024T120000
 SUMMARY:Kid's Clubhouse: Trick-or-Treat Family Day | Session II
 LOCATION:Bondo
-DESCRIPTION:Category: Holiday\nPrice: Free\nAvailability: 4 spots left\nSta
+DESCRIPTION:Category: Holiday\nPrice: Free\nAvailability: 2 spots left\nSta
  tus: Waitlist Only\nEvent URL: https://members.thequinhouse.com/events/206
  912\n\nShimmy into your spookiest costumes and join us for a fun-filled da
  y of trick-or-treating in the transformed Web of Wonders\, a family-friend
@@ -498,50 +499,51 @@ DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261026
 SUMMARY:Black Widow: Web of Deceit | Saturday Night
 LOCATION:217 Commonwealth Mansion
-DESCRIPTION:Category: Holiday\nPrice: $295.00 per person\nStatus: You are C
- onfirmed\nTime: 8 PM – 1 AM\nEvent URL: https://members.thequinhouse.com
- /events/202989\n\nSlip into the camouflage of costume for an evening under
-  the ethereal shadows of lacy silk couture…\n\nYou're cordially invited 
- to The ‘Quin’s Annual Halloween Soirée an elegant and entangled tick
- eted affair. \n\nUnder the flicker of flame\, the ‘House will captivate
-  with indulgent buffets\, enchanting performances\, and the deceivingly t
- ranslucent jeweled veil - of the spider’s web.\n\nEnsnared? Fall victi
- m.\n\nIn the shadowed corners of the ‘House\, become entangled in buffet
- s of culinary bites\, live-action stations\, passed delicacies\, and venom
- ous cocktails. A dangerous game of hide-and-seek\, spiral the Grand Stairc
- ase lured by live musical performances\, shadowed portraitists\, acrobats\
- , and other-worldly talents...\n\nPerilous vibes take center stage in \n\
- nBondo \n\nwith a Headline DJ Performance from \n\n10:00PM - Midnight\n\
- nIn the spirit of Halloween\, swarm the ‘House.\n\nCreative black tie\, 
- cocktail attire\, or a cleverly crafted costume is essential.  \n\nTicket
- s are exclusively available for purchase through the Member App & Portal b
- eginning September 16th at 10:00AM. Tickets for members and their guests a
- re $295* each. To best accommodate members' varying preferences\, we are 
- delighted to extend a limited allocation of up to 1 guest ticket per membe
- r for Saturday evening's affair.\n\n*Beverages are not included in the ti
- cket price. Beverages will be available for purchase through our masterful
-  team of mixologists. \n\n_______________________________________________
- _______\n\nPlease be aware of these important notices:\n\nCANCELLATION POL
- ICY\nKindly note that tickets are non-refundable and nontransferable once 
- assigned.\n\nENTRY\nAll Member and guest tickets purchased\, are linked to
-  the Member’s profile through the App and Portal and are required for ve
- rification and entry on these evenings.\n\nGUEST POLICY\nFollowing the reg
- ular Member Policy\, Members must arrive and remain with their guest(s) at
-  all times. Guests must be age 21+. We strongly encourage review of the Me
- mbers’ Policy to ensure that you and your guest(s) are aware of Club rul
- es.\n\nVALET SERVICES\nValet services will be suspended on the evenings of
-  October 23 & 24. Please plan ahead to secure rideshare services or park a
- t the nearest garage in Back Bay. Metered street parking is limited but al
- so available.\n\nNO PHOTO POLICY\nPlease be aware that we will offer a pho
- to opportunity on these evenings\; however\, the regular Photo Policy will
-  otherwise be in effect and enforced. Those who do not comply with the Pri
- vacy Agreement will be asked to leave the Clubhouse in keeping with the st
- andards.\n\nThe ’Quin House has contracted professional photographers an
- d videographers to capture this event. Any photos or videos distributed th
- rough ’Quin public channels will be edited to conceal the identities of 
- participating Members and their guest(s). Photos or videos that reveal Mem
- bers will only be used in Member communication with the authorization of t
- hose captured.\n\nQuestions? Please contact us at halloween@thequin.com.
+DESCRIPTION:Category: Holiday\nPrice: $295.00 per person\nAvailability: 1 s
+ pot left\nStatus: You are Confirmed\nTime: 8 PM – 1 AM\nEvent URL: https
+ ://members.thequinhouse.com/events/202989\n\nSlip into the camouflage of c
+ ostume for an evening under the ethereal shadows of lacy silk couture…\n
+ \nYou're cordially invited to The ‘Quin’s Annual Halloween Soirée an
+  elegant and entangled ticketed affair. \n\nUnder the flicker of flame\, 
+ the ‘House will captivate with indulgent buffets\, enchanting performan
+ ces\, and the deceivingly translucent jeweled veil - of the spider’s we
+ b.\n\nEnsnared? Fall victim.\n\nIn the shadowed corners of the ‘House\,
+  become entangled in buffets of culinary bites\, live-action stations\, pa
+ ssed delicacies\, and venomous cocktails. A dangerous game of hide-and-see
+ k\, spiral the Grand Staircase lured by live musical performances\, shadow
+ ed portraitists\, acrobats\, and other-worldly talents...\n\nPerilous vibe
+ s take center stage in \n\nBondo \n\nwith a Headline DJ Performance from
+  \n\n10:00PM - Midnight\n\nIn the spirit of Halloween\, swarm the ‘Hous
+ e.\n\nCreative black tie\, cocktail attire\, or a cleverly crafted costume
+  is essential.  \n\nTickets are exclusively available for purchase throug
+ h the Member App & Portal beginning September 16th at 10:00AM. Tickets for
+  members and their guests are $295* each. To best accommodate members' va
+ rying preferences\, we are delighted to extend a limited allocation of up 
+ to 1 guest ticket per member for Saturday evening's affair.\n\n*Beverages
+  are not included in the ticket price. Beverages will be available for pur
+ chase through our masterful team of mixologists. \n\n____________________
+ __________________________________\n\nPlease be aware of these important n
+ otices:\n\nCANCELLATION POLICY\nKindly note that tickets are non-refundabl
+ e and nontransferable once assigned.\n\nENTRY\nAll Member and guest ticket
+ s purchased\, are linked to the Member’s profile through the App and Por
+ tal and are required for verification and entry on these evenings.\n\nGUES
+ T POLICY\nFollowing the regular Member Policy\, Members must arrive and re
+ main with their guest(s) at all times. Guests must be age 21+. We strongly
+  encourage review of the Members’ Policy to ensure that you and your gue
+ st(s) are aware of Club rules.\n\nVALET SERVICES\nValet services will be s
+ uspended on the evenings of October 23 & 24. Please plan ahead to secure r
+ ideshare services or park at the nearest garage in Back Bay. Metered stree
+ t parking is limited but also available.\n\nNO PHOTO POLICY\nPlease be awa
+ re that we will offer a photo opportunity on these evenings\; however\, th
+ e regular Photo Policy will otherwise be in effect and enforced. Those who
+  do not comply with the Privacy Agreement will be asked to leave the Clubh
+ ouse in keeping with the standards.\n\nThe ’Quin House has contracted pr
+ ofessional photographers and videographers to capture this event. Any phot
+ os or videos distributed through ’Quin public channels will be edited to
+  conceal the identities of participating Members and their guest(s). Photo
+ s or videos that reveal Members will only be used in Member communication 
+ with the authorization of those captured.\n\nQuestions? Please contact us 
+ at halloween@thequin.com.
 URL:https://members.thequinhouse.com/events/202989
 CATEGORIES:Holiday
 END:VEVENT
@@ -575,7 +577,7 @@ DTEND;TZID=America/New_York:20261027T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 24 spots left\nStatus: Available\nEvent URL: https://memb
+ e\nAvailability: 22 spots left\nStatus: Available\nEvent URL: https://memb
  ers.thequinhouse.com/events/205203\n\nEase into the week in good company a
  t our weekly Member Mingle\, a relaxed gathering in The Living Room design
  ed to bring members together. Settle in\, enjoy a selection of charcuterie
@@ -598,7 +600,7 @@ DTSTART;TZID=America/New_York:20261027T180000
 DTEND;TZID=America/New_York:20261027T190000
 SUMMARY:Improv Comedy | 6:00PM Show
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 34 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 15 spots left\nS
  tatus: Available\nEvent URL: https://members.thequinhouse.com/events/20691
  5\n\nBoston’s best return to the 'House! Improv comedians are ready to k
  eep you laughing with spontaneous sketches\, quick wit\, and audience-insp
@@ -642,7 +644,7 @@ DTSTART;TZID=America/New_York:20261027T200000
 DTEND;TZID=America/New_York:20261027T210000
 SUMMARY:Improv Comedy | 8:00PM Show
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 44 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 34 spots left\nS
  tatus: Available\nEvent URL: https://members.thequinhouse.com/events/20691
  4\n\nBoston’s best return to the 'House! Improv comedians are ready to k
  eep you laughing with spontaneous sketches\, quick wit\, and audience-insp
@@ -682,26 +684,26 @@ DTSTART;TZID=America/New_York:20261028T180000
 DTEND;TZID=America/New_York:20261028T193000
 SUMMARY:'Quin Chat: Wealth\, Well Lived
 LOCATION:Scottie's
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 110 spots le
- ft\nStatus: futureSale\nEvent URL: https://members.thequinhouse.com/events
- /206916\n\n6:00PM Reception\, 6:30PM Discussion\nWhat does it really mean 
- to live a wealthy life? In the first of a new\, multi-part series presente
- d with Willow and The Impact Collective we will look beyond what we earn\
- , save\, or invest\, to consider how wealth reflects the choices we make\,
-  the opportunities we create\, and the values we carry into our personal a
- nd professional lives. Joined by Lacy Garcia\, Founder and CEO of Willow\,
-  and Julia Johannsen\, Founder and Executive Director of The Impact Collec
- tive\, this discussion will explore the intersection of money\, investing\
- , and personal values. Together\, they will begin to decode the systems th
- at shape our financial lives and consider how greater understanding can le
- ad to more informed\, purposeful decisions. As the series unfolds\, expect
-  to explore conversations such as the wealth gap\, generational planning\,
-  roles and representation\, and the ways we can rethink traditional ideas 
- of wealth to better align our investments with the lives and\, legacies we
-  want to build.\n\n*This event is complimentary and reserved for members o
- nly. Complimentary light bites will be served\, with beverages available f
- or purchase throughout the evening. We kindly ask that all cancellations b
- e made at least 24 hours prior to the start of the event.
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 65 spots lef
+ t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/2
+ 06916\n\n6:00PM Reception\, 6:30PM Discussion\nWhat does it really mean to
+  live a wealthy life? In the first of a new\, multi-part series presented 
+ with Willow and The Impact Collective we will look beyond what we earn\, 
+ save\, or invest\, to consider how wealth reflects the choices we make\, t
+ he opportunities we create\, and the values we carry into our personal and
+  professional lives. Joined by Lacy Garcia\, Founder and CEO of Willow\, a
+ nd Julia Johannsen\, Founder and Executive Director of The Impact Collecti
+ ve\, this discussion will explore the intersection of money\, investing\, 
+ and personal values. Together\, they will begin to decode the systems that
+  shape our financial lives and consider how greater understanding can lead
+  to more informed\, purposeful decisions. As the series unfolds\, expect t
+ o explore conversations such as the wealth gap\, generational planning\, r
+ oles and representation\, and the ways we can rethink traditional ideas of
+  wealth to better align our investments with the lives and\, legacies we w
+ ant to build.\n\n*This event is complimentary and reserved for members onl
+ y. Complimentary light bites will be served\, with beverages available for
+  purchase throughout the evening. We kindly ask that all cancellations be 
+ made at least 24 hours prior to the start of the event.
 URL:https://members.thequinhouse.com/events/206916
 CATEGORIES:‘Quin Chat
 END:VEVENT
@@ -712,25 +714,25 @@ DTSTART;TZID=America/New_York:20261029T160000
 DTEND;TZID=America/New_York:20261029T171500
 SUMMARY:Meet the Maker: Jefferson's Bourbon | Session I
 LOCATION:Scottie's
-DESCRIPTION:Category: Food & Beverage\nPrice: Free\nAvailability: 50 spots 
- left\nStatus: futureSale\nEvent URL: https://members.thequinhouse.com/even
- ts/207953\n\nJoin us for an intimate tasting experience with Jefferson’s
-  Bourbon\, exploring the craftsmanship\, character\, and creativity behind
-  each pour. The evening begins with a welcome cocktail and time to mingle 
- before a guided tasting led by Jefferson’s founder Trey Zoeller. A Kentu
- cky native with deep family ties to American whiskey\, Zoeller founded Jef
- ferson’s with his father in 1997 and has become known for challenging bo
- urbon tradition through inventive approaches to aging and blending\, earni
- ng him a place in the Kentucky Bourbon Hall of Fame.\n\nAs straight tastin
- g pours are passed\, Trey will share the story of Jefferson’s while guid
- ing members through the flavor profiles\, production process\, and distinc
- tive character of each selection. Following the tasting\, the evening open
- s back up for conversation\, giving members the opportunity to mingle\, re
- visit their favorites\, and connect with Trey one-on-one for questions and
-  a deeper dive into the world of Jefferson’s Bourbon.\n\n*This event is 
- complimentary and reserved for members only. Complimentary light bites and
-  refreshments will be served. We kindly ask that all cancellations be made
-  at least 24 hours prior to the start of the event.
+DESCRIPTION:Category: Food & Beverage\nPrice: Free\nStatus: Waitlist Only\n
+ Event URL: https://members.thequinhouse.com/events/207953\n\nJoin us for a
+ n intimate tasting experience with Jefferson’s Bourbon\, exploring the c
+ raftsmanship\, character\, and creativity behind each pour. The evening be
+ gins with a welcome cocktail and time to mingle before a guided tasting le
+ d by Jefferson’s founder Trey Zoeller. A Kentucky native with deep famil
+ y ties to American whiskey\, Zoeller founded Jefferson’s with his father
+  in 1997 and has become known for challenging bourbon tradition through in
+ ventive approaches to aging and blending\, earning him a place in the Kent
+ ucky Bourbon Hall of Fame.\n\nAs straight tasting pours are passed\, Trey 
+ will share the story of Jefferson’s while guiding members through the fl
+ avor profiles\, production process\, and distinctive character of each sel
+ ection. Following the tasting\, the evening opens back up for conversation
+ \, giving members the opportunity to mingle\, revisit their favorites\, an
+ d connect with Trey one-on-one for questions and a deeper dive into the wo
+ rld of Jefferson’s Bourbon.\n\n*This event is complimentary and reserved
+  for members only. Complimentary light bites and refreshments will be serv
+ ed. We kindly ask that all cancellations be made at least 24 hours prior t
+ o the start of the event.
 URL:https://members.thequinhouse.com/events/207953
 CATEGORIES:Food & Beverage
 END:VEVENT
@@ -763,25 +765,25 @@ DTSTART;TZID=America/New_York:20261029T181500
 DTEND;TZID=America/New_York:20261029T193000
 SUMMARY:Meet the Maker: Jefferson's Bourbon | Session II 
 LOCATION:Scottie's
-DESCRIPTION:Category: Food & Beverage\nPrice: Free\nAvailability: 50 spots 
- left\nStatus: futureSale\nEvent URL: https://members.thequinhouse.com/even
- ts/206917\n\nJoin us for an intimate tasting experience with Jefferson’s
-  Bourbon\, exploring the craftsmanship\, character\, and creativity behind
-  each pour. The evening begins with a welcome cocktail and time to mingle 
- before a guided tasting led by Jefferson’s founder Trey Zoeller. A Kentu
- cky native with deep family ties to American whiskey\, Zoeller founded Jef
- ferson’s with his father in 1997 and has become known for challenging bo
- urbon tradition through inventive approaches to aging and blending\, earni
- ng him a place in the Kentucky Bourbon Hall of Fame.\n\nAs straight tastin
- g pours are passed\, Trey will share the story of Jefferson’s while guid
- ing members through the flavor profiles\, production process\, and distinc
- tive character of each selection. Following the tasting\, the evening open
- s back up for conversation\, giving members the opportunity to mingle\, re
- visit their favorites\, and connect with Trey one-on-one for questions and
-  a deeper dive into the world of Jefferson’s Bourbon.\n\n*This event is 
- complimentary and reserved for members only. Complimentary light bites and
-  refreshments will be served. We kindly ask that all cancellations be made
-  at least 24 hours prior to the start of the event.
+DESCRIPTION:Category: Food & Beverage\nPrice: Free\nStatus: You are on Wait
+ list\nEvent URL: https://members.thequinhouse.com/events/206917\n\nJoin us
+  for an intimate tasting experience with Jefferson’s Bourbon\, exploring
+  the craftsmanship\, character\, and creativity behind each pour. The even
+ ing begins with a welcome cocktail and time to mingle before a guided tast
+ ing led by Jefferson’s founder Trey Zoeller. A Kentucky native with deep
+  family ties to American whiskey\, Zoeller founded Jefferson’s with his 
+ father in 1997 and has become known for challenging bourbon tradition thro
+ ugh inventive approaches to aging and blending\, earning him a place in th
+ e Kentucky Bourbon Hall of Fame.\n\nAs straight tasting pours are passed\,
+  Trey will share the story of Jefferson’s while guiding members through 
+ the flavor profiles\, production process\, and distinctive character of ea
+ ch selection. Following the tasting\, the evening opens back up for conver
+ sation\, giving members the opportunity to mingle\, revisit their favorite
+ s\, and connect with Trey one-on-one for questions and a deeper dive into 
+ the world of Jefferson’s Bourbon.\n\n*This event is complimentary and re
+ served for members only. Complimentary light bites and refreshments will b
+ e served. We kindly ask that all cancellations be made at least 24 hours p
+ rior to the start of the event.
 URL:https://members.thequinhouse.com/events/206917
 CATEGORIES:Food & Beverage
 END:VEVENT
@@ -871,7 +873,7 @@ DTEND;TZID=America/New_York:20261103T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 26 spots left\nStatus: Available\nEvent URL: https://memb
+ e\nAvailability: 25 spots left\nStatus: Available\nEvent URL: https://memb
  ers.thequinhouse.com/events/208333\n\nEase into the week in good company a
  t our weekly Member Mingle\, a relaxed gathering in The Living Room design
  ed to bring members together. Settle in\, enjoy a selection of charcuterie
@@ -895,7 +897,7 @@ DTEND;TZID=America/New_York:20261106T160000
 SUMMARY:Hands on Impact: Greater Boston Food Bank 
 LOCATION:The Greater Boston Food Bank\, South Bay Avenue\, Boston\, MA\, US
  A
-DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nAvailability: 9 spo
+DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nAvailability: 6 spo
  ts left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/ev
  ents/208337\n\nJoin The ’Quin Impact Fund for a hands-on volunteer exper
  ience at the Greater Boston Food Bank\, where members can make a tangible 
@@ -1016,6 +1018,24 @@ URL:https://members.thequinhouse.com/events/195306
 CATEGORIES:‘Quin Impact Fund
 END:VEVENT
 BEGIN:VEVENT
+UID:quin-event-208597@thequinhouse.com
+DTSTAMP:20261113T183000Z
+DTSTART;TZID=America/New_York:20261113T183000
+DTEND;TZID=America/New_York:20261113T203000
+SUMMARY:The Scottie's Sessions: Live Jazz with Northstar
+LOCATION:Scottie's
+DESCRIPTION:Category: Food & Beverage\nPrice: Free / Included\nStatus: Avai
+ lable\nEvent URL: https://members.thequinhouse.com/events/208597\n\nSlip i
+ nto Scottie’s for an evening of live jazz with an unexpected edge as Nor
+ th Star takes the stage. Featuring tap\, tenor saxophone\, piano\, and bas
+ s\, the quartet brings a playful twist to classic jazz\, with tap joining 
+ the ensemble as both movement and percussion.\n\nGrab a cocktail\, settle 
+ in\, and let the evening unfold—one beat\, note\, and step at a time.\n\
+ nReservations are not required.
+URL:https://members.thequinhouse.com/events/208597
+CATEGORIES:Food & Beverage
+END:VEVENT
+BEGIN:VEVENT
 UID:quin-event-207106@thequinhouse.com
 DTSTAMP:20261116T190000Z
 DTSTART;TZID=America/New_York:20261116T190000
@@ -1038,6 +1058,30 @@ DESCRIPTION:Category: Sports & Games\nPrice: $475.00 per person\nAvailabili
  courtesy to fellow members.
 URL:https://members.thequinhouse.com/events/207106
 CATEGORIES:Sports & Games
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-208329@thequinhouse.com
+DTSTAMP:20261121T100000Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261123
+SUMMARY:Kid's Clubhouse: "Peter and The Wolf" with the Boston Youth Symphon
+ y Orchestra
+LOCATION:Offsite: Symphony Hall
+DESCRIPTION:Category: The Arts\nPrice: $140.00 per person\nAvailability: 30
+  spots left\nStatus: Available\nTime: 10 AM – 1 PM\nEvent URL: https://m
+ embers.thequinhouse.com/events/208329\n\n10:00AM Kids Bravo Club\, 12:00PM
+  Concert\nFollow the music to Symphony Hall for a family morning inspired 
+ by Peter and the Wolf. The Boston Symphony Orchestra’s Bravo Club festiv
+ ities begin with a kid-friendly brunch buffet\, arts and crafts by Wendy R
+ ouillard of Barnaby's Toy & Art Shack\, a scavenger hunt through Symphony 
+ Hall\, and a sweet surprise. Parents can enjoy an open bar before everyone
+  takes their seats for the Boston Youth Symphony Orchestras’ performance
+  of Prokofiev’s beloved tale.\n\n*This event is reserved for members and
+  their children age 6+. Adult tickets are offered at $140 per person and c
+ hild tickets are offered at $95 per child and are non-refundable and non-t
+ ransferable.
+URL:https://members.thequinhouse.com/events/208329
+CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-207108@thequinhouse.com
