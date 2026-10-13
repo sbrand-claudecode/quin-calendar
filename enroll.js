@@ -358,9 +358,16 @@ const ticketName = (t) => String(t.name || t.title || t.ticket_name || `ticket $
 const isGuestTicket = (t) => /guest/i.test(ticketName(t));
 const ticketPrice = (t) => money(t.pricing && t.pricing.base_price) ?? money(t.price) ?? 0;
 
+// Steve's membership is individual. "Ticket: Couple Member" (first seen
+// 2026-10-13, alongside "Ticket: Individual Member") is for couple memberships,
+// so it is never his; extra people always go on guest tickets.
+const isCoupleTicket = (t) => /couple/i.test(ticketName(t));
+
 function selectMemberTicket(tickets) {
-  const main = tickets.filter((t) => !isGuestTicket(t));
+  const main = tickets.filter((t) => !isGuestTicket(t) && !isCoupleTicket(t));
   if (main.length === 1) return main[0];
+  const individual = main.filter((t) => /individual/i.test(ticketName(t)));
+  if (individual.length === 1) return individual[0];
   const memberNamed = main.filter((t) => /member/i.test(ticketName(t)) && !/non[\s-]?member/i.test(ticketName(t)));
   return memberNamed.length === 1 ? memberNamed[0] : null;
 }
