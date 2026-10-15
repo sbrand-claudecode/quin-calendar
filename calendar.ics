@@ -51,30 +51,30 @@ DTSTART;TZID=America/New_York:20261015T180000
 DTEND;TZID=America/New_York:20261015T200000
 SUMMARY:Fashion Salon: An Evening with MONSE
 LOCATION:The Reading Room
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 3 spots left\nSt
- atus: Waitlist Only\nEvent URL: https://members.thequinhouse.com/events/20
- 6908\n\n6:00PM Reception\, 6:30PM Programming\, 7:30PM Boutique Shopping\n
- Join us for an immersive fashion salon with MONSE\, the New York–based f
- ashion house known for its deconstructed tailoring\, unexpected proportion
- s\, and singular take on modern femininity. Co-Founder and Co-Creative Dir
- ector Fernando Garcia will present the Fall/Winter 2026 collection\, salon
-  style and share the inspirations\, craftsmanship\, and stories behind som
- e of the season’s most distinctive pieces\, offering members a rare glim
- pse into his creative process. In a nod to the intimate maison presentatio
- ns that helped shape the modern runway\, models will move throughout The R
- eading Room\, inviting members to settle in\, relax\, and experience the c
- ollection up close.\n\nAt the heart of the collection is the sunflower\, h
- and-painted by Garcia and reimagined as a symbol of resilience\, longevity
- \, and enduring vitality. The motif appears throughout in rich shades of m
- arigold\, burgundy\, red\, brown\, and grey\, across fluid silks\, intrica
- te embroidery\, dimensional knits\, deconstructed tailoring\, and sculptur
- al eveningwear.\n\nFollowing the presentation\, members are invited to con
- tinue the evening in The Terrace with an exclusive MONSE shopping experien
- ce and the opportunity to explore the collection firsthand with the MONSE 
- team.\n\n*This event is complimentary and reserved for members only. Compl
- imentary light bites and refreshments will be served. We kindly ask that a
- ll cancellations be made at least 24 hours prior to the start of the event
- .
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 10 spots left\nS
+ tatus: Waitlist Only\nEvent URL: https://members.thequinhouse.com/events/2
+ 06908\n\n6:00PM Reception\, 6:30PM Programming\, 7:30PM Boutique Shopping\
+ nJoin us for an immersive fashion salon with MONSE\, the New York–based 
+ fashion house known for its deconstructed tailoring\, unexpected proportio
+ ns\, and singular take on modern femininity. Co-Founder and Co-Creative Di
+ rector Fernando Garcia will present the Fall/Winter 2026 collection\, salo
+ n style and share the inspirations\, craftsmanship\, and stories behind so
+ me of the season’s most distinctive pieces\, offering members a rare gli
+ mpse into his creative process. In a nod to the intimate maison presentati
+ ons that helped shape the modern runway\, models will move throughout The 
+ Reading Room\, inviting members to settle in\, relax\, and experience the 
+ collection up close.\n\nAt the heart of the collection is the sunflower\, 
+ hand-painted by Garcia and reimagined as a symbol of resilience\, longevit
+ y\, and enduring vitality. The motif appears throughout in rich shades of 
+ marigold\, burgundy\, red\, brown\, and grey\, across fluid silks\, intric
+ ate embroidery\, dimensional knits\, deconstructed tailoring\, and sculptu
+ ral eveningwear.\n\nFollowing the presentation\, members are invited to co
+ ntinue the evening in The Terrace with an exclusive MONSE shopping experie
+ nce and the opportunity to explore the collection firsthand with the MONSE
+  team.\n\n*This event is complimentary and reserved for members only. Comp
+ limentary light bites and refreshments will be served. We kindly ask that 
+ all cancellations be made at least 24 hours prior to the start of the even
+ t.
 URL:https://members.thequinhouse.com/events/206908
 CATEGORIES:The Arts
 END:VEVENT
@@ -85,7 +85,7 @@ DTSTART;TZID=America/New_York:20261017T100000
 DTEND;TZID=America/New_York:20261017T120000
 SUMMARY:Hands On Impact: Cradles to Crayons
 LOCATION:Offsite - The Giving Factory
-DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nAvailability: 10 sp
+DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nAvailability: 11 sp
  ots left\nStatus: Waitlist Only\nEvent URL: https://members.thequinhouse.c
  om/events/195628\n\nMake an impact with Cradles to Crayons through a hands
  -on volunteer opportunity. Cradles to Crayons is a nonprofit committed to 
@@ -140,7 +140,7 @@ DTEND;TZID=America/New_York:20261020T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 18 spots left\nStatus: Available\nEvent URL: https://memb
+ e\nAvailability: 17 spots left\nStatus: Available\nEvent URL: https://memb
  ers.thequinhouse.com/events/205202\n\nJoin us for our weekly Member Mingle
  \, an inclusive gathering set in an ambiant reserved space. This is your o
  pportunity to connect with fellow members\, exchange ideas\, and cultivate
@@ -400,7 +400,7 @@ DTEND;TZID=America/New_York:20261027T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 21 spots left\nStatus: Available\nEvent URL: https://memb
+ e\nAvailability: 20 spots left\nStatus: Available\nEvent URL: https://memb
  ers.thequinhouse.com/events/205203\n\nEase into the week in good company a
  t our weekly Member Mingle\, a relaxed gathering in The Living Room design
  ed to bring members together. Settle in\, enjoy a selection of charcuterie
@@ -507,7 +507,7 @@ DTSTART;TZID=America/New_York:20261028T180000
 DTEND;TZID=America/New_York:20261028T193000
 SUMMARY:'Quin Chat: Wealth\, Well Lived
 LOCATION:Scottie's
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 45 spots lef
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 44 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/2
  06916\n\n6:00PM Reception\, 6:30PM Discussion\nWhat does it really mean to
   live a wealthy life? In the first of a new\, multi-part series presented 
@@ -566,18 +566,18 @@ DTSTART;TZID=America/New_York:20261029T180000
 DTEND;TZID=America/New_York:20261029T193000
 SUMMARY:Member Mixer: Mystery Match
 LOCATION:Scottie's
-DESCRIPTION:Category: Member Mixer\nPrice: Free / Included\nStatus: soldOut
- \nEvent URL: https://members.thequinhouse.com/events/207548\n\nYou have a 
- match. Now comes the fun part: finding them.\n\nAt our next Member Mixer\,
-  a clue awaits you on arrival. Follow it through the room to find your mys
- tery match\, then discover where the conversation takes you. You might unc
- over a shared interest\, an unexpected connection\, or simply someone you 
- are glad to have met. It’s a playful way to step outside your usual circ
- le and meet someone new. Come curious\, leave connected!\n\n*This event is
-  complimentary and reserved for members only. Complimentary light bites wi
- ll be served with beverages will be available to purchase. We kindly ask t
- hat all cancellations be made at least 24 hours prior to the start of the 
- event.
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 79 spots lef
+ t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/2
+ 07548\n\nYou have a match. Now comes the fun part: finding them.\n\nAt our
+  next Member Mixer\, a clue awaits you on arrival. Follow it through the r
+ oom to find your mystery match\, then discover where the conversation take
+ s you. You might uncover a shared interest\, an unexpected connection\, or
+  simply someone you are glad to have met. It’s a playful way to step out
+ side your usual circle and meet someone new. Come curious\, leave connecte
+ d!\n\n*This event is complimentary and reserved for members only. Complime
+ ntary light bites will be served with beverages will be available to purch
+ ase. We kindly ask that all cancellations be made at least 24 hours prior 
+ to the start of the event.
 URL:https://members.thequinhouse.com/events/207548
 CATEGORIES:Member Mixer
 END:VEVENT
@@ -938,38 +938,38 @@ DTEND;VALUE=DATE:20261209
 SUMMARY:'Venture: European Holiday Markets
 LOCATION:Offsite: Strasbourg\, Nuremberg\, Vienna\, and Munich
 DESCRIPTION:Category: ‘Venture - Travel\nPrice: $10150.00 per person\nAva
- ilability: 2 spots left\nStatus: Available\nTime: 3 PM – 12 PM\nEvent UR
- L: https://members.thequinhouse.com/events/200238\n\nThis December\, trade
-  the usual holiday routine for a ‘Venture through the heart of Europe du
- ring its most magical season. Wander Strasbourg’s storybook streets\, ex
- perience Nuremberg’s legendary Christkindlesmarkt\, revel in the grandeu
- r of Vienna\, and savor a final taste of Bavaria in Munich. With exception
- al dining\, luxury accommodations\, private transportation\, and time to d
- iscover each destination at leisure\, every detail has been thoughtfully c
- onsidered. \n\nBegin in the heart of Alsace\, with two days to wander Str
- asbourg’s celebrated holiday markets\, half-timbered streets\, artisan s
- talls\, and historic landmarks\, gathering over Alsatian fare in centuries
- -old settings along the way. From there\, journey east to Nuremberg and th
- e legendary Christkindlesmarkt\, one of the world’s oldest holiday marke
- ts\, with time to explore the medieval Old Town\, Imperial Castle\, and st
- alls beneath the Frauenkirche before an evening of Franconian specialties.
- \n\nThe journey continues to Vienna\, where imperial landmarks\, elegant b
- oulevards\, and enchanting holiday markets set the scene for an afternoon 
- in one of Europe’s grandest capitals. Finally\, Bavaria provides a fitti
- ng finale in Munich. Wander from Marienplatz to the Viktualienmarkt\, disc
- over neighborhood markets and local boutiques\, and savor one last taste o
- f the season before raising a glass together over a farewell dinner overlo
- oking the National Theatre. An extraordinary journey through the tradition
- s\, flavors\, and unmistakable magic of the European holiday season awaits
- .\n\nSingle Occupancy | $6\,950\n\nDouble Occupancy | $10\,150\n\n*Reserva
- tions are non-refundable and non-transferable in order to guarantee accom
- modations during the high season. Payment is due in full at the time of bo
- oking. To ensure the best possible experience for all attendees\, we kind
- ly ask that members inform us in advance of any physical limitations\, mob
- ility considerations\, or accessibility needs we should be aware of. All m
- embers will also be asked to sign The 'Quin's standard liability agreement
-  in advance of travel and minimum interest must be met to ensure the trip 
- will proceed as planned.
+ ilability: 1 spot left\nStatus: Available\nTime: 3 PM – 12 PM\nEvent URL
+ : https://members.thequinhouse.com/events/200238\n\nThis December\, trade 
+ the usual holiday routine for a ‘Venture through the heart of Europe dur
+ ing its most magical season. Wander Strasbourg’s storybook streets\, exp
+ erience Nuremberg’s legendary Christkindlesmarkt\, revel in the grandeur
+  of Vienna\, and savor a final taste of Bavaria in Munich. With exceptiona
+ l dining\, luxury accommodations\, private transportation\, and time to di
+ scover each destination at leisure\, every detail has been thoughtfully co
+ nsidered. \n\nBegin in the heart of Alsace\, with two days to wander Stra
+ sbourg’s celebrated holiday markets\, half-timbered streets\, artisan st
+ alls\, and historic landmarks\, gathering over Alsatian fare in centuries-
+ old settings along the way. From there\, journey east to Nuremberg and the
+  legendary Christkindlesmarkt\, one of the world’s oldest holiday market
+ s\, with time to explore the medieval Old Town\, Imperial Castle\, and sta
+ lls beneath the Frauenkirche before an evening of Franconian specialties.\
+ n\nThe journey continues to Vienna\, where imperial landmarks\, elegant bo
+ ulevards\, and enchanting holiday markets set the scene for an afternoon i
+ n one of Europe’s grandest capitals. Finally\, Bavaria provides a fittin
+ g finale in Munich. Wander from Marienplatz to the Viktualienmarkt\, disco
+ ver neighborhood markets and local boutiques\, and savor one last taste of
+  the season before raising a glass together over a farewell dinner overloo
+ king the National Theatre. An extraordinary journey through the traditions
+ \, flavors\, and unmistakable magic of the European holiday season awaits.
+ \n\nSingle Occupancy | $6\,950\n\nDouble Occupancy | $10\,150\n\n*Reservat
+ ions are non-refundable and non-transferable in order to guarantee accomm
+ odations during the high season. Payment is due in full at the time of boo
+ king. To ensure the best possible experience for all attendees\, we kindl
+ y ask that members inform us in advance of any physical limitations\, mobi
+ lity considerations\, or accessibility needs we should be aware of. All me
+ mbers will also be asked to sign The 'Quin's standard liability agreement 
+ in advance of travel and minimum interest must be met to ensure the trip w
+ ill proceed as planned.
 URL:https://members.thequinhouse.com/events/200238
 CATEGORIES:‘Venture - Travel
 END:VEVENT
@@ -980,20 +980,20 @@ DTSTART;TZID=America/New_York:20261216T190000
 DTEND;TZID=America/New_York:20261216T213000
 SUMMARY:'Quin Suite: Celtics vs. Wizards
 LOCATION:Offsite - TD Garden
-DESCRIPTION:Category: Sports & Games\nPrice: $475.00 per person\nAvailabili
- ty: 3 spots left\nStatus: Available\nEvent URL: https://members.thequinhou
- se.com/events/207109\n\nExperience the energy of a Celtics game night as B
- oston welcomes Washington to TD Garden. Join fellow members in The ’Qui
- n Suite (#524) as the Celtics face off against the Washington Wizards for
-  an exciting regular-season matchup.\n\nAll suite ticket options include i
- ncredible views of the on-court action and light gameday bites and an ass
- ortment of refreshments including wine\, beer and seltzer. Are you game?\n
- \n*A pair of 'Quin suite seats is available for $995 total ($497.50 per t
- icket). Individual suite tickets are available for bar stool / standing ac
- cess only\, offered at a reduced price of $475 per ticket. Suite tickets 
- are non-refundable and are non-transferable. Members may purchase tickets 
- for up to 3 guests and are required to accompany them at all times. The su
- ite is limited to those ages 16+ as a courtesy to fellow members.
+DESCRIPTION:Category: Sports & Games\nPrice: $475.00 per person\nStatus: so
+ ldOut\nEvent URL: https://members.thequinhouse.com/events/207109\n\nExperi
+ ence the energy of a Celtics game night as Boston welcomes Washington to 
+ TD Garden. Join fellow members in The ’Quin Suite (#524) as the Celtics 
+ face off against the Washington Wizards for an exciting regular-season ma
+ tchup.\n\nAll suite ticket options include incredible views of the on-cour
+ t action and light gameday bites and an assortment of refreshments includ
+ ing wine\, beer and seltzer. Are you game?\n\n*A pair of 'Quin suite seats
+  is available for $995 total ($497.50 per ticket). Individual suite ticke
+ ts are available for bar stool / standing access only\, offered at a reduc
+ ed price of $475 per ticket. Suite tickets are non-refundable and are non
+ -transferable. Members may purchase tickets for up to 3 guests and are req
+ uired to accompany them at all times. The suite is limited to those ages 1
+ 6+ as a courtesy to fellow members.
 URL:https://members.thequinhouse.com/events/207109
 CATEGORIES:Sports & Games
 END:VEVENT
