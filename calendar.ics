@@ -45,40 +45,6 @@ URL:https://members.thequinhouse.com/events/205635
 CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
-UID:quin-event-206908@thequinhouse.com
-DTSTAMP:20261015T180000Z
-DTSTART;TZID=America/New_York:20261015T180000
-DTEND;TZID=America/New_York:20261015T200000
-SUMMARY:Fashion Salon: An Evening with MONSE
-LOCATION:The Reading Room
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 16 spots left\nS
- tatus: Waitlist Only\nEvent URL: https://members.thequinhouse.com/events/2
- 06908\n\n6:00PM Reception\, 6:30PM Programming\, 7:30PM Boutique Shopping\
- nJoin us for an immersive fashion salon with MONSE\, the New York–based 
- fashion house known for its deconstructed tailoring\, unexpected proportio
- ns\, and singular take on modern femininity. Co-Founder and Co-Creative Di
- rector Fernando Garcia will present the Fall/Winter 2026 collection\, salo
- n style and share the inspirations\, craftsmanship\, and stories behind so
- me of the season’s most distinctive pieces\, offering members a rare gli
- mpse into his creative process. In a nod to the intimate maison presentati
- ons that helped shape the modern runway\, models will move throughout The 
- Reading Room\, inviting members to settle in\, relax\, and experience the 
- collection up close.\n\nAt the heart of the collection is the sunflower\, 
- hand-painted by Garcia and reimagined as a symbol of resilience\, longevit
- y\, and enduring vitality. The motif appears throughout in rich shades of 
- marigold\, burgundy\, red\, brown\, and grey\, across fluid silks\, intric
- ate embroidery\, dimensional knits\, deconstructed tailoring\, and sculptu
- ral eveningwear.\n\nFollowing the presentation\, members are invited to co
- ntinue the evening in The Terrace with an exclusive MONSE shopping experie
- nce and the opportunity to explore the collection firsthand with the MONSE
-  team.\n\n*This event is complimentary and reserved for members only. Comp
- limentary light bites and refreshments will be served. We kindly ask that 
- all cancellations be made at least 24 hours prior to the start of the even
- t.
-URL:https://members.thequinhouse.com/events/206908
-CATEGORIES:The Arts
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-195628@thequinhouse.com
 DTSTAMP:20261017T100000Z
 DTSTART;TZID=America/New_York:20261017T100000
@@ -140,7 +106,7 @@ DTEND;TZID=America/New_York:20261020T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 17 spots left\nStatus: Available\nEvent URL: https://memb
+ e\nAvailability: 18 spots left\nStatus: Available\nEvent URL: https://memb
  ers.thequinhouse.com/events/205202\n\nJoin us for our weekly Member Mingle
  \, an inclusive gathering set in an ambiant reserved space. This is your o
  pportunity to connect with fellow members\, exchange ideas\, and cultivate
@@ -422,16 +388,15 @@ DTSTART;TZID=America/New_York:20261027T180000
 DTEND;TZID=America/New_York:20261027T190000
 SUMMARY:Improv Comedy | 6:00PM Show
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 1 spot left\nSta
- tus: Available\nEvent URL: https://members.thequinhouse.com/events/206915\
- n\nBoston’s best return to the 'House! Improv comedians are ready to kee
- p you laughing with spontaneous sketches\, quick wit\, and audience-inspir
- ed moments. Join us for a cocktail from the cash bar beginning at 5:30pm\,
-  then snag your seat and enjoy a show packed with energy from beginning to
-  end. Seating is first come\, first serve\n\nMake it a night with a pre-sh
- ow burger and a beer from the Pub. Dining walk-ins are welcome! \n\n*This 
- event complimentary and available for registered members and up to one reg
- istered guest.
+DESCRIPTION:Category: The Arts\nPrice: Free\nStatus: Waitlist Only\nEvent U
+ RL: https://members.thequinhouse.com/events/206915\n\nBoston’s best retu
+ rn to the 'House! Improv comedians are ready to keep you laughing with spo
+ ntaneous sketches\, quick wit\, and audience-inspired moments. Join us for
+  a cocktail from the cash bar beginning at 5:30pm\, then snag your seat an
+ d enjoy a show packed with energy from beginning to end. Seating is first 
+ come\, first serve\n\nMake it a night with a pre-show burger and a beer fr
+ om the Pub. Dining walk-ins are welcome! \n\n*This event complimentary and
+  available for registered members and up to one registered guest.
 URL:https://members.thequinhouse.com/events/206915
 CATEGORIES:The Arts
 END:VEVENT
@@ -466,7 +431,7 @@ DTSTART;TZID=America/New_York:20261027T200000
 DTEND;TZID=America/New_York:20261027T210000
 SUMMARY:Improv Comedy | 8:00PM Show
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 29 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 24 spots left\nS
  tatus: Available\nEvent URL: https://members.thequinhouse.com/events/20691
  4\n\nBoston’s best return to the 'House! Improv comedians are ready to k
  eep you laughing with spontaneous sketches\, quick wit\, and audience-insp
@@ -765,7 +730,7 @@ DTSTART;TZID=America/New_York:20261109T190000
 DTEND;TZID=America/New_York:20261109T200000
 SUMMARY:Author's Circle Book Club: "Georgia" by Dawn Tripp 
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 56 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 55 spots left\nS
  tatus: Available\nEvent URL: https://members.thequinhouse.com/events/20878
  9\n\nBookmark your calendar and settle in for November’s Author Circle B
  ook Club\, Georgia by Dawn Tripp—a captivating and richly imagined novel
