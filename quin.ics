@@ -78,6 +78,28 @@ URL:https://members.thequinhouse.com/events/202989
 CATEGORIES:Holiday
 END:VEVENT
 BEGIN:VEVENT
+UID:quin-event-207548@thequinhouse.com
+DTSTAMP:20261029T180000Z
+DTSTART;TZID=America/New_York:20261029T180000
+DTEND;TZID=America/New_York:20261029T193000
+SUMMARY:Member Mixer: Mystery Match
+LOCATION:Scottie's
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 32 spots lef
+ t\nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/
+ events/207548\n\nYou have a match. Now comes the fun part: finding them.\n
+ \nAt our next Member Mixer\, a clue awaits you on arrival. Follow it throu
+ gh the room to find your mystery match\, then discover where the conversat
+ ion takes you. You might uncover a shared interest\, an unexpected connect
+ ion\, or simply someone you are glad to have met. It’s a playful way to 
+ step outside your usual circle and meet someone new. Come curious\, leave 
+ connected!\n\n*This event is complimentary and reserved for members only. 
+ Complimentary light bites will be served with beverages will be available 
+ to purchase. We kindly ask that all cancellations be made at least 24 hour
+ s prior to the start of the event.
+URL:https://members.thequinhouse.com/events/207548
+CATEGORIES:Member Mixer
+END:VEVENT
+BEGIN:VEVENT
 UID:quin-event-206917@thequinhouse.com
 DTSTAMP:20261029T181500Z
 DTSTART;TZID=America/New_York:20261029T181500
