@@ -45,31 +45,6 @@ URL:https://members.thequinhouse.com/events/205635
 CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
-UID:quin-event-195628@thequinhouse.com
-DTSTAMP:20261017T100000Z
-DTSTART;TZID=America/New_York:20261017T100000
-DTEND;TZID=America/New_York:20261017T120000
-SUMMARY:Hands On Impact: Cradles to Crayons
-LOCATION:Offsite - The Giving Factory
-DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nAvailability: 5 spo
- ts left\nStatus: Waitlist Only\nEvent URL: https://members.thequinhouse.co
- m/events/195628\n\nMake an impact with Cradles to Crayons through a hands-
- on volunteer opportunity. Cradles to Crayons is a nonprofit committed to e
- nding children’s clothing insecurity in the U.S. Since 2002\, they have 
- provided more than 6 million packages of essentials - including clothing\,
-  shoes\, diapers\, and school supplies - to children across the country.\n
- \nAt the Cradles to Crayons “Giving Factory\,” you will take part in s
- orting\, quality-checking\, and packaging donations that go directly to ch
- ildren and families in need - helping ensure every child can arrive at sch
- ool feeling confident\, prepared\, and valued.\n\n*This event is complimen
- tary and reserved for members\, plus one registered guest age 6+. Please w
- ear comfortable clothing you don’t mind getting dirty\, along with close
- -toed shoes. The warehouse is not climate controlled\, so dress with the w
- eather in mind.
-URL:https://members.thequinhouse.com/events/195628
-CATEGORIES:‘Quin Impact Fund
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-206205@thequinhouse.com
 DTSTAMP:20261019T183000Z
 DTSTART;TZID=America/New_York:20261019T183000
@@ -471,7 +446,7 @@ DTSTART;TZID=America/New_York:20261028T180000
 DTEND;TZID=America/New_York:20261028T193000
 SUMMARY:'Quin Chat: Wealth\, Well Lived
 LOCATION:Scottie's
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 29 spots lef
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 24 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/2
  06916\n\n6:00PM Reception\, 6:30PM Discussion\nWhat does it really mean to
   live a wealthy life? In the first of a new\, multi-part series presented 
@@ -530,7 +505,7 @@ DTSTART;TZID=America/New_York:20261029T180000
 DTEND;TZID=America/New_York:20261029T193000
 SUMMARY:Member Mixer: Mystery Match
 LOCATION:Scottie's
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 25 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 23 spots lef
  t\nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/
  events/207548\n\nYou have a match. Now comes the fun part: finding them.\n
  \nAt our next Member Mixer\, a clue awaits you on arrival. Follow it throu
@@ -552,25 +527,25 @@ DTSTART;TZID=America/New_York:20261029T181500
 DTEND;TZID=America/New_York:20261029T193000
 SUMMARY:Meet the Maker: Jefferson's Bourbon | Session II 
 LOCATION:Scottie's
-DESCRIPTION:Category: Food & Beverage\nPrice: Free\nStatus: You are on Wait
- list\nEvent URL: https://members.thequinhouse.com/events/206917\n\nJoin us
-  for an intimate tasting experience with Jefferson’s Bourbon\, exploring
-  the craftsmanship\, character\, and creativity behind each pour. The even
- ing begins with a welcome cocktail and time to mingle before a guided tast
- ing led by Jefferson’s founder Trey Zoeller. A Kentucky native with deep
-  family ties to American whiskey\, Zoeller founded Jefferson’s with his 
- father in 1997 and has become known for challenging bourbon tradition thro
- ugh inventive approaches to aging and blending\, earning him a place in th
- e Kentucky Bourbon Hall of Fame.\n\nAs straight tasting pours are passed\,
-  Trey will share the story of Jefferson’s while guiding members through 
- the flavor profiles\, production process\, and distinctive character of ea
- ch selection. Following the tasting\, the evening opens back up for conver
- sation\, giving members the opportunity to mingle\, revisit their favorite
- s\, and connect with Trey one-on-one for questions and a deeper dive into 
- the world of Jefferson’s Bourbon.\n\n*This event is complimentary and re
- served for members only. Complimentary light bites and refreshments will b
- e served. We kindly ask that all cancellations be made at least 24 hours p
- rior to the start of the event.
+DESCRIPTION:Category: Food & Beverage\nPrice: Free\nAvailability: 1 spot le
+ ft\nStatus: You are on Waitlist\nEvent URL: https://members.thequinhouse.c
+ om/events/206917\n\nJoin us for an intimate tasting experience with Jeffer
+ son’s Bourbon\, exploring the craftsmanship\, character\, and creativity
+  behind each pour. The evening begins with a welcome cocktail and time to 
+ mingle before a guided tasting led by Jefferson’s founder Trey Zoeller. 
+ A Kentucky native with deep family ties to American whiskey\, Zoeller foun
+ ded Jefferson’s with his father in 1997 and has become known for challen
+ ging bourbon tradition through inventive approaches to aging and blending\
+ , earning him a place in the Kentucky Bourbon Hall of Fame.\n\nAs straight
+  tasting pours are passed\, Trey will share the story of Jefferson’s whi
+ le guiding members through the flavor profiles\, production process\, and 
+ distinctive character of each selection. Following the tasting\, the eveni
+ ng opens back up for conversation\, giving members the opportunity to ming
+ le\, revisit their favorites\, and connect with Trey one-on-one for questi
+ ons and a deeper dive into the world of Jefferson’s Bourbon.\n\n*This ev
+ ent is complimentary and reserved for members only. Complimentary light bi
+ tes and refreshments will be served. We kindly ask that all cancellations 
+ be made at least 24 hours prior to the start of the event.
 URL:https://members.thequinhouse.com/events/206917
 CATEGORIES:Food & Beverage
 END:VEVENT
@@ -640,25 +615,25 @@ DTSTART;TZID=America/New_York:20261031T120000
 DTEND;TZID=America/New_York:20261031T140000
 SUMMARY:Serendipity Brunch: All Hallows’ Eve Affair
 LOCATION:Lunasol
-DESCRIPTION:Category: Member Mixer\nPrice: $65.00 per person\nAvailability:
-  1 spot left\nStatus: Available\nEvent URL: https://members.thequinhouse.c
- om/events/206204\n\nJoin us for a spirited edition of Serendipity Brunch\,
-  hosted by The ’Quin’s Membership Team. This Halloween\, members are i
- nvited to gather in Lunasol for meaningful conversation\, great company\, 
- and a little festive fun. Come as you are—or embrace the occasion and ar
- rive in costume—as you connect with fellow members over a curated card d
- eck of conversation prompts to inspire connections.\n\nBrunch will showcas
- e a seasonal selection of chef-crafted entrées\, such as classic Eggs Ben
- edict or a light egg white frittata\, served alongside family-style favori
- tes and complemented by classic brunch cocktails\, including mimosas and\,
-  of course\, Bloody Marys.\n\nSettle in for an unhurried afternoon at The 
- ’House filled with good food\, new connections\, and just the right amou
- nt of Halloween mischief. Costumes are encouraged\, conversation comes nat
- urally\, and a little serendipity is always on the menu.\n\n*Tickets are $
- 65 per person\, plus tax\, and are reserved for members only. Cancellation
- s within 72 hours of the event\, or failure to attend\, will be charged in
-  full. Please inform us of any dietary needs or restrictions by emailing h
- appening@thequin.com at least 72 hours prior to the event.
+DESCRIPTION:Category: Member Mixer\nPrice: $65.00 per person\nStatus: Waitl
+ ist Only\nEvent URL: https://members.thequinhouse.com/events/206204\n\nJoi
+ n us for a spirited edition of Serendipity Brunch\, hosted by The ’Quin�
+ ��s Membership Team. This Halloween\, members are invited to gather in Lun
+ asol for meaningful conversation\, great company\, and a little festive fu
+ n. Come as you are—or embrace the occasion and arrive in costume—as yo
+ u connect with fellow members over a curated card deck of conversation pro
+ mpts to inspire connections.\n\nBrunch will showcase a seasonal selection 
+ of chef-crafted entrées\, such as classic Eggs Benedict or a light egg wh
+ ite frittata\, served alongside family-style favorites and complemented by
+  classic brunch cocktails\, including mimosas and\, of course\, Bloody Mar
+ ys.\n\nSettle in for an unhurried afternoon at The ’House filled with go
+ od food\, new connections\, and just the right amount of Halloween mischie
+ f. Costumes are encouraged\, conversation comes naturally\, and a little s
+ erendipity is always on the menu.\n\n*Tickets are $65 per person\, plus ta
+ x\, and are reserved for members only. Cancellations within 72 hours of th
+ e event\, or failure to attend\, will be charged in full. Please inform us
+  of any dietary needs or restrictions by emailing happening@thequin.com at
+  least 72 hours prior to the event.
 URL:https://members.thequinhouse.com/events/206204
 CATEGORIES:Member Mixer
 END:VEVENT
