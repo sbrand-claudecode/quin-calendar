@@ -84,18 +84,18 @@ DTSTART;TZID=America/New_York:20261029T180000
 DTEND;TZID=America/New_York:20261029T193000
 SUMMARY:Member Mixer: Mystery Match
 LOCATION:Scottie's
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 15 spots lef
- t\nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/
- events/207548\n\nYou have a match. Now comes the fun part: finding them.\n
- \nAt our next Member Mixer\, a clue awaits you on arrival. Follow it throu
- gh the room to find your mystery match\, then discover where the conversat
- ion takes you. You might uncover a shared interest\, an unexpected connect
- ion\, or simply someone you are glad to have met. It’s a playful way to 
- step outside your usual circle and meet someone new. Come curious\, leave 
- connected!\n\n*This event is complimentary and reserved for members only. 
- Complimentary light bites will be served with beverages will be available 
- to purchase. We kindly ask that all cancellations be made at least 24 hour
- s prior to the start of the event.
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 9 spots left
+ \nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/e
+ vents/207548\n\nYou have a match. Now comes the fun part: finding them.\n\
+ nAt our next Member Mixer\, a clue awaits you on arrival. Follow it throug
+ h the room to find your mystery match\, then discover where the conversati
+ on takes you. You might uncover a shared interest\, an unexpected connecti
+ on\, or simply someone you are glad to have met. It’s a playful way to s
+ tep outside your usual circle and meet someone new. Come curious\, leave c
+ onnected!\n\n*This event is complimentary and reserved for members only. C
+ omplimentary light bites will be served with beverages will be available t
+ o purchase. We kindly ask that all cancellations be made at least 24 hours
+  prior to the start of the event.
 URL:https://members.thequinhouse.com/events/207548
 CATEGORIES:Member Mixer
 END:VEVENT
@@ -127,5 +127,69 @@ DESCRIPTION:Category: Food & Beverage\nPrice: Free\nAvailability: 1 spot le
  be made at least 24 hours prior to the start of the event.
 URL:https://members.thequinhouse.com/events/206917
 CATEGORIES:Food & Beverage
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-206949@thequinhouse.com
+DTSTAMP:20261030T173000Z
+DTSTART;TZID=America/New_York:20261030T173000
+DTEND;TZID=America/New_York:20261030T190000
+SUMMARY:Trials and Truth: A History of Witchcraft
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 45 spots lef
+ t\nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/
+ events/206949\n\n5:30PM Reception\, 6:00PM Discussion\n\nIn a seasonal ode
+  to witchcraft\, join us for a thought provoking exploration tracing the m
+ yths\, origins\, and histories that have shaped its place in a Western Eur
+ opean cultural lineage\, a lineage that runs through to the Americas and i
+ nto the present day. Building on last year's Trials & Truth\, which examin
+ ed the Salem Witch Trials\, Professor Julie Walsh returns to take the conv
+ ersation beyond local lore\, exploring the European roots of the image of 
+ the witch\, its enduring stereotypes\, and the complex relationship betwee
+ n belief\, skepticism\, and the social consequences of believing the worst
+  about your neighbors. The evening will delve into the origin story of th
+ e medieval witch\, what this story reveals about power\, fear\, freedom\, 
+ and social justice. \n\nJulie Walsh is the Whitehead Associate Professor 
+ of Critical Thought\, Associate Professor of Philosophy\, and Director of 
+ the Newhouse Center for the Humanities at the Wellesley College\; she spec
+ ializes in early modern philosophy\, theories of freedom\, and the history
+  of witchcraft. She will be in conversation with Liza Oliver\, Associate P
+ rofessor of Art History and Director of the Pluralism Initiative at Welle
+ sley College\; she specializes in the intersections of art\, colonialism\,
+  and cultural history. Together\, they will offer members a fresh perspect
+ ive on the historical roots and ongoing social impact of European ideas of
+  witches\, witchcraft\, and evil. \n\n*This event is complimentary and re
+ served for members only. Complimentary light bites and refreshments will b
+ e served. We kindly ask that all cancellations be made at least 24 hours p
+ rior to the start of the event.
+URL:https://members.thequinhouse.com/events/206949
+CATEGORIES:‘Quin Chat
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-208796@thequinhouse.com
+DTSTAMP:20261102T170000Z
+DTSTART;TZID=America/New_York:20261102T170000
+DTEND;TZID=America/New_York:20261102T183000
+SUMMARY:Behind Broadway: A Performance with Lorna Courtney 
+DESCRIPTION:Category: The Arts\nPrice: $50.00 per person\nAvailability: 50 
+ spots left\nStatus: You are Confirmed\nEvent URL: https://members.thequinh
+ ouse.com/events/208796\n\n5:00PM Doors Open\, 5:15PM Performance\, 6:00PM 
+ Reception\nJoin us in The Reading Room for an intimate evening of music\, 
+ theatre\, and storytelling with Tony Award-nominated Broadway star Lorna C
+ ourtney. Best known for originating the role of Juliet in the hit musical 
+ “& Juliet”\, Courtney brings her extraordinary talent to The ’Quin f
+ or a captivating live performance featuring selections from across her car
+ eer\, from her early days on Broadway to her celebrated roles in “Heathe
+ rs: The Musical” and “The Rocky Horror Picture Show”. Through song a
+ nd personal storytelling\, Courtney will take members on a journey through
+  the defining performances\, inspirations\, and experiences that have shap
+ ed her career on the stage.\n\nFollowing the 30 minute performance\, Court
+ ney will be joined for an engaging conversation and Q&A with Artistic Dire
+ ctor of SpeakEasy Stage Company\, Dawn Simmons. Together\, the two will of
+ fer a behind-the-curtain look at the world of Broadway\, exploring the cre
+ ative process\, pivotal career moments\, and the evolving landscape of mus
+ ical theatre while members enjoy light bites.\n\n*Tickets are $50 per mem
+ ber and $75 for one registered guest. All tickets are nonrefundable and no
+ ntransferable. Complimentary light bites and refreshments will be served.
+URL:https://members.thequinhouse.com/events/208796
+CATEGORIES:The Arts
 END:VEVENT
 END:VCALENDAR

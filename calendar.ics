@@ -52,7 +52,7 @@ DTEND;TZID=America/New_York:20261019T210000
 SUMMARY:Serendipity Dinner: The Under 40 Table
 LOCATION:The Muse
 DESCRIPTION:Category: Food & Beverage\, Member Mixer\nPrice: $100.00 per pe
- rson\nAvailability: 2 spots left\nStatus: Waitlist Only\nEvent URL: https:
+ rson\nAvailability: 3 spots left\nStatus: Waitlist Only\nEvent URL: https:
  //members.thequinhouse.com/events/206205\n\nStep into a lively evening des
  igned for members aged under 40\, where new connections come naturally and
   conversation carries easily around the table. This Serendipity Dinner inv
@@ -81,7 +81,7 @@ DTEND;TZID=America/New_York:20261020T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 14 spots left\nStatus: Available\nEvent URL: https://memb
+ e\nAvailability: 17 spots left\nStatus: Available\nEvent URL: https://memb
  ers.thequinhouse.com/events/205202\n\nJoin us for our weekly Member Mingle
  \, an inclusive gathering set in an ambiant reserved space. This is your o
  pportunity to connect with fellow members\, exchange ideas\, and cultivate
@@ -181,23 +181,23 @@ DTSTART;TZID=America/New_York:20261024T090000
 DTEND;TZID=America/New_York:20261024T100000
 SUMMARY:Kid's Clubhouse: Trick-or-Treat Family Day | Session I
 LOCATION:Bondo
-DESCRIPTION:Category: Holiday\nPrice: Free\nAvailability: 2 spots left\nSta
- tus: Waitlist Only\nEvent URL: https://members.thequinhouse.com/events/206
- 911\n\nShimmy into your spookiest costumes and join us for a fun-filled da
- y of trick-or-treating in the transformed Web of Wonders\, a family-friend
- ly affair for members! Equipped with a map\, kids will navigate the labyri
- nth of floors collecting treats and enjoying activities throughout. They w
- ill be allowed to unleash their creativity at craft stations in Bondo\, th
- en roam on over to The Terrace to enjoy glitter tattoos and a festive prof
- essional photo moment. Make a day of it and reserve our regular family bru
- nch in Café Q prior to or following the event. \n\n*Children ages 6+ a
- re welcome when accompanied by a member parent. Please secure one ticket p
- er child in your party to account for supplies\; adults do not require reg
- istration. Families with three or more children are asked to email happeni
- ng@thequin.com.Each ticket grants one child full access to trick-or-treati
- ng\, a tote bag keepsake for their goodies\, and includes all activities d
- uring the selected session. We kindly ask that all cancellations be made a
- t least 48 hours prior to the start of the event.
+DESCRIPTION:Category: Holiday\nPrice: Free\nAvailability: 1 spot left\nStat
+ us: Waitlist Only\nEvent URL: https://members.thequinhouse.com/events/2069
+ 11\n\nShimmy into your spookiest costumes and join us for a fun-filled day
+  of trick-or-treating in the transformed Web of Wonders\, a family-friendl
+ y affair for members! Equipped with a map\, kids will navigate the labyrin
+ th of floors collecting treats and enjoying activities throughout. They wi
+ ll be allowed to unleash their creativity at craft stations in Bondo\, the
+ n roam on over to The Terrace to enjoy glitter tattoos and a festive profe
+ ssional photo moment. Make a day of it and reserve our regular family brun
+ ch in Café Q prior to or following the event. \n\n*Children ages 6+ ar
+ e welcome when accompanied by a member parent. Please secure one ticket pe
+ r child in your party to account for supplies\; adults do not require regi
+ stration. Families with three or more children are asked to email happenin
+ g@thequin.com.Each ticket grants one child full access to trick-or-treatin
+ g\, a tote bag keepsake for their goodies\, and includes all activities du
+ ring the selected session. We kindly ask that all cancellations be made at
+  least 48 hours prior to the start of the event.
 URL:https://members.thequinhouse.com/events/206911
 CATEGORIES:Holiday
 END:VEVENT
@@ -208,7 +208,7 @@ DTSTART;TZID=America/New_York:20261024T110000
 DTEND;TZID=America/New_York:20261024T120000
 SUMMARY:Kid's Clubhouse: Trick-or-Treat Family Day | Session II
 LOCATION:Bondo
-DESCRIPTION:Category: Holiday\nPrice: Free\nAvailability: 2 spots left\nSta
+DESCRIPTION:Category: Holiday\nPrice: Free\nAvailability: 3 spots left\nSta
  tus: Waitlist Only\nEvent URL: https://members.thequinhouse.com/events/206
  912\n\nShimmy into your spookiest costumes and join us for a fun-filled da
  y of trick-or-treating in the transformed Web of Wonders\, a family-friend
@@ -235,23 +235,23 @@ DTSTART;TZID=America/New_York:20261024T133000
 DTEND;TZID=America/New_York:20261024T143000
 SUMMARY:Kid's Clubhouse: Trick-or-Treat Family Day | Session III
 LOCATION:Bondo
-DESCRIPTION:Category: Holiday\nPrice: Free\nAvailability: 2 spots left\nSta
- tus: Waitlist Only\nEvent URL: https://members.thequinhouse.com/events/206
- 913\n\nShimmy into your spookiest costumes and join us for a fun-filled da
- y of trick-or-treating in the transformed Web of Wonders\, a family-friend
- ly affair for members! Equipped with a map\, kids will navigate the labyri
- nth of floors collecting treats and enjoying activities throughout. They w
- ill be allowed to unleash their creativity at craft stations in Bondo\, th
- en roam on over to The Terrace to enjoy glitter tattoos and a festive prof
- essional photo moment. Make a day of it and reserve our regular family bru
- nch in Café Q prior to or following the event. \n\n*Children ages 6+ a
- re welcome when accompanied by a member parent. Please secure one ticket p
- er child in your party to account for supplies\; adults do not require reg
- istration. Families with three or more children are asked to email happeni
- ng@thequin.com.Each ticket grants one child full access to trick-or-treati
- ng\, a tote bag keepsake for their goodies\, and includes all activities d
- uring the selected session. We kindly ask that all cancellations be made a
- t least 48 hours prior to the start of the event.
+DESCRIPTION:Category: Holiday\nPrice: Free\nStatus: Waitlist Only\nEvent UR
+ L: https://members.thequinhouse.com/events/206913\n\nShimmy into your spoo
+ kiest costumes and join us for a fun-filled day of trick-or-treating in th
+ e transformed Web of Wonders\, a family-friendly affair for members! Equip
+ ped with a map\, kids will navigate the labyrinth of floors collecting tre
+ ats and enjoying activities throughout. They will be allowed to unleash th
+ eir creativity at craft stations in Bondo\, then roam on over to The Terra
+ ce to enjoy glitter tattoos and a festive professional photo moment. Make 
+ a day of it and reserve our regular family brunch in Café Q prior to or
+  following the event. \n\n*Children ages 6+ are welcome when accompanied 
+ by a member parent. Please secure one ticket per child in your party to ac
+ count for supplies\; adults do not require registration. Families with thr
+ ee or more children are asked to email happening@thequin.com.Each ticket g
+ rants one child full access to trick-or-treating\, a tote bag keepsake for
+  their goodies\, and includes all activities during the selected session. 
+ We kindly ask that all cancellations be made at least 48 hours prior to th
+ e start of the event.
 URL:https://members.thequinhouse.com/events/206913
 CATEGORIES:Holiday
 END:VEVENT
@@ -406,16 +406,16 @@ DTSTART;TZID=America/New_York:20261027T200000
 DTEND;TZID=America/New_York:20261027T210000
 SUMMARY:Improv Comedy | 8:00PM Show
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 10 spots left\nS
- tatus: Available\nEvent URL: https://members.thequinhouse.com/events/20691
- 4\n\nBoston’s best return to the 'House! Improv comedians are ready to k
- eep you laughing with spontaneous sketches\, quick wit\, and audience-insp
- ired moments. Join us for a cocktail from the cash bar beginning at 7:30pm
- \, then snag your seat and enjoy a show packed with energy from beginning 
- to end. Seating is first come\, first serve\n\nMake it a night with a pre-
- show burger and a beer from the Pub. Dining walk-ins are welcome! \n\n*Thi
- s event complimentary and available for registered members and up to one r
- egistered guest.
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 2 spots left\nSt
+ atus: Available\nEvent URL: https://members.thequinhouse.com/events/206914
+ \n\nBoston’s best return to the 'House! Improv comedians are ready to ke
+ ep you laughing with spontaneous sketches\, quick wit\, and audience-inspi
+ red moments. Join us for a cocktail from the cash bar beginning at 7:30pm\
+ , then snag your seat and enjoy a show packed with energy from beginning t
+ o end. Seating is first come\, first serve\n\nMake it a night with a pre-s
+ how burger and a beer from the Pub. Dining walk-ins are welcome! \n\n*This
+  event complimentary and available for registered members and up to one re
+ gistered guest.
 URL:https://members.thequinhouse.com/events/206914
 CATEGORIES:The Arts
 END:VEVENT
@@ -446,7 +446,7 @@ DTSTART;TZID=America/New_York:20261028T180000
 DTEND;TZID=America/New_York:20261028T193000
 SUMMARY:'Quin Chat: Wealth\, Well Lived
 LOCATION:Scottie's
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 21 spots lef
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 11 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/2
  06916\n\n6:00PM Reception\, 6:30PM Discussion\nWhat does it really mean to
   live a wealthy life? In the first of a new\, multi-part series presented 
@@ -505,18 +505,18 @@ DTSTART;TZID=America/New_York:20261029T180000
 DTEND;TZID=America/New_York:20261029T193000
 SUMMARY:Member Mixer: Mystery Match
 LOCATION:Scottie's
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 15 spots lef
- t\nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/
- events/207548\n\nYou have a match. Now comes the fun part: finding them.\n
- \nAt our next Member Mixer\, a clue awaits you on arrival. Follow it throu
- gh the room to find your mystery match\, then discover where the conversat
- ion takes you. You might uncover a shared interest\, an unexpected connect
- ion\, or simply someone you are glad to have met. It’s a playful way to 
- step outside your usual circle and meet someone new. Come curious\, leave 
- connected!\n\n*This event is complimentary and reserved for members only. 
- Complimentary light bites will be served with beverages will be available 
- to purchase. We kindly ask that all cancellations be made at least 24 hour
- s prior to the start of the event.
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 9 spots left
+ \nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/e
+ vents/207548\n\nYou have a match. Now comes the fun part: finding them.\n\
+ nAt our next Member Mixer\, a clue awaits you on arrival. Follow it throug
+ h the room to find your mystery match\, then discover where the conversati
+ on takes you. You might uncover a shared interest\, an unexpected connecti
+ on\, or simply someone you are glad to have met. It’s a playful way to s
+ tep outside your usual circle and meet someone new. Come curious\, leave c
+ onnected!\n\n*This event is complimentary and reserved for members only. C
+ omplimentary light bites will be served with beverages will be available t
+ o purchase. We kindly ask that all cancellations be made at least 24 hours
+  prior to the start of the event.
 URL:https://members.thequinhouse.com/events/207548
 CATEGORIES:Member Mixer
 END:VEVENT
@@ -555,32 +555,32 @@ DTSTAMP:20261030T173000Z
 DTSTART;TZID=America/New_York:20261030T173000
 DTEND;TZID=America/New_York:20261030T190000
 SUMMARY:Trials and Truth: A History of Witchcraft
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 110 spots le
- ft\nStatus: futureSale\nEvent URL: https://members.thequinhouse.com/events
- /206949\n\n5:30PM Reception\, 6:00PM Discussion\n\nIn a seasonal ode to wi
- tchcraft\, join us for a thought provoking exploration tracing the myths\,
-  origins\, and histories that have shaped its place in a Western European 
- cultural lineage\, a lineage that runs through to the Americas and into th
- e present day. Building on last year's Trials & Truth\, which examined the
-  Salem Witch Trials\, Professor Julie Walsh returns to take the conversati
- on beyond local lore\, exploring the European roots of the image of the wi
- tch\, its enduring stereotypes\, and the complex relationship between beli
- ef\, skepticism\, and the social consequences of believing the worst about
-  your neighbors. The evening will delve into the origin story of the medi
- eval witch\, what this story reveals about power\, fear\, freedom\, and so
- cial justice. \n\nJulie Walsh is the Whitehead Associate Professor of Cri
- tical Thought\, Associate Professor of Philosophy\, and Director of the Ne
- whouse Center for the Humanities at the Wellesley College\; she specialize
- s in early modern philosophy\, theories of freedom\, and the history of wi
- tchcraft. She will be in conversation with Liza Oliver\, Associate Profess
- or of Art History and Director of the Pluralism Initiative at Wellesley C
- ollege\; she specializes in the intersections of art\, colonialism\, and c
- ultural history. Together\, they will offer members a fresh perspective on
-  the historical roots and ongoing social impact of European ideas of witch
- es\, witchcraft\, and evil. \n\n*This event is complimentary and reserved
-  for members only. Complimentary light bites and refreshments will be serv
- ed. We kindly ask that all cancellations be made at least 24 hours prior t
- o the start of the event.
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 45 spots lef
+ t\nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/
+ events/206949\n\n5:30PM Reception\, 6:00PM Discussion\n\nIn a seasonal ode
+  to witchcraft\, join us for a thought provoking exploration tracing the m
+ yths\, origins\, and histories that have shaped its place in a Western Eur
+ opean cultural lineage\, a lineage that runs through to the Americas and i
+ nto the present day. Building on last year's Trials & Truth\, which examin
+ ed the Salem Witch Trials\, Professor Julie Walsh returns to take the conv
+ ersation beyond local lore\, exploring the European roots of the image of 
+ the witch\, its enduring stereotypes\, and the complex relationship betwee
+ n belief\, skepticism\, and the social consequences of believing the worst
+  about your neighbors. The evening will delve into the origin story of th
+ e medieval witch\, what this story reveals about power\, fear\, freedom\, 
+ and social justice. \n\nJulie Walsh is the Whitehead Associate Professor 
+ of Critical Thought\, Associate Professor of Philosophy\, and Director of 
+ the Newhouse Center for the Humanities at the Wellesley College\; she spec
+ ializes in early modern philosophy\, theories of freedom\, and the history
+  of witchcraft. She will be in conversation with Liza Oliver\, Associate P
+ rofessor of Art History and Director of the Pluralism Initiative at Welle
+ sley College\; she specializes in the intersections of art\, colonialism\,
+  and cultural history. Together\, they will offer members a fresh perspect
+ ive on the historical roots and ongoing social impact of European ideas of
+  witches\, witchcraft\, and evil. \n\n*This event is complimentary and re
+ served for members only. Complimentary light bites and refreshments will b
+ e served. We kindly ask that all cancellations be made at least 24 hours p
+ rior to the start of the event.
 URL:https://members.thequinhouse.com/events/206949
 CATEGORIES:‘Quin Chat
 END:VEVENT
@@ -643,26 +643,26 @@ DTSTAMP:20261102T170000Z
 DTSTART;TZID=America/New_York:20261102T170000
 DTEND;TZID=America/New_York:20261102T183000
 SUMMARY:Behind Broadway: A Performance with Lorna Courtney 
-DESCRIPTION:Category: The Arts\nPrice: $50.00 per person\nAvailability: 90 
- spots left\nStatus: futureSale\nEvent URL: https://members.thequinhouse.co
- m/events/208796\n\n5:00PM Doors Open\, 5:15PM Performance\, 6:00PM Recepti
- on\nJoin us in The Reading Room for an intimate evening of music\, theatre
- \, and storytelling with Tony Award-nominated Broadway star Lorna Courtney
- . Best known for originating the role of Juliet in the hit musical “& Ju
- liet”\, Courtney brings her extraordinary talent to The ’Quin for a ca
- ptivating live performance featuring selections from across her career\, f
- rom her early days on Broadway to her celebrated roles in “Heathers: The
-  Musical” and “The Rocky Horror Picture Show”. Through song and pers
- onal storytelling\, Courtney will take members on a journey through the de
- fining performances\, inspirations\, and experiences that have shaped her 
- career on the stage.\n\nFollowing the 30 minute performance\, Courtney wil
- l be joined for an engaging conversation and Q&A with Artistic Director of
-  SpeakEasy Stage Company\, Dawn Simmons. Together\, the two will offer a b
- ehind-the-curtain look at the world of Broadway\, exploring the creative p
- rocess\, pivotal career moments\, and the evolving landscape of musical th
- eatre while members enjoy light bites.\n\n*Tickets are $50 per member and
-  $75 for one registered guest. All tickets are nonrefundable and nontransf
- erable. Complimentary light bites and refreshments will be served.
+DESCRIPTION:Category: The Arts\nPrice: $50.00 per person\nAvailability: 50 
+ spots left\nStatus: You are Confirmed\nEvent URL: https://members.thequinh
+ ouse.com/events/208796\n\n5:00PM Doors Open\, 5:15PM Performance\, 6:00PM 
+ Reception\nJoin us in The Reading Room for an intimate evening of music\, 
+ theatre\, and storytelling with Tony Award-nominated Broadway star Lorna C
+ ourtney. Best known for originating the role of Juliet in the hit musical 
+ “& Juliet”\, Courtney brings her extraordinary talent to The ’Quin f
+ or a captivating live performance featuring selections from across her car
+ eer\, from her early days on Broadway to her celebrated roles in “Heathe
+ rs: The Musical” and “The Rocky Horror Picture Show”. Through song a
+ nd personal storytelling\, Courtney will take members on a journey through
+  the defining performances\, inspirations\, and experiences that have shap
+ ed her career on the stage.\n\nFollowing the 30 minute performance\, Court
+ ney will be joined for an engaging conversation and Q&A with Artistic Dire
+ ctor of SpeakEasy Stage Company\, Dawn Simmons. Together\, the two will of
+ fer a behind-the-curtain look at the world of Broadway\, exploring the cre
+ ative process\, pivotal career moments\, and the evolving landscape of mus
+ ical theatre while members enjoy light bites.\n\n*Tickets are $50 per mem
+ ber and $75 for one registered guest. All tickets are nonrefundable and no
+ ntransferable. Complimentary light bites and refreshments will be served.
 URL:https://members.thequinhouse.com/events/208796
 CATEGORIES:The Arts
 END:VEVENT
@@ -674,7 +674,7 @@ DTEND;TZID=America/New_York:20261102T210000
 SUMMARY:Serendipity Dinner 
 LOCATION:The Muse
 DESCRIPTION:Category: Food & Beverage\nPrice: $100.00 per person\nAvailabil
- ity: 12 spots left\nStatus: Available\nEvent URL: https://members.thequinh
+ ity: 11 spots left\nStatus: Available\nEvent URL: https://members.thequinh
  ouse.com/events/176003\n\nJoin The ’Quin House Managing Director\, Matth
  ias Kiehm\, for an intimate evening centered around thoughtful conversatio
  n\, new connections\, and exceptional dining. Over a beautifully curated t
@@ -699,7 +699,7 @@ DTEND;TZID=America/New_York:20261103T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 21 spots left\nStatus: Available\nEvent URL: https://memb
+ e\nAvailability: 20 spots left\nStatus: Available\nEvent URL: https://memb
  ers.thequinhouse.com/events/208333\n\nEase into the week in good company a
  t our weekly Member Mingle\, a relaxed gathering in The Living Room design
  ed to bring members together. Settle in\, enjoy a selection of charcuterie
@@ -765,6 +765,27 @@ URL:https://members.thequinhouse.com/events/208346
 CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
+UID:quin-event-208957@thequinhouse.com
+DTSTAMP:20261105T110000Z
+DTSTART;TZID=America/New_York:20261105T110000
+DTEND;TZID=America/New_York:20261105T120000
+SUMMARY:Art Tour: Alexandre Gallery Exhibition
+LOCATION:Meet in The Lobby
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 50 spots left\nS
+ tatus: Available\nEvent URL: https://members.thequinhouse.com/events/20895
+ 7\n\nPlease join 'Quin House art curator\, Kate Chertavian for a tour of t
+ he 'Quin's Fall exhibition in collaboration with Alexandre Gallery featuri
+ ng two generations of female New England artists.\n\nThe exhibition showca
+ ses ten works by influential plein air painter\, Lois Dodd\, a key figure 
+ in New York's post-war art scene\, celebrated for her depictions of the Ma
+ ine landscape. Alongside Dodd's work\, the exhibition highlights paintings
+  by her artistic peers Loren MacIver and Pat Adams\, as well as contempora
+ ry New England artists\, Tessa Greene O'Brien\, Lisa Sanditz and Emily Nel
+ ligan.\n\n*This event is complimentary and reserved for members only.
+URL:https://members.thequinhouse.com/events/208957
+CATEGORIES:The Arts
+END:VEVENT
+BEGIN:VEVENT
 UID:quin-event-208337@thequinhouse.com
 DTSTAMP:20261106T130000Z
 DTSTART;TZID=America/New_York:20261106T130000
@@ -818,7 +839,7 @@ DTSTART;TZID=America/New_York:20261109T190000
 DTEND;TZID=America/New_York:20261109T200000
 SUMMARY:Author's Circle Book Club: "Georgia" by Dawn Tripp 
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 18 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 15 spots left\nS
  tatus: Available\nEvent URL: https://members.thequinhouse.com/events/20878
  9\n\nBookmark your calendar and settle in for November’s Author Circle B
  ook Club\, Georgia by Dawn Tripp—a captivating and richly imagined novel
@@ -844,7 +865,7 @@ DTEND;TZID=America/New_York:20261110T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 39 spots left\nStatus: Available\nEvent URL: https://memb
+ e\nAvailability: 36 spots left\nStatus: Available\nEvent URL: https://memb
  ers.thequinhouse.com/events/209092\n\nEase into the week in good company a
  t our weekly Member Mingle\, a relaxed gathering in The Living Room design
  ed to bring members together. Settle in\, enjoy a selection of charcuterie
@@ -866,21 +887,21 @@ DTSTAMP:20261111T163000Z
 DTSTART;TZID=America/New_York:20261111T163000
 DTEND;TZID=America/New_York:20261111T180000
 SUMMARY:'Quin Chat: The Instinct of Opportunity with Mellody Hobson 
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 120 spots le
- ft\nStatus: futureSale\nEvent URL: https://members.thequinhouse.com/events
- /209103\n\n4:30PM Reception\, 5:00PM Discussion\n\nJoin Sandy Edgerley\, C
- o-Founder of The ’Quin House\, and Mellody Hobson\, Co-CEO of Ariel In
- vestments\, for a conversation about leadership\, investment\, and the ins
- tinct to see possibility before it becomes obvious.\n\nFrom guiding Ariel�
- ��s growth to founding Project Level®\, Mellody has built a career aroun
- d ideas with the power to change industries. Together\, she and Sandy will
-  explore what it takes to turn conviction into action\, with a closer look
-  at the momentum behind women’s sports. As new audiences\, investment\, 
- and influence reshape the field\, they will consider who gets to define it
- s future—and what this moment reveals about opportunity in business.\n\n
- *This event is complimentary and reserved for members only. Complimentary 
- light bites and refreshments will be served. We kindly ask that all cancel
- lations be made at least 24 hours prior to the start of the event.
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 31 spots lef
+ t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/2
+ 09103\n\n4:30PM Reception\, 5:00PM Discussion\n\nJoin Sandy Edgerley\, Co-
+ Founder of The ’Quin House\, and Mellody Hobson\, Co-CEO of Ariel Inve
+ stments\, for a conversation about leadership\, investment\, and the insti
+ nct to see possibility before it becomes obvious.\n\nFrom guiding Ariel’
+ s growth to founding Project Level®\, Mellody has built a career around 
+ ideas with the power to change industries. Together\, she and Sandy will e
+ xplore what it takes to turn conviction into action\, with a closer look a
+ t the momentum behind women’s sports. As new audiences\, investment\, an
+ d influence reshape the field\, they will consider who gets to define its 
+ future—and what this moment reveals about opportunity in business.\n\n*T
+ his event is complimentary and reserved for members only. Complimentary li
+ ght bites and refreshments will be served. We kindly ask that all cancella
+ tions be made at least 24 hours prior to the start of the event.
 URL:https://members.thequinhouse.com/events/209103
 CATEGORIES:‘Quin Chat
 END:VEVENT
