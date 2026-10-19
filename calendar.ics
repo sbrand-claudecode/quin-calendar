@@ -52,24 +52,24 @@ DTEND;TZID=America/New_York:20261019T210000
 SUMMARY:Serendipity Dinner: The Under 40 Table
 LOCATION:The Muse
 DESCRIPTION:Category: Food & Beverage\, Member Mixer\nPrice: $100.00 per pe
- rson\nAvailability: 3 spots left\nStatus: Waitlist Only\nEvent URL: https:
- //members.thequinhouse.com/events/206205\n\nStep into a lively evening des
- igned for members aged under 40\, where new connections come naturally and
-  conversation carries easily around the table. This Serendipity Dinner inv
- ites you to gather in The Muse for a relaxed\, yet refined dinner\, with f
- ellow members at a similar stage of life.\n\nThe evening unfolds over a th
- oughtfully curated dinner\, complemented by subtle conversation prompts de
- signed to spark connection\, uncover shared interests\, and keep the dialo
- gue flowing throughout the evening.\n\nWhether you are newer to The ‘Hou
- se\, or simply looking to broaden your circle\, consider this an invitatio
- n to settle in\, share a table\, and get to know fellow members you may no
- t otherwise have the chance to meet. Come for dinner\, stay for the conver
- sation\, and leave with a few new connections—and perhaps a little seren
- dipity.\n\n*Tickets are $100 per person\, plus tax\, and are reserved for 
- members only. Cancellations within 72 hours of the event\, or failure to a
- ttend\, will be charged in full. Please inform us of any dietary needs or 
- restrictions by emailing happenings@thequin.com at least 72 hours before d
- inner service.
+ rson\nAvailability: 1 spot left\nStatus: Waitlist Only\nEvent URL: https:/
+ /members.thequinhouse.com/events/206205\n\nStep into a lively evening desi
+ gned for members aged under 40\, where new connections come naturally and 
+ conversation carries easily around the table. This Serendipity Dinner invi
+ tes you to gather in The Muse for a relaxed\, yet refined dinner\, with fe
+ llow members at a similar stage of life.\n\nThe evening unfolds over a tho
+ ughtfully curated dinner\, complemented by subtle conversation prompts des
+ igned to spark connection\, uncover shared interests\, and keep the dialog
+ ue flowing throughout the evening.\n\nWhether you are newer to The ‘Hous
+ e\, or simply looking to broaden your circle\, consider this an invitation
+  to settle in\, share a table\, and get to know fellow members you may not
+  otherwise have the chance to meet. Come for dinner\, stay for the convers
+ ation\, and leave with a few new connections—and perhaps a little serend
+ ipity.\n\n*Tickets are $100 per person\, plus tax\, and are reserved for m
+ embers only. Cancellations within 72 hours of the event\, or failure to at
+ tend\, will be charged in full. Please inform us of any dietary needs or r
+ estrictions by emailing happenings@thequin.com at least 72 hours before di
+ nner service.
 URL:https://members.thequinhouse.com/events/206205
 CATEGORIES:Food & Beverage,Member Mixer
 END:VEVENT
@@ -406,16 +406,15 @@ DTSTART;TZID=America/New_York:20261027T200000
 DTEND;TZID=America/New_York:20261027T210000
 SUMMARY:Improv Comedy | 8:00PM Show
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 2 spots left\nSt
- atus: Available\nEvent URL: https://members.thequinhouse.com/events/206914
- \n\nBoston’s best return to the 'House! Improv comedians are ready to ke
- ep you laughing with spontaneous sketches\, quick wit\, and audience-inspi
- red moments. Join us for a cocktail from the cash bar beginning at 7:30pm\
- , then snag your seat and enjoy a show packed with energy from beginning t
- o end. Seating is first come\, first serve\n\nMake it a night with a pre-s
- how burger and a beer from the Pub. Dining walk-ins are welcome! \n\n*This
-  event complimentary and available for registered members and up to one re
- gistered guest.
+DESCRIPTION:Category: The Arts\nPrice: Free\nStatus: Waitlist Only\nEvent U
+ RL: https://members.thequinhouse.com/events/206914\n\nBoston’s best retu
+ rn to the 'House! Improv comedians are ready to keep you laughing with spo
+ ntaneous sketches\, quick wit\, and audience-inspired moments. Join us for
+  a cocktail from the cash bar beginning at 7:30pm\, then snag your seat an
+ d enjoy a show packed with energy from beginning to end. Seating is first 
+ come\, first serve\n\nMake it a night with a pre-show burger and a beer fr
+ om the Pub. Dining walk-ins are welcome! \n\n*This event complimentary and
+  available for registered members and up to one registered guest.
 URL:https://members.thequinhouse.com/events/206914
 CATEGORIES:The Arts
 END:VEVENT
@@ -446,7 +445,7 @@ DTSTART;TZID=America/New_York:20261028T180000
 DTEND;TZID=America/New_York:20261028T193000
 SUMMARY:'Quin Chat: Wealth\, Well Lived
 LOCATION:Scottie's
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 11 spots lef
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 12 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/2
  06916\n\n6:00PM Reception\, 6:30PM Discussion\nWhat does it really mean to
   live a wealthy life? In the first of a new\, multi-part series presented 
@@ -505,7 +504,7 @@ DTSTART;TZID=America/New_York:20261029T180000
 DTEND;TZID=America/New_York:20261029T193000
 SUMMARY:Member Mixer: Mystery Match
 LOCATION:Scottie's
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 9 spots left
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 8 spots left
  \nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/e
  vents/207548\n\nYou have a match. Now comes the fun part: finding them.\n\
  nAt our next Member Mixer\, a clue awaits you on arrival. Follow it throug
@@ -555,7 +554,7 @@ DTSTAMP:20261030T173000Z
 DTSTART;TZID=America/New_York:20261030T173000
 DTEND;TZID=America/New_York:20261030T190000
 SUMMARY:Trials and Truth: A History of Witchcraft
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 45 spots lef
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 37 spots lef
  t\nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/
  events/206949\n\n5:30PM Reception\, 6:00PM Discussion\n\nIn a seasonal ode
   to witchcraft\, join us for a thought provoking exploration tracing the m
@@ -643,7 +642,7 @@ DTSTAMP:20261102T170000Z
 DTSTART;TZID=America/New_York:20261102T170000
 DTEND;TZID=America/New_York:20261102T183000
 SUMMARY:Behind Broadway: A Performance with Lorna Courtney 
-DESCRIPTION:Category: The Arts\nPrice: $50.00 per person\nAvailability: 50 
+DESCRIPTION:Category: The Arts\nPrice: $50.00 per person\nAvailability: 49 
  spots left\nStatus: You are Confirmed\nEvent URL: https://members.thequinh
  ouse.com/events/208796\n\n5:00PM Doors Open\, 5:15PM Performance\, 6:00PM 
  Reception\nJoin us in The Reading Room for an intimate evening of music\, 
@@ -839,7 +838,7 @@ DTSTART;TZID=America/New_York:20261109T190000
 DTEND;TZID=America/New_York:20261109T200000
 SUMMARY:Author's Circle Book Club: "Georgia" by Dawn Tripp 
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 15 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 14 spots left\nS
  tatus: Available\nEvent URL: https://members.thequinhouse.com/events/20878
  9\n\nBookmark your calendar and settle in for November’s Author Circle B
  ook Club\, Georgia by Dawn Tripp—a captivating and richly imagined novel
@@ -887,7 +886,7 @@ DTSTAMP:20261111T163000Z
 DTSTART;TZID=America/New_York:20261111T163000
 DTEND;TZID=America/New_York:20261111T180000
 SUMMARY:'Quin Chat: The Instinct of Opportunity with Mellody Hobson 
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 31 spots lef
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 23 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/2
  09103\n\n4:30PM Reception\, 5:00PM Discussion\n\nJoin Sandy Edgerley\, Co-
  Founder of The ’Quin House\, and Mellody Hobson\, Co-CEO of Ariel Inve
@@ -1036,7 +1035,7 @@ DTEND;VALUE=DATE:20261123
 SUMMARY:Kid's Clubhouse: "Peter and The Wolf" with the Boston Youth Symphon
  y Orchestra
 LOCATION:Offsite: Symphony Hall
-DESCRIPTION:Category: The Arts\nPrice: $140.00 per person\nAvailability: 30
+DESCRIPTION:Category: The Arts\nPrice: $140.00 per person\nAvailability: 29
   spots left\nStatus: Available\nTime: 10 AM – 1 PM\nEvent URL: https://m
  embers.thequinhouse.com/events/208329\n\n10:00AM Kids Bravo Club\, 12:00PM
   Concert\nFollow the music to Symphony Hall for a family morning inspired 
@@ -1083,39 +1082,38 @@ DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261209
 SUMMARY:'Venture: European Holiday Markets
 LOCATION:Offsite: Strasbourg\, Nuremberg\, Vienna\, and Munich
-DESCRIPTION:Category: ‘Venture - Travel\nPrice: $10150.00 per person\nAva
- ilability: 1 spot left\nStatus: Available\nTime: 3 PM – 12 PM\nEvent URL
- : https://members.thequinhouse.com/events/200238\n\nThis December\, trade 
- the usual holiday routine for a ‘Venture through the heart of Europe dur
- ing its most magical season. Wander Strasbourg’s storybook streets\, exp
- erience Nuremberg’s legendary Christkindlesmarkt\, revel in the grandeur
-  of Vienna\, and savor a final taste of Bavaria in Munich. With exceptiona
- l dining\, luxury accommodations\, private transportation\, and time to di
- scover each destination at leisure\, every detail has been thoughtfully co
- nsidered. \n\nBegin in the heart of Alsace\, with two days to wander Stra
- sbourg’s celebrated holiday markets\, half-timbered streets\, artisan st
- alls\, and historic landmarks\, gathering over Alsatian fare in centuries-
- old settings along the way. From there\, journey east to Nuremberg and the
-  legendary Christkindlesmarkt\, one of the world’s oldest holiday market
- s\, with time to explore the medieval Old Town\, Imperial Castle\, and sta
- lls beneath the Frauenkirche before an evening of Franconian specialties.\
- n\nThe journey continues to Vienna\, where imperial landmarks\, elegant bo
- ulevards\, and enchanting holiday markets set the scene for an afternoon i
- n one of Europe’s grandest capitals. Finally\, Bavaria provides a fittin
- g finale in Munich. Wander from Marienplatz to the Viktualienmarkt\, disco
- ver neighborhood markets and local boutiques\, and savor one last taste of
-  the season before raising a glass together over a farewell dinner overloo
- king the National Theatre. An extraordinary journey through the traditions
- \, flavors\, and unmistakable magic of the European holiday season awaits.
- \n\nSingle Occupancy | $6\,950\n\nDouble Occupancy | $10\,150\n\n*Reservat
- ions are non-refundable and non-transferable in order to guarantee accomm
- odations during the high season. Payment is due in full at the time of boo
- king. To ensure the best possible experience for all attendees\, we kindl
- y ask that members inform us in advance of any physical limitations\, mobi
- lity considerations\, or accessibility needs we should be aware of. All me
- mbers will also be asked to sign The 'Quin's standard liability agreement 
- in advance of travel and minimum interest must be met to ensure the trip w
- ill proceed as planned.
+DESCRIPTION:Category: ‘Venture - Travel\nPrice: $10150.00 per person\nSta
+ tus: Available\nTime: 3 PM – 12 PM\nEvent URL: https://members.thequinho
+ use.com/events/200238\n\nThis December\, trade the usual holiday routine f
+ or a ‘Venture through the heart of Europe during its most magical season
+ . Wander Strasbourg’s storybook streets\, experience Nuremberg’s legen
+ dary Christkindlesmarkt\, revel in the grandeur of Vienna\, and savor a fi
+ nal taste of Bavaria in Munich. With exceptional dining\, luxury accommoda
+ tions\, private transportation\, and time to discover each destination at 
+ leisure\, every detail has been thoughtfully considered. \n\nBegin in the
+  heart of Alsace\, with two days to wander Strasbourg’s celebrated holid
+ ay markets\, half-timbered streets\, artisan stalls\, and historic landmar
+ ks\, gathering over Alsatian fare in centuries-old settings along the way.
+  From there\, journey east to Nuremberg and the legendary Christkindlesmar
+ kt\, one of the world’s oldest holiday markets\, with time to explore th
+ e medieval Old Town\, Imperial Castle\, and stalls beneath the Frauenkirch
+ e before an evening of Franconian specialties.\n\nThe journey continues to
+  Vienna\, where imperial landmarks\, elegant boulevards\, and enchanting h
+ oliday markets set the scene for an afternoon in one of Europe’s grandes
+ t capitals. Finally\, Bavaria provides a fitting finale in Munich. Wander 
+ from Marienplatz to the Viktualienmarkt\, discover neighborhood markets an
+ d local boutiques\, and savor one last taste of the season before raising 
+ a glass together over a farewell dinner overlooking the National Theatre. 
+ An extraordinary journey through the traditions\, flavors\, and unmistakab
+ le magic of the European holiday season awaits.\n\nSingle Occupancy | $6\,
+ 950\n\nDouble Occupancy | $10\,150\n\n*Reservations are non-refundable and
+  non-transferable in order to guarantee accommodations during the high se
+ ason. Payment is due in full at the time of booking. To ensure the best p
+ ossible experience for all attendees\, we kindly ask that members inform u
+ s in advance of any physical limitations\, mobility considerations\, or ac
+ cessibility needs we should be aware of. All members will also be asked to
+  sign The 'Quin's standard liability agreement in advance of travel and mi
+ nimum interest must be met to ensure the trip will proceed as planned.
 URL:https://members.thequinhouse.com/events/200238
 CATEGORIES:‘Venture - Travel
 END:VEVENT
