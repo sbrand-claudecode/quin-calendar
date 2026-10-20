@@ -45,35 +45,6 @@ URL:https://members.thequinhouse.com/events/205635
 CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
-UID:quin-event-206205@thequinhouse.com
-DTSTAMP:20261019T183000Z
-DTSTART;TZID=America/New_York:20261019T183000
-DTEND;TZID=America/New_York:20261019T210000
-SUMMARY:Serendipity Dinner: The Under 40 Table
-LOCATION:The Muse
-DESCRIPTION:Category: Food & Beverage\, Member Mixer\nPrice: $100.00 per pe
- rson\nAvailability: 1 spot left\nStatus: Waitlist Only\nEvent URL: https:/
- /members.thequinhouse.com/events/206205\n\nStep into a lively evening desi
- gned for members aged under 40\, where new connections come naturally and 
- conversation carries easily around the table. This Serendipity Dinner invi
- tes you to gather in The Muse for a relaxed\, yet refined dinner\, with fe
- llow members at a similar stage of life.\n\nThe evening unfolds over a tho
- ughtfully curated dinner\, complemented by subtle conversation prompts des
- igned to spark connection\, uncover shared interests\, and keep the dialog
- ue flowing throughout the evening.\n\nWhether you are newer to The ‘Hous
- e\, or simply looking to broaden your circle\, consider this an invitation
-  to settle in\, share a table\, and get to know fellow members you may not
-  otherwise have the chance to meet. Come for dinner\, stay for the convers
- ation\, and leave with a few new connections—and perhaps a little serend
- ipity.\n\n*Tickets are $100 per person\, plus tax\, and are reserved for m
- embers only. Cancellations within 72 hours of the event\, or failure to at
- tend\, will be charged in full. Please inform us of any dietary needs or r
- estrictions by emailing happenings@thequin.com at least 72 hours before di
- nner service.
-URL:https://members.thequinhouse.com/events/206205
-CATEGORIES:Food & Beverage,Member Mixer
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-205202@thequinhouse.com
 DTSTAMP:20261020T170000Z
 DTSTART;TZID=America/New_York:20261020T170000
@@ -81,7 +52,7 @@ DTEND;TZID=America/New_York:20261020T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 17 spots left\nStatus: Available\nEvent URL: https://memb
+ e\nAvailability: 16 spots left\nStatus: Available\nEvent URL: https://memb
  ers.thequinhouse.com/events/205202\n\nJoin us for our weekly Member Mingle
  \, an inclusive gathering set in an ambiant reserved space. This is your o
  pportunity to connect with fellow members\, exchange ideas\, and cultivate
@@ -554,7 +525,7 @@ DTSTAMP:20261030T173000Z
 DTSTART;TZID=America/New_York:20261030T173000
 DTEND;TZID=America/New_York:20261030T190000
 SUMMARY:Trials and Truth: A History of Witchcraft
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 37 spots lef
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 36 spots lef
  t\nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/
  events/206949\n\n5:30PM Reception\, 6:00PM Discussion\n\nIn a seasonal ode
   to witchcraft\, join us for a thought provoking exploration tracing the m
@@ -642,7 +613,7 @@ DTSTAMP:20261102T170000Z
 DTSTART;TZID=America/New_York:20261102T170000
 DTEND;TZID=America/New_York:20261102T183000
 SUMMARY:Behind Broadway: A Performance with Lorna Courtney 
-DESCRIPTION:Category: The Arts\nPrice: $50.00 per person\nAvailability: 49 
+DESCRIPTION:Category: The Arts\nPrice: $50.00 per person\nAvailability: 48 
  spots left\nStatus: You are Confirmed\nEvent URL: https://members.thequinh
  ouse.com/events/208796\n\n5:00PM Doors Open\, 5:15PM Performance\, 6:00PM 
  Reception\nJoin us in The Reading Room for an intimate evening of music\, 
@@ -770,7 +741,7 @@ DTSTART;TZID=America/New_York:20261105T110000
 DTEND;TZID=America/New_York:20261105T120000
 SUMMARY:Art Tour: Alexandre Gallery Exhibition
 LOCATION:Meet in The Lobby
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 50 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 48 spots left\nS
  tatus: Available\nEvent URL: https://members.thequinhouse.com/events/20895
  7\n\nPlease join 'Quin House art curator\, Kate Chertavian for a tour of t
  he 'Quin's Fall exhibition in collaboration with Alexandre Gallery featuri
@@ -864,7 +835,7 @@ DTEND;TZID=America/New_York:20261110T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 36 spots left\nStatus: Available\nEvent URL: https://memb
+ e\nAvailability: 35 spots left\nStatus: Available\nEvent URL: https://memb
  ers.thequinhouse.com/events/209092\n\nEase into the week in good company a
  t our weekly Member Mingle\, a relaxed gathering in The Living Room design
  ed to bring members together. Settle in\, enjoy a selection of charcuterie
@@ -886,7 +857,7 @@ DTSTAMP:20261111T163000Z
 DTSTART;TZID=America/New_York:20261111T163000
 DTEND;TZID=America/New_York:20261111T180000
 SUMMARY:'Quin Chat: The Instinct of Opportunity with Mellody Hobson 
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 23 spots lef
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 17 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/2
  09103\n\n4:30PM Reception\, 5:00PM Discussion\n\nJoin Sandy Edgerley\, Co-
  Founder of The ’Quin House\, and Mellody Hobson\, Co-CEO of Ariel Inve
