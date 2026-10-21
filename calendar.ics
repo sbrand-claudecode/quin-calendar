@@ -265,19 +265,19 @@ DTSTART;TZID=America/New_York:20261026T180000
 DTEND;TZID=America/New_York:20261026T210000
 SUMMARY:Community Table
 LOCATION:Café Q
-DESCRIPTION:Category: Food & Beverage\nPrice: Free\nAvailability: 1 spot le
- ft\nStatus: Waitlist Only\nEvent URL: https://members.thequinhouse.com/eve
- nts/205201\n\nStart your week in good company with the Café Q Community d
- inner table for members-only. Set aside for those looking to expand their 
- social circle over a shared meal\, this gathering is all about good food\,
-  lively conversation\, and meaningful connections. Pull up a chair\, and s
- avor the experience—because nothing brings people together quite like a 
- great meal.\n\n*This event is reserved for members only. An advance charge
-  of $24 per member contributes to communal appetizers available upon seati
- ng. Members are responsible for à la carte entrées\, desserts\, and beve
- rages\, plus taxes and fees. Cancellations made within 24 hours of the eve
- nt\, or failure to attend will be subject to the Café Q's surcharge polic
- y.
+DESCRIPTION:Category: Food & Beverage\nPrice: Free\nAvailability: 2 spots l
+ eft\nStatus: Waitlist Only\nEvent URL: https://members.thequinhouse.com/ev
+ ents/205201\n\nStart your week in good company with the Café Q Community 
+ dinner table for members-only. Set aside for those looking to expand their
+  social circle over a shared meal\, this gathering is all about good food\
+ , lively conversation\, and meaningful connections. Pull up a chair\, and 
+ savor the experience—because nothing brings people together quite like a
+  great meal.\n\n*This event is reserved for members only. An advance charg
+ e of $24 per member contributes to communal appetizers available upon seat
+ ing. Members are responsible for à la carte entrées\, desserts\, and bev
+ erages\, plus taxes and fees. Cancellations made within 24 hours of the ev
+ ent\, or failure to attend will be subject to the Café Q's surcharge poli
+ cy.
 URL:https://members.thequinhouse.com/events/205201
 CATEGORIES:Food & Beverage
 END:VEVENT
@@ -355,15 +355,16 @@ DTSTART;TZID=America/New_York:20261027T200000
 DTEND;TZID=America/New_York:20261027T210000
 SUMMARY:Improv Comedy | 8:00PM Show
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nStatus: Waitlist Only\nEvent U
- RL: https://members.thequinhouse.com/events/206914\n\nBoston’s best retu
- rn to the 'House! Improv comedians are ready to keep you laughing with spo
- ntaneous sketches\, quick wit\, and audience-inspired moments. Join us for
-  a cocktail from the cash bar beginning at 7:30pm\, then snag your seat an
- d enjoy a show packed with energy from beginning to end. Seating is first 
- come\, first serve\n\nMake it a night with a pre-show burger and a beer fr
- om the Pub. Dining walk-ins are welcome! \n\n*This event complimentary and
-  available for registered members and up to one registered guest.
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 1 spot left\nSta
+ tus: Waitlist Only\nEvent URL: https://members.thequinhouse.com/events/206
+ 914\n\nBoston’s best return to the 'House! Improv comedians are ready to
+  keep you laughing with spontaneous sketches\, quick wit\, and audience-in
+ spired moments. Join us for a cocktail from the cash bar beginning at 7:30
+ pm\, then snag your seat and enjoy a show packed with energy from beginnin
+ g to end. Seating is first come\, first serve\n\nMake it a night with a pr
+ e-show burger and a beer from the Pub. Dining walk-ins are welcome! \n\n*T
+ his event complimentary and available for registered members and up to one
+  registered guest.
 URL:https://members.thequinhouse.com/events/206914
 CATEGORIES:The Arts
 END:VEVENT
@@ -503,7 +504,7 @@ DTSTAMP:20261030T173000Z
 DTSTART;TZID=America/New_York:20261030T173000
 DTEND;TZID=America/New_York:20261030T190000
 SUMMARY:Trials and Truth: A History of Witchcraft
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 20 spots lef
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 19 spots lef
  t\nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/
  events/206949\n\n5:30PM Reception\, 6:00PM Discussion\n\nIn a seasonal ode
   to witchcraft\, join us for a thought provoking exploration tracing the m
