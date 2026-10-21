@@ -45,29 +45,6 @@ URL:https://members.thequinhouse.com/events/205635
 CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
-UID:quin-event-205202@thequinhouse.com
-DTSTAMP:20261020T170000Z
-DTSTART;TZID=America/New_York:20261020T170000
-DTEND;TZID=America/New_York:20261020T183000
-SUMMARY:Member Mingle
-LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 16 spots left\nStatus: Available\nEvent URL: https://memb
- ers.thequinhouse.com/events/205202\n\nJoin us for our weekly Member Mingle
- \, an inclusive gathering set in an ambiant reserved space. This is your o
- pportunity to connect with fellow members\, exchange ideas\, and cultivate
-  meaningful relationships.\n\nWhether you're sparking new collaborations\,
-  sharing insights\, or simply enjoying great conversation\, the Member Min
- gle is the perfect way to engage with our dynamic community. Don’t miss 
- the chance to connect\, inspire\, and be inspired!\n\n*This event is compl
- imentary and reserved for members only. Complimentary light bites will be 
- served\, and beverages will be available for purchase. We kindly ask that
-  all cancellations be made at least 24 hours prior to the start of the eve
- nt.
-URL:https://members.thequinhouse.com/events/205202
-CATEGORIES:Member Mixer,Survey - Membership Mingle
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-205642@thequinhouse.com
 DTSTAMP:20261023T190000Z
 DTSTART;TZID=America/New_York:20261023T190000
@@ -312,7 +289,7 @@ DTEND;TZID=America/New_York:20261027T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 14 spots left\nStatus: Available\nEvent URL: https://memb
+ e\nAvailability: 13 spots left\nStatus: Available\nEvent URL: https://memb
  ers.thequinhouse.com/events/205203\n\nEase into the week in good company a
  t our weekly Member Mingle\, a relaxed gathering in The Living Room design
  ed to bring members together. Settle in\, enjoy a selection of charcuterie
@@ -476,7 +453,7 @@ DTSTART;TZID=America/New_York:20261029T180000
 DTEND;TZID=America/New_York:20261029T193000
 SUMMARY:Member Mixer: Mystery Match
 LOCATION:Scottie's
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 6 spots left
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 4 spots left
  \nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/e
  vents/207548\n\nYou have a match. Now comes the fun part: finding them.\n\
  nAt our next Member Mixer\, a clue awaits you on arrival. Follow it throug
@@ -526,7 +503,7 @@ DTSTAMP:20261030T173000Z
 DTSTART;TZID=America/New_York:20261030T173000
 DTEND;TZID=America/New_York:20261030T190000
 SUMMARY:Trials and Truth: A History of Witchcraft
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 22 spots lef
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 20 spots lef
  t\nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/
  events/206949\n\n5:30PM Reception\, 6:00PM Discussion\n\nIn a seasonal ode
   to witchcraft\, join us for a thought provoking exploration tracing the m
@@ -742,7 +719,7 @@ DTSTART;TZID=America/New_York:20261105T110000
 DTEND;TZID=America/New_York:20261105T120000
 SUMMARY:Art Tour: Alexandre Gallery Exhibition
 LOCATION:Meet in The Lobby
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 43 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 42 spots left\nS
  tatus: Available\nEvent URL: https://members.thequinhouse.com/events/20895
  7\n\nPlease join 'Quin House art curator\, Kate Chertavian for a tour of t
  he 'Quin's Fall exhibition in collaboration with Alexandre Gallery featuri
@@ -810,7 +787,7 @@ DTSTART;TZID=America/New_York:20261109T190000
 DTEND;TZID=America/New_York:20261109T200000
 SUMMARY:Author's Circle Book Club: "Georgia" by Dawn Tripp 
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 11 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 10 spots left\nS
  tatus: Available\nEvent URL: https://members.thequinhouse.com/events/20878
  9\n\nBookmark your calendar and settle in for November’s Author Circle B
  ook Club\, Georgia by Dawn Tripp—a captivating and richly imagined novel
