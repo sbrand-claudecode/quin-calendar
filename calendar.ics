@@ -210,7 +210,7 @@ DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261026
 SUMMARY:Black Widow: Web of Deceit | Saturday Night
 LOCATION:217 Commonwealth Mansion
-DESCRIPTION:Category: Holiday\nPrice: $295.00 per person\nAvailability: 3 s
+DESCRIPTION:Category: Holiday\nPrice: $295.00 per person\nAvailability: 4 s
  pots left\nStatus: You are Confirmed\nTime: 8 PM – 1 AM\nEvent URL: http
  s://members.thequinhouse.com/events/202989\n\nSlip into the camouflage of 
  costume for an evening under the ethereal shadows of lacy silk couture…\
@@ -289,7 +289,7 @@ DTEND;TZID=America/New_York:20261027T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 13 spots left\nStatus: Available\nEvent URL: https://memb
+ e\nAvailability: 11 spots left\nStatus: Available\nEvent URL: https://memb
  ers.thequinhouse.com/events/205203\n\nEase into the week in good company a
  t our weekly Member Mingle\, a relaxed gathering in The Living Room design
  ed to bring members together. Settle in\, enjoy a selection of charcuterie
@@ -394,7 +394,7 @@ DTSTART;TZID=America/New_York:20261028T180000
 DTEND;TZID=America/New_York:20261028T193000
 SUMMARY:'Quin Chat: Wealth\, Well Lived
 LOCATION:Scottie's
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 8 spots left
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 6 spots left
  \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/20
  6916\n\n6:00PM Reception\, 6:30PM Discussion\nWhat does it really mean to 
  live a wealthy life? In the first of a new\, multi-part series presented w
@@ -453,7 +453,7 @@ DTSTART;TZID=America/New_York:20261029T180000
 DTEND;TZID=America/New_York:20261029T193000
 SUMMARY:Member Mixer: Mystery Match
 LOCATION:Scottie's
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 4 spots left
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 2 spots left
  \nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/e
  vents/207548\n\nYou have a match. Now comes the fun part: finding them.\n\
  nAt our next Member Mixer\, a clue awaits you on arrival. Follow it throug
@@ -591,7 +591,7 @@ DTSTAMP:20261102T170000Z
 DTSTART;TZID=America/New_York:20261102T170000
 DTEND;TZID=America/New_York:20261102T183000
 SUMMARY:Behind Broadway: A Performance with Lorna Courtney 
-DESCRIPTION:Category: The Arts\nPrice: $50.00 per person\nAvailability: 42 
+DESCRIPTION:Category: The Arts\nPrice: $50.00 per person\nAvailability: 39 
  spots left\nStatus: You are Confirmed\nEvent URL: https://members.thequinh
  ouse.com/events/208796\n\n5:00PM Doors Open\, 5:15PM Performance\, 6:00PM 
  Reception\nJoin us in The Reading Room for an intimate evening of music\, 
@@ -719,7 +719,7 @@ DTSTART;TZID=America/New_York:20261105T110000
 DTEND;TZID=America/New_York:20261105T120000
 SUMMARY:Art Tour: Alexandre Gallery Exhibition
 LOCATION:Meet in The Lobby
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 40 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 37 spots left\nS
  tatus: Available\nEvent URL: https://members.thequinhouse.com/events/20895
  7\n\nPlease join 'Quin House art curator\, Kate Chertavian for a tour of t
  he 'Quin's Fall exhibition in collaboration with Alexandre Gallery featuri
@@ -787,7 +787,7 @@ DTSTART;TZID=America/New_York:20261109T190000
 DTEND;TZID=America/New_York:20261109T200000
 SUMMARY:Author's Circle Book Club: "Georgia" by Dawn Tripp 
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 8 spots left\nSt
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 7 spots left\nSt
  atus: Available\nEvent URL: https://members.thequinhouse.com/events/208789
  \n\nBookmark your calendar and settle in for November’s Author Circle Bo
  ok Club\, Georgia by Dawn Tripp—a captivating and richly imagined novel 
@@ -813,7 +813,7 @@ DTEND;TZID=America/New_York:20261110T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 34 spots left\nStatus: Available\nEvent URL: https://memb
+ e\nAvailability: 33 spots left\nStatus: Available\nEvent URL: https://memb
  ers.thequinhouse.com/events/209092\n\nEase into the week in good company a
  t our weekly Member Mingle\, a relaxed gathering in The Living Room design
  ed to bring members together. Settle in\, enjoy a selection of charcuterie
@@ -1061,7 +1061,7 @@ DTSTART;TZID=America/New_York:20261118T180000
 DTEND;TZID=America/New_York:20261118T200000
 SUMMARY:Board Game Night 
 LOCATION:The Living Room
-DESCRIPTION:Category: Sports & Games\nPrice: Free\nAvailability: 40 spots l
+DESCRIPTION:Category: Sports & Games\nPrice: Free\nAvailability: 37 spots l
  eft\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events
  /209705\n\nBring your sharpest wit\, channel your competitive charm\, and 
  roll the dice for an evening of strategy\, luck\, and a touch of mischief.
@@ -1110,7 +1110,7 @@ DTSTART;TZID=America/New_York:20261119T183000
 DTEND;TZID=America/New_York:20261119T203000
 SUMMARY:Member Meet Up: King's Bowling
 LOCATION:Offsite: King's Dining & Entertainment
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 59 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 57 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/2
  09688\n\nSpare yourself the ordinary evening and join us at King’s Bowli
  ng for a Member Meet-Up that’s equal parts pins\, pours\, and playful ri
@@ -1171,7 +1171,7 @@ DTEND;TZID=America/New_York:20261123T210000
 SUMMARY:Community Table
 LOCATION:Café Q
 DESCRIPTION:Category: Food & Beverage\nPrice: Free\nAvailability: 999999999
- 999 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
+ 998 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
  .com/events/209711\n\nEase into the week around the table with the return 
  of Café Q’s Community Table. Designed for members looking to meet new f
  aces and make new connections\, the evening brings together good food and 
@@ -1216,16 +1216,16 @@ DTSTART;TZID=America/New_York:20261124T180000
 DTEND;TZID=America/New_York:20261124T190000
 SUMMARY:Stand Up Comedy | 6:00PM Show
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 100 spots left\n
- Status: Available\nEvent URL: https://members.thequinhouse.com/events/2097
- 12\n\nBoston’s best return to the 'House! Improv Asylum comedians are re
- ady to make you laugh through short stand-up sets. Grab a drink from the b
- ar starting at 5:00pm\, then find a seat for the main event - seating is f
- irst come\, first serve. \n\nMake it a night with a pre-show burger and a
-  beer from The Pub. Dining walk-ins are welcome!\n\n*This event is complim
- entary and reserved for members only. Complimentary light bites and refres
- hments will be served. Cancellations made within 24 hours of the event\, o
- r failure to attend\, will result in a $25 charge.
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 96 spots left\nS
+ tatus: Available\nEvent URL: https://members.thequinhouse.com/events/20971
+ 2\n\nBoston’s best return to the 'House! Improv Asylum comedians are rea
+ dy to make you laugh through short stand-up sets. Grab a drink from the ba
+ r starting at 5:00pm\, then find a seat for the main event - seating is fi
+ rst come\, first serve. \n\nMake it a night with a pre-show burger and a 
+ beer from The Pub. Dining walk-ins are welcome!\n\n*This event is complime
+ ntary and reserved for members only. Complimentary light bites and refresh
+ ments will be served. Cancellations made within 24 hours of the event\, or
+  failure to attend\, will result in a $25 charge.
 URL:https://members.thequinhouse.com/events/209712
 CATEGORIES:The Arts
 END:VEVENT
@@ -1236,16 +1236,16 @@ DTSTART;TZID=America/New_York:20261124T200000
 DTEND;TZID=America/New_York:20261124T210000
 SUMMARY:Stand Up Comedy | 8:00PM Show
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 100 spots left\n
- Status: Available\nEvent URL: https://members.thequinhouse.com/events/2097
- 14\n\nBoston’s best return to the 'House! Improv Asylum comedians are re
- ady to make you laugh through short stand-up sets. Grab a drink from the b
- ar starting at 5:00pm\, then find a seat for the main event - seating is f
- irst come\, first serve. \n\nMake it a night with a pre-show burger and a
-  beer from The Pub. Dining walk-ins are welcome!\n\n*This event is compl
- imentary and reserved for members only. Complimentary light bites and refr
- eshments will be served. Cancellations made within 24 hours of the event\,
-  or failure to attend\, will result in a $25 charge.
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 98 spots left\nS
+ tatus: Available\nEvent URL: https://members.thequinhouse.com/events/20971
+ 4\n\nBoston’s best return to the 'House! Improv Asylum comedians are rea
+ dy to make you laugh through short stand-up sets. Grab a drink from the ba
+ r starting at 5:00pm\, then find a seat for the main event - seating is fi
+ rst come\, first serve. \n\nMake it a night with a pre-show burger and a 
+ beer from The Pub. Dining walk-ins are welcome!\n\n*This event is compli
+ mentary and reserved for members only. Complimentary light bites and refre
+ shments will be served. Cancellations made within 24 hours of the event\, 
+ or failure to attend\, will result in a $25 charge.
 URL:https://members.thequinhouse.com/events/209714
 CATEGORIES:The Arts
 END:VEVENT
