@@ -288,7 +288,7 @@ DTEND;TZID=America/New_York:20261027T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 10 spots left\nStatus: Available\nEvent URL: https://memb
+ e\nAvailability: 11 spots left\nStatus: Available\nEvent URL: https://memb
  ers.thequinhouse.com/events/205203\n\nEase into the week in good company a
  t our weekly Member Mingle\, a relaxed gathering in The Living Room design
  ed to bring members together. Settle in\, enjoy a selection of charcuterie
@@ -500,7 +500,7 @@ DTSTAMP:20261030T173000Z
 DTSTART;TZID=America/New_York:20261030T173000
 DTEND;TZID=America/New_York:20261030T190000
 SUMMARY:Trials and Truth: A History of Witchcraft
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 9 spots left
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 7 spots left
  \nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/e
  vents/206949\n\n5:30PM Reception\, 6:00PM Discussion\n\nIn a seasonal ode 
  to witchcraft\, join us for a thought provoking exploration tracing the my
@@ -716,7 +716,7 @@ DTSTART;TZID=America/New_York:20261105T110000
 DTEND;TZID=America/New_York:20261105T120000
 SUMMARY:Art Tour: Alexandre Gallery Exhibition
 LOCATION:Meet in The Lobby
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 33 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 32 spots left\nS
  tatus: Available\nEvent URL: https://members.thequinhouse.com/events/20895
  7\n\nPlease join 'Quin House art curator\, Kate Chertavian for a tour of t
  he 'Quin's Fall exhibition in collaboration with Alexandre Gallery featuri
@@ -784,7 +784,7 @@ DTSTART;TZID=America/New_York:20261109T190000
 DTEND;TZID=America/New_York:20261109T200000
 SUMMARY:Author's Circle Book Club: "Georgia" by Dawn Tripp 
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 4 spots left\nSt
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 3 spots left\nSt
  atus: Available\nEvent URL: https://members.thequinhouse.com/events/208789
  \n\nBookmark your calendar and settle in for November’s Author Circle Bo
  ok Club\, Georgia by Dawn Tripp—a captivating and richly imagined novel 
@@ -827,6 +827,65 @@ URL:https://members.thequinhouse.com/events/209092
 CATEGORIES:Member Mixer,Survey - Membership Mingle
 END:VEVENT
 BEGIN:VEVENT
+UID:quin-event-208799@thequinhouse.com
+DTSTAMP:20261110T173000Z
+DTSTART;TZID=America/New_York:20261110T173000
+DTEND;TZID=America/New_York:20261110T190000
+SUMMARY:'Quin Chat: The Success Paradox 
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 100 spots le
+ ft\nStatus: futureSale\nEvent URL: https://members.thequinhouse.com/events
+ /208799\n\n5:30PM Reception\, 6:00PM Discussion\nWhat happens when the suc
+ cess you have worked toward brings unexpected questions rather than fulfil
+ lment? Join psychiatrist and author Dr. Blaise Aguirre for a keynote lectu
+ re exploring the emotional complexities of ambition\, achievement\, and wh
+ at comes next.\n\nDrawing on research for his forthcoming book\, Dr. Aguir
+ re will examine the imposter phenomenon - the feeling that we have not ear
+ ned our accomplishments - and the arrival fallacy\, the belief that reachi
+ ng a goal will deliver lasting happiness. From “Do I deserve to be here?
+ ” to “How do I sustain this?” and “What now?”\, he will explore 
+ the questions that can emerge when high achievers reach the milestones the
+ y once imagined would be enough.\n\nWith more than two decades of experien
+ ce in mental health and as founding medical director of 3East at McLean Ho
+ spital\, Dr. Aguirre brings a compassionate perspective to the pursuit of 
+ success. The conversation invites us to consider how we define achievement
+  - and how greater self-understanding can help us build a life that feels 
+ as meaningful as it looks.\n\n*This event is complimentary and reserved fo
+ r members only. Complimentary light bites and refreshments will be served.
+  Cancellations made within 24 hours of the event\, or failure to attend\, 
+ will result in a $25 charge.
+URL:https://members.thequinhouse.com/events/208799
+CATEGORIES:‘Quin Chat
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-208800@thequinhouse.com
+DTSTAMP:20261110T183000Z
+DTSTART;TZID=America/New_York:20261110T183000
+DTEND;TZID=America/New_York:20261110T200000
+SUMMARY:'Quin Chat: Old in the Game - A Reflection of Hip-Hop History 
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 60 spots left\nS
+ tatus: futureSale\nEvent URL: https://members.thequinhouse.com/events/2088
+ 00\n\n6:30PM Reception\, 7:00PM Discussion \nIn celebration of Hip-Hop Hi
+ story Month\, join author Murray Forman\, Boston hip-hop pioneer Edward �
+ �Edo.G” Anderson\, and Black music and culture scholar Emmett G. Price I
+ II for a conversation about longevity\, identity\, and legacy in hip-hop.\
+ n\nDrawing from Forman’s book Old in the Game: Aging In and With Hip-Ho
+ p\, the discussion will explore how the culture’s pioneering artists and
+  audiences navigate aging\, generational differences\, and the balance bet
+ ween honoring the past and creating what comes next. Edo.G brings the pers
+ pective of a career spanning more than three decades\, from his breakthrou
+ gh with Ed O.G. and Da Bulldogs to enduring collaborations with Pete Rock 
+ and Masta Ace. Price adds his insight as a musician and scholar whose work
+  examines hip-hop’s cultural influence and the connections between gener
+ ations.\n\nTogether\, they will consider what it means to grow older withi
+ n hip-hop - and how the artists who helped define the culture continue to 
+ shape its future.\n\n*This event is complimentary and reserved for members
+  only. Complimentary light bites and refreshments will be served. Cancella
+ tions made within 24 hours of the event\, or failure to attend\, will resu
+ lt in a $25 charge.
+URL:https://members.thequinhouse.com/events/208800
+CATEGORIES:The Arts
+END:VEVENT
+BEGIN:VEVENT
 UID:quin-event-209103@thequinhouse.com
 DTSTAMP:20261111T163000Z
 DTSTART;TZID=America/New_York:20261111T163000
@@ -849,6 +908,28 @@ DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nStatus: Waitlist Only\nEve
   hours prior to the start of the event.
 URL:https://members.thequinhouse.com/events/209103
 CATEGORIES:‘Quin Chat
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-209680@thequinhouse.com
+DTSTAMP:20261111T190000Z
+DTSTART;TZID=America/New_York:20261111T190000
+DTEND;TZID=America/New_York:20261111T203000
+SUMMARY:Meet the Maker: Tom Gamble of Gamble Estates
+DESCRIPTION:Category: Food & Beverage\nPrice: Free\nAvailability: 60 spots 
+ left\nStatus: futureSale\nEvent URL: https://members.thequinhouse.com/even
+ ts/209680\n\nGreat wine begins long before the first pour. Join Tom Gamble
+ \, Founder and Vigneron of Gamble Estates\, for an exploration of Napa Val
+ ley through the lens of a third-generation farmer. Begin with a welcome g
+ lass of 2025 Yountville Sauvignon Blanc before discovering a selection of 
+ 2023 reds showcasing Mount Veeder\, Rutherford\, and Oakville. Along the 
+ way\, Tom will share how regenerative farming\, a century of family roots\
+ , and a collaboration with Atelier Melka shape wines that tell the story o
+ f their origins.\n\n*This event is complimentary and reserved for members 
+ only. Complimentary light bites and refreshments will be served. Cancell
+ ations made within 24 hours of the event\, or failure to attend\, will res
+ ult in a $25 charge.
+URL:https://members.thequinhouse.com/events/209680
+CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-195306@thequinhouse.com
@@ -930,6 +1011,35 @@ DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free / Included\nStatus:
  e to ensure access to this celebration for the entire ‘Quin House Team.
 URL:https://members.thequinhouse.com/events/195306
 CATEGORIES:‘Quin Impact Fund
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-209681@thequinhouse.com
+DTSTAMP:20261113T140000Z
+DTSTART;TZID=America/New_York:20261113T140000
+DTEND;TZID=America/New_York:20261113T153000
+SUMMARY:'Quin Chat: The Art of the City - Why Cultural Philanthropy Matters
+  Now
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 120 spots le
+ ft\nStatus: futureSale\nEvent URL: https://members.thequinhouse.com/events
+ /209681\n\n2:00PM Reception\, 2:30PM Discussion \n\nTo celebrate Town & 
+ Country’s milestone 180th anniversary\, Editor in Chief Stellene Voland
+ es and The ‘Quin Co-Founder Sandy Edgerley will host a timely conversati
+ on on the vital role cultural philanthropy plays in shaping Boston and its
+  future.\n\nThe Art of the City - Why Cultural Philanthropy Matters Now br
+ ings together an extraordinary group of leaders from across Boston’s cul
+ tural\, civic\, and philanthropic communities to explore the power of the 
+ arts\, the importance of investing in our cultural institutions\, and the 
+ future of philanthropy for the next generation.\n\nJoining the conversatio
+ n along with Stellene and Sandy will be Peggy Fogelman\, Norma Jean Calder
+ wood Director of the Isabella Stewart Gardner Museum and Joseph Henry\, Ch
+ ief\, Mayor’s Office of Arts and Culture\, City of Boston.\n\nThe discus
+ sion will be moderated by Adam Rathe\, Senior Features Director at Town &
+  Country. A Q&A will follow.\n\n*This event is complimentary and reserved 
+ for members only. Complimentary light bites and refreshments will be serv
+ ed. Cancellations made within 24 hours of the event\, or failure to atten
+ d\, will result in a $25 charge.
+URL:https://members.thequinhouse.com/events/209681
+CATEGORIES:‘Quin Chat
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-208597@thequinhouse.com
@@ -1058,7 +1168,7 @@ DTSTART;TZID=America/New_York:20261118T180000
 DTEND;TZID=America/New_York:20261118T200000
 SUMMARY:Board Game Night 
 LOCATION:The Living Room
-DESCRIPTION:Category: Sports & Games\nPrice: Free\nAvailability: 16 spots l
+DESCRIPTION:Category: Sports & Games\nPrice: Free\nAvailability: 15 spots l
  eft\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events
  /209705\n\nBring your sharpest wit\, channel your competitive charm\, and 
  roll the dice for an evening of strategy\, luck\, and a touch of mischief.
@@ -1077,7 +1187,7 @@ DTSTAMP:20261119T173000Z
 DTSTART;TZID=America/New_York:20261119T173000
 DTEND;TZID=America/New_York:20261119T190000
 SUMMARY: Gather to Give: Youth & Education Grant Reception
-DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nAvailability: 24 sp
+DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nAvailability: 22 sp
  ots left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/e
  vents/209740\n\n5:30PM Reception\, 6:00PM Ceremony\nJoin us for an inspiri
  ng evening celebrating the exceptional local recipients of this year’s Y
@@ -1107,7 +1217,7 @@ DTSTART;TZID=America/New_York:20261119T183000
 DTEND;TZID=America/New_York:20261119T203000
 SUMMARY:Member Meet Up: King's Bowling
 LOCATION:Offsite: King's Dining & Entertainment
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 51 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 49 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/2
  09688\n\nSpare yourself the ordinary evening and join us at King’s Bowli
  ng for a Member Meet-Up that’s equal parts pins\, pours\, and playful ri
@@ -1190,7 +1300,7 @@ DTEND;TZID=America/New_York:20261124T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 40 spots left\nStatus: Available\nEvent URL: https://memb
+ e\nAvailability: 38 spots left\nStatus: Available\nEvent URL: https://memb
  ers.thequinhouse.com/events/208959\n\nEase into the week in good company a
  t our weekly Member Mingle\, a relaxed gathering in The Living Room design
  ed to bring members together. Settle in\, enjoy a selection of charcuterie
@@ -1213,7 +1323,7 @@ DTSTART;TZID=America/New_York:20261124T180000
 DTEND;TZID=America/New_York:20261124T190000
 SUMMARY:Stand Up Comedy | 6:00PM Show
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 90 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 89 spots left\nS
  tatus: Available\nEvent URL: https://members.thequinhouse.com/events/20971
  2\n\nBoston’s best return to the 'House! Improv Asylum comedians are rea
  dy to make you laugh through short stand-up sets. Grab a drink from the ba
@@ -1233,7 +1343,7 @@ DTSTART;TZID=America/New_York:20261124T200000
 DTEND;TZID=America/New_York:20261124T210000
 SUMMARY:Stand Up Comedy | 8:00PM Show
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 86 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 84 spots left\nS
  tatus: Available\nEvent URL: https://members.thequinhouse.com/events/20971
  4\n\nBoston’s best return to the 'House! Improv Asylum comedians are rea
  dy to make you laugh through short stand-up sets. Grab a drink from the ba
