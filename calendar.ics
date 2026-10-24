@@ -45,60 +45,6 @@ URL:https://members.thequinhouse.com/events/205635
 CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
-UID:quin-event-206912@thequinhouse.com
-DTSTAMP:20261024T110000Z
-DTSTART;TZID=America/New_York:20261024T110000
-DTEND;TZID=America/New_York:20261024T120000
-SUMMARY:Kid's Clubhouse: Trick-or-Treat Family Day | Session II
-LOCATION:Bondo
-DESCRIPTION:Category: Holiday\nPrice: Free\nAvailability: 3 spots left\nSta
- tus: Waitlist Only\nEvent URL: https://members.thequinhouse.com/events/206
- 912\n\nShimmy into your spookiest costumes and join us for a fun-filled da
- y of trick-or-treating in the transformed Web of Wonders\, a family-friend
- ly affair for members! Equipped with a map\, kids will navigate the labyri
- nth of floors collecting treats and enjoying activities throughout. They w
- ill be allowed to unleash their creativity at craft stations in Bondo\, th
- en roam on over to The Terrace to enjoy glitter tattoos and a festive prof
- essional photo moment. Make a day of it and reserve our regular family bru
- nch in Café Q prior to or following the event. \n\n*Children ages 6+ a
- re welcome when accompanied by a member parent. Please secure one ticket p
- er child in your party to account for supplies\; adults do not require reg
- istration. Families with three or more children are asked to email happeni
- ng@thequin.com.Each ticket grants one child full access to trick-or-treati
- ng\, a tote bag keepsake for their goodies\, and includes all activities d
- uring the selected session. We kindly ask that all cancellations be made a
- t least 48 hours prior to the start of the event.
-URL:https://members.thequinhouse.com/events/206912
-CATEGORIES:Holiday
-END:VEVENT
-BEGIN:VEVENT
-UID:quin-event-206913@thequinhouse.com
-DTSTAMP:20261024T133000Z
-DTSTART;TZID=America/New_York:20261024T133000
-DTEND;TZID=America/New_York:20261024T143000
-SUMMARY:Kid's Clubhouse: Trick-or-Treat Family Day | Session III
-LOCATION:Bondo
-DESCRIPTION:Category: Holiday\nPrice: Free\nAvailability: 2 spots left\nSta
- tus: Waitlist Only\nEvent URL: https://members.thequinhouse.com/events/206
- 913\n\nShimmy into your spookiest costumes and join us for a fun-filled da
- y of trick-or-treating in the transformed Web of Wonders\, a family-friend
- ly affair for members! Equipped with a map\, kids will navigate the labyri
- nth of floors collecting treats and enjoying activities throughout. They w
- ill be allowed to unleash their creativity at craft stations in Bondo\, th
- en roam on over to The Terrace to enjoy glitter tattoos and a festive prof
- essional photo moment. Make a day of it and reserve our regular family bru
- nch in Café Q prior to or following the event. \n\n*Children ages 6+ a
- re welcome when accompanied by a member parent. Please secure one ticket p
- er child in your party to account for supplies\; adults do not require reg
- istration. Families with three or more children are asked to email happeni
- ng@thequin.com.Each ticket grants one child full access to trick-or-treati
- ng\, a tote bag keepsake for their goodies\, and includes all activities d
- uring the selected session. We kindly ask that all cancellations be made a
- t least 48 hours prior to the start of the event.
-URL:https://members.thequinhouse.com/events/206913
-CATEGORIES:Holiday
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-202989@thequinhouse.com
 DTSTAMP:20261024T200000Z
 DTSTART;VALUE=DATE:20261024
@@ -611,7 +557,7 @@ DTSTART;TZID=America/New_York:20261105T110000
 DTEND;TZID=America/New_York:20261105T120000
 SUMMARY:Art Tour: Alexandre Gallery Exhibition
 LOCATION:Meet in The Lobby
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 30 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 28 spots left\nS
  tatus: Available\nEvent URL: https://members.thequinhouse.com/events/20895
  7\n\nPlease join 'Quin House art curator\, Kate Chertavian for a tour of t
  he 'Quin's Fall exhibition in collaboration with Alexandre Gallery featuri
@@ -705,7 +651,7 @@ DTEND;TZID=America/New_York:20261110T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 30 spots left\nStatus: Available\nEvent URL: https://memb
+ e\nAvailability: 29 spots left\nStatus: Available\nEvent URL: https://memb
  ers.thequinhouse.com/events/209092\n\nEase into the week in good company a
  t our weekly Member Mingle\, a relaxed gathering in The Living Room design
  ed to bring members together. Settle in\, enjoy a selection of charcuterie
@@ -962,7 +908,7 @@ DTEND;TZID=America/New_York:20261114T140000
 SUMMARY:Serendipity Brunch
 LOCATION:Lunasol
 DESCRIPTION:Category: Food & Beverage\, Member Mixer\nPrice: $65.00 per per
- son\nAvailability: 18 spots left\nStatus: Available\nEvent URL: https://me
+ son\nAvailability: 17 spots left\nStatus: Available\nEvent URL: https://me
  mbers.thequinhouse.com/events/208334\n\nMake your Saturday a little more s
  erendipitous with a leisurely brunch hosted by The ‘Quin’s Membership 
  Team. Gather in Lunasol for an afternoon centered around good food\, easy 
@@ -1063,7 +1009,7 @@ DTSTART;TZID=America/New_York:20261118T180000
 DTEND;TZID=America/New_York:20261118T200000
 SUMMARY:Board Game Night 
 LOCATION:The Living Room
-DESCRIPTION:Category: Sports & Games\nPrice: Free\nAvailability: 4 spots le
+DESCRIPTION:Category: Sports & Games\nPrice: Free\nAvailability: 2 spots le
  ft\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/
  209705\n\nBring your sharpest wit\, channel your competitive charm\, and r
  oll the dice for an evening of strategy\, luck\, and a touch of mischief. 
@@ -1082,7 +1028,7 @@ DTSTAMP:20261119T173000Z
 DTSTART;TZID=America/New_York:20261119T173000
 DTEND;TZID=America/New_York:20261119T190000
 SUMMARY: Gather to Give: Youth & Education Grant Reception
-DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nAvailability: 21 sp
+DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nAvailability: 20 sp
  ots left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/e
  vents/209740\n\n5:30PM Reception\, 6:00PM Ceremony\nJoin us for an inspiri
  ng evening celebrating the exceptional local recipients of this year’s Y
@@ -1112,7 +1058,7 @@ DTSTART;TZID=America/New_York:20261119T183000
 DTEND;TZID=America/New_York:20261119T203000
 SUMMARY:Member Meet Up: King's Bowling
 LOCATION:Offsite: King's Dining & Entertainment
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 45 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 37 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/2
  09688\n\nSpare yourself the ordinary evening and join us at King’s Bowli
  ng for a Member Meet-Up that’s equal parts pins\, pours\, and playful ri
@@ -1258,20 +1204,20 @@ DTSTART;TZID=America/New_York:20261202T193000
 DTEND;TZID=America/New_York:20261202T220000
 SUMMARY:'Quin Suite: Celtics vs. Hornets
 LOCATION:Offsite - TD Garden
-DESCRIPTION:Category: Sports & Games\nPrice: $475.00 per person\nAvailabili
- ty: 3 spots left\nStatus: Available\nEvent URL: https://members.thequinhou
- se.com/events/207108\n\nSettle in for a night of Celtics basketball from o
- ne of the best vantage points in the Garden. Join fellow members in The �
- �Quin Suite (#524) as the Celtics face off against the Charlotte Hornets 
- for an exciting regular-season matchup.\n\nAll suite ticket options includ
- e incredible views of the on-court action and light gameday bites and an 
- assortment of refreshments including wine\, beer and seltzer. Are you game
- ?\n\n*A pair of 'Quin suite seats is available for $995 total ($497.50 pe
- r ticket). Individual suite tickets are available for bar stool / standing
-  access only\, offered at a reduced price of $475 per ticket. Suite ticke
- ts are non-refundable and are non-transferable. Members may purchase ticke
- ts for up to 3 guests and are required to accompany them at all times. The
-  suite is limited to those ages 16+ as a courtesy to fellow members.
+DESCRIPTION:Category: Sports & Games\nPrice: $475.00 per person\nStatus: Av
+ ailable\nEvent URL: https://members.thequinhouse.com/events/207108\n\nSett
+ le in for a night of Celtics basketball from one of the best vantage point
+ s in the Garden. Join fellow members in The ’Quin Suite (#524) as the Ce
+ ltics face off against the Charlotte Hornets for an exciting regular-seas
+ on matchup.\n\nAll suite ticket options include incredible views of the on
+ -court action and light gameday bites and an assortment of refreshments i
+ ncluding wine\, beer and seltzer. Are you game?\n\n*A pair of 'Quin suite 
+ seats is available for $995 total ($497.50 per ticket). Individual suite 
+ tickets are available for bar stool / standing access only\, offered at a 
+ reduced price of $475 per ticket. Suite tickets are non-refundable and ar
+ e non-transferable. Members may purchase tickets for up to 3 guests and ar
+ e required to accompany them at all times. The suite is limited to those a
+ ges 16+ as a courtesy to fellow members.
 URL:https://members.thequinhouse.com/events/207108
 CATEGORIES:Sports & Games
 END:VEVENT
