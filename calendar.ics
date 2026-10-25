@@ -51,19 +51,18 @@ DTSTART;TZID=America/New_York:20261026T180000
 DTEND;TZID=America/New_York:20261026T210000
 SUMMARY:Community Table
 LOCATION:Café Q
-DESCRIPTION:Category: Food & Beverage\nPrice: Free\nAvailability: 2 spots l
- eft\nStatus: Waitlist Only\nEvent URL: https://members.thequinhouse.com/ev
- ents/205201\n\nStart your week in good company with the Café Q Community 
- dinner table for members-only. Set aside for those looking to expand their
-  social circle over a shared meal\, this gathering is all about good food\
- , lively conversation\, and meaningful connections. Pull up a chair\, and 
- savor the experience—because nothing brings people together quite like a
-  great meal.\n\n*This event is reserved for members only. An advance charg
- e of $24 per member contributes to communal appetizers available upon seat
- ing. Members are responsible for à la carte entrées\, desserts\, and bev
- erages\, plus taxes and fees. Cancellations made within 24 hours of the ev
- ent\, or failure to attend will be subject to the Café Q's surcharge poli
- cy.
+DESCRIPTION:Category: Food & Beverage\nPrice: Free\nStatus: Waitlist Only\n
+ Event URL: https://members.thequinhouse.com/events/205201\n\nStart your we
+ ek in good company with the Café Q Community dinner table for members-onl
+ y. Set aside for those looking to expand their social circle over a shared
+  meal\, this gathering is all about good food\, lively conversation\, and 
+ meaningful connections. Pull up a chair\, and savor the experience—becau
+ se nothing brings people together quite like a great meal.\n\n*This event 
+ is reserved for members only. An advance charge of $24 per member contribu
+ tes to communal appetizers available upon seating. Members are responsible
+  for à la carte entrées\, desserts\, and beverages\, plus taxes and fees
+ . Cancellations made within 24 hours of the event\, or failure to attend w
+ ill be subject to the Café Q's surcharge policy.
 URL:https://members.thequinhouse.com/events/205201
 CATEGORIES:Food & Beverage
 END:VEVENT
@@ -75,7 +74,7 @@ DTEND;TZID=America/New_York:20261027T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 5 spots left\nStatus: Available\nEvent URL: https://membe
+ e\nAvailability: 6 spots left\nStatus: Available\nEvent URL: https://membe
  rs.thequinhouse.com/events/205203\n\nEase into the week in good company at
   our weekly Member Mingle\, a relaxed gathering in The Living Room designe
  d to bring members together. Settle in\, enjoy a selection of charcuterie\
@@ -406,7 +405,7 @@ DTEND;TZID=America/New_York:20261102T210000
 SUMMARY:Serendipity Dinner 
 LOCATION:The Muse
 DESCRIPTION:Category: Food & Beverage\nPrice: $100.00 per person\nAvailabil
- ity: 11 spots left\nStatus: Available\nEvent URL: https://members.thequinh
+ ity: 10 spots left\nStatus: Available\nEvent URL: https://members.thequinh
  ouse.com/events/176003\n\nJoin The ’Quin House Managing Director\, Matth
  ias Kiehm\, for an intimate evening centered around thoughtful conversatio
  n\, new connections\, and exceptional dining. Over a beautifully curated t
@@ -431,7 +430,7 @@ DTEND;TZID=America/New_York:20261103T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 16 spots left\nStatus: Available\nEvent URL: https://memb
+ e\nAvailability: 15 spots left\nStatus: Available\nEvent URL: https://memb
  ers.thequinhouse.com/events/208333\n\nEase into the week in good company a
  t our weekly Member Mingle\, a relaxed gathering in The Living Room design
  ed to bring members together. Settle in\, enjoy a selection of charcuterie
@@ -571,21 +570,21 @@ DTSTART;TZID=America/New_York:20261109T190000
 DTEND;TZID=America/New_York:20261109T200000
 SUMMARY:Author's Circle Book Club: "Georgia" by Dawn Tripp 
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 1 spot left\nSta
- tus: Available\nEvent URL: https://members.thequinhouse.com/events/208789\
- n\nBookmark your calendar and settle in for November’s Author Circle Boo
- k Club\, Georgia by Dawn Tripp—a captivating and richly imagined novel i
- nspired by the extraordinary life of iconic American artist Georgia O’Ke
- effe.\n\nSet against the vibrant art world of early 20th-century New York 
- and the striking landscapes of New Mexico\, Georgia explores the woman beh
- ind the art\, tracing her passionate pursuit of independence\, creativity\
- , and love. Through her complex relationship with photographer Alfred Stie
- glitz and her determination to forge a path entirely her own\, Tripp paint
- s an intimate portrait of ambition\, identity\, and artistic expression. A
-  beautifully layered story sure to inspire thoughtful conversation.\n\n*Th
- is event is complimentary and reserved for members only. Complimentary lig
- ht bites and refreshments will be served. We kindly ask that all cancella
- tions be made at least 24 hours prior to the start of the event.
+DESCRIPTION:Category: The Arts\nPrice: Free\nStatus: Waitlist Only\nEvent U
+ RL: https://members.thequinhouse.com/events/208789\n\nBookmark your calend
+ ar and settle in for November’s Author Circle Book Club\, Georgia by Daw
+ n Tripp—a captivating and richly imagined novel inspired by the extraord
+ inary life of iconic American artist Georgia O’Keeffe.\n\nSet against th
+ e vibrant art world of early 20th-century New York and the striking landsc
+ apes of New Mexico\, Georgia explores the woman behind the art\, tracing h
+ er passionate pursuit of independence\, creativity\, and love. Through her
+  complex relationship with photographer Alfred Stieglitz and her determina
+ tion to forge a path entirely her own\, Tripp paints an intimate portrait 
+ of ambition\, identity\, and artistic expression. A beautifully layered st
+ ory sure to inspire thoughtful conversation.\n\n*This event is complimenta
+ ry and reserved for members only. Complimentary light bites and refreshmen
+ ts will be served. We kindly ask that all cancellations be made at least 
+ 24 hours prior to the start of the event.
 URL:https://members.thequinhouse.com/events/208789
 CATEGORIES:The Arts
 END:VEVENT
@@ -854,7 +853,7 @@ DTEND;TZID=America/New_York:20261114T140000
 SUMMARY:Serendipity Brunch
 LOCATION:Lunasol
 DESCRIPTION:Category: Food & Beverage\, Member Mixer\nPrice: $65.00 per per
- son\nAvailability: 17 spots left\nStatus: Available\nEvent URL: https://me
+ son\nAvailability: 16 spots left\nStatus: Available\nEvent URL: https://me
  mbers.thequinhouse.com/events/208334\n\nMake your Saturday a little more s
  erendipitous with a leisurely brunch hosted by The ‘Quin’s Membership 
  Team. Gather in Lunasol for an afternoon centered around good food\, easy 
@@ -932,7 +931,7 @@ DTEND;TZID=America/New_York:20261117T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 39 spots left\nStatus: Available\nEvent URL: https://memb
+ e\nAvailability: 38 spots left\nStatus: Available\nEvent URL: https://memb
  ers.thequinhouse.com/events/208958\n\nEase into the week in good company a
  t our weekly Member Mingle\, a relaxed gathering in The Living Room design
  ed to bring members together. Settle in\, enjoy a selection of charcuterie
@@ -1001,8 +1000,7 @@ UID:quin-event-209688@thequinhouse.com
 DTSTAMP:20261119T183000Z
 DTSTART;TZID=America/New_York:20261119T183000
 DTEND;TZID=America/New_York:20261119T203000
-SUMMARY:Member Meet Up: King's Bowling
-LOCATION:Offsite: King's Dining & Entertainment
+SUMMARY:Member Meet Up: King's Bowling at the Seaport
 DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 34 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/2
  09688\n\nSpare yourself the ordinary evening and join us at King’s Bowli
@@ -1129,7 +1127,7 @@ DTSTART;TZID=America/New_York:20261124T200000
 DTEND;TZID=America/New_York:20261124T210000
 SUMMARY:Stand Up Comedy | 8:00PM Show
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 69 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 67 spots left\nS
  tatus: Available\nEvent URL: https://members.thequinhouse.com/events/20971
  4\n\nBoston’s best return to the 'House! Improv Asylum comedians are rea
  dy to make you laugh through short stand-up sets. Grab a drink from the ba
