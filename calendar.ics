@@ -881,7 +881,7 @@ DTEND;TZID=America/New_York:20261116T210000
 SUMMARY:Serendipity Dinner: The Artist Table
 LOCATION:The Muse
 DESCRIPTION:Category: Food & Beverage\, Member Mixer\nPrice: $100.00 per pe
- rson\nAvailability: 17 spots left\nStatus: Available\nEvent URL: https://m
+ rson\nAvailability: 16 spots left\nStatus: Available\nEvent URL: https://m
  embers.thequinhouse.com/events/208802\n\nJoin us for an intimate evening o
  f thoughtful conversation\, new connections\, and exceptional dining\, hos
  ted in part by The ’Quin House’s Art Curator\, Kate Chertavian. Bringi
@@ -955,16 +955,15 @@ DTSTART;TZID=America/New_York:20261118T180000
 DTEND;TZID=America/New_York:20261118T200000
 SUMMARY:Board Game Night 
 LOCATION:The Living Room
-DESCRIPTION:Category: Sports & Games\nPrice: Free\nAvailability: 2 spots le
- ft\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/
- 209705\n\nBring your sharpest wit\, channel your competitive charm\, and r
- oll the dice for an evening of strategy\, luck\, and a touch of mischief. 
- Hosted in The Living Room\, pick from one of our timeless classics or mode
- rn marvels and let the games begin!\n\n*This event is complimentary and re
- served for members\, plus one registered guest.  Food and cocktails from 
- The Living Room menu will be available for purchase. We kindly ask that a
- ll cancellations be made at least 24 hours prior to the start of the event
- .
+DESCRIPTION:Category: Sports & Games\nPrice: Free\nStatus: Waitlist Only\nE
+ vent URL: https://members.thequinhouse.com/events/209705\n\nBring your sha
+ rpest wit\, channel your competitive charm\, and roll the dice for an even
+ ing of strategy\, luck\, and a touch of mischief. Hosted in The Living Roo
+ m\, pick from one of our timeless classics or modern marvels and let the g
+ ames begin!\n\n*This event is complimentary and reserved for members\, plu
+ s one registered guest.  Food and cocktails from The Living Room menu wil
+ l be available for purchase. We kindly ask that all cancellations be made
+  at least 24 hours prior to the start of the event.
 URL:https://members.thequinhouse.com/events/209705
 CATEGORIES:Sports & Games
 END:VEVENT
@@ -974,7 +973,7 @@ DTSTAMP:20261119T173000Z
 DTSTART;TZID=America/New_York:20261119T173000
 DTEND;TZID=America/New_York:20261119T190000
 SUMMARY: Gather to Give: Youth & Education Grant Reception
-DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nAvailability: 19 sp
+DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nAvailability: 18 sp
  ots left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/e
  vents/209740\n\n5:30PM Reception\, 6:00PM Ceremony\nJoin us for an inspiri
  ng evening celebrating the exceptional local recipients of this year’s Y
@@ -1004,7 +1003,7 @@ DTSTART;TZID=America/New_York:20261119T183000
 DTEND;TZID=America/New_York:20261119T203000
 SUMMARY:Member Meet Up: King's Bowling
 LOCATION:Offsite: King's Dining & Entertainment
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 36 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 34 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/2
  09688\n\nSpare yourself the ordinary evening and join us at King’s Bowli
  ng for a Member Meet-Up that’s equal parts pins\, pours\, and playful ri
@@ -1110,7 +1109,7 @@ DTSTART;TZID=America/New_York:20261124T180000
 DTEND;TZID=America/New_York:20261124T190000
 SUMMARY:Stand Up Comedy | 6:00PM Show
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 85 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 83 spots left\nS
  tatus: Available\nEvent URL: https://members.thequinhouse.com/events/20971
  2\n\nBoston’s best return to the 'House! Improv Asylum comedians are rea
  dy to make you laugh through short stand-up sets. Grab a drink from the ba
