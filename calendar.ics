@@ -45,28 +45,6 @@ URL:https://members.thequinhouse.com/events/205635
 CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
-UID:quin-event-205201@thequinhouse.com
-DTSTAMP:20261026T180000Z
-DTSTART;TZID=America/New_York:20261026T180000
-DTEND;TZID=America/New_York:20261026T210000
-SUMMARY:Community Table
-LOCATION:Café Q
-DESCRIPTION:Category: Food & Beverage\nPrice: Free\nStatus: Waitlist Only\n
- Event URL: https://members.thequinhouse.com/events/205201\n\nStart your we
- ek in good company with the Café Q Community dinner table for members-onl
- y. Set aside for those looking to expand their social circle over a shared
-  meal\, this gathering is all about good food\, lively conversation\, and 
- meaningful connections. Pull up a chair\, and savor the experience—becau
- se nothing brings people together quite like a great meal.\n\n*This event 
- is reserved for members only. An advance charge of $24 per member contribu
- tes to communal appetizers available upon seating. Members are responsible
-  for à la carte entrées\, desserts\, and beverages\, plus taxes and fees
- . Cancellations made within 24 hours of the event\, or failure to attend w
- ill be subject to the Café Q's surcharge policy.
-URL:https://members.thequinhouse.com/events/205201
-CATEGORIES:Food & Beverage
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-205203@thequinhouse.com
 DTSTAMP:20261027T170000Z
 DTSTART;TZID=America/New_York:20261027T170000
@@ -97,7 +75,7 @@ DTSTART;TZID=America/New_York:20261027T180000
 DTEND;TZID=America/New_York:20261027T190000
 SUMMARY:Improv Comedy | 6:00PM Show
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 20 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 21 spots left\nS
  tatus: Waitlist Only\nEvent URL: https://members.thequinhouse.com/events/2
  06915\n\nBoston’s best return to the 'House! Improv comedians are ready 
  to keep you laughing with spontaneous sketches\, quick wit\, and audience-
@@ -118,7 +96,7 @@ DTEND;TZID=America/New_York:20261027T220000
 SUMMARY:'Quin Suite: Celtics vs. Nets
 LOCATION:Offsite - TD Garden
 DESCRIPTION:Category: Sports & Games\nPrice: $475.00 per person\nAvailabili
- ty: 4 spots left\nStatus: Available\nEvent URL: https://members.thequinhou
+ ty: 2 spots left\nStatus: Available\nEvent URL: https://members.thequinhou
  se.com/events/207102\n\nThe Celtics take home court for another electric n
  ight at TD Garden. Join fellow members in The ’Quin Suite (#524) as the 
  Celtics face off against the Brooklyn Nets for an exciting regular-season
@@ -141,16 +119,16 @@ DTSTART;TZID=America/New_York:20261027T200000
 DTEND;TZID=America/New_York:20261027T210000
 SUMMARY:Improv Comedy | 8:00PM Show
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 9 spots left\nSt
- atus: Waitlist Only\nEvent URL: https://members.thequinhouse.com/events/20
- 6914\n\nBoston’s best return to the 'House! Improv comedians are ready t
- o keep you laughing with spontaneous sketches\, quick wit\, and audience-i
- nspired moments. Join us for a cocktail from the cash bar beginning at 7:3
- 0pm\, then snag your seat and enjoy a show packed with energy from beginni
- ng to end. Seating is first come\, first serve\n\nMake it a night with a p
- re-show burger and a beer from the Pub. Dining walk-ins are welcome! \n\n*
- This event complimentary and available for registered members and up to on
- e registered guest.
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 11 spots left\nS
+ tatus: Waitlist Only\nEvent URL: https://members.thequinhouse.com/events/2
+ 06914\n\nBoston’s best return to the 'House! Improv comedians are ready 
+ to keep you laughing with spontaneous sketches\, quick wit\, and audience-
+ inspired moments. Join us for a cocktail from the cash bar beginning at 7:
+ 30pm\, then snag your seat and enjoy a show packed with energy from beginn
+ ing to end. Seating is first come\, first serve\n\nMake it a night with a 
+ pre-show burger and a beer from the Pub. Dining walk-ins are welcome! \n\n
+ *This event complimentary and available for registered members and up to o
+ ne registered guest.
 URL:https://members.thequinhouse.com/events/206914
 CATEGORIES:The Arts
 END:VEVENT
@@ -181,26 +159,26 @@ DTSTART;TZID=America/New_York:20261028T180000
 DTEND;TZID=America/New_York:20261028T193000
 SUMMARY:'Quin Chat: Wealth\, Well Lived
 LOCATION:Scottie's
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 6 spots left
- \nStatus: Waitlist Only\nEvent URL: https://members.thequinhouse.com/event
- s/206916\n\n6:00PM Reception\, 6:30PM Discussion\nWhat does it really mean
-  to live a wealthy life? In the first of a new\, multi-part series present
- ed with Willow and The Impact Collective we will look beyond what we earn
- \, save\, or invest\, to consider how wealth reflects the choices we make\
- , the opportunities we create\, and the values we carry into our personal 
- and professional lives. Joined by Lacy Garcia\, Founder and CEO of Willow\
- , and Julia Johannsen\, Founder and Executive Director of The Impact Colle
- ctive\, this discussion will explore the intersection of money\, investing
- \, and personal values. Together\, they will begin to decode the systems t
- hat shape our financial lives and consider how greater understanding can l
- ead to more informed\, purposeful decisions. As the series unfolds\, expec
- t to explore conversations such as the wealth gap\, generational planning\
- , roles and representation\, and the ways we can rethink traditional ideas
-  of wealth to better align our investments with the lives and\, legacies w
- e want to build.\n\n*This event is complimentary and reserved for members 
- only. Complimentary light bites will be served\, with beverages available 
- for purchase throughout the evening. We kindly ask that all cancellations 
- be made at least 24 hours prior to the start of the event.
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 11 spots lef
+ t\nStatus: Waitlist Only\nEvent URL: https://members.thequinhouse.com/even
+ ts/206916\n\n6:00PM Reception\, 6:30PM Discussion\nWhat does it really mea
+ n to live a wealthy life? In the first of a new\, multi-part series presen
+ ted with Willow and The Impact Collective we will look beyond what we ear
+ n\, save\, or invest\, to consider how wealth reflects the choices we make
+ \, the opportunities we create\, and the values we carry into our personal
+  and professional lives. Joined by Lacy Garcia\, Founder and CEO of Willow
+ \, and Julia Johannsen\, Founder and Executive Director of The Impact Coll
+ ective\, this discussion will explore the intersection of money\, investin
+ g\, and personal values. Together\, they will begin to decode the systems 
+ that shape our financial lives and consider how greater understanding can 
+ lead to more informed\, purposeful decisions. As the series unfolds\, expe
+ ct to explore conversations such as the wealth gap\, generational planning
+ \, roles and representation\, and the ways we can rethink traditional idea
+ s of wealth to better align our investments with the lives and\, legacies 
+ we want to build.\n\n*This event is complimentary and reserved for members
+  only. Complimentary light bites will be served\, with beverages available
+  for purchase throughout the evening. We kindly ask that all cancellations
+  be made at least 24 hours prior to the start of the event.
 URL:https://members.thequinhouse.com/events/206916
 CATEGORIES:‘Quin Chat
 END:VEVENT
@@ -288,32 +266,32 @@ DTSTAMP:20261030T173000Z
 DTSTART;TZID=America/New_York:20261030T173000
 DTEND;TZID=America/New_York:20261030T190000
 SUMMARY:Trials and Truth: A History of Witchcraft
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nStatus: You are Confirmed\
- nEvent URL: https://members.thequinhouse.com/events/206949\n\n5:30PM Recep
- tion\, 6:00PM Discussion\n\nIn a seasonal ode to witchcraft\, join us for 
- a thought provoking exploration tracing the myths\, origins\, and historie
- s that have shaped its place in a Western European cultural lineage\, a li
- neage that runs through to the Americas and into the present day. Building
-  on last year's Trials & Truth\, which examined the Salem Witch Trials\, P
- rofessor Julie Walsh returns to take the conversation beyond local lore\, 
- exploring the European roots of the image of the witch\, its enduring ster
- eotypes\, and the complex relationship between belief\, skepticism\, and t
- he social consequences of believing the worst about your neighbors. The e
- vening will delve into the origin story of the medieval witch\, what this 
- story reveals about power\, fear\, freedom\, and social justice. \n\nJuli
- e Walsh is the Whitehead Associate Professor of Critical Thought\, Associa
- te Professor of Philosophy\, and Director of the Newhouse Center for the H
- umanities at the Wellesley College\; she specializes in early modern philo
- sophy\, theories of freedom\, and the history of witchcraft. She will be i
- n conversation with Liza Oliver\, Associate Professor of Art History and D
- irector of the Pluralism Initiative at Wellesley College\; she specialize
- s in the intersections of art\, colonialism\, and cultural history. Togeth
- er\, they will offer members a fresh perspective on the historical roots a
- nd ongoing social impact of European ideas of witches\, witchcraft\, and e
- vil. \n\n*This event is complimentary and reserved for members only. Comp
- limentary light bites and refreshments will be served. We kindly ask that 
- all cancellations be made at least 24 hours prior to the start of the even
- t.
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 1 spot left\
+ nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/ev
+ ents/206949\n\n5:30PM Reception\, 6:00PM Discussion\n\nIn a seasonal ode t
+ o witchcraft\, join us for a thought provoking exploration tracing the myt
+ hs\, origins\, and histories that have shaped its place in a Western Europ
+ ean cultural lineage\, a lineage that runs through to the Americas and int
+ o the present day. Building on last year's Trials & Truth\, which examined
+  the Salem Witch Trials\, Professor Julie Walsh returns to take the conver
+ sation beyond local lore\, exploring the European roots of the image of th
+ e witch\, its enduring stereotypes\, and the complex relationship between 
+ belief\, skepticism\, and the social consequences of believing the worst a
+ bout your neighbors. The evening will delve into the origin story of the 
+ medieval witch\, what this story reveals about power\, fear\, freedom\, an
+ d social justice. \n\nJulie Walsh is the Whitehead Associate Professor of
+  Critical Thought\, Associate Professor of Philosophy\, and Director of th
+ e Newhouse Center for the Humanities at the Wellesley College\; she specia
+ lizes in early modern philosophy\, theories of freedom\, and the history o
+ f witchcraft. She will be in conversation with Liza Oliver\, Associate Pro
+ fessor of Art History and Director of the Pluralism Initiative at Wellesl
+ ey College\; she specializes in the intersections of art\, colonialism\, a
+ nd cultural history. Together\, they will offer members a fresh perspectiv
+ e on the historical roots and ongoing social impact of European ideas of w
+ itches\, witchcraft\, and evil. \n\n*This event is complimentary and rese
+ rved for members only. Complimentary light bites and refreshments will be 
+ served. We kindly ask that all cancellations be made at least 24 hours pri
+ or to the start of the event.
 URL:https://members.thequinhouse.com/events/206949
 CATEGORIES:‘Quin Chat
 END:VEVENT
@@ -504,7 +482,7 @@ DTSTART;TZID=America/New_York:20261105T110000
 DTEND;TZID=America/New_York:20261105T120000
 SUMMARY:Art Tour: Alexandre Gallery Exhibition
 LOCATION:Meet in The Lobby
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 15 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 14 spots left\nS
  tatus: Available\nEvent URL: https://members.thequinhouse.com/events/20895
  7\n\nPlease join 'Quin House art curator\, Kate Chertavian for a tour of t
  he 'Quin's Fall exhibition in collaboration with Alexandre Gallery featuri
@@ -620,27 +598,27 @@ DTSTAMP:20261110T173000Z
 DTSTART;TZID=America/New_York:20261110T173000
 DTEND;TZID=America/New_York:20261110T190000
 SUMMARY:'Quin Chat: The Success Paradox 
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 16 spots lef
- t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/2
- 08799\n\n5:30PM Reception\, 6:00PM Discussion\nWhat happens when the succe
- ss you have worked toward brings unexpected questions rather than fulfillm
- ent? Join psychiatrist and author Dr. Blaise Aguirre for a keynote lecture
-  exploring the emotional complexities of ambition\, achievement\, and what
-  comes next.\n\nDrawing on research for his forthcoming book\, Dr. Aguirre
-  will examine the imposter phenomenon - the feeling that we have not earne
- d our accomplishments - and the arrival fallacy\, the belief that reaching
-  a goal will deliver lasting happiness. From “Do I deserve to be here?�
- � to “How do I sustain this?” and “What now?”\, he will explore th
- e questions that can emerge when high achievers reach the milestones they 
- once imagined would be enough.\n\nWith more than two decades of experience
-  in mental health and as founding medical director of 3East at McLean Hosp
- ital\, Dr. Aguirre brings a compassionate perspective to the pursuit of su
- ccess. The conversation invites us to consider how we define achievement -
-  and how greater self-understanding can help us build a life that feels as
-  meaningful as it looks.\n\n*This event is complimentary and reserved for 
- members only. Complimentary light bites and refreshments will be served. C
- ancellations made within 24 hours of the event\, or failure to attend\, wi
- ll result in a $25 charge.
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 7 spots left
+ \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/20
+ 8799\n\n5:30PM Reception\, 6:00PM Discussion\nWhat happens when the succes
+ s you have worked toward brings unexpected questions rather than fulfillme
+ nt? Join psychiatrist and author Dr. Blaise Aguirre for a keynote lecture 
+ exploring the emotional complexities of ambition\, achievement\, and what 
+ comes next.\n\nDrawing on research for his forthcoming book\, Dr. Aguirre 
+ will examine the imposter phenomenon - the feeling that we have not earned
+  our accomplishments - and the arrival fallacy\, the belief that reaching 
+ a goal will deliver lasting happiness. From “Do I deserve to be here?”
+  to “How do I sustain this?” and “What now?”\, he will explore the
+  questions that can emerge when high achievers reach the milestones they o
+ nce imagined would be enough.\n\nWith more than two decades of experience 
+ in mental health and as founding medical director of 3East at McLean Hospi
+ tal\, Dr. Aguirre brings a compassionate perspective to the pursuit of suc
+ cess. The conversation invites us to consider how we define achievement - 
+ and how greater self-understanding can help us build a life that feels as 
+ meaningful as it looks.\n\n*This event is complimentary and reserved for m
+ embers only. Complimentary light bites and refreshments will be served. Ca
+ ncellations made within 24 hours of the event\, or failure to attend\, wil
+ l result in a $25 charge.
 URL:https://members.thequinhouse.com/events/208799
 CATEGORIES:‘Quin Chat
 END:VEVENT
@@ -650,7 +628,7 @@ DTSTAMP:20261110T183000Z
 DTSTART;TZID=America/New_York:20261110T183000
 DTEND;TZID=America/New_York:20261110T200000
 SUMMARY:'Quin Chat: Old in the Game - A Reflection of Hip-Hop History 
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 41 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 40 spots left\nS
  tatus: Available\nEvent URL: https://members.thequinhouse.com/events/20880
  0\n\n6:30PM Reception\, 7:00PM Discussion \nIn celebration of Hip-Hop His
  tory Month\, join author Murray Forman\, Boston hip-hop pioneer Edward “
@@ -806,7 +784,7 @@ DTSTART;TZID=America/New_York:20261113T140000
 DTEND;TZID=America/New_York:20261113T153000
 SUMMARY:'Quin Chat: The Art of the City - Why Cultural Philanthropy Matters
   Now
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 57 spots lef
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 51 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/2
  09681\n\n2:00PM Reception\, 2:30PM Discussion \n\nTo celebrate Town & Co
  untry’s milestone 180th anniversary\, Editor in Chief Stellene Volandes
@@ -973,7 +951,7 @@ DTSTAMP:20261119T173000Z
 DTSTART;TZID=America/New_York:20261119T173000
 DTEND;TZID=America/New_York:20261119T190000
 SUMMARY: Gather to Give: Youth & Education Grant Reception
-DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nAvailability: 12 sp
+DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nAvailability: 11 sp
  ots left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/e
  vents/209740\n\n5:30PM Reception\, 6:00PM Ceremony\nJoin us for an inspiri
  ng evening celebrating the exceptional local recipients of this year’s Y
@@ -1063,7 +1041,7 @@ DTEND;TZID=America/New_York:20261123T210000
 SUMMARY:Community Table
 LOCATION:Café Q
 DESCRIPTION:Category: Food & Beverage\nPrice: Free\nAvailability: 999999999
- 991 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
+ 990 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
  .com/events/209711\n\nEase into the week around the table with the return 
  of Café Q’s Community Table. Designed for members looking to meet new f
  aces and make new connections\, the evening brings together good food and 
@@ -1085,7 +1063,7 @@ DTEND;TZID=America/New_York:20261124T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 37 spots left\nStatus: Available\nEvent URL: https://memb
+ e\nAvailability: 36 spots left\nStatus: Available\nEvent URL: https://memb
  ers.thequinhouse.com/events/208959\n\nEase into the week in good company a
  t our weekly Member Mingle\, a relaxed gathering in The Living Room design
  ed to bring members together. Settle in\, enjoy a selection of charcuterie
@@ -1108,7 +1086,7 @@ DTSTART;TZID=America/New_York:20261124T180000
 DTEND;TZID=America/New_York:20261124T190000
 SUMMARY:Stand Up Comedy | 6:00PM Show
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 62 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 58 spots left\nS
  tatus: Available\nEvent URL: https://members.thequinhouse.com/events/20971
  2\n\nBoston’s best return to the 'House! Improv Asylum comedians are rea
  dy to make you laugh through short stand-up sets. Grab a drink from the ba
@@ -1128,7 +1106,7 @@ DTSTART;TZID=America/New_York:20261124T200000
 DTEND;TZID=America/New_York:20261124T210000
 SUMMARY:Stand Up Comedy | 8:00PM Show
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 55 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 51 spots left\nS
  tatus: Available\nEvent URL: https://members.thequinhouse.com/events/20971
  4\n\nBoston’s best return to the 'House! Improv Asylum comedians are rea
  dy to make you laugh through short stand-up sets. Grab a drink from the ba
