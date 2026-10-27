@@ -52,7 +52,7 @@ DTEND;TZID=America/New_York:20261027T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 6 spots left\nStatus: Available\nEvent URL: https://membe
+ e\nAvailability: 5 spots left\nStatus: Available\nEvent URL: https://membe
  rs.thequinhouse.com/events/205203\n\nEase into the week in good company at
   our weekly Member Mingle\, a relaxed gathering in The Living Room designe
  d to bring members together. Settle in\, enjoy a selection of charcuterie\
@@ -75,7 +75,7 @@ DTSTART;TZID=America/New_York:20261027T180000
 DTEND;TZID=America/New_York:20261027T190000
 SUMMARY:Improv Comedy | 6:00PM Show
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 21 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 22 spots left\nS
  tatus: Waitlist Only\nEvent URL: https://members.thequinhouse.com/events/2
  06915\n\nBoston’s best return to the 'House! Improv comedians are ready 
  to keep you laughing with spontaneous sketches\, quick wit\, and audience-
@@ -96,19 +96,19 @@ DTEND;TZID=America/New_York:20261027T220000
 SUMMARY:'Quin Suite: Celtics vs. Nets
 LOCATION:Offsite - TD Garden
 DESCRIPTION:Category: Sports & Games\nPrice: $475.00 per person\nAvailabili
- ty: 2 spots left\nStatus: Available\nEvent URL: https://members.thequinhou
- se.com/events/207102\n\nThe Celtics take home court for another electric n
- ight at TD Garden. Join fellow members in The ’Quin Suite (#524) as the 
- Celtics face off against the Brooklyn Nets for an exciting regular-season
-  matchup.\n\nAll suite ticket options include incredible views of the on-c
- ourt action and light gameday bites and an assortment of refreshments inc
- luding wine\, beer and seltzer. Are you game?\n\n*A pair of 'Quin suite se
- ats is available for $995 total ($497.50 per ticket). Individual suite ti
- ckets are available for bar stool / standing access only\, offered at a re
- duced price of $475 per ticket. Suite tickets are non-refundable and are 
- non-transferable. Members may purchase tickets for up to 3 guests and are 
- required to accompany them at all times. The suite is limited to those age
- s 16+ as a courtesy to fellow members.
+ ty: 2 spots left\nStatus: Unavailable\nEvent URL: https://members.thequinh
+ ouse.com/events/207102\n\nThe Celtics take home court for another electric
+  night at TD Garden. Join fellow members in The ’Quin Suite (#524) as th
+ e Celtics face off against the Brooklyn Nets for an exciting regular-seas
+ on matchup.\n\nAll suite ticket options include incredible views of the on
+ -court action and light gameday bites and an assortment of refreshments i
+ ncluding wine\, beer and seltzer. Are you game?\n\n*A pair of 'Quin suite 
+ seats is available for $995 total ($497.50 per ticket). Individual suite 
+ tickets are available for bar stool / standing access only\, offered at a 
+ reduced price of $475 per ticket. Suite tickets are non-refundable and ar
+ e non-transferable. Members may purchase tickets for up to 3 guests and ar
+ e required to accompany them at all times. The suite is limited to those a
+ ges 16+ as a courtesy to fellow members.
 URL:https://members.thequinhouse.com/events/207102
 CATEGORIES:Sports & Games
 END:VEVENT
@@ -119,7 +119,7 @@ DTSTART;TZID=America/New_York:20261027T200000
 DTEND;TZID=America/New_York:20261027T210000
 SUMMARY:Improv Comedy | 8:00PM Show
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 11 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 13 spots left\nS
  tatus: Waitlist Only\nEvent URL: https://members.thequinhouse.com/events/2
  06914\n\nBoston’s best return to the 'House! Improv comedians are ready 
  to keep you laughing with spontaneous sketches\, quick wit\, and audience-
@@ -159,7 +159,7 @@ DTSTART;TZID=America/New_York:20261028T180000
 DTEND;TZID=America/New_York:20261028T193000
 SUMMARY:'Quin Chat: Wealth\, Well Lived
 LOCATION:Scottie's
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 11 spots lef
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 14 spots lef
  t\nStatus: Waitlist Only\nEvent URL: https://members.thequinhouse.com/even
  ts/206916\n\n6:00PM Reception\, 6:30PM Discussion\nWhat does it really mea
  n to live a wealthy life? In the first of a new\, multi-part series presen
@@ -238,7 +238,7 @@ DTSTAMP:20261029T181500Z
 DTSTART;TZID=America/New_York:20261029T181500
 DTEND;TZID=America/New_York:20261029T193000
 SUMMARY:Meet the Maker: Jefferson's Bourbon | Session II 
-DESCRIPTION:Category: Food & Beverage\nPrice: Free\nAvailability: 3 spots l
+DESCRIPTION:Category: Food & Beverage\nPrice: Free\nAvailability: 4 spots l
  eft\nStatus: You are on Waitlist\nEvent URL: https://members.thequinhouse.
  com/events/206917\n\nJoin us for an intimate tasting experience with Jeffe
  rson’s Bourbon\, exploring the craftsmanship\, character\, and creativit
@@ -410,7 +410,7 @@ DTEND;TZID=America/New_York:20261103T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 12 spots left\nStatus: Available\nEvent URL: https://memb
+ e\nAvailability: 13 spots left\nStatus: Available\nEvent URL: https://memb
  ers.thequinhouse.com/events/208333\n\nEase into the week in good company a
  t our weekly Member Mingle\, a relaxed gathering in The Living Room design
  ed to bring members together. Settle in\, enjoy a selection of charcuterie
@@ -598,27 +598,27 @@ DTSTAMP:20261110T173000Z
 DTSTART;TZID=America/New_York:20261110T173000
 DTEND;TZID=America/New_York:20261110T190000
 SUMMARY:'Quin Chat: The Success Paradox 
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 3 spots left
- \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/20
- 8799\n\n5:30PM Reception\, 6:00PM Discussion\nWhat happens when the succes
- s you have worked toward brings unexpected questions rather than fulfillme
- nt? Join psychiatrist and author Dr. Blaise Aguirre for a keynote lecture 
- exploring the emotional complexities of ambition\, achievement\, and what 
- comes next.\n\nDrawing on research for his forthcoming book\, Dr. Aguirre 
- will examine the imposter phenomenon - the feeling that we have not earned
-  our accomplishments - and the arrival fallacy\, the belief that reaching 
- a goal will deliver lasting happiness. From “Do I deserve to be here?”
-  to “How do I sustain this?” and “What now?”\, he will explore the
-  questions that can emerge when high achievers reach the milestones they o
- nce imagined would be enough.\n\nWith more than two decades of experience 
- in mental health and as founding medical director of 3East at McLean Hospi
- tal\, Dr. Aguirre brings a compassionate perspective to the pursuit of suc
- cess. The conversation invites us to consider how we define achievement - 
- and how greater self-understanding can help us build a life that feels as 
- meaningful as it looks.\n\n*This event is complimentary and reserved for m
- embers only. Complimentary light bites and refreshments will be served. Ca
- ncellations made within 24 hours of the event\, or failure to attend\, wil
- l result in a $25 charge.
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nStatus: Waitlist Only\nEve
+ nt URL: https://members.thequinhouse.com/events/208799\n\n5:30PM Reception
+ \, 6:00PM Discussion\nWhat happens when the success you have worked toward
+  brings unexpected questions rather than fulfillment? Join psychiatrist an
+ d author Dr. Blaise Aguirre for a keynote lecture exploring the emotional 
+ complexities of ambition\, achievement\, and what comes next.\n\nDrawing o
+ n research for his forthcoming book\, Dr. Aguirre will examine the imposte
+ r phenomenon - the feeling that we have not earned our accomplishments - a
+ nd the arrival fallacy\, the belief that reaching a goal will deliver last
+ ing happiness. From “Do I deserve to be here?” to “How do I sustain 
+ this?” and “What now?”\, he will explore the questions that can emer
+ ge when high achievers reach the milestones they once imagined would be en
+ ough.\n\nWith more than two decades of experience in mental health and as 
+ founding medical director of 3East at McLean Hospital\, Dr. Aguirre brings
+  a compassionate perspective to the pursuit of success. The conversation i
+ nvites us to consider how we define achievement - and how greater self-und
+ erstanding can help us build a life that feels as meaningful as it looks.\
+ n\n*This event is complimentary and reserved for members only. Complimenta
+ ry light bites and refreshments will be served. Cancellations made within 
+ 24 hours of the event\, or failure to attend\, will result in a $25 charge
+ .
 URL:https://members.thequinhouse.com/events/208799
 CATEGORIES:‘Quin Chat
 END:VEVENT
@@ -628,7 +628,7 @@ DTSTAMP:20261110T183000Z
 DTSTART;TZID=America/New_York:20261110T183000
 DTEND;TZID=America/New_York:20261110T200000
 SUMMARY:'Quin Chat: Old in the Game - A Reflection of Hip-Hop History 
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 39 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 35 spots left\nS
  tatus: Available\nEvent URL: https://members.thequinhouse.com/events/20880
  0\n\n6:30PM Reception\, 7:00PM Discussion \nIn celebration of Hip-Hop His
  tory Month\, join author Murray Forman\, Boston hip-hop pioneer Edward “
@@ -784,7 +784,7 @@ DTSTART;TZID=America/New_York:20261113T140000
 DTEND;TZID=America/New_York:20261113T153000
 SUMMARY:'Quin Chat: The Art of the City - Why Cultural Philanthropy Matters
   Now
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 49 spots lef
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 43 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/2
  09681\n\n2:00PM Reception\, 2:30PM Discussion \n\nTo celebrate Town & Co
  untry’s milestone 180th anniversary\, Editor in Chief Stellene Volandes
@@ -951,26 +951,26 @@ DTSTAMP:20261119T173000Z
 DTSTART;TZID=America/New_York:20261119T173000
 DTEND;TZID=America/New_York:20261119T190000
 SUMMARY: Gather to Give: Youth & Education Grant Reception
-DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nAvailability: 10 sp
- ots left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/e
- vents/209740\n\n5:30PM Reception\, 6:00PM Ceremony\nJoin us for an inspiri
- ng evening celebrating the exceptional local recipients of this year’s Y
- outh & Education pillar grants\, extended on behalf of The ‘Quin Impact 
- Fund through member donations. This event will honor the exceptional organ
- izations that nurture our community’s young minds and inspire the next g
- eneration of leaders\, learners\, and creators. Interested in making an im
- pact? Look forward to connecting with leaders in the space during the rece
- ption to learn more about their philanthropic initiative.\n\nOur esteemed 
- grant recipients include:\n\n826 Boston\nAction for Boston Community Devel
- opment\nBionic Project\nBoston CASA\nBoston Debate League\nBoys & Girls Cl
- ubs of Dorchester\nCathleen Stone Island Outward Bound School\nCristo Rey 
- Boston High School\nFisher College\nHopeWell\nHorizons for Homeless Childr
- en\nInquilinos Boricuas en Acción\nJeanne Geiger Crisis Center\nScience C
- lub for Girls\nSummer Search Boston\nTeach For America Massachusetts\nThe 
- Upward Project\nUrban College of Boston\nYouthConnect\n\n*This event is co
- mplimentary and reserved for members only. Complimentary light bites and r
- efreshments will be served. Cancellations made within 24 hours of the even
- t\, or failure to attend\, will result in a $25 charge.
+DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nAvailability: 9 spo
+ ts left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/ev
+ ents/209740\n\n5:30PM Reception\, 6:00PM Ceremony\nJoin us for an inspirin
+ g evening celebrating the exceptional local recipients of this year’s Yo
+ uth & Education pillar grants\, extended on behalf of The ‘Quin Impact F
+ und through member donations. This event will honor the exceptional organi
+ zations that nurture our community’s young minds and inspire the next ge
+ neration of leaders\, learners\, and creators. Interested in making an imp
+ act? Look forward to connecting with leaders in the space during the recep
+ tion to learn more about their philanthropic initiative.\n\nOur esteemed g
+ rant recipients include:\n\n826 Boston\nAction for Boston Community Develo
+ pment\nBionic Project\nBoston CASA\nBoston Debate League\nBoys & Girls Clu
+ bs of Dorchester\nCathleen Stone Island Outward Bound School\nCristo Rey B
+ oston High School\nFisher College\nHopeWell\nHorizons for Homeless Childre
+ n\nInquilinos Boricuas en Acción\nJeanne Geiger Crisis Center\nScience Cl
+ ub for Girls\nSummer Search Boston\nTeach For America Massachusetts\nThe U
+ pward Project\nUrban College of Boston\nYouthConnect\n\n*This event is com
+ plimentary and reserved for members only. Complimentary light bites and re
+ freshments will be served. Cancellations made within 24 hours of the event
+ \, or failure to attend\, will result in a $25 charge.
 URL:https://members.thequinhouse.com/events/209740
 CATEGORIES:‘Quin Impact Fund
 END:VEVENT
@@ -992,30 +992,6 @@ DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 21 spots lef
  event\, or failure to attend\, will result in a $25 charge.
 URL:https://members.thequinhouse.com/events/209688
 CATEGORIES:Member Mixer
-END:VEVENT
-BEGIN:VEVENT
-UID:quin-event-208329@thequinhouse.com
-DTSTAMP:20261121T100000Z
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261123
-SUMMARY:Kid's Clubhouse: "Peter and The Wolf" with the Boston Youth Symphon
- y Orchestra
-LOCATION:Offsite: Symphony Hall
-DESCRIPTION:Category: The Arts\nPrice: $140.00 per person\nAvailability: 29
-  spots left\nStatus: Available\nTime: 10 AM – 1 PM\nEvent URL: https://m
- embers.thequinhouse.com/events/208329\n\n10:00AM Kids Bravo Club\, 12:00PM
-  Concert\nFollow the music to Symphony Hall for a family morning inspired 
- by Peter and the Wolf. The Boston Symphony Orchestra’s Bravo Club festiv
- ities begin with a kid-friendly brunch buffet\, arts and crafts by Wendy R
- ouillard of Barnaby's Toy & Art Shack\, a scavenger hunt through Symphony 
- Hall\, and a sweet surprise. Parents can enjoy an open bar before everyone
-  takes their seats for the Boston Youth Symphony Orchestras’ performance
-  of Prokofiev’s beloved tale.\n\n*This event is reserved for members and
-  their children age 6+. Adult tickets are offered at $140 per person and c
- hild tickets are offered at $95 per child and are non-refundable and non-t
- ransferable.
-URL:https://members.thequinhouse.com/events/208329
-CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-209742@thequinhouse.com
