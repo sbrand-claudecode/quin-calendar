@@ -71,7 +71,7 @@ DTSTART;TZID=America/New_York:20261028T180000
 DTEND;TZID=America/New_York:20261028T193000
 SUMMARY:'Quin Chat: Wealth\, Well Lived
 LOCATION:Scottie's
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 21 spots lef
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 25 spots lef
  t\nStatus: Waitlist Only\nEvent URL: https://members.thequinhouse.com/even
  ts/206916\n\n6:00PM Reception\, 6:30PM Discussion\nWhat does it really mea
  n to live a wealthy life? In the first of a new\, multi-part series presen
@@ -100,25 +100,25 @@ DTSTAMP:20261029T160000Z
 DTSTART;TZID=America/New_York:20261029T160000
 DTEND;TZID=America/New_York:20261029T171500
 SUMMARY:Meet the Maker: Jefferson's Bourbon | Session I
-DESCRIPTION:Category: Food & Beverage\nPrice: Free\nAvailability: 6 spots l
- eft\nStatus: Waitlist Only\nEvent URL: https://members.thequinhouse.com/ev
- ents/207953\n\nJoin us for an intimate tasting experience with Jefferson�
- �s Bourbon\, exploring the craftsmanship\, character\, and creativity behi
- nd each pour. The evening begins with a welcome cocktail and time to mingl
- e before a guided tasting led by Jefferson’s founder Trey Zoeller. A Ken
- tucky native with deep family ties to American whiskey\, Zoeller founded J
- efferson’s with his father in 1997 and has become known for challenging 
- bourbon tradition through inventive approaches to aging and blending\, ear
- ning him a place in the Kentucky Bourbon Hall of Fame.\n\nAs straight tast
- ing pours are passed\, Trey will share the story of Jefferson’s while gu
- iding members through the flavor profiles\, production process\, and disti
- nctive character of each selection. Following the tasting\, the evening op
- ens back up for conversation\, giving members the opportunity to mingle\, 
- revisit their favorites\, and connect with Trey one-on-one for questions a
- nd a deeper dive into the world of Jefferson’s Bourbon.\n\n*This event i
- s complimentary and reserved for members only. Complimentary light bites a
- nd refreshments will be served. We kindly ask that all cancellations be ma
- de at least 24 hours prior to the start of the event.
+DESCRIPTION:Category: Food & Beverage\nPrice: Free\nAvailability: 10 spots 
+ left\nStatus: Waitlist Only\nEvent URL: https://members.thequinhouse.com/e
+ vents/207953\n\nJoin us for an intimate tasting experience with Jefferson�
+ ��s Bourbon\, exploring the craftsmanship\, character\, and creativity beh
+ ind each pour. The evening begins with a welcome cocktail and time to ming
+ le before a guided tasting led by Jefferson’s founder Trey Zoeller. A Ke
+ ntucky native with deep family ties to American whiskey\, Zoeller founded 
+ Jefferson’s with his father in 1997 and has become known for challenging
+  bourbon tradition through inventive approaches to aging and blending\, ea
+ rning him a place in the Kentucky Bourbon Hall of Fame.\n\nAs straight tas
+ ting pours are passed\, Trey will share the story of Jefferson’s while g
+ uiding members through the flavor profiles\, production process\, and dist
+ inctive character of each selection. Following the tasting\, the evening o
+ pens back up for conversation\, giving members the opportunity to mingle\,
+  revisit their favorites\, and connect with Trey one-on-one for questions 
+ and a deeper dive into the world of Jefferson’s Bourbon.\n\n*This event 
+ is complimentary and reserved for members only. Complimentary light bites 
+ and refreshments will be served. We kindly ask that all cancellations be m
+ ade at least 24 hours prior to the start of the event.
 URL:https://members.thequinhouse.com/events/207953
 CATEGORIES:Food & Beverage
 END:VEVENT
@@ -129,18 +129,18 @@ DTSTART;TZID=America/New_York:20261029T180000
 DTEND;TZID=America/New_York:20261029T193000
 SUMMARY:Member Mixer: Mystery Match
 LOCATION:Scottie's
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nStatus: You are Confirmed\
- nEvent URL: https://members.thequinhouse.com/events/207548\n\nYou have a m
- atch. Now comes the fun part: finding them.\n\nAt our next Member Mixer\, 
- a clue awaits you on arrival. Follow it through the room to find your myst
- ery match\, then discover where the conversation takes you. You might unco
- ver a shared interest\, an unexpected connection\, or simply someone you a
- re glad to have met. It’s a playful way to step outside your usual circl
- e and meet someone new. Come curious\, leave connected!\n\n*This event is 
- complimentary and reserved for members only. Complimentary light bites wil
- l be served with beverages will be available to purchase. We kindly ask th
- at all cancellations be made at least 24 hours prior to the start of the e
- vent.
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 1 spot left\
+ nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/ev
+ ents/207548\n\nYou have a match. Now comes the fun part: finding them.\n\n
+ At our next Member Mixer\, a clue awaits you on arrival. Follow it through
+  the room to find your mystery match\, then discover where the conversatio
+ n takes you. You might uncover a shared interest\, an unexpected connectio
+ n\, or simply someone you are glad to have met. It’s a playful way to st
+ ep outside your usual circle and meet someone new. Come curious\, leave co
+ nnected!\n\n*This event is complimentary and reserved for members only. Co
+ mplimentary light bites will be served with beverages will be available to
+  purchase. We kindly ask that all cancellations be made at least 24 hours 
+ prior to the start of the event.
 URL:https://members.thequinhouse.com/events/207548
 CATEGORIES:Member Mixer
 END:VEVENT
@@ -178,32 +178,32 @@ DTSTAMP:20261030T173000Z
 DTSTART;TZID=America/New_York:20261030T173000
 DTEND;TZID=America/New_York:20261030T190000
 SUMMARY:Trials and Truth: A History of Witchcraft
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 1 spot left\
- nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/ev
- ents/206949\n\n5:30PM Reception\, 6:00PM Discussion\n\nIn a seasonal ode t
- o witchcraft\, join us for a thought provoking exploration tracing the myt
- hs\, origins\, and histories that have shaped its place in a Western Europ
- ean cultural lineage\, a lineage that runs through to the Americas and int
- o the present day. Building on last year's Trials & Truth\, which examined
-  the Salem Witch Trials\, Professor Julie Walsh returns to take the conver
- sation beyond local lore\, exploring the European roots of the image of th
- e witch\, its enduring stereotypes\, and the complex relationship between 
- belief\, skepticism\, and the social consequences of believing the worst a
- bout your neighbors. The evening will delve into the origin story of the 
- medieval witch\, what this story reveals about power\, fear\, freedom\, an
- d social justice. \n\nJulie Walsh is the Whitehead Associate Professor of
-  Critical Thought\, Associate Professor of Philosophy\, and Director of th
- e Newhouse Center for the Humanities at the Wellesley College\; she specia
- lizes in early modern philosophy\, theories of freedom\, and the history o
- f witchcraft. She will be in conversation with Liza Oliver\, Associate Pro
- fessor of Art History and Director of the Pluralism Initiative at Wellesl
- ey College\; she specializes in the intersections of art\, colonialism\, a
- nd cultural history. Together\, they will offer members a fresh perspectiv
- e on the historical roots and ongoing social impact of European ideas of w
- itches\, witchcraft\, and evil. \n\n*This event is complimentary and rese
- rved for members only. Complimentary light bites and refreshments will be 
- served. We kindly ask that all cancellations be made at least 24 hours pri
- or to the start of the event.
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nStatus: You are Confirmed\
+ nEvent URL: https://members.thequinhouse.com/events/206949\n\n5:30PM Recep
+ tion\, 6:00PM Discussion\n\nIn a seasonal ode to witchcraft\, join us for 
+ a thought provoking exploration tracing the myths\, origins\, and historie
+ s that have shaped its place in a Western European cultural lineage\, a li
+ neage that runs through to the Americas and into the present day. Building
+  on last year's Trials & Truth\, which examined the Salem Witch Trials\, P
+ rofessor Julie Walsh returns to take the conversation beyond local lore\, 
+ exploring the European roots of the image of the witch\, its enduring ster
+ eotypes\, and the complex relationship between belief\, skepticism\, and t
+ he social consequences of believing the worst about your neighbors. The e
+ vening will delve into the origin story of the medieval witch\, what this 
+ story reveals about power\, fear\, freedom\, and social justice. \n\nJuli
+ e Walsh is the Whitehead Associate Professor of Critical Thought\, Associa
+ te Professor of Philosophy\, and Director of the Newhouse Center for the H
+ umanities at the Wellesley College\; she specializes in early modern philo
+ sophy\, theories of freedom\, and the history of witchcraft. She will be i
+ n conversation with Liza Oliver\, Associate Professor of Art History and D
+ irector of the Pluralism Initiative at Wellesley College\; she specialize
+ s in the intersections of art\, colonialism\, and cultural history. Togeth
+ er\, they will offer members a fresh perspective on the historical roots a
+ nd ongoing social impact of European ideas of witches\, witchcraft\, and e
+ vil. \n\n*This event is complimentary and reserved for members only. Comp
+ limentary light bites and refreshments will be served. We kindly ask that 
+ all cancellations be made at least 24 hours prior to the start of the even
+ t.
 URL:https://members.thequinhouse.com/events/206949
 CATEGORIES:‘Quin Chat
 END:VEVENT
@@ -540,7 +540,7 @@ DTSTAMP:20261110T183000Z
 DTSTART;TZID=America/New_York:20261110T183000
 DTEND;TZID=America/New_York:20261110T200000
 SUMMARY:'Quin Chat: Old in the Game - A Reflection of Hip-Hop History 
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 33 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 31 spots left\nS
  tatus: Available\nEvent URL: https://members.thequinhouse.com/events/20880
  0\n\n6:30PM Reception\, 7:00PM Discussion \nIn celebration of Hip-Hop His
  tory Month\, join author Murray Forman\, Boston hip-hop pioneer Edward “
@@ -696,7 +696,7 @@ DTSTART;TZID=America/New_York:20261113T140000
 DTEND;TZID=America/New_York:20261113T153000
 SUMMARY:'Quin Chat: The Art of the City - Why Cultural Philanthropy Matters
   Now
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 39 spots lef
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 35 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/2
  09681\n\n2:00PM Reception\, 2:30PM Discussion \n\nTo celebrate Town & Co
  untry’s milestone 180th anniversary\, Editor in Chief Stellene Volandes
@@ -863,7 +863,7 @@ DTSTAMP:20261119T173000Z
 DTSTART;TZID=America/New_York:20261119T173000
 DTEND;TZID=America/New_York:20261119T190000
 SUMMARY: Gather to Give: Youth & Education Grant Reception
-DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nAvailability: 15 sp
+DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nAvailability: 14 sp
  ots left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/e
  vents/209740\n\n5:30PM Reception\, 6:00PM Ceremony\nJoin us for an inspiri
  ng evening celebrating the exceptional local recipients of this year’s Y
@@ -892,7 +892,7 @@ DTSTAMP:20261119T183000Z
 DTSTART;TZID=America/New_York:20261119T183000
 DTEND;TZID=America/New_York:20261119T203000
 SUMMARY:Member Meet Up: King's Bowling at the Seaport
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 20 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 21 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/2
  09688\n\nSpare yourself the ordinary evening and join us at King’s Bowli
  ng for a Member Meet-Up that’s equal parts pins\, pours\, and playful ri
@@ -1038,38 +1038,39 @@ DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261209
 SUMMARY:'Venture: European Holiday Markets
 LOCATION:Offsite: Strasbourg\, Nuremberg\, Vienna\, and Munich
-DESCRIPTION:Category: ‘Venture - Travel\nPrice: $10150.00 per person\nSta
- tus: Available\nTime: 3 PM – 12 PM\nEvent URL: https://members.thequinho
- use.com/events/200238\n\nThis December\, trade the usual holiday routine f
- or a ‘Venture through the heart of Europe during its most magical season
- . Wander Strasbourg’s storybook streets\, experience Nuremberg’s legen
- dary Christkindlesmarkt\, revel in the grandeur of Vienna\, and savor a fi
- nal taste of Bavaria in Munich. With exceptional dining\, luxury accommoda
- tions\, private transportation\, and time to discover each destination at 
- leisure\, every detail has been thoughtfully considered. \n\nBegin in the
-  heart of Alsace\, with two days to wander Strasbourg’s celebrated holid
- ay markets\, half-timbered streets\, artisan stalls\, and historic landmar
- ks\, gathering over Alsatian fare in centuries-old settings along the way.
-  From there\, journey east to Nuremberg and the legendary Christkindlesmar
- kt\, one of the world’s oldest holiday markets\, with time to explore th
- e medieval Old Town\, Imperial Castle\, and stalls beneath the Frauenkirch
- e before an evening of Franconian specialties.\n\nThe journey continues to
-  Vienna\, where imperial landmarks\, elegant boulevards\, and enchanting h
- oliday markets set the scene for an afternoon in one of Europe’s grandes
- t capitals. Finally\, Bavaria provides a fitting finale in Munich. Wander 
- from Marienplatz to the Viktualienmarkt\, discover neighborhood markets an
- d local boutiques\, and savor one last taste of the season before raising 
- a glass together over a farewell dinner overlooking the National Theatre. 
- An extraordinary journey through the traditions\, flavors\, and unmistakab
- le magic of the European holiday season awaits.\n\nSingle Occupancy | $6\,
- 950\n\nDouble Occupancy | $10\,150\n\n*Reservations are non-refundable and
-  non-transferable in order to guarantee accommodations during the high se
- ason. Payment is due in full at the time of booking. To ensure the best p
- ossible experience for all attendees\, we kindly ask that members inform u
- s in advance of any physical limitations\, mobility considerations\, or ac
- cessibility needs we should be aware of. All members will also be asked to
-  sign The 'Quin's standard liability agreement in advance of travel and mi
- nimum interest must be met to ensure the trip will proceed as planned.
+DESCRIPTION:Category: ‘Venture - Travel\nPrice: $10150.00 per person\nAva
+ ilability: 1 spot left\nStatus: Available\nTime: 3 PM – 12 PM\nEvent URL
+ : https://members.thequinhouse.com/events/200238\n\nThis December\, trade 
+ the usual holiday routine for a ‘Venture through the heart of Europe dur
+ ing its most magical season. Wander Strasbourg’s storybook streets\, exp
+ erience Nuremberg’s legendary Christkindlesmarkt\, revel in the grandeur
+  of Vienna\, and savor a final taste of Bavaria in Munich. With exceptiona
+ l dining\, luxury accommodations\, private transportation\, and time to di
+ scover each destination at leisure\, every detail has been thoughtfully co
+ nsidered. \n\nBegin in the heart of Alsace\, with two days to wander Stra
+ sbourg’s celebrated holiday markets\, half-timbered streets\, artisan st
+ alls\, and historic landmarks\, gathering over Alsatian fare in centuries-
+ old settings along the way. From there\, journey east to Nuremberg and the
+  legendary Christkindlesmarkt\, one of the world’s oldest holiday market
+ s\, with time to explore the medieval Old Town\, Imperial Castle\, and sta
+ lls beneath the Frauenkirche before an evening of Franconian specialties.\
+ n\nThe journey continues to Vienna\, where imperial landmarks\, elegant bo
+ ulevards\, and enchanting holiday markets set the scene for an afternoon i
+ n one of Europe’s grandest capitals. Finally\, Bavaria provides a fittin
+ g finale in Munich. Wander from Marienplatz to the Viktualienmarkt\, disco
+ ver neighborhood markets and local boutiques\, and savor one last taste of
+  the season before raising a glass together over a farewell dinner overloo
+ king the National Theatre. An extraordinary journey through the traditions
+ \, flavors\, and unmistakable magic of the European holiday season awaits.
+ \n\nSingle Occupancy | $6\,950\n\nDouble Occupancy | $10\,150\n\n*Reservat
+ ions are non-refundable and non-transferable in order to guarantee accomm
+ odations during the high season. Payment is due in full at the time of boo
+ king. To ensure the best possible experience for all attendees\, we kindl
+ y ask that members inform us in advance of any physical limitations\, mobi
+ lity considerations\, or accessibility needs we should be aware of. All me
+ mbers will also be asked to sign The 'Quin's standard liability agreement 
+ in advance of travel and minimum interest must be met to ensure the trip w
+ ill proceed as planned.
 URL:https://members.thequinhouse.com/events/200238
 CATEGORIES:‘Venture - Travel
 END:VEVENT
