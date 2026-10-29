@@ -50,7 +50,7 @@ DTSTAMP:20261029T160000Z
 DTSTART;TZID=America/New_York:20261029T160000
 DTEND;TZID=America/New_York:20261029T171500
 SUMMARY:Meet the Maker: Jefferson's Bourbon | Session I
-DESCRIPTION:Category: Food & Beverage\nPrice: Free\nAvailability: 15 spots 
+DESCRIPTION:Category: Food & Beverage\nPrice: Free\nAvailability: 20 spots 
  left\nStatus: Waitlist Only\nEvent URL: https://members.thequinhouse.com/e
  vents/207953\n\nJoin us for an intimate tasting experience with Jefferson�
  ��s Bourbon\, exploring the craftsmanship\, character\, and creativity beh
@@ -79,18 +79,18 @@ DTSTART;TZID=America/New_York:20261029T180000
 DTEND;TZID=America/New_York:20261029T193000
 SUMMARY:Member Mixer: Mystery Match
 LOCATION:Scottie's
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 8 spots left
- \nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/e
- vents/207548\n\nYou have a match. Now comes the fun part: finding them.\n\
- nAt our next Member Mixer\, a clue awaits you on arrival. Follow it throug
- h the room to find your mystery match\, then discover where the conversati
- on takes you. You might uncover a shared interest\, an unexpected connecti
- on\, or simply someone you are glad to have met. It’s a playful way to s
- tep outside your usual circle and meet someone new. Come curious\, leave c
- onnected!\n\n*This event is complimentary and reserved for members only. C
- omplimentary light bites will be served with beverages will be available t
- o purchase. We kindly ask that all cancellations be made at least 24 hours
-  prior to the start of the event.
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 11 spots lef
+ t\nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/
+ events/207548\n\nYou have a match. Now comes the fun part: finding them.\n
+ \nAt our next Member Mixer\, a clue awaits you on arrival. Follow it throu
+ gh the room to find your mystery match\, then discover where the conversat
+ ion takes you. You might uncover a shared interest\, an unexpected connect
+ ion\, or simply someone you are glad to have met. It’s a playful way to 
+ step outside your usual circle and meet someone new. Come curious\, leave 
+ connected!\n\n*This event is complimentary and reserved for members only. 
+ Complimentary light bites will be served with beverages will be available 
+ to purchase. We kindly ask that all cancellations be made at least 24 hour
+ s prior to the start of the event.
 URL:https://members.thequinhouse.com/events/207548
 CATEGORIES:Member Mixer
 END:VEVENT
@@ -100,25 +100,25 @@ DTSTAMP:20261029T181500Z
 DTSTART;TZID=America/New_York:20261029T181500
 DTEND;TZID=America/New_York:20261029T193000
 SUMMARY:Meet the Maker: Jefferson's Bourbon | Session II 
-DESCRIPTION:Category: Food & Beverage\nPrice: Free\nAvailability: 5 spots l
- eft\nStatus: You are on Waitlist\nEvent URL: https://members.thequinhouse.
- com/events/206917\n\nJoin us for an intimate tasting experience with Jeffe
- rson’s Bourbon\, exploring the craftsmanship\, character\, and creativit
- y behind each pour. The evening begins with a welcome cocktail and time to
-  mingle before a guided tasting led by Jefferson’s founder Trey Zoeller.
-  A Kentucky native with deep family ties to American whiskey\, Zoeller fou
- nded Jefferson’s with his father in 1997 and has become known for challe
- nging bourbon tradition through inventive approaches to aging and blending
- \, earning him a place in the Kentucky Bourbon Hall of Fame.\n\nAs straigh
- t tasting pours are passed\, Trey will share the story of Jefferson’s wh
- ile guiding members through the flavor profiles\, production process\, and
-  distinctive character of each selection. Following the tasting\, the even
- ing opens back up for conversation\, giving members the opportunity to min
- gle\, revisit their favorites\, and connect with Trey one-on-one for quest
- ions and a deeper dive into the world of Jefferson’s Bourbon.\n\n*This e
- vent is complimentary and reserved for members only. Complimentary light b
- ites and refreshments will be served. We kindly ask that all cancellations
-  be made at least 24 hours prior to the start of the event.
+DESCRIPTION:Category: Food & Beverage\nPrice: Free\nAvailability: 12 spots 
+ left\nStatus: You are on Waitlist\nEvent URL: https://members.thequinhouse
+ .com/events/206917\n\nJoin us for an intimate tasting experience with Jeff
+ erson’s Bourbon\, exploring the craftsmanship\, character\, and creativi
+ ty behind each pour. The evening begins with a welcome cocktail and time t
+ o mingle before a guided tasting led by Jefferson’s founder Trey Zoeller
+ . A Kentucky native with deep family ties to American whiskey\, Zoeller fo
+ unded Jefferson’s with his father in 1997 and has become known for chall
+ enging bourbon tradition through inventive approaches to aging and blendin
+ g\, earning him a place in the Kentucky Bourbon Hall of Fame.\n\nAs straig
+ ht tasting pours are passed\, Trey will share the story of Jefferson’s w
+ hile guiding members through the flavor profiles\, production process\, an
+ d distinctive character of each selection. Following the tasting\, the eve
+ ning opens back up for conversation\, giving members the opportunity to mi
+ ngle\, revisit their favorites\, and connect with Trey one-on-one for ques
+ tions and a deeper dive into the world of Jefferson’s Bourbon.\n\n*This 
+ event is complimentary and reserved for members only. Complimentary light 
+ bites and refreshments will be served. We kindly ask that all cancellation
+ s be made at least 24 hours prior to the start of the event.
 URL:https://members.thequinhouse.com/events/206917
 CATEGORIES:Food & Beverage
 END:VEVENT
@@ -128,32 +128,32 @@ DTSTAMP:20261030T173000Z
 DTSTART;TZID=America/New_York:20261030T173000
 DTEND;TZID=America/New_York:20261030T190000
 SUMMARY:Trials and Truth: A History of Witchcraft
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nStatus: You are Confirmed\
- nEvent URL: https://members.thequinhouse.com/events/206949\n\n5:30PM Recep
- tion\, 6:00PM Discussion\n\nIn a seasonal ode to witchcraft\, join us for 
- a thought provoking exploration tracing the myths\, origins\, and historie
- s that have shaped its place in a Western European cultural lineage\, a li
- neage that runs through to the Americas and into the present day. Building
-  on last year's Trials & Truth\, which examined the Salem Witch Trials\, P
- rofessor Julie Walsh returns to take the conversation beyond local lore\, 
- exploring the European roots of the image of the witch\, its enduring ster
- eotypes\, and the complex relationship between belief\, skepticism\, and t
- he social consequences of believing the worst about your neighbors. The e
- vening will delve into the origin story of the medieval witch\, what this 
- story reveals about power\, fear\, freedom\, and social justice. \n\nJuli
- e Walsh is the Whitehead Associate Professor of Critical Thought\, Associa
- te Professor of Philosophy\, and Director of the Newhouse Center for the H
- umanities at the Wellesley College\; she specializes in early modern philo
- sophy\, theories of freedom\, and the history of witchcraft. She will be i
- n conversation with Liza Oliver\, Associate Professor of Art History and D
- irector of the Pluralism Initiative at Wellesley College\; she specialize
- s in the intersections of art\, colonialism\, and cultural history. Togeth
- er\, they will offer members a fresh perspective on the historical roots a
- nd ongoing social impact of European ideas of witches\, witchcraft\, and e
- vil. \n\n*This event is complimentary and reserved for members only. Comp
- limentary light bites and refreshments will be served. We kindly ask that 
- all cancellations be made at least 24 hours prior to the start of the even
- t.
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 2 spots left
+ \nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/e
+ vents/206949\n\n5:30PM Reception\, 6:00PM Discussion\n\nIn a seasonal ode 
+ to witchcraft\, join us for a thought provoking exploration tracing the my
+ ths\, origins\, and histories that have shaped its place in a Western Euro
+ pean cultural lineage\, a lineage that runs through to the Americas and in
+ to the present day. Building on last year's Trials & Truth\, which examine
+ d the Salem Witch Trials\, Professor Julie Walsh returns to take the conve
+ rsation beyond local lore\, exploring the European roots of the image of t
+ he witch\, its enduring stereotypes\, and the complex relationship between
+  belief\, skepticism\, and the social consequences of believing the worst 
+ about your neighbors. The evening will delve into the origin story of the
+  medieval witch\, what this story reveals about power\, fear\, freedom\, a
+ nd social justice. \n\nJulie Walsh is the Whitehead Associate Professor o
+ f Critical Thought\, Associate Professor of Philosophy\, and Director of t
+ he Newhouse Center for the Humanities at the Wellesley College\; she speci
+ alizes in early modern philosophy\, theories of freedom\, and the history 
+ of witchcraft. She will be in conversation with Liza Oliver\, Associate Pr
+ ofessor of Art History and Director of the Pluralism Initiative at Welles
+ ley College\; she specializes in the intersections of art\, colonialism\, 
+ and cultural history. Together\, they will offer members a fresh perspecti
+ ve on the historical roots and ongoing social impact of European ideas of 
+ witches\, witchcraft\, and evil. \n\n*This event is complimentary and res
+ erved for members only. Complimentary light bites and refreshments will be
+  served. We kindly ask that all cancellations be made at least 24 hours pr
+ ior to the start of the event.
 URL:https://members.thequinhouse.com/events/206949
 CATEGORIES:‘Quin Chat
 END:VEVENT
@@ -165,7 +165,7 @@ DTEND;TZID=America/New_York:20261030T220000
 SUMMARY:'Quin Suite: Celtics vs. Bulls
 LOCATION:Offsite - TD Garden
 DESCRIPTION:Category: Sports & Games\nPrice: $475.00 per person\nAvailabili
- ty: 2 spots left\nStatus: Available\nEvent URL: https://members.thequinhou
+ ty: 3 spots left\nStatus: Available\nEvent URL: https://members.thequinhou
  se.com/events/207105\n\nGet closer to the action as the Celtics return to 
  the parquet at TD Garden. Join fellow members in The ’Quin Suite (#524)
   as the Celtics face off against the Chicago Bulls for an exciting regula
@@ -344,17 +344,17 @@ DTSTART;TZID=America/New_York:20261105T110000
 DTEND;TZID=America/New_York:20261105T120000
 SUMMARY:Art Tour: Alexandre Gallery Exhibition
 LOCATION:Meet in The Lobby
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 10 spots left\nS
- tatus: Available\nEvent URL: https://members.thequinhouse.com/events/20895
- 7\n\nPlease join 'Quin House art curator\, Kate Chertavian for a tour of t
- he 'Quin's Fall exhibition in collaboration with Alexandre Gallery featuri
- ng two generations of female New England artists.\n\nThe exhibition showca
- ses ten works by influential plein air painter\, Lois Dodd\, a key figure 
- in New York's post-war art scene\, celebrated for her depictions of the Ma
- ine landscape. Alongside Dodd's work\, the exhibition highlights paintings
-  by her artistic peers Loren MacIver and Pat Adams\, as well as contempora
- ry New England artists\, Tessa Greene O'Brien\, Lisa Sanditz and Emily Nel
- ligan.\n\n*This event is complimentary and reserved for members only.
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 9 spots left\nSt
+ atus: Available\nEvent URL: https://members.thequinhouse.com/events/208957
+ \n\nPlease join 'Quin House art curator\, Kate Chertavian for a tour of th
+ e 'Quin's Fall exhibition in collaboration with Alexandre Gallery featurin
+ g two generations of female New England artists.\n\nThe exhibition showcas
+ es ten works by influential plein air painter\, Lois Dodd\, a key figure i
+ n New York's post-war art scene\, celebrated for her depictions of the Mai
+ ne landscape. Alongside Dodd's work\, the exhibition highlights paintings 
+ by her artistic peers Loren MacIver and Pat Adams\, as well as contemporar
+ y New England artists\, Tessa Greene O'Brien\, Lisa Sanditz and Emily Nell
+ igan.\n\n*This event is complimentary and reserved for members only.
 URL:https://members.thequinhouse.com/events/208957
 CATEGORIES:The Arts
 END:VEVENT
@@ -412,21 +412,21 @@ DTSTART;TZID=America/New_York:20261109T190000
 DTEND;TZID=America/New_York:20261109T200000
 SUMMARY:Author's Circle Book Club: "Georgia" by Dawn Tripp 
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 1 spot left\nSta
- tus: Waitlist Only\nEvent URL: https://members.thequinhouse.com/events/208
- 789\n\nBookmark your calendar and settle in for November’s Author Circle
-  Book Club\, Georgia by Dawn Tripp—a captivating and richly imagined nov
- el inspired by the extraordinary life of iconic American artist Georgia O�
- ��Keeffe.\n\nSet against the vibrant art world of early 20th-century New Y
- ork and the striking landscapes of New Mexico\, Georgia explores the woman
-  behind the art\, tracing her passionate pursuit of independence\, creativ
- ity\, and love. Through her complex relationship with photographer Alfred 
- Stieglitz and her determination to forge a path entirely her own\, Tripp p
- aints an intimate portrait of ambition\, identity\, and artistic expressio
- n. A beautifully layered story sure to inspire thoughtful conversation.\n\
- n*This event is complimentary and reserved for members only. Complimentary
-  light bites and refreshments will be served. We kindly ask that all canc
- ellations be made at least 24 hours prior to the start of the event.
+DESCRIPTION:Category: The Arts\nPrice: Free\nStatus: Waitlist Only\nEvent U
+ RL: https://members.thequinhouse.com/events/208789\n\nBookmark your calend
+ ar and settle in for November’s Author Circle Book Club\, Georgia by Daw
+ n Tripp—a captivating and richly imagined novel inspired by the extraord
+ inary life of iconic American artist Georgia O’Keeffe.\n\nSet against th
+ e vibrant art world of early 20th-century New York and the striking landsc
+ apes of New Mexico\, Georgia explores the woman behind the art\, tracing h
+ er passionate pursuit of independence\, creativity\, and love. Through her
+  complex relationship with photographer Alfred Stieglitz and her determina
+ tion to forge a path entirely her own\, Tripp paints an intimate portrait 
+ of ambition\, identity\, and artistic expression. A beautifully layered st
+ ory sure to inspire thoughtful conversation.\n\n*This event is complimenta
+ ry and reserved for members only. Complimentary light bites and refreshmen
+ ts will be served. We kindly ask that all cancellations be made at least 
+ 24 hours prior to the start of the event.
 URL:https://members.thequinhouse.com/events/208789
 CATEGORIES:The Arts
 END:VEVENT
@@ -646,7 +646,7 @@ DTSTART;TZID=America/New_York:20261113T140000
 DTEND;TZID=America/New_York:20261113T153000
 SUMMARY:'Quin Chat: The Art of the City - Why Cultural Philanthropy Matters
   Now
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 32 spots lef
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 31 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/2
  09681\n\n2:00PM Reception\, 2:30PM Discussion \n\nTo celebrate Town & Co
  untry’s milestone 180th anniversary\, Editor in Chief Stellene Volandes
@@ -842,7 +842,7 @@ DTSTAMP:20261119T183000Z
 DTSTART;TZID=America/New_York:20261119T183000
 DTEND;TZID=America/New_York:20261119T203000
 SUMMARY:Member Meet Up: King's Bowling at the Seaport
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 19 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 20 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/2
  09688\n\nSpare yourself the ordinary evening and join us at King’s Bowli
  ng for a Member Meet-Up that’s equal parts pins\, pours\, and playful ri
@@ -924,7 +924,7 @@ DTSTART;TZID=America/New_York:20261124T180000
 DTEND;TZID=America/New_York:20261124T190000
 SUMMARY:Stand Up Comedy | 6:00PM Show
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 43 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 42 spots left\nS
  tatus: Available\nEvent URL: https://members.thequinhouse.com/events/20971
  2\n\nBoston’s best return to the 'House! Improv Asylum comedians are rea
  dy to make you laugh through short stand-up sets. Grab a drink from the ba
