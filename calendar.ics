@@ -45,52 +45,24 @@ URL:https://members.thequinhouse.com/events/205635
 CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
-UID:quin-event-207953@thequinhouse.com
-DTSTAMP:20261029T160000Z
-DTSTART;TZID=America/New_York:20261029T160000
-DTEND;TZID=America/New_York:20261029T171500
-SUMMARY:Meet the Maker: Jefferson's Bourbon | Session I
-DESCRIPTION:Category: Food & Beverage\nPrice: Free\nAvailability: 20 spots 
- left\nStatus: Waitlist Only\nEvent URL: https://members.thequinhouse.com/e
- vents/207953\n\nJoin us for an intimate tasting experience with Jefferson�
- ��s Bourbon\, exploring the craftsmanship\, character\, and creativity beh
- ind each pour. The evening begins with a welcome cocktail and time to ming
- le before a guided tasting led by Jefferson’s founder Trey Zoeller. A Ke
- ntucky native with deep family ties to American whiskey\, Zoeller founded 
- Jefferson’s with his father in 1997 and has become known for challenging
-  bourbon tradition through inventive approaches to aging and blending\, ea
- rning him a place in the Kentucky Bourbon Hall of Fame.\n\nAs straight tas
- ting pours are passed\, Trey will share the story of Jefferson’s while g
- uiding members through the flavor profiles\, production process\, and dist
- inctive character of each selection. Following the tasting\, the evening o
- pens back up for conversation\, giving members the opportunity to mingle\,
-  revisit their favorites\, and connect with Trey one-on-one for questions 
- and a deeper dive into the world of Jefferson’s Bourbon.\n\n*This event 
- is complimentary and reserved for members only. Complimentary light bites 
- and refreshments will be served. We kindly ask that all cancellations be m
- ade at least 24 hours prior to the start of the event.
-URL:https://members.thequinhouse.com/events/207953
-CATEGORIES:Food & Beverage
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-207548@thequinhouse.com
 DTSTAMP:20261029T180000Z
 DTSTART;TZID=America/New_York:20261029T180000
 DTEND;TZID=America/New_York:20261029T193000
 SUMMARY:Member Mixer: Mystery Match
 LOCATION:Scottie's
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 11 spots lef
- t\nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/
- events/207548\n\nYou have a match. Now comes the fun part: finding them.\n
- \nAt our next Member Mixer\, a clue awaits you on arrival. Follow it throu
- gh the room to find your mystery match\, then discover where the conversat
- ion takes you. You might uncover a shared interest\, an unexpected connect
- ion\, or simply someone you are glad to have met. It’s a playful way to 
- step outside your usual circle and meet someone new. Come curious\, leave 
- connected!\n\n*This event is complimentary and reserved for members only. 
- Complimentary light bites will be served with beverages will be available 
- to purchase. We kindly ask that all cancellations be made at least 24 hour
- s prior to the start of the event.
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 12 spots lef
+ t\nStatus: Waitlist Only\nEvent URL: https://members.thequinhouse.com/even
+ ts/207548\n\nYou have a match. Now comes the fun part: finding them.\n\nAt
+  our next Member Mixer\, a clue awaits you on arrival. Follow it through t
+ he room to find your mystery match\, then discover where the conversation 
+ takes you. You might uncover a shared interest\, an unexpected connection\
+ , or simply someone you are glad to have met. It’s a playful way to step
+  outside your usual circle and meet someone new. Come curious\, leave conn
+ ected!\n\n*This event is complimentary and reserved for members only. Comp
+ limentary light bites will be served with beverages will be available to p
+ urchase. We kindly ask that all cancellations be made at least 24 hours pr
+ ior to the start of the event.
 URL:https://members.thequinhouse.com/events/207548
 CATEGORIES:Member Mixer
 END:VEVENT
@@ -128,7 +100,7 @@ DTSTAMP:20261030T173000Z
 DTSTART;TZID=America/New_York:20261030T173000
 DTEND;TZID=America/New_York:20261030T190000
 SUMMARY:Trials and Truth: A History of Witchcraft
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 2 spots left
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 4 spots left
  \nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/e
  vents/206949\n\n5:30PM Reception\, 6:00PM Discussion\n\nIn a seasonal ode 
  to witchcraft\, join us for a thought provoking exploration tracing the my
@@ -272,7 +244,7 @@ DTEND;TZID=America/New_York:20261103T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 13 spots left\nStatus: Available\nEvent URL: https://memb
+ e\nAvailability: 12 spots left\nStatus: Available\nEvent URL: https://memb
  ers.thequinhouse.com/events/208333\n\nEase into the week in good company a
  t our weekly Member Mingle\, a relaxed gathering in The Living Room design
  ed to bring members together. Settle in\, enjoy a selection of charcuterie
@@ -344,7 +316,7 @@ DTSTART;TZID=America/New_York:20261105T110000
 DTEND;TZID=America/New_York:20261105T120000
 SUMMARY:Art Tour: Alexandre Gallery Exhibition
 LOCATION:Meet in The Lobby
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 9 spots left\nSt
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 5 spots left\nSt
  atus: Available\nEvent URL: https://members.thequinhouse.com/events/208957
  \n\nPlease join 'Quin House art curator\, Kate Chertavian for a tour of th
  e 'Quin's Fall exhibition in collaboration with Alexandre Gallery featurin
@@ -842,7 +814,7 @@ DTSTAMP:20261119T183000Z
 DTSTART;TZID=America/New_York:20261119T183000
 DTEND;TZID=America/New_York:20261119T203000
 SUMMARY:Member Meet Up: King's Bowling at the Seaport
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 20 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 18 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/2
  09688\n\nSpare yourself the ordinary evening and join us at King’s Bowli
  ng for a Member Meet-Up that’s equal parts pins\, pours\, and playful ri
