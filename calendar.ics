@@ -45,62 +45,12 @@ URL:https://members.thequinhouse.com/events/205635
 CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
-UID:quin-event-206823@thequinhouse.com
-DTSTAMP:20261028T180000Z
-DTSTART;TZID=America/New_York:20261028T180000
-DTEND;TZID=America/New_York:20261028T210000
-SUMMARY:Live Music: Carlos Odria 
-LOCATION:The Reading Room
-DESCRIPTION:Category: The Arts\nPrice: Free / Included\nStatus: Available\n
- Event URL: https://members.thequinhouse.com/events/206823\n\nPeruvian-born
-  guitarist Carlos Odria brings his distinctive sound to The ’House for a
- n evening of live music blending jazz with rhythms from across Latin Ameri
- ca and beyond. Moving effortlessly between bossa nova\, Afro-Peruvian fest
- ejo\, rumba flamenco\, and Afro-Caribbean influences\, Odria pairs remarka
- ble technique with an improvisational style rooted in the rich tradition o
- f American jazz.\n\n*Please note that this event is complimentary and rese
- rved for members\, plus three guests. Seating is first come\, first served
- .
-URL:https://members.thequinhouse.com/events/206823
-CATEGORIES:The Arts
-END:VEVENT
-BEGIN:VEVENT
-UID:quin-event-206916@thequinhouse.com
-DTSTAMP:20261028T180000Z
-DTSTART;TZID=America/New_York:20261028T180000
-DTEND;TZID=America/New_York:20261028T193000
-SUMMARY:'Quin Chat: Wealth\, Well Lived
-LOCATION:Scottie's
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 28 spots lef
- t\nStatus: Waitlist Only\nEvent URL: https://members.thequinhouse.com/even
- ts/206916\n\n6:00PM Reception\, 6:30PM Discussion\nWhat does it really mea
- n to live a wealthy life? In the first of a new\, multi-part series presen
- ted with Willow and The Impact Collective we will look beyond what we ear
- n\, save\, or invest\, to consider how wealth reflects the choices we make
- \, the opportunities we create\, and the values we carry into our personal
-  and professional lives. Joined by Lacy Garcia\, Founder and CEO of Willow
- \, and Julia Johannsen\, Founder and Executive Director of The Impact Coll
- ective\, this discussion will explore the intersection of money\, investin
- g\, and personal values. Together\, they will begin to decode the systems 
- that shape our financial lives and consider how greater understanding can 
- lead to more informed\, purposeful decisions. As the series unfolds\, expe
- ct to explore conversations such as the wealth gap\, generational planning
- \, roles and representation\, and the ways we can rethink traditional idea
- s of wealth to better align our investments with the lives and\, legacies 
- we want to build.\n\n*This event is complimentary and reserved for members
-  only. Complimentary light bites will be served\, with beverages available
-  for purchase throughout the evening. We kindly ask that all cancellations
-  be made at least 24 hours prior to the start of the event.
-URL:https://members.thequinhouse.com/events/206916
-CATEGORIES:‘Quin Chat
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-207953@thequinhouse.com
 DTSTAMP:20261029T160000Z
 DTSTART;TZID=America/New_York:20261029T160000
 DTEND;TZID=America/New_York:20261029T171500
 SUMMARY:Meet the Maker: Jefferson's Bourbon | Session I
-DESCRIPTION:Category: Food & Beverage\nPrice: Free\nAvailability: 13 spots 
+DESCRIPTION:Category: Food & Beverage\nPrice: Free\nAvailability: 15 spots 
  left\nStatus: Waitlist Only\nEvent URL: https://members.thequinhouse.com/e
  vents/207953\n\nJoin us for an intimate tasting experience with Jefferson�
  ��s Bourbon\, exploring the craftsmanship\, character\, and creativity beh
@@ -540,7 +490,7 @@ DTSTAMP:20261110T183000Z
 DTSTART;TZID=America/New_York:20261110T183000
 DTEND;TZID=America/New_York:20261110T200000
 SUMMARY:'Quin Chat: Old in the Game - A Reflection of Hip-Hop History 
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 29 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 27 spots left\nS
  tatus: Available\nEvent URL: https://members.thequinhouse.com/events/20880
  0\n\n6:30PM Reception\, 7:00PM Discussion \nIn celebration of Hip-Hop His
  tory Month\, join author Murray Forman\, Boston hip-hop pioneer Edward “
@@ -696,7 +646,7 @@ DTSTART;TZID=America/New_York:20261113T140000
 DTEND;TZID=America/New_York:20261113T153000
 SUMMARY:'Quin Chat: The Art of the City - Why Cultural Philanthropy Matters
   Now
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 34 spots lef
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 32 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/2
  09681\n\n2:00PM Reception\, 2:30PM Discussion \n\nTo celebrate Town & Co
  untry’s milestone 180th anniversary\, Editor in Chief Stellene Volandes
@@ -822,7 +772,7 @@ DTEND;TZID=America/New_York:20261117T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 37 spots left\nStatus: Available\nEvent URL: https://memb
+ e\nAvailability: 36 spots left\nStatus: Available\nEvent URL: https://memb
  ers.thequinhouse.com/events/208958\n\nEase into the week in good company a
  t our weekly Member Mingle\, a relaxed gathering in The Living Room design
  ed to bring members together. Settle in\, enjoy a selection of charcuterie
@@ -892,7 +842,7 @@ DTSTAMP:20261119T183000Z
 DTSTART;TZID=America/New_York:20261119T183000
 DTEND;TZID=America/New_York:20261119T203000
 SUMMARY:Member Meet Up: King's Bowling at the Seaport
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 21 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 20 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/2
  09688\n\nSpare yourself the ordinary evening and join us at King’s Bowli
  ng for a Member Meet-Up that’s equal parts pins\, pours\, and playful ri
@@ -951,7 +901,7 @@ DTEND;TZID=America/New_York:20261124T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 34 spots left\nStatus: Available\nEvent URL: https://memb
+ e\nAvailability: 33 spots left\nStatus: Available\nEvent URL: https://memb
  ers.thequinhouse.com/events/208959\n\nEase into the week in good company a
  t our weekly Member Mingle\, a relaxed gathering in The Living Room design
  ed to bring members together. Settle in\, enjoy a selection of charcuterie
@@ -994,7 +944,7 @@ DTSTART;TZID=America/New_York:20261124T200000
 DTEND;TZID=America/New_York:20261124T210000
 SUMMARY:Stand Up Comedy | 8:00PM Show
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 41 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 39 spots left\nS
  tatus: Available\nEvent URL: https://members.thequinhouse.com/events/20971
  4\n\nBoston’s best return to the 'House! Improv Asylum comedians are rea
  dy to make you laugh through short stand-up sets. Grab a drink from the ba
