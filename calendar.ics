@@ -79,7 +79,7 @@ DTSTART;TZID=America/New_York:20261029T180000
 DTEND;TZID=America/New_York:20261029T193000
 SUMMARY:Member Mixer: Mystery Match
 LOCATION:Scottie's
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 6 spots left
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 8 spots left
  \nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/e
  vents/207548\n\nYou have a match. Now comes the fun part: finding them.\n\
  nAt our next Member Mixer\, a clue awaits you on arrival. Follow it throug
@@ -412,21 +412,21 @@ DTSTART;TZID=America/New_York:20261109T190000
 DTEND;TZID=America/New_York:20261109T200000
 SUMMARY:Author's Circle Book Club: "Georgia" by Dawn Tripp 
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nStatus: Waitlist Only\nEvent U
- RL: https://members.thequinhouse.com/events/208789\n\nBookmark your calend
- ar and settle in for November’s Author Circle Book Club\, Georgia by Daw
- n Tripp—a captivating and richly imagined novel inspired by the extraord
- inary life of iconic American artist Georgia O’Keeffe.\n\nSet against th
- e vibrant art world of early 20th-century New York and the striking landsc
- apes of New Mexico\, Georgia explores the woman behind the art\, tracing h
- er passionate pursuit of independence\, creativity\, and love. Through her
-  complex relationship with photographer Alfred Stieglitz and her determina
- tion to forge a path entirely her own\, Tripp paints an intimate portrait 
- of ambition\, identity\, and artistic expression. A beautifully layered st
- ory sure to inspire thoughtful conversation.\n\n*This event is complimenta
- ry and reserved for members only. Complimentary light bites and refreshmen
- ts will be served. We kindly ask that all cancellations be made at least 
- 24 hours prior to the start of the event.
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 1 spot left\nSta
+ tus: Waitlist Only\nEvent URL: https://members.thequinhouse.com/events/208
+ 789\n\nBookmark your calendar and settle in for November’s Author Circle
+  Book Club\, Georgia by Dawn Tripp—a captivating and richly imagined nov
+ el inspired by the extraordinary life of iconic American artist Georgia O�
+ ��Keeffe.\n\nSet against the vibrant art world of early 20th-century New Y
+ ork and the striking landscapes of New Mexico\, Georgia explores the woman
+  behind the art\, tracing her passionate pursuit of independence\, creativ
+ ity\, and love. Through her complex relationship with photographer Alfred 
+ Stieglitz and her determination to forge a path entirely her own\, Tripp p
+ aints an intimate portrait of ambition\, identity\, and artistic expressio
+ n. A beautifully layered story sure to inspire thoughtful conversation.\n\
+ n*This event is complimentary and reserved for members only. Complimentary
+  light bites and refreshments will be served. We kindly ask that all canc
+ ellations be made at least 24 hours prior to the start of the event.
 URL:https://members.thequinhouse.com/events/208789
 CATEGORIES:The Arts
 END:VEVENT
@@ -842,7 +842,7 @@ DTSTAMP:20261119T183000Z
 DTSTART;TZID=America/New_York:20261119T183000
 DTEND;TZID=America/New_York:20261119T203000
 SUMMARY:Member Meet Up: King's Bowling at the Seaport
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 20 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 19 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/2
  09688\n\nSpare yourself the ordinary evening and join us at King’s Bowli
  ng for a Member Meet-Up that’s equal parts pins\, pours\, and playful ri
@@ -944,7 +944,7 @@ DTSTART;TZID=America/New_York:20261124T200000
 DTEND;TZID=America/New_York:20261124T210000
 SUMMARY:Stand Up Comedy | 8:00PM Show
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 39 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 37 spots left\nS
  tatus: Available\nEvent URL: https://members.thequinhouse.com/events/20971
  4\n\nBoston’s best return to the 'House! Improv Asylum comedians are rea
  dy to make you laugh through short stand-up sets. Grab a drink from the ba
