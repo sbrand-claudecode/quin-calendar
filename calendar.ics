@@ -45,35 +45,6 @@ URL:https://members.thequinhouse.com/events/205635
 CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
-UID:quin-event-206204@thequinhouse.com
-DTSTAMP:20261031T120000Z
-DTSTART;TZID=America/New_York:20261031T120000
-DTEND;TZID=America/New_York:20261031T140000
-SUMMARY:Serendipity Brunch: All Hallows’ Eve Affair
-LOCATION:Lunasol
-DESCRIPTION:Category: Member Mixer\nPrice: $65.00 per person\nStatus: Waitl
- ist Only\nEvent URL: https://members.thequinhouse.com/events/206204\n\nJoi
- n us for a spirited edition of Serendipity Brunch\, hosted by The ’Quin�
- ��s Membership Team. This Halloween\, members are invited to gather in Lun
- asol for meaningful conversation\, great company\, and a little festive fu
- n. Come as you are—or embrace the occasion and arrive in costume—as yo
- u connect with fellow members over a curated card deck of conversation pro
- mpts to inspire connections.\n\nBrunch will showcase a seasonal selection 
- of chef-crafted entrées\, such as classic Eggs Benedict or a light egg wh
- ite frittata\, served alongside family-style favorites and complemented by
-  classic brunch cocktails\, including mimosas and\, of course\, Bloody Mar
- ys.\n\nSettle in for an unhurried afternoon at The ’House filled with go
- od food\, new connections\, and just the right amount of Halloween mischie
- f. Costumes are encouraged\, conversation comes naturally\, and a little s
- erendipity is always on the menu.\n\n*Tickets are $65 per person\, plus ta
- x\, and are reserved for members only. Cancellations within 72 hours of th
- e event\, or failure to attend\, will be charged in full. Please inform us
-  of any dietary needs or restrictions by emailing happening@thequin.com at
-  least 72 hours prior to the event.
-URL:https://members.thequinhouse.com/events/206204
-CATEGORIES:Member Mixer
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-208796@thequinhouse.com
 DTSTAMP:20261102T170000Z
 DTSTART;TZID=America/New_York:20261102T170000
@@ -109,21 +80,20 @@ DTSTART;TZID=America/New_York:20261102T183000
 DTEND;TZID=America/New_York:20261102T210000
 SUMMARY:Serendipity Dinner 
 LOCATION:The Muse
-DESCRIPTION:Category: Food & Beverage\nPrice: $100.00 per person\nAvailabil
- ity: 1 spot left\nStatus: Available\nEvent URL: https://members.thequinhou
- se.com/events/176003\n\nJoin The ’Quin House Managing Director\, Matthia
- s Kiehm\, for an intimate evening centered around thoughtful conversation\
- , new connections\, and exceptional dining. Over a beautifully curated thr
- ee-course dinner with expertly paired wines\, members will be invited to e
- ngage in guided conversation designed to spark meaningful exchanges and br
- ing new perspectives to the table.\n\nSettle in\, share stories\, and get 
- to know fellow members beyond the everyday\, all while enjoying an evening
-  where great food\, engaging dialogue\, and good company come together.\n\
- n*Tickets are $100 per person\, plus tax\, and are reserved for members on
- ly. Cancellations within 72 hours of the event\, or failure to attend\, wi
- ll be charged in full. Please inform us of any dietary needs or restrictio
- ns by emailing happenings@thequin.com at least 72 hours before dinner serv
- ice.
+DESCRIPTION:Category: Food & Beverage\nPrice: $100.00 per person\nStatus: W
+ aitlist Only\nEvent URL: https://members.thequinhouse.com/events/176003\n\
+ nJoin The ’Quin House Managing Director\, Matthias Kiehm\, for an intima
+ te evening centered around thoughtful conversation\, new connections\, and
+  exceptional dining. Over a beautifully curated three-course dinner with e
+ xpertly paired wines\, members will be invited to engage in guided convers
+ ation designed to spark meaningful exchanges and bring new perspectives to
+  the table.\n\nSettle in\, share stories\, and get to know fellow members 
+ beyond the everyday\, all while enjoying an evening where great food\, eng
+ aging dialogue\, and good company come together.\n\n*Tickets are $100 per 
+ person\, plus tax\, and are reserved for members only. Cancellations withi
+ n 72 hours of the event\, or failure to attend\, will be charged in full. 
+ Please inform us of any dietary needs or restrictions by emailing happenin
+ gs@thequin.com at least 72 hours before dinner service.
 URL:https://members.thequinhouse.com/events/176003
 CATEGORIES:Food & Beverage
 END:VEVENT
@@ -503,7 +473,7 @@ DTSTART;TZID=America/New_York:20261113T140000
 DTEND;TZID=America/New_York:20261113T153000
 SUMMARY:'Quin Chat: The Art of the City - Why Cultural Philanthropy Matters
   Now
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 25 spots lef
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 24 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/2
  09681\n\n2:00PM Reception\, 2:30PM Discussion \n\nTo celebrate Town & Co
  untry’s milestone 180th anniversary\, Editor in Chief Stellene Volandes
@@ -642,7 +612,7 @@ DTEND;TZID=America/New_York:20261116T210000
 SUMMARY:Serendipity Dinner: The Artist Table
 LOCATION:The Muse
 DESCRIPTION:Category: Food & Beverage\, Member Mixer\nPrice: $100.00 per pe
- rson\nAvailability: 12 spots left\nStatus: Available\nEvent URL: https://m
+ rson\nAvailability: 10 spots left\nStatus: Available\nEvent URL: https://m
  embers.thequinhouse.com/events/208802\n\nJoin us for an intimate evening o
  f thoughtful conversation\, new connections\, and exceptional dining\, hos
  ted in part by The ’Quin House’s Art Curator\, Kate Chertavian. Bringi
@@ -798,7 +768,7 @@ DTSTAMP:20261119T183000Z
 DTSTART;TZID=America/New_York:20261119T183000
 DTEND;TZID=America/New_York:20261119T203000
 SUMMARY:Member Meet Up: King's Bowling at the Seaport
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 9 spots left
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 7 spots left
  \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/20
  9688\n\nSpare yourself the ordinary evening and join us at King’s Bowlin
  g for a Member Meet-Up that’s equal parts pins\, pours\, and playful riv
@@ -880,7 +850,7 @@ DTSTART;TZID=America/New_York:20261124T180000
 DTEND;TZID=America/New_York:20261124T190000
 SUMMARY:Stand Up Comedy | 6:00PM Show
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 32 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 34 spots left\nS
  tatus: Available\nEvent URL: https://members.thequinhouse.com/events/20971
  2\n\nBoston’s best return to the 'House! Improv Asylum comedians are rea
  dy to make you laugh through short stand-up sets. Grab a drink from the ba
