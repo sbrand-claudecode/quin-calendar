@@ -24,41 +24,6 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:quin-event-206949@thequinhouse.com
-DTSTAMP:20261030T173000Z
-DTSTART;TZID=America/New_York:20261030T173000
-DTEND;TZID=America/New_York:20261030T190000
-SUMMARY:Trials and Truth: A History of Witchcraft
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 15 spots lef
- t\nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/
- events/206949\n\n5:30PM Reception\, 6:00PM Discussion\n\nIn a seasonal ode
-  to witchcraft\, join us for a thought provoking exploration tracing the m
- yths\, origins\, and histories that have shaped its place in a Western Eur
- opean cultural lineage\, a lineage that runs through to the Americas and i
- nto the present day. Building on last year's Trials & Truth\, which examin
- ed the Salem Witch Trials\, Professor Julie Walsh returns to take the conv
- ersation beyond local lore\, exploring the European roots of the image of 
- the witch\, its enduring stereotypes\, and the complex relationship betwee
- n belief\, skepticism\, and the social consequences of believing the worst
-  about your neighbors. The evening will delve into the origin story of th
- e medieval witch\, what this story reveals about power\, fear\, freedom\, 
- and social justice. \n\nJulie Walsh is the Whitehead Associate Professor 
- of Critical Thought\, Associate Professor of Philosophy\, and Director of 
- the Newhouse Center for the Humanities at the Wellesley College\; she spec
- ializes in early modern philosophy\, theories of freedom\, and the history
-  of witchcraft. She will be in conversation with Liza Oliver\, Associate P
- rofessor of Art History and Director of the Pluralism Initiative at Welle
- sley College\; she specializes in the intersections of art\, colonialism\,
-  and cultural history. Together\, they will offer members a fresh perspect
- ive on the historical roots and ongoing social impact of European ideas of
-  witches\, witchcraft\, and evil. \n\n*This event is complimentary and re
- served for members only. Complimentary light bites and refreshments will b
- e served. We kindly ask that all cancellations be made at least 24 hours p
- rior to the start of the event.
-URL:https://members.thequinhouse.com/events/206949
-CATEGORIES:‘Quin Chat
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-208796@thequinhouse.com
 DTSTAMP:20261102T170000Z
 DTSTART;TZID=America/New_York:20261102T170000
