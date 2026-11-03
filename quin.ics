@@ -24,32 +24,71 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:quin-event-208796@thequinhouse.com
-DTSTAMP:20261102T170000Z
-DTSTART;TZID=America/New_York:20261102T170000
-DTEND;TZID=America/New_York:20261102T183000
-SUMMARY:Behind Broadway: A Performance with Lorna Courtney 
-DESCRIPTION:Category: The Arts\nPrice: $50.00 per person\nAvailability: 19 
- spots left\nStatus: You are Confirmed\nEvent URL: https://members.thequinh
- ouse.com/events/208796\n\n5:00PM Doors Open\, 5:15PM Performance\, 6:00PM 
- Reception\nJoin us in The Reading Room for an intimate evening of music\, 
- theatre\, and storytelling with Tony Award-nominated Broadway star Lorna C
- ourtney. Best known for originating the role of Juliet in the hit musical 
- “& Juliet”\, Courtney brings her extraordinary talent to The ’Quin f
- or a captivating live performance featuring selections from across her car
- eer\, from her early days on Broadway to her celebrated roles in “Heathe
- rs: The Musical” and “The Rocky Horror Picture Show”. Through song a
- nd personal storytelling\, Courtney will take members on a journey through
-  the defining performances\, inspirations\, and experiences that have shap
- ed her career on the stage.\n\nFollowing the 30 minute performance\, Court
- ney will be joined for an engaging conversation and Q&A with Artistic Dire
- ctor of SpeakEasy Stage Company\, Dawn Simmons. Together\, the two will of
- fer a behind-the-curtain look at the world of Broadway\, exploring the cre
- ative process\, pivotal career moments\, and the evolving landscape of mus
- ical theatre while members enjoy light bites.\n\n*Tickets are $50 per mem
- ber and $75 for one registered guest. All tickets are nonrefundable and no
- ntransferable. Complimentary light bites and refreshments will be served.
-URL:https://members.thequinhouse.com/events/208796
+UID:quin-event-210562@thequinhouse.com
+DTSTAMP:20261116T180000Z
+DTSTART;TZID=America/New_York:20261116T180000
+DTEND;TZID=America/New_York:20261116T193000
+SUMMARY:Author Talk: "The Greatest Adventurer" with Geoffrey Kent and Ben M
+ ezrich 
+LOCATION:Scottie's
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 15 spots left\nS
+ tatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/even
+ ts/210562\n\n6:00PM Reception\, 6:30PM Discussion \nFrom a single Land Ro
+ ver in the African bush to the global travel company Abercrombie & Kent\, 
+ Geoffrey Kent has built a life around taking the road less traveled. Join 
+ The ’Quin for a conversation with the explorer and entrepreneur\, modera
+ ted by co-author of The Greatest Adventurer\, Ben Mezrich\, on the advent
+ ures\, ambitions\, and personal stakes behind an extraordinary career.\n\n
+ Drawing on his memoir\, The Greatest Adventurer: From the Wilds of Africa
+  to a Billion-Dollar Travel Empire\, Kent will share stories from a lifeti
+ me of exploration—from crossing Africa alone by motorbike at sixteen to 
+ navigating the Amazon and pioneering a new era of luxury travel. Guided by
+  the philosophy “Shoot with a camera\, not with a gun\,” his work has 
+ helped shape the relationship between travel and conservation.\n\nBeyond t
+ he expeditions lies an equally compelling story of entrepreneurship and fa
+ mily: the risks of building a global business\, the relationships tested a
+ long the way\, and the complicated question of what we leave behind. Toget
+ her\, Kent and Mezrich will explore the instinct to venture further—and 
+ what it takes to know when you have arrived.\n\n*This event is complimenta
+ ry and reserved for members only. Complimentary light bites and refreshmen
+ ts will be served. Cancellations made within 24 hours of the event\, or fa
+ ilure to attend\, will result in a $25 charge.
+URL:https://members.thequinhouse.com/events/210562
 CATEGORIES:The Arts
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-209702@thequinhouse.com
+DTSTAMP:20261117T130000Z
+DTSTART;TZID=America/New_York:20261117T130000
+DTEND;TZID=America/New_York:20261117T150000
+SUMMARY:90 Minutes of Innovation
+LOCATION:The Pub
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 95 spots lef
+ t\nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/
+ events/209702\n\n1:00PM Program\, 2:30PM Networking\nWhat happens when art
+ ificial intelligence steps off the screen and into the physical world? Joi
+ n The ’Quin for an afternoon exploring how robotics is changing the way 
+ we move\, work\, and interact with technology - and what it takes to bring
+  those advances into everyday life.\n\nJohn Werner - venture capitalist\, 
+ active member of the MIT community\, and Forbes AI columnist - will lead a
+  conversation with Conor Walsh\, Harvard’s Paul A. Maeder Professor of E
+ ngineering and Applied Sciences and founder of the Harvard Biodesign Lab\,
+  and Tom Ryden\, Executive Director of MassRobotics.\n\nWalsh’s work in 
+ soft robotics and wearable exosuits is helping people regain mobility and 
+ perform physically demanding tasks with less strain. At MassRobotics\, Ryd
+ en connects entrepreneurs\, researchers\, investors\, and industry to help
+  emerging robotics companies grow. Together\, they offer complementary per
+ spectives on the journey from a promising prototype to a technology that i
+ mproves people’s lives.\n\nThe evening will also mark five years of inno
+ vation programming at The ’Quin\, with Werner sharing highlights from mo
+ re than 50 programs that have brought members into conversation with the p
+ eople shaping our future. From the inaugural TEDxBoston in 2021 to today�
+ �s explorations of robotics and physical AI\, curiosity remains at the hea
+ rt of it all.\n\n*This event is complimentary and reserved for members onl
+ y. Complimentary light bites and refreshments will be served. Cancellation
+ s made within 24 hours of the event\, or failure to attend\, will result i
+ n a $25 charge.
+URL:https://members.thequinhouse.com/events/209702
+CATEGORIES:‘Quin Chat
 END:VEVENT
 END:VCALENDAR

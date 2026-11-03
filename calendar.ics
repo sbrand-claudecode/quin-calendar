@@ -24,35 +24,6 @@ RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:quin-event-208796@thequinhouse.com
-DTSTAMP:20261102T170000Z
-DTSTART;TZID=America/New_York:20261102T170000
-DTEND;TZID=America/New_York:20261102T183000
-SUMMARY:Behind Broadway: A Performance with Lorna Courtney 
-DESCRIPTION:Category: The Arts\nPrice: $50.00 per person\nAvailability: 19 
- spots left\nStatus: You are Confirmed\nEvent URL: https://members.thequinh
- ouse.com/events/208796\n\n5:00PM Doors Open\, 5:15PM Performance\, 6:00PM 
- Reception\nJoin us in The Reading Room for an intimate evening of music\, 
- theatre\, and storytelling with Tony Award-nominated Broadway star Lorna C
- ourtney. Best known for originating the role of Juliet in the hit musical 
- “& Juliet”\, Courtney brings her extraordinary talent to The ’Quin f
- or a captivating live performance featuring selections from across her car
- eer\, from her early days on Broadway to her celebrated roles in “Heathe
- rs: The Musical” and “The Rocky Horror Picture Show”. Through song a
- nd personal storytelling\, Courtney will take members on a journey through
-  the defining performances\, inspirations\, and experiences that have shap
- ed her career on the stage.\n\nFollowing the 30 minute performance\, Court
- ney will be joined for an engaging conversation and Q&A with Artistic Dire
- ctor of SpeakEasy Stage Company\, Dawn Simmons. Together\, the two will of
- fer a behind-the-curtain look at the world of Broadway\, exploring the cre
- ative process\, pivotal career moments\, and the evolving landscape of mus
- ical theatre while members enjoy light bites.\n\n*Tickets are $50 per mem
- ber and $75 for one registered guest. All tickets are nonrefundable and no
- ntransferable. Complimentary light bites and refreshments will be served.
-URL:https://members.thequinhouse.com/events/208796
-CATEGORIES:The Arts
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-176003@thequinhouse.com
 DTSTAMP:20261102T183000Z
 DTSTART;TZID=America/New_York:20261102T183000
@@ -84,19 +55,19 @@ DTEND;TZID=America/New_York:20261103T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 8 spots left\nStatus: Available\nEvent URL: https://membe
- rs.thequinhouse.com/events/208333\n\nEase into the week in good company at
-  our weekly Member Mingle\, a relaxed gathering in The Living Room designe
- d to bring members together. Settle in\, enjoy a selection of charcuterie\
- , and strike up a conversation among familiar faces and new connections al
- ike.\n\nWhether you are expanding your circle\, exchanging ideas\, or simp
- ly stopping by for a drink and lively conversation\, Member Mingle offers 
- the perfect opportunity to connect with the community\, enjoy a bite\, and
-  see where the evening takes you.\n\n*This event is complimentary and rese
- rved for members only. Complimentary light bites will be served\, with bev
- erages available for purchase throughout the evening. We kindly ask that a
- ll cancellations be made at least 24 hours prior to the start of the event
- .
+ e\nAvailability: 10 spots left\nStatus: Available\nEvent URL: https://memb
+ ers.thequinhouse.com/events/208333\n\nEase into the week in good company a
+ t our weekly Member Mingle\, a relaxed gathering in The Living Room design
+ ed to bring members together. Settle in\, enjoy a selection of charcuterie
+ \, and strike up a conversation among familiar faces and new connections a
+ like.\n\nWhether you are expanding your circle\, exchanging ideas\, or sim
+ ply stopping by for a drink and lively conversation\, Member Mingle offers
+  the perfect opportunity to connect with the community\, enjoy a bite\, an
+ d see where the evening takes you.\n\n*This event is complimentary and res
+ erved for members only. Complimentary light bites will be served\, with be
+ verages available for purchase throughout the evening. We kindly ask that 
+ all cancellations be made at least 24 hours prior to the start of the even
+ t.
 URL:https://members.thequinhouse.com/events/208333
 CATEGORIES:Member Mixer,Survey - Membership Mingle
 END:VEVENT
@@ -104,7 +75,7 @@ BEGIN:VEVENT
 UID:quin-event-209097@thequinhouse.com
 DTSTAMP:20261103T170000Z
 DTSTART;VALUE=DATE:20261103
-DTEND;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261201
 SUMMARY:A Taste of Piedmont
 LOCATION:Café Q
 DESCRIPTION:Category: Food & Beverage\nPrice: Free / Included\nStatus: Avai
@@ -250,7 +221,7 @@ DTEND;TZID=America/New_York:20261110T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 28 spots left\nStatus: Available\nEvent URL: https://memb
+ e\nAvailability: 27 spots left\nStatus: Available\nEvent URL: https://memb
  ers.thequinhouse.com/events/209092\n\nEase into the week in good company a
  t our weekly Member Mingle\, a relaxed gathering in The Living Room design
  ed to bring members together. Settle in\, enjoy a selection of charcuterie
@@ -302,7 +273,7 @@ DTSTAMP:20261110T183000Z
 DTSTART;TZID=America/New_York:20261110T183000
 DTEND;TZID=America/New_York:20261110T200000
 SUMMARY:'Quin Chat: Old in the Game - A Reflection of Hip-Hop History 
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 25 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 22 spots left\nS
  tatus: Available\nEvent URL: https://members.thequinhouse.com/events/20880
  0\n\n6:30PM Reception\, 7:00PM Discussion \nIn celebration of Hip-Hop His
  tory Month\, join author Murray Forman\, Boston hip-hop pioneer Edward “
@@ -356,27 +327,27 @@ DTSTART;TZID=America/New_York:20261111T180000
 DTEND;TZID=America/New_York:20261111T193000
 SUMMARY:'Quin Chat: Liberation & Legacy - A Veterans Day Conversation
 LOCATION:Scottie's
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 120 spots le
- ft\nStatus: futureSale\nEvent URL: https://members.thequinhouse.com/events
- /210561\n\n6:00PM Reception\, 6:30PM Discussion \nThis Veterans Day\, joi
- n The ’Quin for a conversation honoring the American soldiers who libera
- ted Nazi concentration camps and the survivors whose lives they helped res
- tore.\n\nModerated by Jody Kipnis\, President and CEO of Holocaust Museum 
- Boston\, the discussion brings together Mike Ross\, son of Holocaust survi
- vor Steve Ross\, who was liberated from Dachau\, and Jim Kelliher\, son of
-  an American soldier who helped liberate concentration camps.\n\nDrawing o
- n their fathers’ experiences\, a handwritten letter from May 1945\, and 
- an original booklet documenting the 11th Armored Division\, the panel will
-  explore liberation through the intertwined stories of those who survived 
- and those who came to their aid. Guests will also have the opportunity to 
- view Steve Ross’s flag and historical documents on display throughout th
- e evening\, offering a tangible connection to the lives and events at the 
- heart of the conversation.\n\nTogether\, we will reflect on the courage an
- d service we honor on Veterans Day - and our shared responsibility to carr
- y these stories forward.\n\n*This event is complimentary and reserved for 
- members only. Complimentary light bites and refreshments will be served. C
- ancellations made within 24 hours of the event\, or failure to attend\, wi
- ll result in a $25 charge.
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 70 spots lef
+ t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/2
+ 10561\n\n6:00PM Reception\, 6:30PM Discussion \nThis Veterans Day\, join 
+ The ’Quin for a conversation honoring the American soldiers who liberate
+ d Nazi concentration camps and the survivors whose lives they helped resto
+ re.\n\nModerated by Jody Kipnis\, President and CEO of Holocaust Museum Bo
+ ston\, the discussion brings together Mike Ross\, son of Holocaust survivo
+ r Steve Ross\, who was liberated from Dachau\, and Jim Kelliher\, son of a
+ n American soldier who helped liberate concentration camps.\n\nDrawing on 
+ their fathers’ experiences\, a handwritten letter from May 1945\, and an
+  original booklet documenting the 11th Armored Division\, the panel will e
+ xplore liberation through the intertwined stories of those who survived an
+ d those who came to their aid. Guests will also have the opportunity to vi
+ ew Steve Ross’s flag and historical documents on display throughout the 
+ evening\, offering a tangible connection to the lives and events at the he
+ art of the conversation.\n\nTogether\, we will reflect on the courage and 
+ service we honor on Veterans Day - and our shared responsibility to carry 
+ these stories forward.\n\n*This event is complimentary and reserved for me
+ mbers only. Complimentary light bites and refreshments will be served. Can
+ cellations made within 24 hours of the event\, or failure to attend\, will
+  result in a $25 charge.
 URL:https://members.thequinhouse.com/events/210561
 CATEGORIES:‘Quin Chat
 END:VEVENT
@@ -452,7 +423,7 @@ DTSTART;TZID=America/New_York:20261113T140000
 DTEND;TZID=America/New_York:20261113T153000
 SUMMARY:'Quin Chat: The Art of the City - Why Cultural Philanthropy Matters
   Now
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 19 spots lef
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 17 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/2
  09681\n\n2:00PM Reception\, 2:30PM Discussion \n\nTo celebrate Town & Co
  untry’s milestone 180th anniversary\, Editor in Chief Stellene Volandes
@@ -499,27 +470,27 @@ DTSTART;TZID=America/New_York:20261113T190000
 DTEND;TZID=America/New_York:20261113T203000
 SUMMARY:'Quin Chat: The Second Half of Athleticism - The Athlete's Dilemma
 LOCATION:The Muse
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 60 spots lef
- t\nStatus: futureSale\nEvent URL: https://members.thequinhouse.com/events/
- 209682\n\n7:00PM Reception\, 7:30PM Discussion \nWhat happens when organi
- zed competition ends\, but the athlete in us remains? For those who once b
- uilt their lives around practices\, teammates\, and seasons\, stepping awa
- y can raise questions of identity\, purpose\, and how we care for ourselve
- s beyond the demands of competition.\n\nDr. Rich Joseph\, Harvard Medical
-  School faculty physician and Founder of VIM Medicine\, returns to The ’
- Quin to launch a three-part series exploring what it means to remain an at
- hlete for life. He will moderate a conversation with Marcus Wilson\, co-fo
- under of NOBULL\; Ben Bergeron\, founder of CompTrain and coach to multipl
- e CrossFit Games champions\; and Jeremy Bettle\, a performance and sports 
- science leader whose work spans professional sports and who now leads Vita
- lity Collective.\n\nTogether\, they will explore how we redefine ambition\
- , find new sources of motivation\, and build a lasting relationship with m
- ovement. It’s a candid look at life after the final whistle—and how th
- e discipline\, resilience\, and sense of possibility that shaped us as com
- petitors can continue to serve us for decades to come.\n\n*This event is c
- omplimentary and reserved for members only. Complimentary light bites and 
- refreshments will be served. Cancellations made within 24 hours of the eve
- nt\, or failure to attend\, will result in a $25 charge.
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 29 spots lef
+ t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/2
+ 09682\n\n7:00PM Reception\, 7:30PM Discussion \nWhat happens when organiz
+ ed competition ends\, but the athlete in us remains? For those who once bu
+ ilt their lives around practices\, teammates\, and seasons\, stepping away
+  can raise questions of identity\, purpose\, and how we care for ourselves
+  beyond the demands of competition.\n\nDr. Rich Joseph\, Harvard Medical 
+ School faculty physician and Founder of VIM Medicine\, returns to The ’Q
+ uin to launch a three-part series exploring what it means to remain an ath
+ lete for life. He will moderate a conversation with Marcus Wilson\, co-fou
+ nder of NOBULL\; Ben Bergeron\, founder of CompTrain and coach to multiple
+  CrossFit Games champions\; and Jeremy Bettle\, a performance and sports s
+ cience leader whose work spans professional sports and who now leads Vital
+ ity Collective.\n\nTogether\, they will explore how we redefine ambition\,
+  find new sources of motivation\, and build a lasting relationship with mo
+ vement. It’s a candid look at life after the final whistle—and how the
+  discipline\, resilience\, and sense of possibility that shaped us as comp
+ etitors can continue to serve us for decades to come.\n\n*This event is co
+ mplimentary and reserved for members only. Complimentary light bites and r
+ efreshments will be served. Cancellations made within 24 hours of the even
+ t\, or failure to attend\, will result in a $25 charge.
 URL:https://members.thequinhouse.com/events/209682
 CATEGORIES:‘Quin Chat
 END:VEVENT
@@ -531,7 +502,7 @@ DTEND;TZID=America/New_York:20261114T140000
 SUMMARY:Serendipity Brunch
 LOCATION:Lunasol
 DESCRIPTION:Category: Food & Beverage\, Member Mixer\nPrice: $65.00 per per
- son\nAvailability: 13 spots left\nStatus: Available\nEvent URL: https://me
+ son\nAvailability: 12 spots left\nStatus: Available\nEvent URL: https://me
  mbers.thequinhouse.com/events/208334\n\nMake your Saturday a little more s
  erendipitous with a leisurely brunch hosted by The ‘Quin’s Membership 
  Team. Gather in Lunasol for an afternoon centered around good food\, easy 
@@ -558,28 +529,28 @@ DTEND;TZID=America/New_York:20261116T193000
 SUMMARY:Author Talk: "The Greatest Adventurer" with Geoffrey Kent and Ben M
  ezrich 
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 100 spots left\n
- Status: futureSale\nEvent URL: https://members.thequinhouse.com/events/210
- 562\n\n6:00PM Reception\, 6:30PM Discussion \nFrom a single Land Rover in
-  the African bush to the global travel company Abercrombie & Kent\, Geoffr
- ey Kent has built a life around taking the road less traveled. Join The �
- �Quin for a conversation with the explorer and entrepreneur\, moderated by
-  co-author of The Greatest Adventurer\, Ben Mezrich\, on the adventures\,
-  ambitions\, and personal stakes behind an extraordinary career.\n\nDrawin
- g on his memoir\, The Greatest Adventurer: From the Wilds of Africa to a 
- Billion-Dollar Travel Empire\, Kent will share stories from a lifetime of 
- exploration—from crossing Africa alone by motorbike at sixteen to naviga
- ting the Amazon and pioneering a new era of luxury travel. Guided by the p
- hilosophy “Shoot with a camera\, not with a gun\,” his work has helped
-  shape the relationship between travel and conservation.\n\nBeyond the exp
- editions lies an equally compelling story of entrepreneurship and family: 
- the risks of building a global business\, the relationships tested along t
- he way\, and the complicated question of what we leave behind. Together\, 
- Kent and Mezrich will explore the instinct to venture further—and what i
- t takes to know when you have arrived.\n\n*This event is complimentary and
-  reserved for members only. Complimentary light bites and refreshments wil
- l be served. Cancellations made within 24 hours of the event\, or failure 
- to attend\, will result in a $25 charge.
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 15 spots left\nS
+ tatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/even
+ ts/210562\n\n6:00PM Reception\, 6:30PM Discussion \nFrom a single Land Ro
+ ver in the African bush to the global travel company Abercrombie & Kent\, 
+ Geoffrey Kent has built a life around taking the road less traveled. Join 
+ The ’Quin for a conversation with the explorer and entrepreneur\, modera
+ ted by co-author of The Greatest Adventurer\, Ben Mezrich\, on the advent
+ ures\, ambitions\, and personal stakes behind an extraordinary career.\n\n
+ Drawing on his memoir\, The Greatest Adventurer: From the Wilds of Africa
+  to a Billion-Dollar Travel Empire\, Kent will share stories from a lifeti
+ me of exploration—from crossing Africa alone by motorbike at sixteen to 
+ navigating the Amazon and pioneering a new era of luxury travel. Guided by
+  the philosophy “Shoot with a camera\, not with a gun\,” his work has 
+ helped shape the relationship between travel and conservation.\n\nBeyond t
+ he expeditions lies an equally compelling story of entrepreneurship and fa
+ mily: the risks of building a global business\, the relationships tested a
+ long the way\, and the complicated question of what we leave behind. Toget
+ her\, Kent and Mezrich will explore the instinct to venture further—and 
+ what it takes to know when you have arrived.\n\n*This event is complimenta
+ ry and reserved for members only. Complimentary light bites and refreshmen
+ ts will be served. Cancellations made within 24 hours of the event\, or fa
+ ilure to attend\, will result in a $25 charge.
 URL:https://members.thequinhouse.com/events/210562
 CATEGORIES:The Arts
 END:VEVENT
@@ -641,31 +612,31 @@ DTSTART;TZID=America/New_York:20261117T130000
 DTEND;TZID=America/New_York:20261117T150000
 SUMMARY:90 Minutes of Innovation
 LOCATION:The Pub
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 150 spots le
- ft\nStatus: futureSale\nEvent URL: https://members.thequinhouse.com/events
- /209702\n\n1:00PM Program\, 2:30PM Networking\nWhat happens when artificia
- l intelligence steps off the screen and into the physical world? Join The 
- ’Quin for an afternoon exploring how robotics is changing the way we mov
- e\, work\, and interact with technology - and what it takes to bring those
-  advances into everyday life.\n\nJohn Werner - venture capitalist\, active
-  member of the MIT community\, and Forbes AI columnist - will lead a conve
- rsation with Conor Walsh\, Harvard’s Paul A. Maeder Professor of Enginee
- ring and Applied Sciences and founder of the Harvard Biodesign Lab\, and T
- om Ryden\, Executive Director of MassRobotics.\n\nWalsh’s work in soft r
- obotics and wearable exosuits is helping people regain mobility and perfor
- m physically demanding tasks with less strain. At MassRobotics\, Ryden con
- nects entrepreneurs\, researchers\, investors\, and industry to help emerg
- ing robotics companies grow. Together\, they offer complementary perspecti
- ves on the journey from a promising prototype to a technology that improve
- s people’s lives.\n\nThe evening will also mark five years of innovation
-  programming at The ’Quin\, with Werner sharing highlights from more tha
- n 50 programs that have brought members into conversation with the people 
- shaping our future. From the inaugural TEDxBoston in 2021 to today’s exp
- lorations of robotics and physical AI\, curiosity remains at the heart of 
- it all.\n\n*This event is complimentary and reserved for members only. Com
- plimentary light bites and refreshments will be served. Cancellations made
-  within 24 hours of the event\, or failure to attend\, will result in a $2
- 5 charge.
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 95 spots lef
+ t\nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/
+ events/209702\n\n1:00PM Program\, 2:30PM Networking\nWhat happens when art
+ ificial intelligence steps off the screen and into the physical world? Joi
+ n The ’Quin for an afternoon exploring how robotics is changing the way 
+ we move\, work\, and interact with technology - and what it takes to bring
+  those advances into everyday life.\n\nJohn Werner - venture capitalist\, 
+ active member of the MIT community\, and Forbes AI columnist - will lead a
+  conversation with Conor Walsh\, Harvard’s Paul A. Maeder Professor of E
+ ngineering and Applied Sciences and founder of the Harvard Biodesign Lab\,
+  and Tom Ryden\, Executive Director of MassRobotics.\n\nWalsh’s work in 
+ soft robotics and wearable exosuits is helping people regain mobility and 
+ perform physically demanding tasks with less strain. At MassRobotics\, Ryd
+ en connects entrepreneurs\, researchers\, investors\, and industry to help
+  emerging robotics companies grow. Together\, they offer complementary per
+ spectives on the journey from a promising prototype to a technology that i
+ mproves people’s lives.\n\nThe evening will also mark five years of inno
+ vation programming at The ’Quin\, with Werner sharing highlights from mo
+ re than 50 programs that have brought members into conversation with the p
+ eople shaping our future. From the inaugural TEDxBoston in 2021 to today�
+ �s explorations of robotics and physical AI\, curiosity remains at the hea
+ rt of it all.\n\n*This event is complimentary and reserved for members onl
+ y. Complimentary light bites and refreshments will be served. Cancellation
+ s made within 24 hours of the event\, or failure to attend\, will result i
+ n a $25 charge.
 URL:https://members.thequinhouse.com/events/209702
 CATEGORIES:‘Quin Chat
 END:VEVENT
@@ -677,7 +648,7 @@ DTEND;TZID=America/New_York:20261117T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 34 spots left\nStatus: Available\nEvent URL: https://memb
+ e\nAvailability: 31 spots left\nStatus: Available\nEvent URL: https://memb
  ers.thequinhouse.com/events/208958\n\nEase into the week in good company a
  t our weekly Member Mingle\, a relaxed gathering in The Living Room design
  ed to bring members together. Settle in\, enjoy a selection of charcuterie
@@ -718,26 +689,26 @@ DTSTAMP:20261119T173000Z
 DTSTART;TZID=America/New_York:20261119T173000
 DTEND;TZID=America/New_York:20261119T190000
 SUMMARY: Gather to Give: Youth & Education Grant Reception
-DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nAvailability: 12 sp
- ots left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/e
- vents/209740\n\n5:30PM Reception\, 6:00PM Ceremony\nJoin us for an inspiri
- ng evening celebrating the exceptional local recipients of this year’s Y
- outh & Education pillar grants\, extended on behalf of The ‘Quin Impact 
- Fund through member donations. This event will honor the exceptional organ
- izations that nurture our community’s young minds and inspire the next g
- eneration of leaders\, learners\, and creators. Interested in making an im
- pact? Look forward to connecting with leaders in the space during the rece
- ption to learn more about their philanthropic initiative.\n\nOur esteemed 
- grant recipients include:\n\n826 Boston\nAction for Boston Community Devel
- opment\nBionic Project\nBoston CASA\nBoston Debate League\nBoys & Girls Cl
- ubs of Dorchester\nCathleen Stone Island Outward Bound School\nCristo Rey 
- Boston High School\nFisher College\nHopeWell\nHorizons for Homeless Childr
- en\nInquilinos Boricuas en Acción\nJeanne Geiger Crisis Center\nScience C
- lub for Girls\nSummer Search Boston\nTeach For America Massachusetts\nThe 
- Upward Project\nUrban College of Boston\nYouthConnect\n\n*This event is co
- mplimentary and reserved for members only. Complimentary light bites and r
- efreshments will be served. Cancellations made within 24 hours of the even
- t\, or failure to attend\, will result in a $25 charge.
+DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nAvailability: 5 spo
+ ts left\nStatus: Available\nEvent URL: https://members.thequinhouse.com/ev
+ ents/209740\n\n5:30PM Reception\, 6:00PM Ceremony\nJoin us for an inspirin
+ g evening celebrating the exceptional local recipients of this year’s Yo
+ uth & Education pillar grants\, extended on behalf of The ‘Quin Impact F
+ und through member donations. This event will honor the exceptional organi
+ zations that nurture our community’s young minds and inspire the next ge
+ neration of leaders\, learners\, and creators. Interested in making an imp
+ act? Look forward to connecting with leaders in the space during the recep
+ tion to learn more about their philanthropic initiative.\n\nOur esteemed g
+ rant recipients include:\n\n826 Boston\nAction for Boston Community Develo
+ pment\nBionic Project\nBoston CASA\nBoston Debate League\nBoys & Girls Clu
+ bs of Dorchester\nCathleen Stone Island Outward Bound School\nCristo Rey B
+ oston High School\nFisher College\nHopeWell\nHorizons for Homeless Childre
+ n\nInquilinos Boricuas en Acción\nJeanne Geiger Crisis Center\nScience Cl
+ ub for Girls\nSummer Search Boston\nTeach For America Massachusetts\nThe U
+ pward Project\nUrban College of Boston\nYouthConnect\n\n*This event is com
+ plimentary and reserved for members only. Complimentary light bites and re
+ freshments will be served. Cancellations made within 24 hours of the event
+ \, or failure to attend\, will result in a $25 charge.
 URL:https://members.thequinhouse.com/events/209740
 CATEGORIES:‘Quin Impact Fund
 END:VEVENT
@@ -747,16 +718,16 @@ DTSTAMP:20261119T183000Z
 DTSTART;TZID=America/New_York:20261119T183000
 DTEND;TZID=America/New_York:20261119T203000
 SUMMARY:Member Meet Up: King's Bowling at the Seaport
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 6 spots left
- \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/20
- 9688\n\nSpare yourself the ordinary evening and join us at King’s Bowlin
- g for a Member Meet-Up that’s equal parts pins\, pours\, and playful riv
- alry. Whether you are aiming for strikes or purely here for a good time\, 
- a night of connection and fun awaits. \n\n*Bowling and shoe rentals for th
- is event are complimentary and reserved for members only. Complimentary li
- ght bites and one drink per member will be offered. Cash bar available for
-  the remainder of the evening. Cancellations made within 24 hours of the e
- vent\, or failure to attend\, will result in a $25 charge.
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nStatus: Waitlist Only\nEve
+ nt URL: https://members.thequinhouse.com/events/209688\n\nSpare yourself t
+ he ordinary evening and join us at King’s Bowling for a Member Meet-Up t
+ hat’s equal parts pins\, pours\, and playful rivalry. Whether you are ai
+ ming for strikes or purely here for a good time\, a night of connection an
+ d fun awaits. \n\n*Bowling and shoe rentals for this event are complimenta
+ ry and reserved for members only. Complimentary light bites and one drink 
+ per member will be offered. Cash bar available for the remainder of the ev
+ ening. Cancellations made within 24 hours of the event\, or failure to att
+ end\, will result in a $25 charge.
 URL:https://members.thequinhouse.com/events/209688
 CATEGORIES:Member Mixer
 END:VEVENT
@@ -783,18 +754,18 @@ DTSTART;TZID=America/New_York:20261123T180000
 DTEND;TZID=America/New_York:20261123T210000
 SUMMARY:Community Table
 LOCATION:Café Q
-DESCRIPTION:Category: Food & Beverage\nPrice: Free\nAvailability: 999999999
- 985 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
- .com/events/209711\n\nEase into the week around the table with the return 
- of Café Q’s Community Table. Designed for members looking to meet new f
- aces and make new connections\, the evening brings together good food and 
- engaging conversation in a relaxed\, convivial setting. Take a seat\, shar
- e a meal\, and see where the conversation leads.\n\n*This event is reserve
- d for members only. An advance charge of $24 per member contributes to com
- munal appetizers available upon seating. Members are responsible for à la
-  carte entrées\, desserts\, and beverages\, plus taxes and fees. Cancella
- tions made within 24 hours of the event\, or failure to attend will be sub
- ject to the Café Q's surcharge policy.
+DESCRIPTION:Category: Food & Beverage\nPrice: Free\nStatus: Waitlist Only\n
+ Event URL: https://members.thequinhouse.com/events/209711\n\nEase into the
+  week around the table with the return of Café Q’s Community Table. Des
+ igned for members looking to meet new faces and make new connections\, the
+  evening brings together good food and engaging conversation in a relaxed\
+ , convivial setting. Take a seat\, share a meal\, and see where the conver
+ sation leads.\n\n*This event is reserved for members only. An advance char
+ ge of $24 per member contributes to communal appetizers available upon sea
+ ting. Members are responsible for à la carte entrées\, desserts\, and be
+ verages\, plus taxes and fees. Cancellations made within 24 hours of the e
+ vent\, or failure to attend will be subject to the Café Q's surcharge pol
+ icy.
 URL:https://members.thequinhouse.com/events/209711
 CATEGORIES:Food & Beverage
 END:VEVENT
@@ -806,7 +777,7 @@ DTEND;TZID=America/New_York:20261124T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 31 spots left\nStatus: Available\nEvent URL: https://memb
+ e\nAvailability: 30 spots left\nStatus: Available\nEvent URL: https://memb
  ers.thequinhouse.com/events/208959\n\nEase into the week in good company a
  t our weekly Member Mingle\, a relaxed gathering in The Living Room design
  ed to bring members together. Settle in\, enjoy a selection of charcuterie
@@ -829,7 +800,7 @@ DTSTART;TZID=America/New_York:20261124T180000
 DTEND;TZID=America/New_York:20261124T190000
 SUMMARY:Stand Up Comedy | 6:00PM Show
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 33 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 26 spots left\nS
  tatus: Available\nEvent URL: https://members.thequinhouse.com/events/20971
  2\n\nBoston’s best return to the 'House! Improv Asylum comedians are rea
  dy to make you laugh through short stand-up sets. Grab a drink from the ba
@@ -849,7 +820,7 @@ DTSTART;TZID=America/New_York:20261124T200000
 DTEND;TZID=America/New_York:20261124T210000
 SUMMARY:Stand Up Comedy | 8:00PM Show
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 19 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 13 spots left\nS
  tatus: Available\nEvent URL: https://members.thequinhouse.com/events/20971
  4\n\nBoston’s best return to the 'House! Improv Asylum comedians are rea
  dy to make you laugh through short stand-up sets. Grab a drink from the ba
