@@ -125,7 +125,7 @@ DTEND;TZID=America/New_York:20261110T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 27 spots left\nStatus: Available\nEvent URL: https://memb
+ e\nAvailability: 25 spots left\nStatus: Available\nEvent URL: https://memb
  ers.thequinhouse.com/events/209092\n\nEase into the week in good company a
  t our weekly Member Mingle\, a relaxed gathering in The Living Room design
  ed to bring members together. Settle in\, enjoy a selection of charcuterie
@@ -593,26 +593,26 @@ DTSTAMP:20261119T173000Z
 DTSTART;TZID=America/New_York:20261119T173000
 DTEND;TZID=America/New_York:20261119T190000
 SUMMARY: Gather to Give: Youth & Education Grant Reception
-DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nAvailability: 1 spo
- t left\nStatus: Waitlist Only\nEvent URL: https://members.thequinhouse.com
- /events/209740\n\n5:30PM Reception\, 6:00PM Ceremony\nJoin us for an inspi
- ring evening celebrating the exceptional local recipients of this year’s
-  Youth & Education pillar grants\, extended on behalf of The ‘Quin Impac
- t Fund through member donations. This event will honor the exceptional org
- anizations that nurture our community’s young minds and inspire the next
-  generation of leaders\, learners\, and creators. Interested in making an 
- impact? Look forward to connecting with leaders in the space during the re
- ception to learn more about their philanthropic initiative.\n\nOur esteeme
- d grant recipients include:\n\n826 Boston\nAction for Boston Community Dev
- elopment\nBionic Project\nBoston CASA\nBoston Debate League\nBoys & Girls 
- Clubs of Dorchester\nCathleen Stone Island Outward Bound School\nCristo Re
- y Boston High School\nFisher College\nHopeWell\nHorizons for Homeless Chil
- dren\nInquilinos Boricuas en Acción\nJeanne Geiger Crisis Center\nScience
-  Club for Girls\nSummer Search Boston\nTeach For America Massachusetts\nTh
- e Upward Project\nUrban College of Boston\nYouthConnect\n\n*This event is 
- complimentary and reserved for members only. Complimentary light bites and
-  refreshments will be served. Cancellations made within 24 hours of the ev
- ent\, or failure to attend\, will result in a $25 charge.
+DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nStatus: Waitlist On
+ ly\nEvent URL: https://members.thequinhouse.com/events/209740\n\n5:30PM Re
+ ception\, 6:00PM Ceremony\nJoin us for an inspiring evening celebrating th
+ e exceptional local recipients of this year’s Youth & Education pillar g
+ rants\, extended on behalf of The ‘Quin Impact Fund through member donat
+ ions. This event will honor the exceptional organizations that nurture our
+  community’s young minds and inspire the next generation of leaders\, le
+ arners\, and creators. Interested in making an impact? Look forward to con
+ necting with leaders in the space during the reception to learn more about
+  their philanthropic initiative.\n\nOur esteemed grant recipients include:
+ \n\n826 Boston\nAction for Boston Community Development\nBionic Project\nB
+ oston CASA\nBoston Debate League\nBoys & Girls Clubs of Dorchester\nCathle
+ en Stone Island Outward Bound School\nCristo Rey Boston High School\nFishe
+ r College\nHopeWell\nHorizons for Homeless Children\nInquilinos Boricuas e
+ n Acción\nJeanne Geiger Crisis Center\nScience Club for Girls\nSummer Sea
+ rch Boston\nTeach For America Massachusetts\nThe Upward Project\nUrban Col
+ lege of Boston\nYouthConnect\n\n*This event is complimentary and reserved 
+ for members only. Complimentary light bites and refreshments will be serve
+ d. Cancellations made within 24 hours of the event\, or failure to attend\
+ , will result in a $25 charge.
 URL:https://members.thequinhouse.com/events/209740
 CATEGORIES:‘Quin Impact Fund
 END:VEVENT
@@ -724,16 +724,16 @@ DTSTART;TZID=America/New_York:20261124T200000
 DTEND;TZID=America/New_York:20261124T210000
 SUMMARY:Stand Up Comedy: Paul Mecurio | 8:00PM Show
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 10 spots left\nS
- tatus: Available\nEvent URL: https://members.thequinhouse.com/events/20971
- 4\n\nBoston’s best return to the 'House! Improv Asylum comedians are rea
- dy to make you laugh through short stand-up sets. Grab a drink from the ba
- r starting at 5:00pm\, then find a seat for the main event - seating is fi
- rst come\, first serve. \n\nMake it a night with a pre-show burger and a 
- beer from The Pub. Dining walk-ins are welcome!\n\n*This event is compli
- mentary and reserved for members only. Complimentary light bites and refre
- shments will be served. Cancellations made within 24 hours of the event\, 
- or failure to attend\, will result in a $25 charge.
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 8 spots left\nSt
+ atus: Available\nEvent URL: https://members.thequinhouse.com/events/209714
+ \n\nBoston’s best return to the 'House! Improv Asylum comedians are read
+ y to make you laugh through short stand-up sets. Grab a drink from the bar
+  starting at 5:00pm\, then find a seat for the main event - seating is fir
+ st come\, first serve. \n\nMake it a night with a pre-show burger and a b
+ eer from The Pub. Dining walk-ins are welcome!\n\n*This event is complim
+ entary and reserved for members only. Complimentary light bites and refres
+ hments will be served. Cancellations made within 24 hours of the event\, o
+ r failure to attend\, will result in a $25 charge.
 URL:https://members.thequinhouse.com/events/209714
 CATEGORIES:The Arts
 END:VEVENT
