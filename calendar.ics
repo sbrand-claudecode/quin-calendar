@@ -46,53 +46,6 @@ URL:https://members.thequinhouse.com/events/209097
 CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
-UID:quin-event-208335@thequinhouse.com
-DTSTAMP:20261109T180000Z
-DTSTART;TZID=America/New_York:20261109T180000
-DTEND;TZID=America/New_York:20261109T210000
-SUMMARY:Community Table
-LOCATION:Café Q
-DESCRIPTION:Category: Food & Beverage\nPrice: Free\nStatus: Waitlist Only\n
- Event URL: https://members.thequinhouse.com/events/208335\n\nEase into the
-  week around the table with the return of Café Q’s Community Table. Des
- igned for members looking to meet new faces and make new connections\, the
-  evening brings together good food and engaging conversation in a relaxed\
- , convivial setting. Take a seat\, share a meal\, and see where the conver
- sation leads.\n\n*This event is reserved for members only. An advance char
- ge of $24 per member contributes to communal appetizers available upon sea
- ting. Members are responsible for à la carte entrées\, desserts\, and be
- verages\, plus taxes and fees. Cancellations made within 24 hours of the e
- vent\, or failure to attend will be subject to the Café Q's surcharge pol
- icy.
-URL:https://members.thequinhouse.com/events/208335
-CATEGORIES:Food & Beverage
-END:VEVENT
-BEGIN:VEVENT
-UID:quin-event-208789@thequinhouse.com
-DTSTAMP:20261109T190000Z
-DTSTART;TZID=America/New_York:20261109T190000
-DTEND;TZID=America/New_York:20261109T200000
-SUMMARY:Author's Circle Book Club: "Georgia" by Dawn Tripp 
-LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nStatus: Waitlist Only\nEvent U
- RL: https://members.thequinhouse.com/events/208789\n\nBookmark your calend
- ar and settle in for November’s Author Circle Book Club\, Georgia by Daw
- n Tripp—a captivating and richly imagined novel inspired by the extraord
- inary life of iconic American artist Georgia O’Keeffe.\n\nSet against th
- e vibrant art world of early 20th-century New York and the striking landsc
- apes of New Mexico\, Georgia explores the woman behind the art\, tracing h
- er passionate pursuit of independence\, creativity\, and love. Through her
-  complex relationship with photographer Alfred Stieglitz and her determina
- tion to forge a path entirely her own\, Tripp paints an intimate portrait 
- of ambition\, identity\, and artistic expression. A beautifully layered st
- ory sure to inspire thoughtful conversation.\n\n*This event is complimenta
- ry and reserved for members only. Complimentary light bites and refreshmen
- ts will be served. We kindly ask that all cancellations be made at least 
- 24 hours prior to the start of the event.
-URL:https://members.thequinhouse.com/events/208789
-CATEGORIES:The Arts
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-209092@thequinhouse.com
 DTSTAMP:20261110T170000Z
 DTSTART;TZID=America/New_York:20261110T170000
@@ -100,7 +53,7 @@ DTEND;TZID=America/New_York:20261110T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 21 spots left\nStatus: Available\nEvent URL: https://memb
+ e\nAvailability: 22 spots left\nStatus: Available\nEvent URL: https://memb
  ers.thequinhouse.com/events/209092\n\nEase into the week in good company a
  t our weekly Member Mingle\, a relaxed gathering in The Living Room design
  ed to bring members together. Settle in\, enjoy a selection of charcuterie
@@ -122,27 +75,27 @@ DTSTAMP:20261110T173000Z
 DTSTART;TZID=America/New_York:20261110T173000
 DTEND;TZID=America/New_York:20261110T190000
 SUMMARY:'Quin Chat: The Success Paradox 
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nStatus: Waitlist Only\nEve
- nt URL: https://members.thequinhouse.com/events/208799\n\n5:30PM Reception
- \, 6:00PM Discussion\nWhat happens when the success you have worked toward
-  brings unexpected questions rather than fulfillment? Join psychiatrist an
- d author Dr. Blaise Aguirre for a keynote lecture exploring the emotional 
- complexities of ambition\, achievement\, and what comes next.\n\nDrawing o
- n research for his forthcoming book\, Dr. Aguirre will examine the imposte
- r phenomenon - the feeling that we have not earned our accomplishments - a
- nd the arrival fallacy\, the belief that reaching a goal will deliver last
- ing happiness. From “Do I deserve to be here?” to “How do I sustain 
- this?” and “What now?”\, he will explore the questions that can emer
- ge when high achievers reach the milestones they once imagined would be en
- ough.\n\nWith more than two decades of experience in mental health and as 
- founding medical director of 3East at McLean Hospital\, Dr. Aguirre brings
-  a compassionate perspective to the pursuit of success. The conversation i
- nvites us to consider how we define achievement - and how greater self-und
- erstanding can help us build a life that feels as meaningful as it looks.\
- n\n*This event is complimentary and reserved for members only. Complimenta
- ry light bites and refreshments will be served. Cancellations made within 
- 24 hours of the event\, or failure to attend\, will result in a $25 charge
- .
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 1 spot left\
+ nStatus: Waitlist Only\nEvent URL: https://members.thequinhouse.com/events
+ /208799\n\n5:30PM Reception\, 6:00PM Discussion\nWhat happens when the suc
+ cess you have worked toward brings unexpected questions rather than fulfil
+ lment? Join psychiatrist and author Dr. Blaise Aguirre for a keynote lectu
+ re exploring the emotional complexities of ambition\, achievement\, and wh
+ at comes next.\n\nDrawing on research for his forthcoming book\, Dr. Aguir
+ re will examine the imposter phenomenon - the feeling that we have not ear
+ ned our accomplishments - and the arrival fallacy\, the belief that reachi
+ ng a goal will deliver lasting happiness. From “Do I deserve to be here?
+ ” to “How do I sustain this?” and “What now?”\, he will explore 
+ the questions that can emerge when high achievers reach the milestones the
+ y once imagined would be enough.\n\nWith more than two decades of experien
+ ce in mental health and as founding medical director of 3East at McLean Ho
+ spital\, Dr. Aguirre brings a compassionate perspective to the pursuit of 
+ success. The conversation invites us to consider how we define achievement
+  - and how greater self-understanding can help us build a life that feels 
+ as meaningful as it looks.\n\n*This event is complimentary and reserved fo
+ r members only. Complimentary light bites and refreshments will be served.
+  Cancellations made within 24 hours of the event\, or failure to attend\, 
+ will result in a $25 charge.
 URL:https://members.thequinhouse.com/events/208799
 CATEGORIES:‘Quin Chat
 END:VEVENT
@@ -152,7 +105,7 @@ DTSTAMP:20261110T183000Z
 DTSTART;TZID=America/New_York:20261110T183000
 DTEND;TZID=America/New_York:20261110T200000
 SUMMARY:'Quin Chat: Old in the Game - A Reflection of Hip-Hop History 
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 15 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 16 spots left\nS
  tatus: Available\nEvent URL: https://members.thequinhouse.com/events/20880
  0\n\n6:30PM Reception\, 7:00PM Discussion \nIn celebration of Hip-Hop His
  tory Month\, join author Murray Forman\, Boston hip-hop pioneer Edward “
@@ -181,7 +134,7 @@ DTSTAMP:20261111T163000Z
 DTSTART;TZID=America/New_York:20261111T163000
 DTEND;TZID=America/New_York:20261111T180000
 SUMMARY:'Quin Chat: The Instinct of Opportunity with Mellody Hobson 
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 14 spots lef
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 20 spots lef
  t\nStatus: Waitlist Only\nEvent URL: https://members.thequinhouse.com/even
  ts/209103\n\n4:30PM Reception\, 5:00PM Discussion\n\nJoin Sandy Edgerley\,
   Co-Founder of The ’Quin House\, and Mellody Hobson\, Co-CEO of Ariel 
@@ -206,7 +159,7 @@ DTSTART;TZID=America/New_York:20261111T180000
 DTEND;TZID=America/New_York:20261111T193000
 SUMMARY:'Quin Chat: Liberation & Legacy - A Veterans Day Conversation
 LOCATION:Scottie's
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 54 spots lef
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 56 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/2
  10561\n\n6:00PM Reception\, 6:30PM Discussion \nThis Veterans Day\, join 
  The ’Quin for a conversation honoring the American soldiers who liberate
@@ -236,18 +189,19 @@ DTSTAMP:20261111T190000Z
 DTSTART;TZID=America/New_York:20261111T190000
 DTEND;TZID=America/New_York:20261111T203000
 SUMMARY:Meet the Maker: Tom Gamble of Gamble Estates
-DESCRIPTION:Category: Food & Beverage\nPrice: Free\nStatus: Waitlist Only\n
- Event URL: https://members.thequinhouse.com/events/209680\n\nGreat wine be
- gins long before the first pour. Join Tom Gamble\, Founder and Vigneron of
-  Gamble Estates\, for an exploration of Napa Valley through the lens of a 
- third-generation farmer. Begin with a welcome glass of 2025 Yountville Sa
- uvignon Blanc before discovering a selection of 2023 reds showcasing Mount
-  Veeder\, Rutherford\, and Oakville. Along the way\, Tom will share how r
- egenerative farming\, a century of family roots\, and a collaboration with
-  Atelier Melka shape wines that tell the story of their origins.\n\n*This 
- event is complimentary and reserved for members only. Complimentary light
-  bites and refreshments will be served. Cancellations made within 24 hour
- s of the event\, or failure to attend\, will result in a $25 charge.
+DESCRIPTION:Category: Food & Beverage\nPrice: Free\nAvailability: 1 spot le
+ ft\nStatus: Waitlist Only\nEvent URL: https://members.thequinhouse.com/eve
+ nts/209680\n\nGreat wine begins long before the first pour. Join Tom Gambl
+ e\, Founder and Vigneron of Gamble Estates\, for an exploration of Napa Va
+ lley through the lens of a third-generation farmer. Begin with a welcome 
+ glass of 2025 Yountville Sauvignon Blanc before discovering a selection of
+  2023 reds showcasing Mount Veeder\, Rutherford\, and Oakville. Along the
+  way\, Tom will share how regenerative farming\, a century of family roots
+ \, and a collaboration with Atelier Melka shape wines that tell the story 
+ of their origins.\n\n*This event is complimentary and reserved for members
+  only. Complimentary light bites and refreshments will be served. Cancel
+ lations made within 24 hours of the event\, or failure to attend\, will re
+ sult in a $25 charge.
 URL:https://members.thequinhouse.com/events/209680
 CATEGORIES:Food & Beverage
 END:VEVENT
@@ -302,7 +256,7 @@ DTSTART;TZID=America/New_York:20261113T140000
 DTEND;TZID=America/New_York:20261113T153000
 SUMMARY:'Quin Chat: The Art of the City - Why Cultural Philanthropy Matters
   Now
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 13 spots lef
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 16 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/2
  09681\n\n2:00PM Reception\, 2:30PM Discussion \n\nTo celebrate Town & Co
  untry’s milestone 180th anniversary\, Editor in Chief Stellene Volandes
@@ -491,7 +445,7 @@ DTSTART;TZID=America/New_York:20261117T130000
 DTEND;TZID=America/New_York:20261117T150000
 SUMMARY:90 Minutes of Innovation
 LOCATION:The Pub
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 75 spots lef
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 70 spots lef
  t\nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/
  events/209702\n\n1:00PM Program\, 2:30PM Networking\nWhat happens when art
  ificial intelligence steps off the screen and into the physical world? Joi
@@ -640,7 +594,7 @@ DTSTAMP:20261120T143000Z
 DTSTART;TZID=America/New_York:20261120T143000
 DTEND;TZID=America/New_York:20261120T160000
 SUMMARY:‘Quin Chat: Inside the Exhibition with Alexandre Gallery
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 42 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 26 spots left\nS
  tatus: Available\nEvent URL: https://members.thequinhouse.com/events/21149
  0\n\nJoin us in The Reading Room for a ’Quin Chat exploring the artists\
  , influences\, and connections behind our fall exhibition. Phil Alexandre\
