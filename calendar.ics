@@ -152,7 +152,7 @@ DTSTAMP:20261110T183000Z
 DTSTART;TZID=America/New_York:20261110T183000
 DTEND;TZID=America/New_York:20261110T200000
 SUMMARY:'Quin Chat: Old in the Game - A Reflection of Hip-Hop History 
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 12 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 15 spots left\nS
  tatus: Available\nEvent URL: https://members.thequinhouse.com/events/20880
  0\n\n6:30PM Reception\, 7:00PM Discussion \nIn celebration of Hip-Hop His
  tory Month\, join author Murray Forman\, Boston hip-hop pioneer Edward “
@@ -181,7 +181,7 @@ DTSTAMP:20261111T163000Z
 DTSTART;TZID=America/New_York:20261111T163000
 DTEND;TZID=America/New_York:20261111T180000
 SUMMARY:'Quin Chat: The Instinct of Opportunity with Mellody Hobson 
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 13 spots lef
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 14 spots lef
  t\nStatus: Waitlist Only\nEvent URL: https://members.thequinhouse.com/even
  ts/209103\n\n4:30PM Reception\, 5:00PM Discussion\n\nJoin Sandy Edgerley\,
   Co-Founder of The ’Quin House\, and Mellody Hobson\, Co-CEO of Ariel 
@@ -206,7 +206,7 @@ DTSTART;TZID=America/New_York:20261111T180000
 DTEND;TZID=America/New_York:20261111T193000
 SUMMARY:'Quin Chat: Liberation & Legacy - A Veterans Day Conversation
 LOCATION:Scottie's
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 57 spots lef
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 54 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/2
  10561\n\n6:00PM Reception\, 6:30PM Discussion \nThis Veterans Day\, join 
  The ’Quin for a conversation honoring the American soldiers who liberate
@@ -302,7 +302,7 @@ DTSTART;TZID=America/New_York:20261113T140000
 DTEND;TZID=America/New_York:20261113T153000
 SUMMARY:'Quin Chat: The Art of the City - Why Cultural Philanthropy Matters
   Now
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 14 spots lef
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 13 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/2
  09681\n\n2:00PM Reception\, 2:30PM Discussion \n\nTo celebrate Town & Co
  untry’s milestone 180th anniversary\, Editor in Chief Stellene Volandes
@@ -349,27 +349,27 @@ DTSTART;TZID=America/New_York:20261113T190000
 DTEND;TZID=America/New_York:20261113T203000
 SUMMARY:'Quin Chat: The Second Half of Athleticism - The Athlete's Dilemma
 LOCATION:The Muse
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 5 spots left
- \nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/20
- 9682\n\n7:00PM Reception\, 7:30PM Discussion \nWhat happens when organize
- d competition ends\, but the athlete in us remains? For those who once bui
- lt their lives around practices\, teammates\, and seasons\, stepping away 
- can raise questions of identity\, purpose\, and how we care for ourselves 
- beyond the demands of competition.\n\nDr. Rich Joseph\, Harvard Medical S
- chool faculty physician and Founder of VIM Medicine\, returns to The ’Qu
- in to launch a three-part series exploring what it means to remain an athl
- ete for life. He will moderate a conversation with Marcus Wilson\, co-foun
- der of NOBULL\; Ben Bergeron\, founder of CompTrain and coach to multiple 
- CrossFit Games champions\; and Jeremy Bettle\, a performance and sports sc
- ience leader whose work spans professional sports and who now leads Vitali
- ty Collective.\n\nTogether\, they will explore how we redefine ambition\, 
- find new sources of motivation\, and build a lasting relationship with mov
- ement. It’s a candid look at life after the final whistle—and how the 
- discipline\, resilience\, and sense of possibility that shaped us as compe
- titors can continue to serve us for decades to come.\n\n*This event is com
- plimentary and reserved for members only. Complimentary light bites and re
- freshments will be served. Cancellations made within 24 hours of the event
- \, or failure to attend\, will result in a $25 charge.
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nStatus: Waitlist Only\nEve
+ nt URL: https://members.thequinhouse.com/events/209682\n\n7:00PM Reception
+ \, 7:30PM Discussion \nWhat happens when organized competition ends\, but
+  the athlete in us remains? For those who once built their lives around pr
+ actices\, teammates\, and seasons\, stepping away can raise questions of i
+ dentity\, purpose\, and how we care for ourselves beyond the demands of co
+ mpetition.\n\nDr. Rich Joseph\, Harvard Medical School faculty physician 
+ and Founder of VIM Medicine\, returns to The ’Quin to launch a three-par
+ t series exploring what it means to remain an athlete for life. He will mo
+ derate a conversation with Marcus Wilson\, co-founder of NOBULL\; Ben Berg
+ eron\, founder of CompTrain and coach to multiple CrossFit Games champions
+ \; and Jeremy Bettle\, a performance and sports science leader whose work 
+ spans professional sports and who now leads Vitality Collective.\n\nTogeth
+ er\, they will explore how we redefine ambition\, find new sources of moti
+ vation\, and build a lasting relationship with movement. It’s a candid l
+ ook at life after the final whistle—and how the discipline\, resilience\
+ , and sense of possibility that shaped us as competitors can continue to s
+ erve us for decades to come.\n\n*This event is complimentary and reserved 
+ for members only. Complimentary light bites and refreshments will be serve
+ d. Cancellations made within 24 hours of the event\, or failure to attend\
+ , will result in a $25 charge.
 URL:https://members.thequinhouse.com/events/209682
 CATEGORIES:‘Quin Chat
 END:VEVENT
@@ -441,22 +441,22 @@ DTEND;TZID=America/New_York:20261116T210000
 SUMMARY:Serendipity Dinner: The Artist Table
 LOCATION:The Muse
 DESCRIPTION:Category: Food & Beverage\, Member Mixer\nPrice: $100.00 per pe
- rson\nAvailability: 6 spots left\nStatus: Available\nEvent URL: https://me
- mbers.thequinhouse.com/events/208802\n\nJoin us for an intimate evening of
-  thoughtful conversation\, new connections\, and exceptional dining\, host
- ed in part by The ’Quin House’s Art Curator\, Kate Chertavian. Bringin
- g her expertise and passion for the arts to the table\, Kate will help gui
- de conversations that may explore everything from The ’Quin’s own art 
- collection to the broader world of art and culture\, inviting fresh perspe
- ctives and meaningful exchanges along the way.\n\nOver a beautifully curat
- ed three-course dinner with expertly paired wines\, members will have the 
- opportunity to share stories\, exchange ideas\, and get to know one anothe
- r beyond the everyday. Settle in for an evening where engaging dialogue\, 
- great food\, and good company come together.\n\n*Tickets are $100 per pers
- on\, plus tax\, and are reserved for members only. Cancellations within 72
-  hours of the event\, or failure to attend\, will be charged in full. Plea
- se inform us of any dietary needs or restrictions by emailing happenings@t
- hequin.com at least 72 hours before dinner service.
+ rson\nStatus: Waitlist Only\nEvent URL: https://members.thequinhouse.com/e
+ vents/208802\n\nJoin us for an intimate evening of thoughtful conversation
+ \, new connections\, and exceptional dining\, hosted in part by The ’Qui
+ n House’s Art Curator\, Kate Chertavian. Bringing her expertise and pass
+ ion for the arts to the table\, Kate will help guide conversations that ma
+ y explore everything from The ’Quin’s own art collection to the broade
+ r world of art and culture\, inviting fresh perspectives and meaningful ex
+ changes along the way.\n\nOver a beautifully curated three-course dinner w
+ ith expertly paired wines\, members will have the opportunity to share sto
+ ries\, exchange ideas\, and get to know one another beyond the everyday. S
+ ettle in for an evening where engaging dialogue\, great food\, and good co
+ mpany come together.\n\n*Tickets are $100 per person\, plus tax\, and are 
+ reserved for members only. Cancellations within 72 hours of the event\, or
+  failure to attend\, will be charged in full. Please inform us of any diet
+ ary needs or restrictions by emailing happenings@thequin.com at least 72 h
+ ours before dinner service.
 URL:https://members.thequinhouse.com/events/208802
 CATEGORIES:Food & Beverage,Member Mixer
 END:VEVENT
@@ -491,7 +491,7 @@ DTSTART;TZID=America/New_York:20261117T130000
 DTEND;TZID=America/New_York:20261117T150000
 SUMMARY:90 Minutes of Innovation
 LOCATION:The Pub
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 81 spots lef
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 75 spots lef
  t\nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/
  events/209702\n\n1:00PM Program\, 2:30PM Networking\nWhat happens when art
  ificial intelligence steps off the screen and into the physical world? Joi
@@ -640,24 +640,24 @@ DTSTAMP:20261120T143000Z
 DTSTART;TZID=America/New_York:20261120T143000
 DTEND;TZID=America/New_York:20261120T160000
 SUMMARY:‘Quin Chat: Inside the Exhibition with Alexandre Gallery
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 120 spots left\n
- Status: futureSale\nEvent URL: https://members.thequinhouse.com/events/211
- 490\n\nJoin us in The Reading Room for a ’Quin Chat exploring the artist
- s\, influences\, and connections behind our fall exhibition. Phil Alexandr
- e\, President & Director of Alexandre Gallery\, joins artists Tessa Greene
-  O’Brien and Meghan Brady for a conversation moderated by The ’Quin’
- s art collection curator\, Kate Chertavian\, offering fresh perspectives o
- n the works on view throughout the ’House.\n\nSpanning the Lobby\, Grand
-  Staircase\, and Reading Room\, the exhibition features 25 works on loan t
- hrough Alexandre Gallery\, including paintings by Lois Dodd\, Loren MacIve
- r\, Pat Adams\, Tessa Greene O’Brien\, Lisa Sanditz\, Meghan Brady and E
- mily Nelligan. Together\, we will explore how these artists translate the 
- world around them through distinct approaches to color\, form\, landscape\
- , and abstraction - and consider the shared influences and individual visi
- ons that connect their work across generations.\n\n*This event is complime
- ntary and reserved for members\, plus one guest. Complimentary light bit
- es and refreshments will be served. Cancellations made within 24 hours of 
- the event\, or failure to attend\, will result in a $25 charge.
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 42 spots left\nS
+ tatus: Available\nEvent URL: https://members.thequinhouse.com/events/21149
+ 0\n\nJoin us in The Reading Room for a ’Quin Chat exploring the artists\
+ , influences\, and connections behind our fall exhibition. Phil Alexandre\
+ , President & Director of Alexandre Gallery\, joins artists Tessa Greene O
+ ’Brien and Meghan Brady for a conversation moderated by The ’Quin’s 
+ art collection curator\, Kate Chertavian\, offering fresh perspectives on 
+ the works on view throughout the ’House.\n\nSpanning the Lobby\, Grand S
+ taircase\, and Reading Room\, the exhibition features 25 works on loan thr
+ ough Alexandre Gallery\, including paintings by Lois Dodd\, Loren MacIver\
+ , Pat Adams\, Tessa Greene O’Brien\, Lisa Sanditz\, Meghan Brady and Emi
+ ly Nelligan. Together\, we will explore how these artists translate the wo
+ rld around them through distinct approaches to color\, form\, landscape\, 
+ and abstraction - and consider the shared influences and individual vision
+ s that connect their work across generations.\n\n*This event is compliment
+ ary and reserved for members\, plus one guest. Complimentary light bites
+  and refreshments will be served. Cancellations made within 24 hours of th
+ e event\, or failure to attend\, will result in a $25 charge.
 URL:https://members.thequinhouse.com/events/211490
 CATEGORIES:The Arts
 END:VEVENT
@@ -707,7 +707,7 @@ DTEND;TZID=America/New_York:20261124T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 24 spots left\nStatus: Available\nEvent URL: https://memb
+ e\nAvailability: 23 spots left\nStatus: Available\nEvent URL: https://memb
  ers.thequinhouse.com/events/208959\n\nEase into the week in good company a
  t our weekly Member Mingle\, a relaxed gathering in The Living Room design
  ed to bring members together. Settle in\, enjoy a selection of charcuterie
@@ -730,16 +730,16 @@ DTSTART;TZID=America/New_York:20261124T180000
 DTEND;TZID=America/New_York:20261124T190000
 SUMMARY:Stand Up Comedy: Paul Mecurio | 6:00PM Show
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 1 spot left\nSta
- tus: Waitlist Only\nEvent URL: https://members.thequinhouse.com/events/209
- 712\n\nBoston’s best return to the 'House! Improv Asylum comedians are r
- eady to make you laugh through short stand-up sets. Grab a drink from the 
- bar starting at 5:00pm\, then find a seat for the main event - seating is 
- first come\, first serve. \n\nMake it a night with a pre-show burger and 
- a beer from The Pub. Dining walk-ins are welcome!\n\n*This event is compli
- mentary and reserved for members only. Complimentary light bites and refre
- shments will be served. Cancellations made within 24 hours of the event\, 
- or failure to attend\, will result in a $25 charge.
+DESCRIPTION:Category: The Arts\nPrice: Free\nStatus: Waitlist Only\nEvent U
+ RL: https://members.thequinhouse.com/events/209712\n\nBoston’s best retu
+ rn to the 'House! Improv Asylum comedians are ready to make you laugh thro
+ ugh short stand-up sets. Grab a drink from the bar starting at 5:00pm\, th
+ en find a seat for the main event - seating is first come\, first serve. 
+ \n\nMake it a night with a pre-show burger and a beer from The Pub. Dining
+  walk-ins are welcome!\n\n*This event is complimentary and reserved for me
+ mbers only. Complimentary light bites and refreshments will be served. Can
+ cellations made within 24 hours of the event\, or failure to attend\, will
+  result in a $25 charge.
 URL:https://members.thequinhouse.com/events/209712
 CATEGORIES:The Arts
 END:VEVENT
@@ -769,20 +769,20 @@ DTSTAMP:20261201T100000Z
 DTSTART;TZID=America/New_York:20261201T100000
 DTEND;TZID=America/New_York:20261201T113000
 SUMMARY:BVLGARI: High Jewelry Presentation | Session I
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 40 spots left\nS
- tatus: futureSale\nEvent URL: https://members.thequinhouse.com/events/2110
- 97\n\n10:00AM Reception\, 10:30AM Presentation\nDiscover the world of BVLG
- ARI\, where Italian artistry\, heritage\, and distinctive design come toge
- ther. Founded in Rome in 1884 by Greek silversmith Sotirio Bulgari\, the c
- elebrated jewelry Maison draws inspiration from the art\, architecture\, a
- nd grandeur of the Eternal City.\n\nJoin us at The ’Quin for an intimate
-  exploration of the Maison’s rich history\, creative vision\, and enduri
- ng dedication to craftsmanship. Discover a curated selection of BVLGARI cr
- eations in person\, with an opportunity to appreciate the artistry and det
- ails that define its unmistakable style.\n\n*This event is complimentary a
- nd reserved for members only. Complimentary light bites and refreshments w
- ill be served. Cancellations made within 24 hours of the event\, or failur
- e to attend\, will result in a $25 charge.
+DESCRIPTION:Category: The Arts\nPrice: Free\nStatus: Waitlist Only\nEvent U
+ RL: https://members.thequinhouse.com/events/211097\n\n10:00AM Reception\, 
+ 10:30AM Presentation\nDiscover the world of BVLGARI\, where Italian artist
+ ry\, heritage\, and distinctive design come together. Founded in Rome in 1
+ 884 by Greek silversmith Sotirio Bulgari\, the celebrated jewelry Maison d
+ raws inspiration from the art\, architecture\, and grandeur of the Eternal
+  City.\n\nJoin us at The ’Quin for an intimate exploration of the Maison
+ ’s rich history\, creative vision\, and enduring dedication to craftsman
+ ship. Discover a curated selection of BVLGARI creations in person\, with a
+ n opportunity to appreciate the artistry and details that define its unmis
+ takable style.\n\n*This event is complimentary and reserved for members on
+ ly. Complimentary light bites and refreshments will be served. Cancellatio
+ ns made within 24 hours of the event\, or failure to attend\, will result 
+ in a $25 charge.
 URL:https://members.thequinhouse.com/events/211097
 CATEGORIES:The Arts
 END:VEVENT
@@ -792,20 +792,20 @@ DTSTAMP:20261201T130000Z
 DTSTART;TZID=America/New_York:20261201T130000
 DTEND;TZID=America/New_York:20261201T143000
 SUMMARY:BVLGARI: High Jewelry Presentation | Session II
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 40 spots left\nS
- tatus: futureSale\nEvent URL: https://members.thequinhouse.com/events/2110
- 98\n\n1:00PM Reception\, 1:30PM Presentation\nDiscover the world of BVLGAR
- I\, where Italian artistry\, heritage\, and distinctive design come togeth
- er. Founded in Rome in 1884 by Greek silversmith Sotirio Bulgari\, the cel
- ebrated jewelry Maison draws inspiration from the art\, architecture\, and
-  grandeur of the Eternal City.\n\nJoin us at The ’Quin for an intimate e
- xploration of the Maison’s rich history\, creative vision\, and enduring
-  dedication to craftsmanship. Discover a curated selection of BVLGARI crea
- tions in person\, with an opportunity to appreciate the artistry and detai
- ls that define its unmistakable style.\n\n*This event is complimentary and
-  reserved for members only. Complimentary light bites and refreshments wil
- l be served. Cancellations made within 24 hours of the event\, or failure 
- to attend\, will result in a $25 charge.
+DESCRIPTION:Category: The Arts\nPrice: Free\nStatus: Waitlist Only\nEvent U
+ RL: https://members.thequinhouse.com/events/211098\n\n1:00PM Reception\, 1
+ :30PM Presentation\nDiscover the world of BVLGARI\, where Italian artistry
+ \, heritage\, and distinctive design come together. Founded in Rome in 188
+ 4 by Greek silversmith Sotirio Bulgari\, the celebrated jewelry Maison dra
+ ws inspiration from the art\, architecture\, and grandeur of the Eternal C
+ ity.\n\nJoin us at The ’Quin for an intimate exploration of the Maison�
+ �s rich history\, creative vision\, and enduring dedication to craftsmansh
+ ip. Discover a curated selection of BVLGARI creations in person\, with an 
+ opportunity to appreciate the artistry and details that define its unmista
+ kable style.\n\n*This event is complimentary and reserved for members only
+ . Complimentary light bites and refreshments will be served. Cancellations
+  made within 24 hours of the event\, or failure to attend\, will result in
+  a $25 charge.
 URL:https://members.thequinhouse.com/events/211098
 CATEGORIES:The Arts
 END:VEVENT
