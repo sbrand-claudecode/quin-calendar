@@ -46,35 +46,6 @@ URL:https://members.thequinhouse.com/events/209097
 CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
-UID:quin-event-209681@thequinhouse.com
-DTSTAMP:20261113T140000Z
-DTSTART;TZID=America/New_York:20261113T140000
-DTEND;TZID=America/New_York:20261113T153000
-SUMMARY:'Quin Chat: The Art of the City - Why Cultural Philanthropy Matters
-  Now
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 27 spots lef
- t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/2
- 09681\n\n2:00PM Reception\, 2:30PM Discussion \n\nTo celebrate Town & Co
- untry’s milestone 180th anniversary\, Editor in Chief Stellene Volandes
-  and The ‘Quin Co-Founder Sandy Edgerley will host a timely conversation
-  on the vital role cultural philanthropy plays in shaping Boston and its f
- uture.\n\nThe Art of the City - Why Cultural Philanthropy Matters Now brin
- gs together an extraordinary group of leaders from across Boston’s cultu
- ral\, civic\, and philanthropic communities to explore the power of the ar
- ts\, the importance of investing in our cultural institutions\, and the fu
- ture of philanthropy for the next generation.\n\nJoining the conversation 
- along with Stellene and Sandy will be Peggy Fogelman\, Norma Jean Calderwo
- od Director of the Isabella Stewart Gardner Museum and Joseph Henry\, Chie
- f\, Mayor’s Office of Arts and Culture\, City of Boston.\n\nThe discussi
- on will be moderated by Adam Rathe\, Senior Features Director at Town & C
- ountry. A Q&A will follow.\n\n*This event is complimentary and reserved fo
- r members only. Complimentary light bites and refreshments will be served
- . Cancellations made within 24 hours of the event\, or failure to attend\
- , will result in a $25 charge.
-URL:https://members.thequinhouse.com/events/209681
-CATEGORIES:‘Quin Chat
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-208597@thequinhouse.com
 DTSTAMP:20261113T183000Z
 DTSTART;TZID=America/New_York:20261113T183000
@@ -99,27 +70,27 @@ DTSTART;TZID=America/New_York:20261113T190000
 DTEND;TZID=America/New_York:20261113T203000
 SUMMARY:'Quin Chat: The Second Half of Athleticism - The Athlete's Dilemma
 LOCATION:The Muse
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 7 spots left
- \nStatus: Waitlist Only\nEvent URL: https://members.thequinhouse.com/event
- s/209682\n\n7:00PM Reception\, 7:30PM Discussion \nWhat happens when orga
- nized competition ends\, but the athlete in us remains? For those who once
-  built their lives around practices\, teammates\, and seasons\, stepping a
- way can raise questions of identity\, purpose\, and how we care for oursel
- ves beyond the demands of competition.\n\nDr. Rich Joseph\, Harvard Medic
- al School faculty physician and Founder of VIM Medicine\, returns to The �
- ��Quin to launch a three-part series exploring what it means to remain an 
- athlete for life. He will moderate a conversation with Marcus Wilson\, co-
- founder of NOBULL\; Ben Bergeron\, founder of CompTrain and coach to multi
- ple CrossFit Games champions\; and Jeremy Bettle\, a performance and sport
- s science leader whose work spans professional sports and who now leads Vi
- tality Collective.\n\nTogether\, they will explore how we redefine ambitio
- n\, find new sources of motivation\, and build a lasting relationship with
-  movement. It’s a candid look at life after the final whistle—and how 
- the discipline\, resilience\, and sense of possibility that shaped us as c
- ompetitors can continue to serve us for decades to come.\n\n*This event is
-  complimentary and reserved for members only. Complimentary light bites an
- d refreshments will be served. Cancellations made within 24 hours of the e
- vent\, or failure to attend\, will result in a $25 charge.
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 10 spots lef
+ t\nStatus: Waitlist Only\nEvent URL: https://members.thequinhouse.com/even
+ ts/209682\n\n7:00PM Reception\, 7:30PM Discussion \nWhat happens when org
+ anized competition ends\, but the athlete in us remains? For those who onc
+ e built their lives around practices\, teammates\, and seasons\, stepping 
+ away can raise questions of identity\, purpose\, and how we care for ourse
+ lves beyond the demands of competition.\n\nDr. Rich Joseph\, Harvard Medi
+ cal School faculty physician and Founder of VIM Medicine\, returns to The 
+ ’Quin to launch a three-part series exploring what it means to remain an
+  athlete for life. He will moderate a conversation with Marcus Wilson\, co
+ -founder of NOBULL\; Ben Bergeron\, founder of CompTrain and coach to mult
+ iple CrossFit Games champions\; and Jeremy Bettle\, a performance and spor
+ ts science leader whose work spans professional sports and who now leads V
+ itality Collective.\n\nTogether\, they will explore how we redefine ambiti
+ on\, find new sources of motivation\, and build a lasting relationship wit
+ h movement. It’s a candid look at life after the final whistle—and how
+  the discipline\, resilience\, and sense of possibility that shaped us as 
+ competitors can continue to serve us for decades to come.\n\n*This event i
+ s complimentary and reserved for members only. Complimentary light bites a
+ nd refreshments will be served. Cancellations made within 24 hours of the 
+ event\, or failure to attend\, will result in a $25 charge.
 URL:https://members.thequinhouse.com/events/209682
 CATEGORIES:‘Quin Chat
 END:VEVENT
@@ -241,7 +212,7 @@ DTSTART;TZID=America/New_York:20261117T130000
 DTEND;TZID=America/New_York:20261117T150000
 SUMMARY:90 Minutes of Innovation
 LOCATION:The Pub
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 66 spots lef
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 37 spots lef
  t\nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/
  events/209702\n\n1:00PM Program\, 2:30PM Networking\nWhat happens when art
  ificial intelligence steps off the screen and into the physical world? Joi
@@ -277,7 +248,7 @@ DTEND;TZID=America/New_York:20261117T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 29 spots left\nStatus: Available\nEvent URL: https://memb
+ e\nAvailability: 28 spots left\nStatus: Available\nEvent URL: https://memb
  ers.thequinhouse.com/events/208958\n\nEase into the week in good company a
  t our weekly Member Mingle\, a relaxed gathering in The Living Room design
  ed to bring members together. Settle in\, enjoy a selection of charcuterie
@@ -390,24 +361,24 @@ DTSTAMP:20261120T143000Z
 DTSTART;TZID=America/New_York:20261120T143000
 DTEND;TZID=America/New_York:20261120T160000
 SUMMARY:‘Quin Chat: Inside the Exhibition with Alexandre Gallery
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 9 spots left\nSt
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 3 spots left\nSt
  atus: Available\nEvent URL: https://members.thequinhouse.com/events/211490
  \n\nJoin us in The Reading Room for a ’Quin Chat exploring the artists\,
   influences\, and connections behind our fall exhibition. Phil Alexandre\,
-  President & Director of Alexandre Gallery\, joins artists Tessa Greene O�
- ��Brien and Meghan Brady for a conversation moderated by The ’Quin’s a
- rt collection curator\, Kate Chertavian\, offering fresh perspectives on t
- he works on view throughout the ’House.\n\nSpanning the Lobby\, Grand St
- aircase\, and Reading Room\, the exhibition features 25 works on loan thro
- ugh Alexandre Gallery\, including paintings by Lois Dodd\, Loren MacIver\,
-  Pat Adams\, Tessa Greene O’Brien\, Lisa Sanditz\, Meghan Brady and Emil
- y Nelligan. Together\, we will explore how these artists translate the wor
- ld around them through distinct approaches to color\, form\, landscape\, a
- nd abstraction - and consider the shared influences and individual visions
-  that connect their work across generations.\n\n*This event is complimenta
- ry and reserved for members\, plus one guest. Complimentary light bites 
- and refreshments will be served. Cancellations made within 24 hours of the
-  event\, or failure to attend\, will result in a $25 charge.
+  President & Director of Alexandre Gallery\, joins artist Tessa Greene O�
+ �Brien for a conversation moderated by The ’Quin’s art collection cura
+ tor\, Kate Chertavian\, offering fresh perspectives on the works on view t
+ hroughout the ’House.\n\nSpanning the Lobby\, Grand Staircase\, and Read
+ ing Room\, the exhibition features 25 works on loan through Alexandre Gall
+ ery\, including paintings by Lois Dodd\, Loren MacIver\, Pat Adams\, Tessa
+  Greene O’Brien\, Lisa Sanditz\, Meghan Brady and Emily Nelligan. Togeth
+ er\, we will explore how these artists translate the world around them thr
+ ough distinct approaches to color\, form\, landscape\, and abstraction - a
+ nd consider the shared influences and individual visions that connect thei
+ r work across generations.\n\n*This event is complimentary and reserved fo
+ r members\, plus one guest. Complimentary light bites and refreshments w
+ ill be served. Cancellations made within 24 hours of the event\, or failur
+ e to attend\, will result in a $25 charge.
 URL:https://members.thequinhouse.com/events/211490
 CATEGORIES:The Arts
 END:VEVENT
@@ -457,7 +428,7 @@ DTEND;TZID=America/New_York:20261124T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 22 spots left\nStatus: Available\nEvent URL: https://memb
+ e\nAvailability: 21 spots left\nStatus: Available\nEvent URL: https://memb
  ers.thequinhouse.com/events/208959\n\nEase into the week in good company a
  t our weekly Member Mingle\, a relaxed gathering in The Living Room design
  ed to bring members together. Settle in\, enjoy a selection of charcuterie
@@ -560,6 +531,34 @@ URL:https://members.thequinhouse.com/events/211098
 CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
+UID:quin-event-211080@thequinhouse.com
+DTSTAMP:20261201T160000Z
+DTSTART;TZID=America/New_York:20261201T160000
+DTEND;TZID=America/New_York:20261201T180000
+SUMMARY:Hands On Impact: Pine Street Inn
+LOCATION:Offsite: Pine Street Inn
+DESCRIPTION:Category: ‘Quin Impact Fund\, The 'Quin Impact Fund\nPrice: F
+ ree\nAvailability: 20 spots left\nStatus: futureSale\nEvent URL: https://m
+ embers.thequinhouse.com/events/211080\n\nJoin fellow members for a meaning
+ ful evening of service at Pine Street Inn’s Men’s Inn shelter\, helpin
+ g serve dinner to guests in a welcoming\, restaurant-style setting. Throug
+ h a shared meal and thoughtful hospitality\, volunteers help create an atm
+ osphere where every guest feels welcomed\, respected\, and cared for.\n\nT
+ his hands-on opportunity supports Pine Street Inn’s mission of helping i
+ ndividuals move from homelessness to stable housing. Come together to give
+  your time\, connect with the broader Boston community\, and contribute to
+  an evening centered on dignity\, kindness\, and the comfort of a warm mea
+ l.\n\n*This event is complimentary and reserved for members only. To ensur
+ e a smooth and comfortable volunteer experience\, we ask that attire be bo
+ th respectful and practical- long pants and closed-toe shoes are required.
+  All volunteers will need to wear a hat or hairnet\; you are welcome to br
+ ing your own baseball cap\, or a hairnet will be provided. Volunteers with
+  facial hair will be required to wear a beardnet to maintain a safe and po
+ lished service environment.
+URL:https://members.thequinhouse.com/events/211080
+CATEGORIES:‘Quin Impact Fund,The 'Quin Impact Fund
+END:VEVENT
+BEGIN:VEVENT
 UID:quin-event-211604@thequinhouse.com
 DTSTAMP:20261202T183000Z
 DTSTART;TZID=America/New_York:20261202T183000
@@ -653,7 +652,7 @@ DTEND;TZID=America/New_York:20261205T140000
 SUMMARY:Serendipity Brunch with 'Quin Impact Fund
 LOCATION:Lunasol
 DESCRIPTION:Category: ‘Quin Impact Fund\, Food & Beverage\, Member Mixer\
- nPrice: $65.00 per person\nAvailability: 15 spots left\nStatus: Available\
+ nPrice: $65.00 per person\nAvailability: 14 spots left\nStatus: Available\
  nEvent URL: https://members.thequinhouse.com/events/210997\n\nMake your Sa
  turday a little more serendipitous with a leisurely brunch hosted by the S
  enior Director of The ’Quin Impact Fund\, Michelle Perez. Gather in Luna
@@ -674,6 +673,37 @@ URL:https://members.thequinhouse.com/events/210997
 CATEGORIES:‘Quin Impact Fund,Food & Beverage,Member Mixer
 END:VEVENT
 BEGIN:VEVENT
+UID:quin-event-211944@thequinhouse.com
+DTSTAMP:20261207T170000Z
+DTSTART;TZID=America/New_York:20261207T170000
+DTEND;TZID=America/New_York:20261207T190000
+SUMMARY:Author Talk: "Unspeakable" with Christina Wing
+LOCATION:Scottie's
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 100 spots left\n
+ Status: futureSale\nEvent URL: https://members.thequinhouse.com/events/211
+ 944\n\n5:00PM Reception\, 5:30PM Discussion\n\nSome of the most important 
+ conversations are the ones we hesitate to have. Join Harvard Business Scho
+ ol faculty member\, Wingspan Legacy Partners founder\, and author Christin
+ a Wing for a thoughtful conversation with The ’Quin House Co-Founder San
+ dy Edgerley\, exploring Wing’s latest book\, Unspeakable: The Taboo Topi
+ cs We Avoid and How to Talk About Them. From money and succession to failu
+ re\, retirement\, and family dynamics\, Wing examines why certain subjects
+  feel off-limits\, and how avoiding them can quietly undermine trust\, rel
+ ationships\, and the decisions that shape our lives.\n\nDrawing on decades
+  of experience across classrooms\, boardrooms\, and family enterprises\, W
+ ing will share stories and practical tools for approaching sensitive conve
+ rsations with clarity\, compassion\, and respect. In dialogue with Sandy E
+ dgerley\, she will explore what becomes possible when we move beyond small
+  talk\, offering members fresh perspectives on navigating difficult discus
+ sions and building stronger\, more honest connections at work and at home.
+ \n\n*This event is complimentary and reserved for members only. Compliment
+ ary light bites and refreshments will be served. Cancellations made within
+  24 hours of the event\, or failure to attend\, will result in a $25 charg
+ e.
+URL:https://members.thequinhouse.com/events/211944
+CATEGORIES:The Arts
+END:VEVENT
+BEGIN:VEVENT
 UID:quin-event-176004@thequinhouse.com
 DTSTAMP:20261207T183000Z
 DTSTART;TZID=America/New_York:20261207T183000
@@ -681,7 +711,7 @@ DTEND;TZID=America/New_York:20261207T210000
 SUMMARY:Serendipity Dinner 
 LOCATION:The Muse
 DESCRIPTION:Category: Member Mixer\nPrice: $100.00 per person\nAvailability
- : 18 spots left\nStatus: Available\nEvent URL: https://members.thequinhous
+ : 16 spots left\nStatus: Available\nEvent URL: https://members.thequinhous
  e.com/events/176004\n\nJoin The ’Quin House Director of Membership\, Lis
  a Flores\, for an intimate evening centered around thoughtful conversation
  \, new connections\, and exceptional dining. Over a beautifully curated th
@@ -697,6 +727,38 @@ DESCRIPTION:Category: Member Mixer\nPrice: $100.00 per person\nAvailability
  vice.
 URL:https://members.thequinhouse.com/events/176004
 CATEGORIES:Member Mixer
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-211943@thequinhouse.com
+DTSTAMP:20261208T173000Z
+DTSTART;TZID=America/New_York:20261208T173000
+DTEND;TZID=America/New_York:20261208T190000
+SUMMARY:'Quin Chat & Screening: "MANGOK" 
+LOCATION:The Muse
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 60 spots lef
+ t\nStatus: futureSale\nEvent URL: https://members.thequinhouse.com/events/
+ 211943\n\n5:30PM Reception\, 6:00PM Screening\, 6:25PM Discussion\nTwo day
+ s before World Human Rights Day\, join us for a moving ’Quin Chat with M
+ angok Bol\, filmmaker Joshua Bennett\, and RefugePoint founder Sasha Chano
+ ff\, exploring the extraordinary story behind Bennett’s documentary\, MA
+ NGOK. A South Sudanese “Lost Boy” who made Boston his home\, Mangok sp
+ ent more than a decade searching for family members separated by war. Afte
+ r learning that his brother and sister-in-law had been killed and their fo
+ ur children were missing\, he embarked on a determined search with the sup
+ port of Chanoff and RefugePoint. Three of his nieces and nephews have sinc
+ e been welcomed to Boston\, while the search for the fourth continues in S
+ outh Sudan.\n\nThrough a conversation about perseverance\, family reunific
+ ation\, and the profound impact of community\, our guests will reflect on 
+ the personal journey at the heart of the film and the broader challenges f
+ acing displaced families around the world. Together\, we will explore what
+  it means to rebuild a life\, the bonds that endure across borders\, and h
+ ow one person’s refusal to give up can inspire a community to open its d
+ oors and its heart.\n\n*This event is complimentary and reserved for membe
+ rs only. Complimentary light bites and refreshments will be served. Cancel
+ lations made within 24 hours of the event\, or failure to attend\, will re
+ sult in a $25 charge.
+URL:https://members.thequinhouse.com/events/211943
+CATEGORIES:‘Quin Chat
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-176377@thequinhouse.com
@@ -717,6 +779,30 @@ URL:https://members.thequinhouse.com/events/176377
 CATEGORIES:The Arts
 END:VEVENT
 BEGIN:VEVENT
+UID:quin-event-211942@thequinhouse.com
+DTSTAMP:20261210T110000Z
+DTSTART;TZID=America/New_York:20261210T110000
+DTEND;TZID=America/New_York:20261210T120000
+SUMMARY:Art Tour: How The 'Quin Collection Came Together
+LOCATION:Meet in The Lobby
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 30 spots left\nS
+ tatus: futureSale\nEvent URL: https://members.thequinhouse.com/events/2119
+ 42\n\nKate Chertavian Fine Art's curation of the 'Quin sought to broaden t
+ he Algonquin Club's historic collection by introducing a talented group of
+  artists who have local\, national\, and international stories and backgro
+ unds. Please join 'Quin House curator Kate Chertavian for an art tour focu
+ sed on the curatorial process of building the 'Quin's collection. The disc
+ ussion will include insights into the collaborative process of selection\,
+  placement\, and installation of these artworks which have come to define 
+ the spirit of the club. The tour will begin in the Lobby and continue thro
+ ugh the Grand Staircase and Reading Room\, highlighting key works and the 
+ stories behind them. \n\n*This event is complimentary and reserved for mem
+ bers\, plus one guest. We kindly ask that all cancellations be made at lea
+ st 24 hours prior to the start of the event.
+URL:https://members.thequinhouse.com/events/211942
+CATEGORIES:The Arts
+END:VEVENT
+BEGIN:VEVENT
 UID:quin-event-211940@thequinhouse.com
 DTSTAMP:20261214T180000Z
 DTSTART;TZID=America/New_York:20261214T180000
@@ -724,7 +810,7 @@ DTEND;TZID=America/New_York:20261214T210000
 SUMMARY:Community Table
 LOCATION:Café Q
 DESCRIPTION:Category: Food & Beverage\nPrice: Free\nAvailability: 999999999
- 998 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
+ 995 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
  .com/events/211940\n\nEase into the week around the table with the return 
  of Café Q’s Community Table. Designed for members looking to meet new f
  aces and make new connections\, the evening brings together good food and 
@@ -793,20 +879,20 @@ DTSTART;TZID=America/New_York:20261225T143000
 DTEND;TZID=America/New_York:20261225T170000
 SUMMARY:'Quin Suite: Celtics vs. Heat - Christmas Day Game
 DESCRIPTION:Category: Sports & Games\nPrice: $475.00 per person\nAvailabili
- ty: 4 spots left\nStatus: Available\nEvent URL: https://members.thequinhou
- se.com/events/207112\n\nMake it a green Christmas from The ’Quin Suite (
- #524) at TD Garden as the Celtics take on the Miami Heat. Gather with fami
- ly\, friends\, and fellow members for a festive afternoon of basketball\, 
- holiday spirit\, and cheering on the Celtics.\n\nAll suite ticket options 
- include incredible views of the on-court action\, light gameday bites\, an
- d an assortment of refreshments\, including wine\, beer\, and seltzer. Con
- sider your Christmas plans a slam dunk.\n\n*A pair of 'Quin suite seats is
-  available for $995 total ($497.50 per ticket). Individual suite tickets a
- re available for bar stool / standing access only\, offered at a reduced p
- rice of $475 per ticket. Suite tickets are non-refundable and are non-tran
- sferable. Members may purchase tickets for up to 3 guests and are required
-  to accompany them at all times. The suite is limited to those ages 16+ as
-  a courtesy to fellow members.
+ ty: 1 spot left\nStatus: Available\nEvent URL: https://members.thequinhous
+ e.com/events/207112\n\nMake it a green Christmas from The ’Quin Suite (#
+ 524) at TD Garden as the Celtics take on the Miami Heat. Gather with famil
+ y\, friends\, and fellow members for a festive afternoon of basketball\, h
+ oliday spirit\, and cheering on the Celtics.\n\nAll suite ticket options i
+ nclude incredible views of the on-court action\, light gameday bites\, and
+  an assortment of refreshments\, including wine\, beer\, and seltzer. Cons
+ ider your Christmas plans a slam dunk.\n\n*A pair of 'Quin suite seats is 
+ available for $995 total ($497.50 per ticket). Individual suite tickets ar
+ e available for bar stool / standing access only\, offered at a reduced pr
+ ice of $475 per ticket. Suite tickets are non-refundable and are non-trans
+ ferable. Members may purchase tickets for up to 3 guests and are required 
+ to accompany them at all times. The suite is limited to those ages 16+ as 
+ a courtesy to fellow members.
 URL:https://members.thequinhouse.com/events/207112
 CATEGORIES:Sports & Games
 END:VEVENT
@@ -893,7 +979,7 @@ DTEND;TZID=America/New_York:20270129T220000
 SUMMARY:'Quin Suite: Celtics vs. Suns
 LOCATION:Offsite - TD Garden
 DESCRIPTION:Category: Sports & Games\nPrice: $475.00 per person\nAvailabili
- ty: 5 spots left\nStatus: Available\nEvent URL: https://members.thequinhou
+ ty: 4 spots left\nStatus: Available\nEvent URL: https://members.thequinhou
  se.com/events/207116\n\nCheer on the Celtics from The ’Quin Suite (#524)
   at TD Garden as they take on the Phoenix Suns in regular-season action. G
  ather with fellow members for an evening as Boston brings the heat to Phoe
