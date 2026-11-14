@@ -163,7 +163,7 @@ DTSTART;TZID=America/New_York:20261117T130000
 DTEND;TZID=America/New_York:20261117T150000
 SUMMARY:90 Minutes of Innovation
 LOCATION:The Pub
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 30 spots lef
+DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 28 spots lef
  t\nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/
  events/209702\n\n1:00PM Program\, 2:30PM Networking\nWhat happens when art
  ificial intelligence steps off the screen and into the physical world? Joi
@@ -199,7 +199,7 @@ DTEND;TZID=America/New_York:20261117T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 27 spots left\nStatus: Available\nEvent URL: https://memb
+ e\nAvailability: 26 spots left\nStatus: Available\nEvent URL: https://memb
  ers.thequinhouse.com/events/208958\n\nEase into the week in good company a
  t our weekly Member Mingle\, a relaxed gathering in The Living Room design
  ed to bring members together. Settle in\, enjoy a selection of charcuterie
@@ -312,24 +312,24 @@ DTSTAMP:20261120T143000Z
 DTSTART;TZID=America/New_York:20261120T143000
 DTEND;TZID=America/New_York:20261120T160000
 SUMMARY:‘Quin Chat: Inside the Exhibition with Alexandre Gallery
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 1 spot left\nSta
- tus: Available\nEvent URL: https://members.thequinhouse.com/events/211490\
- n\nJoin us in The Reading Room for a ’Quin Chat exploring the artists\, 
- influences\, and connections behind our fall exhibition. Phil Alexandre\, 
- President & Director of Alexandre Gallery\, joins artist Tessa Greene O’
- Brien for a conversation moderated by The ’Quin’s art collection curat
- or\, Kate Chertavian\, offering fresh perspectives on the works on view th
- roughout the ’House.\n\nSpanning the Lobby\, Grand Staircase\, and Readi
- ng Room\, the exhibition features 25 works on loan through Alexandre Galle
- ry\, including paintings by Lois Dodd\, Loren MacIver\, Pat Adams\, Tessa 
- Greene O’Brien\, Lisa Sanditz\, Meghan Brady and Emily Nelligan. Togethe
- r\, we will explore how these artists translate the world around them thro
- ugh distinct approaches to color\, form\, landscape\, and abstraction - an
- d consider the shared influences and individual visions that connect their
-  work across generations.\n\n*This event is complimentary and reserved for
-  members\, plus one guest. Complimentary light bites and refreshments wi
- ll be served. Cancellations made within 24 hours of the event\, or failure
-  to attend\, will result in a $25 charge.
+DESCRIPTION:Category: The Arts\nPrice: Free\nStatus: Waitlist Only\nEvent U
+ RL: https://members.thequinhouse.com/events/211490\n\nJoin us in The Readi
+ ng Room for a ’Quin Chat exploring the artists\, influences\, and connec
+ tions behind our fall exhibition. Phil Alexandre\, President & Director of
+  Alexandre Gallery\, joins artist Tessa Greene O’Brien for a conversatio
+ n moderated by The ’Quin’s art collection curator\, Kate Chertavian\, 
+ offering fresh perspectives on the works on view throughout the ’House.\
+ n\nSpanning the Lobby\, Grand Staircase\, and Reading Room\, the exhibitio
+ n features 25 works on loan through Alexandre Gallery\, including painting
+ s by Lois Dodd\, Loren MacIver\, Pat Adams\, Tessa Greene O’Brien\, Lisa
+  Sanditz\, Meghan Brady and Emily Nelligan. Together\, we will explore how
+  these artists translate the world around them through distinct approaches
+  to color\, form\, landscape\, and abstraction - and consider the shared i
+ nfluences and individual visions that connect their work across generation
+ s.\n\n*This event is complimentary and reserved for members\, plus one gu
+ est. Complimentary light bites and refreshments will be served. Cancellat
+ ions made within 24 hours of the event\, or failure to attend\, will resul
+ t in a $25 charge.
 URL:https://members.thequinhouse.com/events/211490
 CATEGORIES:The Arts
 END:VEVENT
