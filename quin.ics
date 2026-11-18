@@ -23,39 +23,4 @@ DTSTART:19701101T020000
 RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 END:STANDARD
 END:VTIMEZONE
-BEGIN:VEVENT
-UID:quin-event-209702@thequinhouse.com
-DTSTAMP:20261117T130000Z
-DTSTART;TZID=America/New_York:20261117T130000
-DTEND;TZID=America/New_York:20261117T150000
-SUMMARY:90 Minutes of Innovation
-LOCATION:The Pub
-DESCRIPTION:Category: ‘Quin Chat\nPrice: Free\nAvailability: 28 spots lef
- t\nStatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/
- events/209702\n\n1:00PM Program\, 2:30PM Networking\nWhat happens when art
- ificial intelligence steps off the screen and into the physical world? Joi
- n The ’Quin for an afternoon exploring how robotics is changing the way 
- we move\, work\, and interact with technology - and what it takes to bring
-  those advances into everyday life.\n\nJohn Werner - venture capitalist\, 
- active member of the MIT community\, and Forbes AI columnist - will lead a
-  conversation with Conor Walsh\, Harvard’s Paul A. Maeder Professor of E
- ngineering and Applied Sciences and founder of the Harvard Biodesign Lab\,
-  and Tom Ryden\, Executive Director of MassRobotics.\n\nWalsh’s work in 
- soft robotics and wearable exosuits is helping people regain mobility and 
- perform physically demanding tasks with less strain. At MassRobotics\, Ryd
- en connects entrepreneurs\, researchers\, investors\, and industry to help
-  emerging robotics companies grow. Together\, they offer complementary per
- spectives on the journey from a promising prototype to a technology that i
- mproves people’s lives.\n\nThe evening will also mark five years of inno
- vation programming at The ’Quin\, with Werner sharing highlights from mo
- re than 50 programs that have brought members into conversation with the p
- eople shaping our future. From the inaugural TEDxBoston in 2021 to today�
- �s explorations of robotics and physical AI\, curiosity remains at the hea
- rt of it all.\n\n*This event is complimentary and reserved for members onl
- y. Complimentary light bites and refreshments will be served. Cancellation
- s made within 24 hours of the event\, or failure to attend\, will result i
- n a $25 charge.
-URL:https://members.thequinhouse.com/events/209702
-CATEGORIES:‘Quin Chat
-END:VEVENT
 END:VCALENDAR
