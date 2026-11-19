@@ -46,25 +46,6 @@ URL:https://members.thequinhouse.com/events/209097
 CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
-UID:quin-event-209705@thequinhouse.com
-DTSTAMP:20261118T180000Z
-DTSTART;TZID=America/New_York:20261118T180000
-DTEND;TZID=America/New_York:20261118T200000
-SUMMARY:Board Game Night 
-LOCATION:The Living Room
-DESCRIPTION:Category: Sports & Games\nPrice: Free\nStatus: Waitlist Only\nE
- vent URL: https://members.thequinhouse.com/events/209705\n\nBring your sha
- rpest wit\, channel your competitive charm\, and roll the dice for an even
- ing of strategy\, luck\, and a touch of mischief. Hosted in The Living Roo
- m\, pick from one of our timeless classics or modern marvels and let the g
- ames begin!\n\n*This event is complimentary and reserved for members\, plu
- s one registered guest.  Food and cocktails from The Living Room menu wil
- l be available for purchase. We kindly ask that all cancellations be made
-  at least 24 hours prior to the start of the event.
-URL:https://members.thequinhouse.com/events/209705
-CATEGORIES:Sports & Games
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-209740@thequinhouse.com
 DTSTAMP:20261119T173000Z
 DTSTART;TZID=America/New_York:20261119T173000
@@ -99,7 +80,7 @@ DTSTAMP:20261119T183000Z
 DTSTART;TZID=America/New_York:20261119T183000
 DTEND;TZID=America/New_York:20261119T203000
 SUMMARY:Member Meet Up: King's Bowling at the Seaport
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 4 spots left
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 5 spots left
  \nStatus: Waitlist Only\nEvent URL: https://members.thequinhouse.com/event
  s/209688\n\nSpare yourself the ordinary evening and join us at King’s Bo
  wling for a Member Meet-Up that’s equal parts pins\, pours\, and playful
@@ -142,7 +123,7 @@ DTSTAMP:20261120T143000Z
 DTSTART;TZID=America/New_York:20261120T143000
 DTEND;TZID=America/New_York:20261120T160000
 SUMMARY:‘Quin Chat: Inside the Exhibition with Alexandre Gallery
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 2 spots left\nSt
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 3 spots left\nSt
  atus: Waitlist Only\nEvent URL: https://members.thequinhouse.com/events/21
  1490\n\nJoin us in The Reading Room for a ’Quin Chat exploring the artis
  ts\, influences\, and connections behind our fall exhibition. Phil Alexand
@@ -186,18 +167,18 @@ DTSTART;TZID=America/New_York:20261123T180000
 DTEND;TZID=America/New_York:20261123T210000
 SUMMARY:Community Table
 LOCATION:Café Q
-DESCRIPTION:Category: Food & Beverage\nPrice: Free\nStatus: Waitlist Only\n
- Event URL: https://members.thequinhouse.com/events/209711\n\nEase into the
-  week around the table with the return of Café Q’s Community Table. Des
- igned for members looking to meet new faces and make new connections\, the
-  evening brings together good food and engaging conversation in a relaxed\
- , convivial setting. Take a seat\, share a meal\, and see where the conver
- sation leads.\n\n*This event is reserved for members only. An advance char
- ge of $24 per member contributes to communal appetizers available upon sea
- ting. Members are responsible for à la carte entrées\, desserts\, and be
- verages\, plus taxes and fees. Cancellations made within 24 hours of the e
- vent\, or failure to attend will be subject to the Café Q's surcharge pol
- icy.
+DESCRIPTION:Category: Food & Beverage\nPrice: Free\nAvailability: 1 spot le
+ ft\nStatus: Waitlist Only\nEvent URL: https://members.thequinhouse.com/eve
+ nts/209711\n\nEase into the week around the table with the return of Café
+  Q’s Community Table. Designed for members looking to meet new faces and
+  make new connections\, the evening brings together good food and engaging
+  conversation in a relaxed\, convivial setting. Take a seat\, share a meal
+ \, and see where the conversation leads.\n\n*This event is reserved for me
+ mbers only. An advance charge of $24 per member contributes to communal ap
+ petizers available upon seating. Members are responsible for à la carte e
+ ntrées\, desserts\, and beverages\, plus taxes and fees. Cancellations ma
+ de within 24 hours of the event\, or failure to attend will be subject to 
+ the Café Q's surcharge policy.
 URL:https://members.thequinhouse.com/events/209711
 CATEGORIES:Food & Beverage
 END:VEVENT
@@ -209,7 +190,7 @@ DTEND;TZID=America/New_York:20261124T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 19 spots left\nStatus: Available\nEvent URL: https://memb
+ e\nAvailability: 18 spots left\nStatus: Available\nEvent URL: https://memb
  ers.thequinhouse.com/events/208959\n\nEase into the week in good company a
  t our weekly Member Mingle\, a relaxed gathering in The Living Room design
  ed to bring members together. Settle in\, enjoy a selection of charcuterie
@@ -430,7 +411,7 @@ UID:quin-event-210997@thequinhouse.com
 DTSTAMP:20261205T120000Z
 DTSTART;TZID=America/New_York:20261205T120000
 DTEND;TZID=America/New_York:20261205T140000
-SUMMARY:Serendipity Brunch with 'Quin Impact Fund
+SUMMARY:Serendipity Brunch
 LOCATION:Lunasol
 DESCRIPTION:Category: ‘Quin Impact Fund\, Food & Beverage\, Member Mixer\
  nPrice: $65.00 per person\nAvailability: 12 spots left\nStatus: Available\
@@ -507,6 +488,30 @@ DESCRIPTION:Category: Member Mixer\nPrice: $100.00 per person\nAvailability
  vice.
 URL:https://members.thequinhouse.com/events/176004
 CATEGORIES:Member Mixer
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-211949@thequinhouse.com
+DTSTAMP:20261208T170000Z
+DTSTART;TZID=America/New_York:20261208T170000
+DTEND;TZID=America/New_York:20261208T183000
+SUMMARY:Member Mingle
+LOCATION:The Living Room
+DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
+ e\nAvailability: 23 spots left\nStatus: Available\nEvent URL: https://memb
+ ers.thequinhouse.com/events/211949\n\nEase into the week in good company a
+ t our weekly Member Mingle\, a relaxed gathering in The Living Room design
+ ed to bring members together. Settle in\, enjoy a selection of charcuterie
+ \, and strike up a conversation among familiar faces and new connections a
+ like.\n\nWhether you are expanding your circle\, exchanging ideas\, or sim
+ ply stopping by for a drink and lively conversation\, Member Mingle offers
+  the perfect opportunity to connect with the community\, enjoy a bite\, an
+ d see where the evening takes you.\n\n*This event is complimentary and res
+ erved for members only. Complimentary light bites will be served\, with be
+ verages available for purchase throughout the evening. We kindly ask that 
+ all cancellations be made at least 24 hours prior to the start of the even
+ t.
+URL:https://members.thequinhouse.com/events/211949
+CATEGORIES:Member Mixer,Survey - Membership Mingle
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-211943@thequinhouse.com
@@ -684,7 +689,7 @@ DTEND;TZID=America/New_York:20270111T220000
 SUMMARY:'Quin Suite: Celtics vs. Rockets
 LOCATION:Offsite - TD Garden
 DESCRIPTION:Category: Sports & Games\nPrice: $475.00 per person\nAvailabili
- ty: 5 spots left\nStatus: Available\nEvent URL: https://members.thequinhou
+ ty: 4 spots left\nStatus: Available\nEvent URL: https://members.thequinhou
  se.com/events/207113\n\nBring your Celtics pride to The ’Quin Suite (#52
  4) at TD Garden as the Green take on the Houston Rockets in regular-season
   action. Gather with fellow members to cheer on the Celtics\, from the ope
