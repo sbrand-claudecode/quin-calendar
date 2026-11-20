@@ -46,54 +46,6 @@ URL:https://members.thequinhouse.com/events/209097
 CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
-UID:quin-event-209740@thequinhouse.com
-DTSTAMP:20261119T173000Z
-DTSTART;TZID=America/New_York:20261119T173000
-DTEND;TZID=America/New_York:20261119T190000
-SUMMARY: Gather to Give: Youth & Education Grant Reception
-DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free\nStatus: Waitlist On
- ly\nEvent URL: https://members.thequinhouse.com/events/209740\n\n5:30PM Re
- ception\, 6:00PM Ceremony\nJoin us for an inspiring evening celebrating th
- e exceptional local recipients of this year’s Youth & Education pillar g
- rants\, extended on behalf of The ‘Quin Impact Fund through member donat
- ions. This event will honor the exceptional organizations that nurture our
-  community’s young minds and inspire the next generation of leaders\, le
- arners\, and creators. Interested in making an impact? Look forward to con
- necting with leaders in the space during the reception to learn more about
-  their philanthropic initiative.\n\nOur esteemed grant recipients include:
- \n\n826 Boston\nAction for Boston Community Development\nBionic Project\nB
- oston CASA\nBoston Debate League\nBoys & Girls Clubs of Dorchester\nCathle
- en Stone Island Outward Bound School\nCristo Rey Boston High School\nFishe
- r College\nHopeWell\nHorizons for Homeless Children\nInquilinos Boricuas e
- n Acción\nJeanne Geiger Crisis Center\nScience Club for Girls\nSummer Sea
- rch Boston\nTeach For America Massachusetts\nThe Upward Project\nUrban Col
- lege of Boston\nYouthConnect\n\n*This event is complimentary and reserved 
- for members only. Complimentary light bites and refreshments will be serve
- d. Cancellations made within 24 hours of the event\, or failure to attend\
- , will result in a $25 charge.
-URL:https://members.thequinhouse.com/events/209740
-CATEGORIES:‘Quin Impact Fund
-END:VEVENT
-BEGIN:VEVENT
-UID:quin-event-209688@thequinhouse.com
-DTSTAMP:20261119T183000Z
-DTSTART;TZID=America/New_York:20261119T183000
-DTEND;TZID=America/New_York:20261119T203000
-SUMMARY:Member Meet Up: King's Bowling at the Seaport
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 14 spots lef
- t\nStatus: Waitlist Only\nEvent URL: https://members.thequinhouse.com/even
- ts/209688\n\nSpare yourself the ordinary evening and join us at King’s B
- owling for a Member Meet-Up that’s equal parts pins\, pours\, and playfu
- l rivalry. Whether you are aiming for strikes or purely here for a good ti
- me\, a night of connection and fun awaits. \n\n*Bowling and shoe rentals f
- or this event are complimentary and reserved for members only. Complimenta
- ry light bites and one drink per member will be offered. Cash bar availabl
- e for the remainder of the evening. Cancellations made within 24 hours of 
- the event\, or failure to attend\, will result in a $25 charge.
-URL:https://members.thequinhouse.com/events/209688
-CATEGORIES:Member Mixer
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-209683@thequinhouse.com
 DTSTAMP:20261119T190000Z
 DTSTART;VALUE=DATE:20261119
@@ -190,7 +142,7 @@ DTEND;TZID=America/New_York:20261124T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 20 spots left\nStatus: Available\nEvent URL: https://memb
+ e\nAvailability: 19 spots left\nStatus: Available\nEvent URL: https://memb
  ers.thequinhouse.com/events/208959\n\nEase into the week in good company a
  t our weekly Member Mingle\, a relaxed gathering in The Living Room design
  ed to bring members together. Settle in\, enjoy a selection of charcuterie
@@ -428,6 +380,29 @@ URL:https://members.thequinhouse.com/events/200238
 CATEGORIES:‘Venture - Travel
 END:VEVENT
 BEGIN:VEVENT
+UID:quin-event-206824@thequinhouse.com
+DTSTAMP:20261203T193000Z
+DTSTART;TZID=America/New_York:20261203T193000
+DTEND;TZID=America/New_York:20261203T203000
+SUMMARY:Holiday Illumination: Commonwealth Avenue Tree Lighting
+LOCATION:The Front Steps
+DESCRIPTION:Category: Holiday\nPrice: Free\nAvailability: 300 spots left\nS
+ tatus: futureSale\nEvent URL: https://members.thequinhouse.com/events/2068
+ 24\n\nJoin us for a festive evening of music and merriment as The 'Quin ce
+ lebrates Back Bay's annual Commonwealth Avenue Tree Lighting together wi
+ th the community. From our front steps\, enjoy complimentary cookies\, hot
+  cocoa\, and a live outdoor performance by members of the Harvard Krokodil
+ oes\, while you gather together with the neighborhood to watch the entire 
+ block illuminate.\n\nWe encourage participating members to contribute to T
+ he 'Quin Impact Fund's annual Wonderfund Toy Drive\, supporting children
+  served by the DCF. Please bring an unwrapped toy from the Wonderfund Amaz
+ on Wishlist to be collected in the Lobby on this evening by a member of Th
+ e 'Quin Impact Fund team.\n\n*This event is complimentary and reserved for
+  members only. Complimentary light bites and refreshments will be served.
+URL:https://members.thequinhouse.com/events/206824
+CATEGORIES:Holiday
+END:VEVENT
+BEGIN:VEVENT
 UID:quin-event-210997@thequinhouse.com
 DTSTAMP:20261205T120000Z
 DTSTART;TZID=America/New_York:20261205T120000
@@ -454,6 +429,28 @@ DESCRIPTION:Category: ‘Quin Impact Fund\, Food & Beverage\, Member Mixer\
  t 72 hours prior to the event.
 URL:https://members.thequinhouse.com/events/210997
 CATEGORIES:‘Quin Impact Fund,Food & Beverage,Member Mixer
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-213344@thequinhouse.com
+DTSTAMP:20261206T183000Z
+DTSTART;TZID=America/New_York:20261206T183000
+DTEND;TZID=America/New_York:20261206T200000
+SUMMARY:Menorah Lighting & Blessing
+LOCATION:The Reading Room
+DESCRIPTION:Category: Holiday\nPrice: Free\nAvailability: 120 spots left\nS
+ tatus: futureSale\nEvent URL: https://members.thequinhouse.com/events/2133
+ 44\n\nCelebrate Hanukkah with an intimate and uplifting gathering in The R
+ eading Room. Rabbi Mayer Zarchi will join members to light the menorah a
+ nd begin the holiday with reflection and warmth. A pianist and vocalist wi
+ ll provide gentle background music throughout the evening\, adding to the 
+ glow of the occasion.\n\nA selection of traditional bites will be offered\
+ , including potato latkes topped with smoked trout roe\, crème fraîche\,
+  and chives\; Honeycrisp apple butter latkes\; and sufganiyot doughnut hol
+ es filled with berry jam. A selection of kosher wines will also be served.
+ \n\n*This event is complimentary and reserved for members\, plus three gue
+ sts. Children ages 6+ are welcome to attend when accompanied by a parent.
+URL:https://members.thequinhouse.com/events/213344
+CATEGORIES:Holiday
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-211944@thequinhouse.com
@@ -574,7 +571,7 @@ DTEND;TZID=America/New_York:20261208T203000
 SUMMARY:Author's Circle Book Club: "All That Life Can Afford" with Emily Ev
  erett 
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 57 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 55 spots left\nS
  tatus: Available\nEvent URL: https://members.thequinhouse.com/events/21334
  2\n\nBookmark the date for an engaging conversation with Emily Everett\, a
  uthor of All That Life Can Afford\, a debut novel exploring ambition\, rei
@@ -658,6 +655,28 @@ DESCRIPTION:Category: Food & Beverage\nPrice: Free\nAvailability: 999999999
  ject to the Café Q's surcharge policy.
 URL:https://members.thequinhouse.com/events/211940
 CATEGORIES:Food & Beverage
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-209696@thequinhouse.com
+DTSTAMP:20261214T193000Z
+DTSTART;TZID=America/New_York:20261214T193000
+DTEND;TZID=America/New_York:20261214T210000
+SUMMARY:Member Mixer: Ice Skating on Frog Pond
+LOCATION:Offsite: The Frog Pond in Boston Common
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 120 spots le
+ ft\nStatus: futureSale\nEvent URL: https://members.thequinhouse.com/events
+ /209696\n\nBundle up and join us for an enchanting evening at the Boston C
+ ommon Frog Pond\, where the entire rink is exclusively reserved for ‘Qui
+ n members. Whether you're gliding effortlessly or just starting out\, come
+  skate under the stars and share in a night of laughter and fun. Lace up y
+ our skates\, bring your holiday cheer\, and let's make unforgettable winte
+ r memories together!\n\n*This event is complimentary and reserved for memb
+ ers and their children age 6+ only. Wristbands will be provided upon entry
+ \, and skating waivers must be signed to participate. Skate rentals are in
+ cluded at no charge\, though members are welcome to bring their own skates
+ . Food and beverages are available for purchase at nearby concessions.
+URL:https://members.thequinhouse.com/events/209696
+CATEGORIES:Member Mixer
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-213348@thequinhouse.com
@@ -777,7 +796,7 @@ DTSTART;TZID=America/New_York:20261218T180000
 DTEND;TZID=America/New_York:20261218T200000
 SUMMARY:Member Mixer: A Velvet Toast
 LOCATION:Scottie's
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 84 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 82 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/2
  09698\n\nCelebrate the season in style at The ‘Quin House\, where an eve
  ning of elegance and indulgence awaits. Don your finest velvet attire and 
@@ -791,6 +810,72 @@ DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 84 spots lef
  event.
 URL:https://members.thequinhouse.com/events/209698
 CATEGORIES:Member Mixer
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-213345@thequinhouse.com
+DTSTAMP:20261219T093000Z
+DTSTART;TZID=America/New_York:20261219T093000
+DTEND;TZID=America/New_York:20261219T103000
+SUMMARY:Kid's Clubhouse: Festive Family Day | Session I
+LOCATION:The Whole 'House
+DESCRIPTION:Category: Holiday\nPrice: Free\nAvailability: 42 spots left\nSt
+ atus: futureSale\nEvent URL: https://members.thequinhouse.com/events/21334
+ 5\n\nCelebrate the sweetness of the holiday season at The ’Quin with our
+  annual Festive Family Day! Gather in Scottie's for gingerbread house dec
+ orating and ornament painting\, led by Wendy Rouillard of Barnaby’s Book
+ s & Toys.\n\nLittle ones can let their imaginations - and the icing - run 
+ wild as they create festive keepsakes and candy-covered houses. A hot coco
+ a bar and cookies in The Terrace will add to the holiday cheer\, making fo
+ r a day of sweet treats\, creativity and time together.\n\n*With the excep
+ tion of brunch\, this event is complimentary and reserved for members\, pl
+ us their children aged 6+. Children may remain in the 'House\, attended by
+  a parent until 4:00PM. Reservations are required for individual events.
+URL:https://members.thequinhouse.com/events/213345
+CATEGORIES:Holiday
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-213346@thequinhouse.com
+DTSTAMP:20261219T113000Z
+DTSTART;TZID=America/New_York:20261219T113000
+DTEND;TZID=America/New_York:20261219T123000
+SUMMARY:Kid's Clubhouse: Festive Family Day | Session II
+LOCATION:The Whole 'House
+DESCRIPTION:Category: Holiday\nPrice: Free\nAvailability: 42 spots left\nSt
+ atus: futureSale\nEvent URL: https://members.thequinhouse.com/events/21334
+ 6\n\nCelebrate the sweetness of the holiday season at The ’Quin with our
+  annual Festive Family Day! Gather in Scottie's for gingerbread house de
+ corating and ornament painting\, led by Wendy Rouillard of Barnaby’s Boo
+ ks & Toys.\n\nLittle ones can let their imaginations - and the icing - run
+  wild as they create festive keepsakes and candy-covered houses. A hot coc
+ oa bar and cookies in The Terrace will add to the holiday cheer\, making f
+ or a day of sweet treats\, creativity and time together.\n\n*With the exce
+ ption of brunch\, this event is complimentary and reserved for members\, p
+ lus their children aged 6+. Children may remain in the 'House\, attended b
+ y a parent until 4:00PM. Reservations are required for individual events.
+URL:https://members.thequinhouse.com/events/213346
+CATEGORIES:Holiday
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-213347@thequinhouse.com
+DTSTAMP:20261219T140000Z
+DTSTART;TZID=America/New_York:20261219T140000
+DTEND;TZID=America/New_York:20261219T150000
+SUMMARY:Kid's Clubhouse: Festive Family Day | Session II
+LOCATION:The Whole 'House
+DESCRIPTION:Category: Holiday\nPrice: Free\nAvailability: 42 spots left\nSt
+ atus: futureSale\nEvent URL: https://members.thequinhouse.com/events/21334
+ 7\n\nCelebrate the sweetness of the holiday season at The ’Quin with our
+  annual Festive Family Day! Gather in Scottie's for gingerbread house de
+ corating and ornament painting\, led by Wendy Rouillard of Barnaby’s Boo
+ ks & Toys.\n\nLittle ones can let their imaginations - and the icing - run
+  wild as they create festive keepsakes and candy-covered houses. A hot coc
+ oa bar and cookies in The Terrace will add to the holiday cheer\, making f
+ or a day of sweet treats\, creativity and time together.\n\n*With the exce
+ ption of brunch\, this event is complimentary and reserved for members\, p
+ lus their children aged 6+. Children may remain in the 'House\, attended b
+ y a parent until 4:00PM. Reservations are required for individual events.
+URL:https://members.thequinhouse.com/events/213347
+CATEGORIES:Holiday
 END:VEVENT
 BEGIN:VEVENT
 UID:quin-event-207110@thequinhouse.com
