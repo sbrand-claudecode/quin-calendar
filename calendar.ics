@@ -46,46 +46,6 @@ URL:https://members.thequinhouse.com/events/209097
 CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
-UID:quin-event-209683@thequinhouse.com
-DTSTAMP:20261119T190000Z
-DTSTART;VALUE=DATE:20261119
-DTEND;VALUE=DATE:20261122
-SUMMARY:Dessert Trolley 
-LOCATION:The Reading Room
-DESCRIPTION:Category: Food & Beverage\nPrice: Free / Included\nStatus: Avai
- lable\nTime: 7 PM – 10 PM\nEvent URL: https://members.thequinhouse.com/e
- vents/209683\n\nEnd the evening with a nightcap in The Reading Room\, wher
- e The ’Quin’s pastry team presents a beautifully curated dessert troll
- ey in celebration of Hispanic Heritage Month—an elegant showcase of belo
- ved sweets and flavors inspired by traditions from across Latin America.\n
- \nDiscover an assortment of indulgent treats\, from silky flan and delicat
- e alfajores to buttery Mexican wedding cookies\, alongside a rotating sele
- ction of confections thoughtfully crafted for the occasion. Familiar flavo
- rs and time-honored favorites come together with The ’Quin’s signature
-  touch\, offering something tempting with every pass of the cart.\n\nWith 
- tableside service and a touch of ceremony\, it’s a sweet celebration of 
- heritage\, tradition\, and the simple pleasure of ending the evening with 
- dessert.
-URL:https://members.thequinhouse.com/events/209683
-CATEGORIES:Food & Beverage
-END:VEVENT
-BEGIN:VEVENT
-UID:quin-event-209742@thequinhouse.com
-DTSTAMP:20261121T153000Z
-DTSTART;TZID=America/New_York:20261121T153000
-DTEND;TZID=America/New_York:20261121T183000
-SUMMARY:Watch Party: Harvard vs Yale
-LOCATION:The Pub
-DESCRIPTION:Category: Sports & Games\nPrice: Free / Included\nStatus: Avail
- able\nEvent URL: https://members.thequinhouse.com/events/209742\n\nCatch e
- very moment of the action on our big screens as you enjoy live sports cove
- rage from the best seats in town. Indulge in The Pub's signature fan favor
- ites paired with a perfect pint\, on tap all night long.\n\nReservations a
- re not required\, however recommended.
-URL:https://members.thequinhouse.com/events/209742
-CATEGORIES:Sports & Games
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-209711@thequinhouse.com
 DTSTAMP:20261123T180000Z
 DTSTART;TZID=America/New_York:20261123T180000
@@ -769,7 +729,7 @@ DTSTART;TZID=America/New_York:20261218T180000
 DTEND;TZID=America/New_York:20261218T200000
 SUMMARY:Member Mixer: A Velvet Toast
 LOCATION:Scottie's
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 66 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 65 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/2
  09698\n\nCelebrate the season in style at The ‘Quin House\, where an eve
  ning of elegance and indulgence awaits. Don your finest velvet attire and 
@@ -891,21 +851,20 @@ DTSTAMP:20261225T143000Z
 DTSTART;TZID=America/New_York:20261225T143000
 DTEND;TZID=America/New_York:20261225T170000
 SUMMARY:'Quin Suite: Celtics vs. Heat - Christmas Day Game
-DESCRIPTION:Category: Sports & Games\nPrice: $475.00 per person\nAvailabili
- ty: 1 spot left\nStatus: Available\nEvent URL: https://members.thequinhous
- e.com/events/207112\n\nMake it a green Christmas from The ’Quin Suite (#
- 524) at TD Garden as the Celtics take on the Miami Heat. Gather with famil
- y\, friends\, and fellow members for a festive afternoon of basketball\, h
- oliday spirit\, and cheering on the Celtics.\n\nAll suite ticket options i
- nclude incredible views of the on-court action\, light gameday bites\, and
-  an assortment of refreshments\, including wine\, beer\, and seltzer. Cons
- ider your Christmas plans a slam dunk.\n\n*A pair of 'Quin suite seats is 
- available for $995 total ($497.50 per ticket). Individual suite tickets ar
- e available for bar stool / standing access only\, offered at a reduced pr
- ice of $475 per ticket. Suite tickets are non-refundable and are non-trans
- ferable. Members may purchase tickets for up to 3 guests and are required 
- to accompany them at all times. The suite is limited to those ages 16+ as 
- a courtesy to fellow members.
+DESCRIPTION:Category: Sports & Games\nPrice: $475.00 per person\nStatus: so
+ ldOut\nEvent URL: https://members.thequinhouse.com/events/207112\n\nMake i
+ t a green Christmas from The ’Quin Suite (#524) at TD Garden as the Celt
+ ics take on the Miami Heat. Gather with family\, friends\, and fellow memb
+ ers for a festive afternoon of basketball\, holiday spirit\, and cheering 
+ on the Celtics.\n\nAll suite ticket options include incredible views of th
+ e on-court action\, light gameday bites\, and an assortment of refreshment
+ s\, including wine\, beer\, and seltzer. Consider your Christmas plans a s
+ lam dunk.\n\n*A pair of 'Quin suite seats is available for $995 total ($49
+ 7.50 per ticket). Individual suite tickets are available for bar stool / s
+ tanding access only\, offered at a reduced price of $475 per ticket. Suite
+  tickets are non-refundable and are non-transferable. Members may purchase
+  tickets for up to 3 guests and are required to accompany them at all time
+ s. The suite is limited to those ages 16+ as a courtesy to fellow members.
 URL:https://members.thequinhouse.com/events/207112
 CATEGORIES:Sports & Games
 END:VEVENT
