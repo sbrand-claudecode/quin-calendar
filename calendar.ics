@@ -53,7 +53,7 @@ DTEND;TZID=America/New_York:20261124T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 12 spots left\nStatus: Available\nEvent URL: https://memb
+ e\nAvailability: 11 spots left\nStatus: Available\nEvent URL: https://memb
  ers.thequinhouse.com/events/208959\n\nEase into the week in good company a
  t our weekly Member Mingle\, a relaxed gathering in The Living Room design
  ed to bring members together. Settle in\, enjoy a selection of charcuterie
@@ -76,16 +76,16 @@ DTSTART;TZID=America/New_York:20261124T180000
 DTEND;TZID=America/New_York:20261124T190000
 SUMMARY:Stand Up Comedy: Paul Mecurio | 6:00PM Show
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 9 spots left\nSt
- atus: Waitlist Only\nEvent URL: https://members.thequinhouse.com/events/20
- 9712\n\nBoston’s best return to the 'House! Improv Asylum comedians are 
- ready to make you laugh through short stand-up sets. Grab a drink from the
-  bar starting at 5:00pm\, then find a seat for the main event - seating is
-  first come\, first serve. \n\nMake it a night with a pre-show burger and
-  a beer from The Pub. Dining walk-ins are welcome!\n\n*This event is compl
- imentary and reserved for members only. Complimentary light bites and refr
- eshments will be served. Cancellations made within 24 hours of the event\,
-  or failure to attend\, will result in a $25 charge.
+DESCRIPTION:Category: The Arts\nPrice: Free\nStatus: Waitlist Only\nEvent U
+ RL: https://members.thequinhouse.com/events/209712\n\nBoston’s best retu
+ rn to the 'House! Improv Asylum comedians are ready to make you laugh thro
+ ugh short stand-up sets. Grab a drink from the bar starting at 5:00pm\, th
+ en find a seat for the main event - seating is first come\, first serve. 
+ \n\nMake it a night with a pre-show burger and a beer from The Pub. Dining
+  walk-ins are welcome!\n\n*This event is complimentary and reserved for me
+ mbers only. Complimentary light bites and refreshments will be served. Can
+ cellations made within 24 hours of the event\, or failure to attend\, will
+  result in a $25 charge.
 URL:https://members.thequinhouse.com/events/209712
 CATEGORIES:The Arts
 END:VEVENT
@@ -96,16 +96,16 @@ DTSTART;TZID=America/New_York:20261124T200000
 DTEND;TZID=America/New_York:20261124T210000
 SUMMARY:Stand Up Comedy: Paul Mecurio | 8:00PM Show
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 11 spots left\nS
- tatus: Waitlist Only\nEvent URL: https://members.thequinhouse.com/events/2
- 09714\n\nBoston’s best return to the 'House! Improv Asylum comedians are
-  ready to make you laugh through short stand-up sets. Grab a drink from th
- e bar starting at 5:00pm\, then find a seat for the main event - seating i
- s first come\, first serve. \n\nMake it a night with a pre-show burger an
- d a beer from The Pub. Dining walk-ins are welcome!\n\n*This event is co
- mplimentary and reserved for members only. Complimentary light bites and r
- efreshments will be served. Cancellations made within 24 hours of the even
- t\, or failure to attend\, will result in a $25 charge.
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 1 spot left\nSta
+ tus: Waitlist Only\nEvent URL: https://members.thequinhouse.com/events/209
+ 714\n\nBoston’s best return to the 'House! Improv Asylum comedians are r
+ eady to make you laugh through short stand-up sets. Grab a drink from the 
+ bar starting at 5:00pm\, then find a seat for the main event - seating is 
+ first come\, first serve. \n\nMake it a night with a pre-show burger and 
+ a beer from The Pub. Dining walk-ins are welcome!\n\n*This event is comp
+ limentary and reserved for members only. Complimentary light bites and ref
+ reshments will be served. Cancellations made within 24 hours of the event\
+ , or failure to attend\, will result in a $25 charge.
 URL:https://members.thequinhouse.com/events/209714
 CATEGORIES:The Arts
 END:VEVENT
@@ -318,7 +318,7 @@ DTSTART;TZID=America/New_York:20261203T193000
 DTEND;TZID=America/New_York:20261203T203000
 SUMMARY:Holiday Illumination: Commonwealth Avenue Tree Lighting
 LOCATION:The Front Steps
-DESCRIPTION:Category: Holiday\nPrice: Free\nAvailability: 84 spots left\nSt
+DESCRIPTION:Category: Holiday\nPrice: Free\nAvailability: 64 spots left\nSt
  atus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/event
  s/206824\n\n7:00PM Hot Cocoa Reception\, 8:00PM Tree Lighting\nJoin us for
   a festive evening of music and merriment as The 'Quin celebrates Back Bay
@@ -574,7 +574,7 @@ DTEND;TZID=America/New_York:20261214T210000
 SUMMARY:Community Table
 LOCATION:Café Q
 DESCRIPTION:Category: Food & Beverage\nPrice: Free\nAvailability: 999999999
- 982 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
+ 981 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
  .com/events/211940\n\nEase into the week around the table with the return 
  of Café Q’s Community Table. Designed for members looking to meet new f
  aces and make new connections\, the evening brings together good food and 
@@ -617,7 +617,7 @@ DTSTART;TZID=America/New_York:20261215T170000
 DTEND;TZID=America/New_York:20261215T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 45 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 44 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/2
  13348\n\nEase into the week in good company at our weekly Member Mingle\, 
  a relaxed gathering in The Living Room designed to bring members together.
@@ -662,7 +662,7 @@ DTSTART;TZID=America/New_York:20261215T200000
 DTEND;TZID=America/New_York:20261215T210000
 SUMMARY:Improv Comedy | Show II 
 LOCATION:Scottie's
-DESCRIPTION:Category: Events\nPrice: Free\nAvailability: 58 spots left\nSta
+DESCRIPTION:Category: Events\nPrice: Free\nAvailability: 52 spots left\nSta
  tus: Available\nEvent URL: https://members.thequinhouse.com/events/213350\
  n\nBoston’s best return to the 'House! Improv comedians are ready to kee
  p you laughing with spontaneous sketches\, quick wit\, and audience-inspir
@@ -728,7 +728,7 @@ DTSTART;TZID=America/New_York:20261218T180000
 DTEND;TZID=America/New_York:20261218T200000
 SUMMARY:Member Mixer: A Velvet Toast
 LOCATION:Scottie's
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 30 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 28 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/2
  09698\n\nCelebrate the season in style at The ‘Quin House\, where an eve
  ning of elegance and indulgence awaits. Don your finest velvet attire and 
