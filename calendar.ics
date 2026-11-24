@@ -46,28 +46,6 @@ URL:https://members.thequinhouse.com/events/209097
 CATEGORIES:Food & Beverage
 END:VEVENT
 BEGIN:VEVENT
-UID:quin-event-209711@thequinhouse.com
-DTSTAMP:20261123T180000Z
-DTSTART;TZID=America/New_York:20261123T180000
-DTEND;TZID=America/New_York:20261123T210000
-SUMMARY:Community Table
-LOCATION:Café Q
-DESCRIPTION:Category: Food & Beverage\nPrice: Free\nAvailability: 3 spots l
- eft\nStatus: Waitlist Only\nEvent URL: https://members.thequinhouse.com/ev
- ents/209711\n\nEase into the week around the table with the return of Caf�
- � Q’s Community Table. Designed for members looking to meet new faces an
- d make new connections\, the evening brings together good food and engagin
- g conversation in a relaxed\, convivial setting. Take a seat\, share a mea
- l\, and see where the conversation leads.\n\n*This event is reserved for m
- embers only. An advance charge of $24 per member contributes to communal a
- ppetizers available upon seating. Members are responsible for à la carte 
- entrées\, desserts\, and beverages\, plus taxes and fees. Cancellations m
- ade within 24 hours of the event\, or failure to attend will be subject to
-  the Café Q's surcharge policy.
-URL:https://members.thequinhouse.com/events/209711
-CATEGORIES:Food & Beverage
-END:VEVENT
-BEGIN:VEVENT
 UID:quin-event-208959@thequinhouse.com
 DTSTAMP:20261124T170000Z
 DTSTART;TZID=America/New_York:20261124T170000
@@ -75,7 +53,7 @@ DTEND;TZID=America/New_York:20261124T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 14 spots left\nStatus: Available\nEvent URL: https://memb
+ e\nAvailability: 12 spots left\nStatus: Available\nEvent URL: https://memb
  ers.thequinhouse.com/events/208959\n\nEase into the week in good company a
  t our weekly Member Mingle\, a relaxed gathering in The Living Room design
  ed to bring members together. Settle in\, enjoy a selection of charcuterie
@@ -98,16 +76,16 @@ DTSTART;TZID=America/New_York:20261124T180000
 DTEND;TZID=America/New_York:20261124T190000
 SUMMARY:Stand Up Comedy: Paul Mecurio | 6:00PM Show
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nStatus: Waitlist Only\nEvent U
- RL: https://members.thequinhouse.com/events/209712\n\nBoston’s best retu
- rn to the 'House! Improv Asylum comedians are ready to make you laugh thro
- ugh short stand-up sets. Grab a drink from the bar starting at 5:00pm\, th
- en find a seat for the main event - seating is first come\, first serve. 
- \n\nMake it a night with a pre-show burger and a beer from The Pub. Dining
-  walk-ins are welcome!\n\n*This event is complimentary and reserved for me
- mbers only. Complimentary light bites and refreshments will be served. Can
- cellations made within 24 hours of the event\, or failure to attend\, will
-  result in a $25 charge.
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 9 spots left\nSt
+ atus: Waitlist Only\nEvent URL: https://members.thequinhouse.com/events/20
+ 9712\n\nBoston’s best return to the 'House! Improv Asylum comedians are 
+ ready to make you laugh through short stand-up sets. Grab a drink from the
+  bar starting at 5:00pm\, then find a seat for the main event - seating is
+  first come\, first serve. \n\nMake it a night with a pre-show burger and
+  a beer from The Pub. Dining walk-ins are welcome!\n\n*This event is compl
+ imentary and reserved for members only. Complimentary light bites and refr
+ eshments will be served. Cancellations made within 24 hours of the event\,
+  or failure to attend\, will result in a $25 charge.
 URL:https://members.thequinhouse.com/events/209712
 CATEGORIES:The Arts
 END:VEVENT
@@ -118,16 +96,16 @@ DTSTART;TZID=America/New_York:20261124T200000
 DTEND;TZID=America/New_York:20261124T210000
 SUMMARY:Stand Up Comedy: Paul Mecurio | 8:00PM Show
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nStatus: Waitlist Only\nEvent U
- RL: https://members.thequinhouse.com/events/209714\n\nBoston’s best retu
- rn to the 'House! Improv Asylum comedians are ready to make you laugh thro
- ugh short stand-up sets. Grab a drink from the bar starting at 5:00pm\, th
- en find a seat for the main event - seating is first come\, first serve. 
- \n\nMake it a night with a pre-show burger and a beer from The Pub. Dini
- ng walk-ins are welcome!\n\n*This event is complimentary and reserved for 
- members only. Complimentary light bites and refreshments will be served. C
- ancellations made within 24 hours of the event\, or failure to attend\, wi
- ll result in a $25 charge.
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 11 spots left\nS
+ tatus: Waitlist Only\nEvent URL: https://members.thequinhouse.com/events/2
+ 09714\n\nBoston’s best return to the 'House! Improv Asylum comedians are
+  ready to make you laugh through short stand-up sets. Grab a drink from th
+ e bar starting at 5:00pm\, then find a seat for the main event - seating i
+ s first come\, first serve. \n\nMake it a night with a pre-show burger an
+ d a beer from The Pub. Dining walk-ins are welcome!\n\n*This event is co
+ mplimentary and reserved for members only. Complimentary light bites and r
+ efreshments will be served. Cancellations made within 24 hours of the even
+ t\, or failure to attend\, will result in a $25 charge.
 URL:https://members.thequinhouse.com/events/209714
 CATEGORIES:The Arts
 END:VEVENT
@@ -150,6 +128,27 @@ DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free / Included\nStatus:
   in the Lobby. Thank you for helping make this season brighter by giving b
  ack to our community!
 URL:https://members.thequinhouse.com/events/213341
+CATEGORIES:‘Quin Impact Fund
+END:VEVENT
+BEGIN:VEVENT
+UID:quin-event-211065@thequinhouse.com
+DTSTAMP:20261201T000000Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Giving Tuesday
+DESCRIPTION:Category: ‘Quin Impact Fund\nPrice: Free / Included\nStatus: 
+ Available\nTime: 12 AM – 11:55 PM\nEvent URL: https://members.thequinhou
+ se.com/events/211065\n\nThe heart of the 'House. The good we can do togeth
+ er.\n\nAs we reflect on five years of The ’Quin\, we are grateful for th
+ e people who give this 'House its heart. Your generosity\, including the s
+ upport surrounding our 5th Anniversary ’House Celebration\, helps carry 
+ that spirit into the wider community.\n\nThis Giving Tuesday\, please cons
+ ider a gift to The ’Quin Impact Fund to support our nonprofit partners i
+ n addressing some of Greater Boston’s most pressing needs. Thank you for
+  all you have already made possible and for considering what we can do tog
+ ether next.\n\nYour generosity goes twice as far. Gifts are matched dolla
+ r-for-dollar\, year-round\, up to $1 million.\n\nClick here to donate.
+URL:https://members.thequinhouse.com/events/211065
 CATEGORIES:‘Quin Impact Fund
 END:VEVENT
 BEGIN:VEVENT
@@ -277,38 +276,38 @@ DTEND;VALUE=DATE:20261209
 SUMMARY:'Venture: European Holiday Markets
 LOCATION:Offsite: Strasbourg\, Nuremberg\, Vienna\, and Munich
 DESCRIPTION:Category: ‘Venture - Travel\nPrice: $10150.00 per person\nAva
- ilability: 1 spot left\nStatus: Available\nTime: 3 PM – 12 PM\nEvent URL
- : https://members.thequinhouse.com/events/200238\n\nThis December\, trade 
- the usual holiday routine for a ‘Venture through the heart of Europe dur
- ing its most magical season. Wander Strasbourg’s storybook streets\, exp
- erience Nuremberg’s legendary Christkindlesmarkt\, revel in the grandeur
-  of Vienna\, and savor a final taste of Bavaria in Munich. With exceptiona
- l dining\, luxury accommodations\, private transportation\, and time to di
- scover each destination at leisure\, every detail has been thoughtfully co
- nsidered. \n\nBegin in the heart of Alsace\, with two days to wander Stra
- sbourg’s celebrated holiday markets\, half-timbered streets\, artisan st
- alls\, and historic landmarks\, gathering over Alsatian fare in centuries-
- old settings along the way. From there\, journey east to Nuremberg and the
-  legendary Christkindlesmarkt\, one of the world’s oldest holiday market
- s\, with time to explore the medieval Old Town\, Imperial Castle\, and sta
- lls beneath the Frauenkirche before an evening of Franconian specialties.\
- n\nThe journey continues to Vienna\, where imperial landmarks\, elegant bo
- ulevards\, and enchanting holiday markets set the scene for an afternoon i
- n one of Europe’s grandest capitals. Finally\, Bavaria provides a fittin
- g finale in Munich. Wander from Marienplatz to the Viktualienmarkt\, disco
- ver neighborhood markets and local boutiques\, and savor one last taste of
-  the season before raising a glass together over a farewell dinner overloo
- king the National Theatre. An extraordinary journey through the traditions
- \, flavors\, and unmistakable magic of the European holiday season awaits.
- \n\nSingle Occupancy | $6\,950\n\nDouble Occupancy | $10\,150\n\n*Reservat
- ions are non-refundable and non-transferable in order to guarantee accomm
- odations during the high season. Payment is due in full at the time of boo
- king. To ensure the best possible experience for all attendees\, we kindl
- y ask that members inform us in advance of any physical limitations\, mobi
- lity considerations\, or accessibility needs we should be aware of. All me
- mbers will also be asked to sign The 'Quin's standard liability agreement 
- in advance of travel and minimum interest must be met to ensure the trip w
- ill proceed as planned.
+ ilability: 1 spot left\nStatus: Waitlist Only\nTime: 3 PM – 12 PM\nEvent
+  URL: https://members.thequinhouse.com/events/200238\n\nThis December\, tr
+ ade the usual holiday routine for a ‘Venture through the heart of Europe
+  during its most magical season. Wander Strasbourg’s storybook streets\,
+  experience Nuremberg’s legendary Christkindlesmarkt\, revel in the gran
+ deur of Vienna\, and savor a final taste of Bavaria in Munich. With except
+ ional dining\, luxury accommodations\, private transportation\, and time t
+ o discover each destination at leisure\, every detail has been thoughtfull
+ y considered. \n\nBegin in the heart of Alsace\, with two days to wander 
+ Strasbourg’s celebrated holiday markets\, half-timbered streets\, artisa
+ n stalls\, and historic landmarks\, gathering over Alsatian fare in centur
+ ies-old settings along the way. From there\, journey east to Nuremberg and
+  the legendary Christkindlesmarkt\, one of the world’s oldest holiday ma
+ rkets\, with time to explore the medieval Old Town\, Imperial Castle\, and
+  stalls beneath the Frauenkirche before an evening of Franconian specialti
+ es.\n\nThe journey continues to Vienna\, where imperial landmarks\, elegan
+ t boulevards\, and enchanting holiday markets set the scene for an afterno
+ on in one of Europe’s grandest capitals. Finally\, Bavaria provides a fi
+ tting finale in Munich. Wander from Marienplatz to the Viktualienmarkt\, d
+ iscover neighborhood markets and local boutiques\, and savor one last tast
+ e of the season before raising a glass together over a farewell dinner ove
+ rlooking the National Theatre. An extraordinary journey through the tradit
+ ions\, flavors\, and unmistakable magic of the European holiday season awa
+ its.\n\nSingle Occupancy | $6\,950\n\nDouble Occupancy | $10\,150\n\n*Rese
+ rvations are non-refundable and non-transferable in order to guarantee ac
+ commodations during the high season. Payment is due in full at the time of
+  booking. To ensure the best possible experience for all attendees\, we k
+ indly ask that members inform us in advance of any physical limitations\, 
+ mobility considerations\, or accessibility needs we should be aware of. Al
+ l members will also be asked to sign The 'Quin's standard liability agreem
+ ent in advance of travel and minimum interest must be met to ensure the tr
+ ip will proceed as planned.
 URL:https://members.thequinhouse.com/events/200238
 CATEGORIES:‘Venture - Travel
 END:VEVENT
@@ -319,20 +318,20 @@ DTSTART;TZID=America/New_York:20261203T193000
 DTEND;TZID=America/New_York:20261203T203000
 SUMMARY:Holiday Illumination: Commonwealth Avenue Tree Lighting
 LOCATION:The Front Steps
-DESCRIPTION:Category: Holiday\nPrice: Free\nAvailability: 150 spots left\nS
- tatus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/even
- ts/206824\n\nJoin us for a festive evening of music and merriment as The '
- Quin celebrates Back Bay's annual Commonwealth Avenue Tree Lighting toge
- ther with the community. From our front steps\, enjoy complimentary cookie
- s\, hot cocoa\, and a live outdoor performance by members of the Harvard K
- rokodiloes\, while you gather together with the neighborhood to watch the 
- entire block illuminate.\n\nWe encourage participating members to contribu
- te to The 'Quin Impact Fund's annual Wonderfund Toy Drive\, supporting c
- hildren served by the DCF. Please bring an unwrapped toy from the Wonderfu
- nd Amazon Wishlist to be collected in the Lobby on this evening by a membe
- r of The 'Quin Impact Fund team.\n\n*This event is complimentary and reser
- ved for members only. Complimentary light bites and refreshments will be s
- erved.
+DESCRIPTION:Category: Holiday\nPrice: Free\nAvailability: 84 spots left\nSt
+ atus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/event
+ s/206824\n\n7:00PM Hot Cocoa Reception\, 8:00PM Tree Lighting\nJoin us for
+  a festive evening of music and merriment as The 'Quin celebrates Back Bay
+ 's annual Commonwealth Avenue Tree Lighting together with the community.
+  From our front steps\, enjoy complimentary cookies\, hot cocoa\, and a li
+ ve outdoor performance by members of the Harvard Krokodiloes\, while you g
+ ather together with the neighborhood to watch the entire block illuminate.
+ \n\nWe encourage participating members to contribute to The 'Quin Impact F
+ und's annual Wonderfund Toy Drive\, supporting children served by the DC
+ F. Please bring an unwrapped toy from the Wonderfund Amazon Wishlist to be
+  collected in the Lobby on this evening by a member of The 'Quin Impact Fu
+ nd team.\n\n*This event is complimentary and reserved for members only. Co
+ mplimentary light bites and refreshments will be served.
 URL:https://members.thequinhouse.com/events/206824
 CATEGORIES:Holiday
 END:VEVENT
@@ -371,18 +370,18 @@ DTSTART;TZID=America/New_York:20261206T183000
 DTEND;TZID=America/New_York:20261206T200000
 SUMMARY:Menorah Lighting & Blessing
 LOCATION:The Reading Room
-DESCRIPTION:Category: Holiday\nPrice: Free\nAvailability: 27 spots left\nSt
- atus: Available\nEvent URL: https://members.thequinhouse.com/events/213344
- \n\nCelebrate Hanukkah with an intimate and uplifting gathering in The Rea
- ding Room. Rabbi Mayer Zarchi will join members to light the menorah and
-  begin the holiday with reflection and warmth. A pianist and vocalist will
-  provide gentle background music throughout the evening\, adding to the gl
- ow of the occasion.\n\nA selection of traditional bites will be offered\, 
- including potato latkes topped with smoked trout roe\, crème fraîche\, a
- nd chives\; Honeycrisp apple butter latkes\; and sufganiyot doughnut holes
-  filled with berry jam. A selection of kosher wines will also be served.\n
- \n*This event is complimentary and reserved for members\, plus three guest
- s. Children ages 6+ are welcome to attend when accompanied by a parent.
+DESCRIPTION:Category: Holiday\nPrice: Free\nStatus: Waitlist Only\nEvent UR
+ L: https://members.thequinhouse.com/events/213344\n\nCelebrate Hanukkah wi
+ th an intimate and uplifting gathering in The Reading Room. Rabbi Mayer 
+ Zarchi will join members to light the menorah and begin the holiday with r
+ eflection and warmth. A pianist and vocalist will provide gentle backgroun
+ d music throughout the evening\, adding to the glow of the occasion.\n\nA 
+ selection of traditional bites will be offered\, including potato latkes t
+ opped with smoked trout roe\, crème fraîche\, and chives\; Honeycrisp ap
+ ple butter latkes\; and sufganiyot doughnut holes filled with berry jam. A
+  selection of kosher wines will also be served.\n\n*This event is complime
+ ntary and reserved for members\, plus three guests. Children ages 6+ are w
+ elcome to attend when accompanied by a parent.
 URL:https://members.thequinhouse.com/events/213344
 CATEGORIES:Holiday
 END:VEVENT
@@ -398,21 +397,21 @@ DESCRIPTION:Category: The Arts\nPrice: Free\nStatus: Waitlist Only\nEvent U
  :30PM Discussion\n\nSome of the most important conversations are the ones 
  we hesitate to have. Join Harvard Business School faculty member\, Wingspa
  n Legacy Partners founder\, and author Christina Wing for a thoughtful con
- versation with The ’Quin House Co-Founder Sandy Edgerley\, exploring Win
- g’s latest book\, Unspeakable: The Taboo Topics We Avoid and How to Talk
-  About Them. From money and succession to failure\, retirement\, and famil
- y dynamics\, Wing examines why certain subjects feel off-limits\, and how 
- avoiding them can quietly undermine trust\, relationships\, and the decisi
- ons that shape our lives.\n\nDrawing on decades of experience across class
- rooms\, boardrooms\, and family enterprises\, Wing will share stories and 
- practical tools for approaching sensitive conversations with clarity\, com
- passion\, and respect. In dialogue with Sandy Edgerley\, she will explore 
- what becomes possible when we move beyond small talk\, offering members fr
- esh perspectives on navigating difficult discussions and building stronger
- \, more honest connections at work and at home.\n\n*This event is complime
- ntary and reserved for members only. Complimentary light bites and refresh
- ments will be served. Cancellations made within 24 hours of the event\, or
-  failure to attend\, will result in a $25 charge.
+ versation with The ’Quin House Co-Founder Sandy Edgerley\, exploring Wi
+ ng’s latest book\, Unspeakable: The Taboo Topics We Avoid and How to Tal
+ k About Them. From money and succession to failure\, retirement\, and fam
+ ily dynamics\, Wing examines why certain subjects feel off-limits\, and ho
+ w avoiding them can quietly undermine trust\, relationships\, and the deci
+ sions that shape our lives.\n\nDrawing on decades of experience across cla
+ ssrooms\, boardrooms\, and family enterprises\, Wing will share stories an
+ d practical tools for approaching sensitive conversations with clarity\, c
+ ompassion\, and respect. In dialogue with Sandy Edgerley\, she will explor
+ e what becomes possible when we move beyond small talk\, offering members 
+ fresh perspectives on navigating difficult discussions and building strong
+ er\, more honest connections at work and at home.\n\n*This event is compli
+ mentary and reserved for members only. Complimentary light bites and refre
+ shments will be served. Cancellations made within 24 hours of the event\, 
+ or failure to attend\, will result in a $25 charge.
 URL:https://members.thequinhouse.com/events/211944
 CATEGORIES:The Arts
 END:VEVENT
@@ -424,20 +423,20 @@ DTEND;TZID=America/New_York:20261207T210000
 SUMMARY:Serendipity Dinner 
 LOCATION:The Muse
 DESCRIPTION:Category: Member Mixer\nPrice: $100.00 per person\nAvailability
- : 10 spots left\nStatus: Available\nEvent URL: https://members.thequinhous
- e.com/events/176004\n\nJoin The ’Quin House Director of Membership\, Lis
- a Flores\, for an intimate evening centered around thoughtful conversation
- \, new connections\, and exceptional dining. Over a beautifully curated th
- ree-course dinner with expertly paired wines\, members will be invited to 
- engage in guided conversation designed to spark meaningful exchanges and b
- ring new perspectives to the table.\n\nSettle in\, share stories\, and get
-  to know fellow members beyond the everyday\, all while enjoying an evenin
- g where great food\, engaging dialogue\, and good company come together.\n
- \n*Tickets are $100 per person\, plus tax\, and are reserved for members o
- nly. Cancellations within 72 hours of the event\, or failure to attend\, w
- ill be charged in full. Please inform us of any dietary needs or restricti
- ons by emailing happenings@thequin.com at least 72 hours before dinner ser
- vice.
+ : 9 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
+ .com/events/176004\n\nJoin The ’Quin House Director of Membership\, Lisa
+  Flores\, for an intimate evening centered around thoughtful conversation\
+ , new connections\, and exceptional dining. Over a beautifully curated thr
+ ee-course dinner with expertly paired wines\, members will be invited to e
+ ngage in guided conversation designed to spark meaningful exchanges and br
+ ing new perspectives to the table.\n\nSettle in\, share stories\, and get 
+ to know fellow members beyond the everyday\, all while enjoying an evening
+  where great food\, engaging dialogue\, and good company come together.\n\
+ n*Tickets are $100 per person\, plus tax\, and are reserved for members on
+ ly. Cancellations within 72 hours of the event\, or failure to attend\, wi
+ ll be charged in full. Please inform us of any dietary needs or restrictio
+ ns by emailing happenings@thequin.com at least 72 hours before dinner serv
+ ice.
 URL:https://members.thequinhouse.com/events/176004
 CATEGORIES:Member Mixer
 END:VEVENT
@@ -449,7 +448,7 @@ DTEND;TZID=America/New_York:20261208T183000
 SUMMARY:Member Mingle
 LOCATION:The Living Room
 DESCRIPTION:Category: Member Mixer\, Survey - Membership Mingle\nPrice: Fre
- e\nAvailability: 15 spots left\nStatus: Available\nEvent URL: https://memb
+ e\nAvailability: 14 spots left\nStatus: Available\nEvent URL: https://memb
  ers.thequinhouse.com/events/211949\n\nEase into the week in good company a
  t our weekly Member Mingle\, a relaxed gathering in The Living Room design
  ed to bring members together. Settle in\, enjoy a selection of charcuterie
@@ -504,7 +503,7 @@ DTEND;TZID=America/New_York:20261208T203000
 SUMMARY:Author's Circle Book Club: "All That Life Can Afford" with Emily Ev
  erett 
 LOCATION:Scottie's
-DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 26 spots left\nS
+DESCRIPTION:Category: The Arts\nPrice: Free\nAvailability: 20 spots left\nS
  tatus: Available\nEvent URL: https://members.thequinhouse.com/events/21334
  2\n\nBookmark the date for an engaging conversation with Emily Everett\, a
  uthor of All That Life Can Afford\, a debut novel exploring ambition\, rei
@@ -575,7 +574,7 @@ DTEND;TZID=America/New_York:20261214T210000
 SUMMARY:Community Table
 LOCATION:Café Q
 DESCRIPTION:Category: Food & Beverage\nPrice: Free\nAvailability: 999999999
- 985 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
+ 982 spots left\nStatus: Available\nEvent URL: https://members.thequinhouse
  .com/events/211940\n\nEase into the week around the table with the return 
  of Café Q’s Community Table. Designed for members looking to meet new f
  aces and make new connections\, the evening brings together good food and 
@@ -596,18 +595,18 @@ DTSTART;TZID=America/New_York:20261214T193000
 DTEND;TZID=America/New_York:20261214T210000
 SUMMARY:Member Mixer: Ice Skating on Frog Pond
 LOCATION:Offsite: The Frog Pond in Boston Common
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 28 spots lef
- t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/2
- 09696\n\nBundle up and join us for an enchanting evening at the Boston Com
- mon Frog Pond\, where the entire rink is exclusively reserved for ‘Quin 
- members. Whether you're gliding effortlessly or just starting out\, come s
- kate under the stars and share in a night of laughter and fun. Lace up you
- r skates\, bring your holiday cheer\, and let's make unforgettable winter 
- memories together!\n\n*This event is complimentary and reserved for member
- s and their children age 6+ only. Wristbands will be provided upon entry\,
-  and skating waivers must be signed to participate. Skate rentals are incl
- uded at no charge\, though members are welcome to bring their own skates. 
- Food and beverages are available for purchase at nearby concessions.
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nStatus: Waitlist Only\nEve
+ nt URL: https://members.thequinhouse.com/events/209696\n\nBundle up and jo
+ in us for an enchanting evening at the Boston Common Frog Pond\, where the
+  entire rink is exclusively reserved for ‘Quin members. Whether you're g
+ liding effortlessly or just starting out\, come skate under the stars and 
+ share in a night of laughter and fun. Lace up your skates\, bring your hol
+ iday cheer\, and let's make unforgettable winter memories together!\n\n*Th
+ is event is complimentary and reserved for members and their children age 
+ 6+ only. Wristbands will be provided upon entry\, and skating waivers must
+  be signed to participate. Skate rentals are included at no charge\, thoug
+ h members are welcome to bring their own skates. Food and beverages are av
+ ailable for purchase at nearby concessions.
 URL:https://members.thequinhouse.com/events/209696
 CATEGORIES:Member Mixer
 END:VEVENT
@@ -641,7 +640,7 @@ DTSTART;TZID=America/New_York:20261215T180000
 DTEND;TZID=America/New_York:20261215T190000
 SUMMARY:Improv Comedy | Show I
 LOCATION:Scottie's
-DESCRIPTION:Category: Events\nPrice: Free\nAvailability: 58 spots left\nSta
+DESCRIPTION:Category: Events\nPrice: Free\nAvailability: 49 spots left\nSta
  tus: Available\nEvent URL: https://members.thequinhouse.com/events/213349\
  n\nBoston’s best return to the 'House! Improv comedians are ready to kee
  p you laughing with spontaneous sketches\, quick wit\, and audience-inspir
@@ -663,7 +662,7 @@ DTSTART;TZID=America/New_York:20261215T200000
 DTEND;TZID=America/New_York:20261215T210000
 SUMMARY:Improv Comedy | Show II 
 LOCATION:Scottie's
-DESCRIPTION:Category: Events\nPrice: Free\nAvailability: 63 spots left\nSta
+DESCRIPTION:Category: Events\nPrice: Free\nAvailability: 58 spots left\nSta
  tus: Available\nEvent URL: https://members.thequinhouse.com/events/213350\
  n\nBoston’s best return to the 'House! Improv comedians are ready to kee
  p you laughing with spontaneous sketches\, quick wit\, and audience-inspir
@@ -729,7 +728,7 @@ DTSTART;TZID=America/New_York:20261218T180000
 DTEND;TZID=America/New_York:20261218T200000
 SUMMARY:Member Mixer: A Velvet Toast
 LOCATION:Scottie's
-DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 38 spots lef
+DESCRIPTION:Category: Member Mixer\nPrice: Free\nAvailability: 30 spots lef
  t\nStatus: Available\nEvent URL: https://members.thequinhouse.com/events/2
  09698\n\nCelebrate the season in style at The ‘Quin House\, where an eve
  ning of elegance and indulgence awaits. Don your finest velvet attire and 
