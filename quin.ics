@@ -25,12 +25,12 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:quin-event-206824@thequinhouse.com
-DTSTAMP:20261203T193000Z
-DTSTART;TZID=America/New_York:20261203T193000
-DTEND;TZID=America/New_York:20261203T203000
+DTSTAMP:20261203T190000Z
+DTSTART;TZID=America/New_York:20261203T190000
+DTEND;TZID=America/New_York:20261203T210000
 SUMMARY:Holiday Illumination: Commonwealth Avenue Tree Lighting
 LOCATION:The Front Steps
-DESCRIPTION:Category: Holiday\nPrice: Free\nAvailability: 64 spots left\nSt
+DESCRIPTION:Category: Holiday\nPrice: Free\nAvailability: 56 spots left\nSt
  atus: You are Confirmed\nEvent URL: https://members.thequinhouse.com/event
  s/206824\n\n7:00PM Hot Cocoa Reception\, 8:00PM Tree Lighting\nJoin us for
   a festive evening of music and merriment as The 'Quin celebrates Back Bay
